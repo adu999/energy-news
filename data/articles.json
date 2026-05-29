@@ -1,0 +1,122 @@
+{
+  "abc001": {
+    "id": "abc001",
+    "title_en": "Global solar capacity surpasses 2 terawatts milestone",
+    "title_zh": "全球太阳能装机容量突破2太瓦里程碑",
+    "url": "https://www.pv-tech.org/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-05-29T08:30:00+08:00",
+    "pub_date": "05-29",
+    "pub_time": "08:30",
+    "pub_full": "2026-05-29 08:30"
+  },
+  "abc002": {
+    "id": "abc002",
+    "title_en": "Offshore wind costs fall 15% in latest UK auction results",
+    "title_zh": "英国最新拍卖结果显示海上风电成本下降15%",
+    "url": "https://www.offshorewind.biz/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-05-29T07:00:00+08:00",
+    "pub_date": "05-29",
+    "pub_time": "07:00",
+    "pub_full": "2026-05-29 07:00"
+  },
+  "abc003": {
+    "id": "abc003",
+    "title_en": "Tesla Megapack orders surge as utilities plan grid-scale storage",
+    "title_zh": "特斯拉Megapack订单激增，公用事业公司规划电网级储能",
+    "url": "https://electrek.co/",
+    "source": "Electrek",
+    "category": "储能",
+    "pub_ts": "2026-05-29T06:15:00+08:00",
+    "pub_date": "05-29",
+    "pub_time": "06:15",
+    "pub_full": "2026-05-29 06:15"
+  },
+  "abc004": {
+    "id": "abc004",
+    "title_en": "IEA warns natural gas demand will peak before 2030",
+    "title_zh": "国际能源署警告天然气需求将在2030年前达峰",
+    "url": "https://www.iea.org/",
+    "source": "IEA News",
+    "category": "政策",
+    "pub_ts": "2026-05-29T05:00:00+08:00",
+    "pub_date": "05-29",
+    "pub_time": "05:00",
+    "pub_full": "2026-05-29 05:00"
+  },
+  "abc005": {
+    "id": "abc005",
+    "title_en": "Green hydrogen electrolyzer costs drop 40% over five years",
+    "title_zh": "绿色氢气电解槽成本五年内下降40%",
+    "url": "https://www.hydrogeninsight.com/",
+    "source": "Hydrogen Insight",
+    "category": "氢能",
+    "pub_ts": "2026-05-29T04:30:00+08:00",
+    "pub_date": "05-29",
+    "pub_time": "04:30",
+    "pub_full": "2026-05-29 04:30"
+  },
+  "abc006": {
+    "id": "abc006",
+    "title_en": "EV sales hit record 18 million units in 2025 globally",
+    "title_zh": "2025年全球电动汽车销量创纪录达1800万辆",
+    "url": "https://insideevs.com/",
+    "source": "InsideEVs",
+    "category": "EV",
+    "pub_ts": "2026-05-29T03:45:00+08:00",
+    "pub_date": "05-29",
+    "pub_time": "03:45",
+    "pub_full": "2026-05-29 03:45"
+  },
+  "abc007": {
+    "id": "abc007",
+    "title_en": "OPEC+ extends production cuts through end of 2026",
+    "title_zh": "欧佩克+将减产协议延长至2026年底",
+    "url": "https://oilprice.com/",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-05-28T22:00:00+08:00",
+    "pub_date": "05-28",
+    "pub_time": "22:00",
+    "pub_full": "2026-05-28 22:00"
+  },
+  "abc008": {
+    "id": "abc008",
+    "title_en": "France approves construction of six new nuclear reactors",
+    "title_zh": "法国批准建造六座新核电站",
+    "url": "https://www.world-nuclear-news.org/",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-05-28T20:00:00+08:00",
+    "pub_date": "05-28",
+    "pub_time": "20:00",
+    "pub_full": "2026-05-28 20:00"
+  },
+  "abc009": {
+    "id": "abc009",
+    "title_en": "US grid operators call for $50 billion in transmission upgrades",
+    "title_zh": "美国电网运营商呼吁投入500亿美元升级输电基础设施",
+    "url": "https://www.utilitydive.com/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-05-28T18:30:00+08:00",
+    "pub_date": "05-28",
+    "pub_time": "18:30",
+    "pub_full": "2026-05-28 18:30"
+  },
+  "abc010": {
+    "id": "abc010",
+    "title_en": "Reuters: Global clean energy investment tops $1.8 trillion in 2025",
+    "title_zh": "路透社：2025年全球清洁能源投资突破1.8万亿美元",
+    "url": "https://www.reuters.com/",
+    "source": "Reuters Energy",
+    "category": "综合",
+    "pub_ts": "2026-05-28T16:00:00+08:00",
+    "pub_date": "05-28",
+    "pub_time": "16:00",
+    "pub_full": "2026-05-28 16:00"
+  }
+}
