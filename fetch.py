@@ -12,12 +12,13 @@ import os
 import hashlib
 import time
 import re
+import random
+import string
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 import feedparser
 import httpx
-from openai import OpenAI  # DeepSeek 兼容 OpenAI SDK
 
 # ── 配置 ──────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent
@@ -27,9 +28,12 @@ DATA_DIR.mkdir(exist_ok=True)
 ARTICLES_FILE = DATA_DIR / "articles.json"
 SOURCES_FILE = BASE_DIR / "sources.json"
 
-# DeepSeek API（从环境变量读取，GitHub Secret 注入）
+# 翻译服务配置（优先百度免费翻译，其次 DeepSeek）
+BAIDU_APP_ID = os.environ.get("BAIDU_APP_ID", "")
+BAIDU_SECRET_KEY = os.environ.get("BAIDU_SECRET_KEY", "")
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
-TRANSLATE_ENABLED = bool(DEEPSEEK_API_KEY)
+
+TRANSLATE_ENABLED = bool(BAIDU_APP_ID and BAIDU_SECRET_KEY) or bool(DEEPSEEK_API_KEY)
 
 # 保留最新文章数量
 MAX_ARTICLES = 500
@@ -68,22 +72,44 @@ def load_sources() -> list:
         return json.load(f)
 
 # ── 翻译 ──────────────────────────────────────────────
-def translate_batch(titles: list[str]) -> list[str]:
-    """调用 DeepSeek 批量翻译标题列表为中文"""
-    if not TRANSLATE_ENABLED or not titles:
-        return titles
+def translate_baidu(titles: list[str]) -> list[str]:
+    """百度翻译 API（免费 200万字符/月）"""
+    url = "https://fanyi-api.baidu.com/api/trans/vip/translate"
+    q = "\n".join(titles)
+    salt = "".join(random.choices(string.digits, k=8))
+    sign = hashlib.md5(f"{BAIDU_APP_ID}{q}{salt}{BAIDU_SECRET_KEY}".encode()).hexdigest()
 
-    client = OpenAI(
-        api_key=DEEPSEEK_API_KEY,
-        base_url="https://api.deepseek.com/v1",
-    )
+    params = {
+        "q": q,
+        "from": "en",
+        "to": "zh",
+        "appid": BAIDU_APP_ID,
+        "salt": salt,
+        "sign": sign,
+    }
+    try:
+        resp = httpx.get(url, params=params, timeout=30)
+        data = resp.json()
+        if "trans_result" in data:
+            results = data["trans_result"]
+            return [r["dst"].strip() for r in results]
+        elif "error_code" in data:
+            print(f"[百度翻译错误] {data['error_code']}: {data.get('error_msg')}")
+    except Exception as e:
+        print(f"[百度翻译请求失败] {e}")
+    return titles  # 失败回退
+
+
+def translate_deepseek(titles: list[str]) -> list[str]:
+    """DeepSeek 翻译（备用付费方案）"""
+    from openai import OpenAI
+    client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com/v1")
 
     numbered = "\n".join(f"{i+1}. {t}" for i, t in enumerate(titles))
     prompt = (
         "请将以下英文新闻标题翻译为简洁的中文，保持专业术语准确，"
         "每行一个，保留原编号，不要额外解释。\n\n" + numbered
     )
-
     try:
         resp = client.chat.completions.create(
             model="deepseek-chat",
@@ -96,9 +122,24 @@ def translate_batch(titles: list[str]) -> list[str]:
         if len(lines) == len(titles):
             return lines
     except Exception as e:
-        print(f"[翻译失败] {e}")
+        print(f"[DeepSeek 翻译失败] {e}")
+    return titles
 
-    return titles  # 翻译失败回退原文
+
+def translate_batch(titles: list[str]) -> list[str]:
+    """优先百度翻译（免费），其次 DeepSeek"""
+    if not TRANSLATE_ENABLED or not titles:
+        return titles
+
+    # 优先百度免费翻译
+    if BAIDU_APP_ID and BAIDU_SECRET_KEY:
+        return translate_baidu(titles)
+
+    # 备用 DeepSeek
+    if DEEPSEEK_API_KEY:
+        return translate_deepseek(titles)
+
+    return titles
 
 # ── 抓取 ──────────────────────────────────────────────
 def fetch_source(source: dict, existing_ids: set) -> list:

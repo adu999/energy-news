@@ -34,16 +34,25 @@ git branch -M main
 git push -u origin main
 ```
 
-### 第三步：配置 DeepSeek API Key（用于中文翻译）
+### 第三步：配置翻译 API Key（二选一）
 
-1. 前往 [platform.deepseek.com](https://platform.deepseek.com) 注册并创建 API Key
-2. 在 GitHub 仓库页面点击 **Settings** → **Secrets and variables** → **Actions**
-3. 点击 **New repository secret**
-4. Name 填写：`DEEPSEEK_API_KEY`
-5. Value 填写你的 DeepSeek API Key
-6. 点击 **Add secret**
+#### 方案A（推荐）：免费百度翻译
 
-> 费用参考：DeepSeek 翻译约 $0.001/篇，每天抓取100篇约 $0.1，非常便宜
+1. 前往 [https://fanyi-api.baidu.com](https://fanyi-api.baidu.com) 注册并开通**通用文本翻译**
+2. 获取 **APP ID** 和 **密钥**
+3. 在 GitHub 仓库页面点击 **Settings** → **Secrets and variables** → **Actions**
+4. 依次添加两个 Secret：
+   - `BAIDU_APP_ID` = 你的 APP ID
+   - `BAIDU_SECRET_KEY` = 你的密钥
+
+> 免费额度：200万字符/月，新闻标题约50字符/条 → 约4万条/月，完全够用
+
+#### 方案B（备用）：DeepSeek 付费翻译
+
+如果不想注册百度，可用 DeepSeek（按量计费，约 $0.1/天）：
+
+1. 前往 [platform.deepseek.com](https://platform.deepseek.com) 注册
+2. 添加 Secret：`DEEPSEEK_API_KEY`
 
 ### 第四步：开启 GitHub Pages
 
@@ -66,7 +75,7 @@ git push -u origin main
 
 - GitHub Actions 每3小时自动运行一次
 - 自动抓取 32 个海外能源 RSS 源
-- 调用 DeepSeek API 将标题翻译为中文
+- 优先调用**百度翻译 API**（免费）将标题翻译为中文，无配额时回退 DeepSeek
 - 自动生成静态 HTML，推送到 GitHub Pages
 - 如果没有新文章，跳过提交（不产生无效 commit）
 
@@ -115,7 +124,11 @@ energy-news/
 # 安装依赖
 pip install -r requirements.txt
 
-# 设置 API Key（可选，不设置则保留英文标题）
+# 设置翻译密钥（二选一，不设置则保留英文标题）
+set BAIDU_APP_ID=你的APPID
+set BAIDU_SECRET_KEY=你的密钥
+
+# 或 DeepSeek 备用
 set DEEPSEEK_API_KEY=你的key
 
 # 运行抓取+生成
