@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>能源早报 · 海外能源资讯聚合</title>
+  <meta name="description" content="自动聚合全球能源领域最新资讯，涵盖太阳能、风电、储能、氢能、EV、油气、核能等领域">
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --card-bg: #ffffff;
+      --border: #e8eaed;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #0ea5e9;
+      --accent-hover: #0284c7;
+      --tag-bg: #f0f9ff;
+      --tag-text: #0369a1;
+      --header-bg: #0f172a;
+      --header-text: #f8fafc;
+      --nav-active: #38bdf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── 顶栏 ── */
+    header {
+      background: var(--header-bg);
+      color: var(--header-text);
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 52px;
+    }
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-decoration: none;
+      white-space: nowrap;
+      letter-spacing: -0.5px;
+    }
+    .logo span { color: #f8fafc; font-weight: 400; }
+    .header-meta {
+      font-size: 12px;
+      color: #94a3b8;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── 分类导航 ── */
+    .nav-wrap {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 52px;
+      z-index: 99;
+      overflow-x: auto;
+    }
+    .nav-wrap::-webkit-scrollbar { display: none; }
+    nav {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      padding: 0 8px;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover { color: var(--accent); }
+    nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    nav a .count {
+      font-size: 11px;
+      color: #94a3b8;
+      margin-left: 3px;
+    }
+
+    /* ── 主内容 ── */
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    /* ── 文章列表 ── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    /* 按日期分组标题 */
+    .date-group-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    /* 文章行 */
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f3f4;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: #fafbfc; margin: 0 -16px; padding: 10px 16px; }
+
+    .article-meta {
+      flex-shrink: 0;
+      width: 44px;
+      text-align: right;
+    }
+    .article-time {
+      font-size: 11px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-title-zh {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      line-height: 1.5;
+    }
+    .article-title-zh:hover { color: var(--accent); }
+
+    .article-title-en {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .source-tag {
+      font-size: 11px;
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      padding: 1px 7px;
+      border-radius: 20px;
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+    }
+    .cat-tag {
+      font-size: 11px;
+      color: #6b7280;
+      background: #f3f4f6;
+      padding: 1px 7px;
+      border-radius: 20px;
+    }
+
+    /* 空状态 */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 0;
+      font-size: 15px;
+    }
+
+    /* ── 底栏 ── */
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 12px;
+      padding: 40px 16px 60px;
+    }
+    footer a { color: #6b7280; }
+
+    /* ── 移动端适配 ── */
+    @media (max-width: 600px) {
+      .article-title-en { display: none; }
+      .header-meta { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 顶栏 -->
+<header>
+  <div class="header-inner">
+    <a href="index.html" class="logo">⚡ 能源早报<span> · 海外能源资讯</span></a>
+    <div class="header-meta">更新于 2026-05-30 09:34 · 共 193 条</div>
+  </div>
+</header>
+
+<!-- 分类导航 -->
+<div class="nav-wrap">
+  <nav>
+    
+    
+    <a href="index.html"
+       class="">
+      全部
+      
+    </a>
+    
+    <a href="太阳能.html"
+       class="">
+      太阳能
+      
+        <span class="count">31</span>
+      
+    </a>
+    
+    <a href="风电.html"
+       class="">
+      风电
+      
+        <span class="count">24</span>
+      
+    </a>
+    
+    <a href="储能.html"
+       class="">
+      储能
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="氢能.html"
+       class="">
+      氢能
+      
+        <span class="count">1</span>
+      
+    </a>
+    
+    <a href="电网.html"
+       class="active">
+      电网
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="电力.html"
+       class="">
+      电力
+      
+        <span class="count">10</span>
+      
+    </a>
+    
+    <a href="油气.html"
+       class="">
+      油气
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="核能.html"
+       class="">
+      核能
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+    <a href="EV.html"
+       class="">
+      EV
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="综合.html"
+       class="">
+      综合
+      
+        <span class="count">41</span>
+      
+    </a>
+    
+    <a href="政策.html"
+       class="">
+      政策
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+  </nav>
+</div>
+
+<!-- 主内容 -->
+<main>
+  
+    
+    <div class="article-list">
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/innovative-customer-utility-agreements-derisk-new-technology-ceba/821402/" target="_blank" rel="noopener">
+              大负载客户可以帮助将新的清洁能源技术商业化：CEBA
+            </a>
+            
+            <div class="article-title-en">Large-load customers can help commercialize new clean energy technology: CEBA</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/entergy-gas-fired-miso-fast-track-interconnection-eras/821460/" target="_blank" rel="noopener">
+              Entergy的天然气项目是MISO快速互联过程的三分之一
+            </a>
+            
+            <div class="article-title-en">Entergy’s gas projects are one-third of MISO’s fast-track interconnection process</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/doe-funding-spark-initiative-transmission/820575/" target="_blank" rel="noopener">
+              一旦你获得了用于输电发展的SPARK资金，接下来会发生什么？
+            </a>
+            
+            <div class="article-title-en">Once you secure SPARK funds for transmission development, what comes next?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:11</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/new-mexico-der-interconnection-irec-vote-solar/821397/" target="_blank" rel="noopener">
+              新墨西哥州拥有全国最好的DER互联政策：报告
+            </a>
+            
+            <div class="article-title-en">New Mexico has the nation’s best DER interconnection policy: report</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/" target="_blank" rel="noopener">
+              美国电网运营商呼吁投入500亿美元升级输电基础设施
+            </a>
+            
+            <div class="article-title-en">US grid operators call for $50 billion in transmission upgrades</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/hyperscaler-data-center-power-companies-grid-utilities/820568/" target="_blank" rel="noopener">
+              Hyperscalers并没有打算成为电力公司。电网让他们别无选择。
+            </a>
+            
+            <div class="article-title-en">Hyperscalers didn’t set out to be power companies. The grid left them no choice.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:42</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/oregon-puc-approves-pges-large-load-tariff-framework-for-data-centers/821361/" target="_blank" rel="noopener">
+              俄勒冈州公用事业委员会批准PGE的数据中心大负荷电价框架
+            </a>
+            
+            <div class="article-title-en">Oregon PUC approves PGE’s large-load tariff framework for data centers</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/virginia-senator-suggests-scc-judge-recuse-from-nextera-dominion-merger/821352/" target="_blank" rel="noopener">
+              弗吉尼亚州参议员建议SCC法官回避NextEra-Dominion合并案
+            </a>
+            
+            <div class="article-title-en">Virginia senator suggests SCC judge recuse herself from NextEra-Dominion merger</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:05</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/ferc-competitive-transmission-spp-miso-entergy-complaint/821328/" target="_blank" rel="noopener">
+              MISO驳回了公用事业公司对竞争性输电投标的投诉
+            </a>
+            
+            <div class="article-title-en">MISO pushes back on utility complaint over competitive transmission bidding</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-27</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:39</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/streaming-wars-utilities-ai-data-center/820883/" target="_blank" rel="noopener">
+              流媒体战争可以让公用事业公司了解人工智能数据中心的繁荣
+            </a>
+            
+            <div class="article-title-en">What the streaming wars can teach utilities about the AI data center boom</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:28</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/demand-management-data-center-flexibility-boost-regional-reliability-nerc/821225/" target="_blank" rel="noopener">
+              需求管理、数据中心灵活性提高了区域可靠性：NERC
+            </a>
+            
+            <div class="article-title-en">Demand management, data center flexibility boost regional reliability: NERC</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+</main>
+
+<footer>
+  <p>能源早报 · 自动聚合全球能源资讯 · 数据来源均为公开 RSS 订阅</p>
+  <p style="margin-top:6px">
+    <a href="https://github.com" target="_blank">GitHub</a> ·
+    内容版权归原作者所有
+  </p>
+</footer>
+
+</body>
+</html>

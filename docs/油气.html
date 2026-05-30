@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>能源早报 · 海外能源资讯聚合</title>
+  <meta name="description" content="自动聚合全球能源领域最新资讯，涵盖太阳能、风电、储能、氢能、EV、油气、核能等领域">
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --card-bg: #ffffff;
+      --border: #e8eaed;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #0ea5e9;
+      --accent-hover: #0284c7;
+      --tag-bg: #f0f9ff;
+      --tag-text: #0369a1;
+      --header-bg: #0f172a;
+      --header-text: #f8fafc;
+      --nav-active: #38bdf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── 顶栏 ── */
+    header {
+      background: var(--header-bg);
+      color: var(--header-text);
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 52px;
+    }
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-decoration: none;
+      white-space: nowrap;
+      letter-spacing: -0.5px;
+    }
+    .logo span { color: #f8fafc; font-weight: 400; }
+    .header-meta {
+      font-size: 12px;
+      color: #94a3b8;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── 分类导航 ── */
+    .nav-wrap {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 52px;
+      z-index: 99;
+      overflow-x: auto;
+    }
+    .nav-wrap::-webkit-scrollbar { display: none; }
+    nav {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      padding: 0 8px;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover { color: var(--accent); }
+    nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    nav a .count {
+      font-size: 11px;
+      color: #94a3b8;
+      margin-left: 3px;
+    }
+
+    /* ── 主内容 ── */
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    /* ── 文章列表 ── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    /* 按日期分组标题 */
+    .date-group-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    /* 文章行 */
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f3f4;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: #fafbfc; margin: 0 -16px; padding: 10px 16px; }
+
+    .article-meta {
+      flex-shrink: 0;
+      width: 44px;
+      text-align: right;
+    }
+    .article-time {
+      font-size: 11px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-title-zh {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      line-height: 1.5;
+    }
+    .article-title-zh:hover { color: var(--accent); }
+
+    .article-title-en {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .source-tag {
+      font-size: 11px;
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      padding: 1px 7px;
+      border-radius: 20px;
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+    }
+    .cat-tag {
+      font-size: 11px;
+      color: #6b7280;
+      background: #f3f4f6;
+      padding: 1px 7px;
+      border-radius: 20px;
+    }
+
+    /* 空状态 */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 0;
+      font-size: 15px;
+    }
+
+    /* ── 底栏 ── */
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 12px;
+      padding: 40px 16px 60px;
+    }
+    footer a { color: #6b7280; }
+
+    /* ── 移动端适配 ── */
+    @media (max-width: 600px) {
+      .article-title-en { display: none; }
+      .header-meta { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 顶栏 -->
+<header>
+  <div class="header-inner">
+    <a href="index.html" class="logo">⚡ 能源早报<span> · 海外能源资讯</span></a>
+    <div class="header-meta">更新于 2026-05-30 09:34 · 共 193 条</div>
+  </div>
+</header>
+
+<!-- 分类导航 -->
+<div class="nav-wrap">
+  <nav>
+    
+    
+    <a href="index.html"
+       class="">
+      全部
+      
+    </a>
+    
+    <a href="太阳能.html"
+       class="">
+      太阳能
+      
+        <span class="count">31</span>
+      
+    </a>
+    
+    <a href="风电.html"
+       class="">
+      风电
+      
+        <span class="count">24</span>
+      
+    </a>
+    
+    <a href="储能.html"
+       class="">
+      储能
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="氢能.html"
+       class="">
+      氢能
+      
+        <span class="count">1</span>
+      
+    </a>
+    
+    <a href="电网.html"
+       class="">
+      电网
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="电力.html"
+       class="">
+      电力
+      
+        <span class="count">10</span>
+      
+    </a>
+    
+    <a href="油气.html"
+       class="active">
+      油气
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="核能.html"
+       class="">
+      核能
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+    <a href="EV.html"
+       class="">
+      EV
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="综合.html"
+       class="">
+      综合
+      
+        <span class="count">41</span>
+      
+    </a>
+    
+    <a href="政策.html"
+       class="">
+      政策
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+  </nav>
+</div>
+
+<!-- 主内容 -->
+<main>
+  
+    
+    <div class="article-list">
+      
+        
+          
+          <div class="date-group-title">05-30</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">06:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/How-a-Regional-Gulf-Coast-Port-Became-Americas-Crude-Oil-Export-Capital.html" target="_blank" rel="noopener">
+              墨西哥湾沿岸地区港口如何成为美国原油出口之都
+            </a>
+            
+            <div class="article-title-en">How a Regional Gulf Coast Port Became America&#39;s Crude Oil Export Capital</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/Colombias-Oil-Industry-Faces-a-Defining-Election-in-2026.html" target="_blank" rel="noopener">
+              哥伦比亚石油工业在2026年面临决定性的选举
+            </a>
+            
+            <div class="article-title-en">Colombia’s Oil Industry Faces a Defining Election in 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Kansas-Fed-Pres-Warns-Oil-Price-Shock-Might-Not-Be-Transitory.html" target="_blank" rel="noopener">
+              堪萨斯州联储主席警告油价冲击可能不是暂时的
+            </a>
+            
+            <div class="article-title-en">Kansas Fed Pres Warns Oil Price Shock Might Not Be Transitory</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:10</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/US-Drillers-Add-More-Rigs-In-Response-to-Higher-Prices.html" target="_blank" rel="noopener">
+              美国钻井商增加更多钻机以应对更高的价格
+            </a>
+            
+            <div class="article-title-en">US Drillers Add More Rigs In Response to Higher Prices</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Chevron-CEO-Multiple-Ships-Attacked-In-Strait-of-Hormuz.html" target="_blank" rel="noopener">
+              雪佛龙首席执行官：多艘船只在霍尔木兹海峡遭到袭击
+            </a>
+            
+            <div class="article-title-en">Chevron CEO: Multiple Ships Attacked In Strait of Hormuz</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/Secretive-Azerbaijan-Deal-Raises-Energy-Security-Concerns-in-Georgia.html" target="_blank" rel="noopener">
+              阿塞拜疆秘密协议引发格鲁吉亚能源安全担忧
+            </a>
+            
+            <div class="article-title-en">Secretive Azerbaijan Deal Raises Energy Security Concerns in Georgia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/Oil-Prices-Suffer-Biggest-Weekly-Collapse-in-Two-Months.html" target="_blank" rel="noopener">
+              油价遭遇两个月来最大周跌幅
+            </a>
+            
+            <div class="article-title-en">Oil Prices Suffer Biggest Weekly Collapse in Two Months</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Philippines-Receives-First-Iranian-Crude-Cargo-Since-Hormuz-Blockade.html" target="_blank" rel="noopener">
+              菲律宾接收霍尔木兹封锁以来第一批伊朗原油
+            </a>
+            
+            <div class="article-title-en">Philippines Receives First Iranian Crude Cargo Since Hormuz Blockade</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Indias-Central-Bank-Warns-Oil-Shock-Threatens-Growth.html" target="_blank" rel="noopener">
+              印度央行警告石油危机威胁经济增长
+            </a>
+            
+            <div class="article-title-en">India&#39;s Central Bank Warns Oil Shock Threatens Growth</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Oil-Prices/Supermajor-Warns-Oil-Prices-Could-Hit-160-Within-Weeks.html" target="_blank" rel="noopener">
+              Supermajor警告油价可能在几周内达到160美元
+            </a>
+            
+            <div class="article-title-en">Supermajor Warns Oil Prices Could Hit $160 Within Weeks</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/" target="_blank" rel="noopener">
+              欧佩克+将减产协议延长至2026年底
+            </a>
+            
+            <div class="article-title-en">OPEC+ extends production cuts through end of 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+</main>
+
+<footer>
+  <p>能源早报 · 自动聚合全球能源资讯 · 数据来源均为公开 RSS 订阅</p>
+  <p style="margin-top:6px">
+    <a href="https://github.com" target="_blank">GitHub</a> ·
+    内容版权归原作者所有
+  </p>
+</footer>
+
+</body>
+</html>

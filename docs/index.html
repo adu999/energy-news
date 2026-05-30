@@ -4,169 +4,4116 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>能源早报 · 海外能源资讯聚合</title>
-  <meta name="description" content="自动聚合全球能源领域最新资讯，每3小时更新">
+  <meta name="description" content="自动聚合全球能源领域最新资讯，涵盖太阳能、风电、储能、氢能、EV、油气、核能等领域">
   <style>
-    :root{--bg:#f6f7f9;--border:#e8eaed;--text:#1a1a2e;--muted:#6b7280;--accent:#0ea5e9;--tag-bg:#f0f9ff;--tag-text:#0369a1;--header-bg:#0f172a;}
-    *{box-sizing:border-box;margin:0;padding:0;}
-    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.6;}
-    header{background:var(--header-bg);padding:0 16px;position:sticky;top:0;z-index:100;box-shadow:0 2px 8px rgba(0,0,0,.3);}
-    .hi{max-width:900px;margin:0 auto;display:flex;align-items:center;gap:16px;height:52px;}
-    .logo{font-size:18px;font-weight:700;color:#38bdf8;text-decoration:none;}
-    .logo span{color:#f8fafc;font-weight:400;}
-    .hm{font-size:12px;color:#94a3b8;margin-left:auto;}
-    .nw{background:#fff;border-bottom:1px solid var(--border);position:sticky;top:52px;z-index:99;overflow-x:auto;}
-    .nw::-webkit-scrollbar{display:none;}
-    nav{max-width:900px;margin:0 auto;display:flex;padding:0 8px;}
-    nav a{display:inline-flex;align-items:center;padding:10px 14px;font-size:13px;color:var(--muted);text-decoration:none;border-bottom:2px solid transparent;white-space:nowrap;transition:color .15s,border-color .15s;}
-    nav a:hover{color:var(--accent);}
-    nav a.active{color:var(--accent);border-bottom-color:var(--accent);font-weight:600;}
-    nav a .c{font-size:11px;color:#94a3b8;margin-left:3px;}
-    main{max-width:900px;margin:20px auto;padding:0 16px;}
-    .dg{font-size:12px;font-weight:600;color:var(--muted);padding:16px 0 8px;border-bottom:1px solid var(--border);margin-bottom:0;}
-    .ai{display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px solid #f1f3f4;transition:background .1s;}
-    .ai:hover{background:#fafbfc;margin:0 -16px;padding:10px 16px;}
-    .am{flex-shrink:0;width:44px;text-align:right;font-size:11px;color:var(--muted);padding-top:2px;}
-    .ab{flex:1;min-width:0;}
-    .tz{font-size:14px;font-weight:500;color:var(--text);text-decoration:none;display:block;line-height:1.5;}
-    .tz:hover{color:var(--accent);}
-    .te{font-size:12px;color:#9ca3af;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}
-    .af{display:flex;align-items:center;gap:8px;margin-top:4px;}
-    .st{font-size:11px;color:var(--tag-text);background:var(--tag-bg);padding:1px 7px;border-radius:20px;border:1px solid #bae6fd;}
-    .ct{font-size:11px;color:#6b7280;background:#f3f4f6;padding:1px 7px;border-radius:20px;}
-    .empty{text-align:center;color:var(--muted);padding:80px 0;font-size:15px;}
-    footer{text-align:center;color:#9ca3af;font-size:12px;padding:40px 16px 60px;}
-    footer a{color:#6b7280;}
-    @media(max-width:600px){.te{display:none;}.hm{display:none;}}
+    :root {
+      --bg: #f6f7f9;
+      --card-bg: #ffffff;
+      --border: #e8eaed;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #0ea5e9;
+      --accent-hover: #0284c7;
+      --tag-bg: #f0f9ff;
+      --tag-text: #0369a1;
+      --header-bg: #0f172a;
+      --header-text: #f8fafc;
+      --nav-active: #38bdf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── 顶栏 ── */
+    header {
+      background: var(--header-bg);
+      color: var(--header-text);
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 52px;
+    }
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-decoration: none;
+      white-space: nowrap;
+      letter-spacing: -0.5px;
+    }
+    .logo span { color: #f8fafc; font-weight: 400; }
+    .header-meta {
+      font-size: 12px;
+      color: #94a3b8;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── 分类导航 ── */
+    .nav-wrap {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 52px;
+      z-index: 99;
+      overflow-x: auto;
+    }
+    .nav-wrap::-webkit-scrollbar { display: none; }
+    nav {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      padding: 0 8px;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover { color: var(--accent); }
+    nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    nav a .count {
+      font-size: 11px;
+      color: #94a3b8;
+      margin-left: 3px;
+    }
+
+    /* ── 主内容 ── */
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    /* ── 文章列表 ── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    /* 按日期分组标题 */
+    .date-group-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    /* 文章行 */
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f3f4;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: #fafbfc; margin: 0 -16px; padding: 10px 16px; }
+
+    .article-meta {
+      flex-shrink: 0;
+      width: 44px;
+      text-align: right;
+    }
+    .article-time {
+      font-size: 11px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-title-zh {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      line-height: 1.5;
+    }
+    .article-title-zh:hover { color: var(--accent); }
+
+    .article-title-en {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .source-tag {
+      font-size: 11px;
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      padding: 1px 7px;
+      border-radius: 20px;
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+    }
+    .cat-tag {
+      font-size: 11px;
+      color: #6b7280;
+      background: #f3f4f6;
+      padding: 1px 7px;
+      border-radius: 20px;
+    }
+
+    /* 空状态 */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 0;
+      font-size: 15px;
+    }
+
+    /* ── 底栏 ── */
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 12px;
+      padding: 40px 16px 60px;
+    }
+    footer a { color: #6b7280; }
+
+    /* ── 移动端适配 ── */
+    @media (max-width: 600px) {
+      .article-title-en { display: none; }
+      .header-meta { display: none; }
+    }
   </style>
 </head>
 <body>
 
+<!-- 顶栏 -->
 <header>
-  <div class="hi">
+  <div class="header-inner">
     <a href="index.html" class="logo">⚡ 能源早报<span> · 海外能源资讯</span></a>
-    <div class="hm">更新于 2026-05-29 09:47 · 共 10 条（示例数据）</div>
+    <div class="header-meta">更新于 2026-05-30 09:34 · 共 193 条</div>
   </div>
 </header>
 
-<div class="nw">
+<!-- 分类导航 -->
+<div class="nav-wrap">
   <nav>
-    <a href="index.html" class="active">全部</a>
-    <a href="太阳能.html">太阳能<span class="c">1</span></a>
-    <a href="风电.html">风电<span class="c">1</span></a>
-    <a href="储能.html">储能<span class="c">1</span></a>
-    <a href="氢能.html">氢能<span class="c">1</span></a>
-    <a href="电网.html">电网<span class="c">1</span></a>
-    <a href="电力.html">电力<span class="c">0</span></a>
-    <a href="油气.html">油气<span class="c">1</span></a>
-    <a href="核能.html">核能<span class="c">1</span></a>
-    <a href="EV.html">EV<span class="c">1</span></a>
-    <a href="综合.html">综合<span class="c">1</span></a>
-    <a href="政策.html">政策<span class="c">1</span></a>
+    
+    
+    <a href="index.html"
+       class="active">
+      全部
+      
+    </a>
+    
+    <a href="太阳能.html"
+       class="">
+      太阳能
+      
+        <span class="count">31</span>
+      
+    </a>
+    
+    <a href="风电.html"
+       class="">
+      风电
+      
+        <span class="count">24</span>
+      
+    </a>
+    
+    <a href="储能.html"
+       class="">
+      储能
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="氢能.html"
+       class="">
+      氢能
+      
+        <span class="count">1</span>
+      
+    </a>
+    
+    <a href="电网.html"
+       class="">
+      电网
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="电力.html"
+       class="">
+      电力
+      
+        <span class="count">10</span>
+      
+    </a>
+    
+    <a href="油气.html"
+       class="">
+      油气
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="核能.html"
+       class="">
+      核能
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+    <a href="EV.html"
+       class="">
+      EV
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="综合.html"
+       class="">
+      综合
+      
+        <span class="count">41</span>
+      
+    </a>
+    
+    <a href="政策.html"
+       class="">
+      政策
+      
+        <span class="count">21</span>
+      
+    </a>
+    
   </nav>
 </div>
 
+<!-- 主内容 -->
 <main>
-  <div>
-    <div class="dg">05-29</div>
-
-    <div class="ai">
-      <div class="am">08:30</div>
-      <div class="ab">
-        <a class="tz" href="https://www.pv-tech.org/" target="_blank" rel="noopener">全球太阳能装机容量突破2太瓦里程碑</a>
-        <div class="te">Global solar capacity surpasses 2 terawatts milestone</div>
-        <div class="af"><span class="st">PV-Tech</span><span class="ct">太阳能</span></div>
-      </div>
+  
+    
+    <div class="article-list">
+      
+        
+          
+          <div class="date-group-title">05-30</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">09:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/the-buick-electra-l7-bev-looks-awesome-but-only-for-china/" target="_blank" rel="noopener">
+              别克Electra L7纯电动汽车看起来很棒，但仅适用于中国
+            </a>
+            
+            <div class="article-title-en">The Buick Electra L7 BEV Looks Awesome — But Only For China</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">08:17</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/how-the-industrial-accelerator-act-can-help-avoid-more-battery-factories-going-bust/" target="_blank" rel="noopener">
+              《工业加速器法案》如何帮助避免更多电池工厂倒闭
+            </a>
+            
+            <div class="article-title-en">How the Industrial Accelerator Act Can Help Avoid More Battery Factories Going Bust</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">08:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/british-collaboration-reinterpreted-the-mini-paul-smith-edition/" target="_blank" rel="noopener">
+              英国合作，重新解读：迷你保罗·史密斯版。
+            </a>
+            
+            <div class="article-title-en">British Collaboration, Reinterpreted: The MINI Paul Smith Edition.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">07:40</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/this-tesla-owner-won-10k-in-court-for-teslas-fsd-lies-tesla-is-still-fighting-him/" target="_blank" rel="noopener">
+              这位特斯拉车主因特斯拉的FSD谎言在法庭上赢得了1万美元的退款（更新）
+            </a>
+            
+            <div class="article-title-en">This Tesla owner won a $10k refund in court for Tesla’s FSD lies (Updated)</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">06:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/How-a-Regional-Gulf-Coast-Port-Became-Americas-Crude-Oil-Export-Capital.html" target="_blank" rel="noopener">
+              墨西哥湾沿岸地区港口如何成为美国原油出口之都
+            </a>
+            
+            <div class="article-title-en">How a Regional Gulf Coast Port Became America&#39;s Crude Oil Export Capital</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">05:58</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/the-successes-failures-of-gondola-transit-systems-the-good-outweighs-the-bad/" target="_blank" rel="noopener">
+              缆车运输系统的成败（好胜坏）
+            </a>
+            
+            <div class="article-title-en">The Successes &amp; Failures of Gondola Transit Systems (The Good Outweighs the Bad)</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">05:53</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/blink-kempower-expand-us-east-coast-ev-fast-charging/" target="_blank" rel="noopener">
+              Blink和Kempower扩大美国东海岸电动汽车快速充电
+            </a>
+            
+            <div class="article-title-en">Blink and Kempower expand US East Coast EV fast charging</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:32</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/2027-chevy-equinox-blazer-evs-fix-one-big-driver-complaint/" target="_blank" rel="noopener">
+              2027款雪佛兰Equinox和Blazer电动汽车解决了驾驶员的一大投诉
+            </a>
+            
+            <div class="article-title-en">The 2027 Chevy Equinox and Blazer EVs fix one big complaint drivers had</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/illinois-first-great-lakes-state-to-enact-plastic-pellet-pollution-law/" target="_blank" rel="noopener">
+              伊利诺伊州第一个颁布塑料颗粒污染法的大湖州
+            </a>
+            
+            <div class="article-title-en">Illinois First Great Lakes State To Enact Plastic Pellet Pollution Law</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:35</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/over-55-million-announced-to-expand-california-public-ev-fast-charging/" target="_blank" rel="noopener">
+              超过5500万美元宣布扩大加州公共电动汽车快速充电
+            </a>
+            
+            <div class="article-title-en">Over $55 Million Announced To Expand California Public EV Fast Charging</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/tesla-spacex-merger-getting-real/" target="_blank" rel="noopener">
+              特斯拉和SpaceX合并成为现实
+            </a>
+            
+            <div class="article-title-en">Tesla &amp; SpaceX Merger Getting Real</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:02</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/republicans-devise-yet-another-way-to-make-your-electricity-more-expensive/" target="_blank" rel="noopener">
+              共和党人想出了另一种方法，通过新的费用使电力更加昂贵
+            </a>
+            
+            <div class="article-title-en">Republicans devise another way to make electricity more expensive with new fees</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/Colombias-Oil-Industry-Faces-a-Defining-Election-in-2026.html" target="_blank" rel="noopener">
+              哥伦比亚石油工业在2026年面临决定性的选举
+            </a>
+            
+            <div class="article-title-en">Colombia’s Oil Industry Faces a Defining Election in 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/byd-technology-strategy-highlights-hardware/" target="_blank" rel="noopener">
+              比亚迪技术战略重点推出中国首款4nm智能驾驶芯片硬件
+            </a>
+            
+            <div class="article-title-en">BYD Technology Strategy Highlights Hardware With China’s First 4nm Intelligent Driving Chip</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:27</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/byds-new-electric-suv-secures-over-30000-orders-first-week/" target="_blank" rel="noopener">
+              比亚迪的新款电动SUV在第一周就获得了3万多份订单
+            </a>
+            
+            <div class="article-title-en">BYD’s new electric SUV secures over 30,000 orders in its first week</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:26</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/podcast-tesla-robotaxi-numbers-ferraris-controversial-luce-launches-waymo-ojai-and-more/" target="_blank" rel="noopener">
+              播客：特斯拉Robotaxi号码、法拉利备受争议的Luce发布、Waymo Ojai等
+            </a>
+            
+            <div class="article-title-en">Podcast: Tesla Robotaxi numbers, Ferrari’s controversial Luce launches, Waymo Ojai, and more</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:25</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/cleantechnicas-solar-report-inspires-readers-to-teach-each-other/" target="_blank" rel="noopener">
+              CleanTechnica的太阳能报告激励读者互相学习
+            </a>
+            
+            <div class="article-title-en">CleanTechnica’s Solar Report Inspires Readers To Teach Each Other</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/anker-solix-cuts-power-station-prices-exclusive-savingss-lectric-extra-battery-sale-more/" target="_blank" rel="noopener">
+              Anker SOLIX永久降低发电站价格+独家奖金节省至低点，Lectric罕见的30%额外电池销售低点，更多
+            </a>
+            
+            <div class="article-title-en">Anker SOLIX permanently cuts power station prices + exclusive bonus savings to lows, Lectric’s rare 30% extra battery sale lows, more</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/utilities/voters-in-9-states-get-to-pick-the-people-who-oversee-their-power-bills" target="_blank" rel="noopener">
+              9个州的选民将选出监督其电力账单的人
+            </a>
+            
+            <div class="article-title-en">Voters in 9 states will pick the people overseeing their power bills</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Kansas-Fed-Pres-Warns-Oil-Price-Shock-Might-Not-Be-Transitory.html" target="_blank" rel="noopener">
+              堪萨斯州联储主席警告油价冲击可能不是暂时的
+            </a>
+            
+            <div class="article-title-en">Kansas Fed Pres Warns Oil Price Shock Might Not Be Transitory</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:19</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/coutourglobal-brings-major-solar-plus-storage-project-online-in-chile/" target="_blank" rel="noopener">
+              CoutourGlobal在智利推出大型太阳能+储能项目
+            </a>
+            
+            <div class="article-title-en">CoutourGlobal Brings Major Solar-Plus-Storage Project Online in Chile</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:10</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/US-Drillers-Add-More-Rigs-In-Response-to-Higher-Prices.html" target="_blank" rel="noopener">
+              美国钻井商增加更多钻机以应对更高的价格
+            </a>
+            
+            <div class="article-title-en">US Drillers Add More Rigs In Response to Higher Prices</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:49</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/mid-size-gm-electric-off-roader-images/" target="_blank" rel="noopener">
+              这是我们应得的中型通用电动越野车[图片]
+            </a>
+            
+            <div class="article-title-en">This is the mid-size GM electric off-roader we deserve [Images]</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Chevron-CEO-Multiple-Ships-Attacked-In-Strait-of-Hormuz.html" target="_blank" rel="noopener">
+              雪佛龙首席执行官：多艘船只在霍尔木兹海峡遭到袭击
+            </a>
+            
+            <div class="article-title-en">Chevron CEO: Multiple Ships Attacked In Strait of Hormuz</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/Secretive-Azerbaijan-Deal-Raises-Energy-Security-Concerns-in-Georgia.html" target="_blank" rel="noopener">
+              阿塞拜疆秘密协议引发格鲁吉亚能源安全担忧
+            </a>
+            
+            <div class="article-title-en">Secretive Azerbaijan Deal Raises Energy Security Concerns in Georgia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:42</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/is-standalone-solar-losing-its-edge-in-india/" target="_blank" rel="noopener">
+              独立太阳能在印度是否正在失去优势？
+            </a>
+            
+            <div class="article-title-en">Is standalone solar losing its edge in India?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Energy-General/Oil-Prices-Suffer-Biggest-Weekly-Collapse-in-Two-Months.html" target="_blank" rel="noopener">
+              油价遭遇两个月来最大周跌幅
+            </a>
+            
+            <div class="article-title-en">Oil Prices Suffer Biggest Weekly Collapse in Two Months</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Philippines-Receives-First-Iranian-Crude-Cargo-Since-Hormuz-Blockade.html" target="_blank" rel="noopener">
+              菲律宾接收霍尔木兹封锁以来第一批伊朗原油
+            </a>
+            
+            <div class="article-title-en">Philippines Receives First Iranian Crude Cargo Since Hormuz Blockade</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/toyota-scraps-plans-launch-most-important-evs/" target="_blank" rel="noopener">
+              丰田正在取消推出其最重要的电动汽车之一的计划
+            </a>
+            
+            <div class="article-title-en">Toyota is scrapping plans to launch one of its most important EVs</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/nextpower-enters-utility-scale-bess-market-with-prevalon-acquisition/" target="_blank" rel="noopener">
+              Nextpower通过收购Prevalon进入公用事业规模的BESS市场
+            </a>
+            
+            <div class="article-title-en">Nextpower enters utility-scale BESS market with Prevalon acquisition</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/innovative-customer-utility-agreements-derisk-new-technology-ceba/821402/" target="_blank" rel="noopener">
+              大负载客户可以帮助将新的清洁能源技术商业化：CEBA
+            </a>
+            
+            <div class="article-title-en">Large-load customers can help commercialize new clean energy technology: CEBA</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:56</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/residential-segment-accounts-for-82-of-indias-rooftop-solar-additions-in-q1-2026-mercom/" target="_blank" rel="noopener">
+              印度第一季度安装2.7吉瓦屋顶光伏
+            </a>
+            
+            <div class="article-title-en">India installs 2.7 GW of rooftop PV in Q1</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:41</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/heat-pumps-us-startup-quilt-lease-finance/" target="_blank" rel="noopener">
+              更简单的热泵之路：每月付款，无前期成本
+            </a>
+            
+            <div class="article-title-en">An Easier Path To Heat Pumps: Monthly Payments, No Up-Front Cost</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Latest-Energy-News/World-News/Indias-Central-Bank-Warns-Oil-Shock-Threatens-Growth.html" target="_blank" rel="noopener">
+              印度央行警告石油危机威胁经济增长
+            </a>
+            
+            <div class="article-title-en">India&#39;s Central Bank Warns Oil Shock Threatens Growth</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/Energy/Oil-Prices/Supermajor-Warns-Oil-Prices-Could-Hit-160-Within-Weeks.html" target="_blank" rel="noopener">
+              Supermajor警告油价可能在几周内达到160美元
+            </a>
+            
+            <div class="article-title-en">Supermajor Warns Oil Prices Could Hit $160 Within Weeks</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/" target="_blank" rel="noopener">
+              2026年5月29日简报：欧洲“令人难以置信”的5月|印度的高温死亡|尼日利亚的太阳能迷你电网
+            </a>
+            
+            <div class="article-title-en">DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/2026/05/29/memorial-day-green-deals-hub-evs-power-stations-electric-tools-devices-more/" target="_blank" rel="noopener">
+              阵亡将士纪念日绿色交易中心——电动汽车、发电站、电动工具、设备等等
+            </a>
+            
+            <div class="article-title-en">Memorial Day Green Deals hub – EVs, power stations, electric tools, devices, and much more</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/entergy-gas-fired-miso-fast-track-interconnection-eras/821460/" target="_blank" rel="noopener">
+              Entergy的天然气项目是MISO快速互联过程的三分之一
+            </a>
+            
+            <div class="article-title-en">Entergy’s gas projects are one-third of MISO’s fast-track interconnection process</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:58</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/" target="_blank" rel="noopener">
+              人工智能热潮意味着美国现在对化石燃料发电的“投资”比中国多
+            </a>
+            
+            <div class="article-title-en">AI boom means US is now ‘investing more’ in fossil-fuel power than China</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/i-still-have-hope-that-the-failure-rate-will-decrease-says-kiwa-pvels-tristan-erion-lorico/" target="_blank" rel="noopener">
+              Kiwa PVEL的Tristan Erion Lorico说，我仍然希望失败率会降低
+            </a>
+            
+            <div class="article-title-en">‘I still have hope that the failure rate will decrease,’ says Kiwa PVEL’s Tristan Erion-Lorico</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/doe-funding-spark-initiative-transmission/820575/" target="_blank" rel="noopener">
+              一旦你获得了用于输电发展的SPARK资金，接下来会发生什么？
+            </a>
+            
+            <div class="article-title-en">Once you secure SPARK funds for transmission development, what comes next?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/inside-pv-manufacturing-tindos-solar-manufacturing-facility-in-australia/" target="_blank" rel="noopener">
+              内部光伏制造：Tindo在澳大利亚的太阳能制造工厂
+            </a>
+            
+            <div class="article-title-en">Inside PV Manufacturing: Tindo’s solar manufacturing facility in Australia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/the-hydrogen-stream-jcn-launches-hydrogen-powered-backhoe-loader/" target="_blank" rel="noopener">
+              氢流：JCN推出氢动力反铲装载机
+            </a>
+            
+            <div class="article-title-en">The Hydrogen Stream: JCN launches hydrogen-powered backhoe loader</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/29/kospo-signs-offshore-wind-agreements-as-part-of-11-2-gw-renewable-energy-strategy/" target="_blank" rel="noopener">
+              KOSPO签署海上风电协议，作为11.2吉瓦可再生能源战略的一部分
+            </a>
+            
+            <div class="article-title-en">KOSPO Signs Offshore Wind Agreements as Part of 11.2 GW Renewable Energy Strategy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:11</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/chinese-pv-industry-brief-polysilicon-prices-remain-stable/" target="_blank" rel="noopener">
+              中国光伏产业简报：多晶硅价格保持稳定
+            </a>
+            
+            <div class="article-title-en">Chinese PV Industry Brief: Polysilicon prices remain stable</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/viessmann-debuts-monoblock-air-to-water-heat-pump/" target="_blank" rel="noopener">
+              菲斯曼推出整体式空气-水热泵
+            </a>
+            
+            <div class="article-title-en">Viessmann debuts monoblock air-to-water heat pump</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/iran-energy-crisis-to-reshape-energy-investment-iea/" target="_blank" rel="noopener">
+              伊朗能源危机将“重塑”能源投资——国际能源署
+            </a>
+            
+            <div class="article-title-en">Iran energy crisis to ‘reshape’ energy investment – IEA</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:53</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/ohio-rubber-manufacturing-site-installs-solar-on-flat-roof/" target="_blank" rel="noopener">
+              俄亥俄州橡胶制造厂在平屋顶安装太阳能
+            </a>
+            
+            <div class="article-title-en">Ohio rubber manufacturing site installs solar on flat roof</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:49</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/zelestra-sells-3-5gw-latin-america-solar-and-storage-portfolio-to-promigas/" target="_blank" rel="noopener">
+              Zelestra向Promigas出售3.5GW拉丁美洲太阳能和储能产品组合
+            </a>
+            
+            <div class="article-title-en">Zelestra sells 3.5GW Latin America solar and storage portfolio to Promigas</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:41</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/nextpower-acquires-energy-storage-provider-prevalon-energy/" target="_blank" rel="noopener">
+              Nextpower收购储能供应商Prevalon energy
+            </a>
+            
+            <div class="article-title-en">Nextpower acquires energy storage provider Prevalon Energy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:40</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon/" target="_blank" rel="noopener">
+              美国综述：来自NeoVolta、Goshe、Frontier Power&amp;Stella和Prevalon的BESS新闻
+            </a>
+            
+            <div class="article-title-en">US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power &amp; Stella and Prevalon</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads/" target="_blank" rel="noopener">
+              “是时候证明其潜力了”：Gresham House英国BESS基金正处于十字路口
+            </a>
+            
+            <div class="article-title-en">‘Time to prove its potential’: Gresham House UK BESS fund at a crossroads</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:12</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/inclusive-leadership-is-not-a-trend-it-is-how-resilient-industries-are-built/" target="_blank" rel="noopener">
+              包容性领导力不是一种趋势，而是如何建立有弹性的行业
+            </a>
+            
+            <div class="article-title-en">Inclusive leadership is not a trend, it is how resilient industries are built</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:07</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959726/interview-rwes-renewables-chief-solving-europes-grid-problems" target="_blank" rel="noopener">
+              采访：RWE可再生能源负责人谈解决欧洲电网问题
+            </a>
+            
+            <div class="article-title-en">Interview: RWE’s renewables chief on solving Europe’s grid problems</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:03</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/all-solar-cell-efficiencies-at-a-glance-updated-6/" target="_blank" rel="noopener">
+              所有太阳能电池效率概览-更新
+            </a>
+            
+            <div class="article-title-en">All solar cell efficiencies at a glance – updated</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:32</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/german-regulators-grid-fee-decision-restores-investor-confidence-in-energy-storage-market/" target="_blank" rel="noopener">
+              德国监管机构的电网费用决定“恢复了投资者对储能市场的信心”
+            </a>
+            
+            <div class="article-title-en">German regulator’s grid fee decision ‘restores investor confidence’ in energy storage market</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/trina-solar-unveils-thbc-technology-topcon-next-frontier/" target="_blank" rel="noopener">
+              天合光能推出THBC技术，TOPCon的下一个前沿？
+            </a>
+            
+            <div class="article-title-en">Trina Solar unveils THBC technology, TOPCon’s next frontier?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/29/deme-to-install-15-mw-vestas-turbines-at-japanese-offshore-wind-farm/" target="_blank" rel="noopener">
+              DEME将在日本海上风电场安装15兆瓦维斯塔斯涡轮机
+            </a>
+            
+            <div class="article-title-en">DEME to Install 15 MW Vestas Turbines at Japanese Offshore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:44</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/" target="_blank" rel="noopener">
+              EM-DAT：特朗普削减援助可能会关闭存储“世界灾难记忆”的数据库
+            </a>
+            
+            <div class="article-title-en">EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959706/mingyang-partnering-offshore-wind-project-canada" target="_blank" rel="noopener">
+              明阳与加拿大海上风电项目合作
+            </a>
+            
+            <div class="article-title-en">Mingyang partnering on offshore wind project in Canada</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959701/asbestos-found-nordex-wind-turbines-sweden" target="_blank" rel="noopener">
+              瑞典Nordex风力涡轮机中发现石棉
+            </a>
+            
+            <div class="article-title-en">Asbestos found in Nordex wind turbines in Sweden</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:19</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/chinese-researchers-build-33-33-efficient-perovskite-silicon-tandem-solar-cell-via-new-passivation-strategy/" target="_blank" rel="noopener">
+              中国研究人员通过新的钝化策略建造了33.33%效率的钙钛矿硅叠层太阳能电池
+            </a>
+            
+            <div class="article-title-en">Chinese researchers build 33.33%-efficient perovskite-silicon tandem solar cell via new passivation strategy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/solax-ori-energy-storage-system-completes-large-scale-fire-test-under-extreme-conditions/" target="_blank" rel="noopener">
+              SolaX ORI储能系统在极端条件下完成大规模火灾测试
+            </a>
+            
+            <div class="article-title-en">SolaX ORI energy storage system completes large-scale fire test under extreme conditions</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/nextpower-gets-into-energy-storage/" target="_blank" rel="noopener">
+              Nextpower进入储能领域
+            </a>
+            
+            <div class="article-title-en">Nextpower gets into energy storage</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959691/mingyang-joins-european-offshore-wind-group" target="_blank" rel="noopener">
+              明阳加入另一家欧洲海上风电集团
+            </a>
+            
+            <div class="article-title-en">Mingyang joins another European offshore wind group</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">08:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/" target="_blank" rel="noopener">
+              全球太阳能装机容量突破2太瓦里程碑
+            </a>
+            
+            <div class="article-title-en">Global solar capacity surpasses 2 terawatts milestone</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:28</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/29/rwe-reportedly-weighing-us-offshore-wind-exit-deal-advocacy-groups-industry-warn-no-basis-under-us-law-to-refund-lease-purchase/" target="_blank" rel="noopener">
+              据报道，RWE正在权衡美国海上风电退出协议；倡导团体和行业警告称，根据美国法律，退款租赁购买没有依据
+            </a>
+            
+            <div class="article-title-en">RWE Reportedly Weighing US Offshore Wind Exit Deal; Advocacy Groups, Industry Warn ‘No Basis Under US Law’ to Refund Lease Purchase</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:55</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/nord-pools-new-european-bess-revenue-index-reduces-trader-bias-risk-for-merchant-plays/" target="_blank" rel="noopener">
+              Nord Pool新的欧洲BESS收入指数“降低了商家交易的交易者偏见风险”
+            </a>
+            
+            <div class="article-title-en">Nord Pool’s new European BESS revenue index ‘reduces trader bias risk’ for merchant plays</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/electric-vehicles/the-tax-credit-cliff-has-hit-ev-sales-hard" target="_blank" rel="noopener">
+              税收抵免悬崖严重打击了电动汽车销售
+            </a>
+            
+            <div class="article-title-en">The tax credit cliff has hit EV sales hard</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">07:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/" target="_blank" rel="noopener">
+              英国最新拍卖结果显示海上风电成本下降15%
+            </a>
+            
+            <div class="article-title-en">Offshore wind costs fall 15% in latest UK auction results</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">06:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://electrek.co/" target="_blank" rel="noopener">
+              特斯拉Megapack订单激增，公用事业公司规划电网级储能
+            </a>
+            
+            <div class="article-title-en">Tesla Megapack orders surge as utilities plan grid-scale storage</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Electrek</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">05:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.iea.org/" target="_blank" rel="noopener">
+              国际能源署警告天然气需求将在2030年前达峰
+            </a>
+            
+            <div class="article-title-en">IEA warns natural gas demand will peak before 2030</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">IEA News</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.hydrogeninsight.com/" target="_blank" rel="noopener">
+              绿色氢气电解槽成本五年内下降40%
+            </a>
+            
+            <div class="article-title-en">Green hydrogen electrolyzer costs drop 40% over five years</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Hydrogen Insight</span>
+              <span class="cat-tag">氢能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:45</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://insideevs.com/" target="_blank" rel="noopener">
+              2025年全球电动汽车销量创纪录达1800万辆
+            </a>
+            
+            <div class="article-title-en">EV sales hit record 18 million units in 2025 globally</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">InsideEVs</span>
+              <span class="cat-tag">EV</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">11:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/bhp-turns-to-indigenous-led-developer-to-explore-renewables-for-iron-ore-operations-in-western-australia/" target="_blank" rel="noopener">
+              必和必拓转向本土开发商，为西澳大利亚州的铁矿石业务探索可再生能源
+            </a>
+            
+            <div class="article-title-en">BHP turns to Indigenous-led developer to explore renewables for iron ore operations in Western Australia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">11:17</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act/" target="_blank" rel="noopener">
+              Ausgrid向澳大利亚EPBC法案提交了新南威尔士州300兆瓦伯克利谷BESS
+            </a>
+            
+            <div class="article-title-en">Ausgrid submits 300MWh Berkeley Vale BESS in New South Wales to Australia’s EPBC Act</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">11:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/wannon-water-enervest-complete-one-of-australias-largest-floating-solar-arrays/" target="_blank" rel="noopener">
+              Wannon Water和Enecector完成了“澳大利亚最大的浮动太阳能电池板之一”
+            </a>
+            
+            <div class="article-title-en">Wannon Water, Enervest complete ‘one of Australia’s largest floating solar arrays’</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">11:12</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/south-australia-awards-1-3gw-of-battery-storage-in-first-firm-energy-reliability-mechanism-tender/" target="_blank" rel="noopener">
+              南澳大利亚州在首次公司能源可靠性机制招标中授予1.3GW+的电池储能
+            </a>
+            
+            <div class="article-title-en">South Australia awards 1.3GW+ of battery storage in first Firm Energy Reliability Mechanism tender</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">06:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/major-thermal-energy-storage-project-commissioned-for-south-dakota-biofuels-producer/" target="_blank" rel="noopener">
+              南达科他州生物燃料生产商委托的主要热能储存项目
+            </a>
+            
+            <div class="article-title-en">Major Thermal Energy Storage Project Commissioned for South Dakota Biofuels Producer</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://oilprice.com/" target="_blank" rel="noopener">
+              欧佩克+将减产协议延长至2026年底
+            </a>
+            
+            <div class="article-title-en">OPEC+ extends production cuts through end of 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Oil Price</span>
+              <span class="cat-tag">油气</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:45</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/blykalla-studsvik-file-for-up-to-1-7-gw-of-new-swedish-nuclear-capacity-as-government-proposes-3-7b-capital-commitment-to-ringhals-smr-project/" target="_blank" rel="noopener">
+              Blykalla，Studsvik为瑞典政府向Ringhals SMR项目提出37亿美元的资本承诺，申请高达1.7吉瓦的新核电容量
+            </a>
+            
+            <div class="article-title-en">Blykalla, Studsvik File for Up to 1.7 GW of New Swedish Nuclear Capacity as Government Proposes $3.7B Capital Commitment to Ringhals SMR Project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org/" target="_blank" rel="noopener">
+              法国批准建造六座新核电站
+            </a>
+            
+            <div class="article-title-en">France approves construction of six new nuclear reactors</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:11</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/new-mexico-der-interconnection-irec-vote-solar/821397/" target="_blank" rel="noopener">
+              新墨西哥州拥有全国最好的DER互联政策：报告
+            </a>
+            
+            <div class="article-title-en">New Mexico has the nation’s best DER interconnection policy: report</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/five-nines-data-center-uptime-starts-with-automation/" target="_blank" rel="noopener">
+              Five Nines数据中心正常运行时间从自动化开始
+            </a>
+            
+            <div class="article-title-en">Five-Nines Data Center Uptime Starts with Automation</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/" target="_blank" rel="noopener">
+              美国电网运营商呼吁投入500亿美元升级输电基础设施
+            </a>
+            
+            <div class="article-title-en">US grid operators call for $50 billion in transmission upgrades</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/new-york-prioritizes-solar-in-2027-state-budget/" target="_blank" rel="noopener">
+              纽约州2027年预算优先考虑太阳能
+            </a>
+            
+            <div class="article-title-en">New York prioritizes solar in 2027 state budget</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.reuters.com/" target="_blank" rel="noopener">
+              路透社：2025年全球清洁能源投资突破1.8万亿美元
+            </a>
+            
+            <div class="article-title-en">Reuters: Global clean energy investment tops $1.8 trillion in 2025</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Reuters Energy</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:43</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/india-adds-over-14gw-of-solar-in-q1-2026/" target="_blank" rel="noopener">
+              印度在2026年第一季度增加了超过14GW的太阳能
+            </a>
+            
+            <div class="article-title-en">India adds over 14GW of solar in Q1 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/hyperscaler-data-center-power-companies-grid-utilities/820568/" target="_blank" rel="noopener">
+              Hyperscalers并没有打算成为电力公司。电网让他们别无选择。
+            </a>
+            
+            <div class="article-title-en">Hyperscalers didn’t set out to be power companies. The grid left them no choice.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:42</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/oregon-puc-approves-pges-large-load-tariff-framework-for-data-centers/821361/" target="_blank" rel="noopener">
+              俄勒冈州公用事业委员会批准PGE的数据中心大负荷电价框架
+            </a>
+            
+            <div class="article-title-en">Oregon PUC approves PGE’s large-load tariff framework for data centers</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:40</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/china-briefing-28-may-2026-deadly-rains-china-pushes-back-examining-chinas-carbon-intensity-metric/" target="_blank" rel="noopener">
+              2026年5月28日中国简报：致命降雨|中国反击|检查中国的碳强度指标
+            </a>
+            
+            <div class="article-title-en">China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/thea-energy-raises-100-million-in-new-funding-to-advance-fusion-technology/" target="_blank" rel="noopener">
+              Thea Energy筹集1亿美元新资金以推进聚变技术
+            </a>
+            
+            <div class="article-title-en">Thea Energy Raises $100 Million in New Funding to Advance Fusion Technology</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:34</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/the-impact-of-pv-module-degradation-on-inverter-clipping-losses/" target="_blank" rel="noopener">
+              光伏组件退化对逆变器削波损耗的影响
+            </a>
+            
+            <div class="article-title-en">The impact of PV module degradation on inverter clipping losses</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/virginia-senator-suggests-scc-judge-recuse-from-nextera-dominion-merger/821352/" target="_blank" rel="noopener">
+              弗吉尼亚州参议员建议SCC法官回避NextEra-Dominion合并案
+            </a>
+            
+            <div class="article-title-en">Virginia senator suggests SCC judge recuse herself from NextEra-Dominion merger</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/matrix-renewables-and-solv-start-construction-on-457-mw-texas-solar-project/" target="_blank" rel="noopener">
+              Matrix Renewables和SOLV开始建设德克萨斯州457兆瓦的太阳能项目
+            </a>
+            
+            <div class="article-title-en">Matrix Renewables and SOLV start construction on 457-MW Texas solar project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:19</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/sunpure-automated-module-installers-compatible-with-gamechange-solar-trackers/" target="_blank" rel="noopener">
+              与GameChange Solar跟踪器兼容的SUNPURE自动化模块安装程序
+            </a>
+            
+            <div class="article-title-en">SUNPURE automated module installers compatible with GameChange Solar trackers</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:05</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/ferc-competitive-transmission-spp-miso-entergy-complaint/821328/" target="_blank" rel="noopener">
+              MISO驳回了公用事业公司对竞争性输电投标的投诉
+            </a>
+            
+            <div class="article-title-en">MISO pushes back on utility complaint over competitive transmission bidding</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/mango-power-modular-microinverter-hits-us-residential-solar-market/" target="_blank" rel="noopener">
+              Mango Power模块化微型逆变器进军美国住宅太阳能市场
+            </a>
+            
+            <div class="article-title-en">Mango Power modular microinverter hits US residential solar market</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/media-reaction-uk-and-europes-mind-boggling-may-heat-and-climate-change/" target="_blank" rel="noopener">
+              媒体反应：英国和欧洲“令人难以置信”的5月高温和气候变化
+            </a>
+            
+            <div class="article-title-en">Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:26</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/28/akrocean-to-start-floating-lidar-campaign-at-500-mw-vietnamese-offshore-wind-site/" target="_blank" rel="noopener">
+              Akrocean将在越南500兆瓦海上风电场启动浮动激光雷达活动
+            </a>
+            
+            <div class="article-title-en">Akrocean to Start Floating LiDAR Campaign at 500 MW Vietnamese Offshore Wind Site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:25</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/the-urgency-is-real-pjm-considers-its-future-amidst-substantial-load-growth/" target="_blank" rel="noopener">
+              “紧迫性是真实的”：PJM在负载大幅增长的情况下考虑其未来
+            </a>
+            
+            <div class="article-title-en">‘The urgency is real’: PJM considers its future amidst substantial load growth</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/ercot-incentivises-grid-forming-bess-with-us25-million-programme/" target="_blank" rel="noopener">
+              ERCOT通过2500万美元的计划激励电网形成BESS
+            </a>
+            
+            <div class="article-title-en">ERCOT incentivises grid-forming BESS with US$25 million programme</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/lg-es-system-integrator-subsidiary-signs-6gwh-bess-deal-with-michigan-utility-dte-energy/" target="_blank" rel="noopener">
+              LG ES系统集成商子公司与密歇根州公用事业公司DTE Energy签署6GWh BESS协议
+            </a>
+            
+            <div class="article-title-en">LG ES system integrator subsidiary signs 6GWh BESS deal with Michigan utility DTE Energy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959602/trump-wont-last-forever-rwe-urged-retain-us-offshore-wind-leases" target="_blank" rel="noopener">
+              “特朗普不会永远持续下去”：RWE敦促保留美国海上风电租赁
+            </a>
+            
+            <div class="article-title-en">‘Trump won’t last forever’: RWE urged to retain US offshore wind leases</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:14</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/analysis/critical-minerals-for-energy-transition/" target="_blank" rel="noopener">
+              关键矿产正成为能源转型的交付制约因素
+            </a>
+            
+            <div class="article-title-en">Critical minerals are becoming the energy transition’s delivery constraint</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:09</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959598/tpi-set-sell-remaining-assets-vestas-ge-vernova" target="_blank" rel="noopener">
+              TPI计划将剩余资产出售给维斯塔斯和通用电气Vernova
+            </a>
+            
+            <div class="article-title-en">TPI set to sell remaining assets to Vestas and GE Vernova</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/28/dutch-company-deploys-floating-wind-turbine-prototype-for-testing/" target="_blank" rel="noopener">
+              荷兰公司部署浮动式风力涡轮机原型进行测试
+            </a>
+            
+            <div class="article-title-en">Dutch Company Deploys Floating Wind Turbine Prototype for Testing</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:40</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959579/weve-underperformed-%E2%80%93-strazik-delivers-gloomy-view-us-wind-power" target="_blank" rel="noopener">
+              “我们表现不佳”-Strazik对美国风力发电持悲观态度
+            </a>
+            
+            <div class="article-title-en">‘We’ve underperformed’ – Strazik delivers gloomy view of US wind power</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:26</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energy-storage.news/contourglobal-brings-online-231mw-solar-1-3gwh-bess-in-chile/" target="_blank" rel="noopener">
+              ContourGlobal在智利推出231MW太阳能、1.3GWh BESS
+            </a>
+            
+            <div class="article-title-en">ContourGlobal brings online 231MW solar, 1.3GWh BESS in Chile</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Storage News</span>
+              <span class="cat-tag">储能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959569/china-begins-construction-20mw-floating-offshore-wind-platform" target="_blank" rel="noopener">
+              中国开始建设20MW浮动式海上风电平台
+            </a>
+            
+            <div class="article-title-en">China begins construction of 20MW floating offshore wind platform</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/geothermal/geothermal-networks-new-utility-model" target="_blank" rel="noopener">
+              随着地热网络的发展，对新实用新型的需求也在增长
+            </a>
+            
+            <div class="article-title-en">As geothermal networks grow, so does the call for a new utility model</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/ev-charging/charge-your-car-at-menards-its-illinois-stores-are-adding-ev-ports" target="_blank" rel="noopener">
+              在梅纳兹给你的车充电？其伊利诺伊州的门店正在增加电动汽车端口。
+            </a>
+            
+            <div class="article-title-en">Charge your car at Menards? Its Illinois stores are adding EV ports.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/28/totalenergies-applies-for-authorisation-for-1-5-gw-offshore-wind-farm-in-france/" target="_blank" rel="noopener">
+              TotalEnergies申请法国1.5GW海上风电场的授权
+            </a>
+            
+            <div class="article-title-en">TotalEnergies Applies for Authorisation for 1.5 GW Offshore Wind Farm in France</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:52</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/1-mw-solar-project-comes-online-at-cu-boulder/" target="_blank" rel="noopener">
+              1-MW太阳能项目在科罗拉多大学博尔德分校上线
+            </a>
+            
+            <div class="article-title-en">1-MW solar project comes online at CU Boulder</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:39</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/liebreich-the-great-clean-energy-acceleration-2-0/" target="_blank" rel="noopener">
+              Liebreich：伟大的清洁能源加速2.0
+            </a>
+            
+            <div class="article-title-en">Liebreich: The Great Clean Energy Acceleration 2.0</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:32</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/sunformance-launches-as-recovery-division-of-solar-installation-arm-sunstall/" target="_blank" rel="noopener">
+              Sunperformance作为太阳能安装部门Sunstall的“恢复”部门推出
+            </a>
+            
+            <div class="article-title-en">Sunformance launches as ‘recovery’ division of solar installation arm Sunstall</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:57</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/digitalbridge-acquiring-arclight-in-1-billion-power-infrastructure-deal/" target="_blank" rel="noopener">
+              DigitalBridge以10亿美元的电力基础设施交易收购ArcLight
+            </a>
+            
+            <div class="article-title-en">DigitalBridge Acquiring ArcLight in $1-Billion Power Infrastructure Deal</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/spearmint-energy-secures-450-million-in-financing-for-texas-bess-project/" target="_blank" rel="noopener">
+              Spearmint Energy为德克萨斯州BESS项目获得4.5亿美元融资
+            </a>
+            
+            <div class="article-title-en">Spearmint Energy Secures $450 Million in Financing for Texas BESS Project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-27</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:14</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/proscore-united-rentals-develop-equipment-operator-training-for-energy-sector/" target="_blank" rel="noopener">
+              ProScore和United Rentals为能源行业开发设备操作员培训
+            </a>
+            
+            <div class="article-title-en">ProScore, United Rentals develop equipment operator training for energy sector</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:39</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/streaming-wars-utilities-ai-data-center/820883/" target="_blank" rel="noopener">
+              流媒体战争可以让公用事业公司了解人工智能数据中心的繁荣
+            </a>
+            
+            <div class="article-title-en">What the streaming wars can teach utilities about the AI data center boom</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:28</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.utilitydive.com/news/demand-management-data-center-flexibility-boost-regional-reliability-nerc/821225/" target="_blank" rel="noopener">
+              需求管理、数据中心灵活性提高了区域可靠性：NERC
+            </a>
+            
+            <div class="article-title-en">Demand management, data center flexibility boost regional reliability: NERC</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Utility Dive</span>
+              <span class="cat-tag">电网</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:57</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/crp-subsea-to-supply-cable-protection-systems-for-east-anglia-two-offshore-wind-farm/" target="_blank" rel="noopener">
+              CRP Subsea为东安格利亚二号海上风电场提供电缆保护系统
+            </a>
+            
+            <div class="article-title-en">CRP Subsea to Supply Cable Protection Systems for East Anglia Two Offshore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:13</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/qa-can-china-turn-hydrogen-into-its-next-clean-energy-industry/" target="_blank" rel="noopener">
+              问：中国能否将氢能转化为下一个清洁能源产业？
+            </a>
+            
+            <div class="article-title-en">Q&amp;A: Can China turn hydrogen into its next clean-energy industry?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:58</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/detection-device-aims-to-stop-copper-theft-on-solar-projects/" target="_blank" rel="noopener">
+              检测设备旨在阻止太阳能项目上的铜盗窃
+            </a>
+            
+            <div class="article-title-en">Detection device aims to stop copper theft on solar projects</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:10</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959455/windeurope-reveals-first-figures-blade-waste-landfill" target="_blank" rel="noopener">
+              WindEurope公布了第一批叶片垃圾填埋数据
+            </a>
+            
+            <div class="article-title-en">WindEurope reveals first figures for blade waste to landfill</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:27</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/rwe-to-carry-out-pre-installation-survey-at-vanguard-west-site/" target="_blank" rel="noopener">
+              RWE将在Vanguard West现场进行安装前调查
+            </a>
+            
+            <div class="article-title-en">RWE to Carry Out Pre-Installation Survey at Vanguard West Site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/qualitas-energy-battery-projects-italy/" target="_blank" rel="noopener">
+              Qualitas Energy为意大利211MW电池项目提供资金
+            </a>
+            
+            <div class="article-title-en">Qualitas Energy funds 211MW battery projects in Italy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:34</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959368/wind-power-patents-dongfang-siemens-gamesa-cssc-haizhuang-sany-enercon" target="_blank" rel="noopener">
+              风电专利：东方|西门子歌美飒|中船海装|三一|爱纳康
+            </a>
+            
+            <div class="article-title-en">Wind power patents: Dongfang | Siemens Gamesa | CSSC Haizhuang | Sany | Enercon</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/semco-maritime-wind-multiplikator-secure-long-term-integrated-service-contract-for-german-offshore-wind-farm/" target="_blank" rel="noopener">
+              Semco Maritime与Wind Multilikator签订了德国海上风电场长期综合服务合同
+            </a>
+            
+            <div class="article-title-en">Semco Maritime, Wind Multiplikator Secure Long-Term Integrated Service Contract for German Offshore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:49</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/strategic-marine-mainprize-offshore-sign-delivery-agreement-for-two-new-supa-swath-vessels/" target="_blank" rel="noopener">
+              Strategic Marine与Mainprize Offshore签署两艘新Supa Swath船的交付协议
+            </a>
+            
+            <div class="article-title-en">Strategic Marine, Mainprize Offshore Sign Delivery Agreement for Two New Supa Swath Vessels</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/electric-vehicles/great-time-to-buy-used-ev" target="_blank" rel="noopener">
+              现在是购买二手电动汽车的好时机。以下是如何获得合适的电动汽车。
+            </a>
+            
+            <div class="article-title-en">It’s a great time to buy a used EV. Here’s how to get the right one.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/energy-storage/innovation-antora-massive-heat-battery" target="_blank" rel="noopener">
+              Antora大型新型热电池背后隐藏的创新
+            </a>
+            
+            <div class="article-title-en">The hidden innovation behind Antora’s massive new heat battery</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">12:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/global-clean-energy-trade-rebounds-to-479-billion-in-2025-despite-tariffs-and-geopolitical-turmoil-bloombergnef/" target="_blank" rel="noopener">
+              尽管关税和地缘政治动荡，全球清洁能源贸易在2025年反弹至4790亿美元：BloombergNEF
+            </a>
+            
+            <div class="article-title-en">Global Clean-Energy Trade Rebounds to $479 Billion in 2025 Despite Tariffs and Geopolitical Turmoil: BloombergNEF</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">12:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/emissions-reduction/new-york-gives-up-ambitious-climate-targets" target="_blank" rel="noopener">
+              纽约州放弃了其最雄心勃勃的气候目标
+            </a>
+            
+            <div class="article-title-en">New York state gives up on its most ambitious climate targets</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/wind-repowering-a-second-wind-for-the-industry/" target="_blank" rel="noopener">
+              风力发电——工业的第二次风
+            </a>
+            
+            <div class="article-title-en">Wind Repowering—A Second Wind for the Industry</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-26</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/gcl-si-getz-energy-pv-module-supply/" target="_blank" rel="noopener">
+              协鑫国际和Getz Energy就1GW光伏组件供应达成一致
+            </a>
+            
+            <div class="article-title-en">GCL SI and Getz Energy agree on 1GW PV module supply</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/solar/ai-helps-community-solar-connect-grid" target="_blank" rel="noopener">
+              这个人工智能工具帮助社区太阳能开发商更快地连接到电网
+            </a>
+            
+            <div class="article-title-en">This AI tool helps community solar developers connect to the grid sooner</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/clean-energy/grid-better-shape-this-summer" target="_blank" rel="noopener">
+              今年夏天，电网的状况更好。感谢太阳能和电池。
+            </a>
+            
+            <div class="article-title-en">The grid is in better shape this summer. Thank solar and batteries.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">07:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/" target="_blank" rel="noopener">
+              分析：中国新的碳指标在排放量上留下了与德国相当的差距
+            </a>
+            
+            <div class="article-title-en">Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-25</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/revealed-floods-have-forced-at-least-67-closures-at-nhs-hospitals-since-2021/" target="_blank" rel="noopener">
+              自2021年以来，洪水已迫使至少67家NHS医院关闭
+            </a>
+            
+            <div class="article-title-en">Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:08</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/rwe-cis-tender-7-theodore-wind-farm/" target="_blank" rel="noopener">
+              RWE获得1.1GW Theodore风电场的CIS招标7合同
+            </a>
+            
+            <div class="article-title-en">RWE secures CIS Tender 7 contract for 1.1GW Theodore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/geothermal/denver-heat-cool-buildings-sewage" target="_blank" rel="noopener">
+              丹佛计划用污水为建筑物供暖和制冷，等等
+            </a>
+            
+            <div class="article-title-en">Denver has a plan to heat and cool buildings with — wait for it — sewage</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-22</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:50</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/debriefed-22-may-2026-un-adopts-landmark-resolution-trump-takes-on-rcp8-5-climate-migration/" target="_blank" rel="noopener">
+              2026年5月22日简报：联合国通过具有里程碑意义的决议|特朗普接受“RCP8.5”|气候移民
+            </a>
+            
+            <div class="article-title-en">DeBriefed 22 May 2026: UN adopts landmark resolution | Trump takes on ‘RCP8.5’ | Climate migration</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/" target="_blank" rel="noopener">
+              专家：为什么移民在变暖的世界中“不是适应的失败”
+            </a>
+            
+            <div class="article-title-en">Experts: Why migration is ‘not a failure of adaptation’ in a warming world</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Carbon Brief</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:16</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/kursk-2-first-vver-toi-has-generated-two-billion-kwh" target="_blank" rel="noopener">
+              库尔斯克II号的首个VVER-TOI“已发电20亿千瓦时”
+            </a>
+            
+            <div class="article-title-en">Kursk II&#39;s first VVER-TOI &#39;has generated 2 billion kWh&#39;</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:59</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/sungrow-to-supply-storage-rtc/" target="_blank" rel="noopener">
+              阳光电源将为马斯达尔阿布扎比RTC项目提供7.5GWh的储能
+            </a>
+            
+            <div class="article-title-en">Sungrow to supply 7.5GWh of storage for Masdar’s Abu Dhabi RTC project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/google-pledges-power-ratepayer-protections-in-15b-missouri-data-center-expansion/" target="_blank" rel="noopener">
+              谷歌承诺在耗资150亿美元的密苏里州数据中心扩建中提供电力和纳税人保护
+            </a>
+            
+            <div class="article-title-en">Google Pledges Power, Ratepayer Protections in $15B Missouri Data Center Expansion</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:05</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.powermag.com/texture-raises-12-5m-to-tackle-the-operational-complexity-of-the-modern-grid/" target="_blank" rel="noopener">
+              Texture融资1250万美元解决现代网格的操作复杂性
+            </a>
+            
+            <div class="article-title-en">Texture Raises $12.5M to Tackle the Operational Complexity of the Modern Grid</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Power Magazine</span>
+              <span class="cat-tag">电力</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-21</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:58</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/terrapower-and-hd-hyundai-sign-natrium-reactor-agreements" target="_blank" rel="noopener">
+              TerraPower和HD Hyundai签署钠反应堆协议
+            </a>
+            
+            <div class="article-title-en">TerraPower and HD Hyundai sign Natrium reactor agreements</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/microreactor-application-accepted-for-review-by-us-regulator" target="_blank" rel="noopener">
+              美国监管机构接受微反应器申请审查
+            </a>
+            
+            <div class="article-title-en">Microreactor application accepted for review by US regulator</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:11</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/jacobs-to-carry-out-environmental-assessments-for-Oldbury-site" target="_blank" rel="noopener">
+              Jacobs将为英国奥尔德伯里工厂进行环境评估
+            </a>
+            
+            <div class="article-title-en">Jacobs to carry out environmental assessments for UK&#39;s Oldbury site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:12</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/nea-awards-iwmf-phase-2/" target="_blank" rel="noopener">
+              新加坡扩大大士Nexus废物能源项目
+            </a>
+            
+            <div class="article-title-en">Singapore expands Tuas Nexus waste-to-energy project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:37</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/nsw-opens-tender-8/" target="_blank" rel="noopener">
+              新南威尔士州启动2.5GW可再生能源容量的第8次招标
+            </a>
+            
+            <div class="article-title-en">New South Wales opens Tender 8 for 2.5GW of renewable capacity</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-20</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:05</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/rwanda-and-us-sign-civil-nuclear-cooperation-mou" target="_blank" rel="noopener">
+              Holtec和卢旺达推进部署SMR-300的计划
+            </a>
+            
+            <div class="article-title-en">Holtec and Rwanda advance plans to deploy SMR-300s</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/risks-of-sizewell-c-delivery-model-must-be-monitored-says-public-auditor" target="_blank" rel="noopener">
+              公共审计师表示，必须监控新型Sizewell C融资模式的风险
+            </a>
+            
+            <div class="article-title-en">Risks of novel Sizewell C financing model must be monitored, says public auditor</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:03</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/antora-poet-commission-thermal-battery/" target="_blank" rel="noopener">
+              Antora，南达科他州POET委员会5GWh热电池系统
+            </a>
+            
+            <div class="article-title-en">Antora, POET commission 5GWh thermal battery system in South Dakota</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:28</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/new-episode-copper-gold-mining-the-strategic-convergence-of-two-sectors/" target="_blank" rel="noopener">
+              新篇章：铜金矿开采——两个行业的战略融合
+            </a>
+            
+            <div class="article-title-en">New episode: Copper-gold mining – the strategic convergence of two sectors</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-19</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:23</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/fourth-finnish-municipality-to-assess-nuclear-district-heating" target="_blank" rel="noopener">
+              芬兰第四个城市评估核能区域供暖
+            </a>
+            
+            <div class="article-title-en">Fourth Finnish municipality to assess nuclear district heating</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:56</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/sponsored/delivering-engineering-interventions-on-critical-energy-assets-on-site/" target="_blank" rel="noopener">
+              在现场对关键能源资产进行高影响力的工程干预
+            </a>
+            
+            <div class="article-title-en">Delivering high-impact engineering interventions on critical energy assets on site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:41</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/concrete-poured-for-brest-od-300-turbine-foundation" target="_blank" rel="noopener">
+              BREST-OD-300水轮机基础混凝土浇筑
+            </a>
+            
+            <div class="article-title-en">Concrete poured for BREST-OD-300 turbine foundation</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/new-energy-outlook/" target="_blank" rel="noopener">
+              2026年新能源展望
+            </a>
+            
+            <div class="article-title-en">New Energy Outlook 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">14:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/bloombergnefs-new-energy-outlook-2026-transition-to-newer-technologies-expanded-electrification-to-strengthen-nations-energy-security/" target="_blank" rel="noopener">
+              BloombergNEF 2026年新能源展望：向新技术过渡，扩大电气化以加强国家能源安全
+            </a>
+            
+            <div class="article-title-en">BloombergNEF’s New Energy Outlook 2026: Transition to Newer Technologies, Expanded Electrification to Strengthen Nations’ Energy Security</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-18</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:41</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/blykalla-applies-to-build-swedish-smr-plant" target="_blank" rel="noopener">
+              Blykalla申请建造瑞典SMR工厂
+            </a>
+            
+            <div class="article-title-en">Blykalla applies to build Swedish SMR plant</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.world-nuclear-news.org//articles/concrete-pouring-completed-for-first-part-of-cernavoda-refurb-project" target="_blank" rel="noopener">
+              Cernavoda翻修项目第一部分混凝土浇筑完成
+            </a>
+            
+            <div class="article-title-en">Concrete pouring completed for first part of Cernavoda refurb project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">World Nuclear News</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-14</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">09:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/finance/energy-transition-bank-financing-struggles-to-pull-ahead-of-fossil-fuels-in-asia/" target="_blank" rel="noopener">
+              能源转型银行融资努力在亚洲领先于化石燃料
+            </a>
+            
+            <div class="article-title-en">Energy Transition Bank Financing Struggles to Pull Ahead of Fossil Fuels in Asia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-07</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">10:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/energy-storage-enters-the-100-gigawatt-era-three-things-to-know/" target="_blank" rel="noopener">
+              储能进入100吉瓦时代：需要知道的三件事
+            </a>
+            
+            <div class="article-title-en">Energy Storage Enters the 100-Gigawatt Era: Three Things to Know</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-05</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:27</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/ai-data-centers-energy-and-finance-dispatch-from-the-bnef-summit-new-york-2026/" target="_blank" rel="noopener">
+              人工智能数据中心、能源和金融：2026年纽约BNEF峰会简报
+            </a>
+            
+            <div class="article-title-en">AI Data Centers, Energy and Finance: Dispatch from the BNEF Summit New York 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-01</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/nuclear-fusion-powers-up-for-commercial-breakthrough/" target="_blank" rel="noopener">
+              核聚变技术有望实现商业突破
+            </a>
+            
+            <div class="article-title-en">Nuclear Fusion Powers Up for Commercial Breakthrough</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:53</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/commodities/bnef-talk-coppers-world-of-wires-wheels-and-worries/" target="_blank" rel="noopener">
+              BNEF演讲：铜的电线、车轮和担忧世界
+            </a>
+            
+            <div class="article-title-en">BNEF Talk: Copper’s World of Wires, Wheels and Worries</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">04-21</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:59</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/industry-and-buildings/eu-carbon-border-tariff-is-reshaping-industrial-trade-flows/" target="_blank" rel="noopener">
+              欧盟碳边境关税正在重塑工业贸易流动
+            </a>
+            
+            <div class="article-title-en">EU Carbon Border Tariff Is Reshaping Industrial Trade Flows</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">04-16</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/poland-moves-on-bwrx-300-fuel-supply/" target="_blank" rel="noopener">
+              波兰开始供应BWRX-300燃料
+            </a>
+            
+            <div class="article-title-en">Poland moves on BWRX-300 fuel supply</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/what-is-happening-in-the-nordic-nuclear-industry/" target="_blank" rel="noopener">
+              北欧核工业正在发生什么？
+            </a>
+            
+            <div class="article-title-en">What is Happening in the Nordic Nuclear Industry?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/uk-launches-new-fusion-strategy/" target="_blank" rel="noopener">
+              UKAEA公布融合路线图
+            </a>
+            
+            <div class="article-title-en">UKAEA unveils fusion roadmap</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:03</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/grohnde-completes-defueling/" target="_blank" rel="noopener">
+              Grohnde核电站燃料耗尽
+            </a>
+            
+            <div class="article-title-en">Grohnde NPP is defueled</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:51</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/bulgaria-inaugurates-radwaste-facility/" target="_blank" rel="noopener">
+              保加利亚推出LLW/ILW存储库
+            </a>
+            
+            <div class="article-title-en">Bulgaria launches LLW/ILW repository</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:35</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/saeul-3-cleared-for-criticality/" target="_blank" rel="noopener">
+              Saeul 3设置为临界状态
+            </a>
+            
+            <div class="article-title-en">Saeul 3 set for criticality</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/analysis/decommissioning-wastemanagement/spent-fuel-solutions/" target="_blank" rel="noopener">
+              乏燃料解决方案
+            </a>
+            
+            <div class="article-title-en">Spent fuel solutions</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">04-15</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/rosatom-completes-rossiya-simulator/" target="_blank" rel="noopener">
+              Rosatom完成Rossiya模拟器
+            </a>
+            
+            <div class="article-title-en">Rosatom completes Rossiya simulator</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/analysis/advanced-reactorsfusion/funding-fusion-milestones/" target="_blank" rel="noopener">
+              资金融合里程碑
+            </a>
+            
+            <div class="article-title-en">Funding fusion milestones</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:48</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.neimagazine.com/news/nrc-finalises-nepa-streamlining-rules/" target="_blank" rel="noopener">
+              NRC敲定《国家环境政策法》简化规则
+            </a>
+            
+            <div class="article-title-en">NRC finalises NEPA streamlining rules</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Nuclear Engineering</span>
+              <span class="cat-tag">核能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">03-24</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:33</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/webinar/clew-webinar-china-russia-and-orbans-energy-gambit-how-foreign-powers-are-redrawing-hungarys-role-eu-stage" target="_blank" rel="noopener">
+              CLEW网络研讨会：中国、俄罗斯和奥尔班的能源策略：外国势力如何重新划分匈牙利在欧盟舞台上的角色
+            </a>
+            
+            <div class="article-title-en">CLEW Webinar: China, Russia, and Orbán’s energy gambit: how foreign powers are redrawing Hungary’s role on the EU stage</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/webinar/clew-webinar-end-orbans-rule-what-hungarys-elections-mean-climate-and-energy-policy" target="_blank" rel="noopener">
+              CLEW网络研讨会：结束奥尔班的统治？匈牙利大选对气候和能源政策意味着什么
+            </a>
+            
+            <div class="article-title-en">CLEW Webinar: End to Orbán’s rule? What Hungary’s elections mean for climate and energy policy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">03-10</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:38</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/webinar/climate-change-meets-sport-wildfire-recovering-los-angeles-gears-host-summer-olympic-games" target="_blank" rel="noopener">
+              气候变化与体育运动：野火正在恢复的洛杉矶准备举办夏季奥运会
+            </a>
+            
+            <div class="article-title-en">Climate change meets sport: Wildfire-recovering Los Angeles gears up to host Summer Olympic Games</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">02-26</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:57</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/factsheets/qa-how-merz-government-aims-resolve-germanys-heating-energy-row" target="_blank" rel="noopener">
+              问答：梅尔茨政府打算如何解决德国的供暖能源争端
+            </a>
+            
+            <div class="article-title-en">Q&amp;A: How the Merz government aims to resolve Germany’s heating energy row</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">01-21</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/webinar/clew-webinar-staying-track-whats-next-climate-and-energy-germany-and-europe-2026" target="_blank" rel="noopener">
+              CLEW网络研讨会：保持正轨？2026年德国和欧洲的气候和能源下一步是什么
+            </a>
+            
+            <div class="article-title-en">CLEW Webinar: Staying on track? What&#39;s next for climate and energy in Germany and Europe in 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">01-20</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:53</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/grants/india-germany-climate-and-energy-journalism-programme" target="_blank" rel="noopener">
+              印度-德国气候与能源新闻项目
+            </a>
+            
+            <div class="article-title-en">India–Germany Climate and Energy Journalism Programme</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">01-19</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/experts/analysis-and-experimentation-ecosystems-european-research-infrastructure-consortium-anaee-eric" target="_blank" rel="noopener">
+              欧洲研究基础设施联盟（AnaEE ERIC）生态系统分析与实验
+            </a>
+            
+            <div class="article-title-en">Analysis and Experimentation on Ecosystems European Research Infrastructure Consortium (AnaEE-ERIC)</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">01-14</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:27</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/contacts/clemens-scholl" target="_blank" rel="noopener">
+              克莱门斯·朔尔
+            </a>
+            
+            <div class="article-title-en">Clemens A. Schöll</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/grant" target="_blank" rel="noopener">
+              授予
+            </a>
+            
+            <div class="article-title-en">Grant</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">01-08</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:43</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.cleanenergywire.org/experts/zukunft-klimasozial" target="_blank" rel="noopener">
+              Zukunft KlimaSozial
+            </a>
+            
+            <div class="article-footer">
+              <span class="source-tag">Clean Energy Wire</span>
+              <span class="cat-tag">政策</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">12-23</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:37</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowerengineering.com/trump-admin-pauses-leases-for-five-offshore-wind-projects-already-under-construction/" target="_blank" rel="noopener">
+              特朗普政府“暂停”已在建的五个海上风电项目的租赁
+            </a>
+            
+            <div class="article-title-en">Trump admin ‘pauses’ leases for five offshore wind projects already under construction</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Engineering</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">12-18</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowerengineering.com/us-to-install-36-more-wind-turbines-in-2025-than-previous-year/" target="_blank" rel="noopener">
+              美国将在2025年安装比上一年多36%的风力涡轮机
+            </a>
+            
+            <div class="article-title-en">US to install 36% more wind turbines in 2025 than previous year</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Engineering</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">12-11</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:32</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowerengineering.com/federal-judge-says-trumps-offshore-wind-blockade-is-illegal/" target="_blank" rel="noopener">
+              联邦法官称特朗普的海上风电封锁是非法的
+            </a>
+            
+            <div class="article-title-en">Federal judge says Trump’s offshore wind blockade is illegal</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Engineering</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
     </div>
-
-    <div class="ai">
-      <div class="am">07:00</div>
-      <div class="ab">
-        <a class="tz" href="https://www.offshorewind.biz/" target="_blank" rel="noopener">英国最新拍卖结果显示海上风电成本下降15%</a>
-        <div class="te">Offshore wind costs fall 15% in latest UK auction results</div>
-        <div class="af"><span class="st">Offshore Wind</span><span class="ct">风电</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">06:15</div>
-      <div class="ab">
-        <a class="tz" href="https://electrek.co/" target="_blank" rel="noopener">特斯拉Megapack订单激增，公用事业公司规划电网级储能</a>
-        <div class="te">Tesla Megapack orders surge as utilities plan grid-scale storage</div>
-        <div class="af"><span class="st">Electrek</span><span class="ct">储能</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">05:00</div>
-      <div class="ab">
-        <a class="tz" href="https://www.iea.org/" target="_blank" rel="noopener">国际能源署警告天然气需求将在2030年前达峰</a>
-        <div class="te">IEA warns natural gas demand will peak before 2030</div>
-        <div class="af"><span class="st">IEA News</span><span class="ct">政策</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">04:30</div>
-      <div class="ab">
-        <a class="tz" href="https://www.hydrogeninsight.com/" target="_blank" rel="noopener">绿色氢气电解槽成本五年内下降40%</a>
-        <div class="te">Green hydrogen electrolyzer costs drop 40% over five years</div>
-        <div class="af"><span class="st">Hydrogen Insight</span><span class="ct">氢能</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">03:45</div>
-      <div class="ab">
-        <a class="tz" href="https://insideevs.com/" target="_blank" rel="noopener">2025年全球电动汽车销量创纪录达1800万辆</a>
-        <div class="te">EV sales hit record 18 million units in 2025 globally</div>
-        <div class="af"><span class="st">InsideEVs</span><span class="ct">EV</span></div>
-      </div>
-    </div>
-
-    <div class="dg">05-28</div>
-
-    <div class="ai">
-      <div class="am">22:00</div>
-      <div class="ab">
-        <a class="tz" href="https://oilprice.com/" target="_blank" rel="noopener">欧佩克+将减产协议延长至2026年底</a>
-        <div class="te">OPEC+ extends production cuts through end of 2026</div>
-        <div class="af"><span class="st">Oil Price</span><span class="ct">油气</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">20:00</div>
-      <div class="ab">
-        <a class="tz" href="https://www.world-nuclear-news.org/" target="_blank" rel="noopener">法国批准建造六座新核电站</a>
-        <div class="te">France approves construction of six new nuclear reactors</div>
-        <div class="af"><span class="st">World Nuclear News</span><span class="ct">核能</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">18:30</div>
-      <div class="ab">
-        <a class="tz" href="https://www.utilitydive.com/" target="_blank" rel="noopener">美国电网运营商呼吁投入500亿美元升级输电基础设施</a>
-        <div class="te">US grid operators call for $50 billion in transmission upgrades</div>
-        <div class="af"><span class="st">Utility Dive</span><span class="ct">电网</span></div>
-      </div>
-    </div>
-
-    <div class="ai">
-      <div class="am">16:00</div>
-      <div class="ab">
-        <a class="tz" href="https://www.reuters.com/" target="_blank" rel="noopener">路透社：2025年全球清洁能源投资突破1.8万亿美元</a>
-        <div class="te">Reuters: Global clean energy investment tops $1.8 trillion in 2025</div>
-        <div class="af"><span class="st">Reuters Energy</span><span class="ct">综合</span></div>
-      </div>
-    </div>
-
-  </div>
+  
 </main>
 
 <footer>
   <p>能源早报 · 自动聚合全球能源资讯 · 数据来源均为公开 RSS 订阅</p>
-  <p style="margin-top:6px"><a href="https://github.com" target="_blank">GitHub</a> · 内容版权归原作者所有</p>
+  <p style="margin-top:6px">
+    <a href="https://github.com" target="_blank">GitHub</a> ·
+    内容版权归原作者所有
+  </p>
 </footer>
 
 </body>

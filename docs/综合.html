@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>能源早报 · 海外能源资讯聚合</title>
+  <meta name="description" content="自动聚合全球能源领域最新资讯，涵盖太阳能、风电、储能、氢能、EV、油气、核能等领域">
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --card-bg: #ffffff;
+      --border: #e8eaed;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #0ea5e9;
+      --accent-hover: #0284c7;
+      --tag-bg: #f0f9ff;
+      --tag-text: #0369a1;
+      --header-bg: #0f172a;
+      --header-text: #f8fafc;
+      --nav-active: #38bdf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── 顶栏 ── */
+    header {
+      background: var(--header-bg);
+      color: var(--header-text);
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 52px;
+    }
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-decoration: none;
+      white-space: nowrap;
+      letter-spacing: -0.5px;
+    }
+    .logo span { color: #f8fafc; font-weight: 400; }
+    .header-meta {
+      font-size: 12px;
+      color: #94a3b8;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── 分类导航 ── */
+    .nav-wrap {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 52px;
+      z-index: 99;
+      overflow-x: auto;
+    }
+    .nav-wrap::-webkit-scrollbar { display: none; }
+    nav {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      padding: 0 8px;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover { color: var(--accent); }
+    nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    nav a .count {
+      font-size: 11px;
+      color: #94a3b8;
+      margin-left: 3px;
+    }
+
+    /* ── 主内容 ── */
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    /* ── 文章列表 ── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    /* 按日期分组标题 */
+    .date-group-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    /* 文章行 */
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f3f4;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: #fafbfc; margin: 0 -16px; padding: 10px 16px; }
+
+    .article-meta {
+      flex-shrink: 0;
+      width: 44px;
+      text-align: right;
+    }
+    .article-time {
+      font-size: 11px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-title-zh {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      line-height: 1.5;
+    }
+    .article-title-zh:hover { color: var(--accent); }
+
+    .article-title-en {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .source-tag {
+      font-size: 11px;
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      padding: 1px 7px;
+      border-radius: 20px;
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+    }
+    .cat-tag {
+      font-size: 11px;
+      color: #6b7280;
+      background: #f3f4f6;
+      padding: 1px 7px;
+      border-radius: 20px;
+    }
+
+    /* 空状态 */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 0;
+      font-size: 15px;
+    }
+
+    /* ── 底栏 ── */
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 12px;
+      padding: 40px 16px 60px;
+    }
+    footer a { color: #6b7280; }
+
+    /* ── 移动端适配 ── */
+    @media (max-width: 600px) {
+      .article-title-en { display: none; }
+      .header-meta { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 顶栏 -->
+<header>
+  <div class="header-inner">
+    <a href="index.html" class="logo">⚡ 能源早报<span> · 海外能源资讯</span></a>
+    <div class="header-meta">更新于 2026-05-30 09:34 · 共 193 条</div>
+  </div>
+</header>
+
+<!-- 分类导航 -->
+<div class="nav-wrap">
+  <nav>
+    
+    
+    <a href="index.html"
+       class="">
+      全部
+      
+    </a>
+    
+    <a href="太阳能.html"
+       class="">
+      太阳能
+      
+        <span class="count">31</span>
+      
+    </a>
+    
+    <a href="风电.html"
+       class="">
+      风电
+      
+        <span class="count">24</span>
+      
+    </a>
+    
+    <a href="储能.html"
+       class="">
+      储能
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="氢能.html"
+       class="">
+      氢能
+      
+        <span class="count">1</span>
+      
+    </a>
+    
+    <a href="电网.html"
+       class="">
+      电网
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="电力.html"
+       class="">
+      电力
+      
+        <span class="count">10</span>
+      
+    </a>
+    
+    <a href="油气.html"
+       class="">
+      油气
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="核能.html"
+       class="">
+      核能
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+    <a href="EV.html"
+       class="">
+      EV
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="综合.html"
+       class="active">
+      综合
+      
+        <span class="count">41</span>
+      
+    </a>
+    
+    <a href="政策.html"
+       class="">
+      政策
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+  </nav>
+</div>
+
+<!-- 主内容 -->
+<main>
+  
+    
+    <div class="article-list">
+      
+        
+          
+          <div class="date-group-title">05-30</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">09:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/the-buick-electra-l7-bev-looks-awesome-but-only-for-china/" target="_blank" rel="noopener">
+              别克Electra L7纯电动汽车看起来很棒，但仅适用于中国
+            </a>
+            
+            <div class="article-title-en">The Buick Electra L7 BEV Looks Awesome — But Only For China</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">08:17</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/how-the-industrial-accelerator-act-can-help-avoid-more-battery-factories-going-bust/" target="_blank" rel="noopener">
+              《工业加速器法案》如何帮助避免更多电池工厂倒闭
+            </a>
+            
+            <div class="article-title-en">How the Industrial Accelerator Act Can Help Avoid More Battery Factories Going Bust</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">08:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/british-collaboration-reinterpreted-the-mini-paul-smith-edition/" target="_blank" rel="noopener">
+              英国合作，重新解读：迷你保罗·史密斯版。
+            </a>
+            
+            <div class="article-title-en">British Collaboration, Reinterpreted: The MINI Paul Smith Edition.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">05:58</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/the-successes-failures-of-gondola-transit-systems-the-good-outweighs-the-bad/" target="_blank" rel="noopener">
+              缆车运输系统的成败（好胜坏）
+            </a>
+            
+            <div class="article-title-en">The Successes &amp; Failures of Gondola Transit Systems (The Good Outweighs the Bad)</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/illinois-first-great-lakes-state-to-enact-plastic-pellet-pollution-law/" target="_blank" rel="noopener">
+              伊利诺伊州第一个颁布塑料颗粒污染法的大湖州
+            </a>
+            
+            <div class="article-title-en">Illinois First Great Lakes State To Enact Plastic Pellet Pollution Law</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:35</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/over-55-million-announced-to-expand-california-public-ev-fast-charging/" target="_blank" rel="noopener">
+              超过5500万美元宣布扩大加州公共电动汽车快速充电
+            </a>
+            
+            <div class="article-title-en">Over $55 Million Announced To Expand California Public EV Fast Charging</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/tesla-spacex-merger-getting-real/" target="_blank" rel="noopener">
+              特斯拉和SpaceX合并成为现实
+            </a>
+            
+            <div class="article-title-en">Tesla &amp; SpaceX Merger Getting Real</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/byd-technology-strategy-highlights-hardware/" target="_blank" rel="noopener">
+              比亚迪技术战略重点推出中国首款4nm智能驾驶芯片硬件
+            </a>
+            
+            <div class="article-title-en">BYD Technology Strategy Highlights Hardware With China’s First 4nm Intelligent Driving Chip</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:25</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/cleantechnicas-solar-report-inspires-readers-to-teach-each-other/" target="_blank" rel="noopener">
+              CleanTechnica的太阳能报告激励读者互相学习
+            </a>
+            
+            <div class="article-title-en">CleanTechnica’s Solar Report Inspires Readers To Teach Each Other</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/utilities/voters-in-9-states-get-to-pick-the-people-who-oversee-their-power-bills" target="_blank" rel="noopener">
+              9个州的选民将选出监督其电力账单的人
+            </a>
+            
+            <div class="article-title-en">Voters in 9 states will pick the people overseeing their power bills</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:41</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://cleantechnica.com/2026/05/29/heat-pumps-us-startup-quilt-lease-finance/" target="_blank" rel="noopener">
+              更简单的热泵之路：每月付款，无前期成本
+            </a>
+            
+            <div class="article-title-en">An Easier Path To Heat Pumps: Monthly Payments, No Up-Front Cost</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">CleanTechnica</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/electric-vehicles/the-tax-credit-cliff-has-hit-ev-sales-hard" target="_blank" rel="noopener">
+              税收抵免悬崖严重打击了电动汽车销售
+            </a>
+            
+            <div class="article-title-en">The tax credit cliff has hit EV sales hard</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.reuters.com/" target="_blank" rel="noopener">
+              路透社：2025年全球清洁能源投资突破1.8万亿美元
+            </a>
+            
+            <div class="article-title-en">Reuters: Global clean energy investment tops $1.8 trillion in 2025</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Reuters Energy</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:14</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/analysis/critical-minerals-for-energy-transition/" target="_blank" rel="noopener">
+              关键矿产正成为能源转型的交付制约因素
+            </a>
+            
+            <div class="article-title-en">Critical minerals are becoming the energy transition’s delivery constraint</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/geothermal/geothermal-networks-new-utility-model" target="_blank" rel="noopener">
+              随着地热网络的发展，对新实用新型的需求也在增长
+            </a>
+            
+            <div class="article-title-en">As geothermal networks grow, so does the call for a new utility model</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/ev-charging/charge-your-car-at-menards-its-illinois-stores-are-adding-ev-ports" target="_blank" rel="noopener">
+              在梅纳兹给你的车充电？其伊利诺伊州的门店正在增加电动汽车端口。
+            </a>
+            
+            <div class="article-title-en">Charge your car at Menards? Its Illinois stores are adding EV ports.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:39</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/liebreich-the-great-clean-energy-acceleration-2-0/" target="_blank" rel="noopener">
+              Liebreich：伟大的清洁能源加速2.0
+            </a>
+            
+            <div class="article-title-en">Liebreich: The Great Clean Energy Acceleration 2.0</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-27</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/qualitas-energy-battery-projects-italy/" target="_blank" rel="noopener">
+              Qualitas Energy为意大利211MW电池项目提供资金
+            </a>
+            
+            <div class="article-title-en">Qualitas Energy funds 211MW battery projects in Italy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/electric-vehicles/great-time-to-buy-used-ev" target="_blank" rel="noopener">
+              现在是购买二手电动汽车的好时机。以下是如何获得合适的电动汽车。
+            </a>
+            
+            <div class="article-title-en">It’s a great time to buy a used EV. Here’s how to get the right one.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/energy-storage/innovation-antora-massive-heat-battery" target="_blank" rel="noopener">
+              Antora大型新型热电池背后隐藏的创新
+            </a>
+            
+            <div class="article-title-en">The hidden innovation behind Antora’s massive new heat battery</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">12:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/global-clean-energy-trade-rebounds-to-479-billion-in-2025-despite-tariffs-and-geopolitical-turmoil-bloombergnef/" target="_blank" rel="noopener">
+              尽管关税和地缘政治动荡，全球清洁能源贸易在2025年反弹至4790亿美元：BloombergNEF
+            </a>
+            
+            <div class="article-title-en">Global Clean-Energy Trade Rebounds to $479 Billion in 2025 Despite Tariffs and Geopolitical Turmoil: BloombergNEF</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">12:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/emissions-reduction/new-york-gives-up-ambitious-climate-targets" target="_blank" rel="noopener">
+              纽约州放弃了其最雄心勃勃的气候目标
+            </a>
+            
+            <div class="article-title-en">New York state gives up on its most ambitious climate targets</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-26</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/gcl-si-getz-energy-pv-module-supply/" target="_blank" rel="noopener">
+              协鑫国际和Getz Energy就1GW光伏组件供应达成一致
+            </a>
+            
+            <div class="article-title-en">GCL SI and Getz Energy agree on 1GW PV module supply</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/solar/ai-helps-community-solar-connect-grid" target="_blank" rel="noopener">
+              这个人工智能工具帮助社区太阳能开发商更快地连接到电网
+            </a>
+            
+            <div class="article-title-en">This AI tool helps community solar developers connect to the grid sooner</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/clean-energy/grid-better-shape-this-summer" target="_blank" rel="noopener">
+              今年夏天，电网的状况更好。感谢太阳能和电池。
+            </a>
+            
+            <div class="article-title-en">The grid is in better shape this summer. Thank solar and batteries.</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-25</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:08</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/rwe-cis-tender-7-theodore-wind-farm/" target="_blank" rel="noopener">
+              RWE获得1.1GW Theodore风电场的CIS招标7合同
+            </a>
+            
+            <div class="article-title-en">RWE secures CIS Tender 7 contract for 1.1GW Theodore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.canarymedia.com/articles/geothermal/denver-heat-cool-buildings-sewage" target="_blank" rel="noopener">
+              丹佛计划用污水为建筑物供暖和制冷，等等
+            </a>
+            
+            <div class="article-title-en">Denver has a plan to heat and cool buildings with — wait for it — sewage</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Canary Media</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-22</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:59</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/sungrow-to-supply-storage-rtc/" target="_blank" rel="noopener">
+              阳光电源将为马斯达尔阿布扎比RTC项目提供7.5GWh的储能
+            </a>
+            
+            <div class="article-title-en">Sungrow to supply 7.5GWh of storage for Masdar’s Abu Dhabi RTC project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-21</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:12</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/nea-awards-iwmf-phase-2/" target="_blank" rel="noopener">
+              新加坡扩大大士Nexus废物能源项目
+            </a>
+            
+            <div class="article-title-en">Singapore expands Tuas Nexus waste-to-energy project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:37</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/nsw-opens-tender-8/" target="_blank" rel="noopener">
+              新南威尔士州启动2.5GW可再生能源容量的第8次招标
+            </a>
+            
+            <div class="article-title-en">New South Wales opens Tender 8 for 2.5GW of renewable capacity</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-20</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:03</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/antora-poet-commission-thermal-battery/" target="_blank" rel="noopener">
+              Antora，南达科他州POET委员会5GWh热电池系统
+            </a>
+            
+            <div class="article-title-en">Antora, POET commission 5GWh thermal battery system in South Dakota</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:28</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/news/new-episode-copper-gold-mining-the-strategic-convergence-of-two-sectors/" target="_blank" rel="noopener">
+              新篇章：铜金矿开采——两个行业的战略融合
+            </a>
+            
+            <div class="article-title-en">New episode: Copper-gold mining – the strategic convergence of two sectors</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-19</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:56</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.energymonitor.ai/sponsored/delivering-engineering-interventions-on-critical-energy-assets-on-site/" target="_blank" rel="noopener">
+              在现场对关键能源资产进行高影响力的工程干预
+            </a>
+            
+            <div class="article-title-en">Delivering high-impact engineering interventions on critical energy assets on site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Energy Monitor</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/new-energy-outlook/" target="_blank" rel="noopener">
+              2026年新能源展望
+            </a>
+            
+            <div class="article-title-en">New Energy Outlook 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">14:01</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/bloombergnefs-new-energy-outlook-2026-transition-to-newer-technologies-expanded-electrification-to-strengthen-nations-energy-security/" target="_blank" rel="noopener">
+              BloombergNEF 2026年新能源展望：向新技术过渡，扩大电气化以加强国家能源安全
+            </a>
+            
+            <div class="article-title-en">BloombergNEF’s New Energy Outlook 2026: Transition to Newer Technologies, Expanded Electrification to Strengthen Nations’ Energy Security</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-14</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">09:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/finance/energy-transition-bank-financing-struggles-to-pull-ahead-of-fossil-fuels-in-asia/" target="_blank" rel="noopener">
+              能源转型银行融资努力在亚洲领先于化石燃料
+            </a>
+            
+            <div class="article-title-en">Energy Transition Bank Financing Struggles to Pull Ahead of Fossil Fuels in Asia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-07</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">10:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/energy-storage-enters-the-100-gigawatt-era-three-things-to-know/" target="_blank" rel="noopener">
+              储能进入100吉瓦时代：需要知道的三件事
+            </a>
+            
+            <div class="article-title-en">Energy Storage Enters the 100-Gigawatt Era: Three Things to Know</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-05</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:27</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/ai-data-centers-energy-and-finance-dispatch-from-the-bnef-summit-new-york-2026/" target="_blank" rel="noopener">
+              人工智能数据中心、能源和金融：2026年纽约BNEF峰会简报
+            </a>
+            
+            <div class="article-title-en">AI Data Centers, Energy and Finance: Dispatch from the BNEF Summit New York 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-01</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">04:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/clean-energy/nuclear-fusion-powers-up-for-commercial-breakthrough/" target="_blank" rel="noopener">
+              核聚变技术有望实现商业突破
+            </a>
+            
+            <div class="article-title-en">Nuclear Fusion Powers Up for Commercial Breakthrough</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:53</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/commodities/bnef-talk-coppers-world-of-wires-wheels-and-worries/" target="_blank" rel="noopener">
+              BNEF演讲：铜的电线、车轮和担忧世界
+            </a>
+            
+            <div class="article-title-en">BNEF Talk: Copper’s World of Wires, Wheels and Worries</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">04-21</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:59</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://about.bnef.com/insights/industry-and-buildings/eu-carbon-border-tariff-is-reshaping-industrial-trade-flows/" target="_blank" rel="noopener">
+              欧盟碳边境关税正在重塑工业贸易流动
+            </a>
+            
+            <div class="article-title-en">EU Carbon Border Tariff Is Reshaping Industrial Trade Flows</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Bloomberg NEF</span>
+              <span class="cat-tag">综合</span>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+</main>
+
+<footer>
+  <p>能源早报 · 自动聚合全球能源资讯 · 数据来源均为公开 RSS 订阅</p>
+  <p style="margin-top:6px">
+    <a href="https://github.com" target="_blank">GitHub</a> ·
+    内容版权归原作者所有
+  </p>
+</footer>
+
+</body>
+</html>

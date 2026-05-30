@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>能源早报 · 海外能源资讯聚合</title>
+  <meta name="description" content="自动聚合全球能源领域最新资讯，涵盖太阳能、风电、储能、氢能、EV、油气、核能等领域">
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --card-bg: #ffffff;
+      --border: #e8eaed;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #0ea5e9;
+      --accent-hover: #0284c7;
+      --tag-bg: #f0f9ff;
+      --tag-text: #0369a1;
+      --header-bg: #0f172a;
+      --header-text: #f8fafc;
+      --nav-active: #38bdf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── 顶栏 ── */
+    header {
+      background: var(--header-bg);
+      color: var(--header-text);
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 52px;
+    }
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-decoration: none;
+      white-space: nowrap;
+      letter-spacing: -0.5px;
+    }
+    .logo span { color: #f8fafc; font-weight: 400; }
+    .header-meta {
+      font-size: 12px;
+      color: #94a3b8;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── 分类导航 ── */
+    .nav-wrap {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 52px;
+      z-index: 99;
+      overflow-x: auto;
+    }
+    .nav-wrap::-webkit-scrollbar { display: none; }
+    nav {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      padding: 0 8px;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover { color: var(--accent); }
+    nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    nav a .count {
+      font-size: 11px;
+      color: #94a3b8;
+      margin-left: 3px;
+    }
+
+    /* ── 主内容 ── */
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    /* ── 文章列表 ── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    /* 按日期分组标题 */
+    .date-group-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    /* 文章行 */
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f3f4;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: #fafbfc; margin: 0 -16px; padding: 10px 16px; }
+
+    .article-meta {
+      flex-shrink: 0;
+      width: 44px;
+      text-align: right;
+    }
+    .article-time {
+      font-size: 11px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-title-zh {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      line-height: 1.5;
+    }
+    .article-title-zh:hover { color: var(--accent); }
+
+    .article-title-en {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .source-tag {
+      font-size: 11px;
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      padding: 1px 7px;
+      border-radius: 20px;
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+    }
+    .cat-tag {
+      font-size: 11px;
+      color: #6b7280;
+      background: #f3f4f6;
+      padding: 1px 7px;
+      border-radius: 20px;
+    }
+
+    /* 空状态 */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 0;
+      font-size: 15px;
+    }
+
+    /* ── 底栏 ── */
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 12px;
+      padding: 40px 16px 60px;
+    }
+    footer a { color: #6b7280; }
+
+    /* ── 移动端适配 ── */
+    @media (max-width: 600px) {
+      .article-title-en { display: none; }
+      .header-meta { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 顶栏 -->
+<header>
+  <div class="header-inner">
+    <a href="index.html" class="logo">⚡ 能源早报<span> · 海外能源资讯</span></a>
+    <div class="header-meta">更新于 2026-05-30 09:34 · 共 193 条</div>
+  </div>
+</header>
+
+<!-- 分类导航 -->
+<div class="nav-wrap">
+  <nav>
+    
+    
+    <a href="index.html"
+       class="">
+      全部
+      
+    </a>
+    
+    <a href="太阳能.html"
+       class="">
+      太阳能
+      
+        <span class="count">31</span>
+      
+    </a>
+    
+    <a href="风电.html"
+       class="active">
+      风电
+      
+        <span class="count">24</span>
+      
+    </a>
+    
+    <a href="储能.html"
+       class="">
+      储能
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="氢能.html"
+       class="">
+      氢能
+      
+        <span class="count">1</span>
+      
+    </a>
+    
+    <a href="电网.html"
+       class="">
+      电网
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="电力.html"
+       class="">
+      电力
+      
+        <span class="count">10</span>
+      
+    </a>
+    
+    <a href="油气.html"
+       class="">
+      油气
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="核能.html"
+       class="">
+      核能
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+    <a href="EV.html"
+       class="">
+      EV
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="综合.html"
+       class="">
+      综合
+      
+        <span class="count">41</span>
+      
+    </a>
+    
+    <a href="政策.html"
+       class="">
+      政策
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+  </nav>
+</div>
+
+<!-- 主内容 -->
+<main>
+  
+    
+    <div class="article-list">
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/29/kospo-signs-offshore-wind-agreements-as-part-of-11-2-gw-renewable-energy-strategy/" target="_blank" rel="noopener">
+              KOSPO签署海上风电协议，作为11.2吉瓦可再生能源战略的一部分
+            </a>
+            
+            <div class="article-title-en">KOSPO Signs Offshore Wind Agreements as Part of 11.2 GW Renewable Energy Strategy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:07</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959726/interview-rwes-renewables-chief-solving-europes-grid-problems" target="_blank" rel="noopener">
+              采访：RWE可再生能源负责人谈解决欧洲电网问题
+            </a>
+            
+            <div class="article-title-en">Interview: RWE’s renewables chief on solving Europe’s grid problems</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/29/deme-to-install-15-mw-vestas-turbines-at-japanese-offshore-wind-farm/" target="_blank" rel="noopener">
+              DEME将在日本海上风电场安装15兆瓦维斯塔斯涡轮机
+            </a>
+            
+            <div class="article-title-en">DEME to Install 15 MW Vestas Turbines at Japanese Offshore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959706/mingyang-partnering-offshore-wind-project-canada" target="_blank" rel="noopener">
+              明阳与加拿大海上风电项目合作
+            </a>
+            
+            <div class="article-title-en">Mingyang partnering on offshore wind project in Canada</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959701/asbestos-found-nordex-wind-turbines-sweden" target="_blank" rel="noopener">
+              瑞典Nordex风力涡轮机中发现石棉
+            </a>
+            
+            <div class="article-title-en">Asbestos found in Nordex wind turbines in Sweden</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:31</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959691/mingyang-joins-european-offshore-wind-group" target="_blank" rel="noopener">
+              明阳加入另一家欧洲海上风电集团
+            </a>
+            
+            <div class="article-title-en">Mingyang joins another European offshore wind group</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:28</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/29/rwe-reportedly-weighing-us-offshore-wind-exit-deal-advocacy-groups-industry-warn-no-basis-under-us-law-to-refund-lease-purchase/" target="_blank" rel="noopener">
+              据报道，RWE正在权衡美国海上风电退出协议；倡导团体和行业警告称，根据美国法律，退款租赁购买没有依据
+            </a>
+            
+            <div class="article-title-en">RWE Reportedly Weighing US Offshore Wind Exit Deal; Advocacy Groups, Industry Warn ‘No Basis Under US Law’ to Refund Lease Purchase</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">07:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/" target="_blank" rel="noopener">
+              英国最新拍卖结果显示海上风电成本下降15%
+            </a>
+            
+            <div class="article-title-en">Offshore wind costs fall 15% in latest UK auction results</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:26</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/28/akrocean-to-start-floating-lidar-campaign-at-500-mw-vietnamese-offshore-wind-site/" target="_blank" rel="noopener">
+              Akrocean将在越南500兆瓦海上风电场启动浮动激光雷达活动
+            </a>
+            
+            <div class="article-title-en">Akrocean to Start Floating LiDAR Campaign at 500 MW Vietnamese Offshore Wind Site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:20</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959602/trump-wont-last-forever-rwe-urged-retain-us-offshore-wind-leases" target="_blank" rel="noopener">
+              “特朗普不会永远持续下去”：RWE敦促保留美国海上风电租赁
+            </a>
+            
+            <div class="article-title-en">‘Trump won’t last forever’: RWE urged to retain US offshore wind leases</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:09</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959598/tpi-set-sell-remaining-assets-vestas-ge-vernova" target="_blank" rel="noopener">
+              TPI计划将剩余资产出售给维斯塔斯和通用电气Vernova
+            </a>
+            
+            <div class="article-title-en">TPI set to sell remaining assets to Vestas and GE Vernova</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/28/dutch-company-deploys-floating-wind-turbine-prototype-for-testing/" target="_blank" rel="noopener">
+              荷兰公司部署浮动式风力涡轮机原型进行测试
+            </a>
+            
+            <div class="article-title-en">Dutch Company Deploys Floating Wind Turbine Prototype for Testing</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:40</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959579/weve-underperformed-%E2%80%93-strazik-delivers-gloomy-view-us-wind-power" target="_blank" rel="noopener">
+              “我们表现不佳”-Strazik对美国风力发电持悲观态度
+            </a>
+            
+            <div class="article-title-en">‘We’ve underperformed’ – Strazik delivers gloomy view of US wind power</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959569/china-begins-construction-20mw-floating-offshore-wind-platform" target="_blank" rel="noopener">
+              中国开始建设20MW浮动式海上风电平台
+            </a>
+            
+            <div class="article-title-en">China begins construction of 20MW floating offshore wind platform</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/28/totalenergies-applies-for-authorisation-for-1-5-gw-offshore-wind-farm-in-france/" target="_blank" rel="noopener">
+              TotalEnergies申请法国1.5GW海上风电场的授权
+            </a>
+            
+            <div class="article-title-en">TotalEnergies Applies for Authorisation for 1.5 GW Offshore Wind Farm in France</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-27</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:57</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/crp-subsea-to-supply-cable-protection-systems-for-east-anglia-two-offshore-wind-farm/" target="_blank" rel="noopener">
+              CRP Subsea为东安格利亚二号海上风电场提供电缆保护系统
+            </a>
+            
+            <div class="article-title-en">CRP Subsea to Supply Cable Protection Systems for East Anglia Two Offshore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:10</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959455/windeurope-reveals-first-figures-blade-waste-landfill" target="_blank" rel="noopener">
+              WindEurope公布了第一批叶片垃圾填埋数据
+            </a>
+            
+            <div class="article-title-en">WindEurope reveals first figures for blade waste to landfill</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:27</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/rwe-to-carry-out-pre-installation-survey-at-vanguard-west-site/" target="_blank" rel="noopener">
+              RWE将在Vanguard West现场进行安装前调查
+            </a>
+            
+            <div class="article-title-en">RWE to Carry Out Pre-Installation Survey at Vanguard West Site</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:34</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowermonthly.com/article/1959368/wind-power-patents-dongfang-siemens-gamesa-cssc-haizhuang-sany-enercon" target="_blank" rel="noopener">
+              风电专利：东方|西门子歌美飒|中船海装|三一|爱纳康
+            </a>
+            
+            <div class="article-title-en">Wind power patents: Dongfang | Siemens Gamesa | CSSC Haizhuang | Sany | Enercon</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Monthly</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:24</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/semco-maritime-wind-multiplikator-secure-long-term-integrated-service-contract-for-german-offshore-wind-farm/" target="_blank" rel="noopener">
+              Semco Maritime与Wind Multilikator签订了德国海上风电场长期综合服务合同
+            </a>
+            
+            <div class="article-title-en">Semco Maritime, Wind Multiplikator Secure Long-Term Integrated Service Contract for German Offshore Wind Farm</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">15:49</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.offshorewind.biz/2026/05/27/strategic-marine-mainprize-offshore-sign-delivery-agreement-for-two-new-supa-swath-vessels/" target="_blank" rel="noopener">
+              Strategic Marine与Mainprize Offshore签署两艘新Supa Swath船的交付协议
+            </a>
+            
+            <div class="article-title-en">Strategic Marine, Mainprize Offshore Sign Delivery Agreement for Two New Supa Swath Vessels</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Offshore Wind</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">12-23</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">00:37</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowerengineering.com/trump-admin-pauses-leases-for-five-offshore-wind-projects-already-under-construction/" target="_blank" rel="noopener">
+              特朗普政府“暂停”已在建的五个海上风电项目的租赁
+            </a>
+            
+            <div class="article-title-en">Trump admin ‘pauses’ leases for five offshore wind projects already under construction</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Engineering</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">12-18</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowerengineering.com/us-to-install-36-more-wind-turbines-in-2025-than-previous-year/" target="_blank" rel="noopener">
+              美国将在2025年安装比上一年多36%的风力涡轮机
+            </a>
+            
+            <div class="article-title-en">US to install 36% more wind turbines in 2025 than previous year</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Engineering</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">12-11</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:32</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.windpowerengineering.com/federal-judge-says-trumps-offshore-wind-blockade-is-illegal/" target="_blank" rel="noopener">
+              联邦法官称特朗普的海上风电封锁是非法的
+            </a>
+            
+            <div class="article-title-en">Federal judge says Trump’s offshore wind blockade is illegal</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Wind Power Engineering</span>
+              <span class="cat-tag">风电</span>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+</main>
+
+<footer>
+  <p>能源早报 · 自动聚合全球能源资讯 · 数据来源均为公开 RSS 订阅</p>
+  <p style="margin-top:6px">
+    <a href="https://github.com" target="_blank">GitHub</a> ·
+    内容版权归原作者所有
+  </p>
+</footer>
+
+</body>
+</html>

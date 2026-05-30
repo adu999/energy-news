@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>能源早报 · 海外能源资讯聚合</title>
+  <meta name="description" content="自动聚合全球能源领域最新资讯，涵盖太阳能、风电、储能、氢能、EV、油气、核能等领域">
+  <style>
+    :root {
+      --bg: #f6f7f9;
+      --card-bg: #ffffff;
+      --border: #e8eaed;
+      --text: #1a1a2e;
+      --muted: #6b7280;
+      --accent: #0ea5e9;
+      --accent-hover: #0284c7;
+      --tag-bg: #f0f9ff;
+      --tag-text: #0369a1;
+      --header-bg: #0f172a;
+      --header-text: #f8fafc;
+      --nav-active: #38bdf8;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+                   "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    /* ── 顶栏 ── */
+    header {
+      background: var(--header-bg);
+      color: var(--header-text);
+      padding: 0 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    .header-inner {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      height: 52px;
+    }
+    .logo {
+      font-size: 18px;
+      font-weight: 700;
+      color: #38bdf8;
+      text-decoration: none;
+      white-space: nowrap;
+      letter-spacing: -0.5px;
+    }
+    .logo span { color: #f8fafc; font-weight: 400; }
+    .header-meta {
+      font-size: 12px;
+      color: #94a3b8;
+      margin-left: auto;
+      white-space: nowrap;
+    }
+
+    /* ── 分类导航 ── */
+    .nav-wrap {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 52px;
+      z-index: 99;
+      overflow-x: auto;
+    }
+    .nav-wrap::-webkit-scrollbar { display: none; }
+    nav {
+      max-width: 900px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      padding: 0 8px;
+    }
+    nav a {
+      display: inline-flex;
+      align-items: center;
+      padding: 10px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    nav a:hover { color: var(--accent); }
+    nav a.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      font-weight: 600;
+    }
+    nav a .count {
+      font-size: 11px;
+      color: #94a3b8;
+      margin-left: 3px;
+    }
+
+    /* ── 主内容 ── */
+    main {
+      max-width: 900px;
+      margin: 20px auto;
+      padding: 0 16px;
+    }
+
+    /* ── 文章列表 ── */
+    .article-list { display: flex; flex-direction: column; gap: 0; }
+
+    /* 按日期分组标题 */
+    .date-group-title {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--muted);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      padding: 16px 0 8px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+
+    /* 文章行 */
+    .article-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f1f3f4;
+      transition: background 0.1s;
+    }
+    .article-item:hover { background: #fafbfc; margin: 0 -16px; padding: 10px 16px; }
+
+    .article-meta {
+      flex-shrink: 0;
+      width: 44px;
+      text-align: right;
+    }
+    .article-time {
+      font-size: 11px;
+      color: var(--muted);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .article-body { flex: 1; min-width: 0; }
+
+    .article-title-zh {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text);
+      text-decoration: none;
+      display: block;
+      line-height: 1.5;
+    }
+    .article-title-zh:hover { color: var(--accent); }
+
+    .article-title-en {
+      font-size: 12px;
+      color: #9ca3af;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .article-footer {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-top: 4px;
+    }
+    .source-tag {
+      font-size: 11px;
+      color: var(--tag-text);
+      background: var(--tag-bg);
+      padding: 1px 7px;
+      border-radius: 20px;
+      text-decoration: none;
+      border: 1px solid #bae6fd;
+    }
+    .cat-tag {
+      font-size: 11px;
+      color: #6b7280;
+      background: #f3f4f6;
+      padding: 1px 7px;
+      border-radius: 20px;
+    }
+
+    /* 空状态 */
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 80px 0;
+      font-size: 15px;
+    }
+
+    /* ── 底栏 ── */
+    footer {
+      text-align: center;
+      color: #9ca3af;
+      font-size: 12px;
+      padding: 40px 16px 60px;
+    }
+    footer a { color: #6b7280; }
+
+    /* ── 移动端适配 ── */
+    @media (max-width: 600px) {
+      .article-title-en { display: none; }
+      .header-meta { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- 顶栏 -->
+<header>
+  <div class="header-inner">
+    <a href="index.html" class="logo">⚡ 能源早报<span> · 海外能源资讯</span></a>
+    <div class="header-meta">更新于 2026-05-30 09:34 · 共 193 条</div>
+  </div>
+</header>
+
+<!-- 分类导航 -->
+<div class="nav-wrap">
+  <nav>
+    
+    
+    <a href="index.html"
+       class="">
+      全部
+      
+    </a>
+    
+    <a href="太阳能.html"
+       class="active">
+      太阳能
+      
+        <span class="count">31</span>
+      
+    </a>
+    
+    <a href="风电.html"
+       class="">
+      风电
+      
+        <span class="count">24</span>
+      
+    </a>
+    
+    <a href="储能.html"
+       class="">
+      储能
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="氢能.html"
+       class="">
+      氢能
+      
+        <span class="count">1</span>
+      
+    </a>
+    
+    <a href="电网.html"
+       class="">
+      电网
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="电力.html"
+       class="">
+      电力
+      
+        <span class="count">10</span>
+      
+    </a>
+    
+    <a href="油气.html"
+       class="">
+      油气
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="核能.html"
+       class="">
+      核能
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+    <a href="EV.html"
+       class="">
+      EV
+      
+        <span class="count">11</span>
+      
+    </a>
+    
+    <a href="综合.html"
+       class="">
+      综合
+      
+        <span class="count">41</span>
+      
+    </a>
+    
+    <a href="政策.html"
+       class="">
+      政策
+      
+        <span class="count">21</span>
+      
+    </a>
+    
+  </nav>
+</div>
+
+<!-- 主内容 -->
+<main>
+  
+    
+    <div class="article-list">
+      
+        
+          
+          <div class="date-group-title">05-29</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:42</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/is-standalone-solar-losing-its-edge-in-india/" target="_blank" rel="noopener">
+              独立太阳能在印度是否正在失去优势？
+            </a>
+            
+            <div class="article-title-en">Is standalone solar losing its edge in India?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/nextpower-enters-utility-scale-bess-market-with-prevalon-acquisition/" target="_blank" rel="noopener">
+              Nextpower通过收购Prevalon进入公用事业规模的BESS市场
+            </a>
+            
+            <div class="article-title-en">Nextpower enters utility-scale BESS market with Prevalon acquisition</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:56</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/residential-segment-accounts-for-82-of-indias-rooftop-solar-additions-in-q1-2026-mercom/" target="_blank" rel="noopener">
+              印度第一季度安装2.7吉瓦屋顶光伏
+            </a>
+            
+            <div class="article-title-en">India installs 2.7 GW of rooftop PV in Q1</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/i-still-have-hope-that-the-failure-rate-will-decrease-says-kiwa-pvels-tristan-erion-lorico/" target="_blank" rel="noopener">
+              Kiwa PVEL的Tristan Erion Lorico说，我仍然希望失败率会降低
+            </a>
+            
+            <div class="article-title-en">‘I still have hope that the failure rate will decrease,’ says Kiwa PVEL’s Tristan Erion-Lorico</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:18</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/inside-pv-manufacturing-tindos-solar-manufacturing-facility-in-australia/" target="_blank" rel="noopener">
+              内部光伏制造：Tindo在澳大利亚的太阳能制造工厂
+            </a>
+            
+            <div class="article-title-en">Inside PV Manufacturing: Tindo’s solar manufacturing facility in Australia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/the-hydrogen-stream-jcn-launches-hydrogen-powered-backhoe-loader/" target="_blank" rel="noopener">
+              氢流：JCN推出氢动力反铲装载机
+            </a>
+            
+            <div class="article-title-en">The Hydrogen Stream: JCN launches hydrogen-powered backhoe loader</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:11</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/chinese-pv-industry-brief-polysilicon-prices-remain-stable/" target="_blank" rel="noopener">
+              中国光伏产业简报：多晶硅价格保持稳定
+            </a>
+            
+            <div class="article-title-en">Chinese PV Industry Brief: Polysilicon prices remain stable</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/viessmann-debuts-monoblock-air-to-water-heat-pump/" target="_blank" rel="noopener">
+              菲斯曼推出整体式空气-水热泵
+            </a>
+            
+            <div class="article-title-en">Viessmann debuts monoblock air-to-water heat pump</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/iran-energy-crisis-to-reshape-energy-investment-iea/" target="_blank" rel="noopener">
+              伊朗能源危机将“重塑”能源投资——国际能源署
+            </a>
+            
+            <div class="article-title-en">Iran energy crisis to ‘reshape’ energy investment – IEA</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:53</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/ohio-rubber-manufacturing-site-installs-solar-on-flat-roof/" target="_blank" rel="noopener">
+              俄亥俄州橡胶制造厂在平屋顶安装太阳能
+            </a>
+            
+            <div class="article-title-en">Ohio rubber manufacturing site installs solar on flat roof</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:49</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/zelestra-sells-3-5gw-latin-america-solar-and-storage-portfolio-to-promigas/" target="_blank" rel="noopener">
+              Zelestra向Promigas出售3.5GW拉丁美洲太阳能和储能产品组合
+            </a>
+            
+            <div class="article-title-en">Zelestra sells 3.5GW Latin America solar and storage portfolio to Promigas</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:41</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/nextpower-acquires-energy-storage-provider-prevalon-energy/" target="_blank" rel="noopener">
+              Nextpower收购储能供应商Prevalon energy
+            </a>
+            
+            <div class="article-title-en">Nextpower acquires energy storage provider Prevalon Energy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:12</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/inclusive-leadership-is-not-a-trend-it-is-how-resilient-industries-are-built/" target="_blank" rel="noopener">
+              包容性领导力不是一种趋势，而是如何建立有弹性的行业
+            </a>
+            
+            <div class="article-title-en">Inclusive leadership is not a trend, it is how resilient industries are built</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">19:03</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/all-solar-cell-efficiencies-at-a-glance-updated-6/" target="_blank" rel="noopener">
+              所有太阳能电池效率概览-更新
+            </a>
+            
+            <div class="article-title-en">All solar cell efficiencies at a glance – updated</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">18:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/trina-solar-unveils-thbc-technology-topcon-next-frontier/" target="_blank" rel="noopener">
+              天合光能推出THBC技术，TOPCon的下一个前沿？
+            </a>
+            
+            <div class="article-title-en">Trina Solar unveils THBC technology, TOPCon’s next frontier?</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:19</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/chinese-researchers-build-33-33-efficient-perovskite-silicon-tandem-solar-cell-via-new-passivation-strategy/" target="_blank" rel="noopener">
+              中国研究人员通过新的钝化策略建造了33.33%效率的钙钛矿硅叠层太阳能电池
+            </a>
+            
+            <div class="article-title-en">Chinese researchers build 33.33%-efficient perovskite-silicon tandem solar cell via new passivation strategy</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">17:00</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/solax-ori-energy-storage-system-completes-large-scale-fire-test-under-extreme-conditions/" target="_blank" rel="noopener">
+              SolaX ORI储能系统在极端条件下完成大规模火灾测试
+            </a>
+            
+            <div class="article-title-en">SolaX ORI energy storage system completes large-scale fire test under extreme conditions</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">16:36</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-magazine.com/2026/05/29/nextpower-gets-into-energy-storage/" target="_blank" rel="noopener">
+              Nextpower进入储能领域
+            </a>
+            
+            <div class="article-title-en">Nextpower gets into energy storage</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV Magazine</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">08:30</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/" target="_blank" rel="noopener">
+              全球太阳能装机容量突破2太瓦里程碑
+            </a>
+            
+            <div class="article-title-en">Global solar capacity surpasses 2 terawatts milestone</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">11:21</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/bhp-turns-to-indigenous-led-developer-to-explore-renewables-for-iron-ore-operations-in-western-australia/" target="_blank" rel="noopener">
+              必和必拓转向本土开发商，为西澳大利亚州的铁矿石业务探索可再生能源
+            </a>
+            
+            <div class="article-title-en">BHP turns to Indigenous-led developer to explore renewables for iron ore operations in Western Australia</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">11:15</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/wannon-water-enervest-complete-one-of-australias-largest-floating-solar-arrays/" target="_blank" rel="noopener">
+              Wannon Water和Enecector完成了“澳大利亚最大的浮动太阳能电池板之一”
+            </a>
+            
+            <div class="article-title-en">Wannon Water, Enervest complete ‘one of Australia’s largest floating solar arrays’</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">01:06</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/new-york-prioritizes-solar-in-2027-state-budget/" target="_blank" rel="noopener">
+              纽约州2027年预算优先考虑太阳能
+            </a>
+            
+            <div class="article-title-en">New York prioritizes solar in 2027 state budget</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-28</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:43</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/india-adds-over-14gw-of-solar-in-q1-2026/" target="_blank" rel="noopener">
+              印度在2026年第一季度增加了超过14GW的太阳能
+            </a>
+            
+            <div class="article-title-en">India adds over 14GW of solar in Q1 2026</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">22:34</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.pv-tech.org/the-impact-of-pv-module-degradation-on-inverter-clipping-losses/" target="_blank" rel="noopener">
+              光伏组件退化对逆变器削波损耗的影响
+            </a>
+            
+            <div class="article-title-en">The impact of PV module degradation on inverter clipping losses</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">PV-Tech</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:29</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/matrix-renewables-and-solv-start-construction-on-457-mw-texas-solar-project/" target="_blank" rel="noopener">
+              Matrix Renewables和SOLV开始建设德克萨斯州457兆瓦的太阳能项目
+            </a>
+            
+            <div class="article-title-en">Matrix Renewables and SOLV start construction on 457-MW Texas solar project</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:19</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/sunpure-automated-module-installers-compatible-with-gamechange-solar-trackers/" target="_blank" rel="noopener">
+              与GameChange Solar跟踪器兼容的SUNPURE自动化模块安装程序
+            </a>
+            
+            <div class="article-title-en">SUNPURE automated module installers compatible with GameChange Solar trackers</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">21:04</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/mango-power-modular-microinverter-hits-us-residential-solar-market/" target="_blank" rel="noopener">
+              Mango Power模块化微型逆变器进军美国住宅太阳能市场
+            </a>
+            
+            <div class="article-title-en">Mango Power modular microinverter hits US residential solar market</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">03:52</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/1-mw-solar-project-comes-online-at-cu-boulder/" target="_blank" rel="noopener">
+              1-MW太阳能项目在科罗拉多大学博尔德分校上线
+            </a>
+            
+            <div class="article-title-en">1-MW solar project comes online at CU Boulder</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">02:32</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/sunformance-launches-as-recovery-division-of-solar-installation-arm-sunstall/" target="_blank" rel="noopener">
+              Sunperformance作为太阳能安装部门Sunstall的“恢复”部门推出
+            </a>
+            
+            <div class="article-title-en">Sunformance launches as ‘recovery’ division of solar installation arm Sunstall</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+          
+          <div class="date-group-title">05-27</div>
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">23:14</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/proscore-united-rentals-develop-equipment-operator-training-for-energy-sector/" target="_blank" rel="noopener">
+              ProScore和United Rentals为能源行业开发设备操作员培训
+            </a>
+            
+            <div class="article-title-en">ProScore, United Rentals develop equipment operator training for energy sector</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+        
+        <div class="article-item">
+          <div class="article-meta">
+            <span class="article-time">20:58</span>
+          </div>
+          <div class="article-body">
+            <a class="article-title-zh" href="https://www.solarpowerworldonline.com/2026/05/detection-device-aims-to-stop-copper-theft-on-solar-projects/" target="_blank" rel="noopener">
+              检测设备旨在阻止太阳能项目上的铜盗窃
+            </a>
+            
+            <div class="article-title-en">Detection device aims to stop copper theft on solar projects</div>
+            
+            <div class="article-footer">
+              <span class="source-tag">Solar Power World</span>
+              <span class="cat-tag">太阳能</span>
+            </div>
+          </div>
+        </div>
+      
+    </div>
+  
+</main>
+
+<footer>
+  <p>能源早报 · 自动聚合全球能源资讯 · 数据来源均为公开 RSS 订阅</p>
+  <p style="margin-top:6px">
+    <a href="https://github.com" target="_blank">GitHub</a> ·
+    内容版权归原作者所有
+  </p>
+</footer>
+
+</body>
+</html>
