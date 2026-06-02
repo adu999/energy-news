@@ -1,4 +1,265 @@
 {
+  "148166fc825a": {
+    "id": "148166fc825a",
+    "title_en": "Nextpower files patent lawsuit against Gamechange",
+    "title_zh": "Nextpower对Gamechange提起专利诉讼",
+    "url": "https://www.pv-magazine.com/2026/06/02/nextpower-files-patent-lawsuit-against-gamechange/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T10:08:38+00:00"
+  },
+  "1c2f11be980d": {
+    "id": "1c2f11be980d",
+    "title_en": "Maxwell Power secures US$750 million for solar-plus-storage projects",
+    "title_zh": "Maxwell Power获得7.5亿美元用于太阳能+储能项目",
+    "url": "https://www.pv-tech.org/maxwell-power-secures-us750-million-for-solar-plus-storage-projects/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T10:08:29+00:00"
+  },
+  "b92a02e67b94": {
+    "id": "b92a02e67b94",
+    "title_en": "EU approves Spain’s €9 billion capacity market for generation, demand response and energy storage",
+    "title_zh": "欧盟批准西班牙90亿欧元的发电、需求响应和储能市场",
+    "url": "https://www.energy-storage.news/eu-approves-spain-euro-9-billion-capacity-market-generation-demand-response-energy-storage/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-02T09:49:47+00:00"
+  },
+  "3ab7dd00105b": {
+    "id": "3ab7dd00105b",
+    "title_en": "How Virto.MAX shapes the future of solar with conceptual PV design",
+    "title_zh": "如何Virto。MAX通过概念性光伏设计塑造太阳能的未来",
+    "url": "https://www.pv-tech.org/how-virto-max-shapes-the-future-of-solar-with-conceptual-pv-design/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T09:47:34+00:00"
+  },
+  "a94221da39fa": {
+    "id": "a94221da39fa",
+    "title_en": "GE Vernova legal challenge rejected in Vineyard Wind case",
+    "title_zh": "GE Vernova在Vineyard Wind案中的法律挑战被驳回",
+    "url": "https://www.windpowermonthly.com/article/1960104/ge-vernova-legal-challenge-rejected-vineyard-wind-case",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-06-02T09:40:58+00:00"
+  },
+  "4633bd465e14": {
+    "id": "4633bd465e14",
+    "title_en": "$90 Oil Could Lift India’s Inflation to 4.8% and Slow GDP Growth",
+    "title_zh": "90美元的油价可能会将印度的通货膨胀率推高至4.8%，并减缓GDP增长",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/90-Oil-Could-Lift-Indias-Inflation-to-48-and-Slow-GDP-Growth.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-02T09:30:00+00:00"
+  },
+  "72d9c80a60e5": {
+    "id": "72d9c80a60e5",
+    "title_en": "Slovenia to introduce electricity sharing",
+    "title_zh": "斯洛文尼亚将引入电力共享",
+    "url": "https://www.pv-magazine.com/2026/06/02/slovenia-to-introduce-electricity-sharing/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T09:17:15+00:00"
+  },
+  "8255f1f6ffae": {
+    "id": "8255f1f6ffae",
+    "title_en": "Tongwei to showcase TNC 3.0 series at Intersolar Europe 2026",
+    "title_zh": "通威将在2026年欧洲国际太阳能展上展示TNC 3.0系列",
+    "url": "https://www.pv-magazine.com/2026/06/02/tongwei-to-showcase-tnc-3-0-series-at-intersolar-europe-2026/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T09:00:00+00:00"
+  },
+  "8451328460c5": {
+    "id": "8451328460c5",
+    "title_en": "Data centres are becoming a defining force in power markets – can renewables keep up?",
+    "title_zh": "数据中心正在成为电力市场的决定性力量——可再生能源能跟上吗？",
+    "url": "https://www.energymonitor.ai/analysis/powering-data-centres/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-02T08:37:48+00:00"
+  },
+  "c4f430d5dee6": {
+    "id": "c4f430d5dee6",
+    "title_en": "China’s LNG Imports Recover Ahead of Peak Cooling Season",
+    "title_zh": "中国液化天然气进口在降温高峰期前恢复",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Recover-Ahead-of-Peak-Cooling-Season.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-02T08:30:00+00:00"
+  },
+  "28dc0d9d0273": {
+    "id": "28dc0d9d0273",
+    "title_en": "German startup advancing compressor-free electrocaloric heat pump technology",
+    "title_zh": "德国初创企业推进无压缩机电热热泵技术",
+    "url": "https://www.pv-magazine.com/2026/06/02/german-startup-advancing-compressor-free-electrocaloric-heat-pump-technology/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T08:00:00+00:00"
+  },
+  "a0992a7e1ba0": {
+    "id": "a0992a7e1ba0",
+    "title_en": "Strike Action at Major Australian LNG Facility Raises Supply Concerns",
+    "title_zh": "澳大利亚主要液化天然气设施罢工引发供应担忧",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Strike-Action-at-Major-Australian-LNG-Facility-Raises-Supply-Concerns.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-02T07:30:00+00:00"
+  },
+  "25772d894b15": {
+    "id": "25772d894b15",
+    "title_en": "A safer nuclear fuel is gaining steam — but cost remains a hurdle",
+    "title_zh": "一种更安全的核燃料正在获得动力，但成本仍然是一个障碍",
+    "url": "https://www.canarymedia.com/articles/nuclear/safer-nuclear-fuel-gaining-steam",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-02T07:30:00+00:00"
+  },
+  "ea96f9b32646": {
+    "id": "ea96f9b32646",
+    "title_en": "OX2 starts work on solar and battery projects in Poland",
+    "title_zh": "OX2开始在波兰开展太阳能和电池项目",
+    "url": "https://www.energymonitor.ai/news/ox2-starts-work-solar-poland/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-02T07:26:55+00:00"
+  },
+  "3ef541bbae1d": {
+    "id": "3ef541bbae1d",
+    "title_en": "Marstek debuts new plug-in battery series",
+    "title_zh": "Marstek推出新的插电式电池系列",
+    "url": "https://www.pv-magazine.com/2026/06/02/marstek-debuts-new-plug-in-battery-series/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T07:10:00+00:00"
+  },
+  "2b4c9c16fa30": {
+    "id": "2b4c9c16fa30",
+    "title_en": "JDR Opens Subsea Cable Manufacturing Facility in Blyth",
+    "title_zh": "JDR在Blyth开设海底电缆制造工厂",
+    "url": "https://www.offshorewind.biz/2026/06/02/jdr-opens-subsea-cable-manufacturing-facility-in-blyth/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-06-02T07:05:00+00:00"
+  },
+  "f3d5c83b7751": {
+    "id": "f3d5c83b7751",
+    "title_en": "The case for vehicle-integrated phovoltaics in disaster zones",
+    "title_zh": "灾区车辆集成光伏案例",
+    "url": "https://www.pv-magazine.com/2026/06/02/the-case-for-vehicle-integrated-phovoltaics-in-disaster-zones/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T07:00:00+00:00"
+  },
+  "f53e41fea464": {
+    "id": "f53e41fea464",
+    "title_en": "New podcast: RWE onshore chief - 'Grid-blocking is like putting a towel on a deck chair'",
+    "title_zh": "新播客：RWE陆上负责人-“电网封锁就像把毛巾放在躺椅上”",
+    "url": "https://www.windpowermonthly.com/article/1960061/new-podcast-rwe-onshore-chief-grid-blocking-putting-towel-deck-chair",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-06-02T07:00:00+00:00"
+  },
+  "51f01b68b723": {
+    "id": "51f01b68b723",
+    "title_en": "Fluence to integrate Smartstack into Siemens’ Nvidia AI data centre reference architecture",
+    "title_zh": "Fluence将Smartstack集成到西门子Nvidia AI数据中心参考架构中",
+    "url": "https://www.energy-storage.news/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-02T06:34:45+00:00"
+  },
+  "f96cb5a8cc4f": {
+    "id": "f96cb5a8cc4f",
+    "title_en": "ROUNDUP: Japan’s BESS market sees domestic and overseas players pursue larger-scale projects",
+    "title_zh": "ROUNDUP：日本BESS市场看到国内外参与者追求更大规模的项目",
+    "url": "https://www.energy-storage.news/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-02T06:32:22+00:00"
+  },
+  "3307f3f01828": {
+    "id": "3307f3f01828",
+    "title_en": "These polite Canadian lawbreakers may soon be going legal under new e-bike law",
+    "title_zh": "根据新的电动自行车法，这些彬彬有礼的加拿大违法者可能很快就会合法化",
+    "url": "https://electrek.co/2026/06/01/these-polite-canadian-lawbreakers-may-soon-be-going-legal-under-new-e-bike-law/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-02T06:31:34+00:00"
+  },
+  "ca5f743f5854": {
+    "id": "ca5f743f5854",
+    "title_en": "Sungrow launches solar module integrating AI, power electronics",
+    "title_zh": "阳光电源推出集成人工智能、电力电子的太阳能模块",
+    "url": "https://www.pv-magazine.com/2026/06/02/sungrow-launches-solar-module-integrating-ai-power-electronics/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T06:30:00+00:00"
+  },
+  "1b1d2f324547": {
+    "id": "1b1d2f324547",
+    "title_en": "Stabilizing perovskite solar cells with chlorine",
+    "title_zh": "用氯稳定钙钛矿太阳能电池",
+    "url": "https://www.pv-magazine.com/2026/06/02/stabilizing-perovskite-solar-cells-with-chlorine/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T06:00:00+00:00"
+  },
+  "6010735e3ccd": {
+    "id": "6010735e3ccd",
+    "title_en": "Goldman Sachs Sees Strong Refining Profits Through 2026 Amid Fuel Supply Crunch",
+    "title_zh": "在燃料供应紧张的情况下，高盛预计到2026年炼油利润将保持强劲",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-Strong-Refining-Profits-Through-2026-Amid-Fuel-Supply-Crunch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-02T05:41:47+00:00"
+  },
+  "ce55ff03942f": {
+    "id": "ce55ff03942f",
+    "title_en": "Betting on batteries: addressing intermittent inefficiencies at scale",
+    "title_zh": "押注电池：大规模解决间歇性低效问题",
+    "url": "https://www.pv-magazine.com/2026/06/02/betting-on-batteries-addressing-intermittent-inefficiencies-at-scale/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T05:00:00+00:00"
+  },
+  "0948b9168205": {
+    "id": "0948b9168205",
+    "title_en": "SEG Solar announces third U.S. manufacturing site",
+    "title_zh": "SEG Solar宣布在美国设立第三个制造基地",
+    "url": "https://www.pv-magazine.com/2026/06/02/seg-solar-announces-third-u-s-manufacturing-site/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-02T04:30:00+00:00"
+  },
+  "ce201ef67579": {
+    "id": "ce201ef67579",
+    "title_en": "Design and Construction Planning of Solar Power Projects Under Extreme Weather Conditions",
+    "title_zh": "极端天气条件下太阳能发电项目的设计与施工规划",
+    "url": "https://www.powermag.com/design-and-construction-planning-of-solar-power-projects-under-extreme-weather-conditions/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-02T04:20:06+00:00"
+  },
+  "3d25c34d93f0": {
+    "id": "3d25c34d93f0",
+    "title_en": "Electricity Prices Fall Across Australia As Renewables Build Momentum",
+    "title_zh": "随着可再生能源的发展势头，澳大利亚各地的电价下跌",
+    "url": "https://cleantechnica.com/2026/06/01/electricity-prices-fall-across-australia-as-renewables-build-momentum/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-02T03:58:03+00:00"
+  },
+  "d57d46e2f538": {
+    "id": "d57d46e2f538",
+    "title_en": "XPENG Sales Up 4% Month Over Month, Down 4% Year Over Year",
+    "title_zh": "XPENG销售额环比增长4%，同比下降4%",
+    "url": "https://cleantechnica.com/2026/06/01/xpeng-sales-up-4-month-over-month-down-4-year-over-year/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-02T03:57:18+00:00"
+  },
   "9e01d70a4d14": {
     "id": "9e01d70a4d14",
     "title_en": "Australia’s New South Wales commits AU$225 million to low-carbon and renewables manufacturing",
@@ -2513,6 +2774,15 @@
     "category": "核能",
     "pub_ts": "2026-05-26T15:30:36+00:00"
   },
+  "df87aa1f6d8b": {
+    "id": "df87aa1f6d8b",
+    "title_en": "'Largest ever shipment' for a single nuclear plant",
+    "title_zh": "单核电站“有史以来最大出货量”",
+    "url": "https://www.world-nuclear-news.org//articles/largest-ever-shipment-for-a-single-nuclear-plant",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-05-26T14:37:48+00:00"
+  },
   "b91ebe2bcce0": {
     "id": "b91ebe2bcce0",
     "title_en": "GCL SI and Getz Energy agree on 1GW PV module supply",
@@ -3115,6 +3385,15 @@
     "source": "Clean Energy Wire",
     "category": "政策",
     "pub_ts": "2026-01-08T10:43:31+00:00"
+  },
+  "3f009dfdf5bd": {
+    "id": "3f009dfdf5bd",
+    "title_en": "Search",
+    "title_zh": "搜索",
+    "url": "https://www.cleanenergywire.org/search",
+    "source": "Clean Energy Wire",
+    "category": "政策",
+    "pub_ts": "2026-01-05T15:09:59+00:00"
   },
   "589b9b16ebdb": {
     "id": "589b9b16ebdb",
