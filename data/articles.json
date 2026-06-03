@@ -1,4 +1,112 @@
 {
+  "616f3a33d90a": {
+    "id": "616f3a33d90a",
+    "title_en": "The hidden underperformance crisis in solar portfolios",
+    "title_zh": "太阳能投资组合中隐藏的业绩不佳危机",
+    "url": "https://www.pv-magazine.com/2026/06/03/the-hidden-underperformance-crisis-in-solar-portfolios/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T04:00:00+00:00"
+  },
+  "da5e59b41f25": {
+    "id": "da5e59b41f25",
+    "title_en": "Waymo Rolls Out the Ojai!",
+    "title_zh": "Waymo推出Ojai！",
+    "url": "https://cleantechnica.com/2026/06/02/waymo-rolls-out-the-ojai/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T03:21:37+00:00"
+  },
+  "e0e49ecc4ebb": {
+    "id": "e0e49ecc4ebb",
+    "title_en": "TotalEnergies On The Hot Seat Over Offshore Wind Deal",
+    "title_zh": "TotalEnergies在海上风电交易中备受关注",
+    "url": "https://cleantechnica.com/2026/06/02/offshore-wind-lawsuit-totalenergies-deal-trump/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T03:12:36+00:00"
+  },
+  "176f936eb901": {
+    "id": "176f936eb901",
+    "title_en": "A Tale of Two Hybrids",
+    "title_zh": "两个混血儿的故事",
+    "url": "https://cleantechnica.com/2026/06/02/a-tale-of-two-hybrids/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T02:55:39+00:00"
+  },
+  "6f333a849a37": {
+    "id": "6f333a849a37",
+    "title_en": "Tesla found new buyers for its Cybertruck: Kazakh emergency services",
+    "title_zh": "特斯拉为其Cybertruck找到了新买家：哈萨克斯坦紧急服务",
+    "url": "https://electrek.co/2026/06/02/tesla-cybertruck-kazakhstan-emergency-services/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-03T02:33:21+00:00"
+  },
+  "0ee4a64958a7": {
+    "id": "0ee4a64958a7",
+    "title_en": "Oil Prices Climb as U.S. Strikes Tanker and Downs Iranian Drones",
+    "title_zh": "美国袭击油轮并击落伊朗无人机，油价攀升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Strikes-Tanker-and-Downs-Iranian-Drones.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T01:58:37+00:00"
+  },
+  "9b386ecf899c": {
+    "id": "9b386ecf899c",
+    "title_en": "Akaysha Energy’s 415MW/1,660MWh Orana BESS reaches full output in Australia",
+    "title_zh": "Akaysha Energy的415MW/1660MWh Orana BESS在澳大利亚满负荷运行",
+    "url": "https://www.energy-storage.news/akaysha-energys-415mw-1660mwh-orana-bess-reaches-full-output-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-03T01:56:32+00:00"
+  },
+  "d0c6d0dafec8": {
+    "id": "d0c6d0dafec8",
+    "title_en": "Australian utility-scale solar and wind generation rises 10% year-on-year in May, says Rystad Energy",
+    "title_zh": "Rystad Energy表示，澳大利亚公用事业规模的太阳能和风能发电量在5月份同比增长10%",
+    "url": "https://www.pv-tech.org/australian-utility-scale-solar-and-wind-generation-rises-10-year-on-year-in-may-says-rystad-energy/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T01:54:23+00:00"
+  },
+  "a219fba2e058": {
+    "id": "a219fba2e058",
+    "title_en": "Australia’s Queensland opens AU$200 million fund for battery storage and generation projects",
+    "title_zh": "澳大利亚昆士兰州为电池储能和发电项目设立2亿澳元基金",
+    "url": "https://www.energy-storage.news/australias-queensland-opens-au200-million-fund-for-battery-storage-and-generation-projects/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-03T01:51:11+00:00"
+  },
+  "cbbe84789251": {
+    "id": "cbbe84789251",
+    "title_en": "BYD Commercial Vehicle Sales Jump in May",
+    "title_zh": "比亚迪5月商用车销量大幅增长",
+    "url": "https://cleantechnica.com/2026/06/02/byd-commercial-vehicle-sales-jump-in-may/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T00:28:39+00:00"
+  },
+  "3708e9de0ad1": {
+    "id": "3708e9de0ad1",
+    "title_en": "Sierra Club Applauds Northeast States for Challenging Trump Administration’s Illegal TotalEnergies Offshore Wind Lease Buyout",
+    "title_zh": "塞拉俱乐部赞扬东北各州挑战特朗普政府的非法TotalEnergies海上风电租赁收购",
+    "url": "https://cleantechnica.com/2026/06/02/sierra-club-applauds-northeast-states-for-challenging-trump-administrations-illegal-totalenergies-offshore-wind-lease-buyout/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T00:11:34+00:00"
+  },
+  "3f91635db48f": {
+    "id": "3f91635db48f",
+    "title_en": "How Long Can Demand Destruction Keep a Lid on Oil Prices?",
+    "title_zh": "需求破坏能抑制油价多久？",
+    "url": "https://oilprice.com/Energy/Oil-Prices/How-Long-Can-Demand-Destruction-Keep-a-Lid-on-Oil-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T00:00:00+00:00"
+  },
   "9ae2ff284cde": {
     "id": "9ae2ff284cde",
     "title_en": "India’s Oman Bet Looks Timely As Hormuz Crisis Deepens",
