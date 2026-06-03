@@ -1,4 +1,256 @@
 {
+  "e0f0b9d6c3e2": {
+    "id": "e0f0b9d6c3e2",
+    "title_en": "HoloSolis nets share of €100m investment for French PV gigafactory",
+    "title_zh": "HoloSolis获得法国光伏超级工厂1亿欧元投资份额",
+    "url": "https://www.pv-tech.org/holosolis-nets-share-of-e100m-investment-for-french-pv-gigafactory/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T11:00:11+00:00"
+  },
+  "70330367a77b": {
+    "id": "70330367a77b",
+    "title_en": "Array Technologies updates OmniTrack trackers to tilt by up to two degrees",
+    "title_zh": "Array Technologies更新OmniTrack跟踪器，使其倾斜高达2度",
+    "url": "https://www.pv-tech.org/array-technologies-updates-omnitrack-trackers-tily-up-to-two-degrees/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T10:54:13+00:00"
+  },
+  "844605c292d2": {
+    "id": "844605c292d2",
+    "title_en": "JinkoSolar launches 700W TOPCon module and new utility-scale storage system",
+    "title_zh": "晶科太阳能推出700W TOPCon模块和新的公用事业规模储能系统",
+    "url": "https://www.pv-tech.org/jinkosolar-launches-700w-topcon-module-and-new-utility-scale-storage-system/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T10:33:03+00:00"
+  },
+  "961fd0d49c1f": {
+    "id": "961fd0d49c1f",
+    "title_en": "NTPC Green Energy floats 3.3GWh BESS EPC tender for Khavda Solar Park in Gujarat, India",
+    "title_zh": "NTPC Green Energy为印度古吉拉特邦的Khavda太阳能公园进行3.3GWh BESS EPC招标",
+    "url": "https://www.energy-storage.news/ntpc-green-energy-3-3gwh-bess-epc-tender-khavda-solar-gujarat-india/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-03T10:30:30+00:00"
+  },
+  "eaa156e2d93f": {
+    "id": "eaa156e2d93f",
+    "title_en": "Mexico surpasses 5 GW of distributed solar capacity",
+    "title_zh": "墨西哥分布式太阳能装机容量超过5GW",
+    "url": "https://www.pv-magazine.com/2026/06/03/mexico-supera-en-2025-los-5-gw-solares-en-generacion-distribuida/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T10:30:00+00:00"
+  },
+  "bd650034daa0": {
+    "id": "bd650034daa0",
+    "title_en": "Why BESS performance guarantees are more complex than they seem",
+    "title_zh": "为什么BESS性能保证比看起来更复杂",
+    "url": "https://www.energy-storage.news/why-bess-performance-guarantees-are-more-complex-than-they-seem/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-03T10:22:16+00:00"
+  },
+  "8b5994036d2f": {
+    "id": "8b5994036d2f",
+    "title_en": "Cambodia’s utility-scale solar surpasses planned targets for 2030 and 2035",
+    "title_zh": "柬埔寨公用事业规模的太阳能超过了2030年和2035年的计划目标",
+    "url": "https://www.pv-magazine.com/2026/06/03/cambodias-utility-scale-solar-surpasses-planned-targets-for-2030-and-2035/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T10:01:00+00:00"
+  },
+  "12f8b1efa970": {
+    "id": "12f8b1efa970",
+    "title_en": "Iranian Strike On Kuwait Airport Raises Stakes For Gulf States",
+    "title_zh": "伊朗对科威特机场的袭击增加了海湾国家的赌注",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Strike-On-Kuwait-Airport-Raises-Stakes-For-Gulf-States.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T10:00:00+00:00"
+  },
+  "5ecb2e562fe9": {
+    "id": "5ecb2e562fe9",
+    "title_en": "Eco Stor and Next Kraftwerke agree toll for 700MWh Germany BESS",
+    "title_zh": "Eco-Stor和Next Kraftwerke同意700MWh德国BESS的收费",
+    "url": "https://www.energy-storage.news/eco-stor-and-next-kraftwerke-agree-toll-for-700mwh-germany-bess/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-03T09:55:51+00:00"
+  },
+  "3ac2c1f90f70": {
+    "id": "3ac2c1f90f70",
+    "title_en": "Grid expansion, batteries to ease curtailment in Brazil",
+    "title_zh": "电网扩张，电池缓解巴西的限电",
+    "url": "https://www.pv-magazine.com/2026/06/03/melhorias-na-rede-eletrica-e-entrada-de-baterias-no-medio-prazo-aliviarao-curtailment-projeta-aurora/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T09:30:00+00:00"
+  },
+  "c669a0fbad45": {
+    "id": "c669a0fbad45",
+    "title_en": "Supply Shock to Slash India’s Oil Demand Growth to Pandemic Low",
+    "title_zh": "供应冲击将印度石油需求增长降至疫情低点",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Supply-Shock-to-Slash-Indias-Oil-Demand-Growth-to-Pandemic-Low.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T09:30:00+00:00"
+  },
+  "b9929907b5c2": {
+    "id": "b9929907b5c2",
+    "title_en": "All Monopiles Installed at Inch Cape Offshore Wind Farm",
+    "title_zh": "Inch Cape海上风电场安装的所有单桩",
+    "url": "https://www.offshorewind.biz/2026/06/03/all-monopiles-installed-at-inch-cape-offshore-wind-farm/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-06-03T09:15:02+00:00"
+  },
+  "d02debc2f2cb": {
+    "id": "d02debc2f2cb",
+    "title_en": "Natural ester fluids beat mineral oil for use in renewable energy applications",
+    "title_zh": "天然酯流体击败矿物油用于可再生能源应用",
+    "url": "https://www.pv-magazine.com/2026/06/03/natural-ester-fluids-beat-mineral-oil-for-use-in-renewable-energy-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T09:00:00+00:00"
+  },
+  "3b0753dbe4e7": {
+    "id": "3b0753dbe4e7",
+    "title_en": "France, Germany, Portugal, Spain set daily solar records",
+    "title_zh": "法国、德国、葡萄牙、西班牙创下每日太阳能记录",
+    "url": "https://www.pv-magazine.com/2026/06/03/france-germany-portugal-spain-set-daily-solar-records/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T08:41:15+00:00"
+  },
+  "81e46bcad591": {
+    "id": "81e46bcad591",
+    "title_en": "Scientists achieve 27% efficiency in a co-deposited inverted perovskite",
+    "title_zh": "科学家在共沉积的倒置钙钛矿中实现了27%的效率",
+    "url": "https://www.pv-magazine.com/2026/06/03/scientists-achieve-27-efficiency-in-a-co-deposited-inverted-perovskite/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T08:30:00+00:00"
+  },
+  "0ee55eb6a7a8": {
+    "id": "0ee55eb6a7a8",
+    "title_en": "Japan Commits $19.4 Billion to Fighting Its Energy Crisis",
+    "title_zh": "日本承诺投入194亿美元应对能源危机",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Commits-194-Billion-to-Fighting-Its-Energy-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T08:30:00+00:00"
+  },
+  "8805e70939d7": {
+    "id": "8805e70939d7",
+    "title_en": "Q&A: How UK’s seventh carbon budget will deliver ‘£865bn’ in economic benefits",
+    "title_zh": "问答：英国第七次碳预算将如何带来8650亿英镑的经济效益",
+    "url": "https://www.carbonbrief.org/qa-how-uks-seventh-carbon-budget-will-deliver-865bn-in-economic-benefits/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-06-03T08:11:32+00:00"
+  },
+  "b92260c1c359": {
+    "id": "b92260c1c359",
+    "title_en": "Third-party technologies for preventing or dealing with thermal runaway in BESS assets",
+    "title_zh": "防止或处理BESS资产热失控的第三方技术",
+    "url": "https://www.energy-storage.news/third-party-technologies-for-preventing-or-dealing-with-thermal-runaway-in-bess-assets/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-03T08:09:46+00:00"
+  },
+  "735a95923681": {
+    "id": "735a95923681",
+    "title_en": "Enphase explains how gallium nitride is changing its microinverters",
+    "title_zh": "Enphase解释氮化镓如何改变其微逆变器",
+    "url": "https://www.pv-magazine.com/2026/06/03/enphase-explains-how-gallium-nitride-is-changing-its-microinverters/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T08:00:00+00:00"
+  },
+  "5f089bc7b65b": {
+    "id": "5f089bc7b65b",
+    "title_en": "Siemens Gamesa fined after worker paralysed in UK factory incident",
+    "title_zh": "西门子歌美飒在英国工厂事故中工人瘫痪后被罚款",
+    "url": "https://www.windpowermonthly.com/article/1960239/siemens-gamesa-fined-worker-paralysed-uk-factory-incident",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-06-03T07:59:42+00:00"
+  },
+  "7b83a8bdaeba": {
+    "id": "7b83a8bdaeba",
+    "title_en": "Seven US States Sue Trump Administration Over TotalEnergies Offshore Wind Deal",
+    "title_zh": "美国七个州就TotalEnergies海上风电交易起诉特朗普政府",
+    "url": "https://www.offshorewind.biz/2026/06/03/seven-us-states-sue-trump-administration-over-totalenergies-offshore-wind-deal/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-06-03T07:39:38+00:00"
+  },
+  "217996d2d066": {
+    "id": "217996d2d066",
+    "title_en": "German startup building vertical air-to-water heat pump",
+    "title_zh": "德国初创建筑立式空气-水热泵",
+    "url": "https://www.pv-magazine.com/2026/06/03/german-startup-building-vertical-air-to-water-heat-pump/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T07:30:00+00:00"
+  },
+  "96cc5494219b": {
+    "id": "96cc5494219b",
+    "title_en": "Australian LNG Strike Begins to Disrupt Cargo Loadings at Ichthys",
+    "title_zh": "澳大利亚液化天然气罢工开始扰乱Ichthys的货物装载",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australian-LNG-Strike-Begins-to-Disrupt-Cargo-Loadings-at-Ichthys.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T07:30:00+00:00"
+  },
+  "169fc9973335": {
+    "id": "169fc9973335",
+    "title_en": "DOE bars homes from using rebates to ditch fossil-fueled heating",
+    "title_zh": "美国能源部禁止家庭使用回扣来放弃化石燃料供暖",
+    "url": "https://www.canarymedia.com/articles/electrification/doe-homes-using-rebates",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-03T07:30:00+00:00"
+  },
+  "ac530e19846d": {
+    "id": "ac530e19846d",
+    "title_en": "In Massachusetts, parked EVs will start feeding the grid this summer",
+    "title_zh": "在马萨诸塞州，停放的电动汽车将于今年夏天开始向电网供电",
+    "url": "https://www.canarymedia.com/articles/ev-charging/massachusetts-evs-feeding-grid",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-03T07:30:00+00:00"
+  },
+  "252a6832f2e9": {
+    "id": "252a6832f2e9",
+    "title_en": "How Britain became Europe’s solar sink",
+    "title_zh": "英国如何成为欧洲的太阳能汇",
+    "url": "https://www.pv-magazine.com/2026/06/03/how-britain-became-europes-solar-sink/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T07:00:00+00:00"
+  },
+  "dc865e3817ea": {
+    "id": "dc865e3817ea",
+    "title_en": "Goldman Sachs CEO Warns Oil Shock Could Alter Consumer Behavior",
+    "title_zh": "高盛首席执行官警告称，石油危机可能会改变消费者行为",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-CEO-Warns-Oil-Shock-Could-Alter-Consumer-Behavior.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T06:15:00+00:00"
+  },
+  "43cc7ca77c96": {
+    "id": "43cc7ca77c96",
+    "title_en": "Africa: A Quiet PV Revolution with Global Implications",
+    "title_zh": "非洲：一场具有全球影响的静悄悄的光伏革命",
+    "url": "https://www.pv-magazine.com/2026/06/03/africa-a-quiet-pv-revolution-with-global-implications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T06:00:00+00:00"
+  },
   "616f3a33d90a": {
     "id": "616f3a33d90a",
     "title_en": "The hidden underperformance crisis in solar portfolios",
@@ -7,6 +259,24 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-03T04:00:00+00:00"
+  },
+  "fd706c47638c": {
+    "id": "fd706c47638c",
+    "title_en": "Kia EV Sales Rise in USA",
+    "title_zh": "起亚电动汽车在美国销量上升",
+    "url": "https://cleantechnica.com/2026/06/02/kia-ev-sales-rise-in-usa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T03:58:13+00:00"
+  },
+  "c3b9a3174a6e": {
+    "id": "c3b9a3174a6e",
+    "title_en": "Hyundai IONIQ 5 Sales Up 28% in USA!",
+    "title_zh": "现代IONIQ 5在美国的销量增长了28%！",
+    "url": "https://cleantechnica.com/2026/06/02/hyundai-ioniq-5-sales-up-28-in-usa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T03:57:52+00:00"
   },
   "da5e59b41f25": {
     "id": "da5e59b41f25",
@@ -1771,6 +2041,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-01T09:28:42+00:00"
+  },
+  "4eb0776c4c59": {
+    "id": "4eb0776c4c59",
+    "title_en": "Why mining operations are outgrowing Wi-Fi",
+    "title_zh": "为什么采矿业务的增长速度超过了Wi-Fi",
+    "url": "https://www.energymonitor.ai/sponsored/why-mining-operations-are-outgrowing-wi-fi/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-01T09:18:21+00:00"
   },
   "2c4d89d922dc": {
     "id": "2c4d89d922dc",
@@ -3854,6 +4133,15 @@
     "category": "核能",
     "pub_ts": "2026-05-18T11:24:58+00:00"
   },
+  "d57e3cb97d2e": {
+    "id": "d57e3cb97d2e",
+    "title_en": "Oklo to integrate AI reactor workflows",
+    "title_zh": "Oklo将整合AI反应堆工作流程",
+    "url": "https://www.neimagazine.com/news/oklo-to-integrate-ai-reactor-workflows/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-18T10:00:00+00:00"
+  },
   "7d976bba0954": {
     "id": "7d976bba0954",
     "title_en": "Wildfire-recovering LA faces climate questions ahead of 2028 Olympics",
@@ -3862,6 +4150,87 @@
     "source": "Clean Energy Wire",
     "category": "政策",
     "pub_ts": "2026-05-17T21:20:25+00:00"
+  },
+  "130dd1504141": {
+    "id": "130dd1504141",
+    "title_en": "Indonesia nuclear talks advance",
+    "title_zh": "印尼核谈判取得进展",
+    "url": "https://www.neimagazine.com/news/indonesia-nuclear-talks-advance/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-15T16:16:13+00:00"
+  },
+  "87ebb266dbb6": {
+    "id": "87ebb266dbb6",
+    "title_en": "PSI validates SMR passive cooling",
+    "title_zh": "PSI验证SMR被动冷却",
+    "url": "https://www.neimagazine.com/news/psi-validates-smr-passive-cooling/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-15T12:00:00+00:00"
+  },
+  "b93cc59b734c": {
+    "id": "b93cc59b734c",
+    "title_en": "Netherlands, Belgium deepen nuclear ties",
+    "title_zh": "荷兰与比利时深化核合作",
+    "url": "https://www.neimagazine.com/news/netherlands-belgium-deepen-nuclear-ties/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-15T11:00:00+00:00"
+  },
+  "7982a4ff6163": {
+    "id": "7982a4ff6163",
+    "title_en": "Lightbridge, Studsvik advance fuel tech",
+    "title_zh": "Lightbridge、Studsvik先进的燃料技术",
+    "url": "https://www.neimagazine.com/news/lightbridge-studsvik-advance-fuel-tech/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-15T10:00:00+00:00"
+  },
+  "4bb2f62b928a": {
+    "id": "4bb2f62b928a",
+    "title_en": "Tarapur restart approved",
+    "title_zh": "Tarapur重启获批",
+    "url": "https://www.neimagazine.com/news/tarapur-restart-approved/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-14T19:30:39+00:00"
+  },
+  "ee7c9475263b": {
+    "id": "ee7c9475263b",
+    "title_en": "Framatome CVŘ fuel deal signed",
+    "title_zh": "法马通CVŘ燃料协议签署",
+    "url": "https://www.neimagazine.com/news/framatome-cvr-fuel-deal-signed/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-14T19:18:56+00:00"
+  },
+  "dc7cfa4a1241": {
+    "id": "dc7cfa4a1241",
+    "title_en": "Cyclife expands in Germany",
+    "title_zh": "Cyclife在德国扩张",
+    "url": "https://www.neimagazine.com/news/cyclife-expands-in-germany/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-14T19:07:31+00:00"
+  },
+  "c2f1c9e3071c": {
+    "id": "c2f1c9e3071c",
+    "title_en": "KHNP expands US nuclear cooperation",
+    "title_zh": "KHNP扩大美国核合作",
+    "url": "https://www.neimagazine.com/news/khnp-expands-us-nuclear-cooperation/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-14T18:56:27+00:00"
+  },
+  "5061d7446d82": {
+    "id": "5061d7446d82",
+    "title_en": "Taipingling 4 construction begins",
+    "title_zh": "太平岭4号工程开工",
+    "url": "https://www.neimagazine.com/news/taipingling-4-construction-begins/",
+    "source": "Nuclear Engineering",
+    "category": "核能",
+    "pub_ts": "2026-05-14T18:39:13+00:00"
   },
   "3ef338aaa949": {
     "id": "3ef338aaa949",
@@ -4159,77 +4528,5 @@
     "source": "Clean Energy Wire",
     "category": "政策",
     "pub_ts": "2026-01-20T14:53:09+00:00"
-  },
-  "c64c09fcc04d": {
-    "id": "c64c09fcc04d",
-    "title_en": "Analysis and Experimentation on Ecosystems European Research Infrastructure Consortium (AnaEE-ERIC)",
-    "title_zh": "欧洲研究基础设施联盟（AnaEE ERIC）生态系统分析与实验",
-    "url": "https://www.cleanenergywire.org/experts/analysis-and-experimentation-ecosystems-european-research-infrastructure-consortium-anaee-eric",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-01-19T14:01:15+00:00"
-  },
-  "e35324200697": {
-    "id": "e35324200697",
-    "title_en": "Clemens A. Schöll",
-    "title_zh": "克莱门斯·朔尔",
-    "url": "https://www.cleanenergywire.org/contacts/clemens-scholl",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-01-14T15:27:14+00:00"
-  },
-  "7453cb1b114c": {
-    "id": "7453cb1b114c",
-    "title_en": "Grant",
-    "title_zh": "授予",
-    "url": "https://www.cleanenergywire.org/grant",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-01-14T15:01:35+00:00"
-  },
-  "043b91929358": {
-    "id": "043b91929358",
-    "title_en": "Zukunft KlimaSozial",
-    "title_zh": "Zukunft KlimaSozial",
-    "url": "https://www.cleanenergywire.org/experts/zukunft-klimasozial",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-01-08T10:43:31+00:00"
-  },
-  "3f009dfdf5bd": {
-    "id": "3f009dfdf5bd",
-    "title_en": "Search",
-    "title_zh": "搜索",
-    "url": "https://www.cleanenergywire.org/search",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-01-05T15:09:59+00:00"
-  },
-  "589b9b16ebdb": {
-    "id": "589b9b16ebdb",
-    "title_en": "Trump admin ‘pauses’ leases for five offshore wind projects already under construction",
-    "title_zh": "特朗普政府“暂停”已在建的五个海上风电项目的租赁",
-    "url": "https://www.windpowerengineering.com/trump-admin-pauses-leases-for-five-offshore-wind-projects-already-under-construction/",
-    "source": "Wind Power Engineering",
-    "category": "风电",
-    "pub_ts": "2025-12-22T16:37:29+00:00"
-  },
-  "c9abdfc2011c": {
-    "id": "c9abdfc2011c",
-    "title_en": "US to install 36% more wind turbines in 2025 than previous year",
-    "title_zh": "美国将在2025年安装比上一年多36%的风力涡轮机",
-    "url": "https://www.windpowerengineering.com/us-to-install-36-more-wind-turbines-in-2025-than-previous-year/",
-    "source": "Wind Power Engineering",
-    "category": "风电",
-    "pub_ts": "2025-12-18T13:36:36+00:00"
-  },
-  "93f74a534dcf": {
-    "id": "93f74a534dcf",
-    "title_en": "Federal judge says Trump’s offshore wind blockade is illegal",
-    "title_zh": "联邦法官称特朗普的海上风电封锁是非法的",
-    "url": "https://www.windpowerengineering.com/federal-judge-says-trumps-offshore-wind-blockade-is-illegal/",
-    "source": "Wind Power Engineering",
-    "category": "风电",
-    "pub_ts": "2025-12-11T14:32:11+00:00"
   }
 }
