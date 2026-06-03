@@ -1,4 +1,94 @@
 {
+  "7d28a49d2fb5": {
+    "id": "7d28a49d2fb5",
+    "title_en": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar",
+    "title_zh": "分析：2026年初，由于风能和太阳能的“浪费”，中国的二氧化碳排放量上升了2%",
+    "url": "https://www.carbonbrief.org/analysis-chinas-co2-climbs-2-in-early-2026-due-to-wasted-wind-and-solar/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-06-03T23:01:00+00:00"
+  },
+  "4a9b577d57aa": {
+    "id": "4a9b577d57aa",
+    "title_en": "Europe Scrambles to Contain the Energy Shock",
+    "title_zh": "欧洲争相遏制能源冲击",
+    "url": "https://oilprice.com/Energy/Energy-General/Europe-Scrambles-to-Contain-the-Energy-Shock.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T23:00:00+00:00"
+  },
+  "69ed1269e7da": {
+    "id": "69ed1269e7da",
+    "title_en": "Tesla Expands Unsupervised Robotaxi Service To Whole Austin Metro Area",
+    "title_zh": "特斯拉将无人监督的Robotaxi服务扩展到整个奥斯汀都会区",
+    "url": "https://cleantechnica.com/2026/06/03/tesla-expands-unsupervised-robotaxi-service-to-whole-austin-metro-area/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-03T22:58:10+00:00"
+  },
+  "77a15df615da": {
+    "id": "77a15df615da",
+    "title_en": "Another giant solar factory is coming to Texas",
+    "title_zh": "另一家大型太阳能工厂即将落户德克萨斯州",
+    "url": "https://electrek.co/2026/06/03/another-giant-solar-factory-is-coming-to-texas/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-03T22:55:14+00:00"
+  },
+  "647278c2812d": {
+    "id": "647278c2812d",
+    "title_en": "AI-Powered Grid Management: Reducing Renewable Electricity Curtailment",
+    "title_zh": "人工智能电网管理：减少可再生能源电力削减",
+    "url": "https://www.powermag.com/ai-powered-grid-management-reducing-renewable-electricity-curtailment/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-03T22:53:38+00:00"
+  },
+  "4d6afd0578a5": {
+    "id": "4d6afd0578a5",
+    "title_en": "Australia’s Queensland launches AU$200 million fund for solar PV and storage projects in mineral-rich northwest",
+    "title_zh": "澳大利亚昆士兰州为矿产丰富的西北部的太阳能光伏和储能项目推出2亿澳元的基金",
+    "url": "https://www.pv-tech.org/australias-queensland-launches-au200-million-fund-for-solar-pv-and-storage-projects-in-mineral-rich-northwest/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-03T22:50:01+00:00"
+  },
+  "959d4bda9c67": {
+    "id": "959d4bda9c67",
+    "title_en": "Energy Costs Are Catching Up With Big Tech",
+    "title_zh": "能源成本正在赶上大型科技公司",
+    "url": "https://oilprice.com/Energy/Energy-General/Energy-Costs-Are-Catching-Up-With-Big-Tech.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T22:00:00+00:00"
+  },
+  "79fc305f12f8": {
+    "id": "79fc305f12f8",
+    "title_en": "Here’s our first look at BYD’s new low-cost, 1,000 km-range PHEV in real life [Images]",
+    "title_zh": "这是我们在现实生活中首次看到比亚迪新型低成本、1000公里续航里程的PHEV[图片]",
+    "url": "https://electrek.co/2026/06/03/first-look-byds-new-low-cost-1000-km-range-phev-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-03T21:57:17+00:00"
+  },
+  "2fe75dc7070b": {
+    "id": "2fe75dc7070b",
+    "title_en": "Hyundai IONIQ 5 crowned the best family EV",
+    "title_zh": "现代IONIQ 5荣膺最佳家庭电动汽车",
+    "url": "https://electrek.co/2026/06/03/hyundai-ioniq-5-crowned-best-family-ev/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-03T21:13:05+00:00"
+  },
+  "fb64fc3e5e10": {
+    "id": "fb64fc3e5e10",
+    "title_en": "Nuclear Startups Are in \"Advanced Negotiations\" to Buy Cold War Plutonium",
+    "title_zh": "核初创公司正在进行“高级谈判”，以购买冷战时期的钚",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-Startups-Are-in-Advanced-Negotiations-to-Buy-Cold-War-Plutonium.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-03T21:00:00+00:00"
+  },
   "ced4e034e3cf": {
     "id": "ced4e034e3cf",
     "title_en": "US Will Dismantle The Ocean Observatories Initiative",
@@ -4438,95 +4528,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-05-26T07:30:00+00:00"
-  },
-  "0b8004ee75bd": {
-    "id": "0b8004ee75bd",
-    "title_en": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-    "title_zh": "分析：中国新的碳指标在排放量上留下了与德国相当的差距",
-    "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-25T23:01:00+00:00"
-  },
-  "dd523a5d4cd3": {
-    "id": "dd523a5d4cd3",
-    "title_en": "Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021",
-    "title_zh": "自2021年以来，洪水已迫使至少67家NHS医院关闭",
-    "url": "https://www.carbonbrief.org/revealed-floods-have-forced-at-least-67-closures-at-nhs-hospitals-since-2021/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-25T15:00:00+00:00"
-  },
-  "799c89b0c52e": {
-    "id": "799c89b0c52e",
-    "title_en": "RWE secures CIS Tender 7 contract for 1.1GW Theodore Wind Farm",
-    "title_zh": "RWE获得1.1GW Theodore风电场的CIS招标7合同",
-    "url": "https://www.energymonitor.ai/news/rwe-cis-tender-7-theodore-wind-farm/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-05-25T09:08:00+00:00"
-  },
-  "c54c2c36e63e": {
-    "id": "c54c2c36e63e",
-    "title_en": "Denver has a plan to heat and cool buildings with — wait for it — sewage",
-    "title_zh": "丹佛计划用污水为建筑物供暖和制冷，等等",
-    "url": "https://www.canarymedia.com/articles/geothermal/denver-heat-cool-buildings-sewage",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-05-25T07:30:00+00:00"
-  },
-  "6d1eebc1deb4": {
-    "id": "6d1eebc1deb4",
-    "title_en": "DeBriefed 22 May 2026: UN adopts landmark resolution | Trump takes on ‘RCP8.5’ | Climate migration",
-    "title_zh": "2026年5月22日简报：联合国通过具有里程碑意义的决议|特朗普接受“RCP8.5”|气候移民",
-    "url": "https://www.carbonbrief.org/debriefed-22-may-2026-un-adopts-landmark-resolution-trump-takes-on-rcp8-5-climate-migration/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-22T14:50:07+00:00"
-  },
-  "3b90d055c042": {
-    "id": "3b90d055c042",
-    "title_en": "Experts: Why migration is ‘not a failure of adaptation’ in a warming world",
-    "title_zh": "专家：为什么移民在变暖的世界中“不是适应的失败”",
-    "url": "https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-22T14:24:29+00:00"
-  },
-  "901c3585ccf3": {
-    "id": "901c3585ccf3",
-    "title_en": "Kazakhstan outlines localisation plans",
-    "title_zh": "哈萨克斯坦概述了本地化计划",
-    "url": "https://www.world-nuclear-news.org//articles/kazakhstan-outlines-localisation-plans",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-05-22T12:04:15+00:00"
-  },
-  "c8b93e227796": {
-    "id": "c8b93e227796",
-    "title_en": "Kursk II's first VVER-TOI 'has generated 2 billion kWh'",
-    "title_zh": "库尔斯克II号的首个VVER-TOI“已发电20亿千瓦时”",
-    "url": "https://www.world-nuclear-news.org//articles/kursk-2-first-vver-toi-has-generated-two-billion-kwh",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-05-22T10:16:07+00:00"
-  },
-  "8a8bf74c6e30": {
-    "id": "8a8bf74c6e30",
-    "title_en": "Sungrow to supply 7.5GWh of storage for Masdar’s Abu Dhabi RTC project",
-    "title_zh": "阳光电源将为马斯达尔阿布扎比RTC项目提供7.5GWh的储能",
-    "url": "https://www.energymonitor.ai/news/sungrow-to-supply-storage-rtc/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-05-22T07:59:06+00:00"
-  },
-  "a8af5a37e71e": {
-    "id": "a8af5a37e71e",
-    "title_en": "Google Pledges Power, Ratepayer Protections in $15B Missouri Data Center Expansion",
-    "title_zh": "谷歌承诺在耗资150亿美元的密苏里州数据中心扩建中提供电力和纳税人保护",
-    "url": "https://www.powermag.com/google-pledges-power-ratepayer-protections-in-15b-missouri-data-center-expansion/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-05-21T18:21:57+00:00"
   }
 }
