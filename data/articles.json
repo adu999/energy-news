@@ -1,4 +1,49 @@
 {
+  "847ffc6bf12d": {
+    "id": "847ffc6bf12d",
+    "title_en": "NEM Data Spotlight: Solar generation contracts 21% in May as mid-month pricing spike hits AU$225/MWh",
+    "title_zh": "NEM数据聚焦：5月太阳能发电合同21%，月中价格飙升至225澳元/兆瓦时",
+    "url": "https://www.pv-tech.org/nem-data-spotlight-solar-generation-contracts-21-in-may-as-mid-month-pricing-spike-hits-au225-mwh/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-04T22:15:04+00:00"
+  },
+  "ca4d6aa98011": {
+    "id": "ca4d6aa98011",
+    "title_en": "IAEA Warns Iran Nuclear Risk Has Increased",
+    "title_zh": "国际原子能机构警告伊朗核风险增加",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/IAEA-Warns-Iran-Nuclear-Risk-Has-Increased.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T22:00:00+00:00"
+  },
+  "6fc154253ee9": {
+    "id": "6fc154253ee9",
+    "title_en": "The Cadillac Lyriq costs $200 more for 2027, but it gains a key new feature",
+    "title_zh": "凯迪拉克Lyriq 2027年的售价要高出200美元，但它获得了一项关键的新功能",
+    "url": "https://electrek.co/2026/06/04/cadillac-lyriq-ev-prices-up-200-for-2027-adds-new-feature/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T21:35:04+00:00"
+  },
+  "f4033c180c69": {
+    "id": "f4033c180c69",
+    "title_en": "Brazil Launches World-First Ethanol-Powered Grid Engine",
+    "title_zh": "巴西推出世界首款乙醇驱动的电网发动机",
+    "url": "https://oilprice.com/Energy/Energy-General/Brazil-Launches-World-First-Ethanol-Powered-Grid-Engine.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T21:00:00+00:00"
+  },
+  "d05ef46ea7b2": {
+    "id": "d05ef46ea7b2",
+    "title_en": "Calls For Policy Consistency & Continuity as Kenya’s Electric Mobility Sector Highlights Milestones",
+    "title_zh": "呼吁政策的一致性和连续性，因为肯尼亚的电动汽车行业突出了里程碑",
+    "url": "https://cleantechnica.com/2026/06/04/calls-for-policy-consistency-continuity-as-kenyas-electric-mobility-sector-highlights-milestones/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T20:39:51+00:00"
+  },
   "ce3aa1a6c01c": {
     "id": "ce3aa1a6c01c",
     "title_en": "Google Launches 1-GW-Plus Co-Located Data Center and Generation Complex in Texas Panhandle",
@@ -726,6 +771,15 @@
     "url": "https://www.pv-magazine.com/2026/06/04/mauritius-tenders-220-mw-of-solar-and-storage-via-new-e-marketplace/",
     "source": "PV Magazine",
     "category": "太阳能",
+    "pub_ts": "2026-06-04T07:00:00+00:00"
+  },
+  "a8e578ae2416": {
+    "id": "a8e578ae2416",
+    "title_en": "Where does balcony solar stand in your state?",
+    "title_zh": "你们州的阳台太阳能站在哪里？",
+    "url": "https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-06-04T07:00:00+00:00"
   },
   "9627ca4a86d3": {
@@ -4444,59 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-05-29T12:20:56+00:00"
-  },
-  "1234912a42c2": {
-    "id": "1234912a42c2",
-    "title_en": "Inside PV Manufacturing: Tindo’s solar manufacturing facility in Australia",
-    "title_zh": "内部光伏制造：Tindo在澳大利亚的太阳能制造工厂",
-    "url": "https://www.pv-magazine.com/2026/05/29/inside-pv-manufacturing-tindos-solar-manufacturing-facility-in-australia/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T12:18:00+00:00"
-  },
-  "5115626dd0a4": {
-    "id": "5115626dd0a4",
-    "title_en": "The Hydrogen Stream: JCN launches hydrogen-powered backhoe loader",
-    "title_zh": "氢流：JCN推出氢动力反铲装载机",
-    "url": "https://www.pv-magazine.com/2026/05/29/the-hydrogen-stream-jcn-launches-hydrogen-powered-backhoe-loader/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T12:15:50+00:00"
-  },
-  "c5a89b18f477": {
-    "id": "c5a89b18f477",
-    "title_en": "KOSPO Signs Offshore Wind Agreements as Part of 11.2 GW Renewable Energy Strategy",
-    "title_zh": "KOSPO签署海上风电协议，作为11.2吉瓦可再生能源战略的一部分",
-    "url": "https://www.offshorewind.biz/2026/05/29/kospo-signs-offshore-wind-agreements-as-part-of-11-2-gw-renewable-energy-strategy/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-05-29T12:15:15+00:00"
-  },
-  "4f95e045ff7b": {
-    "id": "4f95e045ff7b",
-    "title_en": "Chinese PV Industry Brief: Polysilicon prices remain stable",
-    "title_zh": "中国光伏产业简报：多晶硅价格保持稳定",
-    "url": "https://www.pv-magazine.com/2026/05/29/chinese-pv-industry-brief-polysilicon-prices-remain-stable/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T12:11:01+00:00"
-  },
-  "1372f3202280": {
-    "id": "1372f3202280",
-    "title_en": "Viessmann debuts monoblock air-to-water heat pump",
-    "title_zh": "菲斯曼推出整体式空气-水热泵",
-    "url": "https://www.pv-magazine.com/2026/05/29/viessmann-debuts-monoblock-air-to-water-heat-pump/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T12:04:01+00:00"
-  },
-  "f002f119a065": {
-    "id": "f002f119a065",
-    "title_en": "Iran energy crisis to ‘reshape’ energy investment – IEA",
-    "title_zh": "伊朗能源危机将“重塑”能源投资——国际能源署",
-    "url": "https://www.pv-tech.org/iran-energy-crisis-to-reshape-energy-investment-iea/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T12:00:24+00:00"
   }
 }
