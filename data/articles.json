@@ -1,4 +1,265 @@
 {
+  "ce3aa1a6c01c": {
+    "id": "ce3aa1a6c01c",
+    "title_en": "Google Launches 1-GW-Plus Co-Located Data Center and Generation Complex in Texas Panhandle",
+    "title_zh": "谷歌在德克萨斯州狭长地带推出1-GW-Plus共置数据中心和发电综合体",
+    "url": "https://www.powermag.com/google-launches-1-gw-plus-co-located-data-center-and-generation-complex-in-texas-panhandle/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-04T20:07:23+00:00"
+  },
+  "40c0ad8aaa4a": {
+    "id": "40c0ad8aaa4a",
+    "title_en": "A New U.S. Battery Line Designed to Make Energy Storage Safer and Cheaper",
+    "title_zh": "美国新电池生产线旨在使储能更安全、更便宜",
+    "url": "https://oilprice.com/Energy/Energy-General/A-New-US-Battery-Line-Designed-to-Make-Energy-Storage-Safer-and-Cheaper.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T20:00:00+00:00"
+  },
+  "c51bf3b286fb": {
+    "id": "c51bf3b286fb",
+    "title_en": "You’ve got ONE MONTH to safe harbor your solar project and get 30% off",
+    "title_zh": "你有一个月的时间来保护你的太阳能项目，并获得30%的折扣",
+    "url": "https://electrek.co/2026/06/04/if-you-still-want-that-30-solar-tax-credit-the-new-panic-date-is-july-4/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T19:55:00+00:00"
+  },
+  "2369a08776fd": {
+    "id": "2369a08776fd",
+    "title_en": "Helion Announces $465-Million Funding Round to Support Fusion Energy",
+    "title_zh": "Helion宣布4.65亿美元融资支持聚变能源",
+    "url": "https://www.powermag.com/helion-announces-465-million-funding-round-to-support-fusion-energy/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-04T19:48:48+00:00"
+  },
+  "d196ffd0db1c": {
+    "id": "d196ffd0db1c",
+    "title_en": "PG&E surpasses 1 million customers with solar systems connected to grid",
+    "title_zh": "PG&E的太阳能系统并网客户超过100万",
+    "url": "https://www.solarpowerworldonline.com/2026/06/pge-surpasses-1-million-customers-with-solar-systems-connected-to-grid/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-04T19:47:13+00:00"
+  },
+  "e5a7bfc95904": {
+    "id": "e5a7bfc95904",
+    "title_en": "Houston gets a solar, storage + electricity bundle for 6¢ per kWh",
+    "title_zh": "休斯顿以每千瓦时6美分的价格获得太阳能、储能和电力捆绑",
+    "url": "https://electrek.co/2026/06/04/houston-solar-storage-electricity-bundle-6-cents-per-kwh/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T19:42:36+00:00"
+  },
+  "91602f52d2f2": {
+    "id": "91602f52d2f2",
+    "title_en": "Iran's Oil Exports Collapse to Six-Year Low as Blockade Tightens",
+    "title_zh": "伊朗石油出口暴跌至六年低点，封锁加剧",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Exports-Collapse-to-Six-Year-Low-as-Blockade-Tightens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T19:30:00+00:00"
+  },
+  "8a318f665b07": {
+    "id": "8a318f665b07",
+    "title_en": "Virginia governor says a new company is establishing solar panel assembly in Shenandoah",
+    "title_zh": "弗吉尼亚州州长表示，一家新公司正在谢南多厄建立太阳能电池板组装厂",
+    "url": "https://www.solarpowerworldonline.com/2026/06/virginia-governor-says-a-new-company-is-establishing-solar-panel-assembly-in-shenandoah/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-04T19:08:53+00:00"
+  },
+  "b7ede1e1c747": {
+    "id": "b7ede1e1c747",
+    "title_en": "Venezuela’s Debt Overhaul Faces New Controversy",
+    "title_zh": "委内瑞拉债务改革面临新争议",
+    "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Debt-Overhaul-Faces-New-Controversy.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T19:00:00+00:00"
+  },
+  "22db4a9462cb": {
+    "id": "22db4a9462cb",
+    "title_en": "BYD ADAS Warranty Explained … Sort Of",
+    "title_zh": "比亚迪ADAS保修说明",
+    "url": "https://cleantechnica.com/2026/06/04/byd-adas-warranty-explained-sort-of/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T18:51:27+00:00"
+  },
+  "0cf5e9b332ab": {
+    "id": "0cf5e9b332ab",
+    "title_en": "BYD converts its popular electric hatch into a van with ‘class-leading range’ for $40,000",
+    "title_zh": "比亚迪以4万美元的价格将其广受欢迎的电动舱门改装成“同级领先续航里程”的面包车",
+    "url": "https://electrek.co/2026/06/04/byd-converts-ev-hatch-into-van-with-leading-range-for-40k/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T18:47:59+00:00"
+  },
+  "0d101c2c286d": {
+    "id": "0d101c2c286d",
+    "title_en": "Audi reveals 1,001-hp Nuvolari hybrid supercar — so much for going all-electric",
+    "title_zh": "奥迪发布1001马力Nuvolari混合动力超级跑车——全电动版太多了",
+    "url": "https://electrek.co/2026/06/04/audi-nuvolari-1001-hp-hybrid-supercar-v8-r8-successor/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T18:40:07+00:00"
+  },
+  "9f703ceacf94": {
+    "id": "9f703ceacf94",
+    "title_en": "White House will dump $700M of public funds into costly, unreliable coal again",
+    "title_zh": "白宫将再次向昂贵、不可靠的煤炭投入7亿美元的公共资金",
+    "url": "https://electrek.co/2026/06/04/white-house-will-dump-700m-of-public-funds-into-costly-unreliable-coal-again/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T18:38:04+00:00"
+  },
+  "ab30d4bd4d26": {
+    "id": "ab30d4bd4d26",
+    "title_en": "Colorado co-op delivers 100% renewables in March, a first",
+    "title_zh": "科罗拉多州合作社3月份首次交付100%可再生能源",
+    "url": "https://www.utilitydive.com/news/colorado-electric-co-op-marks-first-month-serving-100-renewables/822042/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-04T18:19:27+00:00"
+  },
+  "1ded2aad45f2": {
+    "id": "1ded2aad45f2",
+    "title_en": "My Beloved Tesla Model 3 is Gone, the Good Part: A New Model Y with HW4 & FSD V14",
+    "title_zh": "我心爱的特斯拉Model 3不见了，好的部分：一款搭载HW4和FSD V14的新款Model Y",
+    "url": "https://cleantechnica.com/2026/06/04/my-beloved-tesla-model-3-is-gone-the-good-part-a-new-model-y-with-hw4-fsd-v14/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T18:08:03+00:00"
+  },
+  "0b9a33289435": {
+    "id": "0b9a33289435",
+    "title_en": "Jackery HomePower 3600 Plus power station exclusives from $1,399, EGO Select Cut Touch Drive mower $543 low, Segway, more",
+    "title_zh": "Jackery HomePower 3600 Plus动力站特价1399美元起，EGO Select Cut Touch Drive割草机$543低，赛格威，更多",
+    "url": "https://electrek.co/2026/06/04/jackery-homepower-3600-plus-power-station-exclusives-ego-select-cut-touch-drive-mower-543-low-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T18:00:00+00:00"
+  },
+  "107e6440e13f": {
+    "id": "107e6440e13f",
+    "title_en": "Georgia’s Government Backs a Controversial Crypto Push",
+    "title_zh": "格鲁吉亚政府支持有争议的加密货币推动",
+    "url": "https://oilprice.com/Geopolitics/Asia/Georgias-Government-Backs-a-Controversial-Crypto-Push.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T18:00:00+00:00"
+  },
+  "e78e44eed87e": {
+    "id": "e78e44eed87e",
+    "title_en": "Hydrogen Buses Work. That Is Not The Procurement Question.",
+    "title_zh": "氢气公交车可以工作。这不是采购问题。",
+    "url": "https://cleantechnica.com/2026/06/04/hydrogen-buses-procurement-risk/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T17:33:11+00:00"
+  },
+  "6cc5a8f67e0a": {
+    "id": "6cc5a8f67e0a",
+    "title_en": "U.S. Oil Shocks Don't Hit Like They Used To, Fed Study Finds",
+    "title_zh": "美联储研究发现，美国石油危机不像以前那样严重",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-Shocks-Dont-Hit-Like-They-Used-To-Fed-Study-Finds.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T17:30:00+00:00"
+  },
+  "c31203647454": {
+    "id": "c31203647454",
+    "title_en": "Nissan joins new ‘Cheaper Than China’ solid-state EV battery project",
+    "title_zh": "日产加入新的“比中国更便宜”的固态电动汽车电池项目",
+    "url": "https://electrek.co/2026/06/04/nissan-solid-state-ev-battery-project-aims-for-cheaper-than-china/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-04T17:26:33+00:00"
+  },
+  "70ca77f5ff5e": {
+    "id": "70ca77f5ff5e",
+    "title_en": "Central Banks Bought Less Gold in 2025 But It Still Hit a 45 Year High",
+    "title_zh": "各国央行在2025年购买的黄金减少，但仍创下45年新高",
+    "url": "https://oilprice.com/Metals/Gold/Central-Banks-Bought-Less-Gold-in-2025-But-It-Still-Hit-a-45-Year-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T17:00:00+00:00"
+  },
+  "98c7742fc673": {
+    "id": "98c7742fc673",
+    "title_en": "Inox Clean Energy acquires Vena Energy India’s 6GW renewable portfolio",
+    "title_zh": "Inox Clean Energy收购Vena Energy India的6GW可再生能源组合",
+    "url": "https://www.pv-tech.org/inox-clean-energy-acquires-vena-energy-indias-6gw-renewable-portfolio/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-04T16:54:40+00:00"
+  },
+  "9a4b7ccf9df2": {
+    "id": "9a4b7ccf9df2",
+    "title_en": "Global debut: Sigenergy unveils SigenAgent, an AI energy agent",
+    "title_zh": "全球首发：Sigenergy推出人工智能能源代理SigenAgent",
+    "url": "https://www.pv-tech.org/global-debut-sigenergy-unveils-sigenagent-an-ai-energy-agent/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-04T16:42:17+00:00"
+  },
+  "ee209f1acd31": {
+    "id": "ee209f1acd31",
+    "title_en": "What War On EVs? New $230 Million LFP Battery Materials Factory Proposed For Texas",
+    "title_zh": "什么是电动汽车战争？德克萨斯州拟建2.3亿美元LFP电池材料新工厂",
+    "url": "https://cleantechnica.com/2026/06/04/evs-batteries-lfp-cathode-texas-invest-energyx-wildcat-holyvolt/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T16:31:22+00:00"
+  },
+  "0c26b4038baf": {
+    "id": "0c26b4038baf",
+    "title_en": "Dangote Breaks Ground on 700,000-Bpd Second Crude Processing Unit",
+    "title_zh": "丹格特破土动工70万桶/日第二原油加工装置",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangote-Breaks-Ground-on-700000-Bpd-Second-Crude-Processing-Unit.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T16:30:00+00:00"
+  },
+  "11a17ed98f49": {
+    "id": "11a17ed98f49",
+    "title_en": "EV Charging Company Using Renewable Energy For Chargers In Poland",
+    "title_zh": "波兰电动汽车充电公司为充电器使用可再生能源",
+    "url": "https://cleantechnica.com/2026/06/04/ev-charging-company-using-renewable-energy-for-chargers-in-poland/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T16:04:21+00:00"
+  },
+  "5114652f0ae9": {
+    "id": "5114652f0ae9",
+    "title_en": "SNEC 2026: Industry leaders signal shift from destructive price wars to value competition",
+    "title_zh": "SNEC 2026：行业领导者发出信号，从破坏性的价格战转向价值竞争",
+    "url": "https://www.pv-tech.org/snec-2026-industry-leaders-signal-shift-from-destructive-price-wars-to-value-competition/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-04T15:57:11+00:00"
+  },
+  "9052d8c0d4f5": {
+    "id": "9052d8c0d4f5",
+    "title_en": "KEPCO Wins $1.4-Billion power Project for $100-Billion Saudi Jafurah Field",
+    "title_zh": "KEPCO赢得价值14亿美元的沙特Jafurah油田电力项目",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/KEPCO-Wins-14-Billion-power-Project-for-100-Billion-Saudi-Jafurah-Field.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T15:30:00+00:00"
+  },
+  "d29c41bc460f": {
+    "id": "d29c41bc460f",
+    "title_en": "America's Rare Earth Reckoning Could Create a New Strategic Powerhouse",
+    "title_zh": "美国的稀土估算可能会创造一个新的战略动力",
+    "url": "https://oilprice.com/Energy/Energy-General/Americas-Rare-Earth-Reckoning-Could-Create-a-New-Strategic-Powerhouse.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T15:20:00+00:00"
+  },
   "bdaf013a5426": {
     "id": "bdaf013a5426",
     "title_en": "Why America’s Gas Power Boom Could End in Disaster",
@@ -34,6 +295,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-04T14:26:10+00:00"
+  },
+  "b5ac6b981aca": {
+    "id": "b5ac6b981aca",
+    "title_en": "Protesters target NV Energy at electric utility conference as anger over affordability rises",
+    "title_zh": "抗议者在电力公司会议上针对NV Energy，因为对可负担性的愤怒情绪上升",
+    "url": "https://www.utilitydive.com/news/protesters-target-nv-energy-electric-utility-conference-anger-over-affordability-electric-rates/821995/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-04T14:15:55+00:00"
   },
   "b5d00d611e5d": {
     "id": "b5d00d611e5d",
@@ -106,6 +376,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-04T13:30:00+00:00"
+  },
+  "13e427892a0c": {
+    "id": "13e427892a0c",
+    "title_en": "MISO’s resource outlook improves as forecast generation additions outpace demand growth",
+    "title_zh": "随着预测发电量增长超过需求增长，MISO的资源前景有所改善",
+    "url": "https://www.utilitydive.com/news/oms-miso-survey-resource-outlook-generation/821973/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-04T13:05:11+00:00"
   },
   "059a1b6c2797": {
     "id": "059a1b6c2797",
@@ -4219,302 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-05-29T12:00:24+00:00"
-  },
-  "dbfe77e5fe0f": {
-    "id": "dbfe77e5fe0f",
-    "title_en": "Ohio rubber manufacturing site installs solar on flat roof",
-    "title_zh": "俄亥俄州橡胶制造厂在平屋顶安装太阳能",
-    "url": "https://www.solarpowerworldonline.com/2026/05/ohio-rubber-manufacturing-site-installs-solar-on-flat-roof/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T11:53:32+00:00"
-  },
-  "c48399795eeb": {
-    "id": "c48399795eeb",
-    "title_en": "Zelestra sells 3.5GW Latin America solar and storage portfolio to Promigas",
-    "title_zh": "Zelestra向Promigas出售3.5GW拉丁美洲太阳能和储能产品组合",
-    "url": "https://www.pv-tech.org/zelestra-sells-3-5gw-latin-america-solar-and-storage-portfolio-to-promigas/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T11:49:37+00:00"
-  },
-  "4c8f0d205e51": {
-    "id": "4c8f0d205e51",
-    "title_en": "Nextpower acquires energy storage provider Prevalon Energy",
-    "title_zh": "Nextpower收购储能供应商Prevalon energy",
-    "url": "https://www.solarpowerworldonline.com/2026/05/nextpower-acquires-energy-storage-provider-prevalon-energy/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T11:41:48+00:00"
-  },
-  "73204db907e0": {
-    "id": "73204db907e0",
-    "title_en": "US ROUNDUP: BESS news from NeoVolta, Goshe, Frontier Power & Stella and Prevalon",
-    "title_zh": "美国综述：来自NeoVolta、Goshe、Frontier Power&Stella和Prevalon的BESS新闻",
-    "url": "https://www.energy-storage.news/us-roundup-bess-news-from-neovolta-goshe-frontier-power-stella-and-prevalon/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-05-29T11:40:02+00:00"
-  },
-  "88bbb984a68a": {
-    "id": "88bbb984a68a",
-    "title_en": "‘Time to prove its potential’: Gresham House UK BESS fund at a crossroads",
-    "title_zh": "“是时候证明其潜力了”：Gresham House英国BESS基金正处于十字路口",
-    "url": "https://www.energy-storage.news/time-to-prove-its-potential-gresham-house-uk-bess-fund-at-a-crossroads/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-05-29T11:30:46+00:00"
-  },
-  "f0c8763518bc": {
-    "id": "f0c8763518bc",
-    "title_en": "Inclusive leadership is not a trend, it is how resilient industries are built",
-    "title_zh": "包容性领导力不是一种趋势，而是如何建立有弹性的行业",
-    "url": "https://www.pv-magazine.com/2026/05/29/inclusive-leadership-is-not-a-trend-it-is-how-resilient-industries-are-built/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T11:12:12+00:00"
-  },
-  "33384f0e7bc6": {
-    "id": "33384f0e7bc6",
-    "title_en": "Interview: RWE’s renewables chief on solving Europe’s grid problems",
-    "title_zh": "采访：RWE可再生能源负责人谈解决欧洲电网问题",
-    "url": "https://www.windpowermonthly.com/article/1959726/interview-rwes-renewables-chief-solving-europes-grid-problems",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-05-29T11:07:09+00:00"
-  },
-  "737d8de85e07": {
-    "id": "737d8de85e07",
-    "title_en": "All solar cell efficiencies at a glance – updated",
-    "title_zh": "所有太阳能电池效率概览-更新",
-    "url": "https://www.pv-magazine.com/2026/05/29/all-solar-cell-efficiencies-at-a-glance-updated-6/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T11:03:00+00:00"
-  },
-  "768441302343": {
-    "id": "768441302343",
-    "title_en": "German regulator’s grid fee decision ‘restores investor confidence’ in energy storage market",
-    "title_zh": "德国监管机构的电网费用决定“恢复了投资者对储能市场的信心”",
-    "url": "https://www.energy-storage.news/german-regulators-grid-fee-decision-restores-investor-confidence-in-energy-storage-market/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-05-29T10:32:47+00:00"
-  },
-  "d843782934bd": {
-    "id": "d843782934bd",
-    "title_en": "Trina Solar unveils THBC technology, TOPCon’s next frontier?",
-    "title_zh": "天合光能推出THBC技术，TOPCon的下一个前沿？",
-    "url": "https://www.pv-tech.org/trina-solar-unveils-thbc-technology-topcon-next-frontier/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T10:29:22+00:00"
-  },
-  "9fbbfcc954ec": {
-    "id": "9fbbfcc954ec",
-    "title_en": "DEME to Install 15 MW Vestas Turbines at Japanese Offshore Wind Farm",
-    "title_zh": "DEME将在日本海上风电场安装15兆瓦维斯塔斯涡轮机",
-    "url": "https://www.offshorewind.biz/2026/05/29/deme-to-install-15-mw-vestas-turbines-at-japanese-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-05-29T10:15:43+00:00"
-  },
-  "acf4f700ee51": {
-    "id": "acf4f700ee51",
-    "title_en": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
-    "title_zh": "EM-DAT：特朗普削减援助可能会关闭存储“世界灾难记忆”的数据库",
-    "url": "https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-29T09:44:14+00:00"
-  },
-  "2cca8cb2b482": {
-    "id": "2cca8cb2b482",
-    "title_en": "Mingyang partnering on offshore wind project in Canada",
-    "title_zh": "明阳与加拿大海上风电项目合作",
-    "url": "https://www.windpowermonthly.com/article/1959706/mingyang-partnering-offshore-wind-project-canada",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-05-29T09:36:58+00:00"
-  },
-  "7deccba41496": {
-    "id": "7deccba41496",
-    "title_en": "Asbestos found in Nordex wind turbines in Sweden",
-    "title_zh": "瑞典Nordex风力涡轮机中发现石棉",
-    "url": "https://www.windpowermonthly.com/article/1959701/asbestos-found-nordex-wind-turbines-sweden",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-05-29T09:24:47+00:00"
-  },
-  "566772ac3ec1": {
-    "id": "566772ac3ec1",
-    "title_en": "Chinese researchers build 33.33%-efficient perovskite-silicon tandem solar cell via new passivation strategy",
-    "title_zh": "中国研究人员通过新的钝化策略建造了33.33%效率的钙钛矿硅叠层太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/05/29/chinese-researchers-build-33-33-efficient-perovskite-silicon-tandem-solar-cell-via-new-passivation-strategy/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T09:19:11+00:00"
-  },
-  "ab562267ee94": {
-    "id": "ab562267ee94",
-    "title_en": "SolaX ORI energy storage system completes large-scale fire test under extreme conditions",
-    "title_zh": "SolaX ORI储能系统在极端条件下完成大规模火灾测试",
-    "url": "https://www.pv-magazine.com/2026/05/29/solax-ori-energy-storage-system-completes-large-scale-fire-test-under-extreme-conditions/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T09:00:00+00:00"
-  },
-  "ff23494fae24": {
-    "id": "ff23494fae24",
-    "title_en": "Nextpower gets into energy storage",
-    "title_zh": "Nextpower进入储能领域",
-    "url": "https://www.pv-magazine.com/2026/05/29/nextpower-gets-into-energy-storage/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T08:36:34+00:00"
-  },
-  "e715affd37e7": {
-    "id": "e715affd37e7",
-    "title_en": "Mingyang joins another European offshore wind group",
-    "title_zh": "明阳加入另一家欧洲海上风电集团",
-    "url": "https://www.windpowermonthly.com/article/1959691/mingyang-joins-european-offshore-wind-group",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-05-29T08:31:59+00:00"
-  },
-  "abc001": {
-    "id": "abc001",
-    "title_en": "Global solar capacity surpasses 2 terawatts milestone",
-    "title_zh": "全球太阳能装机容量突破2太瓦里程碑",
-    "url": "https://www.pv-tech.org/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T08:30:00+08:00",
-    "pub_date": "05-29",
-    "pub_time": "08:30",
-    "pub_full": "2026-05-29 08:30"
-  },
-  "3d13557ccba6": {
-    "id": "3d13557ccba6",
-    "title_en": "RWE Reportedly Weighing US Offshore Wind Exit Deal; Advocacy Groups, Industry Warn ‘No Basis Under US Law’ to Refund Lease Purchase",
-    "title_zh": "据报道，RWE正在权衡美国海上风电退出协议；倡导团体和行业警告称，根据美国法律，退款租赁购买没有依据",
-    "url": "https://www.offshorewind.biz/2026/05/29/rwe-reportedly-weighing-us-offshore-wind-exit-deal-advocacy-groups-industry-warn-no-basis-under-us-law-to-refund-lease-purchase/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-05-29T08:28:40+00:00"
-  },
-  "28b67e3e4593": {
-    "id": "28b67e3e4593",
-    "title_en": "Nord Pool’s new European BESS revenue index ‘reduces trader bias risk’ for merchant plays",
-    "title_zh": "Nord Pool新的欧洲BESS收入指数“降低了商家交易的交易者偏见风险”",
-    "url": "https://www.energy-storage.news/nord-pools-new-european-bess-revenue-index-reduces-trader-bias-risk-for-merchant-plays/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-05-29T07:55:23+00:00"
-  },
-  "546e50165629": {
-    "id": "546e50165629",
-    "title_en": "The tax credit cliff has hit EV sales hard",
-    "title_zh": "税收抵免悬崖严重打击了电动汽车销售",
-    "url": "https://www.canarymedia.com/articles/electric-vehicles/the-tax-credit-cliff-has-hit-ev-sales-hard",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-05-29T07:30:00+00:00"
-  },
-  "02a362676310": {
-    "id": "02a362676310",
-    "title_en": "ContourGlobal launches Victor Jara hybrid plant in Chile",
-    "title_zh": "ContourGlobal在智利启动Victor Jara混合动力工厂",
-    "url": "https://www.energymonitor.ai/news/contourglobal-launches-victor-jara-hybrid-plant/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-05-29T07:19:25+00:00"
-  },
-  "abc002": {
-    "id": "abc002",
-    "title_en": "Offshore wind costs fall 15% in latest UK auction results",
-    "title_zh": "英国最新拍卖结果显示海上风电成本下降15%",
-    "url": "https://www.offshorewind.biz/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-05-29T07:00:00+08:00",
-    "pub_date": "05-29",
-    "pub_time": "07:00",
-    "pub_full": "2026-05-29 07:00"
-  },
-  "abc003": {
-    "id": "abc003",
-    "title_en": "Tesla Megapack orders surge as utilities plan grid-scale storage",
-    "title_zh": "特斯拉Megapack订单激增，公用事业公司规划电网级储能",
-    "url": "https://electrek.co/",
-    "source": "Electrek",
-    "category": "储能",
-    "pub_ts": "2026-05-29T06:15:00+08:00",
-    "pub_date": "05-29",
-    "pub_time": "06:15",
-    "pub_full": "2026-05-29 06:15"
-  },
-  "abc004": {
-    "id": "abc004",
-    "title_en": "IEA warns natural gas demand will peak before 2030",
-    "title_zh": "国际能源署警告天然气需求将在2030年前达峰",
-    "url": "https://www.iea.org/",
-    "source": "IEA News",
-    "category": "政策",
-    "pub_ts": "2026-05-29T05:00:00+08:00",
-    "pub_date": "05-29",
-    "pub_time": "05:00",
-    "pub_full": "2026-05-29 05:00"
-  },
-  "abc005": {
-    "id": "abc005",
-    "title_en": "Green hydrogen electrolyzer costs drop 40% over five years",
-    "title_zh": "绿色氢气电解槽成本五年内下降40%",
-    "url": "https://www.hydrogeninsight.com/",
-    "source": "Hydrogen Insight",
-    "category": "氢能",
-    "pub_ts": "2026-05-29T04:30:00+08:00",
-    "pub_date": "05-29",
-    "pub_time": "04:30",
-    "pub_full": "2026-05-29 04:30"
-  },
-  "abc006": {
-    "id": "abc006",
-    "title_en": "EV sales hit record 18 million units in 2025 globally",
-    "title_zh": "2025年全球电动汽车销量创纪录达1800万辆",
-    "url": "https://insideevs.com/",
-    "source": "InsideEVs",
-    "category": "EV",
-    "pub_ts": "2026-05-29T03:45:00+08:00",
-    "pub_date": "05-29",
-    "pub_time": "03:45",
-    "pub_full": "2026-05-29 03:45"
-  },
-  "4887d75c2015": {
-    "id": "4887d75c2015",
-    "title_en": "BHP turns to Indigenous-led developer to explore renewables for iron ore operations in Western Australia",
-    "title_zh": "必和必拓转向本土开发商，为西澳大利亚州的铁矿石业务探索可再生能源",
-    "url": "https://www.pv-tech.org/bhp-turns-to-indigenous-led-developer-to-explore-renewables-for-iron-ore-operations-in-western-australia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T03:21:44+00:00"
-  },
-  "fff6e7265db5": {
-    "id": "fff6e7265db5",
-    "title_en": "Ausgrid submits 300MWh Berkeley Vale BESS in New South Wales to Australia’s EPBC Act",
-    "title_zh": "Ausgrid向澳大利亚EPBC法案提交了新南威尔士州300兆瓦伯克利谷BESS",
-    "url": "https://www.energy-storage.news/ausgrid-submits-300mwh-berkeley-vale-bess-in-new-south-wales-to-australias-epbc-act/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-05-29T03:17:01+00:00"
-  },
-  "07774af8c82a": {
-    "id": "07774af8c82a",
-    "title_en": "Wannon Water, Enervest complete ‘one of Australia’s largest floating solar arrays’",
-    "title_zh": "Wannon Water和Enecector完成了“澳大利亚最大的浮动太阳能电池板之一”",
-    "url": "https://www.pv-tech.org/wannon-water-enervest-complete-one-of-australias-largest-floating-solar-arrays/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T03:15:35+00:00"
   }
 }
