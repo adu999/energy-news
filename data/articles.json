@@ -1,4 +1,157 @@
 {
+  "402c2518ddf6": {
+    "id": "402c2518ddf6",
+    "title_en": "Panel Discussion with Hawaii’s Clean Energy Leaders",
+    "title_zh": "与夏威夷清洁能源领导人进行小组讨论",
+    "url": "https://cleantechnica.com/2026/06/05/panel-discussion-with-hawaiis-clean-energy-leaders/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T17:13:31+00:00"
+  },
+  "3c222797cbd7": {
+    "id": "3c222797cbd7",
+    "title_en": "US Drillers Continue to Add Oil Rigs",
+    "title_zh": "美国钻井商继续增加石油钻机",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Drillers-Continue-to-Add-Oil-Rigs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T17:10:00+00:00"
+  },
+  "dfb44424e2cf": {
+    "id": "dfb44424e2cf",
+    "title_en": "Steel’s Future Starts With Demand, Scrap, And Electricity, Not Hydrogen",
+    "title_zh": "钢铁的未来始于需求、废料和电力，而不是氢气",
+    "url": "https://cleantechnica.com/2026/06/05/steels-future-starts-with-demand-scrap-and-electricity-not-hydrogen/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T16:44:14+00:00"
+  },
+  "edb9b91eceb0": {
+    "id": "edb9b91eceb0",
+    "title_en": "Bank of England Official Says Oil Crisis Clouds Rate Outlook",
+    "title_zh": "英国央行官员表示，石油危机影响了利率前景",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Bank-of-England-Official-Says-Oil-Crisis-Clouds-Rate-Outlook.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T16:40:00+00:00"
+  },
+  "102a75cb0898": {
+    "id": "102a75cb0898",
+    "title_en": "US Coal Plan Shamelessly Picks Energy Winners & Losers",
+    "title_zh": "美国煤炭计划无耻地挑选能源赢家和输家",
+    "url": "https://cleantechnica.com/2026/06/05/us-coal-plan-shamelessly-picks-energy-winners-losers/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T16:05:03+00:00"
+  },
+  "eaae24a14d36": {
+    "id": "eaae24a14d36",
+    "title_en": "S&P Rejects Fast Entry for SpaceX, Delaying $14B in Passive Inflows",
+    "title_zh": "标普拒绝SpaceX快速进入，推迟了140亿美元的被动流入",
+    "url": "https://oilprice.com/Finance/the-Markets/SP-Rejects-Fast-Entry-for-SpaceX-Delaying-14B-in-Passive-Inflows.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T16:00:00+00:00"
+  },
+  "ea90f350cc39": {
+    "id": "ea90f350cc39",
+    "title_en": "Engie to build 155MW solar PV at gas plant in Spain",
+    "title_zh": "Engie将在西班牙天然气厂建造155MW太阳能光伏",
+    "url": "https://www.pv-tech.org/engie-to-build-155mw-solar-pv-at-gas-plant-in-spain/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-05T15:49:40+00:00"
+  },
+  "67760ad435c6": {
+    "id": "67760ad435c6",
+    "title_en": "Toyota finally has EVs people want to buy — Why slow down now?",
+    "title_zh": "丰田终于有了人们想买的电动汽车——为什么现在要减速？",
+    "url": "https://electrek.co/2026/06/05/toyota-finally-has-evs-people-want-to-buy-why-slow-down-now/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T15:42:42+00:00"
+  },
+  "7245e5dc2a51": {
+    "id": "7245e5dc2a51",
+    "title_en": "Human Teeth Are Not Particularly Well Adapted For Meat Eating",
+    "title_zh": "人类的牙齿并不特别适合吃肉",
+    "url": "https://cleantechnica.com/2026/06/05/human-teeth-are-not-particularly-well-adapted-for-meat-eating/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T15:41:31+00:00"
+  },
+  "5c75f83ad321": {
+    "id": "5c75f83ad321",
+    "title_en": "Chinese PV Industry Brief: Arctech wins 2.1 GW solar deal",
+    "title_zh": "中国光伏产业简报：Arctech赢得2.1吉瓦太阳能交易",
+    "url": "https://www.pv-magazine.com/2026/06/05/chinese-pv-industry-brief-arctech-wins-2-1-gw-solar-deal/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-05T15:30:00+00:00"
+  },
+  "29c7bf08736a": {
+    "id": "29c7bf08736a",
+    "title_en": "India Launches 85% Ethanol Fuel to Cut Oil Import Dependence",
+    "title_zh": "印度推出85%乙醇燃料以减少对石油进口的依赖",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Launches-85-Ethanol-Fuel-to-Cut-Oil-Import-Dependence.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T15:30:00+00:00"
+  },
+  "fad866f43b0b": {
+    "id": "fad866f43b0b",
+    "title_en": "Oil Markets Stop Believing Trump’s Peace Narrative",
+    "title_zh": "石油市场不再相信特朗普的和平叙事",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Stop-Believing-Trumps-Peace-Narrative.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T15:20:00+00:00"
+  },
+  "9e85f8d5234b": {
+    "id": "9e85f8d5234b",
+    "title_en": "Trump Doubles Down On Coal Power, Just In Time For The Midterms Elections",
+    "title_zh": "特朗普在煤炭发电方面加倍努力，正好赶上中期选举",
+    "url": "https://cleantechnica.com/2026/06/05/coal-jobs-power-plants-trump-electricity-costs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T15:10:10+00:00"
+  },
+  "c3d1acb427b3": {
+    "id": "c3d1acb427b3",
+    "title_en": "Reasons BYD Is Taking On Liability While Self-Driving And Tesla Isn’t",
+    "title_zh": "比亚迪承担责任而特斯拉不承担责任的原因",
+    "url": "https://cleantechnica.com/2026/06/05/reasons-byd-is-taking-on-liability-while-self-driving-and-tesla-isnt/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T15:07:41+00:00"
+  },
+  "7a23317d0b8c": {
+    "id": "7a23317d0b8c",
+    "title_en": "Siemens Energy buys Camlin Group, maker of transformer monitoring software",
+    "title_zh": "西门子能源收购变压器监控软件制造商Camlin Group",
+    "url": "https://www.pv-magazine.com/2026/06/05/siemens-energy-buys-camlin-group-maker-of-transformer-monitoring-software/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-05T15:00:00+00:00"
+  },
+  "26f296cecb89": {
+    "id": "26f296cecb89",
+    "title_en": "Fervo Energy faces transmission constraints in the West, analysts say",
+    "title_zh": "分析人士表示，Fervo Energy在西方面临输电限制",
+    "url": "https://www.utilitydive.com/news/fervo-energy-geothermal-transmission-constraints/822141/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-05T14:53:55+00:00"
+  },
+  "c1306f1aea90": {
+    "id": "c1306f1aea90",
+    "title_en": "GE Vernova wins first Indian order for upgraded ‘workhorse’ turbine",
+    "title_zh": "GE Vernova赢得印度首个升级“主力”涡轮机订单",
+    "url": "https://www.windpowermonthly.com/article/1960669/ge-vernova-wins-first-indian-order-upgraded-workhorse-turbine",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-06-05T14:41:49+00:00"
+  },
   "a019aad00e7a": {
     "id": "a019aad00e7a",
     "title_en": "Trump Auction Opens Arctic Refuge Drilling Rights for First Time Ever",
@@ -43,6 +196,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-05T14:00:00+00:00"
+  },
+  "622135c1c3e2": {
+    "id": "622135c1c3e2",
+    "title_en": "DOE orders OUC’s 465-MW coal unit in Florida to continue running",
+    "title_zh": "美国能源部命令OUC在佛罗里达州的465兆瓦燃煤机组继续运行",
+    "url": "https://www.utilitydive.com/news/doe-orlando-coal-florida-stanton-emergency-202/822119/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-05T13:58:18+00:00"
   },
   "82fe1950bed3": {
     "id": "82fe1950bed3",
@@ -116,6 +278,15 @@
     "category": "油气",
     "pub_ts": "2026-06-05T12:30:00+00:00"
   },
+  "ce1d8ceeac26": {
+    "id": "ce1d8ceeac26",
+    "title_en": "Trump administration announces $850M to modernize US coal capacity, build 2 new plants",
+    "title_zh": "特朗普政府宣布投资8.5亿美元实现美国煤炭产能现代化，建造2座新工厂",
+    "url": "https://www.utilitydive.com/news/doe-announces-850m-modernize-coal-capacity-build-new-plants/822109/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-05T12:20:30+00:00"
+  },
   "6e1032d03550": {
     "id": "6e1032d03550",
     "title_en": "Dutch solar owners asked to switch off during peak periods to ease distribution crisis",
@@ -160,6 +331,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-05T11:44:47+00:00"
+  },
+  "f6ba5b2e8c32": {
+    "id": "f6ba5b2e8c32",
+    "title_en": "DOE’s Alex Fitzsimmons on energy markets, AI, renewables and more",
+    "title_zh": "能源部Alex Fitzsimmons谈能源市场、人工智能、可再生能源等",
+    "url": "https://www.utilitydive.com/news/alex-fitzsimmons-energy-markets-ai-renewables/822095/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-05T11:39:20+00:00"
   },
   "061945a255d4": {
     "id": "061945a255d4",
@@ -4318,185 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-06-01T06:48:57+00:00"
-  },
-  "6d2346aa8815": {
-    "id": "6d2346aa8815",
-    "title_en": "CATL opens ‘world’s largest’ energy storage testing platform in China",
-    "title_zh": "CATL在中国开设“全球最大”储能测试平台",
-    "url": "https://www.energy-storage.news/catl-opens-worlds-largest-energy-storage-testing-platform-in-china/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-01T06:43:19+00:00"
-  },
-  "deefbe1167ac": {
-    "id": "deefbe1167ac",
-    "title_en": "A court just decided how much foot movement counts as ‘pedaling’ an e-bike",
-    "title_zh": "一家法院刚刚决定了脚的运动量多少算作“踩”电动自行车",
-    "url": "https://electrek.co/2026/05/31/a-court-just-decided-how-much-foot-movement-counts-as-pedaling-an-e-bike/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-01T06:13:10+00:00"
-  },
-  "16a2607dd6c2": {
-    "id": "16a2607dd6c2",
-    "title_en": "Goldman Sachs Sees Oil Demand Destruction Offsetting Supply Shock Risks",
-    "title_zh": "高盛认为石油需求破坏抵消了供应冲击风险",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-Oil-Demand-Destruction-Offsetting-Supply-Shock-Risks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T06:00:00+00:00"
-  },
-  "2cc3e6d7835e": {
-    "id": "2cc3e6d7835e",
-    "title_en": "CATL opens large-scale energy storage validation platform in Xiamen",
-    "title_zh": "CATL在厦门开设大型储能验证平台",
-    "url": "https://www.pv-magazine.com/2026/06/01/catl-opens-large-scale-energy-storage-validation-platform-in-xiamen/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T05:41:16+00:00"
-  },
-  "28a1b641275f": {
-    "id": "28a1b641275f",
-    "title_en": "The U.S. will have more than 950 clean energy manufacturing facilities by 2030: report",
-    "title_zh": "到2030年，美国将拥有950多个清洁能源制造设施：报告",
-    "url": "https://www.pv-magazine.com/2026/06/01/the-u-s-will-have-more-than-950-clean-energy-manufacturing-facilities-by-2030-report/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T05:37:29+00:00"
-  },
-  "86358ebcb1b2": {
-    "id": "86358ebcb1b2",
-    "title_en": "Oil Prices Rise as Israel Expands Lebanon Offensive",
-    "title_zh": "随着以色列扩大对黎巴嫩的攻势，油价上涨",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Israel-Expands-Lebanon-Offensive.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T02:52:09+00:00"
-  },
-  "3e465141d320": {
-    "id": "3e465141d320",
-    "title_en": "Australia’s Victoria formally declares five renewable energy zones",
-    "title_zh": "澳大利亚维多利亚州正式宣布五个可再生能源区",
-    "url": "https://www.pv-tech.org/australias-victoria-formally-declares-five-renewable-energy-zones/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T01:34:57+00:00"
-  },
-  "c06b5c78c6d6": {
-    "id": "c06b5c78c6d6",
-    "title_en": "RES Australia’s 2.4GWh Bunyip North BESS clears EPBC Act assessment in Victoria",
-    "title_zh": "RES Australia的2.4GWh Bunyip North BESS在维多利亚州通过了EPBC法案评估",
-    "url": "https://www.energy-storage.news/res-australias-2-4gwh-bunyip-north-bess-clears-epbc-act-assessment-in-victoria/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-01T01:32:32+00:00"
-  },
-  "5d63acb6adb2": {
-    "id": "5d63acb6adb2",
-    "title_en": "Chile EV Sales Report: 10% Market Share Reached in April Thanks to 247% Growth!",
-    "title_zh": "智利电动汽车销售报告：4月份市场份额达到10%，增长247%！",
-    "url": "https://cleantechnica.com/2026/05/31/chile-ev-sales-report-10-market-share-reached-in-april-thanks-to-247-growth/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-31T21:22:33+00:00"
-  },
-  "4b371b52ceff": {
-    "id": "4b371b52ceff",
-    "title_en": "The Iran War’s First 90 Days Upended Energy Markets",
-    "title_zh": "伊朗战争的前90天颠覆了能源市场",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Iran-Wars-First-90-Days-Upended-Energy-Markets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-31T21:00:00+00:00"
-  },
-  "cd4e41fc5612": {
-    "id": "cd4e41fc5612",
-    "title_en": "Britain’s Nuclear Renaissance Faces Mounting Cost Pressures",
-    "title_zh": "英国的核复兴面临越来越大的成本压力",
-    "url": "https://oilprice.com/Energy/Energy-General/Britains-Nuclear-Renaissance-Faces-Mounting-Cost-Pressures.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-31T19:00:00+00:00"
-  },
-  "8c19cabe6dc1": {
-    "id": "8c19cabe6dc1",
-    "title_en": "Over 9,900 Electric Buses Operating In Latin America Now",
-    "title_zh": "目前，拉丁美洲有9900多辆电动公交车在运营",
-    "url": "https://cleantechnica.com/2026/05/31/over-9900-electric-buses-operating-in-latin-america-now/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-31T18:24:36+00:00"
-  },
-  "dd322350b459": {
-    "id": "dd322350b459",
-    "title_en": "Demand Destruction Is The Reward Fossil Fuel Donors Get For Supporting MAGA",
-    "title_zh": "销毁需求是化石燃料捐赠者支持MAGA的回报",
-    "url": "https://cleantechnica.com/2026/05/31/demand-destruction-is-the-reward-fossil-fuel-donors-get-for-supporting-maga/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-31T18:20:44+00:00"
-  },
-  "b287e6c9b254": {
-    "id": "b287e6c9b254",
-    "title_en": "Why Have F1 Drivers Given The Ferrari Luce The Thumbs-Up But The Tifosi Won’t?",
-    "title_zh": "为什么F1车手对法拉利Luce竖起大拇指，而Tifosi却不竖起大拇指？",
-    "url": "https://cleantechnica.com/2026/05/31/why-have-f1-drivers-give-the-ferrari-luce-the-thumbs-up-but-the-tifosi-wont/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-31T17:38:37+00:00"
-  },
-  "0f36a7985131": {
-    "id": "0f36a7985131",
-    "title_en": "Spent Nuclear Fuel Could Be America's Answer to Russia's Uranium Grip",
-    "title_zh": "乏核燃料可能是美国对俄罗斯铀控制的回应",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Spent-Nuclear-Fuel-Could-Be-Americas-Answer-to-Russias-Uranium-Grip.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-31T17:00:00+00:00"
-  },
-  "a5603022a3dd": {
-    "id": "a5603022a3dd",
-    "title_en": "A SpaceX/Tesla merger could trigger Musk’s $1T pay package automatically",
-    "title_zh": "SpaceX与特斯拉的合并可能会自动触发马斯克1万亿美元的薪酬方案",
-    "url": "https://electrek.co/2026/05/31/a-spacex-tesla-merger-could-trigger-musks-1t-pay-package-automatically/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-05-31T15:00:00+00:00"
-  },
-  "f219d6b0f4df": {
-    "id": "f219d6b0f4df",
-    "title_en": "The Race to Build the World’s Largest Solar Farms Is Accelerating",
-    "title_zh": "建造世界最大太阳能发电厂的竞赛正在加速",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Race-to-Build-the-Worlds-Largest-Solar-Farms-Is-Accelerating.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-31T15:00:00+00:00"
-  },
-  "74254cc5ed6c": {
-    "id": "74254cc5ed6c",
-    "title_en": "Ford Mustang Mach-E Cheaper than Ford Escape! (5-Year Total Cost of Ownership)",
-    "title_zh": "福特野马Mach-E比福特Escape便宜！（5年总拥有成本）",
-    "url": "https://cleantechnica.com/2026/05/31/ford-mustang-mach-e-cheaper-than-ford-escape-5-year-total-cost-of-ownership/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-31T14:00:17+00:00"
-  },
-  "bec5d010d880": {
-    "id": "bec5d010d880",
-    "title_en": "Juiced Bikes now shipping its game-changing electric mopeds in the US",
-    "title_zh": "Juiced Bikes现在将其改变游戏规则的电动轻便摩托车运往美国",
-    "url": "https://electrek.co/2026/05/30/juiced-bikes-now-shipping-its-game-changing-electric-mopeds-in-the-us/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-05-31T05:36:36+00:00"
-  },
-  "2a31bd3c5e2d": {
-    "id": "2a31bd3c5e2d",
-    "title_en": "California — Lowest Wholesale Electricity Prices in USA",
-    "title_zh": "加利福尼亚州——美国最低批发电价",
-    "url": "https://cleantechnica.com/2026/05/30/california-lowest-wholesale-electricity-prices-in-usa/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-30T23:10:09+00:00"
   }
 }
