@@ -1,4 +1,139 @@
 {
+  "93b9cb832c23": {
+    "id": "93b9cb832c23",
+    "title_en": "Naturgy’s GPG brings 360MW of new solar capacity online in Australia",
+    "title_zh": "Naturey的GPG在澳大利亚上线了360MW的新太阳能发电量",
+    "url": "https://www.pv-tech.org/naturgys-gpg-brings-360mw-of-new-solar-capacity-online-in-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-05T02:26:32+00:00"
+  },
+  "d1d3795c03f5": {
+    "id": "d1d3795c03f5",
+    "title_en": "Western Australia commits AU$17.8 million to solar module and battery recycling",
+    "title_zh": "西澳大利亚州承诺投入1780万澳元用于太阳能模块和电池回收",
+    "url": "https://www.pv-tech.org/western-australia-commits-au17-8-million-to-solar-module-and-battery-recycling/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-05T02:25:35+00:00"
+  },
+  "400d25912c5f": {
+    "id": "400d25912c5f",
+    "title_en": "What The — Who Is Buying All Those Subaru EVs?",
+    "title_zh": "谁在买那些斯巴鲁电动汽车？",
+    "url": "https://cleantechnica.com/2026/06/04/subaru-evs-us-sales-uncharted-solterra-trailseeker/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T02:23:47+00:00"
+  },
+  "f20c2c093845": {
+    "id": "f20c2c093845",
+    "title_en": "Frontier Energy secures AU$110 million equity raise for 132MW solar-plus-storage project in Western Australia",
+    "title_zh": "Frontier Energy为西澳大利亚州132MW太阳能+储能项目融资1.1亿澳元",
+    "url": "https://www.pv-tech.org/frontier-energy-secures-au110-million-equity-raise-for-132mw-solar-plus-storage-project-in-western-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-05T02:21:39+00:00"
+  },
+  "6a833e3ad07b": {
+    "id": "6a833e3ad07b",
+    "title_en": "Australia’s Victoria fast-tracks 1,390MW of battery storage Development Facilitation Program approval round",
+    "title_zh": "澳大利亚维多利亚州快速通过1390MW电池储能发展促进计划审批",
+    "url": "https://www.energy-storage.news/australias-victoria-fast-tracks-1390mw-of-battery-storage-development-facilitation-program-approval-round/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-05T02:20:29+00:00"
+  },
+  "47fa66253521": {
+    "id": "47fa66253521",
+    "title_en": "Tesla erases the past, CAT electrifies the future, and EV tech training TODAY",
+    "title_zh": "特斯拉抹去过去，CAT为未来充电，今天进行电动汽车技术培训",
+    "url": "https://electrek.co/2026/06/04/tesla-erases-the-past-cat-electrifies-the-future-and-ev-tech-training-today/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T01:55:00+00:00"
+  },
+  "810ff34109d5": {
+    "id": "810ff34109d5",
+    "title_en": "Citing Cleaner, Cheaper Alternatives, Colorado Regulators Deny Xcel Energy’s $2.9 Billion Gas System Plan",
+    "title_zh": "科罗拉多州监管机构以更清洁、更便宜的替代品为由，否认Xcel Energy 29亿美元的天然气系统计划",
+    "url": "https://cleantechnica.com/2026/06/04/citing-cleaner-cheaper-alternatives-colorado-regulators-deny-xcel-energys-2-9-billion-gas-system-plan/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T00:50:01+00:00"
+  },
+  "771d0f7131c2": {
+    "id": "771d0f7131c2",
+    "title_en": "Low-Carbon Steel Credits in the EU Cars CO₂ Standards",
+    "title_zh": "欧盟汽车公司的低碳钢信用额度₂ 标准",
+    "url": "https://cleantechnica.com/2026/06/04/low-carbon-steel-credits-in-the-eu-cars-co%e2%82%82-standards/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T00:41:31+00:00"
+  },
+  "e9f75978c923": {
+    "id": "e9f75978c923",
+    "title_en": "AchiEVe 2026 Policy Guide Equips States & Communities to Advance Electric Transportation",
+    "title_zh": "AchiEVe 2026政策指南助力各州和社区推进电动交通",
+    "url": "https://cleantechnica.com/2026/06/04/achieve-2026-policy-guide-equips-states-communities-to-advance-electric-transportation/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T00:29:44+00:00"
+  },
+  "4da4da5c4386": {
+    "id": "4da4da5c4386",
+    "title_en": "Under Pressure, Hyundai Steel to Significantly Reduce Emissions, Switch from Gas to Electric Heaters at Proposed Louisiana Plant",
+    "title_zh": "在压力下，现代钢铁公司将大幅减少排放，在路易斯安那州拟建工厂从天然气换成电加热器",
+    "url": "https://cleantechnica.com/2026/06/04/under-pressure-hyundai-steel-to-significantly-reduce-emissions-switch-from-gas-to-electric-heaters-at-proposed-louisiana-plant/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T00:19:50+00:00"
+  },
+  "acbcbc8aeb12": {
+    "id": "acbcbc8aeb12",
+    "title_en": "Donald Trump Gives Big Coal $700 Million Handout While Americans Pay",
+    "title_zh": "唐纳德·特朗普向大型煤炭公司发放7亿美元，而美国人则支付",
+    "url": "https://cleantechnica.com/2026/06/04/donald-trump-gives-big-coal-700-million-handout-while-americans-pay/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T00:11:41+00:00"
+  },
+  "7162e6e5dcae": {
+    "id": "7162e6e5dcae",
+    "title_en": "North Dakota Chases A Second Bakken Boom Through Enhanced Recovery",
+    "title_zh": "北达科他州通过加强复苏寻求第二次巴肯繁荣",
+    "url": "https://oilprice.com/Energy/Crude-Oil/North-Dakota-Chases-A-Second-Bakken-Boom-Through-Enhanced-Recovery.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T00:00:00+00:00"
+  },
+  "51affa7377be": {
+    "id": "51affa7377be",
+    "title_en": "Brazil, Guyana, Venezuela Fuel South America’s Oil Export Boom",
+    "title_zh": "巴西、圭亚那、委内瑞拉推动南美石油出口繁荣",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Brazil-Guyana-Venezuela-Fuel-South-Americas-Oil-Export-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-04T23:00:00+00:00"
+  },
+  "22cabd25e7e0": {
+    "id": "22cabd25e7e0",
+    "title_en": "CFS Publishes Papers Validating Physics of ARC Fusion Power Plant",
+    "title_zh": "CFS发表论文验证ARC聚变发电厂的物理特性",
+    "url": "https://www.powermag.com/cfs-publishes-papers-validating-physics-of-arc-fusion-power-plant/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-04T22:43:31+00:00"
+  },
+  "39ea6e5acf03": {
+    "id": "39ea6e5acf03",
+    "title_en": "Donut Lab’s Manufacturing Is Different",
+    "title_zh": "甜甜圈实验室的生产方式不同",
+    "url": "https://cleantechnica.com/2026/06/04/donut-labs-manufacturing-is-different/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-04T22:23:03+00:00"
+  },
   "847ffc6bf12d": {
     "id": "847ffc6bf12d",
     "title_en": "NEM Data Spotlight: Solar generation contracts 21% in May as mid-month pricing spike hits AU$225/MWh",
@@ -4363,140 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-05-29T15:42:04+00:00"
-  },
-  "5176b95530bd": {
-    "id": "5176b95530bd",
-    "title_en": "Oil Prices Suffer Biggest Weekly Collapse in Two Months",
-    "title_zh": "油价遭遇两个月来最大周跌幅",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Suffer-Biggest-Weekly-Collapse-in-Two-Months.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-29T15:30:00+00:00"
-  },
-  "f6f61dcef367": {
-    "id": "f6f61dcef367",
-    "title_en": "Philippines Receives First Iranian Crude Cargo Since Hormuz Blockade",
-    "title_zh": "菲律宾接收霍尔木兹封锁以来第一批伊朗原油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Philippines-Receives-First-Iranian-Crude-Cargo-Since-Hormuz-Blockade.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-29T15:30:00+00:00"
-  },
-  "ab3fab09c05b": {
-    "id": "ab3fab09c05b",
-    "title_en": "Toyota is scrapping plans to launch one of its most important EVs",
-    "title_zh": "丰田正在取消推出其最重要的电动汽车之一的计划",
-    "url": "https://electrek.co/2026/05/29/toyota-scraps-plans-launch-most-important-evs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-05-29T15:06:09+00:00"
-  },
-  "c9d440bb1ef5": {
-    "id": "c9d440bb1ef5",
-    "title_en": "Nextpower enters utility-scale BESS market with Prevalon acquisition",
-    "title_zh": "Nextpower通过收购Prevalon进入公用事业规模的BESS市场",
-    "url": "https://www.pv-tech.org/nextpower-enters-utility-scale-bess-market-with-prevalon-acquisition/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T15:04:38+00:00"
-  },
-  "c819d59bacd2": {
-    "id": "c819d59bacd2",
-    "title_en": "Large-load customers can help commercialize new clean energy technology: CEBA",
-    "title_zh": "大负载客户可以帮助将新的清洁能源技术商业化：CEBA",
-    "url": "https://www.utilitydive.com/news/innovative-customer-utility-agreements-derisk-new-technology-ceba/821402/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-05-29T15:00:00+00:00"
-  },
-  "342b0e766525": {
-    "id": "342b0e766525",
-    "title_en": "India installs 2.7 GW of rooftop PV in Q1",
-    "title_zh": "印度第一季度安装2.7吉瓦屋顶光伏",
-    "url": "https://www.pv-magazine.com/2026/05/29/residential-segment-accounts-for-82-of-indias-rooftop-solar-additions-in-q1-2026-mercom/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T14:56:42+00:00"
-  },
-  "4604afe8169f": {
-    "id": "4604afe8169f",
-    "title_en": "An Easier Path To Heat Pumps: Monthly Payments, No Up-Front Cost",
-    "title_zh": "更简单的热泵之路：每月付款，无前期成本",
-    "url": "https://cleantechnica.com/2026/05/29/heat-pumps-us-startup-quilt-lease-finance/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-05-29T14:41:35+00:00"
-  },
-  "c0525d57d818": {
-    "id": "c0525d57d818",
-    "title_en": "India's Central Bank Warns Oil Shock Threatens Growth",
-    "title_zh": "印度央行警告石油危机威胁经济增长",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Central-Bank-Warns-Oil-Shock-Threatens-Growth.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-29T14:30:00+00:00"
-  },
-  "67252fa762a3": {
-    "id": "67252fa762a3",
-    "title_en": "Supermajor Warns Oil Prices Could Hit $160 Within Weeks",
-    "title_zh": "Supermajor警告油价可能在几周内达到160美元",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Supermajor-Warns-Oil-Prices-Could-Hit-160-Within-Weeks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-05-29T14:00:00+00:00"
-  },
-  "c0d48915044f": {
-    "id": "c0d48915044f",
-    "title_en": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
-    "title_zh": "2026年5月29日简报：欧洲“令人难以置信”的5月|印度的高温死亡|尼日利亚的太阳能迷你电网",
-    "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-29T14:00:00+00:00"
-  },
-  "5b41c13bc2ab": {
-    "id": "5b41c13bc2ab",
-    "title_en": "Memorial Day Green Deals hub – EVs, power stations, electric tools, devices, and much more",
-    "title_zh": "阵亡将士纪念日绿色交易中心——电动汽车、发电站、电动工具、设备等等",
-    "url": "https://electrek.co/2026/05/29/memorial-day-green-deals-hub-evs-power-stations-electric-tools-devices-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-05-29T13:21:00+00:00"
-  },
-  "50a065bab1be": {
-    "id": "50a065bab1be",
-    "title_en": "Entergy’s gas projects are one-third of MISO’s fast-track interconnection process",
-    "title_zh": "Entergy的天然气项目是MISO快速互联过程的三分之一",
-    "url": "https://www.utilitydive.com/news/entergy-gas-fired-miso-fast-track-interconnection-eras/821460/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-05-29T13:06:01+00:00"
-  },
-  "02cf39894eff": {
-    "id": "02cf39894eff",
-    "title_en": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
-    "title_zh": "人工智能热潮意味着美国现在对化石燃料发电的“投资”比中国多",
-    "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-05-29T12:58:11+00:00"
-  },
-  "5d5ee946b90f": {
-    "id": "5d5ee946b90f",
-    "title_en": "‘I still have hope that the failure rate will decrease,’ says Kiwa PVEL’s Tristan Erion-Lorico",
-    "title_zh": "Kiwa PVEL的Tristan Erion Lorico说，我仍然希望失败率会降低",
-    "url": "https://www.pv-tech.org/i-still-have-hope-that-the-failure-rate-will-decrease-says-kiwa-pvels-tristan-erion-lorico/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-05-29T12:36:15+00:00"
-  },
-  "97e0fc3506af": {
-    "id": "97e0fc3506af",
-    "title_en": "Once you secure SPARK funds for transmission development, what comes next?",
-    "title_zh": "一旦你获得了用于输电发展的SPARK资金，接下来会发生什么？",
-    "url": "https://www.utilitydive.com/news/doe-funding-spark-initiative-transmission/820575/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-05-29T12:20:56+00:00"
   }
 }
