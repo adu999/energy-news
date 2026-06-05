@@ -1,4 +1,85 @@
 {
+  "8cc0bcefffa0": {
+    "id": "8cc0bcefffa0",
+    "title_en": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
+    "title_zh": "特斯拉将Roadster演示推迟到8月，因为SpaceX的推进器工作仍在继续",
+    "url": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T19:51:00+00:00"
+  },
+  "6531a9679e1e": {
+    "id": "6531a9679e1e",
+    "title_en": "Podcast: Tesla Semi nails big test,  BMW iX3 range impresses, Xpeng catches up to Tesla, and more",
+    "title_zh": "播客：特斯拉Semi完成大测试，宝马iX3系列令人印象深刻，小鹏追赶特斯拉，等等",
+    "url": "https://electrek.co/2026/06/05/podcast-tesla-semi-nails-big-test-bmw-ix3-range-impresses-xpeng-catches-up-to-tesla-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T19:39:07+00:00"
+  },
+  "7918f3538414": {
+    "id": "7918f3538414",
+    "title_en": "Hyundai Scores Robotics PR Win, Shanks Ball On FIFA Transport Opportunity",
+    "title_zh": "现代获得机器人公关胜利，在FIFA运输机会上投球",
+    "url": "https://cleantechnica.com/2026/06/05/hyundai-scores-robotics-pr-win-shanks-ball-on-fifa-transport-opportunity/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T18:54:01+00:00"
+  },
+  "3648c4a3f953": {
+    "id": "3648c4a3f953",
+    "title_en": "Chinese NEV Resale Value Surges 30%, Volume Up 29%",
+    "title_zh": "中国新能源汽车转售价值飙升30%，销量增长29%",
+    "url": "https://cleantechnica.com/2026/06/05/chinese-used-nev-resale-value-surges-30-volume-up-29/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T18:08:18+00:00"
+  },
+  "5146f3137ad1": {
+    "id": "5146f3137ad1",
+    "title_en": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
+    "title_zh": "Yozma IN 10+IN 10 Pro电动越野自行车，最高可节省1043美元，Letric父亲节电动自行车特卖，Segway Navimow，更多",
+    "url": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T18:00:00+00:00"
+  },
+  "82053962c4ed": {
+    "id": "82053962c4ed",
+    "title_en": "Regional Leaders Back Taliban Trade Ties While EU Holds the Line",
+    "title_zh": "地区领导人支持与塔利班的贸易关系，而欧盟则持保留态度",
+    "url": "https://oilprice.com/Geopolitics/International/Regional-Leaders-Back-Taliban-Trade-Ties-While-EU-Holds-the-Line.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T18:00:00+00:00"
+  },
+  "cc5f2ccf5691": {
+    "id": "cc5f2ccf5691",
+    "title_en": "Range Rover is finally ready to sell its first electric SUV: Here’s everything we know",
+    "title_zh": "路虎揽胜终于准备好销售其首款电动SUV：以下是我们所知道的一切",
+    "url": "https://electrek.co/2026/06/05/range-rover-finally-ready-to-sell-first-electric-suv/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T17:55:15+00:00"
+  },
+  "bc043ed7bceb": {
+    "id": "bc043ed7bceb",
+    "title_en": "SPR Borrowers Owe Uncle Sam 40 Million Extra Barrels",
+    "title_zh": "SPR借款人欠山姆大叔额外4000万桶",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/SPR-Borrowers-Owe-Uncle-Sam-40-Million-Extra-Barrels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-05T17:30:00+00:00"
+  },
+  "0d088f2a18df": {
+    "id": "0d088f2a18df",
+    "title_en": "NYC’s big, clean power line is officially up and running",
+    "title_zh": "纽约市的大型清洁电力线正式投入运行",
+    "url": "https://www.canarymedia.com/articles/transmission/new-york-clean-power-transmission",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-05T17:15:00+00:00"
+  },
   "402c2518ddf6": {
     "id": "402c2518ddf6",
     "title_en": "Panel Discussion with Hawaii’s Clean Energy Leaders",
@@ -4417,86 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-01T08:24:06+00:00"
-  },
-  "37f47e7aba29": {
-    "id": "37f47e7aba29",
-    "title_en": "EDF Power Solutions signs 30-year solar agreement with SCPPA",
-    "title_zh": "EDF Power Solutions与SCPPA签署30年太阳能协议",
-    "url": "https://www.energymonitor.ai/news/edf-30-year-agreement-scppa/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-01T08:00:06+00:00"
-  },
-  "d7666837de98": {
-    "id": "d7666837de98",
-    "title_en": "Ming Yang, Canadian Developer Eye Teaming Up on Large-Scale Wind Project Offshore British Columbia",
-    "title_zh": "Ming Yang，加拿大开发商，着眼于不列颠哥伦比亚省海上大型风电项目",
-    "url": "https://www.offshorewind.biz/2026/06/01/ming-yang-canadian-developer-eye-teaming-up-on-large-scale-wind-project-offshore-british-columbia/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-01T07:48:03+00:00"
-  },
-  "dce9531d9f37": {
-    "id": "dce9531d9f37",
-    "title_en": "Scale key to viable polysilicon production in Australia, study finds",
-    "title_zh": "研究发现，规模是澳大利亚可行多晶硅生产的关键",
-    "url": "https://www.pv-magazine.com/2026/06/01/scale-key-to-viable-polysilicon-production-in-australia-study-finds/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T07:41:26+00:00"
-  },
-  "338726fae5c3": {
-    "id": "338726fae5c3",
-    "title_en": "Indian Refiners Freeze Domestic Jet Fuel Prices",
-    "title_zh": "印度炼油厂冻结国内喷气燃料价格",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Freeze-Domestic-Jet-Fuel-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T07:30:00+00:00"
-  },
-  "167dca266bea": {
-    "id": "167dca266bea",
-    "title_en": "Thanks to two new laws, more Virginians can save with community solar",
-    "title_zh": "得益于两项新法律，更多的弗吉尼亚人可以通过社区太阳能节省开支",
-    "url": "https://www.canarymedia.com/articles/solar/two-new-laws-virginia-community-solar",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-01T07:30:00+00:00"
-  },
-  "41e383ff2284": {
-    "id": "41e383ff2284",
-    "title_en": "In new attack on solar, lawmakers spread myths about potato farms",
-    "title_zh": "在对太阳能的新攻击中，立法者散布了关于马铃薯农场的神话",
-    "url": "https://www.canarymedia.com/articles/solar/attack-solar-myths-potato-farms",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-01T07:30:00+00:00"
-  },
-  "23f5ac6ab079": {
-    "id": "23f5ac6ab079",
-    "title_en": "AI platforms split on how far to push solar O&M automation",
-    "title_zh": "人工智能平台在推动太阳能运维自动化方面存在分歧",
-    "url": "https://www.pv-magazine.com/2026/06/01/ai-platforms-split-on-how-far-to-push-solar-om-automation/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T07:10:00+00:00"
-  },
-  "f4d5edc60ed1": {
-    "id": "f4d5edc60ed1",
-    "title_en": "Nanoscale device converts wasted infrared light from PV systems into usable energy",
-    "title_zh": "纳米级设备将光伏系统浪费的红外光转化为可用能源",
-    "url": "https://www.pv-magazine.com/2026/06/01/unsw-device-converts-wasted-infrared-light-into-usable-energy/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T06:50:10+00:00"
-  },
-  "a81304b32f24": {
-    "id": "a81304b32f24",
-    "title_en": "Germany: Level playing field for storage vs conventional generation is major challenge, says developer Kyon",
-    "title_zh": "德国：开发商Kyon表示，存储与传统发电的公平竞争环境是主要挑战",
-    "url": "https://www.energy-storage.news/germany-level-playing-field-for-storage-vs-conventional-generation-is-major-challenge-says-developer-kyon/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-01T06:48:57+00:00"
   }
 }
