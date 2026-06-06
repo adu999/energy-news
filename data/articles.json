@@ -1,4 +1,58 @@
 {
+  "bee1f09ece9f": {
+    "id": "bee1f09ece9f",
+    "title_en": "Global Biofuel Demand Set to Grow by Nearly 70% as Food Prices Rise",
+    "title_zh": "随着食品价格上涨，全球生物燃料需求将增长近70%",
+    "url": "https://cleantechnica.com/2026/06/05/global-biofuel-demand-set-to-grow-by-nearly-70-as-food-prices-rise/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T02:53:03+00:00"
+  },
+  "6053bee8d21b": {
+    "id": "6053bee8d21b",
+    "title_en": "Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail",
+    "title_zh": "Carvana对Slate的押注实际上是对汽车零售业未来的押注",
+    "url": "https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-06T01:51:59+00:00"
+  },
+  "0e5b62ea9f3c": {
+    "id": "0e5b62ea9f3c",
+    "title_en": "EVs Take 33.0% Share In France — Tesla Model Y Leads",
+    "title_zh": "电动汽车在法国的份额为33.0%——特斯拉Model Y领先",
+    "url": "https://cleantechnica.com/2026/06/05/evs-take-33-0-share-in-france-tesla-model-y-leads/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T01:48:11+00:00"
+  },
+  "1b8f00d0802d": {
+    "id": "1b8f00d0802d",
+    "title_en": "People Who Worked On Tesla “Full Self Driving” Don’t Trust Tesla “Full Self Driving”",
+    "title_zh": "从事特斯拉“全自动驾驶”工作的人不相信特斯拉“全自主驾驶”",
+    "url": "https://cleantechnica.com/2026/06/05/people-who-worked-on-tesla-full-self-driving-dont-trust-tesla-full-self-driving/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T00:40:25+00:00"
+  },
+  "95a290885d5a": {
+    "id": "95a290885d5a",
+    "title_en": "Wallbox deploys its first Supernova PowerRing DC fast chargers",
+    "title_zh": "Wallbox推出首款超新星PowerRing直流快速充电器",
+    "url": "https://electrek.co/2026/06/05/wallbox-deploys-its-first-supernova-powerring-dc-fast-chargers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-05T22:35:59+00:00"
+  },
+  "b1d4dc6a13f8": {
+    "id": "b1d4dc6a13f8",
+    "title_en": "It’s Okay To Grab A Quick Granola Bar, Right? Sourcing Food For A Clean Climate",
+    "title_zh": "吃一个快速的格兰诺拉麦片吧是可以的，对吧？为清洁气候采购食品",
+    "url": "https://cleantechnica.com/2026/06/05/its-okay-to-grab-a-quick-granola-bar-right-sourcing-food-for-a-clean-climate/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-05T22:24:37+00:00"
+  },
   "be710ac67b86": {
     "id": "be710ac67b86",
     "title_en": "Can AI Save More Energy Than It Consumes?",
@@ -4444,59 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-06-01T10:17:27+00:00"
-  },
-  "89ac734550f9": {
-    "id": "89ac734550f9",
-    "title_en": "Trina Solar announces 907 W tandem solar module with 29.2% efficiency",
-    "title_zh": "天合光能宣布推出907 W串联太阳能模块，效率为29.2%",
-    "url": "https://www.pv-magazine.com/2026/06/01/trina-solar-announces-907-w-tandem-solar-module-with-29-2-efficiency/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T10:16:34+00:00"
-  },
-  "dfbca0843f36": {
-    "id": "dfbca0843f36",
-    "title_en": "BYD will pay for crashes on its FSD competitor, something Tesla never has",
-    "title_zh": "比亚迪将为其FSD竞争对手的撞车事故买单，这是特斯拉从未做过的",
-    "url": "https://electrek.co/2026/06/01/byd-gods-eye-accepts-liability-tesla-never-has/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-01T09:46:34+00:00"
-  },
-  "ca5385169a5b": {
-    "id": "ca5385169a5b",
-    "title_en": "French Navy Seizes Russia-Linked Tanker in the Atlantic",
-    "title_zh": "法国海军在大西洋扣押与俄罗斯有联系的油轮",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/French-Navy-Intercepts-Suspected-Shadow-Fleet-Vessel-Bound-From-Russia.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T09:30:00+00:00"
-  },
-  "badcc7245407": {
-    "id": "badcc7245407",
-    "title_en": "Fugro to Carry Out Marine Mammal Monitoring for Irish Offshore Wind Grid Connection",
-    "title_zh": "Fugro将对爱尔兰海上风电并网进行海洋哺乳动物监测",
-    "url": "https://www.offshorewind.biz/2026/06/01/fugro-to-conduct-marine-mammal-monitoring-for-irish-offshore-wind-grid-connection/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-01T09:28:42+00:00"
-  },
-  "4eb0776c4c59": {
-    "id": "4eb0776c4c59",
-    "title_en": "Why mining operations are outgrowing Wi-Fi",
-    "title_zh": "为什么采矿业务的增长速度超过了Wi-Fi",
-    "url": "https://www.energymonitor.ai/sponsored/why-mining-operations-are-outgrowing-wi-fi/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-01T09:18:21+00:00"
-  },
-  "2c4d89d922dc": {
-    "id": "2c4d89d922dc",
-    "title_en": "Hoymiles launches new hybrid residential battery series",
-    "title_zh": "Hoymiles推出新的混合动力住宅电池系列",
-    "url": "https://www.pv-magazine.com/2026/06/01/hoymiles-launches-new-hybrid-residential-battery-series/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T09:17:29+00:00"
   }
 }
