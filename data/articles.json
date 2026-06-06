@@ -1,4 +1,22 @@
 {
+  "7e35987d4c01": {
+    "id": "7e35987d4c01",
+    "title_en": "When public charging stations aren’t so public, and why it matters",
+    "title_zh": "当公共充电站不那么公开时，为什么它很重要",
+    "url": "https://electrek.co/2026/06/06/when-public-charging-stations-arent-so-public-and-why-it-matters/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-06T21:56:13+00:00"
+  },
+  "ec77192b10ad": {
+    "id": "ec77192b10ad",
+    "title_en": "CATL Developing 12,000 Wh Per Kg Lithium-Air Battery",
+    "title_zh": "CATL开发12000 Wh/Kg锂空气电池",
+    "url": "https://cleantechnica.com/2026/06/06/catl-developing-12000-wh-per-kg-lithium-air-battery/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T19:21:59+00:00"
+  },
   "b5a3ac3e8924": {
     "id": "b5a3ac3e8924",
     "title_en": "AI Boom or Political Play? Trump Channels Defense Funds Into Dying Coal Plants",
@@ -4480,23 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-06-01T11:44:55+00:00"
-  },
-  "43fdb9a4fe81": {
-    "id": "43fdb9a4fe81",
-    "title_en": "EDF signs Utah solar PPA with LA Department of Water and Power",
-    "title_zh": "EDF与洛杉矶水电部签署犹他州太阳能PPA",
-    "url": "https://www.pv-tech.org/edf-signs-30-year-ppa-sell-power-utah-solar-project-la-department-water-power/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T11:34:35+00:00"
-  },
-  "2b050d76f9d4": {
-    "id": "2b050d76f9d4",
-    "title_en": "India’s LNG Industry Pushes for Government Backing as Diesel Costs Surge",
-    "title_zh": "随着柴油成本飙升，印度液化天然气行业寻求政府支持",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-LNG-Industry-Pushes-for-Government-Backing-as-Diesel-Costs-Surge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T11:30:00+00:00"
   }
 }
