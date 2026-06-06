@@ -1,4 +1,13 @@
 {
+  "d0f5463fbbd9": {
+    "id": "d0f5463fbbd9",
+    "title_en": "All the new EVs you can buy with 0% financing in June 2026",
+    "title_zh": "2026年6月，您可以用0%融资购买的所有新电动汽车",
+    "url": "https://electrek.co/2026/06/06/all-the-new-evs-you-can-buy-with-0-financing-in-june-2026/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-06T11:30:00+00:00"
+  },
   "1b2970a8fef6": {
     "id": "1b2970a8fef6",
     "title_en": "Global grid capex to surpass $650 billion in 2026, says Rystad Energy",
@@ -619,6 +628,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-05T10:30:00+00:00"
+  },
+  "980e03367ce3": {
+    "id": "980e03367ce3",
+    "title_en": "Rolls-Royce to build four BESS facilities for Sunly in Latvia",
+    "title_zh": "劳斯莱斯将在拉脱维亚为Sunly建造四个BESS设施",
+    "url": "https://www.energymonitor.ai/news/rolls-royce-sunly-bess-latvia/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-05T10:05:07+00:00"
   },
   "b3c0805ba093": {
     "id": "b3c0805ba093",
@@ -4480,23 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-01T11:01:48+00:00"
-  },
-  "cf18ec2c215d": {
-    "id": "cf18ec2c215d",
-    "title_en": "Wind power patents: Siemens Gamesa | CRRC Wind Power | Vestas | Envision",
-    "title_zh": "风电专利：西门子歌美飒|中车风电|维斯塔斯|远景",
-    "url": "https://www.windpowermonthly.com/article/1959925/wind-power-patents-siemens-gamesa-crrc-wind-power-vestas-envision",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-01T10:48:35+00:00"
-  },
-  "62262a10f5f1": {
-    "id": "62262a10f5f1",
-    "title_en": "ESMC, European industrial bodies write letter calling on EU to act against ‘unfair trade practices’",
-    "title_zh": "ESMC，欧洲工业机构写信呼吁欧盟采取行动打击“不公平贸易行为”",
-    "url": "https://www.pv-tech.org/esmc-european-industrial-bodies-write-letter-eu-act-unfair-trade-practices/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T10:42:41+00:00"
   }
 }
