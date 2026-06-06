@@ -1,4 +1,31 @@
 {
+  "1b2970a8fef6": {
+    "id": "1b2970a8fef6",
+    "title_en": "Global grid capex to surpass $650 billion in 2026, says Rystad Energy",
+    "title_zh": "Rystad Energy表示，2026年全球电网资本支出将超过6500亿美元",
+    "url": "https://www.pv-magazine.com/2026/06/06/global-grid-capex-to-surpass-650-billion-in-2026-says-rystad-energy/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-06T07:30:00+00:00"
+  },
+  "8b3f404d26df": {
+    "id": "8b3f404d26df",
+    "title_en": "Age of electrification exposing Australia’s weakest link",
+    "title_zh": "电气化时代暴露了澳大利亚最薄弱的环节",
+    "url": "https://www.pv-magazine.com/2026/06/06/age-of-electrification-exposing-australias-weakest-link/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-06T07:00:00+00:00"
+  },
+  "3c482e868851": {
+    "id": "3c482e868851",
+    "title_en": "Why Would Someone Prefer Coal Power Over Solar & Wind?",
+    "title_zh": "为什么有人更喜欢煤电而不是太阳能和风能？",
+    "url": "https://cleantechnica.com/2026/06/05/why-would-someone-prefer-coal-power-over-solar-wind/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T03:50:33+00:00"
+  },
   "bee1f09ece9f": {
     "id": "bee1f09ece9f",
     "title_en": "Global Biofuel Demand Set to Grow by Nearly 70% as Food Prices Rise",
@@ -4471,32 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-01T10:42:41+00:00"
-  },
-  "a87e98e4713b": {
-    "id": "a87e98e4713b",
-    "title_en": "Oil Prices Up 3% As Trump Demands Changes To Iran Deal",
-    "title_zh": "油价上涨3%，特朗普要求改变伊朗协议",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Up-3-As-Trump-Demands-Changes-To-Iran-Deal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T10:32:26+00:00"
-  },
-  "309a579dbd64": {
-    "id": "309a579dbd64",
-    "title_en": "Türkiye adds 1.97 GW of solar in January-April",
-    "title_zh": "Türkiye在1月至4月增加了1.97吉瓦的太阳能",
-    "url": "https://www.pv-magazine.com/2026/06/01/turkiye-adds-1-97-gw-of-solar-in-january-april/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T10:31:53+00:00"
-  },
-  "8ef9321bfd94": {
-    "id": "8ef9321bfd94",
-    "title_en": "US offshore wind faces new threat from Trump inspection plan",
-    "title_zh": "美国海上风电面临特朗普检查计划的新威胁",
-    "url": "https://www.windpowermonthly.com/article/1959900/us-offshore-wind-faces-new-threat-trump-inspection-plan",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-01T10:17:27+00:00"
   }
 }
