@@ -1,4 +1,40 @@
 {
+  "c2921adfd296": {
+    "id": "c2921adfd296",
+    "title_en": "Air Lubrication For Ships Is Real. The Air Still Isn’t Free.",
+    "title_zh": "船舶空气润滑是真实的。空气仍然不自由。",
+    "url": "https://cleantechnica.com/2026/06/06/ship-air-lubrication-air-isnt-free/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T15:53:36+00:00"
+  },
+  "3b39bff4d0bb": {
+    "id": "3b39bff4d0bb",
+    "title_en": "Harbinger gears up for war with autonomous military truck program",
+    "title_zh": "Harbinger准备与自主军用卡车项目开战",
+    "url": "https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-06T15:23:49+00:00"
+  },
+  "029d8a2e3c75": {
+    "id": "029d8a2e3c75",
+    "title_en": "Investments Starting to Grow Nicely In Africa’s Electric Motorcycle Sector",
+    "title_zh": "非洲电动摩托车行业的投资开始强劲增长",
+    "url": "https://cleantechnica.com/2026/06/06/investments-starting-to-grow-nicely-in-africas-electric-motorcycle-sector/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T14:38:23+00:00"
+  },
+  "b8675afc5fe3": {
+    "id": "b8675afc5fe3",
+    "title_en": "PHEV Sales Continue to Record Phenomenal Growth in South Africa",
+    "title_zh": "南非插电式混合动力汽车销量继续创下惊人增长",
+    "url": "https://cleantechnica.com/2026/06/06/phev-sales-continue-to-record-phenomenal-growth-in-south-africa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-06T14:19:49+00:00"
+  },
   "d0f5463fbbd9": {
     "id": "d0f5463fbbd9",
     "title_en": "All the new EVs you can buy with 0% financing in June 2026",
@@ -4462,41 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-01T11:24:25+00:00"
-  },
-  "30613a7acfd2": {
-    "id": "30613a7acfd2",
-    "title_en": "New York State’s 2027 budget to support 1GW rooftop and community solar",
-    "title_zh": "纽约州2027年预算支持1GW屋顶和社区太阳能",
-    "url": "https://www.pv-tech.org/new-york-states-2027-budget-to-support-1gw-rooftop-and-community-solar/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T11:15:24+00:00"
-  },
-  "4e059662b8b6": {
-    "id": "4e059662b8b6",
-    "title_en": "Wind Turbine Installation Begins on Hollandse Kust West VI",
-    "title_zh": "Hollandse Kust West VI开始安装风力发电机",
-    "url": "https://www.offshorewind.biz/2026/06/01/wind-turbine-installation-begins-on-hollandse-kust-west-vi/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-01T11:11:29+00:00"
-  },
-  "4975f89d4871": {
-    "id": "4975f89d4871",
-    "title_en": "First Wind Turbine Installed at Hollandse Kust West VI Site",
-    "title_zh": "Hollandse Kust West VI现场安装的第一台风力发电机",
-    "url": "https://www.offshorewind.biz/2026/06/01/first-wind-turbine-installed-at-hollandse-kust-west-vi-site/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-01T11:11:29+00:00"
-  },
-  "23d5898a7d1c": {
-    "id": "23d5898a7d1c",
-    "title_en": "Ember: Chinese import figures presage ‘major acceleration’ in Philippines rooftop solar",
-    "title_zh": "Ember：中国进口数据预示菲律宾屋顶太阳能“大幅加速”",
-    "url": "https://www.pv-tech.org/ember-chinese-import-figures-presage-major-acceleration-in-philippines-rooftop-solar/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T11:01:48+00:00"
   }
 }
