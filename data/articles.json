@@ -1,4 +1,31 @@
 {
+  "edfe03f9c35b": {
+    "id": "edfe03f9c35b",
+    "title_en": "Mexico Reaches 5 Gigawatts of Distributed Solar Power",
+    "title_zh": "墨西哥分布式太阳能发电量达到5吉瓦",
+    "url": "https://cleantechnica.com/2026/06/07/mexico-reaches-5-gigawatts-of-distributed-solar-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T21:56:31+00:00"
+  },
+  "284ffd9d7617": {
+    "id": "284ffd9d7617",
+    "title_en": "Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz",
+    "title_zh": "战后石油贸易可能与霍尔木兹之前完全不同",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Post-War-Oil-Trade-Could-Look-Nothing-Like-It-Did-Before-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-07T21:00:00+00:00"
+  },
+  "0b5ce4651c92": {
+    "id": "0b5ce4651c92",
+    "title_en": "BYD Exports Rose 80% Year Over Year In May",
+    "title_zh": "比亚迪5月出口同比增长80%",
+    "url": "https://cleantechnica.com/2026/06/07/byd-exports-rose-80-year-over-year-in-may/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T20:30:59+00:00"
+  },
   "659149fab6ba": {
     "id": "659149fab6ba",
     "title_en": "Survey Sunday: what will it take for fleets to realize electric works – TODAY?",
@@ -4471,32 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-01T14:22:13+00:00"
-  },
-  "639a15ba1f2c": {
-    "id": "639a15ba1f2c",
-    "title_en": "France’s cumulative solar capacity reaches 33 GW",
-    "title_zh": "法国累计太阳能发电量达到33GW",
-    "url": "https://www.pv-magazine.com/2026/06/01/au-31-mars-2026-la-puissance-du-parc-photovoltaique-francais-atteint-33-gw/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T14:17:50+00:00"
-  },
-  "7f572a466dc2": {
-    "id": "7f572a466dc2",
-    "title_en": "Philadelphia clean energy campaign turned millions invested into billions saved. Here’s how.",
-    "title_zh": "费城清洁能源运动将数百万投资转化为数十亿节省。方法如下。",
-    "url": "https://www.utilitydive.com/news/philadelphia-energy-campaign-economic-impact-report/821584/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-01T14:00:00+00:00"
-  },
-  "bd944256ea46": {
-    "id": "bd944256ea46",
-    "title_en": "Trump Hardens Terms as Iran Negotiations Reach Critical Stage",
-    "title_zh": "特朗普在伊朗谈判进入关键阶段时加强条款",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Trump-Hardens-Terms-as-Iran-Negotiations-Reach-Critical-Stage.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T14:00:00+00:00"
   }
 }
