@@ -1,4 +1,40 @@
 {
+  "659149fab6ba": {
+    "id": "659149fab6ba",
+    "title_en": "Survey Sunday: what will it take for fleets to realize electric works – TODAY?",
+    "title_zh": "周日调查：车队需要什么才能实现电力工程——今天？",
+    "url": "https://electrek.co/2026/06/07/survey-sunday-what-will-it-take-for-fleets-to-realize-electric-works-today/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-07T19:19:07+00:00"
+  },
+  "ad0638aaabea": {
+    "id": "ad0638aaabea",
+    "title_en": "Elon Musk Said He Wouldn’t Take SpaceX Public — Two Things That Changed His Mind",
+    "title_zh": "埃隆·马斯克说他不会让SpaceX上市——两件事改变了他的想法",
+    "url": "https://cleantechnica.com/2026/06/07/elon-musk-said-he-wouldnt-take-spacex-public-two-things-that-changed-his-mind/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T18:33:46+00:00"
+  },
+  "3bf90f36c679": {
+    "id": "3bf90f36c679",
+    "title_en": "E-quipment highlight: 25-ton LiuGong 870HE electric wheel loader",
+    "title_zh": "电子设备亮点：25吨柳工870HE电动轮式装载机",
+    "url": "https://electrek.co/2026/06/07/e-quipment-highlight-liugong-870he-electric-wheel-loader/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-07T18:10:22+00:00"
+  },
+  "58157e6167fd": {
+    "id": "58157e6167fd",
+    "title_en": "Britain's Net Zero Policy Is Killing Its Chemical Industry",
+    "title_zh": "英国的净零排放政策正在扼杀其化学工业",
+    "url": "https://oilprice.com/Energy/Energy-General/Britains-Net-Zero-Policy-Is-Killing-Its-Chemical-Industry.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-07T17:00:00+00:00"
+  },
   "dd9c399319dc": {
     "id": "dd9c399319dc",
     "title_en": "Star Power — Pulling Back The Curtain On The SpaceX IPO",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-01T14:00:00+00:00"
-  },
-  "d0d51f94c6f0": {
-    "id": "d0d51f94c6f0",
-    "title_en": "Most South African municipalities under recover electricity costs",
-    "title_zh": "南非大多数城市的电费回收不足",
-    "url": "https://www.pv-magazine.com/2026/06/01/most-south-african-municipalities-under-recover-electricity-costs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T13:52:35+00:00"
-  },
-  "00c83b631e0d": {
-    "id": "00c83b631e0d",
-    "title_en": "Tandem PV announces 30.4% efficient perovskite/silicon demonstration module",
-    "title_zh": "Tandem PV宣布30.4%高效钙钛矿/硅示范模块",
-    "url": "https://www.pv-magazine.com/2026/06/01/tandem-pv-announces-30-4-efficient-perovskite-silicon-demonstration-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T13:49:28+00:00"
-  },
-  "aa23703891f6": {
-    "id": "aa23703891f6",
-    "title_en": "Mexico launches fast-track permitting programme for renewables and BESS",
-    "title_zh": "墨西哥启动可再生能源和BESS快速通道许可计划",
-    "url": "https://www.energy-storage.news/mexico-launches-fast-track-permitting-programme-for-renewables-and-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-01T13:48:21+00:00"
-  },
-  "5c0297649344": {
-    "id": "5c0297649344",
-    "title_en": "Spanish building renovated with photovoltaic railings",
-    "title_zh": "西班牙建筑用光伏栏杆翻修",
-    "url": "https://www.pv-magazine.com/2026/06/01/rehabilitan-un-edificio-con-barandillas-fotovoltaicas/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T13:47:28+00:00"
   }
 }
