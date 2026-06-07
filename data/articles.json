@@ -1,4 +1,31 @@
 {
+  "c7d6ee852301": {
+    "id": "c7d6ee852301",
+    "title_en": "Could BYD Buy Maserati?",
+    "title_zh": "比亚迪可以收购玛莎拉蒂吗？",
+    "url": "https://cleantechnica.com/2026/06/06/could-byd-buy-maserati/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T03:33:34+00:00"
+  },
+  "59516d7bb7a5": {
+    "id": "59516d7bb7a5",
+    "title_en": "New Danfoss hydraulic pump increases equipment runtime by 50%",
+    "title_zh": "新的丹佛斯液压泵将设备运行时间提高了50%",
+    "url": "https://electrek.co/2026/06/06/new-danfoss-hydraulic-pump-increases-equipment-runtime-by-50/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-07T03:08:56+00:00"
+  },
+  "cf453e05c79c": {
+    "id": "cf453e05c79c",
+    "title_en": "Oil Market Flying Blind as Dark Tanker Traffic Surges in Hormuz",
+    "title_zh": "霍尔木兹黑暗油轮交通激增，石油市场盲目发展",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Market-Flying-Blind-as-Dark-Tanker-Traffic-Surges-in-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-06T23:00:00+00:00"
+  },
   "7e35987d4c01": {
     "id": "7e35987d4c01",
     "title_en": "When public charging stations aren’t so public, and why it matters",
@@ -7,6 +34,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-06T21:56:13+00:00"
+  },
+  "93e54e3f510b": {
+    "id": "93e54e3f510b",
+    "title_en": "Why Solar Power Is Booming Under Trump",
+    "title_zh": "为什么太阳能在特朗普的领导下蓬勃发展",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Why-Solar-Power-Is-Booming-Under-Trump.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-06T21:00:00+00:00"
   },
   "ec77192b10ad": {
     "id": "ec77192b10ad",
@@ -4462,41 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-01T13:08:51+00:00"
-  },
-  "7f82b2b234ac": {
-    "id": "7f82b2b234ac",
-    "title_en": "PJM monitor urges FERC to condition Mara power plant buy for data center complex",
-    "title_zh": "PJM监督员敦促联邦能源管理委员会为数据中心综合体购买马拉发电厂制定条件",
-    "url": "https://www.utilitydive.com/news/pjm-market-monitor-mara-data-center-long-ridge/821574/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-01T12:56:17+00:00"
-  },
-  "43515e19dbb5": {
-    "id": "43515e19dbb5",
-    "title_en": "Siemens Gamesa nacelle specialist joins 'fierce competitior' Vestas",
-    "title_zh": "西门子歌美飒机舱专家加入“激烈竞争对手”维斯塔斯",
-    "url": "https://www.windpowermonthly.com/article/1959980/siemens-gamesa-nacelle-specialist-joins-fierce-competitior-vestas",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-01T12:38:53+00:00"
-  },
-  "28d6f929e7b6": {
-    "id": "28d6f929e7b6",
-    "title_en": "BP Sells 5% Stake in Australia's Newest $35 Billion LNG Project",
-    "title_zh": "英国石油公司出售澳大利亚最新350亿美元液化天然气项目5%的股份",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Sells-5-Stake-in-Australias-Newest-35-Billion-LNG-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T12:30:00+00:00"
-  },
-  "bbc1a68679f3": {
-    "id": "bbc1a68679f3",
-    "title_en": "Sungrow and Sonnedix sign 643.8MWh supply agreement for Chile BESS",
-    "title_zh": "阳光电源与Sonnedix签署智利BESS 643.8MWh供电协议",
-    "url": "https://www.energy-storage.news/sungrow-and-sonnedix-sign-643-8mwh-supply-agreement-for-chile-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-01T11:44:55+00:00"
   }
 }
