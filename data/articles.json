@@ -1,4 +1,31 @@
 {
+  "dd9c399319dc": {
+    "id": "dd9c399319dc",
+    "title_en": "Star Power — Pulling Back The Curtain On The SpaceX IPO",
+    "title_zh": "明星力量——拉开SpaceX IPO的帷幕",
+    "url": "https://cleantechnica.com/2026/06/07/star-power-pulling-back-the-curtain-on-the-spacex-ipo/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T15:38:47+00:00"
+  },
+  "e282edd9b745": {
+    "id": "e282edd9b745",
+    "title_en": "France Gets Electrification Right, But 2030 Is Doing A Lot Of Work",
+    "title_zh": "法国电气化进展顺利，但2030年仍有大量工作要做",
+    "url": "https://cleantechnica.com/2026/06/07/france-electrification-plan-energy-security/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T15:04:03+00:00"
+  },
+  "1fedcd66896b": {
+    "id": "1fedcd66896b",
+    "title_en": "Waymo Sending Used EV Batteries to Community Clean Energy",
+    "title_zh": "Waymo将废旧电动汽车电池送往社区清洁能源",
+    "url": "https://cleantechnica.com/2026/06/07/waymo-sending-used-ev-batteries-to-community-clean-energy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-07T14:28:11+00:00"
+  },
   "e129ad689957": {
     "id": "e129ad689957",
     "title_en": "Here are the best electric bikes you can buy at every price level in June 2026",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-01T13:47:28+00:00"
-  },
-  "159d562743e2": {
-    "id": "159d562743e2",
-    "title_en": "SEG Solar is building a third solar panel assembly facility in Texas",
-    "title_zh": "SEG Solar正在德克萨斯州建造第三座太阳能电池板组装厂",
-    "url": "https://www.solarpowerworldonline.com/2026/06/seg-solar-is-building-a-third-solar-panel-assembly-facility-in-texas/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T13:37:09+00:00"
-  },
-  "e74136436489": {
-    "id": "e74136436489",
-    "title_en": "GameChange Energy consolidates solar trackers, eBOS under one brand",
-    "title_zh": "GameChange Energy将太阳能跟踪器和eBOS合并为一个品牌",
-    "url": "https://www.solarpowerworldonline.com/2026/06/gamechange-energy-consolidates-solar-trackers-ebos-under-one-brand/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T13:31:29+00:00"
-  },
-  "745eff93cf49": {
-    "id": "745eff93cf49",
-    "title_en": "Russia Bans Jet Fuel Exports as Ukrainian Attacks Cripple Refining",
-    "title_zh": "乌克兰袭击导致炼油厂瘫痪，俄罗斯禁止喷气燃料出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Bans-Jet-Fuel-Exports-as-Ukrainian-Attacks-Cripple-Refining.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T13:30:00+00:00"
   }
 }
