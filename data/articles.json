@@ -1,4 +1,346 @@
 {
+  "44e0b3faede9": {
+    "id": "44e0b3faede9",
+    "title_en": "Battery Giant CATL Expects Half Of Its 2030 Sales Will Be For Energy Storage",
+    "title_zh": "电池巨头CATL预计其2030年销售额的一半将用于储能",
+    "url": "https://cleantechnica.com/2026/06/08/battery-giant-catl-expects-half-of-its-2030-sales-will-be-for-energy-storage/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-08T15:47:31+00:00"
+  },
+  "5505555f9617": {
+    "id": "5505555f9617",
+    "title_en": "China's LNG Imports Hit Highest Point Since Iran War Began",
+    "title_zh": "中国液化天然气进口量创伊朗战争爆发以来新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Hit-Highest-Point-Since-Iran-War-Began.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T15:30:00+00:00"
+  },
+  "e6431053e20d": {
+    "id": "e6431053e20d",
+    "title_en": "Building a Storm-Ready Grid: Why Operations Matter as Much as Infrastructure",
+    "title_zh": "构建抗风暴电网：为什么运营与基础设施同样重要",
+    "url": "https://www.powermag.com/building-a-storm-ready-grid-why-operations-matter-as-much-as-infrastructure/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-08T15:08:00+00:00"
+  },
+  "e59820109c0f": {
+    "id": "e59820109c0f",
+    "title_en": "The POWER Interview: Hardening Power Systems to Withstand Natural Disasters",
+    "title_zh": "电力采访：强化电力系统以抵御自然灾害",
+    "url": "https://www.powermag.com/the-power-interview-hardening-power-systems-to-withstand-natural-disasters/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-08T15:06:47+00:00"
+  },
+  "6edcc0123331": {
+    "id": "6edcc0123331",
+    "title_en": "Can stadiums be energy efficient? USGBC map shows that many of them are",
+    "title_zh": "体育场馆能节能吗？USGBC地图显示，其中许多是",
+    "url": "https://www.utilitydive.com/news/can-stadiums-be-energy-efficient-usgbc-interactive-map-shows-they-can-be/822226/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-08T15:00:00+00:00"
+  },
+  "48928ddc6664": {
+    "id": "48928ddc6664",
+    "title_en": "The Iran Stalemate Could Be the Next Oil Supercycle Trigger",
+    "title_zh": "伊朗问题可能成为下一个石油超级周期的触发因素",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-Iran-Stalemate-Could-Be-the-Next-Oil-Supercycle-Trigger.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T15:00:00+00:00"
+  },
+  "c5f63665c23f": {
+    "id": "c5f63665c23f",
+    "title_en": "TOYO announces 1.5GW US HJT cell line weeks after AD/CVD hits Ethiopia factory",
+    "title_zh": "AD/CVD袭击埃塞俄比亚工厂数周后，东洋宣布推出1.5GW美国HJT细胞系",
+    "url": "https://www.pv-tech.org/toyo-announces-1-5gw-us-hjt-cell-line-weeks-after-ad-cvd-hits-ethiopia-factory/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T14:32:03+00:00"
+  },
+  "fbd7fe1caa04": {
+    "id": "fbd7fe1caa04",
+    "title_en": "Escalating Strike Action at Australian LNG Sites Could Hit Supply",
+    "title_zh": "澳大利亚液化天然气工厂的罢工行动升级可能会影响供应",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Escalating-Strike-Action-at-Australian-LNG-Sites-Could-Hit-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T14:30:00+00:00"
+  },
+  "db14569030a0": {
+    "id": "db14569030a0",
+    "title_en": "US solar installer SUNation, cell producer Suniva merge to create manufacturing and services platform",
+    "title_zh": "美国太阳能安装商SUNation和电池生产商Suniva合并创建制造和服务平台",
+    "url": "https://www.pv-tech.org/us-solar-installer-sunation-cell-producer-suniva-merge-to-create-manufacturing-and-services-platform/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T14:28:27+00:00"
+  },
+  "b93cbf33763b": {
+    "id": "b93cbf33763b",
+    "title_en": "GSI, OMNN break ground on 100MW Saskatchewan solar project in Canada",
+    "title_zh": "GSI和OMNN在加拿大萨斯喀彻温省100MW太阳能项目上破土动工",
+    "url": "https://www.pv-tech.org/gsi-omnn-break-ground-on-100mw-saskatchewan-solar-project-in-canada/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T14:28:07+00:00"
+  },
+  "fcf2fdcc4f24": {
+    "id": "fcf2fdcc4f24",
+    "title_en": "BYD is about to launch another flagship luxury EV: Here’s our first look [Images]",
+    "title_zh": "比亚迪即将推出另一款旗舰豪华电动汽车：这是我们的第一眼[图片]",
+    "url": "https://electrek.co/2026/06/08/byd-launch-another-flagship-luxury-ev-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-08T14:15:37+00:00"
+  },
+  "6cdde648ca70": {
+    "id": "6cdde648ca70",
+    "title_en": "Rumors Swirl As Carvana Eyeballs Slate EVs Which Aren’t Even Used Yet",
+    "title_zh": "谣言四起，Carvana的眼球将尚未使用的电动汽车打得粉碎",
+    "url": "https://cleantechnica.com/2026/06/08/used-evs-carvana-slate-startups-investors-us/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-08T14:14:44+00:00"
+  },
+  "9752b31790ae": {
+    "id": "9752b31790ae",
+    "title_en": "TOYO launches $357 Million, 1.5 GW HJT solar cell factory in Houston",
+    "title_zh": "东洋在休斯顿启动价值3.57亿美元、1.5吉瓦的HJT太阳能电池工厂",
+    "url": "https://www.pv-magazine.com/2026/06/08/toyo-launches-357-million-1-5-gw-hjt-solar-cell-factory-in-houston/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T14:09:15+00:00"
+  },
+  "4d792a4a6f9c": {
+    "id": "4d792a4a6f9c",
+    "title_en": "U.S. Gasoline Inventories Are Falling at a Record Pace",
+    "title_zh": "美国汽油库存正以创纪录的速度下降",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Gasoline-Inventories-Are-Falling-at-a-Record-Pace.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T14:00:00+00:00"
+  },
+  "31f89e23acbc": {
+    "id": "31f89e23acbc",
+    "title_en": "Why Is The Tesla Model Y Selling So Much Better Than The New Leaf & Bolt?",
+    "title_zh": "为什么特斯拉Model Y的销量比新款Leaf&Bolt好得多？",
+    "url": "https://cleantechnica.com/2026/06/08/why-is-the-tesla-model-y-selling-so-much-better-than-the-new-leaf-bolt/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-08T13:48:37+00:00"
+  },
+  "934706137a79": {
+    "id": "934706137a79",
+    "title_en": "Crown Estate to auction offshore wind site dropped after UK auction failure",
+    "title_zh": "英国拍卖失败后，皇冠地产拍卖海上风电场的价格下跌",
+    "url": "https://www.windpowermonthly.com/article/1960829/crown-estate-auction-offshore-wind-site-dropped-uk-auction-failure",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-06-08T13:43:35+00:00"
+  },
+  "f9670e54b641": {
+    "id": "f9670e54b641",
+    "title_en": "FERC approves SPP non-firm, large load transmission service",
+    "title_zh": "联邦能源管理委员会批准SPP非固定大负荷输电服务",
+    "url": "https://www.utilitydive.com/news/ferc-spp-chills-large-load-transmission-service/822211/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-08T13:43:29+00:00"
+  },
+  "d818aed3c633": {
+    "id": "d818aed3c633",
+    "title_en": "Eurozone Fuel Sales Fall 3.5% as Iran War Sends Prices Surging",
+    "title_zh": "伊朗战争导致价格飙升，欧元区燃料销售额下降3.5%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Eurozone-Fuel-Sales-Fall-35-as-Iran-War-Sends-Prices-Surging.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T13:30:00+00:00"
+  },
+  "5d885d9231ab": {
+    "id": "5d885d9231ab",
+    "title_en": "SolaREIT donates land to build southern California fire station",
+    "title_zh": "SolaREIT捐赠土地建造南加州消防站",
+    "url": "https://www.solarpowerworldonline.com/2026/06/solareit-donates-land-to-build-southern-california-fire-station/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T13:17:10+00:00"
+  },
+  "2ed45e5787e6": {
+    "id": "2ed45e5787e6",
+    "title_en": "Behind-the-meter data center gas plants will raise US energy bills",
+    "title_zh": "表后数据中心天然气厂将提高美国的能源账单",
+    "url": "https://www.utilitydive.com/news/data-centers-raise-energy-bills-not-for-reason-you-think/822205/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-08T13:13:20+00:00"
+  },
+  "ab9580198bf1": {
+    "id": "ab9580198bf1",
+    "title_en": "Key takeaways from SNEC 2026 in Shanghai",
+    "title_zh": "上海SNEC 2026的主要收获",
+    "url": "https://www.pv-magazine.com/2026/06/08/key-takeaways-from-snec-2026-in-shanghai/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:59:00+00:00"
+  },
+  "c81555b0f0dc": {
+    "id": "c81555b0f0dc",
+    "title_en": "Toyo to site 1.5-GW solar cell plant near Houston panel factory",
+    "title_zh": "东洋将在休斯顿电池板厂附近建设1.5GW太阳能电池厂",
+    "url": "https://www.solarpowerworldonline.com/2026/06/toyo-to-site-1-5-gw-solar-cell-plant-near-houston-panel-factory/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:56:50+00:00"
+  },
+  "3b06bfc5dd7f": {
+    "id": "3b06bfc5dd7f",
+    "title_en": "From Powering Machines to Powering Intelligence—The New Age of Electricity",
+    "title_zh": "从为机器供电到为智能供电——电力的新时代",
+    "url": "https://www.powermag.com/from-powering-machines-to-powering-intelligence-the-new-age-of-electricity/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-08T12:54:23+00:00"
+  },
+  "39922e4d69ca": {
+    "id": "39922e4d69ca",
+    "title_en": "Grid collapse in Indonesia poses threat to renewables expansion",
+    "title_zh": "印尼电网崩溃对可再生能源扩张构成威胁",
+    "url": "https://www.pv-magazine.com/2026/06/08/grid-collapse-in-indonesia-poses-threat-to-renewables-expansion/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:50:44+00:00"
+  },
+  "646ba51837ef": {
+    "id": "646ba51837ef",
+    "title_en": "Center for Rural Affairs publishes tax policy guide for agrivoltaics",
+    "title_zh": "农村事务中心发布农业光伏税收政策指南",
+    "url": "https://www.solarpowerworldonline.com/2026/06/center-for-rural-affairs-publishes-tax-policy-guide-for-agrivoltaics/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:40:39+00:00"
+  },
+  "48ad2c96cdf1": {
+    "id": "48ad2c96cdf1",
+    "title_en": "Brent Climbs to $94 as Houthis Target Israeli Vessels in Red Sea",
+    "title_zh": "布伦特原油价格升至94美元，胡塞武装在红海袭击以色列船只",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Climbs-to-94-as-Houthis-Target-Israeli-Vessels-in-Red-Sea.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T12:30:00+00:00"
+  },
+  "e2bc05712219": {
+    "id": "e2bc05712219",
+    "title_en": "All solar cell efficiencies at a glance – updated",
+    "title_zh": "所有太阳能电池效率概览-更新",
+    "url": "https://www.pv-magazine.com/2026/06/08/all-solar-cell-efficiencies-at-a-glance-updated-7/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:17:57+00:00"
+  },
+  "e53913120fa1": {
+    "id": "e53913120fa1",
+    "title_en": "China’s EV shift cut pollution enough to prevent 262,000 deaths",
+    "title_zh": "中国的电动汽车转型减少了污染，足以防止26.2万人死亡",
+    "url": "https://electrek.co/2026/06/08/china-ev-air-pollution-262000-deaths-study/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-08T12:17:38+00:00"
+  },
+  "396820422713": {
+    "id": "396820422713",
+    "title_en": "Using a bird’s structural-color trick to color solar modules",
+    "title_zh": "用鸟的结构色彩技巧给太阳能电池组件上色",
+    "url": "https://www.pv-magazine.com/2026/06/08/using-a-birds-structural-color-trick-to-color-solar-modules/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:07:54+00:00"
+  },
+  "b09cb9706744": {
+    "id": "b09cb9706744",
+    "title_en": "What homeowners should do after Freedom Forever filed for bankruptcy",
+    "title_zh": "Freedom Forever申请破产后，房主应该做什么",
+    "url": "https://www.solarpowerworldonline.com/2026/06/what-homeowners-should-do-after-freedom-forever-filed-for-bankruptcy/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T12:00:55+00:00"
+  },
+  "4384e432b3bb": {
+    "id": "4384e432b3bb",
+    "title_en": "Astronergy launches 825 W TOPCon solar module",
+    "title_zh": "正泰能源推出825 W TOPCon太阳能模块",
+    "url": "https://www.pv-magazine.com/2026/06/08/astronergy-launches-825-w-topcon-solar-module/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T11:59:57+00:00"
+  },
+  "132d60ddab55": {
+    "id": "132d60ddab55",
+    "title_en": "Suniva to merge with popular NY solar installer SUNation",
+    "title_zh": "Suniva将与纽约知名太阳能安装商SUNation合并",
+    "url": "https://www.solarpowerworldonline.com/2026/06/suniva-to-merge-with-popular-ny-solar-installer-sunation/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T11:58:04+00:00"
+  },
+  "0c46439bd8c2": {
+    "id": "0c46439bd8c2",
+    "title_en": "Africa’s solar power pools show rising synchronization risk under climate change",
+    "title_zh": "非洲的太阳能池在气候变化下显示出同步风险上升",
+    "url": "https://www.pv-magazine.com/2026/06/08/africas-solar-power-pools-show-rising-synchronization-risk-under-climate-change/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T11:53:10+00:00"
+  },
+  "320612459cb3": {
+    "id": "320612459cb3",
+    "title_en": "esVolta closes US$450 million expanded credit facility to expand US BESS portfolio",
+    "title_zh": "esVolta完成4.5亿美元的扩大信贷额度，以扩大美国BESS投资组合",
+    "url": "https://www.energy-storage.news/esvolta-closes-us450-million-expanded-credit-facility-to-expand-us-bess-portfolio/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-08T11:34:49+00:00"
+  },
+  "0263af2d6db9": {
+    "id": "0263af2d6db9",
+    "title_en": "China Delays 500,000 Bpd Of Refining Capacity As Hormuz Disruptions Deepen",
+    "title_zh": "随着霍尔木兹事件的加剧，中国推迟了50万桶/日的炼油产能",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Delays-500000-Bpd-Of-Refining-Capacity-As-Hormuz-Disruptions-Deepen.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T11:30:00+00:00"
+  },
+  "0850cf4d2e9f": {
+    "id": "0850cf4d2e9f",
+    "title_en": "The real reason why e-bike throttles have gotten worse",
+    "title_zh": "电动自行车油门变差的真正原因",
+    "url": "https://electrek.co/2026/06/08/the-real-reason-why-e-bike-throttles-have-gotten-worse/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-08T11:29:00+00:00"
+  },
+  "d44621e90fef": {
+    "id": "d44621e90fef",
+    "title_en": "Kia Niro EV is the most affordable new EV you can lease in June 2026",
+    "title_zh": "Kia Niro EV是您在2026年6月可以租赁的最实惠的新电动汽车",
+    "url": "https://electrek.co/2026/06/08/kia-niro-ev-is-the-most-affordable-new-ev-you-can-lease-in-june-2026/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-08T11:15:00+00:00"
+  },
+  "d754067f16da": {
+    "id": "d754067f16da",
+    "title_en": "MSolar to build US$23.7 million solar glass, cell and module factory in Virginia",
+    "title_zh": "MSolar将在弗吉尼亚州投资2370万美元建造太阳能玻璃、电池和模块工厂",
+    "url": "https://www.pv-tech.org/msolar-build-us23-7-million-solar-glass-cell-module-factory-virginia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-08T11:04:18+00:00"
+  },
   "dd23af8e5b71": {
     "id": "dd23af8e5b71",
     "title_en": "Arctech Solar inks 3GW of tracker deals, pushes robotic solutions at SNEC",
@@ -178,6 +520,15 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-06-08T07:30:00+00:00"
+  },
+  "b7dae15de93e": {
+    "id": "b7dae15de93e",
+    "title_en": "Ark Energy’s Richmond Valley project approved for grid connection",
+    "title_zh": "Ark Energy的Richmond Valley项目获批并网",
+    "url": "https://www.energymonitor.ai/news/richmond-valley-approval-grid-connection/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-08T07:29:19+00:00"
   },
   "335fb3976e40": {
     "id": "335fb3976e40",
@@ -4147,356 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-02T08:00:00+00:00"
-  },
-  "a0992a7e1ba0": {
-    "id": "a0992a7e1ba0",
-    "title_en": "Strike Action at Major Australian LNG Facility Raises Supply Concerns",
-    "title_zh": "澳大利亚主要液化天然气设施罢工引发供应担忧",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Strike-Action-at-Major-Australian-LNG-Facility-Raises-Supply-Concerns.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-02T07:30:00+00:00"
-  },
-  "25772d894b15": {
-    "id": "25772d894b15",
-    "title_en": "A safer nuclear fuel is gaining steam — but cost remains a hurdle",
-    "title_zh": "一种更安全的核燃料正在获得动力，但成本仍然是一个障碍",
-    "url": "https://www.canarymedia.com/articles/nuclear/safer-nuclear-fuel-gaining-steam",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-02T07:30:00+00:00"
-  },
-  "ea96f9b32646": {
-    "id": "ea96f9b32646",
-    "title_en": "OX2 starts work on solar and battery projects in Poland",
-    "title_zh": "OX2开始在波兰开展太阳能和电池项目",
-    "url": "https://www.energymonitor.ai/news/ox2-starts-work-solar-poland/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-02T07:26:55+00:00"
-  },
-  "3ef541bbae1d": {
-    "id": "3ef541bbae1d",
-    "title_en": "Marstek debuts new plug-in battery series",
-    "title_zh": "Marstek推出新的插电式电池系列",
-    "url": "https://www.pv-magazine.com/2026/06/02/marstek-debuts-new-plug-in-battery-series/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T07:10:00+00:00"
-  },
-  "2b4c9c16fa30": {
-    "id": "2b4c9c16fa30",
-    "title_en": "JDR Opens Subsea Cable Manufacturing Facility in Blyth",
-    "title_zh": "JDR在Blyth开设海底电缆制造工厂",
-    "url": "https://www.offshorewind.biz/2026/06/02/jdr-opens-subsea-cable-manufacturing-facility-in-blyth/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-02T07:05:00+00:00"
-  },
-  "f3d5c83b7751": {
-    "id": "f3d5c83b7751",
-    "title_en": "The case for vehicle-integrated phovoltaics in disaster zones",
-    "title_zh": "灾区车辆集成光伏案例",
-    "url": "https://www.pv-magazine.com/2026/06/02/the-case-for-vehicle-integrated-phovoltaics-in-disaster-zones/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T07:00:00+00:00"
-  },
-  "f53e41fea464": {
-    "id": "f53e41fea464",
-    "title_en": "New podcast: RWE onshore chief - 'Grid-blocking is like putting a towel on a deck chair'",
-    "title_zh": "新播客：RWE陆上负责人-“电网封锁就像把毛巾放在躺椅上”",
-    "url": "https://www.windpowermonthly.com/article/1960061/new-podcast-rwe-onshore-chief-grid-blocking-putting-towel-deck-chair",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-02T07:00:00+00:00"
-  },
-  "51f01b68b723": {
-    "id": "51f01b68b723",
-    "title_en": "Fluence to integrate Smartstack into Siemens’ Nvidia AI data centre reference architecture",
-    "title_zh": "Fluence将Smartstack集成到西门子Nvidia AI数据中心参考架构中",
-    "url": "https://www.energy-storage.news/fluence-to-integrate-smartstack-into-siemens-nvidia-ai-data-centre-reference-architecture/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-02T06:34:45+00:00"
-  },
-  "f96cb5a8cc4f": {
-    "id": "f96cb5a8cc4f",
-    "title_en": "ROUNDUP: Japan’s BESS market sees domestic and overseas players pursue larger-scale projects",
-    "title_zh": "ROUNDUP：日本BESS市场看到国内外参与者追求更大规模的项目",
-    "url": "https://www.energy-storage.news/roundup-japans-bess-market-sees-domestic-and-overseas-players-pursue-larger-scale-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-02T06:32:22+00:00"
-  },
-  "3307f3f01828": {
-    "id": "3307f3f01828",
-    "title_en": "These polite Canadian lawbreakers may soon be going legal under new e-bike law",
-    "title_zh": "根据新的电动自行车法，这些彬彬有礼的加拿大违法者可能很快就会合法化",
-    "url": "https://electrek.co/2026/06/01/these-polite-canadian-lawbreakers-may-soon-be-going-legal-under-new-e-bike-law/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-02T06:31:34+00:00"
-  },
-  "ca5f743f5854": {
-    "id": "ca5f743f5854",
-    "title_en": "Sungrow launches solar module integrating AI, power electronics",
-    "title_zh": "阳光电源推出集成人工智能、电力电子的太阳能模块",
-    "url": "https://www.pv-magazine.com/2026/06/02/sungrow-launches-solar-module-integrating-ai-power-electronics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T06:30:00+00:00"
-  },
-  "1b1d2f324547": {
-    "id": "1b1d2f324547",
-    "title_en": "Stabilizing perovskite solar cells with chlorine",
-    "title_zh": "用氯稳定钙钛矿太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/06/02/stabilizing-perovskite-solar-cells-with-chlorine/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T06:00:00+00:00"
-  },
-  "6010735e3ccd": {
-    "id": "6010735e3ccd",
-    "title_en": "Goldman Sachs Sees Strong Refining Profits Through 2026 Amid Fuel Supply Crunch",
-    "title_zh": "在燃料供应紧张的情况下，高盛预计到2026年炼油利润将保持强劲",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-Strong-Refining-Profits-Through-2026-Amid-Fuel-Supply-Crunch.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-02T05:41:47+00:00"
-  },
-  "ce55ff03942f": {
-    "id": "ce55ff03942f",
-    "title_en": "Betting on batteries: addressing intermittent inefficiencies at scale",
-    "title_zh": "押注电池：大规模解决间歇性低效问题",
-    "url": "https://www.pv-magazine.com/2026/06/02/betting-on-batteries-addressing-intermittent-inefficiencies-at-scale/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T05:00:00+00:00"
-  },
-  "0948b9168205": {
-    "id": "0948b9168205",
-    "title_en": "SEG Solar announces third U.S. manufacturing site",
-    "title_zh": "SEG Solar宣布在美国设立第三个制造基地",
-    "url": "https://www.pv-magazine.com/2026/06/02/seg-solar-announces-third-u-s-manufacturing-site/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T04:30:00+00:00"
-  },
-  "ce201ef67579": {
-    "id": "ce201ef67579",
-    "title_en": "Design and Construction Planning of Solar Power Projects Under Extreme Weather Conditions",
-    "title_zh": "极端天气条件下太阳能发电项目的设计与施工规划",
-    "url": "https://www.powermag.com/design-and-construction-planning-of-solar-power-projects-under-extreme-weather-conditions/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-02T04:20:06+00:00"
-  },
-  "3d25c34d93f0": {
-    "id": "3d25c34d93f0",
-    "title_en": "Electricity Prices Fall Across Australia As Renewables Build Momentum",
-    "title_zh": "随着可再生能源的发展势头，澳大利亚各地的电价下跌",
-    "url": "https://cleantechnica.com/2026/06/01/electricity-prices-fall-across-australia-as-renewables-build-momentum/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-02T03:58:03+00:00"
-  },
-  "d57d46e2f538": {
-    "id": "d57d46e2f538",
-    "title_en": "XPENG Sales Up 4% Month Over Month, Down 4% Year Over Year",
-    "title_zh": "XPENG销售额环比增长4%，同比下降4%",
-    "url": "https://cleantechnica.com/2026/06/01/xpeng-sales-up-4-month-over-month-down-4-year-over-year/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-02T03:57:18+00:00"
-  },
-  "9e01d70a4d14": {
-    "id": "9e01d70a4d14",
-    "title_en": "Australia’s New South Wales commits AU$225 million to low-carbon and renewables manufacturing",
-    "title_zh": "澳大利亚新南威尔士州承诺向低碳和可再生能源制造业提供2.25亿澳元",
-    "url": "https://www.pv-tech.org/australias-new-south-wales-commits-au225-million-to-low-carbon-and-renewables-manufacturing/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T02:56:27+00:00"
-  },
-  "4d4175ac41e3": {
-    "id": "4d4175ac41e3",
-    "title_en": "Strategic procurement in a dynamic BESS market: The power of early engagement and strong partnerships",
-    "title_zh": "动态BESS市场中的战略采购：早期参与和强大伙伴关系的力量",
-    "url": "https://www.energy-storage.news/strategic-procurement-in-a-dynamic-bess-market-the-power-of-early-engagement-and-strong-partnerships/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-02T02:52:59+00:00"
-  },
-  "7e63e8f6362b": {
-    "id": "7e63e8f6362b",
-    "title_en": "Australia: Queensland BESS fleet pushes state to 79.5% renewables-plus-storage share",
-    "title_zh": "澳大利亚：昆士兰BESS船队推动该州可再生能源和储能份额达到79.5%",
-    "url": "https://www.energy-storage.news/australia-queensland-bess-fleet-pushes-state-to-79-5-renewables-plus-storage-share/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-02T02:47:33+00:00"
-  },
-  "7041e200da46": {
-    "id": "7041e200da46",
-    "title_en": "NIO Sales Soar 62% in May",
-    "title_zh": "5月份NIO销量飙升62%",
-    "url": "https://cleantechnica.com/2026/06/01/nio-sales-soar-62-in-may/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-02T01:20:03+00:00"
-  },
-  "7d373ee25312": {
-    "id": "7d373ee25312",
-    "title_en": "New Guidance from DOE Weakens Popular Home Energy Rebate Programs",
-    "title_zh": "美国能源部的新指导削弱了受欢迎的家庭能源退税计划",
-    "url": "https://cleantechnica.com/2026/06/01/new-guidance-from-doe-weakens-popular-home-energy-rebate-programs/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-02T00:04:26+00:00"
-  },
-  "05e979b1dcae": {
-    "id": "05e979b1dcae",
-    "title_en": "Persian Gulf Oil Tanker Traffic May Never Fully Recover",
-    "title_zh": "波斯湾油轮运输可能永远无法完全恢复",
-    "url": "https://oilprice.com/Energy/Energy-General/Persian-Gulf-Oil-Tanker-Traffic-May-Never-Fully-Recover.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-02T00:00:00+00:00"
-  },
-  "4be237514fd9": {
-    "id": "4be237514fd9",
-    "title_en": "Sierra Club West Virginia Files Testimony in Mon Power’s $2.48 Billion Gas Plant CPCN",
-    "title_zh": "西弗吉尼亚州塞拉俱乐部在Mon Power价值24.8亿美元的天然气厂CPCN作证",
-    "url": "https://cleantechnica.com/2026/06/01/sierra-club-west-virginia-files-testimony-in-mon-powers-2-48-billion-gas-plant-cpcn/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-01T23:57:54+00:00"
-  },
-  "13cc1d480ead": {
-    "id": "13cc1d480ead",
-    "title_en": "Battery Storage Boom Brings Free Electricity To Australia",
-    "title_zh": "电池储能热潮为澳大利亚带来免费电力",
-    "url": "https://cleantechnica.com/2026/06/01/battery-storage-boom-brings-free-electricity-to-australia/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-01T23:35:30+00:00"
-  },
-  "250eda54198d": {
-    "id": "250eda54198d",
-    "title_en": "Volvo CE, Hitachi Energy set to partner on zero emission job sites",
-    "title_zh": "沃尔沃建筑设备公司和日立能源公司将在零排放工作现场开展合作",
-    "url": "https://electrek.co/2026/06/01/volvo-ce-hitachi-energy-set-to-partner-on-zero-emission-job-sites/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-01T22:41:05+00:00"
-  },
-  "cdee956e7948": {
-    "id": "cdee956e7948",
-    "title_en": "Indiana coal plant that Trump forced to stay open is not operating",
-    "title_zh": "特朗普被迫保持开放的印第安纳州燃煤电厂没有运行",
-    "url": "https://www.canarymedia.com/articles/fossil-fuels/indiana-coal-plant-trump-stay-open",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-01T22:30:00+00:00"
-  },
-  "42b657a8a6e6": {
-    "id": "42b657a8a6e6",
-    "title_en": "Texas adds another huge solar farm as ERCOT grid demand soars",
-    "title_zh": "随着ERCOT电网需求激增，德克萨斯州又增加了一个大型太阳能发电厂",
-    "url": "https://electrek.co/2026/06/01/texas-adds-another-huge-solar-farm-ercot-grid-demand-soars/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-01T22:22:21+00:00"
-  },
-  "b17b82abff34": {
-    "id": "b17b82abff34",
-    "title_en": "Guyana Emerges as an Oil Winner in the Iran War",
-    "title_zh": "圭亚那成为伊朗战争中的石油赢家",
-    "url": "https://oilprice.com/Energy/Energy-General/Guyana-Emerges-as-an-Oil-Winner-in-the-Iran-War.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T22:00:00+00:00"
-  },
-  "fd4940db38ed": {
-    "id": "fd4940db38ed",
-    "title_en": "Toyota pulls the plug on one of its most important EVs",
-    "title_zh": "丰田取消了其最重要的电动汽车之一",
-    "url": "https://electrek.co/2026/06/01/toyota-pulls-plug-most-important-evs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-01T21:50:19+00:00"
-  },
-  "8fa92d957829": {
-    "id": "8fa92d957829",
-    "title_en": "BYD Takes On Crash Liability When Its Driver-Assist System Is Active!",
-    "title_zh": "比亚迪在驾驶辅助系统启动时承担碰撞责任！",
-    "url": "https://cleantechnica.com/2026/06/01/byd-takes-on-crash-liability-when-its-driver-assist-system-is-active/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-01T21:39:20+00:00"
-  },
-  "a00cd9e6e7d5": {
-    "id": "a00cd9e6e7d5",
-    "title_en": "BYD plans to bring all-solid-state batteries to EVs by 2027, but it’s not alone",
-    "title_zh": "比亚迪计划到2027年将全固态电池应用于电动汽车，但并非只有比亚迪一家",
-    "url": "https://electrek.co/2026/06/01/byd-all-solid-state-batteries-evs-by-2027/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-01T21:05:40+00:00"
-  },
-  "4e231738ae7b": {
-    "id": "4e231738ae7b",
-    "title_en": "There's Enough Hydrogen Underground to Power Earth for 170,000 Years",
-    "title_zh": "地下有足够的氢气为地球供电17万年",
-    "url": "https://oilprice.com/Energy/Energy-General/Theres-Enough-Hydrogen-Underground-to-Power-Earth-for-170000-Years.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T21:00:00+00:00"
-  },
-  "11b5b48ecbd1": {
-    "id": "11b5b48ecbd1",
-    "title_en": "The Next Stranded Asset Crisis Could Hit Utilities",
-    "title_zh": "下一次搁浅资产危机可能会打击公用事业",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Next-Stranded-Asset-Crisis-Could-Hit-Utilities.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T20:00:00+00:00"
-  },
-  "0462c9567614": {
-    "id": "0462c9567614",
-    "title_en": "BESS Needs to Be the Most Reliable Cornerstone of the Modern Grid—Analytics Can Help",
-    "title_zh": "BESS需要成为现代电网最可靠的基石——分析可以帮助",
-    "url": "https://www.powermag.com/bess-needs-to-be-the-most-reliable-cornerstone-of-the-modern-grid-analytics-can-help/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-01T19:33:55+00:00"
-  },
-  "2718dc026bc2": {
-    "id": "2718dc026bc2",
-    "title_en": "Turkey Looks to Create Azerbaijan-Europe Electricity Corridor",
-    "title_zh": "土耳其希望建立阿塞拜疆-欧洲电力走廊",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkey-Looks-to-Create-Azerbaijan-Europe-Electricity-Corridor.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-01T19:30:00+00:00"
-  },
-  "0264cbe2e1f7": {
-    "id": "0264cbe2e1f7",
-    "title_en": "I Totaled My Beloved Tesla Model 3: The Aftermath",
-    "title_zh": "我收集了我心爱的特斯拉Model 3：后果",
-    "url": "https://cleantechnica.com/2026/06/01/i-totaled-my-beloved-tesla-model-3-the-aftermath/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-01T19:29:44+00:00"
-  },
-  "9a826041eabe": {
-    "id": "9a826041eabe",
-    "title_en": "Registration now open for Mayfield Renewables’ third Education Summit",
-    "title_zh": "Mayfield Renewables第三届教育峰会现已开放报名",
-    "url": "https://www.solarpowerworldonline.com/2026/06/registration-now-open-for-mayfield-renewables-third-education-summit/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T19:19:02+00:00"
   }
 }
