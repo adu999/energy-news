@@ -1,4 +1,31 @@
 {
+  "2cc65b571c55": {
+    "id": "2cc65b571c55",
+    "title_en": "Update On Iran War’s Impact On Global Auto Sales",
+    "title_zh": "伊朗战争对全球汽车销售影响的最新进展",
+    "url": "https://cleantechnica.com/2026/06/07/update-on-iran-wars-impact-on-global-auto-sales/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-08T02:24:13+00:00"
+  },
+  "4f1d40e802d2": {
+    "id": "4f1d40e802d2",
+    "title_en": "Oil Prices Spike After Iran and Israel Exchange Missile Attacks",
+    "title_zh": "伊朗和以色列交换导弹袭击后油价飙升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-After-Iran-Launches-Missile-Attack-on-Israel.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T01:09:00+00:00"
+  },
+  "abc97f5bb781": {
+    "id": "abc97f5bb781",
+    "title_en": "Happy World Ocean Day!",
+    "title_zh": "世界海洋日快乐！",
+    "url": "https://cleantechnica.com/2026/06/07/happy-world-ocean-day/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-08T00:06:57+00:00"
+  },
   "edfe03f9c35b": {
     "id": "edfe03f9c35b",
     "title_en": "Mexico Reaches 5 Gigawatts of Distributed Solar Power",
@@ -4471,32 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-01T14:31:25+00:00"
-  },
-  "e90f23144117": {
-    "id": "e90f23144117",
-    "title_en": "ARRAY increases angling on terrain-following solar tracker",
-    "title_zh": "ARRAY增加了太阳能跟踪器在地形上的倾斜",
-    "url": "https://www.solarpowerworldonline.com/2026/06/array-increases-angling-on-terrain-following-solar-tracker/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T14:25:34+00:00"
-  },
-  "894b212dfb4c": {
-    "id": "894b212dfb4c",
-    "title_en": "How flexibility and hybrid projects can drive European renewable energy dealmaking",
-    "title_zh": "灵活性和混合项目如何推动欧洲可再生能源交易",
-    "url": "https://www.pv-tech.org/how-flexibility-and-hybrid-projects-can-drive-european-renewable-energy-dealmaking/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-01T14:25:15+00:00"
-  },
-  "990a0fb1ff29": {
-    "id": "990a0fb1ff29",
-    "title_en": "Load growth can help modernize grid, but cost-shift risks are significant: Concentric",
-    "title_zh": "负荷增长可以帮助电网现代化，但成本转移风险很大：同心",
-    "url": "https://www.utilitydive.com/news/large-load-growth-can-help-modernize-grid-concentric/821596/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-01T14:22:13+00:00"
   }
 }
