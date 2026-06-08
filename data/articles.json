@@ -1,4 +1,40 @@
 {
+  "164113923d01": {
+    "id": "164113923d01",
+    "title_en": "Solar Energy Saves Europeans $135 Million A Day",
+    "title_zh": "太阳能每天为欧洲人节省1.35亿美元",
+    "url": "https://cleantechnica.com/2026/06/08/solar-energy-saves-europeans-135-million-a-day/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-08T22:07:05+00:00"
+  },
+  "2290561d7f5d": {
+    "id": "2290561d7f5d",
+    "title_en": "Global Economy Is One Oil Price Spike Away From Trouble",
+    "title_zh": "全球经济离油价暴跌只有一步之遥",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-Economy-Is-One-Oil-Price-Spike-Away-From-Trouble.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T22:00:00+00:00"
+  },
+  "60f88bada298": {
+    "id": "60f88bada298",
+    "title_en": "BYD’s 1,000+ hp drop-top luxury EV spotted undisguised [Images]",
+    "title_zh": "比亚迪1000马力以上的敞篷豪华电动汽车被赤裸裸地发现[图片]",
+    "url": "https://electrek.co/2026/06/08/byds-1000-hp-drop-top-luxury-ev-spotted-undisguised-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-08T21:27:53+00:00"
+  },
+  "ec9784f0b2d6": {
+    "id": "ec9784f0b2d6",
+    "title_en": "Big Tech's Hottest New Energy Fix Doesn't Generate Any Power",
+    "title_zh": "大型科技公司最热门的新能源修复方案不会产生任何电力",
+    "url": "https://oilprice.com/Energy/Energy-General/Big-Techs-Hottest-New-Energy-Fix-Doesnt-Generate-Any-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-08T21:00:00+00:00"
+  },
   "8d8b1ec367e4": {
     "id": "8d8b1ec367e4",
     "title_en": "Wildfire Risk Is Rising. Electric Cooperatives Are Acting—Congress Must Too",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-02T13:30:00+00:00"
-  },
-  "11dd75f405fd": {
-    "id": "11dd75f405fd",
-    "title_en": "Eversource project ‘epitomizes’ flawed transmission reviews: New England states",
-    "title_zh": "Eversource项目“集中体现”了有缺陷的传播审查：新英格兰各州",
-    "url": "https://www.utilitydive.com/news/eversource-transmission-asset-condition-ferc-complaint/821699/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-02T13:27:41+00:00"
-  },
-  "5718b83363af": {
-    "id": "5718b83363af",
-    "title_en": "More police turn to simple drones in clever effort to catch illegal e-bike riders",
-    "title_zh": "越来越多的警察转向简单的无人机，巧妙地抓捕非法电动自行车骑手",
-    "url": "https://electrek.co/2026/06/02/more-police-turn-to-simple-drones-in-clever-effort-to-catch-illegal-e-bike-riders/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-02T13:05:24+00:00"
-  },
-  "596c85d83e85": {
-    "id": "596c85d83e85",
-    "title_en": "Ampacity amplifies solar tracker installation training services",
-    "title_zh": "Ampacity放大太阳能跟踪器安装培训服务",
-    "url": "https://www.solarpowerworldonline.com/2026/06/ampacity-amplifies-solar-tracker-installation-training-services/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-02T13:03:37+00:00"
-  },
-  "7599f675db96": {
-    "id": "7599f675db96",
-    "title_en": "China Solar Makers Launch Space Energy Development Alliance",
-    "title_zh": "中国太阳能制造商启动太空能源发展联盟",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Solar-Makers-Launch-Space-Energy-Development-Alliance.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-02T12:30:00+00:00"
   }
 }
