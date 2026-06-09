@@ -1,4 +1,103 @@
 {
+  "db5187984342": {
+    "id": "db5187984342",
+    "title_en": "Self-Driving Cabs Are Coming to London",
+    "title_zh": "自动驾驶出租车即将抵达伦敦",
+    "url": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cabs-Are-Coming-to-London.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T17:00:00+00:00"
+  },
+  "5f49e9879252": {
+    "id": "5f49e9879252",
+    "title_en": "Hyundai cuts IONIQ 5 prices as the new 2027 model launches in Korea",
+    "title_zh": "现代降低IONIQ 5的价格，因为新的2027车型在韩国推出",
+    "url": "https://electrek.co/2026/06/09/hyundai-cuts-ioniq-5-prices-2027-model-launches-korea/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-09T16:27:05+00:00"
+  },
+  "8b5af3269119": {
+    "id": "8b5af3269119",
+    "title_en": "Tesla ‘FSD’ approved in Denmark, 4th European country in 2 months",
+    "title_zh": "特斯拉“FSD”在丹麦获得批准，这是两个月内第四个欧洲国家",
+    "url": "https://electrek.co/2026/06/09/tesla-fsd-approved-denmark-fourth-european-country/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-09T16:07:22+00:00"
+  },
+  "23275315260e": {
+    "id": "23275315260e",
+    "title_en": "Why Argentina’s Shale Boom Matters for Global Energy Markets",
+    "title_zh": "为什么阿根廷的页岩热潮对全球能源市场很重要",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Argentinas-Shale-Boom-Matters-for-Global-Energy-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T16:00:00+00:00"
+  },
+  "5a6051ed3b0a": {
+    "id": "5a6051ed3b0a",
+    "title_en": "DOE reinstates $57M American Battery grant",
+    "title_zh": "美国能源部恢复5700万美元的美国电池拨款",
+    "url": "https://www.utilitydive.com/news/american-battery-announces-reinstated-57m-grant-from-doe/822379/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-09T15:46:00+00:00"
+  },
+  "8bd078c499d5": {
+    "id": "8bd078c499d5",
+    "title_en": "Ceasefire Caps Oil Rally as China Demand Weakens",
+    "title_zh": "随着中国需求减弱，停火协议限制了油价上涨",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Ceasefire-Caps-Oil-Rally-as-China-Demand-Weakens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T15:45:00+00:00"
+  },
+  "c2665843221d": {
+    "id": "c2665843221d",
+    "title_en": "Batteries Don’t Need To Electrify Every Ship To Reshape Shipping Fuels",
+    "title_zh": "电池不需要为每艘船充电来重塑运输燃料",
+    "url": "https://cleantechnica.com/2026/06/09/maritime-battery-electrification-fuel-demand/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-09T15:41:46+00:00"
+  },
+  "dcc46657933a": {
+    "id": "dcc46657933a",
+    "title_en": "Revolve acquires 125MW US solar development portfolio",
+    "title_zh": "Revolve收购美国125MW太阳能开发组合",
+    "url": "https://www.pv-tech.org/revolve-acquires-125mw-us-solar-development-portfolio/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-09T15:39:13+00:00"
+  },
+  "16a3c81a6782": {
+    "id": "16a3c81a6782",
+    "title_en": "Supreme Court sends furnace case back to appeals court",
+    "title_zh": "最高法院将熔炉案发回上诉法院",
+    "url": "https://www.utilitydive.com/news/supreme-court-sends-furnace-case-back-to-appeals-court/822385/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-09T15:35:19+00:00"
+  },
+  "7c7aa6b950fd": {
+    "id": "7c7aa6b950fd",
+    "title_en": "Kuwait Offers First Crude Cargoes to Asia since Iran War Started",
+    "title_zh": "自伊朗战争爆发以来，科威特首次向亚洲提供原油货物",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Offers-First-Crude-Cargoes-to-Asia-since-Iran-War-Started.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T15:30:00+00:00"
+  },
+  "a9c28cbf1979": {
+    "id": "a9c28cbf1979",
+    "title_en": "Not-for-profit utilities turn to energy storage as data centers drive cost, reliability concerns",
+    "title_zh": "随着数据中心推动成本和可靠性问题，非营利公用事业公司转向能源存储",
+    "url": "https://www.utilitydive.com/news/not-for-profit-utilities-turn-to-energy-storage-as-data-centers-drive-cost/822370/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-09T14:57:17+00:00"
+  },
   "fb187e5ae302": {
     "id": "fb187e5ae302",
     "title_en": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave | Warming forecast | AMOC observations ‘at risk’",
@@ -52,6 +151,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-09T14:06:52+00:00"
+  },
+  "851242cf286f": {
+    "id": "851242cf286f",
+    "title_en": "How load flexibility buys time for America’s data center boom",
+    "title_zh": "负载灵活性如何为美国的数据中心繁荣争取时间",
+    "url": "https://www.utilitydive.com/news/how-load-flexibility-buys-time-data-center-boom-icf/822355/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-09T14:04:57+00:00"
   },
   "9f8fb02e5414": {
     "id": "9f8fb02e5414",
@@ -168,6 +276,15 @@
     "url": "https://electrek.co/2026/06/09/gazelle-launches-new-28-mph-e-bikes-bringing-dutch-comfort-to-fast-american-riders/",
     "source": "Electrek",
     "category": "EV",
+    "pub_ts": "2026-06-09T13:00:00+00:00"
+  },
+  "dfb2816adc12": {
+    "id": "dfb2816adc12",
+    "title_en": "Judge restores 5% safe harbor rule for wind, solar",
+    "title_zh": "法官恢复风能、太阳能5%安全港规则",
+    "url": "https://www.utilitydive.com/news/judge-restores-5-safe-harbor-rule-for-wind-and-solar/822313/",
+    "source": "Utility Dive",
+    "category": "电网",
     "pub_ts": "2026-06-09T13:00:00+00:00"
   },
   "5dfac83228e5": {
@@ -4381,122 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-03T11:00:11+00:00"
-  },
-  "70330367a77b": {
-    "id": "70330367a77b",
-    "title_en": "Array Technologies updates OmniTrack trackers to tilt by up to two degrees",
-    "title_zh": "Array Technologies更新OmniTrack跟踪器，使其倾斜高达2度",
-    "url": "https://www.pv-tech.org/array-technologies-updates-omnitrack-trackers-tily-up-to-two-degrees/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T10:54:13+00:00"
-  },
-  "844605c292d2": {
-    "id": "844605c292d2",
-    "title_en": "JinkoSolar launches 700W TOPCon module and new utility-scale storage system",
-    "title_zh": "晶科太阳能推出700W TOPCon模块和新的公用事业规模储能系统",
-    "url": "https://www.pv-tech.org/jinkosolar-launches-700w-topcon-module-and-new-utility-scale-storage-system/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T10:33:03+00:00"
-  },
-  "961fd0d49c1f": {
-    "id": "961fd0d49c1f",
-    "title_en": "NTPC Green Energy floats 3.3GWh BESS EPC tender for Khavda Solar Park in Gujarat, India",
-    "title_zh": "NTPC Green Energy为印度古吉拉特邦的Khavda太阳能公园进行3.3GWh BESS EPC招标",
-    "url": "https://www.energy-storage.news/ntpc-green-energy-3-3gwh-bess-epc-tender-khavda-solar-gujarat-india/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-03T10:30:30+00:00"
-  },
-  "eaa156e2d93f": {
-    "id": "eaa156e2d93f",
-    "title_en": "Mexico surpasses 5 GW of distributed solar capacity",
-    "title_zh": "墨西哥分布式太阳能装机容量超过5GW",
-    "url": "https://www.pv-magazine.com/2026/06/03/mexico-supera-en-2025-los-5-gw-solares-en-generacion-distribuida/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T10:30:00+00:00"
-  },
-  "bd650034daa0": {
-    "id": "bd650034daa0",
-    "title_en": "Why BESS performance guarantees are more complex than they seem",
-    "title_zh": "为什么BESS性能保证比看起来更复杂",
-    "url": "https://www.energy-storage.news/why-bess-performance-guarantees-are-more-complex-than-they-seem/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-03T10:22:16+00:00"
-  },
-  "8b5994036d2f": {
-    "id": "8b5994036d2f",
-    "title_en": "Cambodia’s utility-scale solar surpasses planned targets for 2030 and 2035",
-    "title_zh": "柬埔寨公用事业规模的太阳能超过了2030年和2035年的计划目标",
-    "url": "https://www.pv-magazine.com/2026/06/03/cambodias-utility-scale-solar-surpasses-planned-targets-for-2030-and-2035/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T10:01:00+00:00"
-  },
-  "12f8b1efa970": {
-    "id": "12f8b1efa970",
-    "title_en": "Iranian Strike On Kuwait Airport Raises Stakes For Gulf States",
-    "title_zh": "伊朗对科威特机场的袭击增加了海湾国家的赌注",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Strike-On-Kuwait-Airport-Raises-Stakes-For-Gulf-States.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-03T10:00:00+00:00"
-  },
-  "5ecb2e562fe9": {
-    "id": "5ecb2e562fe9",
-    "title_en": "Eco Stor and Next Kraftwerke agree toll for 700MWh Germany BESS",
-    "title_zh": "Eco-Stor和Next Kraftwerke同意700MWh德国BESS的收费",
-    "url": "https://www.energy-storage.news/eco-stor-and-next-kraftwerke-agree-toll-for-700mwh-germany-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-03T09:55:51+00:00"
-  },
-  "3ac2c1f90f70": {
-    "id": "3ac2c1f90f70",
-    "title_en": "Grid expansion, batteries to ease curtailment in Brazil",
-    "title_zh": "电网扩张，电池缓解巴西的限电",
-    "url": "https://www.pv-magazine.com/2026/06/03/melhorias-na-rede-eletrica-e-entrada-de-baterias-no-medio-prazo-aliviarao-curtailment-projeta-aurora/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T09:30:00+00:00"
-  },
-  "c669a0fbad45": {
-    "id": "c669a0fbad45",
-    "title_en": "Supply Shock to Slash India’s Oil Demand Growth to Pandemic Low",
-    "title_zh": "供应冲击将印度石油需求增长降至疫情低点",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Supply-Shock-to-Slash-Indias-Oil-Demand-Growth-to-Pandemic-Low.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-03T09:30:00+00:00"
-  },
-  "b9929907b5c2": {
-    "id": "b9929907b5c2",
-    "title_en": "All Monopiles Installed at Inch Cape Offshore Wind Farm",
-    "title_zh": "Inch Cape海上风电场安装的所有单桩",
-    "url": "https://www.offshorewind.biz/2026/06/03/all-monopiles-installed-at-inch-cape-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-03T09:15:02+00:00"
-  },
-  "d02debc2f2cb": {
-    "id": "d02debc2f2cb",
-    "title_en": "Natural ester fluids beat mineral oil for use in renewable energy applications",
-    "title_zh": "天然酯流体击败矿物油用于可再生能源应用",
-    "url": "https://www.pv-magazine.com/2026/06/03/natural-ester-fluids-beat-mineral-oil-for-use-in-renewable-energy-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T09:00:00+00:00"
-  },
-  "0dd16e856105": {
-    "id": "0dd16e856105",
-    "title_en": "Drivetrain specialist Flender to get new owner",
-    "title_zh": "传动系统专家弗兰德将获得新主人",
-    "url": "https://www.windpowermonthly.com/article/1960254/drivetrain-specialist-flender-new-owner",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-03T08:56:10+00:00"
   }
 }
