@@ -1,4 +1,67 @@
 {
+  "a4cf58826b41": {
+    "id": "a4cf58826b41",
+    "title_en": "DRC's Export Controls Are Reshaping the Battery Metals Market",
+    "title_zh": "刚果民主共和国的出口管制正在重塑电池金属市场",
+    "url": "https://oilprice.com/Energy/Energy-General/DRCs-Export-Controls-Are-Reshaping-the-Battery-Metals-Market.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T22:00:00+00:00"
+  },
+  "6470d798feac": {
+    "id": "6470d798feac",
+    "title_en": "GM becomes first automaker to partner with Redwood across full battery lifecycle",
+    "title_zh": "通用汽车成为第一家在整个电池生命周期内与红木合作的汽车制造商",
+    "url": "https://electrek.co/2026/06/09/gm-first-automaker-redwood-materials-full-battery-lifecycle/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-09T21:52:35+00:00"
+  },
+  "3c3f79a98602": {
+    "id": "3c3f79a98602",
+    "title_en": "Toyota and Lexus are going big with their first 3-row electric SUVs",
+    "title_zh": "丰田和雷克萨斯将推出首款3排电动SUV",
+    "url": "https://electrek.co/2026/06/09/toyota-lexus-going-big-first-3-row-electric-suvs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-09T21:20:52+00:00"
+  },
+  "b390eae37c07": {
+    "id": "b390eae37c07",
+    "title_en": "Largest Solar Cell Factory In USA Starts Production in Georgia",
+    "title_zh": "美国最大的太阳能电池工厂在佐治亚州开始生产",
+    "url": "https://cleantechnica.com/2026/06/09/largest-solar-cell-factory-in-usa-starts-production-in-georgia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-09T21:19:48+00:00"
+  },
+  "0e291e57727b": {
+    "id": "0e291e57727b",
+    "title_en": "Texas Utility Building New 570-MW Natural Gas-Fired Power Plant",
+    "title_zh": "德克萨斯州公用事业大楼新建570-MW天然气发电厂",
+    "url": "https://www.powermag.com/texas-utility-building-new-570-mw-natural-gas-fired-power-plant/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-09T21:10:30+00:00"
+  },
+  "6101125b1b1a": {
+    "id": "6101125b1b1a",
+    "title_en": "Nuclear and Natural Gas Are Teaming Up to Power the AI Data Center Boom",
+    "title_zh": "核能和天然气正在联手推动人工智能数据中心的繁荣",
+    "url": "https://oilprice.com/Energy/Energy-General/Nuclear-and-Natural-Gas-Are-Teaming-Up-to-Power-the-AI-Data-Center-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T21:00:00+00:00"
+  },
+  "f4f7756bb185": {
+    "id": "f4f7756bb185",
+    "title_en": "US Crude Oil, Gasoline Inventories Keep Sinking, but Prices Don’t Care",
+    "title_zh": "美国原油和汽油库存持续下降，但价格并不在意",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Keep-Sinking-but-Prices-Dont-Care.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-09T20:50:50+00:00"
+  },
   "659aaed5fed4": {
     "id": "659aaed5fed4",
     "title_en": "The Clock Is Ticking Down To Iraq’s Economic Disaster On 27 July",
@@ -4435,68 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-03T12:54:19+00:00"
-  },
-  "2dbbf652dae0": {
-    "id": "2dbbf652dae0",
-    "title_en": "How to structure a US BESS manufacturing deal with Chinese partners amidst FEOC, with NeoVolta",
-    "title_zh": "如何与NeoVolta在FEOC中与中国合作伙伴达成美国BESS制造协议",
-    "url": "https://www.energy-storage.news/how-to-structure-a-us-bess-manufacturing-deal-with-chinese-partners-amidst-feoc-with-neovolta/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-03T12:48:38+00:00"
-  },
-  "e0489c33a435": {
-    "id": "e0489c33a435",
-    "title_en": "Caterpillar BEPU makes going electric as easy as swapping an engine",
-    "title_zh": "卡特彼勒BEPU使电动化变得像更换发动机一样简单",
-    "url": "https://electrek.co/2026/06/03/caterpillar-bepu-makes-going-electric-as-easy-as-swapping-an-engine/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-03T12:47:56+00:00"
-  },
-  "04e4b2f62471": {
-    "id": "04e4b2f62471",
-    "title_en": "Constellation’s Three Mile Island nuclear restart gets boost with FERC waiver",
-    "title_zh": "联邦能源管理委员会豁免Constellation的三里岛核电站重启计划",
-    "url": "https://www.utilitydive.com/news/constellation-three-mile-island-crane-nuclear-ferc-waiver/821836/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-03T12:35:38+00:00"
-  },
-  "2209d9b0ff3d": {
-    "id": "2209d9b0ff3d",
-    "title_en": "Xcimer Energy Starts Operations of Prototype for Laser Fusion Architecture",
-    "title_zh": "Xcimer Energy启动激光聚变架构原型运行",
-    "url": "https://www.powermag.com/xcimer-energy-starts-operations-of-prototype-for-laser-fusion-architecture/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-03T12:32:18+00:00"
-  },
-  "9c5a8ca2773c": {
-    "id": "9c5a8ca2773c",
-    "title_en": "Thornova Solar to use Nextpower steel frames in some solar panel BOMs",
-    "title_zh": "Thornova Solar将在一些太阳能电池板BOM中使用Nextpower钢架",
-    "url": "https://www.solarpowerworldonline.com/2026/06/thornova-solar-to-use-nextpower-steel-frames-in-some-solar-panel-boms/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T12:31:21+00:00"
-  },
-  "0a8a6155a92d": {
-    "id": "0a8a6155a92d",
-    "title_en": "France sees negative spot price of -€498/MWh",
-    "title_zh": "法国的现货价格为-498欧元/MWh",
-    "url": "https://www.pv-magazine.com/2026/06/03/un-prix-spot-negatif-record-de-498-e-mwh-enregistre-le-1er-mai/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-03T12:30:00+00:00"
-  },
-  "5884ba0e9b7b": {
-    "id": "5884ba0e9b7b",
-    "title_en": "Rubio Says U.S. Wants to End Russian Oil Waivers “As Soon as Possible”",
-    "title_zh": "卢比奥表示，美国希望“尽快”终止俄罗斯的石油豁免",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Rubio-Says-US-Wants-to-End-Russian-Oil-Waivers-As-Soon-as-Possible.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-03T12:30:00+00:00"
   }
 }
