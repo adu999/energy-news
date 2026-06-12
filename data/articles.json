@@ -1,4 +1,40 @@
 {
+  "56b4afd06d4b": {
+    "id": "56b4afd06d4b",
+    "title_en": "Shell could walk away from offshore wind in $1 billion+ sell-off",
+    "title_zh": "壳牌可能以超过10亿美元的价格抛售海上风电",
+    "url": "https://electrek.co/2026/06/12/shell-could-walk-away-from-offshore-wind-in-1-billion-sell-off/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T22:03:49+00:00"
+  },
+  "bf76836e4e20": {
+    "id": "bf76836e4e20",
+    "title_en": "The Chevy Equinox EV is now way more expensive to lease, but the Bolt is a bit cheaper",
+    "title_zh": "雪佛兰Equinox EV现在的租赁成本要高得多，但Bolt的价格要便宜一点",
+    "url": "https://electrek.co/2026/06/12/chevy-equinox-ev-more-expensive-lease-bolt-cheaper/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T22:02:57+00:00"
+  },
+  "96b0dd869002": {
+    "id": "96b0dd869002",
+    "title_en": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
+    "title_zh": "中国聚变反应堆有望在2027年点火，威胁到美国的领先地位",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T22:00:00+00:00"
+  },
+  "89406d30af91": {
+    "id": "89406d30af91",
+    "title_en": "Toyota opens orders for its first body-on-frame EV pickup, starting at under $60,000",
+    "title_zh": "丰田开始订购其首款车架式电动皮卡，起价不到6万美元",
+    "url": "https://electrek.co/2026/06/12/toyota-opens-orders-first-body-on-frame-ev-under-60000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T21:00:00+00:00"
+  },
   "3b7396212744": {
     "id": "3b7396212744",
     "title_en": "The Hidden Supply Chain Behind Every SpaceX Launch",
@@ -4462,41 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-06-08T11:49:13+00:00"
-  },
-  "320612459cb3": {
-    "id": "320612459cb3",
-    "title_en": "esVolta closes US$450 million expanded credit facility to expand US BESS portfolio",
-    "title_zh": "esVolta完成4.5亿美元的扩大信贷额度，以扩大美国BESS投资组合",
-    "url": "https://www.energy-storage.news/esvolta-closes-us450-million-expanded-credit-facility-to-expand-us-bess-portfolio/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-08T11:34:49+00:00"
-  },
-  "0263af2d6db9": {
-    "id": "0263af2d6db9",
-    "title_en": "China Delays 500,000 Bpd Of Refining Capacity As Hormuz Disruptions Deepen",
-    "title_zh": "随着霍尔木兹事件的加剧，中国推迟了50万桶/日的炼油产能",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Delays-500000-Bpd-Of-Refining-Capacity-As-Hormuz-Disruptions-Deepen.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T11:30:00+00:00"
-  },
-  "0850cf4d2e9f": {
-    "id": "0850cf4d2e9f",
-    "title_en": "The real reason why e-bike throttles have gotten worse",
-    "title_zh": "电动自行车油门变差的真正原因",
-    "url": "https://electrek.co/2026/06/08/the-real-reason-why-e-bike-throttles-have-gotten-worse/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-08T11:29:00+00:00"
-  },
-  "eb15f2272347": {
-    "id": "eb15f2272347",
-    "title_en": "Acta Marine Takes Delivery of CSOV Chartered for Sofia Offshore Wind Farm",
-    "title_zh": "Acta Marine接收索菲亚海上风电场特许CSOV",
-    "url": "https://www.offshorewind.biz/2026/06/08/acta-marine-takes-delivery-of-csov-chartered-for-sofia-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-08T11:20:32+00:00"
   }
 }
