@@ -1,4 +1,229 @@
 {
+  "9e3c2f7ca143": {
+    "id": "9e3c2f7ca143",
+    "title_en": "Non-bike bike gear tested: H2O Audio’s TRI 2 bone conduction headphones",
+    "title_zh": "非自行车齿轮测试：H2O Audio的TRI 2骨传导耳机",
+    "url": "https://electrek.co/2026/06/12/non-bike-bike-gear-tested-h2o-audios-tri-2-bone-conduction-headphones/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T10:15:35+00:00"
+  },
+  "0701396a9a4c": {
+    "id": "0701396a9a4c",
+    "title_en": "Hot weather and clear skies give Europe a bumper May",
+    "title_zh": "炎热的天气和晴朗的天空给欧洲带来了丰收的五月",
+    "url": "https://www.pv-magazine.com/2026/06/12/hot-weather-and-clear-skies-give-europe-a-bumper-may/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T10:09:23+00:00"
+  },
+  "faaf24813ae4": {
+    "id": "faaf24813ae4",
+    "title_en": "Masdar acquires stake in Repsol’s 705MW operational renewables portfolio in Spain",
+    "title_zh": "Masdar收购了Repsol在西班牙705MW运营可再生能源组合的股份",
+    "url": "https://www.pv-tech.org/masdar-acquires-stake-in-repsols-705mw-operational-renewables-portfolio-in-spain/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T09:41:06+00:00"
+  },
+  "06899b3ff964": {
+    "id": "06899b3ff964",
+    "title_en": "Wärtsilä on why AI data centres need BESS to smooth demand and avoid ‘destroying the grid’",
+    "title_zh": "瓦锡兰：为什么人工智能数据中心需要BESS来平滑需求，避免“破坏电网”",
+    "url": "https://www.energy-storage.news/wartsila-on-why-ai-data-centres-need-bess-to-smooth-demand-and-avoid-destroying-the-grid/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-12T09:31:40+00:00"
+  },
+  "6c6ee9c96d5a": {
+    "id": "6c6ee9c96d5a",
+    "title_en": "Oil Prices Tumble 4% on Iran Peace Optimism",
+    "title_zh": "伊朗和平乐观情绪导致油价下跌4%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Tumble-4-on-Iran-Peace-Optimism.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T09:27:06+00:00"
+  },
+  "e57b815d414e": {
+    "id": "e57b815d414e",
+    "title_en": "Portion of Czech hydropower station to be transformed into 154MW/750MWh pumped storage plant",
+    "title_zh": "捷克水电站部分改造为154MW/750MWh抽水蓄能电站",
+    "url": "https://www.energy-storage.news/portion-of-czech-hydropower-station-to-be-transformed-into-154mw-750mwh-pumped-storage-plant/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-12T09:26:10+00:00"
+  },
+  "57f38a8e4c4c": {
+    "id": "57f38a8e4c4c",
+    "title_en": "First 9-in-1 heat pump transforms load into an energy hub",
+    "title_zh": "首款9合1热泵将负载转化为能源中心",
+    "url": "https://www.pv-magazine.com/2026/06/12/first-9-in-1-heat-pump-transforms-load-into-an-energy-hub/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T09:00:00+00:00"
+  },
+  "0a4720d3b961": {
+    "id": "0a4720d3b961",
+    "title_en": "Chinese PV Industry Brief: Daqo expands beyond polysilicon",
+    "title_zh": "中国光伏产业简报：大全超越多晶硅扩张",
+    "url": "https://www.pv-magazine.com/2026/06/12/chinese-pv-industry-brief-daqo-expands-beyond-polysilicon/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T08:49:58+00:00"
+  },
+  "28551cd02506": {
+    "id": "28551cd02506",
+    "title_en": "The Hidden Infrastructure Challenge Behind Renewable Energy Growth",
+    "title_zh": "可再生能源增长背后隐藏的基础设施挑战",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Hidden-Infrastructure-Challenge-Behind-Renewable-Energy-Growth.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T08:30:00+00:00"
+  },
+  "e1fa65adaab9": {
+    "id": "e1fa65adaab9",
+    "title_en": "Chile releases bidding terms for first energy auction including storage",
+    "title_zh": "智利公布包括储能在内的首次能源拍卖的招标条款",
+    "url": "https://www.pv-magazine.com/2026/06/12/chile-releases-bidding-terms-for-first-energy-auction-including-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T08:28:30+00:00"
+  },
+  "c943b0717a94": {
+    "id": "c943b0717a94",
+    "title_en": "Cypress Creek secures US$3.5 billion to fund 1.63GW/1.9GWh solar-plus-storage project",
+    "title_zh": "Cypress Creek获得35亿美元资助1.63GW/1.9GWh太阳能+储能项目",
+    "url": "https://www.pv-tech.org/cypress-creek-secures-us3-5-billion-to-fund-1-63gw-1-9gwh-solar-plus-storage-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T08:22:47+00:00"
+  },
+  "aaa179659aec": {
+    "id": "aaa179659aec",
+    "title_en": "Global polysilicon prices hold steady as Section 232 outcome draws focus at SNEC",
+    "title_zh": "全球多晶硅价格保持稳定，因为232条款的结果引起了SNEC的关注",
+    "url": "https://www.pv-magazine.com/2026/06/12/global-polysilicon-prices-hold-steady-as-section-232-outcome-draws-focus-at-snec/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T08:19:28+00:00"
+  },
+  "f50e0c191948": {
+    "id": "f50e0c191948",
+    "title_en": "SNEC 2026 wrap-up: Storage, AI and back-contact are reshaping solar",
+    "title_zh": "SNEC 2026总结：存储、人工智能和背接触正在重塑太阳能",
+    "url": "https://www.pv-magazine.com/2026/06/12/snec-2026-wrap-storage-ai-and-back-contact-are-reshaping-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T08:12:59+00:00"
+  },
+  "0c036012dd96": {
+    "id": "0c036012dd96",
+    "title_en": "France Launches Massive Tender for Seven Floating, Four Fixed-Bottom Offshore Wind Farms",
+    "title_zh": "法国对七个浮式、四个固定底部海上风电场进行大规模招标",
+    "url": "https://www.offshorewind.biz/2026/06/12/france-launches-massive-tender-for-seven-floating-four-fixed-bottom-offshore-wind-farms/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-06-12T07:57:32+00:00"
+  },
+  "827cd660793e": {
+    "id": "827cd660793e",
+    "title_en": "Heat pumps cheaper to operate than gas boilers in almost all EU countries, IEA claims",
+    "title_zh": "国际能源署声称，在几乎所有欧盟国家，热泵的运行成本都比燃气锅炉低",
+    "url": "https://www.pv-magazine.com/2026/06/12/heat-pumps-cheaper-to-operate-than-gas-boilers-in-almost-all-eu-countries-iea-claims/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T07:42:11+00:00"
+  },
+  "8d978120acc8": {
+    "id": "8d978120acc8",
+    "title_en": "India Caps Fuel Sales to Avoid Shortages",
+    "title_zh": "印度限制燃料销售以避免短缺",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Caps-Fuel-Sales-to-Avoid-Shortages.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T07:30:00+00:00"
+  },
+  "27e650ab373f": {
+    "id": "27e650ab373f",
+    "title_en": "Solar beat coal on the US grid in May — a new milestone",
+    "title_zh": "太阳能在5月份击败了美国电网上的煤炭——一个新的里程碑",
+    "url": "https://www.canarymedia.com/articles/solar/solar-beat-coal-us-grid",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-12T07:30:00+00:00"
+  },
+  "30ff804bdc14": {
+    "id": "30ff804bdc14",
+    "title_en": "Minnesota now has a wind-powered green ammonia plant",
+    "title_zh": "明尼苏达州现在有一个风力发电的绿色氨厂",
+    "url": "https://www.canarymedia.com/articles/wind/wind-project-farmers-fertilizer-prices",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-12T07:30:00+00:00"
+  },
+  "97b7c67798dd": {
+    "id": "97b7c67798dd",
+    "title_en": "Longi unveils 27.27%-efficient heterojunction back-contact solar cell built with improved laser processing",
+    "title_zh": "Longi推出27.27%效率的异质结背接触太阳能电池，采用改进的激光加工技术",
+    "url": "https://www.pv-magazine.com/2026/06/12/longi-unveils-27-27-efficient-heterojunction-back-contact-solar-cell-built-with-improved-laser-processing/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T07:00:00+00:00"
+  },
+  "19f764de6e80": {
+    "id": "19f764de6e80",
+    "title_en": "Fire strikes another German home with solar roof tiles",
+    "title_zh": "火灾袭击了另一个德国家庭的太阳能屋顶瓦片",
+    "url": "https://www.pv-magazine.com/2026/06/12/nuevo-incendio-en-una-vivienda-con-tejas-fotovoltaicas-en-alemania/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T06:21:00+00:00"
+  },
+  "3f6240b30fee": {
+    "id": "3f6240b30fee",
+    "title_en": "‘Renewable energy is not a side story in our economic growth, it is the headline’",
+    "title_zh": "“可再生能源不是我们经济增长的次要因素，而是头条新闻”",
+    "url": "https://www.pv-magazine.com/2026/06/12/renewable-energy-is-not-a-side-story-in-our-economic-growth-it-is-the-headline/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T05:52:30+00:00"
+  },
+  "e6604fc826fc": {
+    "id": "e6604fc826fc",
+    "title_en": "Goldman Sachs Cuts 2027 Oil Price Estimate on Demand Uncertainty",
+    "title_zh": "高盛因需求不确定性下调2027年油价预期",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Cuts-2027-Oil-Price-Estimate-on-Demand-Uncertainty.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T05:30:00+00:00"
+  },
+  "64c40c5d1d44": {
+    "id": "64c40c5d1d44",
+    "title_en": "Waymo Premier — Ah, This Is Where The Company’s Headed!",
+    "title_zh": "Waymo Premier——啊，这就是公司的发展方向！",
+    "url": "https://cleantechnica.com/2026/06/11/waymo-premier-ah-this-is-where-the-companys-headed/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T03:57:40+00:00"
+  },
+  "31cc695b80e0": {
+    "id": "31cc695b80e0",
+    "title_en": "Waymo: Aim to Become “World’s Most Trusted Driver” and “New Reference Model for Human Collision Avoidance”",
+    "title_zh": "Waymo：致力于成为“世界上最值得信赖的司机”和“人类避碰的新参考模型”",
+    "url": "https://cleantechnica.com/2026/06/11/waymo-new-reference-model-for-human-collision-avoidance-and-aim-to-become-worlds-most-trusted-driver/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T03:51:42+00:00"
+  },
+  "a67fa5d7467e": {
+    "id": "a67fa5d7467e",
+    "title_en": "Geely EX2 — There Is Only One In Australia, For Now!",
+    "title_zh": "吉利EX2--目前澳大利亚只有一辆！",
+    "url": "https://cleantechnica.com/2026/06/11/geely-ex2-there-is-only-one-so-far/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T03:50:29+00:00"
+  },
   "32c0b0e9d02b": {
     "id": "32c0b0e9d02b",
     "title_en": "Balcony Solar Bill Moving Forward in California",
@@ -7,6 +232,24 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-12T03:43:39+00:00"
+  },
+  "7bdbc391898e": {
+    "id": "7bdbc391898e",
+    "title_en": "Draft Guidelines on State Aid to the Air Transport Sector — T&E Consultation Response",
+    "title_zh": "关于国家对航空运输部门援助的指导方针草案——T&E咨询回复",
+    "url": "https://cleantechnica.com/2026/06/11/draft-guidelines-on-state-aid-to-the-air-transport-sector-te-consultation-response/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T03:42:50+00:00"
+  },
+  "186965c19a14": {
+    "id": "186965c19a14",
+    "title_en": "Why GM Will Focus On Sodium-Ion Batteries For Energy Storage",
+    "title_zh": "为什么通用汽车将专注于钠离子电池的储能",
+    "url": "https://cleantechnica.com/2026/06/11/why-gm-will-focus-on-sodium-ion-batteries-for-energy-storage/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T03:40:19+00:00"
   },
   "4d5c60a72b0a": {
     "id": "4d5c60a72b0a",
@@ -4255,248 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-06T16:01:57+00:00"
-  },
-  "c2921adfd296": {
-    "id": "c2921adfd296",
-    "title_en": "Air Lubrication For Ships Is Real. The Air Still Isn’t Free.",
-    "title_zh": "船舶空气润滑是真实的。空气仍然不自由。",
-    "url": "https://cleantechnica.com/2026/06/06/ship-air-lubrication-air-isnt-free/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T15:53:36+00:00"
-  },
-  "3b39bff4d0bb": {
-    "id": "3b39bff4d0bb",
-    "title_en": "Harbinger gears up for war with autonomous military truck program",
-    "title_zh": "Harbinger准备与自主军用卡车项目开战",
-    "url": "https://electrek.co/2026/06/06/harbinger-gears-up-for-war-with-autonomous-military-truck-program/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-06T15:23:49+00:00"
-  },
-  "029d8a2e3c75": {
-    "id": "029d8a2e3c75",
-    "title_en": "Investments Starting to Grow Nicely In Africa’s Electric Motorcycle Sector",
-    "title_zh": "非洲电动摩托车行业的投资开始强劲增长",
-    "url": "https://cleantechnica.com/2026/06/06/investments-starting-to-grow-nicely-in-africas-electric-motorcycle-sector/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T14:38:23+00:00"
-  },
-  "b8675afc5fe3": {
-    "id": "b8675afc5fe3",
-    "title_en": "PHEV Sales Continue to Record Phenomenal Growth in South Africa",
-    "title_zh": "南非插电式混合动力汽车销量继续创下惊人增长",
-    "url": "https://cleantechnica.com/2026/06/06/phev-sales-continue-to-record-phenomenal-growth-in-south-africa/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T14:19:49+00:00"
-  },
-  "d0f5463fbbd9": {
-    "id": "d0f5463fbbd9",
-    "title_en": "All the new EVs you can buy with 0% financing in June 2026",
-    "title_zh": "2026年6月，您可以用0%融资购买的所有新电动汽车",
-    "url": "https://electrek.co/2026/06/06/all-the-new-evs-you-can-buy-with-0-financing-in-june-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-06T11:30:00+00:00"
-  },
-  "1b2970a8fef6": {
-    "id": "1b2970a8fef6",
-    "title_en": "Global grid capex to surpass $650 billion in 2026, says Rystad Energy",
-    "title_zh": "Rystad Energy表示，2026年全球电网资本支出将超过6500亿美元",
-    "url": "https://www.pv-magazine.com/2026/06/06/global-grid-capex-to-surpass-650-billion-in-2026-says-rystad-energy/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-06T07:30:00+00:00"
-  },
-  "8b3f404d26df": {
-    "id": "8b3f404d26df",
-    "title_en": "Age of electrification exposing Australia’s weakest link",
-    "title_zh": "电气化时代暴露了澳大利亚最薄弱的环节",
-    "url": "https://www.pv-magazine.com/2026/06/06/age-of-electrification-exposing-australias-weakest-link/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-06T07:00:00+00:00"
-  },
-  "3c482e868851": {
-    "id": "3c482e868851",
-    "title_en": "Why Would Someone Prefer Coal Power Over Solar & Wind?",
-    "title_zh": "为什么有人更喜欢煤电而不是太阳能和风能？",
-    "url": "https://cleantechnica.com/2026/06/05/why-would-someone-prefer-coal-power-over-solar-wind/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T03:50:33+00:00"
-  },
-  "bee1f09ece9f": {
-    "id": "bee1f09ece9f",
-    "title_en": "Global Biofuel Demand Set to Grow by Nearly 70% as Food Prices Rise",
-    "title_zh": "随着食品价格上涨，全球生物燃料需求将增长近70%",
-    "url": "https://cleantechnica.com/2026/06/05/global-biofuel-demand-set-to-grow-by-nearly-70-as-food-prices-rise/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T02:53:03+00:00"
-  },
-  "6053bee8d21b": {
-    "id": "6053bee8d21b",
-    "title_en": "Carvana’s bet on Slate is ACTUALLY a bet on itself, as the future of automotive retail",
-    "title_zh": "Carvana对Slate的押注实际上是对汽车零售业未来的押注",
-    "url": "https://electrek.co/2026/06/05/carvanas-bet-on-slate-is-actually-a-bet-on-itself-as-the-future-of-automotive-retail/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-06T01:51:59+00:00"
-  },
-  "0e5b62ea9f3c": {
-    "id": "0e5b62ea9f3c",
-    "title_en": "EVs Take 33.0% Share In France — Tesla Model Y Leads",
-    "title_zh": "电动汽车在法国的份额为33.0%——特斯拉Model Y领先",
-    "url": "https://cleantechnica.com/2026/06/05/evs-take-33-0-share-in-france-tesla-model-y-leads/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T01:48:11+00:00"
-  },
-  "1b8f00d0802d": {
-    "id": "1b8f00d0802d",
-    "title_en": "People Who Worked On Tesla “Full Self Driving” Don’t Trust Tesla “Full Self Driving”",
-    "title_zh": "从事特斯拉“全自动驾驶”工作的人不相信特斯拉“全自主驾驶”",
-    "url": "https://cleantechnica.com/2026/06/05/people-who-worked-on-tesla-full-self-driving-dont-trust-tesla-full-self-driving/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-06T00:40:25+00:00"
-  },
-  "95a290885d5a": {
-    "id": "95a290885d5a",
-    "title_en": "Wallbox deploys its first Supernova PowerRing DC fast chargers",
-    "title_zh": "Wallbox推出首款超新星PowerRing直流快速充电器",
-    "url": "https://electrek.co/2026/06/05/wallbox-deploys-its-first-supernova-powerring-dc-fast-chargers/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T22:35:59+00:00"
-  },
-  "b1d4dc6a13f8": {
-    "id": "b1d4dc6a13f8",
-    "title_en": "It’s Okay To Grab A Quick Granola Bar, Right? Sourcing Food For A Clean Climate",
-    "title_zh": "吃一个快速的格兰诺拉麦片吧是可以的，对吧？为清洁气候采购食品",
-    "url": "https://cleantechnica.com/2026/06/05/its-okay-to-grab-a-quick-granola-bar-right-sourcing-food-for-a-clean-climate/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T22:24:37+00:00"
-  },
-  "be710ac67b86": {
-    "id": "be710ac67b86",
-    "title_en": "Can AI Save More Energy Than It Consumes?",
-    "title_zh": "人工智能能节省比消耗更多的能源吗？",
-    "url": "https://oilprice.com/Energy/Energy-General/Can-AI-Save-More-Energy-Than-It-Consumes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-05T22:00:00+00:00"
-  },
-  "aea2399664e1": {
-    "id": "aea2399664e1",
-    "title_en": "T1 Energy buys KORE Power to cash in on the AI power boom",
-    "title_zh": "T1 Energy收购KORE Power以从AI电力热潮中获利",
-    "url": "https://electrek.co/2026/06/05/t1-energy-buys-kore-power-to-cash-in-on-the-ai-power-boom/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T21:41:12+00:00"
-  },
-  "021a330e2f13": {
-    "id": "021a330e2f13",
-    "title_en": "Jacking Up Electricity Prices So You Don’t Have To Think — SpaceX Edition",
-    "title_zh": "提高电价，让你无需思考——SpaceX版",
-    "url": "https://cleantechnica.com/2026/06/05/jacking-up-electricity-prices-so-you-dont-have-to-think-spacex-edition/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T21:06:08+00:00"
-  },
-  "a0fa75c683f6": {
-    "id": "a0fa75c683f6",
-    "title_en": "Volkswagen’s push for more affordable EVs starts with these two",
-    "title_zh": "大众汽车推动更实惠的电动汽车从这两款开始",
-    "url": "https://electrek.co/2026/06/05/volkswagens-more-affordable-evs-starts-with-these-two/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T20:50:35+00:00"
-  },
-  "38bca6df3c85": {
-    "id": "38bca6df3c85",
-    "title_en": "Gov. Polis Signs Bill Countering Expensive Federal Coal Plant Orders",
-    "title_zh": "州长Polis签署法案，反对昂贵的联邦燃煤电厂订单",
-    "url": "https://cleantechnica.com/2026/06/05/gov-polis-signs-bill-countering-expensive-federal-coal-plant-orders/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T20:15:39+00:00"
-  },
-  "e60ada0ecd29": {
-    "id": "e60ada0ecd29",
-    "title_en": "BYD’s ‘world’s first’ 1,000-km range luxury GT is off to a hot start",
-    "title_zh": "比亚迪“全球首款”1000公里续航豪华GT开局火热",
-    "url": "https://electrek.co/2026/06/05/byds-worlds-first-1000-km-range-luxury-gt-off-to-hot-start/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T19:58:20+00:00"
-  },
-  "8cc0bcefffa0": {
-    "id": "8cc0bcefffa0",
-    "title_en": "Tesla pushes Roadster demo to August as SpaceX thruster work continues",
-    "title_zh": "特斯拉将Roadster演示推迟到8月，因为SpaceX的推进器工作仍在继续",
-    "url": "https://electrek.co/2026/06/05/tesla-roadster-demo-delayed-august-spacex-thruster/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T19:51:00+00:00"
-  },
-  "6531a9679e1e": {
-    "id": "6531a9679e1e",
-    "title_en": "Podcast: Tesla Semi nails big test,  BMW iX3 range impresses, Xpeng catches up to Tesla, and more",
-    "title_zh": "播客：特斯拉Semi完成大测试，宝马iX3系列令人印象深刻，小鹏追赶特斯拉，等等",
-    "url": "https://electrek.co/2026/06/05/podcast-tesla-semi-nails-big-test-bmw-ix3-range-impresses-xpeng-catches-up-to-tesla-and-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T19:39:07+00:00"
-  },
-  "7918f3538414": {
-    "id": "7918f3538414",
-    "title_en": "Hyundai Scores Robotics PR Win, Shanks Ball On FIFA Transport Opportunity",
-    "title_zh": "现代获得机器人公关胜利，在FIFA运输机会上投球",
-    "url": "https://cleantechnica.com/2026/06/05/hyundai-scores-robotics-pr-win-shanks-ball-on-fifa-transport-opportunity/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T18:54:01+00:00"
-  },
-  "3648c4a3f953": {
-    "id": "3648c4a3f953",
-    "title_en": "Chinese NEV Resale Value Surges 30%, Volume Up 29%",
-    "title_zh": "中国新能源汽车转售价值飙升30%，销量增长29%",
-    "url": "https://cleantechnica.com/2026/06/05/chinese-used-nev-resale-value-surges-30-volume-up-29/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T18:08:18+00:00"
-  },
-  "5146f3137ad1": {
-    "id": "5146f3137ad1",
-    "title_en": "Yozma IN 10 + IN 10 Pro electric dirt bikes with up to $1,043+ exclusive savings, Lectric Father’s Day e-bike Sale, Segway Navimow, more",
-    "title_zh": "Yozma IN 10+IN 10 Pro电动越野自行车，最高可节省1043美元，Letric父亲节电动自行车特卖，Segway Navimow，更多",
-    "url": "https://electrek.co/2026/06/05/yozma-in-10-in-10-pro-electric-dirt-bikes-lectric-fathers-day-e-bike-sale-segway-navimow-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T18:00:00+00:00"
-  },
-  "82053962c4ed": {
-    "id": "82053962c4ed",
-    "title_en": "Regional Leaders Back Taliban Trade Ties While EU Holds the Line",
-    "title_zh": "地区领导人支持与塔利班的贸易关系，而欧盟则持保留态度",
-    "url": "https://oilprice.com/Geopolitics/International/Regional-Leaders-Back-Taliban-Trade-Ties-While-EU-Holds-the-Line.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-05T18:00:00+00:00"
-  },
-  "cc5f2ccf5691": {
-    "id": "cc5f2ccf5691",
-    "title_en": "Range Rover is finally ready to sell its first electric SUV: Here’s everything we know",
-    "title_zh": "路虎揽胜终于准备好销售其首款电动SUV：以下是我们所知道的一切",
-    "url": "https://electrek.co/2026/06/05/range-rover-finally-ready-to-sell-first-electric-suv/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-05T17:55:15+00:00"
   }
 }
