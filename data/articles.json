@@ -1,4 +1,157 @@
 {
+  "3b7396212744": {
+    "id": "3b7396212744",
+    "title_en": "The Hidden Supply Chain Behind Every SpaceX Launch",
+    "title_zh": "SpaceX每次发射背后隐藏的供应链",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-Supply-Chain-Behind-Every-SpaceX-Launch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T20:00:00+00:00"
+  },
+  "3f756e8180d0": {
+    "id": "3f756e8180d0",
+    "title_en": "Podcast: Rivian R2 first drive, BYD goes nuts on flash charging, Donut Lab’s miracle battery is dead, and more",
+    "title_zh": "播客：Rivian R2首次驾驶，比亚迪在闪光充电上疯了，甜甜圈实验室的奇迹电池没电了，等等",
+    "url": "https://electrek.co/2026/06/12/podcast-rivian-r2-first-drive-byd-goes-nuts-on-flash-charging-donut-labs-miracle-battery-is-dead-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T19:52:09+00:00"
+  },
+  "41152fc69315": {
+    "id": "41152fc69315",
+    "title_en": "Five Years of No Limits: Meet the 60V Warrior Ultra M-530",
+    "title_zh": "五年无限制：满足60V战士Ultra M-530",
+    "url": "https://cleantechnica.com/2026/06/12/five-years-of-no-limits-meet-the-60v-warrior-ultra-m-530/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T18:36:40+00:00"
+  },
+  "a512cb6d5ecd": {
+    "id": "a512cb6d5ecd",
+    "title_en": "BMW put the new iX3 through the paces, and it still drove 500 miles on a single charge",
+    "title_zh": "宝马对新款iX3进行了测试，一次充电仍能行驶500英里",
+    "url": "https://electrek.co/2026/06/12/bmw-new-ix3-drove-500-miles/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T18:20:32+00:00"
+  },
+  "3f4854ead403": {
+    "id": "3f4854ead403",
+    "title_en": "Anker SOLIX expanded 6,144Wh F3000 power station new $1,899 low, Heybike Ranger 3.0 Pro e-bike + Villain dirt bike lows, more",
+    "title_zh": "Anker SOLIX扩建了6144Wh F3000发电站，价格低至1899美元，Heybike Ranger 3.0 Pro电动自行车+Villain越野自行车价格低，更多",
+    "url": "https://electrek.co/2026/06/12/anker-solix-6144wh-f3000-power-station-heybike-ranger-3-0-pro-e-bike-villain-dirt-bike-lows-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T18:00:00+00:00"
+  },
+  "df554821d2e6": {
+    "id": "df554821d2e6",
+    "title_en": "U.S. and Uzbekistan Deepen Economic Ties With New Investment Pact",
+    "title_zh": "美国和乌兹别克斯坦通过新的投资协议深化经济关系",
+    "url": "https://oilprice.com/Energy/Energy-General/US-and-Uzbekistan-Deepen-Economic-Ties-With-New-Investment-Pact.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T18:00:00+00:00"
+  },
+  "c9eb19ff6d2c": {
+    "id": "c9eb19ff6d2c",
+    "title_en": "Pace of US Oil Drilling Inches Up",
+    "title_zh": "美国石油钻探步伐加快",
+    "url": "https://oilprice.com/Energy/Energy-General/Pace-of-US-Oil-Drilling-Inches-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T17:12:00+00:00"
+  },
+  "f436470cc822": {
+    "id": "f436470cc822",
+    "title_en": "BYD is about to launch this full-size luxury electric sedan with over 1,000 km of range",
+    "title_zh": "比亚迪即将推出这款续航里程超过1000公里的全尺寸豪华电动轿车",
+    "url": "https://electrek.co/2026/06/12/byd-launch-luxury-ev-sedan-with-1000-km-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T16:43:45+00:00"
+  },
+  "03faa8fbbf72": {
+    "id": "03faa8fbbf72",
+    "title_en": "U.S. Military Helping Move 7 Million Bpd Out of Persian Gulf, Wright Says",
+    "title_zh": "赖特说，美国军方帮助将700万桶/天的石油运出波斯湾",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Helping-Move-7-Million-Bpd-Out-of-Persian-Gulf-Wright-Says.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T16:30:00+00:00"
+  },
+  "3a8adc65b238": {
+    "id": "3a8adc65b238",
+    "title_en": "Meta expands US solar portfolio, inks PPA with Zelestra",
+    "title_zh": "Meta扩大美国太阳能产品组合，与Zelestra签署PPA",
+    "url": "https://www.utilitydive.com/news/meta-expands-us-solar-portfolio-inks-ppa-with-zelestra/822772/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-12T16:16:57+00:00"
+  },
+  "f67203908a58": {
+    "id": "f67203908a58",
+    "title_en": "Mercedes-Benz Unveils New Luxury EV Design Details…In Arizona",
+    "title_zh": "梅赛德斯-奔驰在亚利桑那州推出新的豪华电动汽车设计细节",
+    "url": "https://cleantechnica.com/2026/06/12/luxury-ev-merces-benz-glc-suv-us-arizona/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T16:07:50+00:00"
+  },
+  "6ff8aec642ec": {
+    "id": "6ff8aec642ec",
+    "title_en": "A War of Words Sends Brent Crude to a Two-Month Low",
+    "title_zh": "一场口水战使布伦特原油价格跌至两个月低点",
+    "url": "https://oilprice.com/Energy/Crude-Oil/A-War-of-Words-Sends-Brent-Crude-to-a-Two-Month-Low.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T15:54:00+00:00"
+  },
+  "91b8c705f13f": {
+    "id": "91b8c705f13f",
+    "title_en": "Carney’s Alberta Pipeline Deal Is Strategy, Not A Funded Pipeline",
+    "title_zh": "卡尼的阿尔伯塔管道交易是战略，而不是资金管道",
+    "url": "https://cleantechnica.com/2026/06/12/carney-alberta-pipeline-deal-not-funded/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T15:32:37+00:00"
+  },
+  "4ba95effc56c": {
+    "id": "4ba95effc56c",
+    "title_en": "Europe Wary Of Too Much Dependence on U.S. LNG",
+    "title_zh": "欧洲担心过度依赖美国液化天然气",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Wary-Of-Too-Much-Dependence-on-US-LNG.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T15:30:00+00:00"
+  },
+  "f032a7a3f4f0": {
+    "id": "f032a7a3f4f0",
+    "title_en": "China’s emerging wave of PV end-of-life: policies, technologies and market dynamics",
+    "title_zh": "中国新兴的光伏报废浪潮：政策、技术和市场动态",
+    "url": "https://www.pv-tech.org/chinas-emerging-wave-of-pv-end-of-life/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T15:19:50+00:00"
+  },
+  "fa5266824972": {
+    "id": "fa5266824972",
+    "title_en": "What could save Arizona tens of millions in annual customer and infrastructure costs? Residential pool pumps.",
+    "title_zh": "什么可以为亚利桑那州每年节省数千万的客户和基础设施成本？住宅游泳池泵。",
+    "url": "https://www.utilitydive.com/news/displacing-power-plants-with-arizonas-half-million-residential-pool-pumps/821835/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-12T15:00:00+00:00"
+  },
+  "f71e42a5a5e0": {
+    "id": "f71e42a5a5e0",
+    "title_en": "AI firms are getting creative as they scramble for energy",
+    "title_zh": "人工智能公司在争夺能源的同时变得越来越有创意",
+    "url": "https://www.canarymedia.com/articles/data-centers/ai-energy-gas-turbines-space-underwater",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-12T15:00:00+00:00"
+  },
   "4e3c3af284ba": {
     "id": "4e3c3af284ba",
     "title_en": "BMW’s menacing new EV concept offers an early look at the first electric M3 [Images]",
@@ -70,6 +223,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-12T13:30:00+00:00"
+  },
+  "c673a6219e6d": {
+    "id": "c673a6219e6d",
+    "title_en": "Connecticut AG, agencies ask FERC to cut Eversource, Avangrid RTO adder",
+    "title_zh": "康涅狄格州股份公司，各机构要求联邦能源管理委员会削减Eversource，Avanglid RTO加法器",
+    "url": "https://www.utilitydive.com/news/connecticut-ferc-eversource-avangrid-rto-adder-complaint/822770/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-12T13:29:34+00:00"
   },
   "5a19249bc671": {
     "id": "5a19249bc671",
@@ -4336,167 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-08T11:20:32+00:00"
-  },
-  "d44621e90fef": {
-    "id": "d44621e90fef",
-    "title_en": "Kia Niro EV is the most affordable new EV you can lease in June 2026",
-    "title_zh": "Kia Niro EV是您在2026年6月可以租赁的最实惠的新电动汽车",
-    "url": "https://electrek.co/2026/06/08/kia-niro-ev-is-the-most-affordable-new-ev-you-can-lease-in-june-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-08T11:15:00+00:00"
-  },
-  "d754067f16da": {
-    "id": "d754067f16da",
-    "title_en": "MSolar to build US$23.7 million solar glass, cell and module factory in Virginia",
-    "title_zh": "MSolar将在弗吉尼亚州投资2370万美元建造太阳能玻璃、电池和模块工厂",
-    "url": "https://www.pv-tech.org/msolar-build-us23-7-million-solar-glass-cell-module-factory-virginia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T11:04:18+00:00"
-  },
-  "dd23af8e5b71": {
-    "id": "dd23af8e5b71",
-    "title_en": "Arctech Solar inks 3GW of tracker deals, pushes robotic solutions at SNEC",
-    "title_zh": "Arctech Solar签署3GW跟踪器协议，在SNEC推出机器人解决方案",
-    "url": "https://www.pv-tech.org/arctech-solar-inks-3gw-of-tracker-deals-pushes-robotic-solutions-at-snec/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T10:48:46+00:00"
-  },
-  "797b8217767e": {
-    "id": "797b8217767e",
-    "title_en": "Top tracker manufacturers investing in AI to improve performance",
-    "title_zh": "顶级跟踪器制造商投资人工智能以提高性能",
-    "url": "https://www.pv-tech.org/top-tracker-manufacturers-investing-in-ai-to-improve-performance/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T10:48:26+00:00"
-  },
-  "2254ed421d93": {
-    "id": "2254ed421d93",
-    "title_en": "Data centre developer DayOne signs solar and BESS PPAs in Malaysia with TNB subsidiaries",
-    "title_zh": "数据中心开发商DayOne与TNB子公司在马来西亚签署太阳能和BESS PPA",
-    "url": "https://www.energy-storage.news/data-centre-developer-dayone-signs-solar-and-bess-ppas-in-malaysia-with-tnb-subsidiaries/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-08T10:46:38+00:00"
-  },
-  "ff1104333e9c": {
-    "id": "ff1104333e9c",
-    "title_en": "Seawork Brings Maritime Expertise and Careers Focus to Southampton",
-    "title_zh": "Seawork为南安普敦带来海事专业知识和职业关注",
-    "url": "https://www.offshorewind.biz/2026/06/08/seawork-brings-maritime-expertise-and-careers-focus-to-southampton/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-08T10:42:10+00:00"
-  },
-  "21a05be73ec1": {
-    "id": "21a05be73ec1",
-    "title_en": "Saudi Arabia Slashes Oil Prices Again as Asian Demand Weakens",
-    "title_zh": "随着亚洲需求减弱，沙特阿拉伯再次大幅下跌油价",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Slashes-Oil-Prices-Again-as-Asian-Demand-Weakens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T10:30:00+00:00"
-  },
-  "09d18e567d6c": {
-    "id": "09d18e567d6c",
-    "title_en": "Nordex turbine damaged in possible lightning strike",
-    "title_zh": "Nordex涡轮机在可能的雷击中损坏",
-    "url": "https://www.windpowermonthly.com/article/1960782/nordex-turbine-damaged-possible-lightning-strike",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-08T10:20:52+00:00"
-  },
-  "1ea8c62df9c9": {
-    "id": "1ea8c62df9c9",
-    "title_en": "Floating wind chief: CfDs 'inherently risky’ for emerging technologies",
-    "title_zh": "浮动风电主管：CfDs对新兴技术“固有风险”",
-    "url": "https://www.windpowermonthly.com/article/1960759/floating-wind-chief-cfds-inherently-risky-emerging-technologies",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-08T09:32:21+00:00"
-  },
-  "e2b243732058": {
-    "id": "e2b243732058",
-    "title_en": "Israel Hits Iranian Petrochemical Plant as War Escalates",
-    "title_zh": "随着战争升级，以色列袭击伊朗石化厂",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Israel-Hits-Iranian-Petrochemical-Plant-as-War-Escalates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T09:30:00+00:00"
-  },
-  "87582cc7c5a5": {
-    "id": "87582cc7c5a5",
-    "title_en": "Tennet appoints Shell veteran as new CEO",
-    "title_zh": "Tennet任命壳牌资深人士为新任首席执行官",
-    "url": "https://www.windpowermonthly.com/article/1960755/tennet-appoints-shell-veteran-new-ceo",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-08T09:26:59+00:00"
-  },
-  "044be52d1b38": {
-    "id": "044be52d1b38",
-    "title_en": "Contracting, audits and operational controls: How to protect your BESS investment",
-    "title_zh": "承包、审计和运营控制：如何保护您的BESS投资",
-    "url": "https://www.energy-storage.news/contracting-audits-and-operational-controls-how-to-protect-your-bess-investment/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-08T09:16:19+00:00"
-  },
-  "68f9d5237352": {
-    "id": "68f9d5237352",
-    "title_en": "Rising load growth reshapes cooperative portfolios and strategy",
-    "title_zh": "不断上升的负载增长重塑了合作组合和战略",
-    "url": "https://www.utilitydive.com/spons/rising-load-growth-reshapes-cooperative-portfolios-and-strategy/821823/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-08T09:00:00+00:00"
-  },
-  "15813022d52c": {
-    "id": "15813022d52c",
-    "title_en": "The benefits of a unified billing, payment, communications platform",
-    "title_zh": "统一计费、支付和通信平台的好处",
-    "url": "https://www.utilitydive.com/spons/the-benefits-of-a-unified-billing-payment-communications-platform/821320/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-08T09:00:00+00:00"
-  },
-  "96ae4db8fc5c": {
-    "id": "96ae4db8fc5c",
-    "title_en": "How live conversations can close the gap between awareness and enrollment for load flexibility",
-    "title_zh": "实时对话如何缩小认知和注册之间的差距，以实现负载灵活性",
-    "url": "https://www.utilitydive.com/spons/how-live-conversations-can-close-the-gap-between-awareness-and-enrollment-f/821648/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-08T09:00:00+00:00"
-  },
-  "85ba3c3a4071": {
-    "id": "85ba3c3a4071",
-    "title_en": "SVOLT showcases comprehensive energy storage solutions at SNEC 2026",
-    "title_zh": "SVOLT在SNEC 2026上展示了全面的储能解决方案",
-    "url": "https://www.pv-magazine.com/2026/06/08/svolt-showcases-comprehensive-energy-storage-solutions-at-snec-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T09:00:00+00:00"
-  },
-  "c10f8ecb3885": {
-    "id": "c10f8ecb3885",
-    "title_en": "Oman seeks consultants for 300 MW solar project",
-    "title_zh": "阿曼寻求300兆瓦太阳能项目顾问",
-    "url": "https://www.pv-magazine.com/2026/06/08/oman-seeks-consultants-for-300-mw-solar-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T08:59:32+00:00"
-  },
-  "b77138869861": {
-    "id": "b77138869861",
-    "title_en": "China Dominates Global Low-Carbon Investment as U.S. Momentum Slows",
-    "title_zh": "随着美国势头放缓，中国主导全球低碳投资",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Dominates-Global-Low-Carbon-Investment-as-US-Momentum-Slows.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T08:30:00+00:00"
   }
 }
