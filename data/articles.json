@@ -1,4 +1,76 @@
 {
+  "32c0b0e9d02b": {
+    "id": "32c0b0e9d02b",
+    "title_en": "Balcony Solar Bill Moving Forward in California",
+    "title_zh": "加利福尼亚州推进阳台太阳能法案",
+    "url": "https://cleantechnica.com/2026/06/11/balcony-solar-bill-moving-forward-in-california/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T03:43:39+00:00"
+  },
+  "4d5c60a72b0a": {
+    "id": "4d5c60a72b0a",
+    "title_en": "Transgrid completes Australia’s ‘largest’ transmission project in New South Wales",
+    "title_zh": "Transgrid在新南威尔士州完成了澳大利亚“最大”的输电项目",
+    "url": "https://www.pv-tech.org/transgrid-completes-australias-largest-transmission-project-in-new-south-wales/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-12T02:16:51+00:00"
+  },
+  "b991562787d5": {
+    "id": "b991562787d5",
+    "title_en": "RWE officially opens Australia’s first 8-hour battery storage system",
+    "title_zh": "RWE正式启用澳大利亚首个8小时电池储能系统",
+    "url": "https://www.energy-storage.news/rwe-officially-opens-australias-first-8-hour-battery-storage-system/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-12T02:08:34+00:00"
+  },
+  "6a4e7b6b01a7": {
+    "id": "6a4e7b6b01a7",
+    "title_en": "Sembcorp completes US$4.32 billion acquisition of Alinta Energy, adds 10.4GW Australian pipeline",
+    "title_zh": "胜科完成43.2亿美元收购Alinta Energy，增加10.4GW澳大利亚管道",
+    "url": "https://www.energy-storage.news/sembcorp-completes-us4-32-billion-acquisition-of-alinta-energy-adds-10-4gw-australian-pipeline/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-12T02:06:08+00:00"
+  },
+  "5b2fad6e4be9": {
+    "id": "5b2fad6e4be9",
+    "title_en": "Solid-state batteries are now powering EVs in the real world",
+    "title_zh": "固态电池现在为现实世界中的电动汽车供电",
+    "url": "https://electrek.co/2026/06/11/solid-state-batteries-now-powering-evs-in-real-world/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-12T00:38:04+00:00"
+  },
+  "283931894f96": {
+    "id": "283931894f96",
+    "title_en": "0% Tax Rate for Solar Power Sector! … in Bangladesh",
+    "title_zh": "太阳能行业税率为0%！…在孟加拉国",
+    "url": "https://cleantechnica.com/2026/06/11/0-tax-rate-for-solar-power-sector-in-bangladesh/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-12T00:31:17+00:00"
+  },
+  "0bfd2f5358e2": {
+    "id": "0bfd2f5358e2",
+    "title_en": "U.S. To Build Its First Ever Floating LNG Export Terminal",
+    "title_zh": "美国将建造有史以来第一个浮式液化天然气出口码头",
+    "url": "https://oilprice.com/Energy/Natural-Gas/US-To-Build-Its-First-Ever-Floating-LNG-Export-Terminal.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T00:00:00+00:00"
+  },
+  "6d4dc61a7d70": {
+    "id": "6d4dc61a7d70",
+    "title_en": "Rotterdam's Growing Oil Storage Fraud Problem Is Costing Traders Millions",
+    "title_zh": "鹿特丹日益严重的石油储存欺诈问题使贸易商损失数百万美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Rotterdams-Growing-Oil-Storage-Fraud-Problem-Is-Costing-Traders-Millions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-11T23:00:00+00:00"
+  },
   "548149817641": {
     "id": "548149817641",
     "title_en": "Iraq's Energy Sector Faces Its Most Important Test in Decades",
@@ -4426,77 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-05T17:55:15+00:00"
-  },
-  "bc043ed7bceb": {
-    "id": "bc043ed7bceb",
-    "title_en": "SPR Borrowers Owe Uncle Sam 40 Million Extra Barrels",
-    "title_zh": "SPR借款人欠山姆大叔额外4000万桶",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/SPR-Borrowers-Owe-Uncle-Sam-40-Million-Extra-Barrels.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-05T17:30:00+00:00"
-  },
-  "0d088f2a18df": {
-    "id": "0d088f2a18df",
-    "title_en": "NYC’s big, clean power line is officially up and running",
-    "title_zh": "纽约市的大型清洁电力线正式投入运行",
-    "url": "https://www.canarymedia.com/articles/transmission/new-york-clean-power-transmission",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-05T17:15:00+00:00"
-  },
-  "402c2518ddf6": {
-    "id": "402c2518ddf6",
-    "title_en": "Panel Discussion with Hawaii’s Clean Energy Leaders",
-    "title_zh": "与夏威夷清洁能源领导人进行小组讨论",
-    "url": "https://cleantechnica.com/2026/06/05/panel-discussion-with-hawaiis-clean-energy-leaders/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T17:13:31+00:00"
-  },
-  "3c222797cbd7": {
-    "id": "3c222797cbd7",
-    "title_en": "US Drillers Continue to Add Oil Rigs",
-    "title_zh": "美国钻井商继续增加石油钻机",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Drillers-Continue-to-Add-Oil-Rigs.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-05T17:10:00+00:00"
-  },
-  "dfb44424e2cf": {
-    "id": "dfb44424e2cf",
-    "title_en": "Steel’s Future Starts With Demand, Scrap, And Electricity, Not Hydrogen",
-    "title_zh": "钢铁的未来始于需求、废料和电力，而不是氢气",
-    "url": "https://cleantechnica.com/2026/06/05/steels-future-starts-with-demand-scrap-and-electricity-not-hydrogen/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T16:44:14+00:00"
-  },
-  "edb9b91eceb0": {
-    "id": "edb9b91eceb0",
-    "title_en": "Bank of England Official Says Oil Crisis Clouds Rate Outlook",
-    "title_zh": "英国央行官员表示，石油危机影响了利率前景",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Bank-of-England-Official-Says-Oil-Crisis-Clouds-Rate-Outlook.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-05T16:40:00+00:00"
-  },
-  "102a75cb0898": {
-    "id": "102a75cb0898",
-    "title_en": "US Coal Plan Shamelessly Picks Energy Winners & Losers",
-    "title_zh": "美国煤炭计划无耻地挑选能源赢家和输家",
-    "url": "https://cleantechnica.com/2026/06/05/us-coal-plan-shamelessly-picks-energy-winners-losers/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-05T16:05:03+00:00"
-  },
-  "eaae24a14d36": {
-    "id": "eaae24a14d36",
-    "title_en": "S&P Rejects Fast Entry for SpaceX, Delaying $14B in Passive Inflows",
-    "title_zh": "标普拒绝SpaceX快速进入，推迟了140亿美元的被动流入",
-    "url": "https://oilprice.com/Finance/the-Markets/SP-Rejects-Fast-Entry-for-SpaceX-Delaying-14B-in-Passive-Inflows.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-05T16:00:00+00:00"
   }
 }
