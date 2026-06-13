@@ -1,4 +1,31 @@
 {
+  "4fa2bce75164": {
+    "id": "4fa2bce75164",
+    "title_en": "Super-sized slot cars: these HD electric machines NEVER need plugged in",
+    "title_zh": "超大老虎机：这些高清电机永远不需要插电",
+    "url": "https://electrek.co/2026/06/13/super-sized-slot-cars-these-hd-electric-machines-never-need-plugged-in/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-13T13:48:56+00:00"
+  },
+  "3bba9cccffc9": {
+    "id": "3bba9cccffc9",
+    "title_en": "Dig it: mine goes 155 consecutive hours on 100% renewable energy",
+    "title_zh": "挖掘它：我的矿连续155小时使用100%可再生能源",
+    "url": "https://electrek.co/2026/06/13/dig-it-mine-goes-155-consecutive-hours-on-100-renewable-energy/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-13T12:38:59+00:00"
+  },
+  "deba187c8981": {
+    "id": "deba187c8981",
+    "title_en": "This electric car company just produced its one millionth electric motorcycle",
+    "title_zh": "这家电动汽车公司刚刚生产了第一百万辆电动摩托车",
+    "url": "https://electrek.co/2026/06/13/this-electric-car-company-just-produced-its-one-millionth-electric-motorcycle/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-13T10:50:56+00:00"
+  },
   "b654e57bc16b": {
     "id": "b654e57bc16b",
     "title_en": "Most Efficient Solar Module in the World — New Record",
@@ -4471,32 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-08T12:58:29+00:00"
-  },
-  "c81555b0f0dc": {
-    "id": "c81555b0f0dc",
-    "title_en": "Toyo to site 1.5-GW solar cell plant near Houston panel factory",
-    "title_zh": "东洋将在休斯顿电池板厂附近建设1.5GW太阳能电池厂",
-    "url": "https://www.solarpowerworldonline.com/2026/06/toyo-to-site-1-5-gw-solar-cell-plant-near-houston-panel-factory/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T12:56:50+00:00"
-  },
-  "3b06bfc5dd7f": {
-    "id": "3b06bfc5dd7f",
-    "title_en": "From Powering Machines to Powering Intelligence—The New Age of Electricity",
-    "title_zh": "从为机器供电到为智能供电——电力的新时代",
-    "url": "https://www.powermag.com/from-powering-machines-to-powering-intelligence-the-new-age-of-electricity/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-08T12:54:23+00:00"
-  },
-  "39922e4d69ca": {
-    "id": "39922e4d69ca",
-    "title_en": "Grid collapse in Indonesia poses threat to renewables expansion",
-    "title_zh": "印尼电网崩溃对可再生能源扩张构成威胁",
-    "url": "https://www.pv-magazine.com/2026/06/08/grid-collapse-in-indonesia-poses-threat-to-renewables-expansion/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T12:50:44+00:00"
   }
 }
