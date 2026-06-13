@@ -1,4 +1,49 @@
 {
+  "5538a05c1152": {
+    "id": "5538a05c1152",
+    "title_en": "The Promise and Peril of Jamaica’s Offshore Oil Ambitions",
+    "title_zh": "牙买加海洋石油野心的希望和危险",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Promise-and-Peril-of-Jamaicas-Offshore-Oil-Ambitions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-13T19:00:00+00:00"
+  },
+  "fcef6ff41dc6": {
+    "id": "fcef6ff41dc6",
+    "title_en": "Tesla’s Level 2++ Supervised Full Self-Driving Approved In Belgium",
+    "title_zh": "特斯拉的2级++监督全自动驾驶在比利时获得批准",
+    "url": "https://cleantechnica.com/2026/06/13/teslas-level-2-supervised-full-self-driving-approved-in-belgium/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T18:16:01+00:00"
+  },
+  "5400e0f2d524": {
+    "id": "5400e0f2d524",
+    "title_en": "UK Sets January 2027 Deadline for Ban on Fuel Made From Russian Crude",
+    "title_zh": "英国将2027年1月定为禁止俄罗斯原油燃料的最后期限",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Sets-January-2027-Deadline-for-Ban-on-Fuel-Made-From-Russian-Crude.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-13T17:30:00+00:00"
+  },
+  "a625f9e23673": {
+    "id": "a625f9e23673",
+    "title_en": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
+    "title_zh": "俄罗斯、中国和伊朗联手对抗西方压力",
+    "url": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-13T17:00:00+00:00"
+  },
+  "1391d786a7a1": {
+    "id": "1391d786a7a1",
+    "title_en": "The Big ICE Meltdown — May’s China EV Sales Report",
+    "title_zh": "ICE大崩盘——5月份中国电动汽车销售报告",
+    "url": "https://cleantechnica.com/2026/06/13/the-big-ice-meltdown-mays-china-ev-sales-report/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T16:43:58+00:00"
+  },
   "78182d2f35d6": {
     "id": "78182d2f35d6",
     "title_en": "Rising Energy Bills Are Fueling a Global Home Battery Boom",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-08T14:09:15+00:00"
-  },
-  "4d792a4a6f9c": {
-    "id": "4d792a4a6f9c",
-    "title_en": "U.S. Gasoline Inventories Are Falling at a Record Pace",
-    "title_zh": "美国汽油库存正以创纪录的速度下降",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Gasoline-Inventories-Are-Falling-at-a-Record-Pace.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T14:00:00+00:00"
-  },
-  "31f89e23acbc": {
-    "id": "31f89e23acbc",
-    "title_en": "Why Is The Tesla Model Y Selling So Much Better Than The New Leaf & Bolt?",
-    "title_zh": "为什么特斯拉Model Y的销量比新款Leaf&Bolt好得多？",
-    "url": "https://cleantechnica.com/2026/06/08/why-is-the-tesla-model-y-selling-so-much-better-than-the-new-leaf-bolt/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-08T13:48:37+00:00"
-  },
-  "934706137a79": {
-    "id": "934706137a79",
-    "title_en": "Crown Estate to auction offshore wind site dropped after UK auction failure",
-    "title_zh": "英国拍卖失败后，皇冠地产拍卖海上风电场的价格下跌",
-    "url": "https://www.windpowermonthly.com/article/1960829/crown-estate-auction-offshore-wind-site-dropped-uk-auction-failure",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-08T13:43:35+00:00"
-  },
-  "f9670e54b641": {
-    "id": "f9670e54b641",
-    "title_en": "FERC approves SPP non-firm, large load transmission service",
-    "title_zh": "联邦能源管理委员会批准SPP非固定大负荷输电服务",
-    "url": "https://www.utilitydive.com/news/ferc-spp-chills-large-load-transmission-service/822211/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-08T13:43:29+00:00"
-  },
-  "d818aed3c633": {
-    "id": "d818aed3c633",
-    "title_en": "Eurozone Fuel Sales Fall 3.5% as Iran War Sends Prices Surging",
-    "title_zh": "伊朗战争导致价格飙升，欧元区燃料销售额下降3.5%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Eurozone-Fuel-Sales-Fall-35-as-Iran-War-Sends-Prices-Surging.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T13:30:00+00:00"
   }
 }
