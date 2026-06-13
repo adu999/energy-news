@@ -1,4 +1,31 @@
 {
+  "78182d2f35d6": {
+    "id": "78182d2f35d6",
+    "title_en": "Rising Energy Bills Are Fueling a Global Home Battery Boom",
+    "title_zh": "不断上涨的能源账单正在推动全球家用电池热潮",
+    "url": "https://oilprice.com/Energy/Energy-General/Rising-Energy-Bills-Are-Fueling-a-Global-Home-Battery-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-13T15:00:00+00:00"
+  },
+  "5f17f5e8b243": {
+    "id": "5f17f5e8b243",
+    "title_en": "Electric rally car revival continues with new, 280 hp Peugeot E-208 GTi",
+    "title_zh": "电动拉力赛车复兴继续与新的280马力标致E-208 GTi",
+    "url": "https://electrek.co/2026/06/13/electric-rally-car-revival-continues-with-new-280-hp-peugeot-e-208-gti/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-13T14:56:36+00:00"
+  },
+  "0643716e091c": {
+    "id": "0643716e091c",
+    "title_en": "Aviation Fuel Demand Doesn’t Collapse. Cheap Kerosene Growth Does.",
+    "title_zh": "航空燃料需求不会崩溃。廉价的煤油增长确实如此。",
+    "url": "https://cleantechnica.com/2026/06/13/aviation-fuel-demand-doesnt-collapse-cheap-kerosene-growth-does/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T14:33:27+00:00"
+  },
   "4fa2bce75164": {
     "id": "4fa2bce75164",
     "title_en": "Super-sized slot cars: these HD electric machines NEVER need plugged in",
@@ -745,6 +772,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-12T07:57:32+00:00"
+  },
+  "dd5a830ac8c4": {
+    "id": "dd5a830ac8c4",
+    "title_en": "Cypress Creek secures $3.5bn for Steel River Energy project",
+    "title_zh": "Cypress Creek获得35亿美元用于Steel River Energy项目",
+    "url": "https://www.energymonitor.ai/news/cypress-creek-3-5bn-steel-river/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-12T07:46:00+00:00"
   },
   "827cd660793e": {
     "id": "827cd660793e",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-08T13:30:00+00:00"
-  },
-  "5d885d9231ab": {
-    "id": "5d885d9231ab",
-    "title_en": "SolaREIT donates land to build southern California fire station",
-    "title_zh": "SolaREIT捐赠土地建造南加州消防站",
-    "url": "https://www.solarpowerworldonline.com/2026/06/solareit-donates-land-to-build-southern-california-fire-station/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T13:17:10+00:00"
-  },
-  "2ed45e5787e6": {
-    "id": "2ed45e5787e6",
-    "title_en": "Behind-the-meter data center gas plants will raise US energy bills",
-    "title_zh": "表后数据中心天然气厂将提高美国的能源账单",
-    "url": "https://www.utilitydive.com/news/data-centers-raise-energy-bills-not-for-reason-you-think/822205/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-08T13:13:20+00:00"
-  },
-  "ab9580198bf1": {
-    "id": "ab9580198bf1",
-    "title_en": "Key takeaways from SNEC 2026 in Shanghai",
-    "title_zh": "上海SNEC 2026的主要收获",
-    "url": "https://www.pv-magazine.com/2026/06/08/key-takeaways-from-snec-2026-in-shanghai/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T12:59:00+00:00"
-  },
-  "d49412d2fec2": {
-    "id": "d49412d2fec2",
-    "title_en": "Crown Estate to Re-Tender 1.5 GW Offshore Wind Site Relinquished by EnBW and JERA Nex BP",
-    "title_zh": "皇冠地产将重新招标EnBW和JERA Nex BP放弃的1.5吉瓦海上风电场",
-    "url": "https://www.offshorewind.biz/2026/06/08/crown-estate-to-re-tender-1-5-gw-offshore-wind-site-relinquished-by-enbw-and-jera-nex-bp/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-08T12:58:29+00:00"
   }
 }
