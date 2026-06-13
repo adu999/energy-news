@@ -1,4 +1,58 @@
 {
+  "f5cd22d3ce68": {
+    "id": "f5cd22d3ce68",
+    "title_en": "Yup, US Solar Growth Hurting from Solar Permitting Delays",
+    "title_zh": "是的，美国太阳能增长因太阳能许可延迟而受损",
+    "url": "https://cleantechnica.com/2026/06/12/yup-us-solar-growth-hurting-from-solar-permitting-delays/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T03:34:32+00:00"
+  },
+  "7834f2bf7175": {
+    "id": "7834f2bf7175",
+    "title_en": "Hyundai Go Green Hackathon Showcases Best of Youth-Led Innovative Solutions on Community Heat Resilience & Smart Mobility",
+    "title_zh": "现代Go Green黑客马拉松展示了青年主导的社区热弹性和智能移动创新解决方案",
+    "url": "https://cleantechnica.com/2026/06/12/hyundai-go-green-hackathon-showcases-best-of-youth-led-innovative-solutions-on-community-heat-resilience-smart-mobility/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T02:01:34+00:00"
+  },
+  "5759e36397ee": {
+    "id": "5759e36397ee",
+    "title_en": "Sierra Club Welcomes NYC Pension Search for Asset Managers, Urges Strong Climate Accountability",
+    "title_zh": "塞拉俱乐部欢迎纽约市养老金寻找资产管理人，敦促加强气候问责制",
+    "url": "https://cleantechnica.com/2026/06/12/sierra-club-welcomes-nyc-pension-search-for-asset-managers-urges-strong-climate-accountability/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T01:40:44+00:00"
+  },
+  "e44911bf6bee": {
+    "id": "e44911bf6bee",
+    "title_en": "Hawaii University Nearly 100% Solar Powered",
+    "title_zh": "夏威夷大学近100%太阳能供电",
+    "url": "https://cleantechnica.com/2026/06/12/hawaii-university-nearly-100-solar-powered/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T00:52:25+00:00"
+  },
+  "7254c11d4175": {
+    "id": "7254c11d4175",
+    "title_en": "Ocean Cleanup Targets Plastic Trash In Southern California",
+    "title_zh": "海洋清理行动针对南加州的塑料垃圾",
+    "url": "https://cleantechnica.com/2026/06/12/ocean-cleanup-targets-plastic-trash-in-southern-california/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T00:20:55+00:00"
+  },
+  "9d1f9511facc": {
+    "id": "9d1f9511facc",
+    "title_en": "The Oil Market Could Be Weeks From a Breaking Point",
+    "title_zh": "石油市场可能距离突破点还有几周时间",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-12T23:00:00+00:00"
+  },
   "56b4afd06d4b": {
     "id": "56b4afd06d4b",
     "title_en": "Shell could walk away from offshore wind in $1 billion+ sell-off",
@@ -4444,59 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-08T12:17:38+00:00"
-  },
-  "396820422713": {
-    "id": "396820422713",
-    "title_en": "Using a bird’s structural-color trick to color solar modules",
-    "title_zh": "用鸟的结构色彩技巧给太阳能电池组件上色",
-    "url": "https://www.pv-magazine.com/2026/06/08/using-a-birds-structural-color-trick-to-color-solar-modules/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T12:07:54+00:00"
-  },
-  "b09cb9706744": {
-    "id": "b09cb9706744",
-    "title_en": "What homeowners should do after Freedom Forever filed for bankruptcy",
-    "title_zh": "Freedom Forever申请破产后，房主应该做什么",
-    "url": "https://www.solarpowerworldonline.com/2026/06/what-homeowners-should-do-after-freedom-forever-filed-for-bankruptcy/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T12:00:55+00:00"
-  },
-  "4384e432b3bb": {
-    "id": "4384e432b3bb",
-    "title_en": "Astronergy launches 825 W TOPCon solar module",
-    "title_zh": "正泰能源推出825 W TOPCon太阳能模块",
-    "url": "https://www.pv-magazine.com/2026/06/08/astronergy-launches-825-w-topcon-solar-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T11:59:57+00:00"
-  },
-  "132d60ddab55": {
-    "id": "132d60ddab55",
-    "title_en": "Suniva to merge with popular NY solar installer SUNation",
-    "title_zh": "Suniva将与纽约知名太阳能安装商SUNation合并",
-    "url": "https://www.solarpowerworldonline.com/2026/06/suniva-to-merge-with-popular-ny-solar-installer-sunation/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T11:58:04+00:00"
-  },
-  "0c46439bd8c2": {
-    "id": "0c46439bd8c2",
-    "title_en": "Africa’s solar power pools show rising synchronization risk under climate change",
-    "title_zh": "非洲的太阳能池在气候变化下显示出同步风险上升",
-    "url": "https://www.pv-magazine.com/2026/06/08/africas-solar-power-pools-show-rising-synchronization-risk-under-climate-change/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T11:53:10+00:00"
-  },
-  "3b903ef90078": {
-    "id": "3b903ef90078",
-    "title_en": "Oman issues Marsa solar IPP consultancy tender",
-    "title_zh": "阿曼发布Marsa太阳能独立发电商咨询招标",
-    "url": "https://www.energymonitor.ai/news/oman-issues-marsa-solar-ipp-consultancy-tender/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-08T11:49:13+00:00"
   }
 }
