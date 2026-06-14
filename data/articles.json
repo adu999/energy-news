@@ -1,4 +1,67 @@
 {
+  "dbc181001467": {
+    "id": "dbc181001467",
+    "title_en": "Scania scores 105 unit electric semi truck deal [video]",
+    "title_zh": "斯堪尼亚达成105辆电动半卡车交易[视频]",
+    "url": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-14T19:25:08+00:00"
+  },
+  "69d2864f3445": {
+    "id": "69d2864f3445",
+    "title_en": "Elon Musk’s Missed Full Self-Driving Targets Are Even Wilder Than I Remembered",
+    "title_zh": "埃隆·马斯克错过的全自动驾驶目标甚至比我记忆中的还要狂野",
+    "url": "https://cleantechnica.com/2026/06/14/elon-musks-missed-full-self-driving-targets-are-even-wilder-than-i-remembered/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-14T19:02:47+00:00"
+  },
+  "3e4ef5b1a903": {
+    "id": "3e4ef5b1a903",
+    "title_en": "Alaska’s Untapped Oil Wealth Is Still Struggling to Find Investors",
+    "title_zh": "阿拉斯加未开发的石油财富仍在努力寻找投资者",
+    "url": "https://oilprice.com/Energy/Energy-General/Alaskas-Untapped-Oil-Wealth-Is-Still-Struggling-to-Find-Investors.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-14T19:00:00+00:00"
+  },
+  "daefe4d21127": {
+    "id": "daefe4d21127",
+    "title_en": "Survey Sunday: do you still believe in Elon Musk?",
+    "title_zh": "周日调查：你还相信埃隆·马斯克吗？",
+    "url": "https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-14T18:30:00+00:00"
+  },
+  "180716f8264f": {
+    "id": "180716f8264f",
+    "title_en": "2100 Transition Scenarios Need A Better Population Denominator",
+    "title_zh": "2100种转型方案需要更好的人口分母",
+    "url": "https://cleantechnica.com/2026/06/14/population-denominator-2100-transition-scenarios/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-14T18:25:46+00:00"
+  },
+  "d060616154d0": {
+    "id": "d060616154d0",
+    "title_en": "Silicon Valley’s AI Dreams Face a Blue-Collar Reality",
+    "title_zh": "硅谷的人工智能梦想面临蓝领现实",
+    "url": "https://oilprice.com/Energy/Energy-General/Silicon-Valleys-AI-Dreams-Face-a-Blue-Collar-Reality.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-14T17:00:00+00:00"
+  },
+  "9a30b9855c5b": {
+    "id": "9a30b9855c5b",
+    "title_en": "$7,000 for Rooftop Solar Permitting!? Time to Automate It",
+    "title_zh": "7000美元用于屋顶太阳能许可！？是时候实现自动化了",
+    "url": "https://cleantechnica.com/2026/06/14/7000-for-rooftop-solar-permitting-time-to-automate-it/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-14T16:29:11+00:00"
+  },
   "67aa1b5df6b5": {
     "id": "67aa1b5df6b5",
     "title_en": "Fiji Blocks Controversial Australian-Backed Waste Incinerator Project",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-08T16:00:00+00:00"
-  },
-  "0858dd12d356": {
-    "id": "0858dd12d356",
-    "title_en": "Five Winters After Uri: Why Winter Readiness Must Go Beyond Weatherization",
-    "title_zh": "乌里之后的五个冬天：为什么冬季准备必须超越风化",
-    "url": "https://www.powermag.com/five-winters-after-uri-why-winter-readiness-must-go-beyond-weatherization/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-08T15:59:48+00:00"
-  },
-  "abffa85b1e25": {
-    "id": "abffa85b1e25",
-    "title_en": "First New York municipality signs up for automated solar permitting",
-    "title_zh": "第一个纽约市政府签署了自动太阳能许可",
-    "url": "https://www.solarpowerworldonline.com/2026/06/first-new-york-municipality-signs-up-for-automated-solar-permitting/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T15:55:58+00:00"
-  },
-  "44e0b3faede9": {
-    "id": "44e0b3faede9",
-    "title_en": "Battery Giant CATL Expects Half Of Its 2030 Sales Will Be For Energy Storage",
-    "title_zh": "电池巨头CATL预计其2030年销售额的一半将用于储能",
-    "url": "https://cleantechnica.com/2026/06/08/battery-giant-catl-expects-half-of-its-2030-sales-will-be-for-energy-storage/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-08T15:47:31+00:00"
-  },
-  "5505555f9617": {
-    "id": "5505555f9617",
-    "title_en": "China's LNG Imports Hit Highest Point Since Iran War Began",
-    "title_zh": "中国液化天然气进口量创伊朗战争爆发以来新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Hit-Highest-Point-Since-Iran-War-Began.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T15:30:00+00:00"
-  },
-  "e6431053e20d": {
-    "id": "e6431053e20d",
-    "title_en": "Building a Storm-Ready Grid: Why Operations Matter as Much as Infrastructure",
-    "title_zh": "构建抗风暴电网：为什么运营与基础设施同样重要",
-    "url": "https://www.powermag.com/building-a-storm-ready-grid-why-operations-matter-as-much-as-infrastructure/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-08T15:08:00+00:00"
-  },
-  "e59820109c0f": {
-    "id": "e59820109c0f",
-    "title_en": "The POWER Interview: Hardening Power Systems to Withstand Natural Disasters",
-    "title_zh": "电力采访：强化电力系统以抵御自然灾害",
-    "url": "https://www.powermag.com/the-power-interview-hardening-power-systems-to-withstand-natural-disasters/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-08T15:06:47+00:00"
-  },
-  "6edcc0123331": {
-    "id": "6edcc0123331",
-    "title_en": "Can stadiums be energy efficient? USGBC map shows that many of them are",
-    "title_zh": "体育场馆能节能吗？USGBC地图显示，其中许多是",
-    "url": "https://www.utilitydive.com/news/can-stadiums-be-energy-efficient-usgbc-interactive-map-shows-they-can-be/822226/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-08T15:00:00+00:00"
   }
 }
