@@ -1,4 +1,31 @@
 {
+  "dfcad4410c02": {
+    "id": "dfcad4410c02",
+    "title_en": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
+    "title_zh": "弗劳恩霍夫希望在车辆上安装太阳能电池——以帮助电网",
+    "url": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-14T03:26:39+00:00"
+  },
+  "58f3d6756014": {
+    "id": "58f3d6756014",
+    "title_en": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
+    "title_zh": "埋在负资产中？这些电动汽车交易可以帮助你摆脱耗油量大的汽车",
+    "url": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-14T00:08:59+00:00"
+  },
+  "5bbbb22edc6a": {
+    "id": "5bbbb22edc6a",
+    "title_en": "Is BYD Making A Better “Ferrari” Than Ferrari?",
+    "title_zh": "比亚迪是否在打造比法拉利更好的“法拉利”？",
+    "url": "https://cleantechnica.com/2026/06/13/is-byd-making-a-better-ferrari-than-ferrari/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-13T23:02:19+00:00"
+  },
   "cc77dca98a5a": {
     "id": "cc77dca98a5a",
     "title_en": "Clean Energy Investments Surge, But That Is Only Part Of The Story",
@@ -4471,32 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-08T14:32:03+00:00"
-  },
-  "fbd7fe1caa04": {
-    "id": "fbd7fe1caa04",
-    "title_en": "Escalating Strike Action at Australian LNG Sites Could Hit Supply",
-    "title_zh": "澳大利亚液化天然气工厂的罢工行动升级可能会影响供应",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Escalating-Strike-Action-at-Australian-LNG-Sites-Could-Hit-Supply.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-08T14:30:00+00:00"
-  },
-  "db14569030a0": {
-    "id": "db14569030a0",
-    "title_en": "US solar installer SUNation, cell producer Suniva merge to create manufacturing and services platform",
-    "title_zh": "美国太阳能安装商SUNation和电池生产商Suniva合并创建制造和服务平台",
-    "url": "https://www.pv-tech.org/us-solar-installer-sunation-cell-producer-suniva-merge-to-create-manufacturing-and-services-platform/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T14:28:27+00:00"
-  },
-  "b93cbf33763b": {
-    "id": "b93cbf33763b",
-    "title_en": "GSI, OMNN break ground on 100MW Saskatchewan solar project in Canada",
-    "title_zh": "GSI和OMNN在加拿大萨斯喀彻温省100MW太阳能项目上破土动工",
-    "url": "https://www.pv-tech.org/gsi-omnn-break-ground-on-100mw-saskatchewan-solar-project-in-canada/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T14:28:07+00:00"
   }
 }
