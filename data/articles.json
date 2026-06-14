@@ -1,4 +1,13 @@
 {
+  "3f55cf798680": {
+    "id": "3f55cf798680",
+    "title_en": "Why pushback is growing against New Jersey’s crazy e-bike law",
+    "title_zh": "为什么反对新泽西州疯狂电动自行车法的呼声越来越高",
+    "url": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-14T06:19:13+00:00"
+  },
   "dfcad4410c02": {
     "id": "dfcad4410c02",
     "title_en": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
@@ -4489,14 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-08T15:00:00+00:00"
-  },
-  "c5f63665c23f": {
-    "id": "c5f63665c23f",
-    "title_en": "TOYO announces 1.5GW US HJT cell line weeks after AD/CVD hits Ethiopia factory",
-    "title_zh": "AD/CVD袭击埃塞俄比亚工厂数周后，东洋宣布推出1.5GW美国HJT细胞系",
-    "url": "https://www.pv-tech.org/toyo-announces-1-5gw-us-hjt-cell-line-weeks-after-ad-cvd-hits-ethiopia-factory/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-08T14:32:03+00:00"
   }
 }
