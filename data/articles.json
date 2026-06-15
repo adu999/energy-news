@@ -1,4 +1,85 @@
 {
+  "4e1d97f6d2b3": {
+    "id": "4e1d97f6d2b3",
+    "title_en": "Global EV sales hit 1.8 million in May as Europe races ahead",
+    "title_zh": "随着欧洲的快速发展，5月份全球电动汽车销量达到180万辆",
+    "url": "https://electrek.co/2026/06/15/global-ev-sales-hit-1-8-million-in-may-as-europe-races-ahead/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-15T23:01:00+00:00"
+  },
+  "2f17287ec771": {
+    "id": "2f17287ec771",
+    "title_en": "An Oil Deal That Ended a War Nobody Won",
+    "title_zh": "结束了一场无人获胜的战争的石油协议",
+    "url": "https://oilprice.com/Energy/Crude-Oil/An-Oil-Deal-That-Ended-a-War-Nobody-Won.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-15T23:00:00+00:00"
+  },
+  "f80413be652d": {
+    "id": "f80413be652d",
+    "title_en": "How Mexico Lost Track Of Its EV Revolution, And Why Only A Small Team Is Keeping Up With It",
+    "title_zh": "墨西哥如何失去了电动汽车革命的轨迹，为什么只有一个小团队跟上它",
+    "url": "https://cleantechnica.com/2026/06/15/how-mexico-lost-track-of-its-ev-revolution-and-why-only-a-small-team-is-keeping-up-with-it/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-15T22:17:30+00:00"
+  },
+  "624db810f5f6": {
+    "id": "624db810f5f6",
+    "title_en": "New Estimates Challenge Assumptions About Lost Gulf Oil Supply",
+    "title_zh": "新的估计挑战了关于海湾石油供应损失的假设",
+    "url": "https://oilprice.com/Energy/Energy-General/New-Estimates-Challenge-Assumptions-About-Lost-Gulf-Oil-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-15T22:00:00+00:00"
+  },
+  "c57e0664f967": {
+    "id": "c57e0664f967",
+    "title_en": "Toyota reveals prices for its first electric pickup",
+    "title_zh": "丰田公布其首款电动皮卡的价格",
+    "url": "https://electrek.co/2026/06/15/toyota-reveals-prices-for-first-electric-pickup/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-15T21:16:18+00:00"
+  },
+  "2200b01caa4a": {
+    "id": "2200b01caa4a",
+    "title_en": "U.S. Average Gasoline Prices Slide Below $4 Per Gallon",
+    "title_zh": "美国平均汽油价格跌至每加仑4美元以下",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Average-Gasoline-Prices-Slide-Below-4-Per-Gallon.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-15T21:00:00+00:00"
+  },
+  "14e463376f10": {
+    "id": "14e463376f10",
+    "title_en": "BYD is taking its luxury electric GT on an over 9,300-mile trip from Europe to Asia",
+    "title_zh": "比亚迪将驾驶其豪华电动GT从欧洲前往亚洲，行程超过9300英里",
+    "url": "https://electrek.co/2026/06/15/byd-taking-luxury-electric-gt-on-over-9300-mile-trip/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-15T20:11:41+00:00"
+  },
+  "c9dd6cea38ac": {
+    "id": "c9dd6cea38ac",
+    "title_en": "Venezuela’s Oil Exports Hit Seven-Year High as Global Buyers Return",
+    "title_zh": "全球买家回归委内瑞拉石油出口创七年新高",
+    "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Exports-Hit-Seven-Year-High-as-Global-Buyers-Return.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-15T20:00:00+00:00"
+  },
+  "e95da59db8d3": {
+    "id": "e95da59db8d3",
+    "title_en": "JP Morgan: Falling Oil Prices A Massive Tailwind For Global Stock Markets",
+    "title_zh": "摩根大通：油价下跌是全球股市的巨大顺风",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/JP-Morgan-Falling-Oil-Prices-A-Massive-Tailwind-For-Global-Stock-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-15T19:30:00+00:00"
+  },
   "cb3bd48628ac": {
     "id": "cb3bd48628ac",
     "title_en": "From Hormuz to Houston: The U.S. Takeover of Global Energy Flows Ramps Up",
@@ -4417,86 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-06-09T13:04:35+00:00"
-  },
-  "5ea3c5a1ac47": {
-    "id": "5ea3c5a1ac47",
-    "title_en": "FirstEnergy asks FERC to require data centers to pay for transmission interconnection costs",
-    "title_zh": "FirstEnergy要求联邦能源管理委员会要求数据中心支付传输互连成本",
-    "url": "https://www.utilitydive.com/news/firstenergy-ferc-data-center-transmission-interconnection/822333/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-09T13:03:33+00:00"
-  },
-  "44d8e89807f6": {
-    "id": "44d8e89807f6",
-    "title_en": "Rivian R2 First Drive: This is everything I need to upgrade my Model Y except…",
-    "title_zh": "Rivian R2 First Drive：这是我升级Model Y所需的一切，除了…",
-    "url": "https://electrek.co/2026/06/09/rivian-r2-first-drive-this-is-everything-i-need-to-upgrade-my-model-y-except/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-09T13:00:41+00:00"
-  },
-  "e285af4e7abd": {
-    "id": "e285af4e7abd",
-    "title_en": "Gazelle launches new 28 MPH e-bikes, bringing Dutch comfort to fast American riders",
-    "title_zh": "Gazelle推出新的28英里/小时电动自行车，为快速的美国骑手带来荷兰式的舒适体验",
-    "url": "https://electrek.co/2026/06/09/gazelle-launches-new-28-mph-e-bikes-bringing-dutch-comfort-to-fast-american-riders/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-09T13:00:00+00:00"
-  },
-  "dfb2816adc12": {
-    "id": "dfb2816adc12",
-    "title_en": "Judge restores 5% safe harbor rule for wind, solar",
-    "title_zh": "法官恢复风能、太阳能5%安全港规则",
-    "url": "https://www.utilitydive.com/news/judge-restores-5-safe-harbor-rule-for-wind-and-solar/822313/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-09T13:00:00+00:00"
-  },
-  "5dfac83228e5": {
-    "id": "5dfac83228e5",
-    "title_en": "California university to hold demonstration on Apellix solar panel cleaning drone",
-    "title_zh": "加州大学将举行Apellix太阳能电池板清洁无人机演示",
-    "url": "https://www.solarpowerworldonline.com/2026/06/california-university-to-hold-demonstration-on-apellix-solar-panel-cleaning-drone/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-09T12:41:59+00:00"
-  },
-  "addcb87c8526": {
-    "id": "addcb87c8526",
-    "title_en": "Technip and Airbus Create Sustainable Aviation Fuel JV",
-    "title_zh": "Technip和空中客车创建可持续航空燃料合资企业",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Technip-and-Airbus-Create-Sustainable-Aviation-Fuel-JV.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-09T12:30:00+00:00"
-  },
-  "617b988a83eb": {
-    "id": "617b988a83eb",
-    "title_en": "Huawei unveils grid-forming PCS",
-    "title_zh": "华为推出并网PCS",
-    "url": "https://www.pv-magazine.com/2026/06/09/huawei-unveils-grid-forming-pcs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-09T12:19:33+00:00"
-  },
-  "a42e99a743cb": {
-    "id": "a42e99a743cb",
-    "title_en": "Texas Scores A $357 Million Solar Factory As The War On Solar Flops",
-    "title_zh": "德克萨斯州斥资3.57亿美元建造太阳能工厂，导致太阳能战争失败",
-    "url": "https://cleantechnica.com/2026/06/09/solar-cells-new-factory-texas-us-hjt-toyo/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-09T12:14:26+00:00"
-  },
-  "5b82172aaea8": {
-    "id": "5b82172aaea8",
-    "title_en": "Energy storage ‘needs to last longer as heatwaves and data centres strain infrastructure’",
-    "title_zh": "随着热浪和数据中心对基础设施造成压力，储能“需要持续更长时间”",
-    "url": "https://www.energy-storage.news/energy-storage-needs-to-last-longer-as-heatwaves-and-data-centres-strain-infrastructure/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-09T12:10:53+00:00"
   }
 }
