@@ -1,4 +1,103 @@
 {
+  "04947036b76d": {
+    "id": "04947036b76d",
+    "title_en": "New Zealand’s largest rooftop solar installation comes online",
+    "title_zh": "新西兰最大的屋顶太阳能装置上线",
+    "url": "https://www.pv-magazine.com/2026/06/16/sunergise-flicks-switch-on-nzs-largest-rooftop-solar-installation/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-16T04:17:59+00:00"
+  },
+  "82a45fb1ae87": {
+    "id": "82a45fb1ae87",
+    "title_en": "BMW Reaches 2 Million Electric Vehicles, Focusing More & More On Smart Home Technology",
+    "title_zh": "宝马电动汽车销量达到200万辆，越来越关注智能家居技术",
+    "url": "https://cleantechnica.com/2026/06/15/bmw-reaches-2-million-electric-vehicles-focusing-more-more-on-smart-home-technology/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-16T03:54:00+00:00"
+  },
+  "1fc14fd6234c": {
+    "id": "1fc14fd6234c",
+    "title_en": "5GW Bogunda wind project in Australia reconfigured as 1.85GW hybrid with 500MW solar and 2GWh of battery capacity",
+    "title_zh": "澳大利亚的5GW Bogunda风电项目重新配置为1.85GW混合动力，配备500MW太阳能和2GWh电池容量",
+    "url": "https://www.pv-tech.org/5gw-bogunda-wind-project-in-australia-reconfigured-as-1-85gw-hybrid-with-500mw-solar-and-2gwh-of-battery-capacity/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-16T03:10:14+00:00"
+  },
+  "8997abf913f5": {
+    "id": "8997abf913f5",
+    "title_en": "‘Everyone’s too enamoured with low price to the detriment of what they’re going to get for that’",
+    "title_zh": "“每个人都太喜欢低价了，这不利于他们能得到什么”",
+    "url": "https://www.pv-tech.org/everyones-too-enamoured-with-low-price-to-the-detriment-of-what-theyre-going-to-get-for-that/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-16T03:08:32+00:00"
+  },
+  "ead7849bfefd": {
+    "id": "ead7849bfefd",
+    "title_en": "BloombergNEF’s Electric Vehicle Outlook 2026: Global EV Sales Set For Another Record-Breaking Year, But Growth in Some Major Markets Slows",
+    "title_zh": "BloombergNEF《2026年电动汽车展望》：全球电动汽车销量将再创新高，但一些主要市场的增长放缓",
+    "url": "https://about.bnef.com/insights/clean-transport/bloombergnefs-electric-vehicle-outlook-2026-global-ev-sales-set-for-another-record-breaking-year-but-growth-in-some-major-markets-slows/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-06-16T03:01:15+00:00"
+  },
+  "601061af45fe": {
+    "id": "601061af45fe",
+    "title_en": "Western Power begins work on 18 new community batteries in Western Australia",
+    "title_zh": "Western Power开始在西澳大利亚州开发18个新的社区电池",
+    "url": "https://www.energy-storage.news/western-power-begins-work-on-18-new-community-batteries-in-western-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-16T01:32:53+00:00"
+  },
+  "e20430452fa6": {
+    "id": "e20430452fa6",
+    "title_en": "Australia’s Energy Security Corporation’s debut investment backs 650MW Ausgrid battery storage platform",
+    "title_zh": "澳大利亚能源安全公司首次投资支持650MW Ausgrid电池储能平台",
+    "url": "https://www.energy-storage.news/australias-energy-security-corporations-debut-investment-backs-650mw-ausgrid-battery-storage-platform/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-16T01:22:14+00:00"
+  },
+  "21413a591b3d": {
+    "id": "21413a591b3d",
+    "title_en": "South Carolina PSC Finalizes Canadys Gas Plant Approval",
+    "title_zh": "南卡罗来纳州PSC最终批准Canadys天然气厂",
+    "url": "https://cleantechnica.com/2026/06/15/south-carolina-psc-finalizes-canadys-gas-plant-approval/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-16T00:11:25+00:00"
+  },
+  "064a953ccdc1": {
+    "id": "064a953ccdc1",
+    "title_en": "AI Wars: Why Microsoft, Google and Amazon Are All Fighting Over Power",
+    "title_zh": "AI战争：为什么微软、谷歌和亚马逊都在争夺权力",
+    "url": "https://oilprice.com/Energy/Energy-General/AI-Wars-Why-Microsoft-Google-and-Amazon-Are-All-Fighting-Over-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-16T00:00:00+00:00"
+  },
+  "3335ca28896d": {
+    "id": "3335ca28896d",
+    "title_en": "Spain Could Have Nearly 7 Gigawatts of Offshore Solar Power",
+    "title_zh": "西班牙可能拥有近7吉瓦的海上太阳能",
+    "url": "https://cleantechnica.com/2026/06/15/spain-could-have-nearly-7-gigawatts-of-offshore-solar-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-15T23:56:19+00:00"
+  },
+  "e62b88b57be0": {
+    "id": "e62b88b57be0",
+    "title_en": "Donald Trump Retreats from Lawsuit Challenging Illegal Wind Ban",
+    "title_zh": "唐纳德·特朗普退出挑战非法风能禁令的诉讼",
+    "url": "https://cleantechnica.com/2026/06/15/donald-trump-retreats-from-lawsuit-challenging-illegal-wind-ban/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-15T23:50:11+00:00"
+  },
   "4e1d97f6d2b3": {
     "id": "4e1d97f6d2b3",
     "title_en": "Global EV sales hit 1.8 million in May as Europe races ahead",
@@ -4399,104 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-09T14:06:52+00:00"
-  },
-  "851242cf286f": {
-    "id": "851242cf286f",
-    "title_en": "How load flexibility buys time for America’s data center boom",
-    "title_zh": "负载灵活性如何为美国的数据中心繁荣争取时间",
-    "url": "https://www.utilitydive.com/news/how-load-flexibility-buys-time-data-center-boom-icf/822355/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-09T14:04:57+00:00"
-  },
-  "9f8fb02e5414": {
-    "id": "9f8fb02e5414",
-    "title_en": "Why Iran Attacked Israel and Then Backed Off",
-    "title_zh": "伊朗为什么攻击以色列然后又退缩",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Iran-Attacked-Israel-and-Then-Backed-Off.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-09T14:00:00+00:00"
-  },
-  "5cabc99b8ed5": {
-    "id": "5cabc99b8ed5",
-    "title_en": "Meeting America’s energy challenge: PV module supply, quality and reliability in focus at PV ModuleTech USA 2026",
-    "title_zh": "应对美国能源挑战：光伏组件供应、质量和可靠性是美国光伏组件技术2026的重点",
-    "url": "https://www.pv-tech.org/meeting-americas-energy-challenge-pv-module-supply-quality-and-reliability-in-focus-at-pv-moduletech-usa-2026/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-09T13:51:14+00:00"
-  },
-  "175ea37e3fff": {
-    "id": "175ea37e3fff",
-    "title_en": "Waymo buys Apple’s abandoned self-driving car proving ground for $220M",
-    "title_zh": "Waymo以2.2亿美元收购苹果废弃的自动驾驶汽车试验场",
-    "url": "https://electrek.co/2026/06/09/waymo-buys-apple-project-titan-proving-ground-220-million/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-09T13:51:01+00:00"
-  },
-  "6180a766f8e6": {
-    "id": "6180a766f8e6",
-    "title_en": "Harley’s LiveWire reveals surprisingly low pricing on new S4 electric motorcycles",
-    "title_zh": "哈雷的LiveWire揭示了新款S4电动摩托车的惊人低价",
-    "url": "https://electrek.co/2026/06/09/harleys-livewire-reveals-surprisingly-low-pricing-on-new-s4-electric-motorcycles/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-09T13:36:00+00:00"
-  },
-  "eb7677bd8d1e": {
-    "id": "eb7677bd8d1e",
-    "title_en": "COSCO Installs 2 GW Offshore Converter Platform for China’s New Wind Farm",
-    "title_zh": "中远为中国新风电场安装2吉瓦海上变流器平台",
-    "url": "https://www.offshorewind.biz/2026/06/09/cosco-installs-2-gw-offshore-converter-platform-for-chinas-new-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-09T13:32:20+00:00"
-  },
-  "f30e4c3a3f34": {
-    "id": "f30e4c3a3f34",
-    "title_en": "India Eyes Russian Steelmaking Coal Assets",
-    "title_zh": "印度关注俄罗斯炼钢煤炭资产",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-Russian-Steelmaking-Coal-Assets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-09T13:30:00+00:00"
-  },
-  "ec56ba374a7f": {
-    "id": "ec56ba374a7f",
-    "title_en": "German BESS market has moved beyond peak hype",
-    "title_zh": "德国BESS市场已经超越了炒作的顶峰",
-    "url": "https://www.energy-storage.news/german-bess-market-moved-beyond-peak-tsunami-hype/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-09T13:22:18+00:00"
-  },
-  "ab37ed03a363": {
-    "id": "ab37ed03a363",
-    "title_en": "EDP Renewables commissions 200-MW standalone Arizona energy storage project",
-    "title_zh": "EDP可再生能源公司委托亚利桑那州200兆瓦独立储能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/06/edp-renewables-commissions-200-mw-standalone-arizona-energy-storage-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-09T13:20:32+00:00"
-  },
-  "f4a4a9dc46d6": {
-    "id": "f4a4a9dc46d6",
-    "title_en": "Lucid (LCID) finally adds hands-free driving to the Gravity SUV",
-    "title_zh": "Lucid（LCID）终于为Gravity SUV增加了免提驾驶功能",
-    "url": "https://electrek.co/2026/06/09/lucid-lcid-gravity-hands-free-driving-ota-update/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-09T13:12:53+00:00"
-  },
-  "cbff5b67e217": {
-    "id": "cbff5b67e217",
-    "title_en": "Meta continues solar PPA signing spree with Zelestra",
-    "title_zh": "Meta继续与Zelestra签署太阳能PPA",
-    "url": "https://www.solarpowerworldonline.com/2026/06/meta-continues-solar-ppa-signing-spree-with-zelestra/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-09T13:04:35+00:00"
   }
 }
