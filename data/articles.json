@@ -1,4 +1,40 @@
 {
+  "1215dad0aeb8": {
+    "id": "1215dad0aeb8",
+    "title_en": "Taiwan’s Energy Crisis Shows the Cost of Import Dependence",
+    "title_zh": "台湾能源危机显示进口依赖成本",
+    "url": "https://oilprice.com/Energy/Energy-General/Taiwans-Energy-Crisis-Shows-the-Cost-of-Import-Dependence.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-16T22:00:00+00:00"
+  },
+  "b64461f44f0b": {
+    "id": "b64461f44f0b",
+    "title_en": "The Genesis GV90 looks huge charging next to the Kia EV9",
+    "title_zh": "Genesis GV90在起亚EV9旁边看起来充电量很大",
+    "url": "https://electrek.co/2026/06/16/genesis-gv90-looks-huge-next-to-kia-ev9-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-16T21:11:57+00:00"
+  },
+  "977ccf76cc1d": {
+    "id": "977ccf76cc1d",
+    "title_en": "US Crude Oil Inventories Down Again, Losing 52 Million Barrels in 9 Weeks",
+    "title_zh": "美国原油库存再次下降，9周内损失5200万桶",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Down-Again-Losing-52-Million-Barrels-in-9-Weeks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-16T21:02:01+00:00"
+  },
+  "263e78bf0882": {
+    "id": "263e78bf0882",
+    "title_en": "Egypt Clears $6 Billion in Energy Debt and Opens Door to a New Gas Boom",
+    "title_zh": "埃及清理了60亿美元的能源债务，为新的天然气繁荣打开了大门",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Egypt-Clears-6-Billion-in-Energy-Debt-and-Opens-Door-to-a-New-Gas-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-16T21:00:00+00:00"
+  },
   "2a5d8694e40e": {
     "id": "2a5d8694e40e",
     "title_en": "BYD Taking Responsibility Increases God’s Eye Use & Makes Vehicles Safer",
@@ -16,6 +52,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-16T20:15:11+00:00"
+  },
+  "cbf6afee72c3": {
+    "id": "cbf6afee72c3",
+    "title_en": "AI Power Hunger Sparks Push for Energy Efficiency",
+    "title_zh": "人工智能的能源需求引发了对能源效率的推动",
+    "url": "https://oilprice.com/Energy/Energy-General/AI-Power-Hunger-Sparks-Push-for-Energy-Efficiency.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-16T20:00:00+00:00"
   },
   "0e63a354591b": {
     "id": "0e63a354591b",
@@ -4453,50 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-06-10T11:44:04+00:00"
-  },
-  "6352adc51f92": {
-    "id": "6352adc51f92",
-    "title_en": "Foam-based floating PV system for cold climates",
-    "title_zh": "寒冷气候下的泡沫浮式光伏系统",
-    "url": "https://www.pv-magazine.com/2026/06/10/foam-based-floating-pv-system-for-cold-climates/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-10T11:37:06+00:00"
-  },
-  "0177d50383d3": {
-    "id": "0177d50383d3",
-    "title_en": "Kazakhstan Oil Buyers Demand More Supply as Hormuz Closure Tightens Market",
-    "title_zh": "霍尔木兹关闭收紧市场，哈萨克斯坦石油买家需求更多供应",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Oil-Buyers-Demand-More-Supply-as-Hormuz-Closure-Tightens-Market.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-10T11:30:00+00:00"
-  },
-  "03d909e81d8f": {
-    "id": "03d909e81d8f",
-    "title_en": "Brookfield, Mitsubishi launch US$462 million European renewables platform",
-    "title_zh": "三菱布鲁克菲尔德推出4.62亿美元的欧洲可再生能源平台",
-    "url": "https://www.pv-tech.org/brookfield-mitsubishi-launch-us462-million-european-renewables-platform/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-10T10:56:27+00:00"
-  },
-  "51a779d39fe0": {
-    "id": "51a779d39fe0",
-    "title_en": "The solar sunset: why decommissioning is the industry’s next structural reckoning",
-    "title_zh": "太阳日落：为什么退役是该行业的下一个结构性清算",
-    "url": "https://www.pv-tech.org/the-solar-sunset-why-decommissioning-is-the-industrys-next-structural-reckoning/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-10T10:54:09+00:00"
-  },
-  "1dda44d9382d": {
-    "id": "1dda44d9382d",
-    "title_en": "Windanker Turbine Components Arriving at German Port Ahead of Offshore Installation",
-    "title_zh": "Windanker涡轮机组件在海上安装前抵达德国港口",
-    "url": "https://www.offshorewind.biz/2026/06/10/windanker-turbine-components-arriving-at-german-port-ahead-of-offshore-installation/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-10T10:40:26+00:00"
   }
 }
