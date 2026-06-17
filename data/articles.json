@@ -1,4 +1,67 @@
 {
+  "99545d1edcb0": {
+    "id": "99545d1edcb0",
+    "title_en": "Self-Own #837: High Tech Hydropower Transmission Trips Up Trump’s Fossil Fuel Fantasy",
+    "title_zh": "自我拥有#837：高科技水电传输打破了特朗普的化石燃料幻想",
+    "url": "https://cleantechnica.com/2026/06/17/hydropower-transmission-new-york-energy-policy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-17T22:30:36+00:00"
+  },
+  "8beee9791be0": {
+    "id": "8beee9791be0",
+    "title_en": "The Diesel Demand Shock Nobody Is Pricing In",
+    "title_zh": "柴油需求冲击没有人定价",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Diesel-Demand-Shock-Nobody-Is-Pricing-In.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-17T22:00:00+00:00"
+  },
+  "9f09f57200d1": {
+    "id": "9f09f57200d1",
+    "title_en": "Elon Musk gets a $116 billion Tesla payday",
+    "title_zh": "埃隆·马斯克获得1160亿美元的特斯拉发薪日",
+    "url": "https://electrek.co/2026/06/17/musk-exercises-2018-tesla-pay-package-116-billion/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-17T21:51:52+00:00"
+  },
+  "14ac9bc772aa": {
+    "id": "14ac9bc772aa",
+    "title_en": "Electrify America opens its biggest battery-backed charging station",
+    "title_zh": "Electrify America开设了其最大的电池充电站",
+    "url": "https://electrek.co/2026/06/17/electrify-america-biggest-battery-storage-charging-hub/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-17T21:33:19+00:00"
+  },
+  "4ae678c6c8a4": {
+    "id": "4ae678c6c8a4",
+    "title_en": "Clean Energy Investment Hits $2.2 Trillion, Nearly Double Fossil Fuels",
+    "title_zh": "清洁能源投资达到2.2万亿美元，几乎是化石燃料的两倍",
+    "url": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Investment-Hits-22-Trillion-Nearly-Double-Fossil-Fuels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-17T21:00:00+00:00"
+  },
+  "cedaa16c753e": {
+    "id": "cedaa16c753e",
+    "title_en": "Invenergy says Trump’s offshore wind payout will fund a geothermal push",
+    "title_zh": "Invenergy表示，特朗普的海上风电支出将为地热推动提供资金",
+    "url": "https://www.canarymedia.com/articles/offshore-wind/invenergy-offshore-wind-payout-geothermal",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-17T21:00:00+00:00"
+  },
+  "8bac43fb16aa": {
+    "id": "8bac43fb16aa",
+    "title_en": "BMW will open i3 orders this week, months ahead of schedule, as demand takes off",
+    "title_zh": "随着需求的增长，宝马本周将提前几个月开始订购i3",
+    "url": "https://electrek.co/2026/06/17/bmw-i3-orders-open-months-ahead-of-schedule-demand-builds/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-17T20:51:09+00:00"
+  },
   "96b3f6639fc3": {
     "id": "96b3f6639fc3",
     "title_en": "Whatever Happened to the Promise of Cheaper Electricity?",
@@ -4435,68 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-06-11T11:56:04+00:00"
-  },
-  "2450be9deb11": {
-    "id": "2450be9deb11",
-    "title_en": "India Secures Crude Supply Through August with Higher UAE Imports",
-    "title_zh": "印度通过提高阿联酋进口量确保8月原油供应",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Secures-Crude-Supply-Through-August-with-Higher-UAE-Imports.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-11T11:30:00+00:00"
-  },
-  "3872f1b0700f": {
-    "id": "3872f1b0700f",
-    "title_en": "Specialized launches Turbo Levo 4 X, a full-suspension off-road cargo e-bike",
-    "title_zh": "Specialized推出Turbo Levo 4 X，一款全悬架越野货运电动自行车",
-    "url": "https://electrek.co/2026/06/11/specialized-launches-turbo-levo-4-x-a-full-suspension-off-road-cargo-e-bike/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-11T11:13:30+00:00"
-  },
-  "562cf2484a37": {
-    "id": "562cf2484a37",
-    "title_en": "Eskom launches new unit to deliver South Africa’s renewables targets",
-    "title_zh": "Eskom推出新部门以实现南非的可再生能源目标",
-    "url": "https://www.pv-tech.org/eskom-launches-new-unit-to-deliver-south-africas-renewables-targets/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T11:00:16+00:00"
-  },
-  "46e54cdd638b": {
-    "id": "46e54cdd638b",
-    "title_en": "Europe is ‘walking into new dependencies’ in global battery supply chain",
-    "title_zh": "欧洲正在全球电池供应链中“步入新的依赖”",
-    "url": "https://www.energy-storage.news/europe-walking-into-new-dependencies-global-battery-supply-chain/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-11T10:46:29+00:00"
-  },
-  "3a3bf536f4e8": {
-    "id": "3a3bf536f4e8",
-    "title_en": "Four steps to interpreting your turbine lubricant sampling results",
-    "title_zh": "解释涡轮机润滑油取样结果的四个步骤",
-    "url": "https://www.energymonitor.ai/sponsored/four-steps-to-interpreting-your-turbine-lubricant-sampling-results/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-11T10:39:00+00:00"
-  },
-  "efddf564ba4a": {
-    "id": "efddf564ba4a",
-    "title_en": "Residential PV costs fell 7% year over year in Brazil",
-    "title_zh": "巴西住宅光伏成本同比下降7%",
-    "url": "https://www.pv-magazine.com/2026/06/11/el-precio-medio-de-la-energia-solar-en-brasil-retrocede-un-7-en-un-ano/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T10:38:45+00:00"
-  },
-  "e2e9ba20739d": {
-    "id": "e2e9ba20739d",
-    "title_en": "Established manufacturing footprint, new technology: SK On’s US BESS market strategy",
-    "title_zh": "已建立的制造足迹，新技术：SK On的美国BESS市场战略",
-    "url": "https://www.energy-storage.news/established-manufacturing-footprint-new-technology-sk-ons-us-bess-market-strategy/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-11T10:30:27+00:00"
   }
 }
