@@ -1,4 +1,85 @@
 {
+  "44566b426c6f": {
+    "id": "44566b426c6f",
+    "title_en": "Volvo just made public EV charging a lot less annoying",
+    "title_zh": "沃尔沃刚刚让电动汽车充电变得不那么烦人",
+    "url": "https://electrek.co/2026/06/18/volvo-public-ev-charging-ex90-ex60/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-18T22:46:06+00:00"
+  },
+  "41bdeabafa51": {
+    "id": "41bdeabafa51",
+    "title_en": "Tesla HW3 claim grows to 7,000 owners, gets law firm backing for collective action",
+    "title_zh": "特斯拉HW3索赔增至7000名车主，获得律师事务所支持采取集体行动",
+    "url": "https://electrek.co/2026/06/18/tesla-hw3-claim-netherlands-7000-owners-kennedy-van-der-laan/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-18T22:17:38+00:00"
+  },
+  "e3b7fc757a50": {
+    "id": "e3b7fc757a50",
+    "title_en": "First Oil Sands Project in 10 Years Starts Production",
+    "title_zh": "10年来首个油砂项目投产",
+    "url": "https://oilprice.com/Energy/Crude-Oil/First-Oil-Sands-Project-in-10-Years-Starts-Production.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-18T22:00:00+00:00"
+  },
+  "ddd8483d3cb1": {
+    "id": "ddd8483d3cb1",
+    "title_en": "Electricity Bills in Spain €10 Lower Thanks to Renewable Energy",
+    "title_zh": "西班牙的电费因可再生能源而降低10欧元",
+    "url": "https://cleantechnica.com/2026/06/18/electricity-bills-in-spain-e10-lower-thanks-to-renewable-energy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-18T21:53:38+00:00"
+  },
+  "08a96611f03a": {
+    "id": "08a96611f03a",
+    "title_en": "BYD Datang Flagship SUV Launch Impresses",
+    "title_zh": "比亚迪大唐旗舰SUV上市令人印象深刻",
+    "url": "https://cleantechnica.com/2026/06/18/byd-datang-flagship-suv-launch-impresses/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-18T21:48:15+00:00"
+  },
+  "00a5fe155dfe": {
+    "id": "00a5fe155dfe",
+    "title_en": "FERC Orders All Six Regional Grid Operators to Justify or Rewrite Large-Load Tariffs",
+    "title_zh": "联邦能源管理委员会命令所有六家地区电网运营商证明或重新制定大负荷电价",
+    "url": "https://www.powermag.com/ferc-orders-all-six-regional-grid-operators-to-justify-or-rewrite-large-load-tariffs/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-18T21:20:56+00:00"
+  },
+  "eaa53f85ea0f": {
+    "id": "eaa53f85ea0f",
+    "title_en": "Subaru announces 2027 Solterra EV prices remain under $40,000 after a major upgrade",
+    "title_zh": "斯巴鲁宣布2027年Solterra电动汽车价格在重大升级后仍低于40000美元",
+    "url": "https://electrek.co/2026/06/18/subaru-announces-2027-solterra-ev-prices-remain-under-40000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-18T21:00:28+00:00"
+  },
+  "0b1ac6611e01": {
+    "id": "0b1ac6611e01",
+    "title_en": "Court Ruling Deals Major Blow to Trump's War on Wind Power",
+    "title_zh": "法院裁决对特朗普的风电战争造成重大打击",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Court-Ruling-Deals-Major-Blow-to-Trumps-War-on-Wind-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-18T21:00:00+00:00"
+  },
+  "fa204ba4046d": {
+    "id": "fa204ba4046d",
+    "title_en": "Germany Considers Extending Oil Reserve Relief Despite Falling Prices",
+    "title_zh": "尽管油价下跌，德国仍考虑延长石油储备救济",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Considers-Extending-Oil-Reserve-Relief-Despite-Falling-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-18T20:30:00+00:00"
+  },
   "3987d942fd78": {
     "id": "3987d942fd78",
     "title_en": "California solar is crushing natural gas this year",
@@ -4417,86 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-12T11:03:31+00:00"
-  },
-  "f632240ecb71": {
-    "id": "f632240ecb71",
-    "title_en": "Oil Prices Slide as Traders Bet on Diplomacy",
-    "title_zh": "交易员押注外交，油价下跌",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-as-Traders-Bet-on-Diplomacy.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-12T11:00:00+00:00"
-  },
-  "352cf60c8ac6": {
-    "id": "352cf60c8ac6",
-    "title_en": "Armenia's Western Pivot Survives Moscow's Pressure Campaign",
-    "title_zh": "亚美尼亚的西方支点在莫斯科的压力下幸存下来",
-    "url": "https://oilprice.com/Geopolitics/Africa/Armenias-Western-Pivot-Survives-Moscows-Pressure-Campaign.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-12T11:00:00+00:00"
-  },
-  "b7b006776f35": {
-    "id": "b7b006776f35",
-    "title_en": "Oil Market Volatility Masks a Shifting Reality in the Middle East",
-    "title_zh": "石油市场波动掩盖了中东不断变化的现实",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Market-Volatility-Masks-a-Shifting-Reality-in-the-Middle-East.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-12T11:00:00+00:00"
-  },
-  "65a879a2d7c6": {
-    "id": "65a879a2d7c6",
-    "title_en": "Renewables-powered data centers feasible with sevenfold solar and wind overbuild, study finds",
-    "title_zh": "研究发现，可再生能源驱动的数据中心是可行的，但太阳能和风能的过度建设是其七倍",
-    "url": "https://www.pv-magazine.com/2026/06/12/renewables-powered-data-centers-feasible-with-sevenfold-solar-and-wind-overbuild-study-finds/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-12T10:50:19+00:00"
-  },
-  "008cfb210b06": {
-    "id": "008cfb210b06",
-    "title_en": "Renewables groups sue Pentagon to ease US wind permitting freeze",
-    "title_zh": "可再生能源集团起诉五角大楼放宽美国风能许可冻结",
-    "url": "https://www.windpowermonthly.com/article/1961408/renewables-groups-sue-pentagon-ease-us-wind-permitting-freeze",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-12T10:46:56+00:00"
-  },
-  "1750904ae724": {
-    "id": "1750904ae724",
-    "title_en": "Port of Valencia deploying PV on breakwaters",
-    "title_zh": "瓦伦西亚港在防波堤上部署光伏",
-    "url": "https://www.pv-magazine.com/2026/06/12/valenciaport-instala-los-paneles-fotovoltaicos-de-su-fachada-vertical/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-12T10:41:55+00:00"
-  },
-  "c94701d3e301": {
-    "id": "c94701d3e301",
-    "title_en": "India Set to Miss Budget Deficit Target as Oil Shock Strains Public Finances",
-    "title_zh": "印度将错过预算赤字目标，因为石油冲击使公共财政紧张",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Set-to-Miss-Budget-Deficit-Target-as-Oil-Shock-Strains-Public-Finances.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-12T10:30:00+00:00"
-  },
-  "93132be2b5ef": {
-    "id": "93132be2b5ef",
-    "title_en": "Home cooling panel based on PV and waste cooking oil",
-    "title_zh": "基于光伏和废弃食用油的家用冷却板",
-    "url": "https://www.pv-magazine.com/2026/06/12/home-cooling-panel-based-on-pv-and-waste-cooking-oil/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-12T10:25:35+00:00"
-  },
-  "954f2abc9616": {
-    "id": "954f2abc9616",
-    "title_en": "TOPCon and BC penetration unlikely to trigger a major industry reshuffle; full-stack integration is more than modular assembly",
-    "title_zh": "TOPCon和BC的渗透不太可能引发重大的行业重组；全栈集成不仅仅是模块化组装",
-    "url": "https://www.pv-tech.org/topcon-and-bc-penetration-unlikely-to-trigger-a-major-industry-reshuffle-full-stack-integration-is-more-than-modular-assembly/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-12T10:23:46+00:00"
   }
 }
