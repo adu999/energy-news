@@ -1,4 +1,103 @@
 {
+  "f44fbee4fd29": {
+    "id": "f44fbee4fd29",
+    "title_en": "New rules to Europe’s battery game",
+    "title_zh": "欧洲电池游戏的新规则",
+    "url": "https://www.pv-magazine.com/2026/06/18/new-rules-to-europes-battery-game/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-18T04:00:49+00:00"
+  },
+  "8299814b376c": {
+    "id": "8299814b376c",
+    "title_en": "Lightsource bp, Contact Energy reach financial close on 171MWdc Glorit solar PV plant in New Zealand",
+    "title_zh": "Lightsource bp与Contact Energy在新西兰完成171MWdc Glorit太阳能光伏电站的财务结算",
+    "url": "https://www.pv-tech.org/lightsource-bp-contact-energy-reach-financial-close-on-171mwdc-glorit-solar-pv-plant-in-new-zealand/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-18T03:29:55+00:00"
+  },
+  "bd4478f02393": {
+    "id": "bd4478f02393",
+    "title_en": "Australia’s ‘probable’ large-scale renewable energy pipeline surges to 32GW",
+    "title_zh": "澳大利亚“可能”的大规模可再生能源管道激增至32GW",
+    "url": "https://www.pv-tech.org/australias-probable-large-scale-renewable-energy-pipeline-surges-to-32gw/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-18T03:28:08+00:00"
+  },
+  "8794a34ca1e1": {
+    "id": "8794a34ca1e1",
+    "title_en": "Fire and Rescue NSW mandates 240-minute fire resistance for lithium-ion battery storage rooms in data centres",
+    "title_zh": "新南威尔士州消防和救援局要求数据中心的锂离子电池存储室耐火240分钟",
+    "url": "https://www.energy-storage.news/fire-and-rescue-nsw-mandates-240-minute-fire-resistance-for-lithium-ion-battery-storage-rooms-in-data-centres/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-18T03:21:38+00:00"
+  },
+  "12441c06008b": {
+    "id": "12441c06008b",
+    "title_en": "Neoen Australia signs virtual battery deals for 2.3GWh Western Downs Battery",
+    "title_zh": "Neoen Australia签署2.3GWh Western Downs battery的虚拟电池协议",
+    "url": "https://www.energy-storage.news/neoen-australia-signs-virtual-battery-deals-for-540mwh-western-downs-battery/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-18T03:19:58+00:00"
+  },
+  "7ef30b4a6f01": {
+    "id": "7ef30b4a6f01",
+    "title_en": "Trump Pays Off Energy Company in Grudge Match Against Offshore Wind",
+    "title_zh": "特朗普在与海上风电的激烈竞争中为能源公司买单",
+    "url": "https://cleantechnica.com/2026/06/17/trump-pays-off-energy-company-in-grudge-match-against-offshore-wind/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-18T01:45:49+00:00"
+  },
+  "52ce4898b571": {
+    "id": "52ce4898b571",
+    "title_en": "Toyota Rav4 Plug-in Hybrid vs. Tesla Model Y Basic",
+    "title_zh": "丰田Rav4插电式混合动力车与特斯拉Model Y Basic",
+    "url": "https://cleantechnica.com/2026/06/17/toyota-rav4-plug-in-hybrid-vs-tesla-model-y-basic/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-18T00:25:36+00:00"
+  },
+  "0487d97dac2c": {
+    "id": "0487d97dac2c",
+    "title_en": "The Invisible Energy Crisis Threatening to Derail the AI Boom",
+    "title_zh": "无形的能源危机威胁着人工智能的繁荣",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Invisible-Energy-Crisis-Threatening-to-Derail-the-AI-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-18T00:00:00+00:00"
+  },
+  "79d47ba2b770": {
+    "id": "79d47ba2b770",
+    "title_en": "Illinois put community solar on a 150-year-old coal mine",
+    "title_zh": "伊利诺伊州为一座有150年历史的煤矿安装了社区太阳能",
+    "url": "https://electrek.co/2026/06/17/illinois-put-community-solar-on-a-150-year-old-coal-mine/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-17T23:31:59+00:00"
+  },
+  "4e5bda290b12": {
+    "id": "4e5bda290b12",
+    "title_en": "BLUETTI’s $2.2M-crowdfunded FridgePower dedicated fridge backup arrives at retail",
+    "title_zh": "BLUETTI的220万美元众筹冰箱Power专用冰箱备份上市",
+    "url": "https://electrek.co/2026/06/17/bluetti-fridgepower-fridge-outages-retail/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-17T23:00:00+00:00"
+  },
+  "2d0aa3d551cc": {
+    "id": "2d0aa3d551cc",
+    "title_en": "State of Global Oil Inventories Ruins Iran Peace Optimism",
+    "title_zh": "全球石油库存状况破坏了伊朗的和平乐观主义",
+    "url": "https://oilprice.com/Energy/Crude-Oil/State-of-Global-Oil-Inventories-Ruins-Iran-Peace-Optimism.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-17T23:00:00+00:00"
+  },
   "99545d1edcb0": {
     "id": "99545d1edcb0",
     "title_en": "Self-Own #837: High Tech Hydropower Transmission Trips Up Trump’s Fossil Fuel Fantasy",
@@ -4399,104 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-11T13:17:12+00:00"
-  },
-  "722841507e33": {
-    "id": "722841507e33",
-    "title_en": "Global solar demand on track for first annual decline in two decades",
-    "title_zh": "全球太阳能需求将出现二十年来的首次年度下降",
-    "url": "https://www.pv-magazine.com/2026/06/11/solar-slowing-bnef-asks-whats-next-for-the-industry/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T12:55:27+00:00"
-  },
-  "90b4b791bd95": {
-    "id": "90b4b791bd95",
-    "title_en": "Appeals court upholds FERC decision ordering refunds from MISO transmission owners",
-    "title_zh": "上诉法院维持联邦能源管理委员会命令MISO输电线路所有者退款的决定",
-    "url": "https://www.utilitydive.com/news/dc-appeals-court-ferc-roe-refund-miso-transmission/822605/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-11T12:52:22+00:00"
-  },
-  "53015834305b": {
-    "id": "53015834305b",
-    "title_en": "First Turbine Up at RWE’s Nordseecluster Offshore Wind Project",
-    "title_zh": "RWE Nordseecluster海上风电项目的第一台涡轮机",
-    "url": "https://www.offshorewind.biz/2026/06/11/first-turbine-up-at-rwes-nordseecluster-offshore-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-11T12:49:22+00:00"
-  },
-  "e31c362e843f": {
-    "id": "e31c362e843f",
-    "title_en": "Bangladesh introduces 0% tax rate for solar power sector",
-    "title_zh": "孟加拉国对太阳能行业实行0%的税率",
-    "url": "https://www.pv-magazine.com/2026/06/11/bangladesh-introduces-0-tax-rate-for-solar-power-sector/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T12:46:08+00:00"
-  },
-  "cdfa0ebc23e3": {
-    "id": "cdfa0ebc23e3",
-    "title_en": "‘Crystalline silicon is the future, oil is last century’",
-    "title_zh": "“晶体硅是未来，石油是上个世纪”",
-    "url": "https://www.pv-tech.org/crystalline-silicon-is-the-future-oil-is-last-century-says-t1-energy-ceo/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T12:33:06+00:00"
-  },
-  "97407b5fc1f3": {
-    "id": "97407b5fc1f3",
-    "title_en": "Another Gulf Producer Joins Dark-Mode Tanker Traffic Through Hormuz",
-    "title_zh": "另一家海湾生产商通过霍尔木兹加入黑暗模式油轮运输",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Another-Gulf-Producer-Joins-Dark-Mode-Tanker-Traffic-Through-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-11T12:30:00+00:00"
-  },
-  "7c3cebedf99c": {
-    "id": "7c3cebedf99c",
-    "title_en": "Pylontech launches 8 MWh storage system with 426 Wh/L energy density",
-    "title_zh": "Pylontech推出8 MWh储能系统，能量密度为426 Wh/L",
-    "url": "https://www.pv-magazine.com/2026/06/11/pylontech-launches-8-mwh-storage-system-with-426-wh-l-energy-density/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T12:16:43+00:00"
-  },
-  "4ae1072ce003": {
-    "id": "4ae1072ce003",
-    "title_en": "EU launches €25 billion Mediterranean renewables investment scheme",
-    "title_zh": "欧盟启动250亿欧元地中海可再生能源投资计划",
-    "url": "https://www.pv-tech.org/eu-launches-e25-billion-mediterranean-renewables-investment-scheme/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T12:13:27+00:00"
-  },
-  "68aaf04ff8cd": {
-    "id": "68aaf04ff8cd",
-    "title_en": "Brave Tern Detained After Collision with Another WTIV in Port; Several Thor Wind Turbine Blades Damaged",
-    "title_zh": "勇敢的燕鸥在港口与另一艘WTIV相撞后被扣留；Thor风力发电机叶片损坏",
-    "url": "https://www.offshorewind.biz/2026/06/11/brave-tern-detained-after-collision-with-another-wtiv-in-port-several-thor-wind-turbine-blades-damaged/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-11T12:10:44+00:00"
-  },
-  "2d2335bb2142": {
-    "id": "2d2335bb2142",
-    "title_en": "Solar-powered floating shellfish farming tested in French lagoon",
-    "title_zh": "太阳能浮式贝类养殖在法国泻湖进行测试",
-    "url": "https://www.pv-magazine.com/2026/06/11/solar-powered-floating-shellfish-farming-tested-in-french-lagoon/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-11T12:06:06+00:00"
-  },
-  "c79d2bbf8750": {
-    "id": "c79d2bbf8750",
-    "title_en": "Greenvolt inaugurates Hungary’s largest BESS; pipelines progressed and financed elsewhere in EU",
-    "title_zh": "Greenvolt为匈牙利最大的BESS揭幕；管道在欧盟其他地方取得进展并获得融资",
-    "url": "https://www.energy-storage.news/greenvolt-inaugurates-hungarys-largest-bess-pipelines-progressed-and-financed-elsewhere-in-eu/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-11T11:56:04+00:00"
   }
 }
