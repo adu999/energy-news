@@ -1,4 +1,67 @@
 {
+  "492c81f1c908": {
+    "id": "492c81f1c908",
+    "title_en": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
+    "title_zh": "太阳能是历史上最便宜的能源，但各州正在退缩",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Is-the-Cheapest-Power-in-History-But-States-Are-Retreating-From-It.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T22:00:00+00:00"
+  },
+  "44a2b00e8c18": {
+    "id": "44a2b00e8c18",
+    "title_en": "US Rescinds Plan To Dismantle Ocean Observatories Initiative",
+    "title_zh": "美国撤销拆除海洋观测站计划",
+    "url": "https://cleantechnica.com/2026/06/19/us-rescinds-plan-to-dismantle-ocean-observatories-initiative/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-19T21:52:29+00:00"
+  },
+  "b2bd4f986518": {
+    "id": "b2bd4f986518",
+    "title_en": "Elementl Power Developing Ohio SMR Project with GE Vernova Hitachi Nuclear Energy",
+    "title_zh": "Elementl Power与GE Vernova Hitachi核能合作开发俄亥俄SMR项目",
+    "url": "https://www.powermag.com/elementl-power-developing-ohio-smr-project-with-ge-vernova-hitachi-nuclear-energy/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-19T21:33:36+00:00"
+  },
+  "43134bc29dde": {
+    "id": "43134bc29dde",
+    "title_en": "BYD’s luxury SUV received a record 150,000 orders, and now it’s headed overseas",
+    "title_zh": "比亚迪的豪华SUV接到了创纪录的15万份订单，现在正走向海外",
+    "url": "https://electrek.co/2026/06/19/byds-luxury-suv-heads-overseas-after-record-150000-orders/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T21:13:27+00:00"
+  },
+  "66924ff97502": {
+    "id": "66924ff97502",
+    "title_en": "REV Renewables, Community Choice Aggregators Bring Energy Storage Project Online",
+    "title_zh": "REV可再生能源，社区选择聚合器将储能项目上线",
+    "url": "https://www.powermag.com/rev-renewables-community-choice-aggregators-bring-energy-storage-project-online/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-19T21:07:01+00:00"
+  },
+  "a0fb1d889097": {
+    "id": "a0fb1d889097",
+    "title_en": "Soltec Touts PFE-Compliant Certification for Solar Trackers",
+    "title_zh": "Soltec为太阳能跟踪器提供PFE合规认证",
+    "url": "https://www.powermag.com/soltec-touts-pfe-compliant-certification-for-solar-trackers/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-19T20:47:06+00:00"
+  },
+  "0ea99994b4c8": {
+    "id": "0ea99994b4c8",
+    "title_en": "Why Lunar Helium-3 Mining Still Can't Compete With Earth",
+    "title_zh": "为什么月球开采氦-3仍然无法与地球竞争",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Lunar-Helium-3-Mining-Still-Cant-Compete-With-Earth.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T20:00:00+00:00"
+  },
   "e29e8d58fc7a": {
     "id": "e29e8d58fc7a",
     "title_en": "Podcast: we drive Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leaks, and more",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-15T06:11:06+00:00"
-  },
-  "278faf85b3cb": {
-    "id": "278faf85b3cb",
-    "title_en": "Bluebird Solar launches 630W TOPCon bifacial module",
-    "title_zh": "蓝鸟太阳能推出630W TOPCon双面模块",
-    "url": "https://www.pv-magazine.com/2026/06/15/bluebird-solar-launches-630wp-g12r-n-type-topcon-bifacial-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T06:00:19+00:00"
-  },
-  "cd3a3d8bcf86": {
-    "id": "cd3a3d8bcf86",
-    "title_en": "Australian farmers call for on-farm electricification and clean tech support",
-    "title_zh": "澳大利亚农民呼吁农场电气化和清洁技术支持",
-    "url": "https://www.pv-magazine.com/2026/06/15/farmers-call-for-on-farm-electricification-and-clean-tech-support/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T05:57:37+00:00"
-  },
-  "d79c21f2fdbd": {
-    "id": "d79c21f2fdbd",
-    "title_en": "What is a 125cc electric motorcycle and why are they so important right now?",
-    "title_zh": "什么是125cc电动摩托车，为什么它们现在如此重要？",
-    "url": "https://electrek.co/2026/06/14/what-is-a-125cc-electric-motorcycle-and-why-are-they-so-important-right-now/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-15T05:47:39+00:00"
-  },
-  "e3dc6e8378d2": {
-    "id": "e3dc6e8378d2",
-    "title_en": "Inside South Australia’s FERM tender: Why a technology-neutral process produced an all-battery outcome",
-    "title_zh": "南澳大利亚州FERM招标内部：为什么技术中立的过程会产生全电池的结果",
-    "url": "https://www.energy-storage.news/inside-south-australias-ferm-tender-why-a-technology-neutral-process-produced-an-all-battery-outcome/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-15T03:16:58+00:00"
-  },
-  "846a0f07d702": {
-    "id": "846a0f07d702",
-    "title_en": "Rivian R3 & R3X Will Go On Sale … Eventually",
-    "title_zh": "Rivian R3和R3X最终将上市销售",
-    "url": "https://cleantechnica.com/2026/06/14/rivian-r3-r3x-will-go-on-sale-eventually/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-15T02:16:24+00:00"
-  },
-  "ab322a8d09aa": {
-    "id": "ab322a8d09aa",
-    "title_en": "EV-Friendly RVs With Big Trailer Features? It’s No Longer Impossible.",
-    "title_zh": "具有大型拖车功能的电动汽车友好型房车？这不再是不可能的。",
-    "url": "https://cleantechnica.com/2026/06/14/ev-friendly-rvs-with-big-trailer-features-its-no-longer-impossible/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-15T01:53:00+00:00"
-  },
-  "14ddefa6e448": {
-    "id": "14ddefa6e448",
-    "title_en": "Oil Prices Plunge as U.S. and Iran Reach Deal to Reopen Strait of Hormuz",
-    "title_zh": "随着美国和伊朗达成重新开放霍尔木兹海峡的协议，油价暴跌",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-as-US-and-Iran-Reach-Deal-to-Reopen-Strait-of-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T01:05:54+00:00"
   }
 }
