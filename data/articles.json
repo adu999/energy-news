@@ -1,4 +1,193 @@
 {
+  "e29e8d58fc7a": {
+    "id": "e29e8d58fc7a",
+    "title_en": "Podcast: we drive Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leaks, and more",
+    "title_zh": "播客：我们驾驶Aptera的太阳能汽车，特斯拉Cybercab规格披露，Lucid Cosmos设计泄漏等",
+    "url": "https://electrek.co/2026/06/19/podcast-we-drive-apteras-solar-car-tesla-cybercab-specs-revealed-lucid-cosmos-design-leaks-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T19:43:48+00:00"
+  },
+  "660c554522e0": {
+    "id": "660c554522e0",
+    "title_en": "One giant US power line, enough wind power for 1 million homes",
+    "title_zh": "一条巨大的美国电力线，足够100万户家庭使用的风力发电",
+    "url": "https://electrek.co/2026/06/19/sunzia-one-giant-us-power-line-wind-power-for-1-million-homes/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T19:38:06+00:00"
+  },
+  "a7273007870e": {
+    "id": "a7273007870e",
+    "title_en": "Hyundai is giving the Kona EV a complete overhaul, and it already looks like an upgrade",
+    "title_zh": "现代正在对科纳电动汽车进行全面检修，它看起来已经升级了",
+    "url": "https://electrek.co/2026/06/19/hyundai-giving-kona-ev-complete-overhaul/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T19:19:53+00:00"
+  },
+  "0fdde0d015d5": {
+    "id": "0fdde0d015d5",
+    "title_en": "The Real Reason BP Is Retreating From the North Sea",
+    "title_zh": "英国石油公司从北海撤退的真正原因",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Real-Reason-BP-Is-Retreating-From-the-North-Sea.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T19:00:00+00:00"
+  },
+  "f1fef16be132": {
+    "id": "f1fef16be132",
+    "title_en": "Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause",
+    "title_zh": "以色列和真主党休战给石油市场一个暂停的理由",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Israel-and-Hezbollah-Truce-Gives-Oil-Markets-a-Reason-to-Pause.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T18:30:00+00:00"
+  },
+  "9853b2c86e8f": {
+    "id": "9853b2c86e8f",
+    "title_en": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
+    "title_zh": "400马力梅赛德斯-奔驰VLE 300将豪华轿车与宽敞的腿部空间相结合",
+    "url": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T18:12:49+00:00"
+  },
+  "5a5ba92df41d": {
+    "id": "5a5ba92df41d",
+    "title_en": "Aventon Aventure smart e-bikes at new lows, Yozma IN 10 dirt bike exclusive new $879 low, Jackery power stations, Segway, more",
+    "title_zh": "Aventon Aventure智能电动自行车创新低，Yozma IN 10越野自行车独家新低879美元，Jackery发电站，赛格威，更多",
+    "url": "https://electrek.co/2026/06/19/aventon-e-bikes-yozma-in-10-dirt-bike-jackery-power-stations-segway-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T18:00:00+00:00"
+  },
+  "27023c04c08e": {
+    "id": "27023c04c08e",
+    "title_en": "Russia Is Rationing Fuel in Moscow After Drone Strikes",
+    "title_zh": "无人机袭击后，俄罗斯正在莫斯科配给燃料",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Is-Rationing-Fuel-in-Moscow-After-Drone-Strikes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T17:30:00+00:00"
+  },
+  "f2b8b07f85d7": {
+    "id": "f2b8b07f85d7",
+    "title_en": "BMW can’t wait: i3 orders open months early as buyers rush in",
+    "title_zh": "宝马迫不及待：i3订单提前几个月开放，买家蜂拥而至",
+    "url": "https://electrek.co/2026/06/19/bmw-opens-i3-orders-months-early-demand-surges/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T17:23:34+00:00"
+  },
+  "770f80038784": {
+    "id": "770f80038784",
+    "title_en": "Kuwait Says Oil Output Could Hit 2 Million Bpd Within a Week",
+    "title_zh": "科威特表示，石油产量可能在一周内达到200万桶/日",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Says-Oil-Output-Could-Hit-2-Million-Bpd-Within-a-Week.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T16:30:00+00:00"
+  },
+  "33d0e3d85ef9": {
+    "id": "33d0e3d85ef9",
+    "title_en": "Jeep’s off-road EV goes on sale for $67,000, but its range is a bit disappointing",
+    "title_zh": "吉普的越野电动汽车售价为67000美元，但其续航里程有点令人失望",
+    "url": "https://electrek.co/2026/06/19/jeeps-off-road-ev-on-sale-for-67000-range-comes-up-short/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T16:21:04+00:00"
+  },
+  "fa0c7cbac306": {
+    "id": "fa0c7cbac306",
+    "title_en": "Origis raises US$900 million to fund 5GW of project development",
+    "title_zh": "Origis筹集了9亿美元，为5GW的项目开发提供资金",
+    "url": "https://www.pv-tech.org/origis-raises-us900-million-to-fund-5gw-of-project-development/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-19T16:11:20+00:00"
+  },
+  "d8e8409f90bf": {
+    "id": "d8e8409f90bf",
+    "title_en": "Why Oil Prices Are Falling Even as Tankers Remain Trapped",
+    "title_zh": "为什么油轮仍被困，油价却在下跌",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Why-Oil-Prices-Are-Falling-Even-as-Tankers-Remain-Trapped.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T16:10:00+00:00"
+  },
+  "36414e2d2be0": {
+    "id": "36414e2d2be0",
+    "title_en": "Insurers Roll Out $400 Million War-Risk Facility for Hormuz Shipping",
+    "title_zh": "保险公司为霍尔木兹航运公司推出4亿美元的战争风险贷款",
+    "url": "https://oilprice.com/Energy/Energy-General/Insurers-Roll-Out-400-Million-War-Risk-Facility-for-Hormuz-Shipping.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T16:00:00+00:00"
+  },
+  "2ac85082bf3a": {
+    "id": "2ac85082bf3a",
+    "title_en": "Trump Whacks Wind But Can’t Sack Solar Power",
+    "title_zh": "特朗普削减风能但不能削减太阳能",
+    "url": "https://cleantechnica.com/2026/06/19/solar-power-plants-us-texas-financing-faster/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-19T15:52:04+00:00"
+  },
+  "72c90e114883": {
+    "id": "72c90e114883",
+    "title_en": "Telo confirms 400 kW sustained charging for its tiny electric truck",
+    "title_zh": "Telo确认其小型电动卡车可持续充电400千瓦",
+    "url": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-19T15:50:01+00:00"
+  },
+  "2ac2f39c59d8": {
+    "id": "2ac2f39c59d8",
+    "title_en": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
+    "title_zh": "2026年6月19日简报：波恩会谈以“僵局”告终|能源的“新时代”|气候谈判中的海洋",
+    "url": "https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-06-19T15:39:05+00:00"
+  },
+  "1e10a61b808c": {
+    "id": "1e10a61b808c",
+    "title_en": "ABB launches Proteus portfolio, re-enters power electronics sector",
+    "title_zh": "ABB推出Proteus产品组合，重新进入电力电子领域",
+    "url": "https://www.pv-tech.org/abb-launches-proteus-portfolio-re-enters-power-electronics-sector/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-19T15:32:36+00:00"
+  },
+  "05ad481e815a": {
+    "id": "05ad481e815a",
+    "title_en": "Equinor to Boost Troll Gas Output with $412 Million Subsea Development",
+    "title_zh": "Equinor将通过4.12亿美元的海底开发来提高Troll天然气产量",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-to-Boost-Troll-Gas-Output-with-412-Million-Subsea-Development.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-19T15:30:00+00:00"
+  },
+  "4971a17b4640": {
+    "id": "4971a17b4640",
+    "title_en": "SEIA map shows solar uses 0.07% of US farmland",
+    "title_zh": "SEIA地图显示太阳能使用了美国0.07%的农田",
+    "url": "https://www.pv-tech.org/seia-map-shows-solar-uses-0-07-of-us-farmland/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-19T15:25:43+00:00"
+  },
+  "ed963f8163be": {
+    "id": "ed963f8163be",
+    "title_en": "Bonn climate talks: Key outcomes from the June 2026 UN climate conference",
+    "title_zh": "波恩气候谈判：2026年6月联合国气候变化大会的主要成果",
+    "url": "https://www.carbonbrief.org/bonn-climate-talks-key-outcomes-from-the-june-2026-un-climate-conference/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-06-19T15:16:42+00:00"
+  },
   "44e7659b5cac": {
     "id": "44e7659b5cac",
     "title_en": "Maserati boosts Folgore EV range by up to 85 km in 2026 refresh",
@@ -34,6 +223,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-19T14:24:37+00:00"
+  },
+  "ee7af87047bc": {
+    "id": "ee7af87047bc",
+    "title_en": "Pressure mounts for new CfD-backed auctions amid German offshore wind uncertainty",
+    "title_zh": "在德国海上风电的不确定性下，CfD支持的新拍卖的压力越来越大",
+    "url": "https://www.windpowermonthly.com/article/1962249/pressure-mounts-new-cfd-backed-auctions-amid-german-offshore-wind-uncertainty",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-06-19T14:20:54+00:00"
   },
   "09c1f3da7eda": {
     "id": "09c1f3da7eda",
@@ -142,6 +340,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-19T11:58:00+00:00"
+  },
+  "9b6f2689df70": {
+    "id": "9b6f2689df70",
+    "title_en": "Nuclear energy hiring is slowing in North America – but leaders can see where capacity and risk are shifting",
+    "title_zh": "北美的核能招聘正在放缓，但领导人可以看到产能和风险正在发生变化",
+    "url": "https://www.energymonitor.ai/sponsored/nuclear-energy-hiring-is-slowing-in-north-america-but-leaders-can-see-where-capacity-and-risk-are-shifting/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-19T11:40:39+00:00"
   },
   "1de2d5e6adc3": {
     "id": "1de2d5e6adc3",
@@ -358,6 +565,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-19T08:18:12+00:00"
+  },
+  "f45ecf97bca0": {
+    "id": "f45ecf97bca0",
+    "title_en": "Pattern Energy launches SunZia energy project in US",
+    "title_zh": "Pattern Energy在美国启动SunZia能源项目",
+    "url": "https://www.energymonitor.ai/news/pattern-energy-launches-sunzia/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-19T08:11:51+00:00"
   },
   "d7f7c957f596": {
     "id": "d7f7c957f596",
@@ -1213,6 +1429,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-18T11:00:36+00:00"
+  },
+  "67333119a545": {
+    "id": "67333119a545",
+    "title_en": "Global semiconductors hiring slows after Q1 surge: What this means for your sector",
+    "title_zh": "第一季度激增后全球半导体招聘放缓：这对您的行业意味着什么",
+    "url": "https://www.energymonitor.ai/sponsored/global-semiconductors-hiring-slows-after-q1-surge-what-this-means-for-your-sector/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-18T10:57:40+00:00"
   },
   "2af57fd9d3bd": {
     "id": "2af57fd9d3bd",
@@ -4273,230 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-15T01:05:54+00:00"
-  },
-  "dffbf125ff5e": {
-    "id": "dffbf125ff5e",
-    "title_en": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
-    "title_zh": "亚太地区数据中心面临化石燃料依赖的风险——长期储能可以帮助结束",
-    "url": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-15T00:57:29+00:00"
-  },
-  "7e53d6768bc1": {
-    "id": "7e53d6768bc1",
-    "title_en": "Contact Energy completes solar module installation at 150MW solar PV power plant in New Zealand",
-    "title_zh": "Contact Energy完成新西兰150MW太阳能光伏电站太阳能组件安装",
-    "url": "https://www.pv-tech.org/contact-energy-completes-solar-module-installation-at-150mw-solar-pv-power-plant-in-new-zealand/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T00:53:35+00:00"
-  },
-  "8bc19a306bcf": {
-    "id": "8bc19a306bcf",
-    "title_en": "New World Record Set For Solar Module With Perovskite",
-    "title_zh": "钙钛矿太阳能组件创下新世界纪录",
-    "url": "https://cleantechnica.com/2026/06/14/world-record-solar-efficiency-perovsite-silicon-trinasolar/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-14T23:49:39+00:00"
-  },
-  "4111a2f2024d": {
-    "id": "4111a2f2024d",
-    "title_en": "Floating Solar PV on Foam with Air Bubblers",
-    "title_zh": "带气泡的泡沫浮式太阳能光伏",
-    "url": "https://cleantechnica.com/2026/06/14/floating-solar-pv-on-foam-with-air-bubblers/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-14T22:17:35+00:00"
-  },
-  "e9b801cfcaad": {
-    "id": "e9b801cfcaad",
-    "title_en": "Nuclear Drives “All of the Above” Trend in Energy Security",
-    "title_zh": "核能推动能源安全的“以上所有”趋势",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Nuclear-Drives-All-of-the-Above-Trend-in-Energy-Security.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-14T21:00:00+00:00"
-  },
-  "59f0b0a91a78": {
-    "id": "59f0b0a91a78",
-    "title_en": "Trump tried to kill solar’s 5% safe harbor, a federal court brought it back",
-    "title_zh": "特朗普试图扼杀太阳能5%的安全港，联邦法院将其收回",
-    "url": "https://electrek.co/2026/06/14/trump-tried-to-kill-solars-5-safe-harbor-a-federal-court-brought-it-back/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-14T20:22:51+00:00"
-  },
-  "dbc181001467": {
-    "id": "dbc181001467",
-    "title_en": "Scania scores 105 unit electric semi truck deal [video]",
-    "title_zh": "斯堪尼亚达成105辆电动半卡车交易[视频]",
-    "url": "https://electrek.co/2026/06/14/scania-scores-105-unit-electric-semi-truck-deal-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-14T19:25:08+00:00"
-  },
-  "69d2864f3445": {
-    "id": "69d2864f3445",
-    "title_en": "Elon Musk’s Missed Full Self-Driving Targets Are Even Wilder Than I Remembered",
-    "title_zh": "埃隆·马斯克错过的全自动驾驶目标甚至比我记忆中的还要狂野",
-    "url": "https://cleantechnica.com/2026/06/14/elon-musks-missed-full-self-driving-targets-are-even-wilder-than-i-remembered/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-14T19:02:47+00:00"
-  },
-  "3e4ef5b1a903": {
-    "id": "3e4ef5b1a903",
-    "title_en": "Alaska’s Untapped Oil Wealth Is Still Struggling to Find Investors",
-    "title_zh": "阿拉斯加未开发的石油财富仍在努力寻找投资者",
-    "url": "https://oilprice.com/Energy/Energy-General/Alaskas-Untapped-Oil-Wealth-Is-Still-Struggling-to-Find-Investors.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-14T19:00:00+00:00"
-  },
-  "daefe4d21127": {
-    "id": "daefe4d21127",
-    "title_en": "Survey Sunday: do you still believe in Elon Musk?",
-    "title_zh": "周日调查：你还相信埃隆·马斯克吗？",
-    "url": "https://electrek.co/2026/06/14/survey-sunday-do-you-still-believe-in-elon-musk/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-14T18:30:00+00:00"
-  },
-  "180716f8264f": {
-    "id": "180716f8264f",
-    "title_en": "2100 Transition Scenarios Need A Better Population Denominator",
-    "title_zh": "2100种转型方案需要更好的人口分母",
-    "url": "https://cleantechnica.com/2026/06/14/population-denominator-2100-transition-scenarios/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-14T18:25:46+00:00"
-  },
-  "d060616154d0": {
-    "id": "d060616154d0",
-    "title_en": "Silicon Valley’s AI Dreams Face a Blue-Collar Reality",
-    "title_zh": "硅谷的人工智能梦想面临蓝领现实",
-    "url": "https://oilprice.com/Energy/Energy-General/Silicon-Valleys-AI-Dreams-Face-a-Blue-Collar-Reality.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-14T17:00:00+00:00"
-  },
-  "9a30b9855c5b": {
-    "id": "9a30b9855c5b",
-    "title_en": "$7,000 for Rooftop Solar Permitting!? Time to Automate It",
-    "title_zh": "7000美元用于屋顶太阳能许可！？是时候实现自动化了",
-    "url": "https://cleantechnica.com/2026/06/14/7000-for-rooftop-solar-permitting-time-to-automate-it/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-14T16:29:11+00:00"
-  },
-  "67aa1b5df6b5": {
-    "id": "67aa1b5df6b5",
-    "title_en": "Fiji Blocks Controversial Australian-Backed Waste Incinerator Project",
-    "title_zh": "斐济阻止有争议的澳大利亚支持的垃圾焚烧炉项目",
-    "url": "https://oilprice.com/Energy/Energy-General/Fiji-Blocks-Controversial-Australian-Backed-Waste-Incinerator-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-14T15:00:00+00:00"
-  },
-  "3f55cf798680": {
-    "id": "3f55cf798680",
-    "title_en": "Why pushback is growing against New Jersey’s crazy e-bike law",
-    "title_zh": "为什么反对新泽西州疯狂电动自行车法的呼声越来越高",
-    "url": "https://electrek.co/2026/06/13/why-pushback-is-growing-against-new-jerseys-crazy-e-bike-law/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-14T06:19:13+00:00"
-  },
-  "dfcad4410c02": {
-    "id": "dfcad4410c02",
-    "title_en": "Fraunhofer Wants Solar Cells On Vehicles — To Help The Grid",
-    "title_zh": "弗劳恩霍夫希望在车辆上安装太阳能电池——以帮助电网",
-    "url": "https://cleantechnica.com/2026/06/13/fraunhofer-wants-solar-cells-on-vehicles-to-help-the-grid/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-14T03:26:39+00:00"
-  },
-  "58f3d6756014": {
-    "id": "58f3d6756014",
-    "title_en": "Buried in negative equity? These EV deals can help get you out of that gas guzzler",
-    "title_zh": "埋在负资产中？这些电动汽车交易可以帮助你摆脱耗油量大的汽车",
-    "url": "https://electrek.co/2026/06/13/buried-in-negative-equity-these-ev-deals-can-help-get-you-out-of-that-gas-guzzler/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-14T00:08:59+00:00"
-  },
-  "5bbbb22edc6a": {
-    "id": "5bbbb22edc6a",
-    "title_en": "Is BYD Making A Better “Ferrari” Than Ferrari?",
-    "title_zh": "比亚迪是否在打造比法拉利更好的“法拉利”？",
-    "url": "https://cleantechnica.com/2026/06/13/is-byd-making-a-better-ferrari-than-ferrari/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-13T23:02:19+00:00"
-  },
-  "cc77dca98a5a": {
-    "id": "cc77dca98a5a",
-    "title_en": "Clean Energy Investments Surge, But That Is Only Part Of The Story",
-    "title_zh": "清洁能源投资激增，但这只是故事的一部分",
-    "url": "https://cleantechnica.com/2026/06/13/clean-energy-investments-surge-but-that-is-only-part-of-the-story/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-13T21:04:25+00:00"
-  },
-  "58521b890a41": {
-    "id": "58521b890a41",
-    "title_en": "Fuel Tax Changes Hit Six States As Energy Inflation Accelerates",
-    "title_zh": "随着能源通胀加速，燃油税变化影响了六个州",
-    "url": "https://oilprice.com/Energy/Energy-General/Fuel-Tax-Changes-Hit-Six-States-As-Energy-Inflation-Accelerates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-13T21:00:00+00:00"
-  },
-  "c21d9a497db8": {
-    "id": "c21d9a497db8",
-    "title_en": "Observations After Two Weeks with Tesla Hardware 4 & Full Self Driving V14 in My 2026 Tesla Model Y",
-    "title_zh": "在2026年特斯拉Model Y上使用特斯拉硬件4和全自动驾驶V14两周后的观察",
-    "url": "https://cleantechnica.com/2026/06/13/observations-after-two-weeks-with-tesla-hardware-4-full-self-driving-v14-in-my-2026-tesla-model-y/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-13T20:33:16+00:00"
-  },
-  "5538a05c1152": {
-    "id": "5538a05c1152",
-    "title_en": "The Promise and Peril of Jamaica’s Offshore Oil Ambitions",
-    "title_zh": "牙买加海洋石油野心的希望和危险",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Promise-and-Peril-of-Jamaicas-Offshore-Oil-Ambitions.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-13T19:00:00+00:00"
-  },
-  "fcef6ff41dc6": {
-    "id": "fcef6ff41dc6",
-    "title_en": "Tesla’s Level 2++ Supervised Full Self-Driving Approved In Belgium",
-    "title_zh": "特斯拉的2级++监督全自动驾驶在比利时获得批准",
-    "url": "https://cleantechnica.com/2026/06/13/teslas-level-2-supervised-full-self-driving-approved-in-belgium/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-13T18:16:01+00:00"
-  },
-  "5400e0f2d524": {
-    "id": "5400e0f2d524",
-    "title_en": "UK Sets January 2027 Deadline for Ban on Fuel Made From Russian Crude",
-    "title_zh": "英国将2027年1月定为禁止俄罗斯原油燃料的最后期限",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Sets-January-2027-Deadline-for-Ban-on-Fuel-Made-From-Russian-Crude.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-13T17:30:00+00:00"
-  },
-  "a625f9e23673": {
-    "id": "a625f9e23673",
-    "title_en": "Russia, China, and Iran Are Joining Forces Against Western Pressure",
-    "title_zh": "俄罗斯、中国和伊朗联手对抗西方压力",
-    "url": "https://oilprice.com/Geopolitics/North-America/Russia-China-and-Iran-Are-Joining-Forces-Against-Western-Pressure.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-13T17:00:00+00:00"
   }
 }
