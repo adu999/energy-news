@@ -1,4 +1,49 @@
 {
+  "4d5db42755ca": {
+    "id": "4d5db42755ca",
+    "title_en": "BESS as a ‘Swiss Army knife’ for data centers",
+    "title_zh": "BESS作为数据中心的“瑞士军刀”",
+    "url": "https://www.pv-magazine.com/2026/06/20/bess-as-a-swiss-army-knife-for-data-centers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-20T04:00:00+00:00"
+  },
+  "1830538996bf": {
+    "id": "1830538996bf",
+    "title_en": "Yup, China’s EV Price War Was Brutal, But It Drove Innovation",
+    "title_zh": "是的，中国的电动汽车价格战是残酷的，但它推动了创新",
+    "url": "https://cleantechnica.com/2026/06/19/yup-chinas-ev-price-war-was-brutal-but-it-drove-innovation/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T03:58:10+00:00"
+  },
+  "68a6a612f873": {
+    "id": "68a6a612f873",
+    "title_en": "Uruguay EV Sales Report: ICEV Sales Start Melting Down as BEVs Surpass 40% Share in May!",
+    "title_zh": "乌拉圭电动汽车销售报告：随着纯电动汽车在5月份的份额超过40%，ICEV的销量开始下降！",
+    "url": "https://cleantechnica.com/2026/06/19/uruguay-ev-sales-report-icev-sales-start-melting-down-as-bevs-surpass-40-share-in-may/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T03:57:29+00:00"
+  },
+  "4d155e6bed85": {
+    "id": "4d155e6bed85",
+    "title_en": "Energy Access In Rural North Carolina Grows Through Solar",
+    "title_zh": "北卡罗来纳州农村的能源获取通过太阳能增长",
+    "url": "https://cleantechnica.com/2026/06/19/energy-access-in-rural-north-carolina-grows-through-solar/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T03:55:06+00:00"
+  },
+  "9b97ba1c65f1": {
+    "id": "9b97ba1c65f1",
+    "title_en": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks",
+    "title_zh": "Rivian将在今年晚些时候挑战特斯拉FSD，首席执行官认为",
+    "url": "https://cleantechnica.com/2026/06/19/rivian-to-challenge-tesla-fsd-later-this-year-ceo-thinks/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T03:50:16+00:00"
+  },
   "79835b596e6c": {
     "id": "79835b596e6c",
     "title_en": "ComEd, Metropolitan Mayors Caucus Honor 9 Communities Advancing EV Readiness Across Northern Illinois",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-15T08:36:50+00:00"
-  },
-  "cb637bdb48d8": {
-    "id": "cb637bdb48d8",
-    "title_en": "Cadeler completes installation of 100 turbines at Sofia Wind Farm",
-    "title_zh": "Cadeler完成索菲亚风电场100台涡轮机的安装",
-    "url": "https://www.energymonitor.ai/news/cadeler-completes-installation-turbines-sofia/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-15T08:28:53+00:00"
-  },
-  "32c3712dfcc7": {
-    "id": "32c3712dfcc7",
-    "title_en": "US-Based Developer to Cooperate with Korea’s Hana Group on Financing 3.2 GW Offshore Wind Cluster",
-    "title_zh": "美国开发商将与韩国Hana集团合作，为3.2吉瓦海上风电集群融资",
-    "url": "https://www.offshorewind.biz/2026/06/15/us-based-developer-to-cooperate-with-koreas-hana-group-on-financing-3-2-gw-offshore-wind-cluster/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-15T08:03:17+00:00"
-  },
-  "7815e92d26c4": {
-    "id": "7815e92d26c4",
-    "title_en": "Wind power patents: Windey | Vestas | Envision | GE Vernova | Dongfang",
-    "title_zh": "风电专利：Windey |维斯塔斯|远景| GE Vernova |东方",
-    "url": "https://www.windpowermonthly.com/article/1961474/wind-power-patents-windey-vestas-envision-ge-vernova-dongfang",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-15T08:00:00+00:00"
-  },
-  "dcb6edc99c65": {
-    "id": "dcb6edc99c65",
-    "title_en": "Australian Regulator Clears LNG Strike",
-    "title_zh": "澳大利亚监管机构批准液化天然气罢工",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australian-Regulator-Clears-LNG-Strike.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T08:00:00+00:00"
-  },
-  "f19553f43251": {
-    "id": "f19553f43251",
-    "title_en": "Chinese scientists identify degradation pathways in low-silver heterojunction solar cells",
-    "title_zh": "中国科学家确定了低银异质结太阳能电池的退化途径",
-    "url": "https://www.pv-magazine.com/2026/06/15/chinese-scientists-identify-degradation-pathways-in-low-silver-heterojunction-solar-cells/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T07:47:27+00:00"
   }
 }
