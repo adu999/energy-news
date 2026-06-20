@@ -1,4 +1,58 @@
 {
+  "79835b596e6c": {
+    "id": "79835b596e6c",
+    "title_en": "ComEd, Metropolitan Mayors Caucus Honor 9 Communities Advancing EV Readiness Across Northern Illinois",
+    "title_zh": "ComEd，大都会市长核心小组表彰9个在伊利诺伊州北部推进电动汽车准备的社区",
+    "url": "https://cleantechnica.com/2026/06/19/comed-metropolitan-mayors-caucus-honor-9-communities-advancing-ev-readiness-across-northern-illinois/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T00:45:50+00:00"
+  },
+  "214d63a1fd34": {
+    "id": "214d63a1fd34",
+    "title_en": "Despite All The Smack Talk, Tesla Copied BYD",
+    "title_zh": "尽管有这么多废话，特斯拉还是模仿了比亚迪",
+    "url": "https://cleantechnica.com/2026/06/19/despite-all-the-smack-talk-tesla-copied-byd/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T00:15:59+00:00"
+  },
+  "58912a7e26ef": {
+    "id": "58912a7e26ef",
+    "title_en": "BYD Datang Comparison Reveals Accelerating EV Progress",
+    "title_zh": "比亚迪与大唐的比较揭示了电动汽车发展的加速",
+    "url": "https://cleantechnica.com/2026/06/19/byd-datang-comparison-reveals-accelerating-ev-progress/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T00:06:38+00:00"
+  },
+  "bd6a2553f71f": {
+    "id": "bd6a2553f71f",
+    "title_en": "ABB Solar & Storage Power Move — New High-Efficiency Power Conversion Solutions for Solar & Storage",
+    "title_zh": "ABB太阳能与储能电力移动——太阳能与储电的新型高效电力转换解决方案",
+    "url": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-19T23:07:26+00:00"
+  },
+  "92fc3138e708": {
+    "id": "92fc3138e708",
+    "title_en": "Historic Graph: Solar Electricity Surpasses Coal Electricity In USA",
+    "title_zh": "历史图表：美国太阳能发电超过煤电",
+    "url": "https://cleantechnica.com/2026/06/19/historic-graph-solar-electricity-surpasses-coal-electricity-in-usa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-19T22:34:35+00:00"
+  },
+  "fbfb7fc89467": {
+    "id": "fbfb7fc89467",
+    "title_en": "Wallbox Launches New Pulsar Pro to Simplify EV Charging Reimbursement",
+    "title_zh": "Wallbox推出新的Pulsar Pro，简化电动汽车充电报销",
+    "url": "https://cleantechnica.com/2026/06/19/wallbox-launches-new-pulsar-pro-to-simplify-ev-charging-reimbursement/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-19T22:00:42+00:00"
+  },
   "492c81f1c908": {
     "id": "492c81f1c908",
     "title_en": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
@@ -4444,59 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-15T07:47:27+00:00"
-  },
-  "ceb0f8fb3dc9": {
-    "id": "ceb0f8fb3dc9",
-    "title_en": "Solar and wind try to navigate Trump’s obstacle course for tax credits",
-    "title_zh": "太阳能和风能试图绕过特朗普的税收抵免障碍",
-    "url": "https://www.canarymedia.com/articles/solar/solar-wind-trump-obstacles-tax-credits",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-15T07:30:00+00:00"
-  },
-  "f0747c8bc751": {
-    "id": "f0747c8bc751",
-    "title_en": "This spring, clean energy in the US set record after record",
-    "title_zh": "今年春天，美国清洁能源创下一项又一项纪录",
-    "url": "https://www.canarymedia.com/articles/clean-energy/clean-energy-us-set-records",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-15T07:30:00+00:00"
-  },
-  "e7a5c74415dd": {
-    "id": "e7a5c74415dd",
-    "title_en": "VIDEO: Germany’s ramp constraints, grid limitations and their impact on the energy storage business case",
-    "title_zh": "视频：德国的产能限制、电网限制及其对储能商业案例的影响",
-    "url": "https://www.energy-storage.news/video-germanys-ramp-constraints-grid-limitations-and-their-impact-on-the-energy-storage-business-case/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-15T07:21:57+00:00"
-  },
-  "ff30f00c3bb2": {
-    "id": "ff30f00c3bb2",
-    "title_en": "LNG Tanker Heads for Hormuz Amid News of Reopening",
-    "title_zh": "液化天然气油轮在重新开放的消息中驶向霍尔木兹",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Tanker-Heads-for-Strait-of-Hormuz-After-US-Iran-Deal-Announcement.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T06:30:00+00:00"
-  },
-  "6c122900dd8b": {
-    "id": "6c122900dd8b",
-    "title_en": "Cyprus curtails 65% of solar generation in January–May 2026",
-    "title_zh": "塞浦路斯在2026年1月至5月期间削减了65%的太阳能发电量",
-    "url": "https://www.pv-magazine.com/2026/06/15/cyprus-curtails-65-of-solar-generation-in-january-may-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T06:27:08+00:00"
-  },
-  "4b9801f40d70": {
-    "id": "4b9801f40d70",
-    "title_en": "World’s largest solar-hydrogen-storage project goes online in China",
-    "title_zh": "世界上最大的太阳能储氢项目在中国上线",
-    "url": "https://www.pv-magazine.com/2026/06/15/worlds-largest-solar-hydrogen-storage-project-goes-online-in-china/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T06:11:06+00:00"
   }
 }
