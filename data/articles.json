@@ -1,4 +1,31 @@
 {
+  "42d4d73bdc2e": {
+    "id": "42d4d73bdc2e",
+    "title_en": "As Kenya’s Electric Motorcycle Ecosystem Grows, Local Firms Are Starting to Specialise and Forge Interesting Partnerships With Large Global Firms",
+    "title_zh": "随着肯尼亚电动摩托车生态系统的发展，当地企业开始专业化，并与全球大型企业建立有趣的合作关系",
+    "url": "https://cleantechnica.com/2026/06/20/as-kenyas-electric-motorcycle-ecosystem-grows-local-firms-are-starting-to-specialise-and-forge-interesting-partnerships-with-large-global-firms/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T21:16:28+00:00"
+  },
+  "ff7bfbfa92f4": {
+    "id": "ff7bfbfa92f4",
+    "title_en": "Energy Security, Not Climate Goals, Is Now Driving the Clean Power Boom",
+    "title_zh": "能源安全，而非气候目标，正在推动清洁能源的繁荣",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Energy-Security-Not-Climate-Goals-Is-Now-Driving-the-Clean-Power-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-20T21:00:00+00:00"
+  },
+  "bcbdb00838c7": {
+    "id": "bcbdb00838c7",
+    "title_en": "Iraq Is Keeping Its Syria Oil Route—Even If Hormuz Reopens",
+    "title_zh": "伊拉克正在保留其叙利亚石油路线——即使霍尔木兹重新开放",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Is-Keeping-Its-Syria-Oil-RouteEven-If-Hormuz-Reopens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-20T19:30:00+00:00"
+  },
   "1745a8c84178": {
     "id": "1745a8c84178",
     "title_en": "China Is Taking Its AI Boom Under the Sea",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-15T09:12:00+00:00"
-  },
-  "0f52a138a67b": {
-    "id": "0f52a138a67b",
-    "title_en": "HVR Solar to set up 1.2 GW TOPCon cell factory in India",
-    "title_zh": "HVR Solar将在印度建立1.2吉瓦的TOPCon电池工厂",
-    "url": "https://www.pv-magazine.com/2026/06/15/hvr-solar-to-set-up-1-2-gw-topcon-cell-manufacturing-facility-in-uttar-pradesh/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T09:09:25+00:00"
-  },
-  "720eaac68c8c": {
-    "id": "720eaac68c8c",
-    "title_en": "GWEC Calls for Faster Offshore Wind Deployment as Global Capacity Nears 100 GW",
-    "title_zh": "GWEC呼吁加快海上风电部署，因为全球容量接近100吉瓦",
-    "url": "https://www.offshorewind.biz/2026/06/15/gwec-calls-for-faster-offshore-wind-deployment-as-global-capacity-nears-100-gw/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-15T09:02:07+00:00"
-  },
-  "ab3ab123ea3d": {
-    "id": "ab3ab123ea3d",
-    "title_en": "Utilities have digitized billing. Now they need to humanize it.",
-    "title_zh": "公用事业公司已将账单数字化。现在他们需要将其人性化。",
-    "url": "https://www.utilitydive.com/spons/utilities-have-digitized-billing-now-they-need-to-humanize-it/822572/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-15T09:00:00+00:00"
   }
 }
