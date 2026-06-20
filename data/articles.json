@@ -1,4 +1,31 @@
 {
+  "1745a8c84178": {
+    "id": "1745a8c84178",
+    "title_en": "China Is Taking Its AI Boom Under the Sea",
+    "title_zh": "中国正在海底掀起人工智能热潮",
+    "url": "https://oilprice.com/Energy/Energy-General/China-Is-Taking-Its-AI-Boom-Under-the-Sea.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-20T19:00:00+00:00"
+  },
+  "1b1c2bb6da72": {
+    "id": "1b1c2bb6da72",
+    "title_en": "Why Small Modular Reactors Are Becoming a National Security Priority",
+    "title_zh": "为什么小型模块化反应堆成为国家安全优先事项",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-Small-Modular-Reactors-Are-Becoming-a-National-Security-Priority.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-20T17:00:00+00:00"
+  },
+  "18e83df489ad": {
+    "id": "18e83df489ad",
+    "title_en": "Sunshine & Heat Pumps — How Greece Does Net Zero",
+    "title_zh": "阳光与热泵——希腊如何实现净零排放",
+    "url": "https://cleantechnica.com/2026/06/20/sunshine-heat-pumps-how-greece-does-net-zero/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T16:39:11+00:00"
+  },
   "b1a25d7a89b4": {
     "id": "b1a25d7a89b4",
     "title_en": "The U.S. States Leading the Backlash Against Data Centers",
@@ -4471,32 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-15T09:00:00+00:00"
-  },
-  "31e0fbd4a2df": {
-    "id": "31e0fbd4a2df",
-    "title_en": "AI load growth is changing the utility business model",
-    "title_zh": "人工智能负载的增长正在改变公用事业的商业模式",
-    "url": "https://www.utilitydive.com/spons/ai-load-growth-is-changing-the-utility-business-model/822321/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-15T09:00:00+00:00"
-  },
-  "044d68c564e9": {
-    "id": "044d68c564e9",
-    "title_en": "Energy density up 25%, site footprint down 20%",
-    "title_zh": "能源密度提高25%，占地面积减少20%",
-    "url": "https://www.pv-magazine.com/2026/06/15/energy-density-up-25-site-footprint-down-20/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T09:00:00+00:00"
-  },
-  "87c914901dbd": {
-    "id": "87c914901dbd",
-    "title_en": "Airengy, Hagag Europe to build 5 GWh compressed-air energy storage plant in Romania",
-    "title_zh": "Airengy，Hagag Europe将在罗马尼亚建造5 GWh压缩空气储能厂",
-    "url": "https://www.pv-magazine.com/2026/06/15/airengy-hagag-europe-to-build-5-gwh-compressed-air-energy-storage-plant-in-romania/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T08:42:52+00:00"
   }
 }
