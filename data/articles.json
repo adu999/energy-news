@@ -1,4 +1,31 @@
 {
+  "89762de26464": {
+    "id": "89762de26464",
+    "title_en": "BYD Battery Production Ramps Up In Brazil",
+    "title_zh": "比亚迪电池产量在巴西大幅增长",
+    "url": "https://cleantechnica.com/2026/06/20/byd-battery-production-ramps-up-in-brazil/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-21T03:57:47+00:00"
+  },
+  "d667cc0d60bd": {
+    "id": "d667cc0d60bd",
+    "title_en": "India Needs 10 GWh of Battery Storage Now to Stop Coal’s Inflexibility Wasting Clean Power",
+    "title_zh": "印度现在需要10 GWh的电池储能，以阻止煤炭的不稳定性浪费清洁能源",
+    "url": "https://cleantechnica.com/2026/06/20/india-needs-10-gwh-of-battery-storage-now-to-stop-coals-inflexibility-wasting-clean-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-21T03:53:44+00:00"
+  },
+  "55b4fa60b980": {
+    "id": "55b4fa60b980",
+    "title_en": "Perovskite-Silicon Solar Cells Meet Matrix Shingled Interconnection Collaboration between Oxford PV & Fraunhofer ISE",
+    "title_zh": "钙钛矿硅太阳能电池与牛津光伏和弗劳恩霍夫ISE之间的矩阵发光互连合作",
+    "url": "https://cleantechnica.com/2026/06/20/perovskite-silicon-solar-cells-meet-matrix-shingled-interconnection-collaboration-between-oxford-pv-fraunhofer-ise/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-21T03:50:01+00:00"
+  },
   "c9875aca84d3": {
     "id": "c9875aca84d3",
     "title_en": "Tesla driver says it was on Autopilot before fatal Texas home crash",
@@ -4471,32 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-15T11:01:05+00:00"
-  },
-  "69acb6f41847": {
-    "id": "69acb6f41847",
-    "title_en": "Power generation’s $8.28tn problem – too many plans, not enough buildable work",
-    "title_zh": "发电8.28万亿美元的问题——计划太多，可建造工程不足",
-    "url": "https://www.energymonitor.ai/analysis/power-generation-projects-energy/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-15T11:00:00+00:00"
-  },
-  "4c03b5ca8b1d": {
-    "id": "4c03b5ca8b1d",
-    "title_en": "India’s Solar Capacity Set for 22% Annual Growth Through 2035",
-    "title_zh": "到2035年，印度的太阳能发电量将以22%的年增长率增长",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Solar-Capacity-Set-for-22-Annual-Growth-Through-2035.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T10:30:00+00:00"
-  },
-  "3ce0cfbf67a2": {
-    "id": "3ce0cfbf67a2",
-    "title_en": "King Charles awards former WindEurope chief Dickson royal honour",
-    "title_zh": "查尔斯国王授予前WindEurope首席执行官Dickson皇家荣誉",
-    "url": "https://www.windpowermonthly.com/article/1961586/king-charles-awards-former-windeurope-chief-dickson-royal-honour",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-15T10:08:01+00:00"
   }
 }
