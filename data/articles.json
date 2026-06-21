@@ -1,4 +1,31 @@
 {
+  "81d3527ff140": {
+    "id": "81d3527ff140",
+    "title_en": "Whatever Happened to the Small Modular Reactor Revolution?",
+    "title_zh": "小型模块化反应堆革命发生了什么？",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Whatever-Happened-to-the-Small-Modular-Reactor-Revolution.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-21T19:00:00+00:00"
+  },
+  "2c1fb73161d9": {
+    "id": "2c1fb73161d9",
+    "title_en": "European Union Going To Put Tariffs On Plugin Hybrids From China Now?",
+    "title_zh": "欧盟现在要对来自中国的插电式混合动力车征收关税吗？",
+    "url": "https://cleantechnica.com/2026/06/21/european-union-going-to-put-tariffs-on-plugin-hybrids-from-china-now/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-21T18:07:49+00:00"
+  },
+  "20cb26c271e3": {
+    "id": "20cb26c271e3",
+    "title_en": "Equinor Expands Giant Troll Field as Europe Hunts for More Gas",
+    "title_zh": "欧洲寻求更多天然气，Equinor扩大巨型Troll油田",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Equinor-Expands-Giant-Troll-Field-as-Europe-Hunts-for-More-Gas.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-21T17:00:00+00:00"
+  },
   "7bdbae4ccdb7": {
     "id": "7bdbae4ccdb7",
     "title_en": "Termination Shock — The Existential Danger Of Geoengineering",
@@ -4471,32 +4498,5 @@
     "source": "Wind Power Engineering",
     "category": "风电",
     "pub_ts": "2026-06-15T12:00:50+00:00"
-  },
-  "313d75e18fb1": {
-    "id": "313d75e18fb1",
-    "title_en": "Blending FEOC and non-FEOC modules: The design choice worth millions to your solar project",
-    "title_zh": "混合FEOC和非FEOC模块：为您的太阳能项目提供价值数百万美元的设计选择",
-    "url": "https://www.solarpowerworldonline.com/2026/06/blending-feoc-and-non-feoc-modules-the-design-choice-worth-millions-to-your-solar-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T11:58:30+00:00"
-  },
-  "cde6145926d3": {
-    "id": "cde6145926d3",
-    "title_en": "Drone cleaning 101: A new tool for solar O&M takes soiling losses (and fall risk) off the roof",
-    "title_zh": "无人机清洁101：一种用于太阳能运维的新工具可以减少屋顶的污垢损失（和坠落风险）",
-    "url": "https://www.solarpowerworldonline.com/2026/06/drone-cleaning-101-a-new-tool-for-solar-om-takes-soiling-losses-and-fall-risk-off-the-roof/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T11:50:44+00:00"
-  },
-  "66480ab1971f": {
-    "id": "66480ab1971f",
-    "title_en": "Siemens Gamesa warns of capacity cuts if Europe falters on offshore wind",
-    "title_zh": "西门子歌美飒警告称，如果欧洲在海上风电方面步履蹒跚，将削减产能",
-    "url": "https://www.windpowermonthly.com/article/1961619/siemens-gamesa-warns-capacity-cuts-europe-falters-offshore-wind",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-15T11:42:05+00:00"
   }
 }
