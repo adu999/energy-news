@@ -1,4 +1,22 @@
 {
+  "7e4b68e00ca3": {
+    "id": "7e4b68e00ca3",
+    "title_en": "This zinc mine needed a truck no one made, so they made it themselves",
+    "title_zh": "这个锌矿需要一辆无人制造的卡车，所以他们自己制造了",
+    "url": "https://electrek.co/2026/06/21/this-zinc-mine-needed-a-truck-no-one-made-so-they-made-their-own/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-21T21:57:22+00:00"
+  },
+  "e77cccec7df2": {
+    "id": "e77cccec7df2",
+    "title_en": "Hormuz Crisis Sparks a Middle East Pipeline Boom",
+    "title_zh": "霍尔木兹危机引发中东管道热潮",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Crisis-Sparks-a-Middle-East-Pipeline-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-21T21:00:00+00:00"
+  },
   "81d3527ff140": {
     "id": "81d3527ff140",
     "title_en": "Whatever Happened to the Small Modular Reactor Revolution?",
@@ -4480,23 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-15T12:05:16+00:00"
-  },
-  "0945519df2d5": {
-    "id": "0945519df2d5",
-    "title_en": "Liberia’s first utility-scale solar plant begins operating",
-    "title_zh": "利比里亚第一座公用事业规模的太阳能发电厂开始运营",
-    "url": "https://www.pv-magazine.com/2026/06/15/liberias-first-utility-scale-solar-plant-begins-operating/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T12:01:03+00:00"
-  },
-  "ab60c1804592": {
-    "id": "ab60c1804592",
-    "title_en": "Smarter Cooling, Stronger Reliability: Advancing Wind Turbine Gearbox Performance",
-    "title_zh": "更智能的冷却，更强的可靠性：提升风力涡轮机齿轮箱性能",
-    "url": "https://www.windpowerengineering.com/smarter-cooling-stronger-reliability-advancing-wind-turbine-gearbox-performance/",
-    "source": "Wind Power Engineering",
-    "category": "风电",
-    "pub_ts": "2026-06-15T12:00:50+00:00"
   }
 }
