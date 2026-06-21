@@ -1,4 +1,31 @@
 {
+  "e39a6edcbd75": {
+    "id": "e39a6edcbd75",
+    "title_en": "From labs to logistics: China tests sodium batteries in HD trucks",
+    "title_zh": "从实验室到物流：中国在HD卡车上测试钠电池",
+    "url": "https://electrek.co/2026/06/21/from-labs-to-logistics-china-tests-sodium-batteries-in-hd-trucks/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-21T13:27:38+00:00"
+  },
+  "3671217181bc": {
+    "id": "3671217181bc",
+    "title_en": "US President Donald Trump Makes Surprise Move Into Algae Biofuel",
+    "title_zh": "美国总统唐纳德·特朗普出人意料地转向藻类生物燃料",
+    "url": "https://cleantechnica.com/2026/06/21/algae-biofuel-reflecting-pool-trump-showcase-experiment/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-21T12:43:15+00:00"
+  },
+  "8b34cc81e49f": {
+    "id": "8b34cc81e49f",
+    "title_en": "The wait is over: Royal Enfield’s first electric motorcycle begins deliveries",
+    "title_zh": "等待已经结束：皇家恩菲尔德的第一辆电动摩托车开始交付",
+    "url": "https://electrek.co/2026/06/21/the-wait-is-over-royal-enfields-first-electric-motorcycle-begins-deliveries/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-21T11:47:46+00:00"
+  },
   "89762de26464": {
     "id": "89762de26464",
     "title_en": "BYD Battery Production Ramps Up In Brazil",
@@ -4471,32 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-15T11:27:54+00:00"
-  },
-  "20051960b042": {
-    "id": "20051960b042",
-    "title_en": "Wärtsilä wraps energy storage business into joint venture with solar manufacturer RCT Solutions",
-    "title_zh": "瓦锡兰将储能业务与太阳能制造商RCT Solutions组建合资企业",
-    "url": "https://www.energy-storage.news/wartsila-wraps-energy-storage-business-into-joint-venture-with-solar-manufacturer-rct-solutions/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-15T11:13:09+00:00"
-  },
-  "13a56424c300": {
-    "id": "13a56424c300",
-    "title_en": "CPUC finalises community solar scheme, CLASS argues programme is ‘destined for continued failure’",
-    "title_zh": "CPUC敲定社区太阳能计划，CLASS认为该计划“注定会持续失败”",
-    "url": "https://www.pv-tech.org/cpuc-finalises-community-solar-scheme-class-destined-for-continued-failure/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T11:06:54+00:00"
-  },
-  "31838560f134": {
-    "id": "31838560f134",
-    "title_en": "SmartHelio bags investment to expand AI-powered solar analytics platform",
-    "title_zh": "SmartHelio投资扩大人工智能太阳能分析平台",
-    "url": "https://www.pv-tech.org/smarthelio-bags-investment-to-expand-ai-powered-solar-analytics-platform/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-15T11:01:05+00:00"
   }
 }
