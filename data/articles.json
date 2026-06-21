@@ -1,4 +1,31 @@
 {
+  "c9875aca84d3": {
+    "id": "c9875aca84d3",
+    "title_en": "Tesla driver says it was on Autopilot before fatal Texas home crash",
+    "title_zh": "特斯拉司机表示，在得克萨斯州发生致命车祸之前，它正在使用自动驾驶仪",
+    "url": "https://electrek.co/2026/06/20/tesla-autopilot-katy-texas-home-crash-woman-killed/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-21T01:47:23+00:00"
+  },
+  "75d4f8936fd2": {
+    "id": "75d4f8936fd2",
+    "title_en": "Is AI Doomed To Fail?",
+    "title_zh": "人工智能注定要失败吗？",
+    "url": "https://cleantechnica.com/2026/06/20/is-ai-doomed-to-fail/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-20T23:45:40+00:00"
+  },
+  "18b0cb35ce55": {
+    "id": "18b0cb35ce55",
+    "title_en": "G7 Takes Aim at China’s Grip on Critical Minerals",
+    "title_zh": "七国集团瞄准中国对关键矿产的控制",
+    "url": "https://oilprice.com/Energy/Energy-General/G7-Takes-Aim-at-Chinas-Grip-on-Critical-Minerals.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-20T23:00:00+00:00"
+  },
   "42d4d73bdc2e": {
     "id": "42d4d73bdc2e",
     "title_en": "As Kenya’s Electric Motorcycle Ecosystem Grows, Local Firms Are Starting to Specialise and Forge Interesting Partnerships With Large Global Firms",
@@ -4471,32 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-06-15T10:08:01+00:00"
-  },
-  "31535af20511": {
-    "id": "31535af20511",
-    "title_en": "Germany proposes two-sided CfDs amid offshore wind reform",
-    "title_zh": "德国在海上风电改革中提出双边CfD",
-    "url": "https://www.windpowermonthly.com/article/1961578/germany-proposes-two-sided-cfds-amid-offshore-wind-reform",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-15T09:49:02+00:00"
-  },
-  "c730ef077b32": {
-    "id": "c730ef077b32",
-    "title_en": "U.S.-Iran Deal Doesn’t Mean a Swift Return of Oil and Gas Flows",
-    "title_zh": "美伊协议并不意味着石油和天然气流量的迅速恢复",
-    "url": "https://oilprice.com/Energy/Oil-Prices/US-Iran-Deal-Doesnt-Mean-a-Swift-Return-of-Oil-and-Gas-Flows.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T09:25:00+00:00"
-  },
-  "5cfff3756e8f": {
-    "id": "5cfff3756e8f",
-    "title_en": "Japanese Shipping Companies Hold Back Despite Hormuz Deal",
-    "title_zh": "尽管有霍尔木兹协议，日本航运公司仍保持克制",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Shipping-Companies-Hold-Back-Despite-Hormuz-Deal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T09:12:00+00:00"
   }
 }
