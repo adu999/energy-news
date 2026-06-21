@@ -1,4 +1,31 @@
 {
+  "7bdbae4ccdb7": {
+    "id": "7bdbae4ccdb7",
+    "title_en": "Termination Shock — The Existential Danger Of Geoengineering",
+    "title_zh": "终止冲击——地质工程存在的危险",
+    "url": "https://cleantechnica.com/2026/06/21/termination-shock-the-existential-danger-of-geoengineering/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-21T16:01:40+00:00"
+  },
+  "4ae118931562": {
+    "id": "4ae118931562",
+    "title_en": "The Hormuz Crisis Has Forced India to Rethink Its Energy Strategy",
+    "title_zh": "霍尔木兹危机迫使印度重新思考其能源战略",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Crisis-Has-Forced-India-to-Rethink-Its-Energy-Strategy.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-21T15:00:00+00:00"
+  },
+  "dc2c1e9e5f93": {
+    "id": "dc2c1e9e5f93",
+    "title_en": "Tesla plans to sell modular AI data center hardware called ‘Megapod’",
+    "title_zh": "特斯拉计划出售名为“Megapod”的模块化AI数据中心硬件",
+    "url": "https://electrek.co/2026/06/21/tesla-megapod-ai-data-center-hardware/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-21T14:26:22+00:00"
+  },
   "e39a6edcbd75": {
     "id": "e39a6edcbd75",
     "title_en": "From labs to logistics: China tests sodium batteries in HD trucks",
@@ -4471,32 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-06-15T11:42:05+00:00"
-  },
-  "d8eaf3feb5ca": {
-    "id": "d8eaf3feb5ca",
-    "title_en": "Siemens Gamesa could cut capacity ‘if Europe falters on offshore wind targets’",
-    "title_zh": "如果欧洲在海上风电目标上步履蹒跚，西门子歌美飒可能会削减产能",
-    "url": "https://www.windpowermonthly.com/article/1961619/siemens-gamesa-cut-capacity-if-europe-falters-offshore-wind-targets",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-15T11:42:05+00:00"
-  },
-  "b0df29ab919c": {
-    "id": "b0df29ab919c",
-    "title_en": "China’s Return to the Oil Market Could Boost Inflation",
-    "title_zh": "中国重返石油市场可能会加剧通货膨胀",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Return-to-the-Oil-Market-Could-Boost-Inflation.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-15T11:30:00+00:00"
-  },
-  "8362fd43c3b6": {
-    "id": "8362fd43c3b6",
-    "title_en": "Want To Create A Viable And Sustainable Community Garden? These Folks Can Show You How",
-    "title_zh": "想要创建一个可行且可持续的社区花园吗？这些人可以告诉你如何",
-    "url": "https://cleantechnica.com/2026/06/15/want-to-create-a-viable-and-sustainable-community-garden-these-folks-can-show-you-how/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-15T11:27:54+00:00"
   }
 }
