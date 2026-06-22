@@ -1,4 +1,103 @@
 {
+  "cbdeb7cb03f5": {
+    "id": "cbdeb7cb03f5",
+    "title_en": "Denmark and Germany Launch Europe’s First Hydrogen Superhighway",
+    "title_zh": "丹麦和德国推出欧洲第一条氢能高速公路",
+    "url": "https://oilprice.com/Energy/Energy-General/Denmark-and-Germany-Launch-Europes-First-Hydrogen-Superhighway.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T20:00:00+00:00"
+  },
+  "87a472f48f41": {
+    "id": "87a472f48f41",
+    "title_en": "Hyundai is discounting EVs because who wants to pay for gas these days",
+    "title_zh": "现代正在打折电动汽车，因为现在谁想支付汽油费",
+    "url": "https://electrek.co/2026/06/22/hyundai-discounting-evs-gas/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-22T19:29:58+00:00"
+  },
+  "3d763905cba1": {
+    "id": "3d763905cba1",
+    "title_en": "Ore Energy Will Deploy 1 GWh of Iron-Air Long-Duration Energy Storage in Europe",
+    "title_zh": "Ore Energy将在欧洲部署1GWh的铁空气长期储能",
+    "url": "https://www.powermag.com/ore-energy-will-deploy-1-gwh-of-iron-air-long-duration-energy-storage-in-europe/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-22T19:09:05+00:00"
+  },
+  "03a2f6af047d": {
+    "id": "03a2f6af047d",
+    "title_en": "London Mayor: UK Tops Green Finance Rankings for Eighth Straight Year",
+    "title_zh": "伦敦市长：英国连续第八年位居绿色金融榜首",
+    "url": "https://oilprice.com/Energy/Energy-General/London-Mayor-UK-Tops-Green-Finance-Rankings-for-Eighth-Straight-Year.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T19:00:00+00:00"
+  },
+  "7abbdf357b07": {
+    "id": "7abbdf357b07",
+    "title_en": "Tesla On Autopilot Crashes Into Texas House, Killing One",
+    "title_zh": "特斯拉在自动驾驶仪上撞上德克萨斯州的房子，造成一人死亡",
+    "url": "https://cleantechnica.com/2026/06/22/tesla-on-autopilot-crashes-into-texas-house-killing-one/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-22T18:49:08+00:00"
+  },
+  "f1fb1cce927d": {
+    "id": "f1fb1cce927d",
+    "title_en": "Greek Energy Pulls In $26B As Europe Scrambles To Replace Russian Gas",
+    "title_zh": "欧洲争相取代俄罗斯天然气，希腊能源收入达260亿美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Greek-Energy-Pulls-In-26B-As-Europe-Scrambles-To-Replace-Russian-Gas.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T18:30:00+00:00"
+  },
+  "6e671b65b58e": {
+    "id": "6e671b65b58e",
+    "title_en": "Early Prime flash sales on EcoFlow + Anker SOLIX power stations, Gotrax electric dirt bike for kids $484 low, tool lows, more",
+    "title_zh": "EcoFlow+Anker SOLIX发电站、儿童Gotrax电动越野自行车的早期Prime闪购价格低484美元，工具低，更多",
+    "url": "https://electrek.co/2026/06/22/early-prime-flash-sales-ecoflow-anker-solix-power-stations-gotrax-electric-dirt-bike-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-22T18:00:00+00:00"
+  },
+  "ef3388abffe9": {
+    "id": "ef3388abffe9",
+    "title_en": "The Oil Crisis Is Far From Over",
+    "title_zh": "石油危机远未结束",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Oil-Crisis-Is-Far-From-Over.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T18:00:00+00:00"
+  },
+  "7da760e4da23": {
+    "id": "7da760e4da23",
+    "title_en": "Gazelle unveils stylish e-bike powered by Bosch’s new hub motor",
+    "title_zh": "Gazelle推出由博世新型轮毂电机驱动的时尚电动自行车",
+    "url": "https://electrek.co/2026/06/22/gazelle-unveils-stylish-e-bike-powered-by-boschs-new-hub-motor/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-22T17:57:09+00:00"
+  },
+  "21aa85e4635a": {
+    "id": "21aa85e4635a",
+    "title_en": "Saudis Turn to Russian Fuel Oil as Iran War Saps Fossil Power Supplies",
+    "title_zh": "伊朗战争耗尽化石能源供应，沙特转向俄罗斯燃料油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudis-Turn-to-Russian-Fuel-Oil-as-Iran-War-Saps-Fossil-Power-Supplies.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T17:30:00+00:00"
+  },
+  "182f6868cd50": {
+    "id": "182f6868cd50",
+    "title_en": "New solid-state battery electrolyte retains over 84% of its capacity after 350 cycles",
+    "title_zh": "新型固态电池电解质在350次循环后仍能保持84%以上的容量",
+    "url": "https://electrek.co/2026/06/22/solid-state-battery-electrolyte-retains-84-capacity-after-350-cycles/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-22T17:18:16+00:00"
+  },
   "2d4db34b2056": {
     "id": "2d4db34b2056",
     "title_en": "The Race to Revive Venezuela’s Vast Oil Wealth Is Underway",
@@ -105,6 +204,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/The-Phantom-Peace-Deal-What-Washington-and-Tehran-Are-Really-Playing-At.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-06-22T15:00:00+00:00"
+  },
+  "0f220364ad3e": {
+    "id": "0f220364ad3e",
+    "title_en": "Major critical infrastructure disruptions are inevitable, acting CISA chief says",
+    "title_zh": "CISA代理主管表示，重大关键基础设施中断是不可避免的",
+    "url": "https://www.utilitydive.com/news/cybersecurity-resilience-critical-infrastructure-cisa-nick-andersen/823391/",
+    "source": "Utility Dive",
+    "category": "电网",
     "pub_ts": "2026-06-22T15:00:00+00:00"
   },
   "7ca163e824ac": {
@@ -322,6 +430,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-22T12:30:00+00:00"
+  },
+  "008e4d2792d5": {
+    "id": "008e4d2792d5",
+    "title_en": "Texas, facing 438 GW queue, approves initial large-load interconnection process",
+    "title_zh": "德克萨斯州面临438吉瓦的排队，批准了最初的大负荷互联过程",
+    "url": "https://www.utilitydive.com/news/texas-facing-438-gw-queue-approves-initial-large-load-interconnection-pro/823367/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-22T12:26:44+00:00"
   },
   "af69eba5a390": {
     "id": "af69eba5a390",
@@ -4381,122 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-16T13:21:09+00:00"
-  },
-  "931f76d6fb5b": {
-    "id": "931f76d6fb5b",
-    "title_en": "Inside PV manufacturing: Solarge’s module factory in Netherlands",
-    "title_zh": "光伏制造内部：Solarge在荷兰的组件工厂",
-    "url": "https://www.pv-magazine.com/2026/06/16/inside-pv-manufacturing-solarges-module-factory-in-netherlands/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T13:19:23+00:00"
-  },
-  "159590311a54": {
-    "id": "159590311a54",
-    "title_en": "Offshore Wind Innovation Hub Launches in UK to Accelerate Industrialisation",
-    "title_zh": "英国启动海上风电创新中心，加速工业化进程",
-    "url": "https://www.offshorewind.biz/2026/06/16/offshore-wind-innovation-hub-launches-in-uk-to-accelerate-industrialisation/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-16T13:10:30+00:00"
-  },
-  "d72d12ebe995": {
-    "id": "d72d12ebe995",
-    "title_en": "Baidu Apollo Go wins Level 4 robotaxi approval in Switzerland as AmiGo",
-    "title_zh": "百度Apollo Go以AmiGo的身份在瑞士获得四级机器人出租车认证",
-    "url": "https://electrek.co/2026/06/16/baidu-apollo-go-amigo-switzerland-level-4-approval/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-16T12:40:42+00:00"
-  },
-  "6f1f4da67d18": {
-    "id": "6f1f4da67d18",
-    "title_en": "EVs Will Come Roaring Back, Rivian Edition",
-    "title_zh": "电动汽车将卷土重来，Rivian版",
-    "url": "https://cleantechnica.com/2026/06/16/rivian-evs-us-plans-v2g-discounts-new-factory-georgia/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-16T12:40:23+00:00"
-  },
-  "22c30630ec69": {
-    "id": "22c30630ec69",
-    "title_en": "Northeast states eye offshore HVDC transmission as Trump drops wind fight",
-    "title_zh": "随着特朗普放弃与风电的斗争，东北各州将目光投向海上高压直流输电",
-    "url": "https://www.utilitydive.com/news/northeast-states-offshore-hvdc-transmission-trump-drops-wind-fight/822992/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-16T12:34:28+00:00"
-  },
-  "03fd717b83d0": {
-    "id": "03fd717b83d0",
-    "title_en": "Qatar Eyes Quick LNG Restart Once Hormuz Reopens",
-    "title_zh": "霍尔木兹重新开放后，卡塔尔希望快速重启液化天然气",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Eyes-Quick-LNG-Restart-Once-Hormuz-Reopens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-16T12:30:00+00:00"
-  },
-  "d87e4389ef21": {
-    "id": "d87e4389ef21",
-    "title_en": "China proposes PV product grading system in bid to drive industry consolidation",
-    "title_zh": "中国提出光伏产品分级制度以推动行业整合",
-    "url": "https://www.pv-magazine.com/2026/06/16/china-proposes-pv-product-grading-system-in-bid-to-drive-industry-consolidation/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T12:28:26+00:00"
-  },
-  "60a6481b2ec5": {
-    "id": "60a6481b2ec5",
-    "title_en": "Create Energy acquires solar tracker company SOL Components",
-    "title_zh": "Create Energy收购太阳能跟踪器公司SOL Components",
-    "url": "https://www.solarpowerworldonline.com/2026/06/create-energy-acquires-solar-tracker-company-sol-components/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T12:27:59+00:00"
-  },
-  "8a2ac25c3163": {
-    "id": "8a2ac25c3163",
-    "title_en": "MPC begins testing and commissioning work at 66.1MW Guatemala solar PV project",
-    "title_zh": "MPC开始66.1MW危地马拉太阳能光伏项目的测试和调试工作",
-    "url": "https://www.pv-tech.org/mpc-begins-testing-commissioning-work-66-1mw-guatemala-solar-pv-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T12:14:34+00:00"
-  },
-  "4345802f9b6a": {
-    "id": "4345802f9b6a",
-    "title_en": "Who killed the lightweight commuter e-bike?",
-    "title_zh": "谁杀死了轻便的通勤电动自行车？",
-    "url": "https://electrek.co/2026/06/16/who-killed-the-lightweight-commuter-e-bike/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-16T12:10:47+00:00"
-  },
-  "22525df93b6f": {
-    "id": "22525df93b6f",
-    "title_en": "Op-ed: What commercial solar contractors need to know before permits",
-    "title_zh": "专栏：商业太阳能承包商在获得许可之前需要知道什么",
-    "url": "https://www.solarpowerworldonline.com/2026/06/what-commercial-solar-contractors-need-to-know-before-permits/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T12:00:58+00:00"
-  },
-  "bcaa56690620": {
-    "id": "bcaa56690620",
-    "title_en": "Integrated storage modeling now available in HelioScope for commercial installs",
-    "title_zh": "HelioScope现已提供集成存储建模，可用于商业安装",
-    "url": "https://www.solarpowerworldonline.com/2026/06/integrated-storage-modeling-now-available-in-helioscope-for-commercial-installs/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T12:00:19+00:00"
-  },
-  "1240c744086e": {
-    "id": "1240c744086e",
-    "title_en": "Rivian just made it easier to save money on home EV charging",
-    "title_zh": "Rivian只是让家庭电动汽车充电更容易省钱",
-    "url": "https://electrek.co/2026/06/16/rivian-just-made-it-easier-to-save-money-on-home-ev-charging/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-16T12:00:00+00:00"
   }
 }
