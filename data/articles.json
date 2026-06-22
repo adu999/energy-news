@@ -1,4 +1,49 @@
 {
+  "0a5ce75e422b": {
+    "id": "0a5ce75e422b",
+    "title_en": "Global EV Industry Faces Outsized Risk From Cobalt Supply Disruptions",
+    "title_zh": "全球电动汽车行业面临钴供应中断带来的巨大风险",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-EV-Industry-Faces-Outsized-Risk-From-Cobalt-Supply-Disruptions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T22:00:00+00:00"
+  },
+  "2fdc65c4ce16": {
+    "id": "2fdc65c4ce16",
+    "title_en": "Zurich to Get Robotaxis",
+    "title_zh": "苏黎世将推出机器人出租车",
+    "url": "https://cleantechnica.com/2026/06/22/zurich-to-get-robotaxis/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-22T21:51:29+00:00"
+  },
+  "da3c54fd41fb": {
+    "id": "da3c54fd41fb",
+    "title_en": "The Kia PV5 is getting a bigger sibling: Here’s our first look at the PV7 [Video]",
+    "title_zh": "起亚PV5正在成为一个更大的兄弟：这是我们第一次看到PV7[视频]",
+    "url": "https://electrek.co/2026/06/22/kia-pv5-bigger-sibling-first-look-pv7-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-22T21:33:05+00:00"
+  },
+  "4faf04b602e4": {
+    "id": "4faf04b602e4",
+    "title_en": "The Hormuz Threat Oil Markets Are Ignoring",
+    "title_zh": "霍尔木兹威胁石油市场正在忽视",
+    "url": "https://oilprice.com/Energy/Oil-Prices/The-Hormuz-Threat-Oil-Markets-Are-Ignoring.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T21:00:00+00:00"
+  },
+  "6ad2addd82da": {
+    "id": "6ad2addd82da",
+    "title_en": "NHTSA probes fatal Tesla crash into Texas home that killed woman",
+    "title_zh": "美国国家公路交通安全管理局调查特斯拉在得克萨斯州家中致命车祸，导致一名女子死亡",
+    "url": "https://electrek.co/2026/06/22/nhtsa-tesla-katy-crash-federal-investigation/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-22T20:56:09+00:00"
+  },
   "cbdeb7cb03f5": {
     "id": "cbdeb7cb03f5",
     "title_en": "Denmark and Germany Launch Europe’s First Hydrogen Superhighway",
@@ -4453,50 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-06-16T13:59:52+00:00"
-  },
-  "6b5e755d9f54": {
-    "id": "6b5e755d9f54",
-    "title_en": "Tesla ‘Robotaxis’ are not crashing because they are not running",
-    "title_zh": "特斯拉的“机器人出租车”没有崩溃，因为它们没有运行",
-    "url": "https://electrek.co/2026/06/16/tesla-robotaxi-clean-crash-record-barely-running/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-16T13:50:51+00:00"
-  },
-  "9895453acb44": {
-    "id": "9895453acb44",
-    "title_en": "Dominion Energy, Santee Cooper receive state approval for $5B gas project",
-    "title_zh": "Dominion Energy和Santee Cooper的50亿美元天然气项目获得州政府批准",
-    "url": "https://www.utilitydive.com/news/dominion-energy-santee-cooper-gas-power-plant/823004/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-16T13:49:33+00:00"
-  },
-  "bfd4eb236156": {
-    "id": "bfd4eb236156",
-    "title_en": "Netherlands Raises Subsidy Ceiling for Upcoming Offshore Wind Tender",
-    "title_zh": "荷兰提高即将进行的海上风电招标的补贴上限",
-    "url": "https://www.offshorewind.biz/2026/06/16/netherlands-raises-subsidy-ceiling-for-upcoming-offshore-wind-tender/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-16T13:40:14+00:00"
-  },
-  "493a8acb3a4f": {
-    "id": "493a8acb3a4f",
-    "title_en": "Dubai and Murban Crude Signal End of Middle East Supply Crunch",
-    "title_zh": "迪拜和Murban原油标志着中东供应危机的结束",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dubai-and-Murban-Crude-Signal-End-of-Middle-East-Supply-Crunch.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-16T13:30:00+00:00"
-  },
-  "f1abcaf6e4ef": {
-    "id": "f1abcaf6e4ef",
-    "title_en": "Ex-Tesla exec builds the home heat pump Tesla gave up for robots",
-    "title_zh": "前特斯拉高管建造特斯拉放弃机器人的家用热泵",
-    "url": "https://electrek.co/2026/06/16/tesla-home-heat-pump-drew-baglino-sadi-robots/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-16T13:21:09+00:00"
   }
 }
