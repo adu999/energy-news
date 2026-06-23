@@ -1,4 +1,49 @@
 {
+  "0f280fa537f1": {
+    "id": "0f280fa537f1",
+    "title_en": "LDEQ Must Conduct Full Environmental Justice Analysis of Hyundai Steel Facility",
+    "title_zh": "LDEQ必须对现代钢铁厂进行全面的环境正义分析",
+    "url": "https://cleantechnica.com/2026/06/22/ldeq-must-conduct-full-environmental-justice-analysis-of-hyundai-steel-facility/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-23T01:25:55+00:00"
+  },
+  "def39759ecea": {
+    "id": "def39759ecea",
+    "title_en": "Kenya Is Surprisingly One Of The Slowest Markets In Africa When It Comes To Adoption Of Electric Cars",
+    "title_zh": "肯尼亚是非洲电动汽车普及率最低的市场之一",
+    "url": "https://cleantechnica.com/2026/06/22/kenya-is-surprisingly-one-of-the-slowest-markets-in-africa-when-it-comes-to-adoption-of-electric-cars/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-23T00:26:43+00:00"
+  },
+  "35392b7b6c82": {
+    "id": "35392b7b6c82",
+    "title_en": "Australian Centre for Advanced Photovoltaics ranked first globally for solar research",
+    "title_zh": "澳大利亚先进光伏中心在太阳能研究方面排名全球第一",
+    "url": "https://www.pv-tech.org/australian-centre-for-advanced-photovoltaics-ranked-first-globally-for-solar-research/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-23T00:12:07+00:00"
+  },
+  "73dacb22dbf6": {
+    "id": "73dacb22dbf6",
+    "title_en": "How Many Barrels of Oil Do AI Data Centers Consume on a Daily Basis?",
+    "title_zh": "人工智能数据中心每天消耗多少桶石油？",
+    "url": "https://oilprice.com/Energy/Energy-General/How-Many-Barrels-of-Oil-Do-AI-Data-Centers-Consume-on-a-Daily-Basis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-23T00:00:00+00:00"
+  },
+  "6e7c4cda8a98": {
+    "id": "6e7c4cda8a98",
+    "title_en": "Half-Open, Half-Closed Strait of Hormuz Baffles Oil Markets",
+    "title_zh": "霍尔木兹海峡半开半闭阻碍石油市场",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Half-Open-Half-Closed-Strait-of-Hormuz-Baffles-Oil-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-22T23:00:00+00:00"
+  },
   "0a5ce75e422b": {
     "id": "0a5ce75e422b",
     "title_en": "Global EV Industry Faces Outsized Risk From Cobalt Supply Disruptions",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-16T14:30:00+00:00"
-  },
-  "9e30a5b043fb": {
-    "id": "9e30a5b043fb",
-    "title_en": "Kia’s electric van delivers more driving range in the real world at 260 miles",
-    "title_zh": "起亚的电动货车在现实世界中的行驶里程为260英里",
-    "url": "https://electrek.co/2026/06/16/kias-ev-van-beats-range-rating-driving-260-miles-in-real-world/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-16T14:17:22+00:00"
-  },
-  "b98d2577c0c0": {
-    "id": "b98d2577c0c0",
-    "title_en": "Verogy is turning 4 municipal landfills into solar projects",
-    "title_zh": "Verogy正在将4个市政垃圾填埋场改造成太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/06/verogy-is-turning-4-municipal-landfills-into-solar-projects/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-16T14:02:32+00:00"
-  },
-  "6defd41423ab": {
-    "id": "6defd41423ab",
-    "title_en": "8 New Fast EV Chargers Installed In Kentucky",
-    "title_zh": "肯塔基州安装了8个新的快速电动汽车充电器",
-    "url": "https://cleantechnica.com/2026/06/16/8-new-fast-ev-chargers-installed-in-kentucky/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-16T14:01:23+00:00"
-  },
-  "494bc2aac582": {
-    "id": "494bc2aac582",
-    "title_en": "U.S. and Iran Digitally Sign Peace Deal to Reopen Strait of Hormuz",
-    "title_zh": "美国和伊朗以数字方式签署重新开放霍尔木兹海峡的和平协议",
-    "url": "https://oilprice.com/Energy/Energy-General/US-and-Iran-Digitally-Sign-Peace-Deal-to-Reopen-Strait-of-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-16T14:00:00+00:00"
-  },
-  "f4ac04a0f591": {
-    "id": "f4ac04a0f591",
-    "title_en": "Ontario IESO procures 640MW energy storage in LT2 Request for Proposals",
-    "title_zh": "安大略省IESO在LT2征求建议书中采购640MW储能",
-    "url": "https://www.energy-storage.news/ontario-ieso-procures-640mw-energy-storage-in-lt2-request-for-proposals/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-16T13:59:52+00:00"
   }
 }
