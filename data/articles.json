@@ -1,4 +1,139 @@
 {
+  "7049d72637eb": {
+    "id": "7049d72637eb",
+    "title_en": "Canada Building West’s First Grid-Scale SMR",
+    "title_zh": "加拿大西部建设首个电网规模的SMR",
+    "url": "https://oilprice.com/Energy/Energy-General/Canada-Building-Wests-First-Grid-Scale-SMR.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T17:00:00+00:00"
+  },
+  "31e88649dc53": {
+    "id": "31e88649dc53",
+    "title_en": "Ford believes it has an edge over China with its new affordable EV platform",
+    "title_zh": "福特相信，凭借其新的经济实惠的电动汽车平台，它比中国更有优势",
+    "url": "https://electrek.co/2026/06/24/ford-edge-over-china-30k-ev-platform/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T16:58:10+00:00"
+  },
+  "3294efc0c7bc": {
+    "id": "3294efc0c7bc",
+    "title_en": "California Preps For Battle Royale Over Offshore Wind Leases That Trump Wants To Kill",
+    "title_zh": "加利福尼亚州为特朗普想要杀死的海上风电租赁的皇家之战做准备",
+    "url": "https://cleantechnica.com/2026/06/24/floating-offshore-wind-farms-california-lawsuit-trump/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T16:31:33+00:00"
+  },
+  "677d4fb9ab9f": {
+    "id": "677d4fb9ab9f",
+    "title_en": "Rosneft Proposes Oil Firms to Refine 30% of Crude in Russia to Ease Fuel Crunch",
+    "title_zh": "俄罗斯石油公司提议石油公司在俄罗斯精炼30%的原油以缓解燃料短缺",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Rosneft-Proposes-Oil-Firms-to-Refine-30-of-Crude-in-Russia-to-Ease-Fuel-Crunch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T16:30:00+00:00"
+  },
+  "6935b5bb8db8": {
+    "id": "6935b5bb8db8",
+    "title_en": "Toyo Solar sells shares to finance HJT cell manufacturing in the US",
+    "title_zh": "东洋太阳能出售股份，为HJT电池在美国的制造提供资金",
+    "url": "https://www.pv-tech.org/toyo-solar-sells-shares-raise-us50-million-finance-hjt-cell-manufacturing/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-24T16:04:28+00:00"
+  },
+  "1a3d70fce0af": {
+    "id": "1a3d70fce0af",
+    "title_en": "Trump’s Nuclear Gamble Aims to Reshape the U.S. Power Grid",
+    "title_zh": "特朗普的核赌博旨在重塑美国电网",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trumps-Nuclear-Gamble-Aims-to-Reshape-the-US-Power-Grid.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T16:00:00+00:00"
+  },
+  "8d74cc2d0f87": {
+    "id": "8d74cc2d0f87",
+    "title_en": "Comstock Metals to establish solar panel recycling and logistics hub in Ohio",
+    "title_zh": "Comstock Metals将在俄亥俄州建立太阳能电池板回收和物流中心",
+    "url": "https://www.pv-tech.org/comstock-metals-to-establish-solar-panel-recycling-and-logistics-hub-in-ohio/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-24T15:40:06+00:00"
+  },
+  "08a3be800bfc": {
+    "id": "08a3be800bfc",
+    "title_en": "Mombasa: Key outcomes from the Our Ocean Conference in Kenya",
+    "title_zh": "蒙巴萨：肯尼亚海洋会议的主要成果",
+    "url": "https://www.carbonbrief.org/mombasa-key-outcomes-from-the-our-ocean-conference-in-kenya/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-06-24T15:37:02+00:00"
+  },
+  "8a49b6d3a75b": {
+    "id": "8a49b6d3a75b",
+    "title_en": "Moscow Refinery May Stay Offline Until 2027",
+    "title_zh": "莫斯科炼油厂可能停产至2027年",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Moscow-Refinery-May-Stay-Offline-Until-2027.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T15:30:00+00:00"
+  },
+  "ed8027a0c01d": {
+    "id": "ed8027a0c01d",
+    "title_en": "Geopolitics Smooths The Energy Transition Curve",
+    "title_zh": "地缘政治缓和了能源转型曲线",
+    "url": "https://cleantechnica.com/2026/06/24/geopolitics-energy-transition-curve/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T15:13:10+00:00"
+  },
+  "3cdd027fa17a": {
+    "id": "3cdd027fa17a",
+    "title_en": "Intersolar Europe 2026: Domestic solar manufacturing won’t be a ‘disruptor’, Fronius pushes EU-made message",
+    "title_zh": "Intersolar Europe 2026：国内太阳能制造业不会成为“破坏者”，Fronius推动欧盟发出的信息",
+    "url": "https://www.pv-tech.org/intersolar-europe-2026-domestic-solar-manufacturing-disruptor-fronius-pushes-eu/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-24T14:53:03+00:00"
+  },
+  "36cc43980f8e": {
+    "id": "36cc43980f8e",
+    "title_en": "Intersolar Europe 2026: GCL-SI launches GPC 3.0 all-black back-contact module",
+    "title_zh": "Intersolar Europe 2026:GCL-SI推出GPC 3.0全黑背接触模块",
+    "url": "https://www.pv-tech.org/intersolar-europe-2026-gcl-si-launches-gpc-3-0-all-black-back-contact-module/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-06-24T14:51:12+00:00"
+  },
+  "dc6137098aac": {
+    "id": "dc6137098aac",
+    "title_en": "Norwegian, Japanese Geotechnical Firms Ink Offshore Wind Cooperation Agreement",
+    "title_zh": "挪威、日本岩土工程公司签署海上风电合作协议",
+    "url": "https://www.offshorewind.biz/2026/06/24/norwegian-japanese-geotechnical-firms-ink-offshore-wind-cooperation-agreement/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-06-24T14:51:12+00:00"
+  },
+  "15a843a6d2c6": {
+    "id": "15a843a6d2c6",
+    "title_en": "U.S. Crude Inventories Post Another Major Draw",
+    "title_zh": "美国原油库存再次大幅下降",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Post-Another-Major-Draw.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T14:41:53+00:00"
+  },
+  "a68d65d6a793": {
+    "id": "a68d65d6a793",
+    "title_en": "Toyota scrapped the flagship Lexus EV, but a successor just got the green light",
+    "title_zh": "丰田取消了旗舰雷克萨斯电动汽车，但继任者刚刚获得绿灯",
+    "url": "https://electrek.co/2026/06/24/toyota-scraps-new-lexus-ev-successor-gets-green-light/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T14:36:30+00:00"
+  },
   "6768b77fe4b2": {
     "id": "6768b77fe4b2",
     "title_en": "UK Climate Panel Urges Faster Electrification to Lower Energy Bills",
@@ -35,6 +170,15 @@
     "category": "EV",
     "pub_ts": "2026-06-24T14:12:14+00:00"
   },
+  "465cd1f445dc": {
+    "id": "465cd1f445dc",
+    "title_en": "Platte River, EnergyHub partner to deploy 39-MW Colorado VPP",
+    "title_zh": "Platte River与EnergyHub合作部署39兆瓦科罗拉多VPP",
+    "url": "https://www.utilitydive.com/news/platte-river-energyhub-partner-to-deploy-39-mw-colorado-vpp/823634/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-24T14:07:56+00:00"
+  },
   "3e808137935b": {
     "id": "3e808137935b",
     "title_en": "California will sue over Trump’s latest bribe to block wind power",
@@ -62,11 +206,29 @@
     "category": "风电",
     "pub_ts": "2026-06-24T13:46:42+00:00"
   },
+  "0d5abb5bebfb": {
+    "id": "0d5abb5bebfb",
+    "title_en": "DOE offers $17.5B in loans to help build 10 large nuclear reactors",
+    "title_zh": "美国能源部提供175亿美元贷款，帮助建造10座大型核反应堆",
+    "url": "https://www.utilitydive.com/news/doe-offers-175b-loans-help-build-10-large-nuclear-reactors/823633/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-24T13:45:06+00:00"
+  },
   "6a0782e8a588": {
     "id": "6a0782e8a588",
     "title_en": "Dominion Energy launches long-duration energy storage RFI in Virgina",
     "title_zh": "Dominion Energy在弗吉尼亚州推出长期储能RFI",
     "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virgina/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-24T13:44:00+00:00"
+  },
+  "6c758d927944": {
+    "id": "6c758d927944",
+    "title_en": "Dominion Energy launches long-duration energy storage RFI in Virginia",
+    "title_zh": "Dominion Energy在弗吉尼亚州推出长期储能RFI",
+    "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virginia/",
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-06-24T13:44:00+00:00"
@@ -952,6 +1114,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-23T15:40:09+00:00"
+  },
+  "20cab69ae9ac": {
+    "id": "20cab69ae9ac",
+    "title_en": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says",
+    "title_zh": "Ameresco首席执行官表示，K-12学校可以通过绩效合同来缓解能源成本上涨",
+    "url": "https://www.utilitydive.com/news/k-12-schools-can-soften-energy-cost-hikes-with-performance-contracts-amere/823647/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-23T15:15:43+00:00"
   },
   "bbf14ccc8892": {
     "id": "bbf14ccc8892",
@@ -4327,176 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-18T12:53:32+00:00"
-  },
-  "2ed9a1325642": {
-    "id": "2ed9a1325642",
-    "title_en": "Enphase co-founder says solid-state transformer can ease data centre ‘power problems’",
-    "title_zh": "Enphase联合创始人表示，固态变压器可以缓解数据中心的“电源问题”",
-    "url": "https://www.energy-storage.news/enphase-co-founder-says-solid-state-transformer-can-ease-data-centre-power-problems/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-18T12:32:52+00:00"
-  },
-  "e20dc020fc5a": {
-    "id": "e20dc020fc5a",
-    "title_en": "US sodium-ion startups form coalition to challenge China’s battery dominance",
-    "title_zh": "美国钠离子初创公司联合挑战中国电池主导地位",
-    "url": "https://www.energy-storage.news/us-sodium-ion-startups-form-coalition-to-challenge-chinas-battery-dominance/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-18T12:30:07+00:00"
-  },
-  "b0e3c83ac99d": {
-    "id": "b0e3c83ac99d",
-    "title_en": "Argus: U.S-Iran Deal Won’t Lead to One-Way Traffic to Plunging Oil Prices",
-    "title_zh": "阿格斯：美国与伊朗的协议不会导致单向交通导致油价暴跌",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Argus-US-Iran-Deal-Wont-Lead-to-One-Way-Traffic-to-Plunging-Oil-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T12:30:00+00:00"
-  },
-  "43cb7824f417": {
-    "id": "43cb7824f417",
-    "title_en": "Aypa Power brings 1,000MWh Arizona BESS online in utility Salt River Project’s busy June",
-    "title_zh": "Aypa Power在盐河项目繁忙的6月份将1000兆瓦时的亚利桑那州BESS上线",
-    "url": "https://www.energy-storage.news/aypa-power-brings-1000mwh-arizona-bess-online-in-utility-salt-river-projects-busy-june/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-18T12:25:18+00:00"
-  },
-  "9191e72c991f": {
-    "id": "9191e72c991f",
-    "title_en": "SolSource prepaid TPO offering available in six states and growing",
-    "title_zh": "SolSource预付TPO产品在六个州可用，并且还在不断增长",
-    "url": "https://www.solarpowerworldonline.com/2026/06/solsource-prepaid-tpo-offering-available-in-six-states-and-growing/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T12:22:16+00:00"
-  },
-  "254230ecf74d": {
-    "id": "254230ecf74d",
-    "title_en": "Scatec reaches financial close on 120MW Tunisian solar project",
-    "title_zh": "Scatec完成突尼斯120MW太阳能项目的财务结算",
-    "url": "https://www.pv-tech.org/scatec-reaches-financial-close-on-120mw-tunisian-solar-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T12:04:37+00:00"
-  },
-  "e8d732cf5ae6": {
-    "id": "e8d732cf5ae6",
-    "title_en": "Former Illinois coal mine now supports 650 community solar subscribers",
-    "title_zh": "前伊利诺伊州煤矿现在支持650名社区太阳能用户",
-    "url": "https://www.solarpowerworldonline.com/2026/06/former-illinois-coal-mine-now-supports-650-community-solar-subscribers/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T12:00:10+00:00"
-  },
-  "2d65bb3da410": {
-    "id": "2d65bb3da410",
-    "title_en": "CHINT uses integrated approach to build a resilient business model",
-    "title_zh": "正泰采用综合方法构建弹性商业模式",
-    "url": "https://www.pv-magazine.com/2026/06/18/chint-uses-integrated-approach-to-build-a-resilient-business-model/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T12:00:00+00:00"
-  },
-  "442aa5eee490": {
-    "id": "442aa5eee490",
-    "title_en": "Iran targets 15 GW of small-scale solar",
-    "title_zh": "伊朗计划生产15吉瓦的小型太阳能",
-    "url": "https://www.pv-magazine.com/2026/06/18/iran-targets-15-gw-of-small-scale-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T11:54:14+00:00"
-  },
-  "116b9173af8b": {
-    "id": "116b9173af8b",
-    "title_en": "California VPP is rolling out a $6,000 rebate for new home batteries",
-    "title_zh": "加州VPP推出6000美元的新家用电池折扣",
-    "url": "https://electrek.co/2026/06/18/california-vpp-is-rolling-out-a-6000-rebate-for-new-home-batteries/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-18T11:51:27+00:00"
-  },
-  "728bce704f8d": {
-    "id": "728bce704f8d",
-    "title_en": "India may exceed 60 GW of solar cell capacity by end of Q1 2027",
-    "title_zh": "到2027年第一季度末，印度太阳能电池容量可能超过60吉瓦",
-    "url": "https://www.pv-magazine.com/2026/06/18/india-may-exceed-60-gw-of-solar-cell-capacity-by-end-of-q1-2027/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T11:48:38+00:00"
-  },
-  "240c23ca3513": {
-    "id": "240c23ca3513",
-    "title_en": "Energy trader Second Foundation on owning projects and the ‘art’ of trading batteries in Germany",
-    "title_zh": "能源贸易商第二基金会在德国拥有项目和交易电池的“艺术”",
-    "url": "https://www.energy-storage.news/energy-trader-second-foundation-on-owning-projects-and-the-art-of-trading-batteries-in-germany/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-18T11:31:59+00:00"
-  },
-  "fbac26de6bf0": {
-    "id": "fbac26de6bf0",
-    "title_en": "India’s Energy Import Bill Jumps 82% Due to High Oil Prices",
-    "title_zh": "由于高油价，印度的能源进口账单上涨了82%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Energy-Import-Bill-Jumps-82-Due-to-High-Oil-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T11:30:00+00:00"
-  },
-  "90bf7d3fe40f": {
-    "id": "90bf7d3fe40f",
-    "title_en": "Chrysalis acquires 357MWdc Atlas solar projects from Hanwha in US",
-    "title_zh": "Chrysalis从美国韩华收购357MWdc Atlas太阳能项目",
-    "url": "https://www.pv-tech.org/chrysalis-acquires-357mwdc-atlas-solar-projects-from-hanwha-in-us/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T11:20:10+00:00"
-  },
-  "a03be96ead80": {
-    "id": "a03be96ead80",
-    "title_en": "Oxford PV and Fraunhofer ISE combine technologies in new perovskite-silicon tandem module design",
-    "title_zh": "牛津光伏和弗劳恩霍夫ISE在新型钙钛矿硅串联模块设计中结合了技术",
-    "url": "https://www.pv-tech.org/oxford-pv-and-fraunhofer-ise-combine-technologies-in-new-perovskite-silicon-tandem-module-design/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T11:04:22+00:00"
-  },
-  "71483a7e26aa": {
-    "id": "71483a7e26aa",
-    "title_en": "Arizona court rules against bill increase for state’s residential solar users",
-    "title_zh": "亚利桑那州法院裁定不增加该州住宅太阳能用户的账单",
-    "url": "https://www.pv-tech.org/arizona-court-rules-against-bill-increase-states-residential-solar-users/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T11:03:35+00:00"
-  },
-  "1d08510f75d8": {
-    "id": "1d08510f75d8",
-    "title_en": "‘Binding Commitment’ | Germany Refuses to Let TotalEnergies Relinquish Rights for 1.5 GW Offshore Wind Site",
-    "title_zh": "“有约束力的承诺”|德国拒绝让TotalEnergies放弃1.5吉瓦海上风电场的权利",
-    "url": "https://www.offshorewind.biz/2026/06/18/binding-commitment-germany-refuses-to-let-totalenergies-relinquish-rights-for-1-5-gw-offshore-wind-site/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-18T11:00:36+00:00"
-  },
-  "67333119a545": {
-    "id": "67333119a545",
-    "title_en": "Global semiconductors hiring slows after Q1 surge: What this means for your sector",
-    "title_zh": "第一季度激增后全球半导体招聘放缓：这对您的行业意味着什么",
-    "url": "https://www.energymonitor.ai/sponsored/global-semiconductors-hiring-slows-after-q1-surge-what-this-means-for-your-sector/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-18T10:57:40+00:00"
-  },
-  "2af57fd9d3bd": {
-    "id": "2af57fd9d3bd",
-    "title_en": "More Than 60 Million Barrels of Oil Ready to Head to Asia as Hormuz Reopens",
-    "title_zh": "霍尔木兹重新开放，超过6000万桶石油准备运往亚洲",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/More-Than-60-Million-Barrels-of-Oil-Ready-to-Head-to-Asia-as-Hormuz-Reopens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T10:30:00+00:00"
   }
 }
