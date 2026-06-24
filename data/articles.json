@@ -1,4 +1,103 @@
 {
+  "ca0062b36d62": {
+    "id": "ca0062b36d62",
+    "title_en": "America’s most affordable new car is THIS electric pickup, but Ford is catching up",
+    "title_zh": "美国最实惠的新车是这款电动皮卡，但福特正在迎头赶上",
+    "url": "https://electrek.co/2026/06/24/americas-most-affordable-new-car-is-this-electric-pickup-but-ford-is-catching-up/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T22:00:42+00:00"
+  },
+  "dfc929e64f0a": {
+    "id": "dfc929e64f0a",
+    "title_en": "Global Battery Storage Boom Is A Boon for Tesla",
+    "title_zh": "全球电池储能热潮为特斯拉带来福音",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-Battery-Storage-Boom-Is-A-Boon-for-Tesla.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T22:00:00+00:00"
+  },
+  "fbe34a193567": {
+    "id": "fbe34a193567",
+    "title_en": "Kia will present three new PV5 variants at BIMOS this week, including a 7-seater",
+    "title_zh": "起亚本周将在BIMOS上推出三款新的PV5车型，其中包括一款7座车型",
+    "url": "https://electrek.co/2026/06/24/kia-prepares-three-pv5-models-bimos-7-seater/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T21:55:41+00:00"
+  },
+  "234d457c84a8": {
+    "id": "234d457c84a8",
+    "title_en": "California Challenges Shady Offshore Wind Cancellations",
+    "title_zh": "加州挑战取消海上风力发电",
+    "url": "https://cleantechnica.com/2026/06/24/california-challenges-shady-offshore-wind-cancellations/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T21:48:49+00:00"
+  },
+  "5493e1a35585": {
+    "id": "5493e1a35585",
+    "title_en": "Sierra Club Leads Launch of New “One Million Kids Outdoors” Initiative to Connect More Children with Nature",
+    "title_zh": "塞拉俱乐部牵头启动新的“百万儿童户外活动”计划，让更多儿童与大自然联系起来",
+    "url": "https://cleantechnica.com/2026/06/24/sierra-club-leads-launch-of-new-one-million-kids-outdoors-initiative-to-connect-more-children-with-nature/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T21:31:01+00:00"
+  },
+  "288a086f02cb": {
+    "id": "288a086f02cb",
+    "title_en": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
+    "title_zh": "为什么湿咖啡渣可能是下一个浪费能源的金矿",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T21:00:00+00:00"
+  },
+  "588614e8c19b": {
+    "id": "588614e8c19b",
+    "title_en": "EU Should Accelerate Fleet Electrification, Not Slow It — Joint Letter",
+    "title_zh": "欧盟应加速而非减缓舰队电气化进程——联合信函",
+    "url": "https://cleantechnica.com/2026/06/24/eu-should-accelerate-fleet-electrification-not-slow-it-joint-letter/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T20:32:40+00:00"
+  },
+  "2f4b881ac229": {
+    "id": "2f4b881ac229",
+    "title_en": "Vesper Energy breaks ground on 201-MW Texas solar project",
+    "title_zh": "Vesper Energy在201兆瓦的德克萨斯州太阳能项目上破土动工",
+    "url": "https://www.solarpowerworldonline.com/2026/06/vesper-energy-breaks-ground-on-201-mw-texas-solar-project/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-06-24T20:29:50+00:00"
+  },
+  "78e98f25ea21": {
+    "id": "78e98f25ea21",
+    "title_en": "China’s Crude Imports Plunge To Lowest Level Since 2018",
+    "title_zh": "中国原油进口降至2018年以来的最低水平",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Chinas-Crude-Imports-Plunge-To-Lowest-Level-Since-2018.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T20:00:00+00:00"
+  },
+  "d08eb3e76468": {
+    "id": "d08eb3e76468",
+    "title_en": "Base Power brings cheap batteries to residents in power-starved PJM",
+    "title_zh": "Base Power为电力短缺的PJM居民提供廉价电池",
+    "url": "https://www.canarymedia.com/articles/batteries/base-power-cheap-batteries-pjm",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-24T20:00:00+00:00"
+  },
+  "401eebe010a7": {
+    "id": "401eebe010a7",
+    "title_en": "Tesla, Sunrun team up on 16 GW virtual power plant for data centers",
+    "title_zh": "特斯拉与Sunrun联手打造16GW数据中心虚拟发电厂",
+    "url": "https://electrek.co/2026/06/24/tesla-sunrun-16gw-vpp-data-centers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T19:48:01+00:00"
+  },
   "63bbaff264ff": {
     "id": "63bbaff264ff",
     "title_en": "Norway's Oil Output Beats Forecasts Again Despite Pullback from April Highs",
@@ -4399,104 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-18T16:00:00+00:00"
-  },
-  "5eb2093184f4": {
-    "id": "5eb2093184f4",
-    "title_en": "Sonnedix secures Spanish electricity supply licence",
-    "title_zh": "Sonnedix获得西班牙电力供应许可证",
-    "url": "https://www.pv-tech.org/sonnedix-secures-spanish-electricity-supply-licence/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T15:52:11+00:00"
-  },
-  "8f406bf7172d": {
-    "id": "8f406bf7172d",
-    "title_en": "India's Pump Prices Stuck Even As Global Crude Crashes",
-    "title_zh": "尽管全球原油价格暴跌，印度的油价仍停滞不前",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Pump-Prices-Stuck-Even-As-Global-Crude-Crashes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T15:30:00+00:00"
-  },
-  "b5e5c65428a0": {
-    "id": "b5e5c65428a0",
-    "title_en": "Quantum Sensor Ambitions: A New Horizon for Utility Innovation",
-    "title_zh": "量子传感器雄心：实用创新的新视野",
-    "url": "https://www.powermag.com/quantum-sensor-ambitions-a-new-horizon-for-utility-innovation/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-18T15:10:37+00:00"
-  },
-  "657c58b5a7a8": {
-    "id": "657c58b5a7a8",
-    "title_en": "Solar companies expand clean energy access in rural NC community",
-    "title_zh": "太阳能公司扩大北卡罗来纳州农村社区的清洁能源获取",
-    "url": "https://www.solarpowerworldonline.com/2026/06/solar-companies-expand-clean-energy-access-in-rural-nc-community/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T15:01:35+00:00"
-  },
-  "54aa7e1d64a6": {
-    "id": "54aa7e1d64a6",
-    "title_en": "Why the Moment for a Deal Could Not Be Better for Iran",
-    "title_zh": "为什么达成协议的时刻对伊朗来说不可能更好",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Why-the-Moment-for-a-Deal-Could-Not-Be-Better-for-Iran.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T15:00:00+00:00"
-  },
-  "4cc43e2980e7": {
-    "id": "4cc43e2980e7",
-    "title_en": "Carbon Direct releases low-carbon fuels criteria to help voluntary buyers",
-    "title_zh": "Carbon Direct发布低碳燃料标准，帮助自愿购买者",
-    "url": "https://www.utilitydive.com/news/carbon-direct-releases-low-carbon-fuels-criteria-to-help-voluntary-buyers/823283/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-18T15:00:00+00:00"
-  },
-  "c9bdf22590b3": {
-    "id": "c9bdf22590b3",
-    "title_en": "Volkswagen’s new EV hot hatch captured for the first time, but it’s not the ID. Polo GTI",
-    "title_zh": "大众汽车的新电动汽车热舱口首次被捕获，但这不是ID。Polo GTI",
-    "url": "https://electrek.co/2026/06/18/volkswagens-ev-hot-hatch-captured-first-time-not-polo/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-18T14:34:46+00:00"
-  },
-  "02dc7a8934a9": {
-    "id": "02dc7a8934a9",
-    "title_en": "JPMorgan: European Stocks Are Attractively Cheap After Oil Price Slump",
-    "title_zh": "摩根大通：油价暴跌后，欧洲股市便宜得有吸引力",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/JPMorgan-European-Stocks-Are-Attractively-Cheap-After-Oil-Price-Slump.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T14:30:00+00:00"
-  },
-  "59559dd0ef82": {
-    "id": "59559dd0ef82",
-    "title_en": "E-bike motor king Bosch launches its first hub motor for electric bicycles",
-    "title_zh": "电动自行车发动机之王博世推出首款电动自行车轮毂电机",
-    "url": "https://electrek.co/2026/06/18/e-bike-motor-king-bosch-launches-its-first-hub-motor-for-electric-bicycles/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-18T14:26:39+00:00"
-  },
-  "9204a43f3b8b": {
-    "id": "9204a43f3b8b",
-    "title_en": "Tesla loses its head of quality to Stellantis",
-    "title_zh": "特斯拉将质量负责人输给了Stellantis",
-    "url": "https://electrek.co/2026/06/18/tesla-head-of-quality-kahiree-gans-returns-stellantis/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-18T14:12:15+00:00"
-  },
-  "1876fe7ecf67": {
-    "id": "1876fe7ecf67",
-    "title_en": "DOJ intervenes on behalf of xAI in data center gas turbine lawsuit",
-    "title_zh": "司法部代表xAI介入数据中心燃气轮机诉讼",
-    "url": "https://www.utilitydive.com/news/doj-intervenes-xai-data-center-gas-turbine-lawsuit/823267/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-18T14:09:43+00:00"
   }
 }
