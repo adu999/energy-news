@@ -1,4 +1,67 @@
 {
+  "63bbaff264ff": {
+    "id": "63bbaff264ff",
+    "title_en": "Norway's Oil Output Beats Forecasts Again Despite Pullback from April Highs",
+    "title_zh": "挪威石油产量再次超过预期，尽管从4月高点回落",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-Again-Despite-Pullback-from-April-Highs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T19:00:00+00:00"
+  },
+  "52c9d03ee51b": {
+    "id": "52c9d03ee51b",
+    "title_en": "Hyundai and Kia test the ‘world’s first’ in-car sanitization tech in the PV5",
+    "title_zh": "现代和起亚在PV5上测试了“世界上第一个”车载消毒技术",
+    "url": "https://electrek.co/2026/06/24/hyundai-kia-test-worlds-first-in-car-sanitization-tech-in-pv5/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T18:38:09+00:00"
+  },
+  "dd28fd726786": {
+    "id": "dd28fd726786",
+    "title_en": "The Bluetti Apex 300 & B300K Portable Power Station — CleanTechnica Tested",
+    "title_zh": "Bluetti Apex 300&B300K便携式电站——CleanTechnica测试",
+    "url": "https://cleantechnica.com/2026/06/24/the-bluetti-apex-300-b300k-portable-power-station-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T18:13:04+00:00"
+  },
+  "9a9a5853e3a9": {
+    "id": "9a9a5853e3a9",
+    "title_en": "Prime Day-2 Deals: Bluetti Prime Day Sale with exclusive new power station lows, Segway Navimow X4 robot mower lows, more",
+    "title_zh": "Prime Day 2优惠：Bluetti Prime Day特卖，包括独家新电站低价、Segway Navimow X4机器人割草机低价等",
+    "url": "https://electrek.co/2026/06/24/bluetti-prime-day-power-stations-segway-navimow-robot-mower-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T18:00:00+00:00"
+  },
+  "3efb8a425e33": {
+    "id": "3efb8a425e33",
+    "title_en": "Trade Is Slowly Opening One of the World's Most Isolated Nations",
+    "title_zh": "贸易正在慢慢开放世界上最孤立的国家之一",
+    "url": "https://oilprice.com/Energy/Energy-General/Trade-Is-Slowly-Opening-One-of-the-Worlds-Most-Isolated-Nations.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-24T18:00:00+00:00"
+  },
+  "877ff467fd92": {
+    "id": "877ff467fd92",
+    "title_en": "China’s EV exports smash another record as Southeast Asia goes electric",
+    "title_zh": "随着东南亚转向电动化，中国电动汽车出口再创新高",
+    "url": "https://electrek.co/2026/06/24/china-ev-exports-southeast-asia/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-24T17:38:45+00:00"
+  },
+  "fbe2a6410293": {
+    "id": "fbe2a6410293",
+    "title_en": "3 home energy providers offer 16.8 GW of distributed capacity to utilities, hyperscalers",
+    "title_zh": "3家家庭能源供应商为公用事业和超大规模企业提供16.8吉瓦的分布式容量",
+    "url": "https://www.utilitydive.com/news/3-home-energy-providers-offer-168-gw-of-distributed-capacity-to-utilities/823676/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-24T17:13:02+00:00"
+  },
   "7049d72637eb": {
     "id": "7049d72637eb",
     "title_en": "Canada Building West’s First Grid-Scale SMR",
@@ -476,6 +539,15 @@
     "category": "太阳能",
     "pub_ts": "2026-06-24T11:00:47+00:00"
   },
+  "cf7aa8c746f8": {
+    "id": "cf7aa8c746f8",
+    "title_en": "Trillion-Dollar AI Bubble On Verge Of Popping?",
+    "title_zh": "万亿美元的人工智能泡沫濒临破裂？",
+    "url": "https://cleantechnica.com/2026/06/24/trillion-dollar-ai-bubble-on-verge-of-popping/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T11:00:29+00:00"
+  },
   "a2393d696ecf": {
     "id": "a2393d696ecf",
     "title_en": "HiTHIUM launches ARKVOLT residential energy storage products in Europe",
@@ -691,6 +763,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-24T04:00:00+00:00"
+  },
+  "a20731ee9aa2": {
+    "id": "a20731ee9aa2",
+    "title_en": "BLUETTI Elite 10 Saves The Day!",
+    "title_zh": "BLUETI精英10拯救世界！",
+    "url": "https://cleantechnica.com/2026/06/23/bluetti-elite-10-saves-the-day/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-24T03:58:47+00:00"
   },
   "9c9c75dddaff": {
     "id": "9c9c75dddaff",
@@ -4417,86 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-18T14:09:43+00:00"
-  },
-  "29ecd4dfc600": {
-    "id": "29ecd4dfc600",
-    "title_en": "We toured the Aptera factory to see if the solar EV company is gonna make it",
-    "title_zh": "我们参观了Aptera工厂，看看这家太阳能电动汽车公司是否会成功",
-    "url": "https://electrek.co/2026/06/18/we-toured-the-aptera-factory-to-see-if-the-company-is-gonna-make-it/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-18T14:00:00+00:00"
-  },
-  "8a9cc970aab7": {
-    "id": "8a9cc970aab7",
-    "title_en": "Who Would Take Iran’s Uranium?",
-    "title_zh": "谁会拿走伊朗的铀？",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Who-Would-Take-Irans-Uranium.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T14:00:00+00:00"
-  },
-  "e900362c80da": {
-    "id": "e900362c80da",
-    "title_en": "Fewer storms, not less risk: El Niño will bring mixed results across US power systems",
-    "title_zh": "更少的风暴，而不是更少的风险：厄尔尼诺现象将给美国电力系统带来喜忧参半的结果",
-    "url": "https://www.utilitydive.com/news/el-nino-utility-risk-wildfire-drought-hurricane/823256/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-18T13:36:31+00:00"
-  },
-  "4cf82fb87723": {
-    "id": "4cf82fb87723",
-    "title_en": "Australia’s Renewable Project Pipeline Is Booming",
-    "title_zh": "澳大利亚可再生能源项目管道蓬勃发展",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australias-Renewable-Project-Pipeline-Is-Booming.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-18T13:30:00+00:00"
-  },
-  "d616b7b26636": {
-    "id": "d616b7b26636",
-    "title_en": "SEIA: Solar occupies less than 1% of US farmland",
-    "title_zh": "SEIA：太阳能占美国农田不到1%",
-    "url": "https://www.solarpowerworldonline.com/2026/06/seia-solar-occupies-less-than-1-of-us-farmland/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T13:25:31+00:00"
-  },
-  "5019a1155509": {
-    "id": "5019a1155509",
-    "title_en": "Here’s how AAA is now getting into e-bikes",
-    "title_zh": "AAA现在是如何进入电动自行车市场的",
-    "url": "https://electrek.co/2026/06/18/heres-how-aaa-is-now-getting-into-e-bikes/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-18T13:18:00+00:00"
-  },
-  "01ba198f1132": {
-    "id": "01ba198f1132",
-    "title_en": "Agrivoltaics Gets A Huge Thumbs-Up From A State Struggling To Conserve Its Agrarian Heritage",
-    "title_zh": "Agrivoltaics从一个努力保护其农业遗产的州获得了巨大的支持",
-    "url": "https://cleantechnica.com/2026/06/18/agrivoltaics-virginia-solar-energy-storage-conserve-farmland/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-18T13:07:19+00:00"
-  },
-  "71f9f625a1d9": {
-    "id": "71f9f625a1d9",
-    "title_en": "Before you worry about voltage drops – worry about data drops",
-    "title_zh": "在担心电压降之前，先担心数据降",
-    "url": "https://www.pv-tech.org/before-you-worry-about-voltage-drops-worry-about-data-drops/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-18T13:01:40+00:00"
-  },
-  "dbb958673051": {
-    "id": "dbb958673051",
-    "title_en": "Maryland lawmakers back complaint at FERC over data center transmission costs",
-    "title_zh": "马里兰州立法者支持联邦能源管理委员会对数据中心传输成本的投诉",
-    "url": "https://www.utilitydive.com/news/maryland-ratepayer-advocate-ferc-data-center-complaint-transmission/823244/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-18T12:53:32+00:00"
   }
 }
