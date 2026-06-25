@@ -1,4 +1,67 @@
 {
+  "452d2420e261": {
+    "id": "452d2420e261",
+    "title_en": "Colombia's Cocaine Trade Now Outearns Its Oil Exports",
+    "title_zh": "哥伦比亚的可卡因贸易现在超过了其石油出口",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Colombias-Cocaine-Trade-Now-Outearns-Its-Oil-Exports.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-25T22:00:00+00:00"
+  },
+  "9a17ef18a352": {
+    "id": "9a17ef18a352",
+    "title_en": "Ormat Bets on Standardization to Win the Geothermal Race",
+    "title_zh": "Ormat押注标准化赢得地热竞赛",
+    "url": "https://www.powermag.com/ormat-bets-on-standardization-to-win-the-geothermal-race/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-25T21:58:33+00:00"
+  },
+  "5b2f5dff0aa9": {
+    "id": "5b2f5dff0aa9",
+    "title_en": "Zoox Introduces Next-Generation Robotaxi",
+    "title_zh": "Zoox推出下一代Robotaxi",
+    "url": "https://cleantechnica.com/2026/06/25/zoox-introduces-next-generation-robotaxi/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-25T21:40:44+00:00"
+  },
+  "95da829e9da2": {
+    "id": "95da829e9da2",
+    "title_en": "How One Local Utility Is Relocating to Reduce Pollution For The Florida Community It Serves",
+    "title_zh": "一家当地公用事业公司如何搬迁以减少其服务的佛罗里达州社区的污染",
+    "url": "https://cleantechnica.com/2026/06/25/how-one-local-utility-is-relocating-to-reduce-pollution-for-the-florida-community-it-serves/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-25T21:37:34+00:00"
+  },
+  "937e780522d0": {
+    "id": "937e780522d0",
+    "title_en": "Subaru’s new top-selling EV delivers over 300 miles of range for just $35,000",
+    "title_zh": "斯巴鲁最畅销的电动汽车续航里程超过300英里，售价仅为35000美元",
+    "url": "https://electrek.co/2026/06/25/subarus-new-top-selling-ev-300-miles-range-for-35k/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-25T21:01:22+00:00"
+  },
+  "2090321ed52e": {
+    "id": "2090321ed52e",
+    "title_en": "Geothermal Could Power 65 Million U.S. Homes by 2050, DOE Says",
+    "title_zh": "美国能源部表示，到2050年，地热可以为6500万美国家庭供电",
+    "url": "https://oilprice.com/Energy/Energy-General/Geothermal-Could-Power-65-Million-US-Homes-by-2050-DOE-Says.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-25T21:00:00+00:00"
+  },
+  "9eca6a91e8c9": {
+    "id": "9eca6a91e8c9",
+    "title_en": "Anker SOLIX S2000 Review — CleanTechnica Tested",
+    "title_zh": "Anker SOLIX S2000评测--CleanTechnica测试",
+    "url": "https://cleantechnica.com/2026/06/25/anker-solix-s2000-review-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-25T20:39:56+00:00"
+  },
   "610308c885a5": {
     "id": "610308c885a5",
     "title_en": "Asia's Crude Buying Spree Is Running Out of Steam",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-19T16:00:00+00:00"
-  },
-  "2ac85082bf3a": {
-    "id": "2ac85082bf3a",
-    "title_en": "Trump Whacks Wind But Can’t Sack Solar Power",
-    "title_zh": "特朗普削减风能但不能削减太阳能",
-    "url": "https://cleantechnica.com/2026/06/19/solar-power-plants-us-texas-financing-faster/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-19T15:52:04+00:00"
-  },
-  "72c90e114883": {
-    "id": "72c90e114883",
-    "title_en": "Telo confirms 400 kW sustained charging for its tiny electric truck",
-    "title_zh": "Telo确认其小型电动卡车可持续充电400千瓦",
-    "url": "https://electrek.co/2026/06/19/telo-confirms-400-kw-sustained-charging-tiny-electric-truck/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-19T15:50:01+00:00"
-  },
-  "2ac2f39c59d8": {
-    "id": "2ac2f39c59d8",
-    "title_en": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
-    "title_zh": "2026年6月19日简报：波恩会谈以“僵局”告终|能源的“新时代”|气候谈判中的海洋",
-    "url": "https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-19T15:39:05+00:00"
-  },
-  "1e10a61b808c": {
-    "id": "1e10a61b808c",
-    "title_en": "ABB launches Proteus portfolio, re-enters power electronics sector",
-    "title_zh": "ABB推出Proteus产品组合，重新进入电力电子领域",
-    "url": "https://www.pv-tech.org/abb-launches-proteus-portfolio-re-enters-power-electronics-sector/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-19T15:32:36+00:00"
-  },
-  "05ad481e815a": {
-    "id": "05ad481e815a",
-    "title_en": "Equinor to Boost Troll Gas Output with $412 Million Subsea Development",
-    "title_zh": "Equinor将通过4.12亿美元的海底开发来提高Troll天然气产量",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-to-Boost-Troll-Gas-Output-with-412-Million-Subsea-Development.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-19T15:30:00+00:00"
-  },
-  "4971a17b4640": {
-    "id": "4971a17b4640",
-    "title_en": "SEIA map shows solar uses 0.07% of US farmland",
-    "title_zh": "SEIA地图显示太阳能使用了美国0.07%的农田",
-    "url": "https://www.pv-tech.org/seia-map-shows-solar-uses-0-07-of-us-farmland/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-19T15:25:43+00:00"
-  },
-  "ed963f8163be": {
-    "id": "ed963f8163be",
-    "title_en": "Bonn climate talks: Key outcomes from the June 2026 UN climate conference",
-    "title_zh": "波恩气候谈判：2026年6月联合国气候变化大会的主要成果",
-    "url": "https://www.carbonbrief.org/bonn-climate-talks-key-outcomes-from-the-june-2026-un-climate-conference/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-19T15:16:42+00:00"
   }
 }
