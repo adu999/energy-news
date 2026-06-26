@@ -1,4 +1,202 @@
 {
+  "14850001e64f": {
+    "id": "14850001e64f",
+    "title_en": "Spain authorises $240m Hy2USE reallocation for Castellón hydrogen hub",
+    "title_zh": "西班牙授权为Castellón氢枢纽重新分配2.4亿美元的Hy2USE",
+    "url": "https://www.energymonitor.ai/news/spain-reallocation-castellon-hydrogen-hub/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-06-26T09:15:25+00:00"
+  },
+  "39fd7df1fde4": {
+    "id": "39fd7df1fde4",
+    "title_en": "Qatar's LNG Recovery Picks Up Speed as Tankers Mass at Ras Laffan",
+    "title_zh": "随着油轮在Ras Laffan集结，卡塔尔的液化天然气回收速度加快",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatars-LNG-Recovery-Picks-Up-Speed-as-Tankers-Mass-at-Ras-Laffan.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T09:04:00+00:00"
+  },
+  "614940ffbd9f": {
+    "id": "614940ffbd9f",
+    "title_en": "Crown Estate’s Revenue from Existing Offshore Wind Farms 20 Pct Higher, Operating Profit Dips as Round 4 Projects Start Entering Construction",
+    "title_zh": "皇冠地产现有海上风电场收入增长20%，随着第四轮项目开始进入建设阶段，营业利润下降",
+    "url": "https://www.offshorewind.biz/2026/06/26/crown-estates-revenue-from-existing-offshore-wind-farms-20-pct-higher-operating-profit-dips-as-round-4-projects-start-entering-construction/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-06-26T08:26:46+00:00"
+  },
+  "61260d9d46e8": {
+    "id": "61260d9d46e8",
+    "title_en": "Longi showcases portable containerized photovoltaic station",
+    "title_zh": "隆吉展示便携式集装箱式光伏电站",
+    "url": "https://www.pv-magazine.com/2026/06/26/longi-showcases-portable-containerized-photovoltaic-station/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T08:22:54+00:00"
+  },
+  "aa6ae66d2f2f": {
+    "id": "aa6ae66d2f2f",
+    "title_en": "Germany wraps up solar-plus-storage tender with average price of €0.0534/kWh",
+    "title_zh": "德国完成太阳能+储能招标，平均价格为0.0534欧元/千瓦时",
+    "url": "https://www.pv-magazine.com/2026/06/26/germany-wraps-up-solar-plus-storage-tender-with-average-price-of-e0-0534-kwh/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T08:10:06+00:00"
+  },
+  "1dc68564ba2a": {
+    "id": "1dc68564ba2a",
+    "title_en": "Who will be the U.S. solar cell technology leaders in 2030?",
+    "title_zh": "2030年，谁将成为美国太阳能电池技术的领导者？",
+    "url": "https://www.pv-magazine.com/2026/06/26/who-will-be-the-u-s-solar-cell-technology-leaders-in-2030/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T08:00:33+00:00"
+  },
+  "4987e9bfb597": {
+    "id": "4987e9bfb597",
+    "title_en": "China TOPCon cell prices fall for fourth week as inventory pressure builds",
+    "title_zh": "随着库存压力的增加，中国TOPCon电池价格连续第四周下跌",
+    "url": "https://www.pv-magazine.com/2026/06/26/china-topcon-cell-prices-fall-for-fourth-week-as-inventory-pressure-builds/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T07:56:36+00:00"
+  },
+  "115479a470d8": {
+    "id": "115479a470d8",
+    "title_en": "Sungrow releases its first all-in-one battery inverter for residential use",
+    "title_zh": "阳光电源发布首款家用一体化电池逆变器",
+    "url": "https://www.pv-magazine.com/2026/06/26/sungrow-releases-its-first-all-in-one-battery-inverter-for-residential-use/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T07:45:27+00:00"
+  },
+  "47d46998320d": {
+    "id": "47d46998320d",
+    "title_en": "Washington coal plant produces no power but plenty of costs. Who pays?",
+    "title_zh": "华盛顿煤电厂不发电，但成本很高。谁付钱？",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/washington-coal-plant-produces-no-power",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-26T07:30:00+00:00"
+  },
+  "98c8461128df": {
+    "id": "98c8461128df",
+    "title_en": "Heat pumps may soon outsell air conditioners in US",
+    "title_zh": "热泵在美国的销量可能很快就会超过空调",
+    "url": "https://www.canarymedia.com/articles/heat-pumps/heat-pumps-air-conditioners",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-26T07:30:00+00:00"
+  },
+  "f51cf704b46f": {
+    "id": "f51cf704b46f",
+    "title_en": "Silver price falls to $57 an ounce as downward trend intensifies",
+    "title_zh": "随着下跌趋势加剧，白银价格跌至每盎司57美元",
+    "url": "https://www.pv-magazine.com/2026/06/26/silver-price-falls-to-57-an-ounce-as-downward-trend-intensifies/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T06:59:48+00:00"
+  },
+  "3898e6bf3902": {
+    "id": "3898e6bf3902",
+    "title_en": "Axial introduces 160 m-long single-row tracker",
+    "title_zh": "Axial引入160米长的单排跟踪器",
+    "url": "https://www.pv-magazine.com/2026/06/26/axial-introduces-160-m-long-single-row-tracker/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T06:27:17+00:00"
+  },
+  "ba782b88a045": {
+    "id": "ba782b88a045",
+    "title_en": "Pilot study targets solar and battery access for apartments",
+    "title_zh": "试点研究针对公寓的太阳能和电池接入",
+    "url": "https://www.pv-magazine.com/2026/06/26/pilot-study-targets-solar-and-battery-access-for-apartments/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T06:16:36+00:00"
+  },
+  "00f2117c8773": {
+    "id": "00f2117c8773",
+    "title_en": "Spanish start-up launches power optimizer that acts as a load equalizer",
+    "title_zh": "西班牙初创公司推出功率优化器，作为负载均衡器",
+    "url": "https://www.pv-magazine.com/2026/06/26/spanish-start-up-launches-power-optimizer-that-acts-as-a-load-equalizer/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T06:13:53+00:00"
+  },
+  "8b05f8eebee7": {
+    "id": "8b05f8eebee7",
+    "title_en": "European PPA prices rebound as hybrids grow, storage slows",
+    "title_zh": "欧洲PPA价格反弹，混合动力车增长，存储放缓",
+    "url": "https://www.pv-magazine.com/2026/06/26/european-ppa-prices-rebound-as-hybrids-grow-storage-slows/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-26T06:03:02+00:00"
+  },
+  "80103f2379e3": {
+    "id": "80103f2379e3",
+    "title_en": "Oil Heads for Weekly Loss as Hormuz Tanker Traffic Rebounds",
+    "title_zh": "霍尔木兹油轮交通反弹，油价每周下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Heads-for-Weekly-Loss-as-Hormuz-Tanker-Traffic-Rebounds.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T05:00:00+00:00"
+  },
+  "eeb423c32177": {
+    "id": "eeb423c32177",
+    "title_en": "Volkswagen Group & Elli Bring Vehicle-to-Grid Offer to the Volume Market!",
+    "title_zh": "大众汽车集团和Elli将车联网服务推向批量市场！",
+    "url": "https://cleantechnica.com/2026/06/25/volkswagen-group-elli-bring-vehicle-to-grid-offer-to-the-volume-market/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T03:59:23+00:00"
+  },
+  "f4954507937c": {
+    "id": "f4954507937c",
+    "title_en": "Sunrun, Renew Home, & Tesla Team Up to Deliver More Than 16 Gigawatts of Fast, Flexible Power for Data Centers and Large Loads",
+    "title_zh": "Sunrun、Renew Home和特斯拉联手为数据中心和大型负载提供超过16吉瓦的快速、灵活的电力",
+    "url": "https://cleantechnica.com/2026/06/25/sunrun-renew-home-tesla-team-up-to-deliver-more-than-16-gigawatts-of-fast-flexible-power-for-data-centers-and-large-loads/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T03:59:19+00:00"
+  },
+  "a27709f1de37": {
+    "id": "a27709f1de37",
+    "title_en": "Geely Aims to Double Zeekr’s and Lynk & Co’s Sales Outside of China",
+    "title_zh": "吉利计划将Zeekr和Lynk&Co在中国以外的销售额翻一番",
+    "url": "https://cleantechnica.com/2026/06/25/geely-aims-to-double-zeekrs-and-lynk-cos-sales-outside-of-china/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T03:58:52+00:00"
+  },
+  "ebf3180b5863": {
+    "id": "ebf3180b5863",
+    "title_en": "Waymo Launches in Nashville",
+    "title_zh": "Waymo在纳什维尔推出",
+    "url": "https://cleantechnica.com/2026/06/25/waymo-launches-in-nashville-2/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T03:57:01+00:00"
+  },
+  "dde58e3b7f0e": {
+    "id": "dde58e3b7f0e",
+    "title_en": "Trump Tried To Open Public Lands To E-Bikes, But Officials Instead Showed Us All How Weak He Is",
+    "title_zh": "特朗普试图向电动自行车开放公共土地，但官员们却向我们展示了他有多软弱",
+    "url": "https://cleantechnica.com/2026/06/25/trump-tried-to-open-public-lands-to-e-bikes-but-officials-instead-showed-us-all-how-weak-he-is/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T03:53:44+00:00"
+  },
+  "d7d61c90b3b1": {
+    "id": "d7d61c90b3b1",
+    "title_en": "LiTime Brings Off-Grid LiFePO4 Battery Solutions for Reliable, Low-Maintenance Outdoor Security Monitoring",
+    "title_zh": "LiTime推出离网LiFePO4电池解决方案，用于可靠、低维护的户外安全监控",
+    "url": "https://cleantechnica.com/2026/06/25/litime-brings-off-grid-lifepo4-battery-solutions-for-reliable-low-maintenance-outdoor-security-monitoring/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T03:50:21+00:00"
+  },
   "4537f63c8a01": {
     "id": "4537f63c8a01",
     "title_en": "The Real AI Safety Discussion That Just Isn’t Happening",
@@ -4300,203 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-20T03:58:10+00:00"
-  },
-  "68a6a612f873": {
-    "id": "68a6a612f873",
-    "title_en": "Uruguay EV Sales Report: ICEV Sales Start Melting Down as BEVs Surpass 40% Share in May!",
-    "title_zh": "乌拉圭电动汽车销售报告：随着纯电动汽车在5月份的份额超过40%，ICEV的销量开始下降！",
-    "url": "https://cleantechnica.com/2026/06/19/uruguay-ev-sales-report-icev-sales-start-melting-down-as-bevs-surpass-40-share-in-may/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-20T03:57:29+00:00"
-  },
-  "4d155e6bed85": {
-    "id": "4d155e6bed85",
-    "title_en": "Energy Access In Rural North Carolina Grows Through Solar",
-    "title_zh": "北卡罗来纳州农村的能源获取通过太阳能增长",
-    "url": "https://cleantechnica.com/2026/06/19/energy-access-in-rural-north-carolina-grows-through-solar/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-20T03:55:06+00:00"
-  },
-  "9b97ba1c65f1": {
-    "id": "9b97ba1c65f1",
-    "title_en": "Rivian To Challenge Tesla FSD Later This Year, CEO Thinks",
-    "title_zh": "Rivian将在今年晚些时候挑战特斯拉FSD，首席执行官认为",
-    "url": "https://cleantechnica.com/2026/06/19/rivian-to-challenge-tesla-fsd-later-this-year-ceo-thinks/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-20T03:50:16+00:00"
-  },
-  "79835b596e6c": {
-    "id": "79835b596e6c",
-    "title_en": "ComEd, Metropolitan Mayors Caucus Honor 9 Communities Advancing EV Readiness Across Northern Illinois",
-    "title_zh": "ComEd，大都会市长核心小组表彰9个在伊利诺伊州北部推进电动汽车准备的社区",
-    "url": "https://cleantechnica.com/2026/06/19/comed-metropolitan-mayors-caucus-honor-9-communities-advancing-ev-readiness-across-northern-illinois/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-20T00:45:50+00:00"
-  },
-  "214d63a1fd34": {
-    "id": "214d63a1fd34",
-    "title_en": "Despite All The Smack Talk, Tesla Copied BYD",
-    "title_zh": "尽管有这么多废话，特斯拉还是模仿了比亚迪",
-    "url": "https://cleantechnica.com/2026/06/19/despite-all-the-smack-talk-tesla-copied-byd/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-20T00:15:59+00:00"
-  },
-  "58912a7e26ef": {
-    "id": "58912a7e26ef",
-    "title_en": "BYD Datang Comparison Reveals Accelerating EV Progress",
-    "title_zh": "比亚迪与大唐的比较揭示了电动汽车发展的加速",
-    "url": "https://cleantechnica.com/2026/06/19/byd-datang-comparison-reveals-accelerating-ev-progress/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-20T00:06:38+00:00"
-  },
-  "bd6a2553f71f": {
-    "id": "bd6a2553f71f",
-    "title_en": "ABB Solar & Storage Power Move — New High-Efficiency Power Conversion Solutions for Solar & Storage",
-    "title_zh": "ABB太阳能与储能电力移动——太阳能与储电的新型高效电力转换解决方案",
-    "url": "https://cleantechnica.com/2026/06/19/abb-solar-storage-power-move-new-high-efficiency-power-conversion-solutions-for-solar-storage/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-19T23:07:26+00:00"
-  },
-  "92fc3138e708": {
-    "id": "92fc3138e708",
-    "title_en": "Historic Graph: Solar Electricity Surpasses Coal Electricity In USA",
-    "title_zh": "历史图表：美国太阳能发电超过煤电",
-    "url": "https://cleantechnica.com/2026/06/19/historic-graph-solar-electricity-surpasses-coal-electricity-in-usa/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-19T22:34:35+00:00"
-  },
-  "fbfb7fc89467": {
-    "id": "fbfb7fc89467",
-    "title_en": "Wallbox Launches New Pulsar Pro to Simplify EV Charging Reimbursement",
-    "title_zh": "Wallbox推出新的Pulsar Pro，简化电动汽车充电报销",
-    "url": "https://cleantechnica.com/2026/06/19/wallbox-launches-new-pulsar-pro-to-simplify-ev-charging-reimbursement/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-19T22:00:42+00:00"
-  },
-  "492c81f1c908": {
-    "id": "492c81f1c908",
-    "title_en": "Solar Is the Cheapest Power in History, But States Are Retreating From It",
-    "title_zh": "太阳能是历史上最便宜的能源，但各州正在退缩",
-    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Is-the-Cheapest-Power-in-History-But-States-Are-Retreating-From-It.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-19T22:00:00+00:00"
-  },
-  "44a2b00e8c18": {
-    "id": "44a2b00e8c18",
-    "title_en": "US Rescinds Plan To Dismantle Ocean Observatories Initiative",
-    "title_zh": "美国撤销拆除海洋观测站计划",
-    "url": "https://cleantechnica.com/2026/06/19/us-rescinds-plan-to-dismantle-ocean-observatories-initiative/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-19T21:52:29+00:00"
-  },
-  "b2bd4f986518": {
-    "id": "b2bd4f986518",
-    "title_en": "Elementl Power Developing Ohio SMR Project with GE Vernova Hitachi Nuclear Energy",
-    "title_zh": "Elementl Power与GE Vernova Hitachi核能合作开发俄亥俄SMR项目",
-    "url": "https://www.powermag.com/elementl-power-developing-ohio-smr-project-with-ge-vernova-hitachi-nuclear-energy/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-19T21:33:36+00:00"
-  },
-  "43134bc29dde": {
-    "id": "43134bc29dde",
-    "title_en": "BYD’s luxury SUV received a record 150,000 orders, and now it’s headed overseas",
-    "title_zh": "比亚迪的豪华SUV接到了创纪录的15万份订单，现在正走向海外",
-    "url": "https://electrek.co/2026/06/19/byds-luxury-suv-heads-overseas-after-record-150000-orders/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-19T21:13:27+00:00"
-  },
-  "66924ff97502": {
-    "id": "66924ff97502",
-    "title_en": "REV Renewables, Community Choice Aggregators Bring Energy Storage Project Online",
-    "title_zh": "REV可再生能源，社区选择聚合器将储能项目上线",
-    "url": "https://www.powermag.com/rev-renewables-community-choice-aggregators-bring-energy-storage-project-online/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-19T21:07:01+00:00"
-  },
-  "a0fb1d889097": {
-    "id": "a0fb1d889097",
-    "title_en": "Soltec Touts PFE-Compliant Certification for Solar Trackers",
-    "title_zh": "Soltec为太阳能跟踪器提供PFE合规认证",
-    "url": "https://www.powermag.com/soltec-touts-pfe-compliant-certification-for-solar-trackers/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-19T20:47:06+00:00"
-  },
-  "0ea99994b4c8": {
-    "id": "0ea99994b4c8",
-    "title_en": "Why Lunar Helium-3 Mining Still Can't Compete With Earth",
-    "title_zh": "为什么月球开采氦-3仍然无法与地球竞争",
-    "url": "https://oilprice.com/Energy/Energy-General/Why-Lunar-Helium-3-Mining-Still-Cant-Compete-With-Earth.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-19T20:00:00+00:00"
-  },
-  "e29e8d58fc7a": {
-    "id": "e29e8d58fc7a",
-    "title_en": "Podcast: we drive Aptera’s solar car, Tesla Cybercab specs revealed, Lucid Cosmos design leaks, and more",
-    "title_zh": "播客：我们驾驶Aptera的太阳能汽车，特斯拉Cybercab规格披露，Lucid Cosmos设计泄漏等",
-    "url": "https://electrek.co/2026/06/19/podcast-we-drive-apteras-solar-car-tesla-cybercab-specs-revealed-lucid-cosmos-design-leaks-and-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-19T19:43:48+00:00"
-  },
-  "660c554522e0": {
-    "id": "660c554522e0",
-    "title_en": "One giant US power line, enough wind power for 1 million homes",
-    "title_zh": "一条巨大的美国电力线，足够100万户家庭使用的风力发电",
-    "url": "https://electrek.co/2026/06/19/sunzia-one-giant-us-power-line-wind-power-for-1-million-homes/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-19T19:38:06+00:00"
-  },
-  "a7273007870e": {
-    "id": "a7273007870e",
-    "title_en": "Hyundai is giving the Kona EV a complete overhaul, and it already looks like an upgrade",
-    "title_zh": "现代正在对科纳电动汽车进行全面检修，它看起来已经升级了",
-    "url": "https://electrek.co/2026/06/19/hyundai-giving-kona-ev-complete-overhaul/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-19T19:19:53+00:00"
-  },
-  "0fdde0d015d5": {
-    "id": "0fdde0d015d5",
-    "title_en": "The Real Reason BP Is Retreating From the North Sea",
-    "title_zh": "英国石油公司从北海撤退的真正原因",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Real-Reason-BP-Is-Retreating-From-the-North-Sea.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-19T19:00:00+00:00"
-  },
-  "f1fef16be132": {
-    "id": "f1fef16be132",
-    "title_en": "Israel and Hezbollah Truce Gives Oil Markets a Reason to Pause",
-    "title_zh": "以色列和真主党休战给石油市场一个暂停的理由",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Israel-and-Hezbollah-Truce-Gives-Oil-Markets-a-Reason-to-Pause.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-19T18:30:00+00:00"
-  },
-  "9853b2c86e8f": {
-    "id": "9853b2c86e8f",
-    "title_en": "400 hp Mercedes-Benz VLE 300 combines limo luxury with lots of legroom",
-    "title_zh": "400马力梅赛德斯-奔驰VLE 300将豪华轿车与宽敞的腿部空间相结合",
-    "url": "https://electrek.co/2026/06/19/400-hp-mercedes-benz-vle-300-combines-limo-luxury-with-lots-of-legroom/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-19T18:12:49+00:00"
   }
 }
