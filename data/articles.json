@@ -1,4 +1,49 @@
 {
+  "54636e2a1fae": {
+    "id": "54636e2a1fae",
+    "title_en": "The Billion-Dollar Debt Deals Exposing an Oil Giant",
+    "title_zh": "数十亿美元的债务交易暴露了一个石油巨头",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Billion-Dollar-Debt-Deals-Exposing-an-Oil-Giant.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T22:00:00+00:00"
+  },
+  "d059b966721c": {
+    "id": "d059b966721c",
+    "title_en": "Tesla (TSLA) Q2 2026 delivery consensus: 406,000 vehicles expected",
+    "title_zh": "特斯拉（TSLA）2026年第二季度交付共识：预计40.6万辆",
+    "url": "https://electrek.co/2026/06/26/tesla-q2-2026-delivery-consensus-406000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T21:44:01+00:00"
+  },
+  "f1b38120d865": {
+    "id": "f1b38120d865",
+    "title_en": "The Jeep Recon EV goes on sale for $67,000 with a limited range",
+    "title_zh": "Jeep Recon EV售价67000美元，续航里程有限",
+    "url": "https://electrek.co/2026/06/26/jeep-recon-ev-on-sale-67000-with-limited-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T21:20:30+00:00"
+  },
+  "94e6703ebf7e": {
+    "id": "94e6703ebf7e",
+    "title_en": "BYD’s pickup spotted in China with a different look",
+    "title_zh": "比亚迪的皮卡在中国以不同的外观出现",
+    "url": "https://electrek.co/2026/06/26/byds-pickup-spotted-china-different-look/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T20:06:14+00:00"
+  },
+  "9f32207b8bdf": {
+    "id": "9f32207b8bdf",
+    "title_en": "AI Demand, War, and Climate Pressure Push World Back To Nuclear",
+    "title_zh": "人工智能需求、战争和气候压力推动世界重返核时代",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/AI-Demand-War-and-Climate-Pressure-Push-World-Back-To-Nuclear.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T20:00:00+00:00"
+  },
   "3b2573966886": {
     "id": "3b2573966886",
     "title_en": "Podcast: Slate’s $25,000 electric pickup, Polestar banned from US, Tesla FSD crash, and more",
@@ -4453,50 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-06-22T10:38:18+00:00"
-  },
-  "1622838d8883": {
-    "id": "1622838d8883",
-    "title_en": "Nextpower expands in Europe with Zimmermann PV-Steel Group acquisition",
-    "title_zh": "Nextpower通过收购Zimmermann PV Steel Group在欧洲扩张",
-    "url": "https://www.pv-tech.org/nextpower-expands-in-europe-with-zimmermann-pv-steel-group-acquisition/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T10:30:09+00:00"
-  },
-  "a0b70cc77b7b": {
-    "id": "a0b70cc77b7b",
-    "title_en": "India’s Imports of Russian Oil Set for New Record High",
-    "title_zh": "印度对俄罗斯石油的进口创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Oil-Set-for-New-Record-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-22T10:30:00+00:00"
-  },
-  "16a81cf80dca": {
-    "id": "16a81cf80dca",
-    "title_en": "Petrobras to proceed with $1.2bn biofuels facility at Cubatão refinery",
-    "title_zh": "巴西国家石油公司将在Cubatão炼油厂建设12亿美元的生物燃料设施",
-    "url": "https://www.energymonitor.ai/news/petrobras-proceed-biofuels-facility-cubatao/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-22T10:20:00+00:00"
-  },
-  "08866633b4b0": {
-    "id": "08866633b4b0",
-    "title_en": "Xiaomi YU7 GT sets another Nurburgring record – with nobody in the driver’s seat",
-    "title_zh": "小米YU7 GT创造了纽伯格林的另一项纪录——无人驾驶",
-    "url": "https://electrek.co/2026/06/22/xiaomi-yu7-gt-sets-another-nurburgring-record-with-nobody-in-the-drivers-seat/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-22T10:01:11+00:00"
-  },
-  "3d406e7fbcb5": {
-    "id": "3d406e7fbcb5",
-    "title_en": "European heat pump sales increased 13% last year",
-    "title_zh": "去年欧洲热泵销量增长13%",
-    "url": "https://www.pv-magazine.com/2026/06/22/european-heat-pump-sales-increased-13-last-year/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T10:00:00+00:00"
   }
 }
