@@ -1,4 +1,112 @@
 {
+  "3b2573966886": {
+    "id": "3b2573966886",
+    "title_en": "Podcast: Slate’s $25,000 electric pickup, Polestar banned from US, Tesla FSD crash, and more",
+    "title_zh": "播客：Slate价值25000美元的电动皮卡，Polestar被禁止进入美国，特斯拉FSD坠毁等等",
+    "url": "https://electrek.co/2026/06/26/podcast-slates-25000-electric-pickup-polestar-banned-from-us-tesla-fsd-crash-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T19:29:42+00:00"
+  },
+  "2045bc7b35c0": {
+    "id": "2045bc7b35c0",
+    "title_en": "China's Battery Giant Bets Big on Sodium as Lithium Volatility Persists",
+    "title_zh": "锂波动持续，中国电池巨头大举押注钠",
+    "url": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Giant-Bets-Big-on-Sodium-as-Lithium-Volatility-Persists.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T19:00:00+00:00"
+  },
+  "41c491b6c61d": {
+    "id": "41c491b6c61d",
+    "title_en": "Is Tesla’s “Full Self Driving” Worth $99/Month?",
+    "title_zh": "特斯拉的“全自动驾驶”价值99美元/月吗？",
+    "url": "https://cleantechnica.com/2026/06/26/is-teslas-full-self-driving-worth-99-month/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T18:34:50+00:00"
+  },
+  "21ccfd033348": {
+    "id": "21ccfd033348",
+    "title_en": "Slate’s electric truck can still dip under $20,000 — but only for some",
+    "title_zh": "Slate的电动卡车价格仍可能降至2万美元以下，但仅适用于部分人",
+    "url": "https://electrek.co/2026/06/26/slate-truck-under-20000-state-incentives/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T18:16:34+00:00"
+  },
+  "2862d51435a7": {
+    "id": "2862d51435a7",
+    "title_en": "Final Prime Day Deals: Segway GT3 Pro superscooter first discount, EcoFlow 3,600Wh power station at $1,399 2026 low, more",
+    "title_zh": "最后的Prime Day优惠：Segway GT3 Pro超级滑板车首次折扣，EcoFlow 3600Wh发电站价格为1399 2026美元，更低，更多",
+    "url": "https://electrek.co/2026/06/26/final-prime-day-segway-gt3-pro-superscooter-ecoflow-3600wh-power-station-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T18:00:00+00:00"
+  },
+  "3071b3bedb6a": {
+    "id": "3071b3bedb6a",
+    "title_en": "The IAEA Faces a New Nuclear Puzzle Inside Iran",
+    "title_zh": "国际原子能机构在伊朗面临新的核难题",
+    "url": "https://oilprice.com/Energy/Energy-General/The-IAEA-Faces-a-New-Nuclear-Puzzle-Inside-Iran.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T18:00:00+00:00"
+  },
+  "976c5d4ed88f": {
+    "id": "976c5d4ed88f",
+    "title_en": "GM’s new EV platform is expected to debut in the next-gen Chevy Equinox",
+    "title_zh": "通用汽车的新电动汽车平台预计将在下一代雪佛兰Equinox上首次亮相",
+    "url": "https://electrek.co/2026/06/26/gm-plans-new-ev-platform-debut-next-gen-chevy-equinox/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T17:52:12+00:00"
+  },
+  "a8fbb133305b": {
+    "id": "a8fbb133305b",
+    "title_en": "Solar & Wind Each Produced More Electricity Than Coal In USA In April",
+    "title_zh": "美国4月份太阳能和风能发电量均超过煤炭",
+    "url": "https://cleantechnica.com/2026/06/26/solar-wind-each-produced-more-electricity-than-coal-in-usa-in-april/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T17:49:43+00:00"
+  },
+  "0e84de498bf1": {
+    "id": "0e84de498bf1",
+    "title_en": "US Drillers Add Oil, Gas Rigs As Hormuz Transit Resumes",
+    "title_zh": "随着霍尔木兹过境的恢复，美国钻井人员增加了石油和天然气钻井平台",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Drillers-Add-Oil-Gas-Rigs-As-Hormuz-Transit-Resumes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T17:44:27+00:00"
+  },
+  "e78f1bda5c3b": {
+    "id": "e78f1bda5c3b",
+    "title_en": "Equinor Pulls Out of Japan’s Offshore Wind Market",
+    "title_zh": "Equinor退出日本海上风电市场",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Pulls-Out-of-Japans-Offshore-Wind-Market.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-26T17:30:00+00:00"
+  },
+  "ea85a29ba55f": {
+    "id": "ea85a29ba55f",
+    "title_en": "This Canadian team has raced solar cars since 1992, and they’re bringing their best yet to the 2026 Electrek American Solar Challenge",
+    "title_zh": "这支加拿大车队自1992年以来一直在参加太阳能汽车比赛，他们将在2026年的Electrek美国太阳能挑战赛中发挥最佳水平",
+    "url": "https://electrek.co/2026/06/26/this-canadian-team-has-raced-solar-cars-since-1992-and-theyre-bringing-their-best-yet-to-the-2026-electrek-american-solar-challenge/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-26T17:27:23+00:00"
+  },
+  "9344329926bb": {
+    "id": "9344329926bb",
+    "title_en": "These states are the best for EV buyers and drivers",
+    "title_zh": "这些州对电动汽车购买者和驾驶员来说是最好的",
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/these-states-are-the-best-for-ev-buyers-and-drivers",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-06-26T17:07:00+00:00"
+  },
   "2b4f611d1341": {
     "id": "2b4f611d1341",
     "title_en": "Canada and Japan Consider Joint Critical Mineral Projects to Counter China",
@@ -89,6 +197,15 @@
     "category": "电网",
     "pub_ts": "2026-06-26T15:00:00+00:00"
   },
+  "09f29a69429c": {
+    "id": "09f29a69429c",
+    "title_en": "The grid operates in seconds, but financial settlement still moves in months",
+    "title_zh": "电网在几秒钟内运行，但财务结算仍需几个月才能完成",
+    "url": "https://www.utilitydive.com/news/the-grid-operates-in-seconds-but-financial-settlement-still-moves-in-month/823605/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-26T15:00:00+00:00"
+  },
   "b5a8bb0276e6": {
     "id": "b5a8bb0276e6",
     "title_en": "Sleek, Futuristic “Atlas” Car Recharges Self With Built-In Solar Cells",
@@ -97,6 +214,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-06-26T14:49:54+00:00"
+  },
+  "8a20dada421a": {
+    "id": "8a20dada421a",
+    "title_en": "ASHRAE to tackle data centers, thermal systems at annual conference",
+    "title_zh": "ASHRAE将在年会上解决数据中心和热系统问题",
+    "url": "https://www.utilitydive.com/news/ashrae-to-tackle-data-centers-thermal-systems-at-annual-conference/823900/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-26T14:44:24+00:00"
   },
   "8c5df6f9f922": {
     "id": "8c5df6f9f922",
@@ -142,6 +268,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-26T13:58:56+00:00"
+  },
+  "582df1ca8076": {
+    "id": "582df1ca8076",
+    "title_en": "445 GW — mainly solar, storage — to come online by 2030 as demand growth surges: ICF",
+    "title_zh": "随着需求增长激增，到2030年将有445吉瓦（主要是太阳能和储能）并网：ICF",
+    "url": "https://www.utilitydive.com/news/solar-storage-demand-growth-data-centers-icf/823866/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-26T13:43:03+00:00"
   },
   "ae21d51ce9e0": {
     "id": "ae21d51ce9e0",
@@ -4363,140 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-22T10:00:00+00:00"
-  },
-  "cefcad00ddfa": {
-    "id": "cefcad00ddfa",
-    "title_en": "Norwegian and UK Offshore Wind Groups Forge North Sea Partnership",
-    "title_zh": "挪威和英国海上风电集团建立北海合作伙伴关系",
-    "url": "https://www.offshorewind.biz/2026/06/22/norwegian-and-uk-offshore-wind-groups-forge-north-sea-partnership/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-22T09:57:30+00:00"
-  },
-  "b179cdafc2b7": {
-    "id": "b179cdafc2b7",
-    "title_en": "Improving perovskite solar cell efficiency with random textured interfaces",
-    "title_zh": "利用随机纹理界面提高钙钛矿太阳能电池效率",
-    "url": "https://www.pv-magazine.com/2026/06/22/improving-perovskite-solar-cell-efficiency-with-random-textured-interfaces/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T09:45:00+00:00"
-  },
-  "bfbba8991c6a": {
-    "id": "bfbba8991c6a",
-    "title_en": "Skyborn Renewables to sell 25% stake in German offshore wind farm",
-    "title_zh": "Skyborn Renewables将出售德国海上风电场25%的股份",
-    "url": "https://www.windpowermonthly.com/article/1962336/skyborn-renewables-sell-25-stake-german-offshore-wind-farm",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-22T09:43:54+00:00"
-  },
-  "304ea6f3a8ac": {
-    "id": "304ea6f3a8ac",
-    "title_en": "Energy Start-up Map: From project development and battery hardware to battery diagnostics and flexibility marketing",
-    "title_zh": "能源启动图：从项目开发和电池硬件到电池诊断和灵活性营销",
-    "url": "https://www.pv-magazine.com/2026/06/22/energy-start-up-map-energy-from-project-development-and-battery-hardware-to-battery-diagnostics-and-flexibility-marketi/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T09:30:00+00:00"
-  },
-  "dd8f7adfab0f": {
-    "id": "dd8f7adfab0f",
-    "title_en": "Explosion at Qatar’s Ras Laffan LNG Injures Dozens",
-    "title_zh": "卡塔尔Ras Laffan液化天然气爆炸数十人受伤",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Explosion-at-Qatars-Ras-Laffan-LNG-Injures-Dozens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-22T09:30:00+00:00"
-  },
-  "091e3b06edd0": {
-    "id": "091e3b06edd0",
-    "title_en": "EVs are already on your grid. Visibility is the missing piece.",
-    "title_zh": "电动汽车已经在你的电网上了。可见性是缺失的部分。",
-    "url": "https://www.utilitydive.com/spons/evs-are-already-on-your-grid-visibility-is-the-missing-piece/822856/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T09:00:00+00:00"
-  },
-  "196cd6232e9d": {
-    "id": "196cd6232e9d",
-    "title_en": "How AI fits in the energy development workflow",
-    "title_zh": "人工智能如何适应能源开发工作流程",
-    "url": "https://www.utilitydive.com/spons/how-ai-fits-in-the-energy-development-workflow/822870/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T09:00:00+00:00"
-  },
-  "2da39242dc8a": {
-    "id": "2da39242dc8a",
-    "title_en": "Rate cases are strategy: Redefining how utilities drive regulatory outcomes",
-    "title_zh": "费率案例是一种策略：重新定义公用事业如何推动监管结果",
-    "url": "https://www.utilitydive.com/spons/rate-cases-are-strategy-redefining-how-utilities-drive-regulatory-outcomes/822872/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T09:00:00+00:00"
-  },
-  "c55ed96c12c0": {
-    "id": "c55ed96c12c0",
-    "title_en": "Solar PV potential at one of the world’s northernmost settlements",
-    "title_zh": "世界最北端定居点之一的太阳能光伏潜力",
-    "url": "https://www.pv-magazine.com/2026/06/22/solar-pv-potential-at-one-of-the-worlds-northernmost-settlements/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T09:00:00+00:00"
-  },
-  "cac09e0c703e": {
-    "id": "cac09e0c703e",
-    "title_en": "Nextpower to acquire Zimmermann PV Steel in $378 million transaction",
-    "title_zh": "Nextpower以3.78亿美元收购Zimmermann PV Steel",
-    "url": "https://www.pv-magazine.com/2026/06/22/nextpower-to-acquire-zimmermann-pv-steel-in-378-million-transaction/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T08:56:13+00:00"
-  },
-  "3045b503a002": {
-    "id": "3045b503a002",
-    "title_en": "KIT, DLR publish dataset from German solar power tower",
-    "title_zh": "德国航天中心发布德国太阳能塔数据集",
-    "url": "https://www.pv-magazine.com/2026/06/22/researchers-publish-dataset-from-german-solar-power-tower/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T08:55:00+00:00"
-  },
-  "7aeb1774c5c1": {
-    "id": "7aeb1774c5c1",
-    "title_en": "Circuitor unveils reactive energy controller for PV self-consumption",
-    "title_zh": "电路推出光伏自耗无功能量控制器",
-    "url": "https://www.pv-magazine.com/2026/06/22/circuitor-unveils-reactive-energy-controller-for-pv-self-consumption/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T08:30:00+00:00"
-  },
-  "a8781457e53e": {
-    "id": "a8781457e53e",
-    "title_en": "Analysts Warn China’s Oil Demand May Never Fully Recover",
-    "title_zh": "分析师警告中国石油需求可能永远无法完全恢复",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Analysts-Warn-Chinas-Oil-Demand-May-Never-Fully-Recover.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-22T08:30:00+00:00"
-  },
-  "7d6cdbe56068": {
-    "id": "7d6cdbe56068",
-    "title_en": "News review: Floating wind giants | US Merger | Wake effect | Chinese OEMs",
-    "title_zh": "新闻回顾：漂浮风电巨头|美国合并|唤醒效应|中国原始设备制造商",
-    "url": "https://www.windpowermonthly.com/article/1962178/news-review-floating-wind-giants-us-merger-wake-effect-chinese-oems",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-22T08:18:00+00:00"
-  },
-  "af27dd99af2e": {
-    "id": "af27dd99af2e",
-    "title_en": "New podcast: Floating wind giants | US merger | Wake effect | Chinese OEMs",
-    "title_zh": "新播客：浮动风电巨头|美国合并|唤醒效应|中国原始设备制造商",
-    "url": "https://www.windpowermonthly.com/article/1962178/new-podcast-floating-wind-giants-us-merger-wake-effect-chinese-oems",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-22T08:18:00+00:00"
   }
 }
