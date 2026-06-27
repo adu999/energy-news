@@ -1,4 +1,49 @@
 {
+  "848229a420bc": {
+    "id": "848229a420bc",
+    "title_en": "NIO CEO: Plugin Vehicles 90% of Chinese Auto Market in 2030",
+    "title_zh": "蔚来CEO：2030年插电式汽车将占据中国汽车市场90%的份额",
+    "url": "https://cleantechnica.com/2026/06/26/nio-ceo-plugin-vehicles-90-of-chinese-auto-market-in-2030/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:18:47+00:00"
+  },
+  "8a3c5e2fc000": {
+    "id": "8a3c5e2fc000",
+    "title_en": "Local Groups & Sierra Club Challenge Permit for Pipeline that Would Feed CP2 LNG Export Facility",
+    "title_zh": "当地团体和塞拉俱乐部质疑将为CP2液化天然气出口设施供气的管道许可证",
+    "url": "https://cleantechnica.com/2026/06/26/local-groups-sierra-club-challenge-permit-for-pipeline-that-would-feed-cp2-lng-export-facility/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T00:52:54+00:00"
+  },
+  "014ce425277b": {
+    "id": "014ce425277b",
+    "title_en": "Groups Threaten TVA with Lawsuit over Clean Air Act Violations at Cumberland Plants",
+    "title_zh": "团体以坎伯兰工厂违反《清洁空气法》的诉讼威胁TVA",
+    "url": "https://cleantechnica.com/2026/06/26/groups-threaten-tva-with-lawsuit-over-clean-air-act-violations-at-cumberland-plants/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T00:42:16+00:00"
+  },
+  "a635fd66d926": {
+    "id": "a635fd66d926",
+    "title_en": "Octopus Energy Partners With DTEK To Bring Solar & Battery Storage To Ukraine",
+    "title_zh": "Octopus Energy与DTEK合作，将太阳能和电池储能技术引入乌克兰",
+    "url": "https://cleantechnica.com/2026/06/26/octopus-energy-partners-with-dtek-to-bring-solar-battery-storage-to-ukraine/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T23:14:03+00:00"
+  },
+  "ecaa5e20fce7": {
+    "id": "ecaa5e20fce7",
+    "title_en": "The Tesla Cybercab Has A Serious Challenge For Personal Vehicle Sales",
+    "title_zh": "特斯拉Cybercab对个人汽车销售构成严重挑战",
+    "url": "https://cleantechnica.com/2026/06/26/the-tesla-cybercab-has-a-serious-challenge-for-personal-vehicle-sales/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-26T22:42:29+00:00"
+  },
   "54636e2a1fae": {
     "id": "54636e2a1fae",
     "title_en": "The Billion-Dollar Debt Deals Exposing an Oil Giant",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-22T11:30:00+00:00"
-  },
-  "0189c62e9556": {
-    "id": "0189c62e9556",
-    "title_en": "World adds 664GW of solar PV in 2025, exceeds 3TW of cumulative capacity",
-    "title_zh": "2025年全球新增664GW太阳能光伏，累计容量超过3TW",
-    "url": "https://www.pv-tech.org/world-adds-664gw-solar-pv-capacity-2025-exceeds-3tw-cumulative-capacity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T11:28:48+00:00"
-  },
-  "a3284db6fb81": {
-    "id": "a3284db6fb81",
-    "title_en": "There is now more installed energy storage capacity than nuclear in Europe, yet ‘no country has reached its potential’",
-    "title_zh": "欧洲目前的储能装机容量超过了核能，但“没有一个国家达到了其潜力”",
-    "url": "https://www.energy-storage.news/there-is-now-more-installed-energy-storage-capacity-than-nuclear-in-europe-yet-no-country-has-reached-its-potential/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-22T11:19:56+00:00"
-  },
-  "f182e80a1c87": {
-    "id": "f182e80a1c87",
-    "title_en": "Trina Solar secures commercial order for tandem perovskite solar PV modules in New Zealand",
-    "title_zh": "天合光能在新西兰获得串联钙钛矿太阳能光伏组件的商业订单",
-    "url": "https://www.pv-tech.org/trina-solar-secures-commercial-order-for-tandem-perovskite-solar-pv-modules-in-new-zealand/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T11:09:02+00:00"
-  },
-  "57353ccd3087": {
-    "id": "57353ccd3087",
-    "title_en": "Global solar additions reached 664 GW in 2025",
-    "title_zh": "2025年全球太阳能新增容量达到664吉瓦",
-    "url": "https://www.pv-magazine.com/2026/06/22/global-solar-additions-reached-664-gw-in-2025/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T10:55:50+00:00"
-  },
-  "9f740d25055a": {
-    "id": "9f740d25055a",
-    "title_en": "Sany commissions Spain's largest Chinese wind turbine",
-    "title_zh": "三一重工委托西班牙最大的中国风力涡轮机",
-    "url": "https://www.windpowermonthly.com/article/1962363/sany-commissions-spains-largest-chinese-wind-turbine",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-22T10:38:18+00:00"
   }
 }
