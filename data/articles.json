@@ -1,4 +1,40 @@
 {
+  "534f5d0d85c4": {
+    "id": "534f5d0d85c4",
+    "title_en": "The AI Power Crisis Is Creating a Massive New Market for Fuel Cells",
+    "title_zh": "人工智能电力危机正在为燃料电池创造一个巨大的新市场",
+    "url": "https://oilprice.com/Energy/Energy-General/The-AI-Power-Crisis-Is-Creating-a-Massive-New-Market-for-Fuel-Cells.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-27T15:00:00+00:00"
+  },
+  "c2251a634b5c": {
+    "id": "c2251a634b5c",
+    "title_en": "Turkey Pushes Bold Global Plan to Electrify 35% of Energy Use by 2035",
+    "title_zh": "土耳其推动大胆的全球计划，到2035年将35%的能源使用电气化",
+    "url": "https://oilprice.com/Energy/Energy-General/Turkey-Pushes-Bold-Global-Plan-to-Electrify-35-of-Energy-Use-by-2035.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-27T15:00:00+00:00"
+  },
+  "5215ab33c15f": {
+    "id": "5215ab33c15f",
+    "title_en": "Climate-Tech Claims Need A Red-Flag Pass Before They Get Money",
+    "title_zh": "气候技术声称在获得资金之前需要红旗通行证",
+    "url": "https://cleantechnica.com/2026/06/27/climate-tech-claims-red-flags-money-policy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T14:46:31+00:00"
+  },
+  "a7a60033d42b": {
+    "id": "a7a60033d42b",
+    "title_en": "Three Months with a Polestar 4",
+    "title_zh": "与Polestar共度三个月4",
+    "url": "https://cleantechnica.com/2026/06/27/three-months-with-a-polestar-4/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T14:25:32+00:00"
+  },
   "b819985a71d6": {
     "id": "b819985a71d6",
     "title_en": "Mercedes posts Tesla-like efficiency hauling 36 tons through a German winter",
@@ -4462,41 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-22T13:08:07+00:00"
-  },
-  "9afab51639b4": {
-    "id": "9afab51639b4",
-    "title_en": "Chinese sodium-ion battery matches Tesla on build quality, teardown finds",
-    "title_zh": "拆解发现，中国钠离子电池在制造质量上与特斯拉相当",
-    "url": "https://electrek.co/2026/06/22/chinese-sodium-ion-battery-matches-tesla-build-quality/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-22T13:05:26+00:00"
-  },
-  "1ace59048a40": {
-    "id": "1ace59048a40",
-    "title_en": "Project Cosmos",
-    "title_zh": "Cosmos项目",
-    "url": "https://www.carbonbrief.org/project-cosmos/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-22T13:00:00+00:00"
-  },
-  "d15d470517c8": {
-    "id": "d15d470517c8",
-    "title_en": "Mapped: Inside Carbon Brief’s Cosmos database of 1.8 million climate studies",
-    "title_zh": "绘制：碳简报的宇宙数据库内180万气候研究",
-    "url": "https://www.carbonbrief.org/mapped-inside-carbon-briefs-cosmos-database-of-1-8-million-climate-studies/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-22T13:00:00+00:00"
-  },
-  "c77d9b6b3e81": {
-    "id": "c77d9b6b3e81",
-    "title_en": "Carbon Brief’s ranking of the most highly cited climate publications",
-    "title_zh": "Carbon Brief对被引用次数最多的气候出版物的排名",
-    "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-publications/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-22T13:00:00+00:00"
   }
 }
