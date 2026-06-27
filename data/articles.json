@@ -1,4 +1,76 @@
 {
+  "48ef612b6a50": {
+    "id": "48ef612b6a50",
+    "title_en": "Lower temperatures, higher heat pump efficiency",
+    "title_zh": "更低的温度，更高的热泵效率",
+    "url": "https://www.pv-magazine.com/2026/06/27/lower-temperatures-higher-heat-pump-efficiency/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-06-27T04:00:00+00:00"
+  },
+  "d56d7142b67f": {
+    "id": "d56d7142b67f",
+    "title_en": "UK Sales of Electric Vehicles Just Overtook Petrol Cars for the First Time",
+    "title_zh": "英国电动汽车销量首次超过汽油车",
+    "url": "https://cleantechnica.com/2026/06/26/uk-sales-of-electric-vehicles-just-overtook-petrol-cars-for-the-first-time/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:59:10+00:00"
+  },
+  "50581365978a": {
+    "id": "50581365978a",
+    "title_en": "Metered Electricity Demand in the New York ISO Falls Midday Because of Small-Scale Solar",
+    "title_zh": "由于小规模太阳能，纽约ISO的计量电力需求在中午下降",
+    "url": "https://cleantechnica.com/2026/06/26/metered-electricity-demand-in-the-new-york-iso-falls-midday-because-of-small-scale-solar/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:57:26+00:00"
+  },
+  "65d9743d97cc": {
+    "id": "65d9743d97cc",
+    "title_en": "BYD Seal 08 Launching Next Week — And It’s Stunning",
+    "title_zh": "比亚迪海豹08下周上市，令人惊叹",
+    "url": "https://cleantechnica.com/2026/06/26/byd-seal-08-launching-next-week-and-its-stunning/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:55:46+00:00"
+  },
+  "0fe508806ecb": {
+    "id": "0fe508806ecb",
+    "title_en": "The Limitations Of Powered Trailers That Nobody Thinks About",
+    "title_zh": "无人思考的电动拖车的局限性",
+    "url": "https://cleantechnica.com/2026/06/26/the-limitations-of-powered-trailers-that-nobody-thinks-about/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:50:43+00:00"
+  },
+  "350d3df84c62": {
+    "id": "350d3df84c62",
+    "title_en": "CATL Debuts World’s 1st Field-Validated Sodium-Ion BESS, Bringing Sodium Storage to Commercial Reality",
+    "title_zh": "CATL推出全球首款经过现场验证的钠离子BESS，将钠储存技术推向商业化",
+    "url": "https://cleantechnica.com/2026/06/26/catl-debuts-worlds-1st-field-validated-sodium-ion-bess-bringing-sodium-storage-to-commercial-reality/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:43:05+00:00"
+  },
+  "12fcafe91fdb": {
+    "id": "12fcafe91fdb",
+    "title_en": "CATL — 36 Battery Swap Stations for Hong Kong, 3000 Total This Year",
+    "title_zh": "CATL-香港36个电池交换站，今年共3000个",
+    "url": "https://cleantechnica.com/2026/06/26/catl-36-battery-swap-stations-for-hong-kong-3000-total-this-year/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:41:20+00:00"
+  },
+  "5ae7da79f174": {
+    "id": "5ae7da79f174",
+    "title_en": "Renewable Power Purchase Agreement Prices About To Spike",
+    "title_zh": "可再生能源购买协议价格即将飙升",
+    "url": "https://cleantechnica.com/2026/06/26/renewable-power-purchase-agreement-prices-about-to-spike/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-27T03:40:45+00:00"
+  },
   "848229a420bc": {
     "id": "848229a420bc",
     "title_en": "NIO CEO: Plugin Vehicles 90% of Chinese Auto Market in 2030",
@@ -4426,77 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-06-22T13:00:00+00:00"
-  },
-  "d79fcf47ead0": {
-    "id": "d79fcf47ead0",
-    "title_en": "Introducing Project Cosmos: Carbon Brief’s ‘universe’ of climate science",
-    "title_zh": "介绍宇宙项目：碳简报的气候科学“宇宙”",
-    "url": "https://www.carbonbrief.org/introducing-project-cosmos-carbon-briefs-universe-of-climate-science/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-22T13:00:00+00:00"
-  },
-  "d6b9e24bbc83": {
-    "id": "d6b9e24bbc83",
-    "title_en": "Carbon Brief’s ranking of the most highly cited institutions",
-    "title_zh": "Carbon Brief对被引用次数最多的机构的排名",
-    "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-institutions/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-22T13:00:00+00:00"
-  },
-  "0fab2a8381c7": {
-    "id": "0fab2a8381c7",
-    "title_en": "Iran’s Oil Exports Through Hormuz Hit Wartime High",
-    "title_zh": "伊朗通过霍尔木兹的石油出口创下战时新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Oil-Exports-Through-Hormuz-Hit-Wartime-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-22T12:30:00+00:00"
-  },
-  "008e4d2792d5": {
-    "id": "008e4d2792d5",
-    "title_en": "Texas, facing 438 GW queue, approves initial large-load interconnection process",
-    "title_zh": "德克萨斯州面临438吉瓦的排队，批准了最初的大负荷互联过程",
-    "url": "https://www.utilitydive.com/news/texas-facing-438-gw-queue-approves-initial-large-load-interconnection-pro/823367/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T12:26:44+00:00"
-  },
-  "af69eba5a390": {
-    "id": "af69eba5a390",
-    "title_en": "Nextpower acquiring German solar racking company Zimmermann PV-Steel Group",
-    "title_zh": "Nextpower收购德国太阳能货架公司Zimmermann PV Steel Group",
-    "url": "https://www.solarpowerworldonline.com/2026/06/nextpower-acquiring-german-solar-racking-company-zimmermann-pv-steel-group/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T12:24:35+00:00"
-  },
-  "ca71c6090eda": {
-    "id": "ca71c6090eda",
-    "title_en": "6 takeaways from FERC’s data center interconnection decision",
-    "title_zh": "联邦能源管理委员会数据中心互联决策的6个要点",
-    "url": "https://www.utilitydive.com/news/ferc-doe-data-center-interconnection/823360/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T12:02:16+00:00"
-  },
-  "f6b0d31e6236": {
-    "id": "f6b0d31e6236",
-    "title_en": "Can Coral Reefs Be Resuscitated? Scientists May Have A Solution",
-    "title_zh": "珊瑚礁能复活吗？科学家可能有解决方案",
-    "url": "https://cleantechnica.com/2026/06/22/can-coral-reefs-be-resuscitated-scientists-may-have-a-solution/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-22T11:41:37+00:00"
-  },
-  "ee30ee2f21f5": {
-    "id": "ee30ee2f21f5",
-    "title_en": "Kuwait Offers Gulf Oil Loadings as Producers Seek Hormuz Outlet",
-    "title_zh": "科威特提供海湾石油装载，因为生产商寻求霍尔木兹出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Offers-Gulf-Oil-Loadings-as-Producers-Seek-Hormuz-Outlet.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-22T11:30:00+00:00"
   }
 }
