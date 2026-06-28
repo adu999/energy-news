@@ -1,4 +1,49 @@
 {
+  "40987a9798b5": {
+    "id": "40987a9798b5",
+    "title_en": "The World Is Racing to Develop New Nuclear Fuels",
+    "title_zh": "世界正在竞相开发新的核燃料",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-World-Is-Racing-to-Develop-New-Nuclear-Fuels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-28T19:00:00+00:00"
+  },
+  "ca92e5da0f71": {
+    "id": "ca92e5da0f71",
+    "title_en": "Zero emission truck deployments SURGED up 37% in 2025 as momentum builds",
+    "title_zh": "随着势头的增强，2025年零排放卡车部署激增37%",
+    "url": "https://electrek.co/2026/06/28/zero-emission-truck-deployments-surged-up-37-in-2025-as-momentum-builds/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-28T17:55:12+00:00"
+  },
+  "81c57ed29142": {
+    "id": "81c57ed29142",
+    "title_en": "China Eyes a Major Opportunity in Post-War Iran",
+    "title_zh": "中国关注战后伊朗的重大机遇",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/China-Eyes-a-Major-Opportunity-in-Post-War-Iran.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-28T17:00:00+00:00"
+  },
+  "23004e7c78e1": {
+    "id": "23004e7c78e1",
+    "title_en": "“Insane” Shortage of Computer Hardware?",
+    "title_zh": "计算机硬件“疯狂”短缺？",
+    "url": "https://cleantechnica.com/2026/06/28/insane-shortage-of-computer-hardware/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-28T16:17:06+00:00"
+  },
+  "ee4e638d9193": {
+    "id": "ee4e638d9193",
+    "title_en": "Survey Sunday: with nearly a trillion dollars, will Elon try to make things right?",
+    "title_zh": "周日调查：拥有近万亿美元，埃隆会努力把事情做好吗？",
+    "url": "https://electrek.co/2026/06/28/survey-sunday-with-nearly-a-trillion-dollars-will-elon-try-to-make-things-right/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-28T16:13:23+00:00"
+  },
   "cb3072862300": {
     "id": "cb3072862300",
     "title_en": "Egypt Targets 60% Renewable Electricity by 2040",
@@ -4453,50 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-22T15:00:00+00:00"
-  },
-  "99efb75b7383": {
-    "id": "99efb75b7383",
-    "title_en": "The Phantom Peace Deal: What Washington and Tehran Are Really Playing At",
-    "title_zh": "幻影和平协议：华盛顿和德黑兰真正在玩什么",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Phantom-Peace-Deal-What-Washington-and-Tehran-Are-Really-Playing-At.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-22T15:00:00+00:00"
-  },
-  "0f220364ad3e": {
-    "id": "0f220364ad3e",
-    "title_en": "Major critical infrastructure disruptions are inevitable, acting CISA chief says",
-    "title_zh": "CISA代理主管表示，重大关键基础设施中断是不可避免的",
-    "url": "https://www.utilitydive.com/news/cybersecurity-resilience-critical-infrastructure-cisa-nick-andersen/823391/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T15:00:00+00:00"
-  },
-  "7ca163e824ac": {
-    "id": "7ca163e824ac",
-    "title_en": "Lego Group begins construction of 116MW solar park in Denmark",
-    "title_zh": "乐高集团在丹麦开始建设116MW太阳能园区",
-    "url": "https://www.pv-tech.org/lego-group-begins-construction-of-116mw-solar-park-in-denmark/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T14:55:18+00:00"
-  },
-  "aac5414dfe34": {
-    "id": "aac5414dfe34",
-    "title_en": "Lucid lays off 18% of staff, its second deep cut in four months",
-    "title_zh": "Lucid裁员18%，四个月来第二次大幅裁员",
-    "url": "https://electrek.co/2026/06/22/lucid-lays-off-18-percent-second-cut-four-months/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-22T14:48:36+00:00"
-  },
-  "3d3df8ec7936": {
-    "id": "3d3df8ec7936",
-    "title_en": "Kia’s electric van is becoming so popular that supply is now being rationed",
-    "title_zh": "起亚的电动货车变得如此受欢迎，以至于现在正在实行定量供应",
-    "url": "https://electrek.co/2026/06/22/kias-ev-van-is-becoming-so-popular-that-supply-is-being-rationed/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-22T14:41:42+00:00"
   }
 }
