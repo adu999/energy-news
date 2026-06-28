@@ -1,4 +1,22 @@
 {
+  "e7f1862a0d8d": {
+    "id": "e7f1862a0d8d",
+    "title_en": "The World's Biggest Energy Bet Is No Longer on Fossil Fuels",
+    "title_zh": "世界上最大的能源赌注不再是化石燃料",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-Worlds-Biggest-Energy-Bet-Is-No-Longer-on-Fossil-Fuels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-28T21:00:00+00:00"
+  },
+  "3068219c45f1": {
+    "id": "3068219c45f1",
+    "title_en": "Controversial Ferrari Luce EV is an instant sellout in China",
+    "title_zh": "有争议的法拉利Luce EV在中国立即售罄",
+    "url": "https://electrek.co/2026/06/28/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-28T19:27:52+00:00"
+  },
   "40987a9798b5": {
     "id": "40987a9798b5",
     "title_en": "The World Is Racing to Develop New Nuclear Fuels",
@@ -4480,23 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-06-22T15:28:40+00:00"
-  },
-  "b94482c34d37": {
-    "id": "b94482c34d37",
-    "title_en": "Canadian Solar launches TOPCon 3.0 module with 24.8% conversion efficiency",
-    "title_zh": "加拿大太阳能公司推出转换效率为24.8%的TOPCon 3.0模块",
-    "url": "https://www.pv-tech.org/canadian-solar-announces-topcon-3-0-module-24-8-conversion-efficiency/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T15:01:55+00:00"
-  },
-  "7b5144f18596": {
-    "id": "7b5144f18596",
-    "title_en": "Budderfly and Viridi team up to install ‘fail-safe’ batteries at commercial facilities",
-    "title_zh": "Budderfly和Viridi联手在商业设施安装“故障安全”电池",
-    "url": "https://www.utilitydive.com/news/budderfly-and-viridi-team-up-to-install-fail-safe-batteries-at-commercial/823383/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-22T15:00:00+00:00"
   }
 }
