@@ -1,4 +1,31 @@
 {
+  "d76d1df6e97a": {
+    "id": "d76d1df6e97a",
+    "title_en": "Aptera Proved Its Solar Generation, Now It Needs To Prove Its Efficiency",
+    "title_zh": "Aptera证明了它的太阳能发电，现在它需要证明它的效率",
+    "url": "https://cleantechnica.com/2026/06/27/aptera-proved-its-solar-generation-now-it-needs-to-prove-its-efficiency/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-28T03:59:42+00:00"
+  },
+  "60e7b2944251": {
+    "id": "60e7b2944251",
+    "title_en": "Volkswagen Plans To Shutter Four Factories",
+    "title_zh": "大众汽车计划关闭四家工厂",
+    "url": "https://cleantechnica.com/2026/06/27/volkswagen-announces-plan-to-shutter-four-factories/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-28T03:57:44+00:00"
+  },
+  "ea2c53e91e96": {
+    "id": "ea2c53e91e96",
+    "title_en": "Trump Tanked RV Sales, But There’s An Opportunity For EV Owners",
+    "title_zh": "特朗普抨击房车销售，但电动汽车车主有机会",
+    "url": "https://cleantechnica.com/2026/06/27/trump-tanked-rv-sales-but-theres-an-opportunity-for-ev-owners/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-28T03:50:55+00:00"
+  },
   "5d53bc8dcf6d": {
     "id": "5d53bc8dcf6d",
     "title_en": "The $7 Trillion AI Boom Is Turning Into The Energy Trade of the Century",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-22T14:08:29+00:00"
-  },
-  "f53411a63a61": {
-    "id": "f53411a63a61",
-    "title_en": "Octopus and CATL unveil a giant EV truck battery-swapping network",
-    "title_zh": "八达通和CATL推出了一个巨大的电动汽车卡车电池交换网络",
-    "url": "https://electrek.co/2026/06/22/octopus-and-catl-unveil-a-giant-ev-truck-battery-swapping-network/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-22T14:06:19+00:00"
-  },
-  "507f008be0b2": {
-    "id": "507f008be0b2",
-    "title_en": "NeoVolta BESS manufacturing plant should open in August in Georgia",
-    "title_zh": "NeoVolta BESS制造厂将于8月在佐治亚州开业",
-    "url": "https://www.solarpowerworldonline.com/2026/06/neovolta-bess-manufacturing-plant-should-open-in-august-in-georgia/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T14:03:26+00:00"
-  },
-  "d3053522e412": {
-    "id": "d3053522e412",
-    "title_en": "CIM Group closes construction financing at California 250MW/600MWh solar-plus-storage project",
-    "title_zh": "CIM集团完成加州250MW/600MWh太阳能+储能项目的建设融资",
-    "url": "https://www.pv-tech.org/cim-group-closes-construction-financing-at-california-250mw-600mwh-solar-plus-storage-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-22T14:03:15+00:00"
   }
 }
