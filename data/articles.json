@@ -1,4 +1,94 @@
 {
+  "37446f2e78cc": {
+    "id": "37446f2e78cc",
+    "title_en": "Ukraine's Refinery Strikes Push Russia Into a Fuel Crisis",
+    "title_zh": "乌克兰炼油厂罢工使俄罗斯陷入燃料危机",
+    "url": "https://oilprice.com/Energy/Energy-General/Ukraines-Refinery-Strikes-Push-Russia-Into-a-Fuel-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-29T22:00:00+00:00"
+  },
+  "fc25b451f610": {
+    "id": "fc25b451f610",
+    "title_en": "Supreme Court Rules to Take Away Power of Independent Agencies",
+    "title_zh": "最高法院裁定剥夺独立机构的权力",
+    "url": "https://cleantechnica.com/2026/06/29/supreme-court-rules-to-take-away-power-of-independent-agencies/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-29T21:57:11+00:00"
+  },
+  "4102a2dfa3c9": {
+    "id": "4102a2dfa3c9",
+    "title_en": "China Just Made Electric Trucks A Freight System, Not A Vehicle Category",
+    "title_zh": "中国刚刚将电动卡车打造成货运系统，而不是汽车类别",
+    "url": "https://cleantechnica.com/2026/06/29/china-electric-trucks-freight-system/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-29T21:55:49+00:00"
+  },
+  "91acf414ce89": {
+    "id": "91acf414ce89",
+    "title_en": "Stop Trying to Make an “EV Gas Station”",
+    "title_zh": "停止试图建造“电动汽车加油站”",
+    "url": "https://cleantechnica.com/2026/06/29/stop-trying-to-make-an-ev-gas-station/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-29T21:43:32+00:00"
+  },
+  "e54227a71ecd": {
+    "id": "e54227a71ecd",
+    "title_en": "How the Hormuz Crisis Turned Southeast Asia Into a Solar Powerhouse",
+    "title_zh": "霍尔木兹危机如何将东南亚变成太阳能发电厂",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-the-Hormuz-Crisis-Turned-Southeast-Asia-Into-a-Solar-Powerhouse.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-29T21:00:00+00:00"
+  },
+  "245138967df2": {
+    "id": "245138967df2",
+    "title_en": "Toyota blames high gas prices as global sales fall again, while EV sales jump 170%",
+    "title_zh": "丰田将全球销量再次下降归咎于高油价，而电动汽车销量增长了170%",
+    "url": "https://electrek.co/2026/06/29/toyota-blames-gas-prices-global-sales-fall-ev-sales-jump-170/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-29T20:45:18+00:00"
+  },
+  "b648e0b45f83": {
+    "id": "b648e0b45f83",
+    "title_en": "Solar is Powering America’s Next 250 Years",
+    "title_zh": "太阳能为美国未来250年提供动力",
+    "url": "https://cleantechnica.com/2026/06/29/solar-is-powering-americas-next-250-years/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-29T20:39:57+00:00"
+  },
+  "f209be7547f7": {
+    "id": "f209be7547f7",
+    "title_en": "The US’s largest transformer factory is coming for the AI power boom",
+    "title_zh": "美国最大的变压器厂即将迎来人工智能电力热潮",
+    "url": "https://electrek.co/2026/06/29/us-largest-transformer-factory-is-coming-for-the-ai-power-boom/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-29T20:35:14+00:00"
+  },
+  "19597287deaa": {
+    "id": "19597287deaa",
+    "title_en": "U.S. Supreme Court Decision Gives President Much More Power — What That Means",
+    "title_zh": "美国最高法院的裁决赋予总统更大的权力——这意味着什么",
+    "url": "https://cleantechnica.com/2026/06/29/u-s-supreme-court-decision-gives-president-much-more-power-what-that-means/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-29T20:06:50+00:00"
+  },
+  "a679301d8f3e": {
+    "id": "a679301d8f3e",
+    "title_en": "China's Coal Habit Is Outpacing Its Clean Energy Boom",
+    "title_zh": "中国的煤炭习惯正在超越其清洁能源热潮",
+    "url": "https://oilprice.com/Energy/Coal/Chinas-Coal-Habit-Is-Outpacing-Its-Clean-Energy-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-29T20:00:00+00:00"
+  },
   "508e1de791ff": {
     "id": "508e1de791ff",
     "title_en": "Trump’s Failed Algae Biofuel Experiment Versus Europe’s “FUELGAE” Initiative: Compare And Contrast",
@@ -4408,95 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-23T14:39:43+00:00"
-  },
-  "9f68dda9336d": {
-    "id": "9f68dda9336d",
-    "title_en": "I Squared Capital, GS E&C JV to develop 1.5GW solar PV, BESS in South Korea",
-    "title_zh": "I Squared Capital与GS E&C合资公司将在韩国开发1.5GW太阳能光伏和BESS",
-    "url": "https://www.pv-tech.org/i-squared-capital-gs-ec-jv-to-develop-1-5gw-solar-pv-bess-in-south-korea/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-23T14:35:04+00:00"
-  },
-  "a88e5b0e5da4": {
-    "id": "a88e5b0e5da4",
-    "title_en": "TVA considers up to 26 GW of gas-fired generation",
-    "title_zh": "TVA考虑高达26吉瓦的燃气发电",
-    "url": "https://www.utilitydive.com/news/tva-proposes-7-to-26-gw-natural-gas-2026-irp/823520/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-23T14:30:47+00:00"
-  },
-  "34f46fe5e2d2": {
-    "id": "34f46fe5e2d2",
-    "title_en": "Tankers Emerge from Dark Mode amid Tentative Hormuz ReopeningTankers Emerge from",
-    "title_zh": "霍尔木兹重新开放期间，油轮从黑暗模式中出现",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Tankers-Emerge-from-Dark-Mode-amid-Tentative-Hormuz-ReopeningTankers-Emerge-from.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-23T14:30:00+00:00"
-  },
-  "890a860edd41": {
-    "id": "890a860edd41",
-    "title_en": "Tankers Emerge from Dark Mode amid Tentative Hormuz Reopening",
-    "title_zh": "霍尔木兹临时重新开放期间，油轮从黑暗模式中出现",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Tankers-Emerge-from-Dark-Mode-amid-Tentative-Hormuz-Reopening.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-23T14:30:00+00:00"
-  },
-  "07c0e3908ade": {
-    "id": "07c0e3908ade",
-    "title_en": "Nissan is ditching plans to launch another major EV, and this one could be a big deal",
-    "title_zh": "日产正在放弃推出另一款大型电动汽车的计划，而这辆电动汽车可能是一件大事",
-    "url": "https://electrek.co/2026/06/23/nissan-ditching-plans-launch-another-major-ev/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-23T14:25:10+00:00"
-  },
-  "4f28b81067e2": {
-    "id": "4f28b81067e2",
-    "title_en": "Prime Day 2026 Green Deals: EVs, power stations, tools, smart devices, and much more",
-    "title_zh": "2026年Prime Day绿色交易：电动汽车、发电站、工具、智能设备等等",
-    "url": "https://electrek.co/2026/06/23/prime-day-2026-green-deals-evs-power-stations-tools-smart-devices-and-much-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-23T14:24:04+00:00"
-  },
-  "ff61e056f23d": {
-    "id": "ff61e056f23d",
-    "title_en": "Cited 23 June 2026: Project Cosmos launch | Science ‘under attack’ at Bonn | Emissions inequality",
-    "title_zh": "2026年6月23日：宇宙项目启动|波恩科学“受到攻击”|排放不平等",
-    "url": "https://www.carbonbrief.org/cited-23-june-project-cosmos-launch-science-under-attack-at-bonn-emissions-inequality/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-23T14:07:41+00:00"
-  },
-  "cf696bf96c1e": {
-    "id": "cf696bf96c1e",
-    "title_en": "Tesla, NatPower strike $5B deal for 25 GWh of Megapack storage",
-    "title_zh": "特斯拉与NatPower达成价值50亿美元的25 GWh Megapack储能协议",
-    "url": "https://electrek.co/2026/06/23/tesla-natpower-megapack-25-gwh-europe/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-23T14:00:31+00:00"
-  },
-  "b1875112166d": {
-    "id": "b1875112166d",
-    "title_en": "U.S. and Iran Signal Progress Toward Peace Deal",
-    "title_zh": "美国和伊朗发出和平协议进展的信号",
-    "url": "https://oilprice.com/Energy/Energy-General/US-and-Iran-Signal-Progress-Toward-Peace-Deal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-23T14:00:00+00:00"
-  },
-  "0ca64ed210a2": {
-    "id": "0ca64ed210a2",
-    "title_en": "Global Solar Council Launches AgriPV Taskforce to Unlock the Next Frontier of Solar Growth",
-    "title_zh": "全球太阳能委员会启动AgriPV工作组，开启太阳能增长的下一个前沿",
-    "url": "https://cleantechnica.com/2026/06/23/global-solar-council-launches-agripv-taskforce-to-unlock-the-next-frontier-of-solar-growth/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-23T13:57:03+00:00"
   }
 }
