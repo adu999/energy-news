@@ -1,4 +1,94 @@
 {
+  "a889addbb87d": {
+    "id": "a889addbb87d",
+    "title_en": "Energy North submits 1GW off-grid hyperscale data centre with 16GWh of battery storage to Australia’s EPBC Act",
+    "title_zh": "Energy North向澳大利亚EPBC法案提交了1GW离网超大规模数据中心，电池存储容量为16GWh",
+    "url": "https://www.energy-storage.news/energy-north-submits-1gw-off-grid-hyperscale-data-centre-with-16gwh-of-battery-storage-to-australias-epbc-act/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-30T03:36:06+00:00"
+  },
+  "af82a578e364": {
+    "id": "af82a578e364",
+    "title_en": "Neoen Australia begins construction on 963MWh battery storage system at 440MWp solar PV plant",
+    "title_zh": "Neoen Australia开始在440MWp太阳能光伏电站建设963MWh电池储能系统",
+    "url": "https://www.energy-storage.news/neoen-australia-begins-construction-on-963mwh-battery-storage-system-at-440mwp-solar-pv-plant/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-30T03:31:27+00:00"
+  },
+  "d6bf3e8ccc63": {
+    "id": "d6bf3e8ccc63",
+    "title_en": "Jackery SolarVault 3 Taps Balcony Solar Potential At InterSolar Europe",
+    "title_zh": "Jackery SolarVault 3在InterSolar Europe挖掘阳台太阳能潜力",
+    "url": "https://cleantechnica.com/2026/06/29/jackery-solarvault-3-taps-balcony-solar-potential-at-intersolar-europe/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T03:29:31+00:00"
+  },
+  "638f0c536103": {
+    "id": "638f0c536103",
+    "title_en": "Akaysha Energy’s 1,660MWh Orana BESS reaches commercial operations in Australia",
+    "title_zh": "Akaysha Energy的1660MWh Orana BESS在澳大利亚投入商业运营",
+    "url": "https://www.energy-storage.news/akaysha-energys-1660mwh-orana-bess-reaches-commercial-operations-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-06-30T03:29:27+00:00"
+  },
+  "27e7fcf75509": {
+    "id": "27e7fcf75509",
+    "title_en": "Duke Energy Latest Company to Accept Trump’s Dirty “Deal” to Scrap Offshore Wind",
+    "title_zh": "杜克能源最新公司接受特朗普废弃海上风电的肮脏“交易”",
+    "url": "https://cleantechnica.com/2026/06/29/duke-energy-latest-company-to-accept-trumps-dirty-deal-to-scrap-offshore-wind/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T02:01:54+00:00"
+  },
+  "13c2dcff5ffd": {
+    "id": "13c2dcff5ffd",
+    "title_en": "Not Even Musk Has The Answer To AI’s Power Shortage",
+    "title_zh": "即使是马斯克也无法解决人工智能的电力短缺问题",
+    "url": "https://oilprice.com/Energy/Energy-General/Not-Even-Musk-Has-The-Answer-To-AIs-Power-Shortage.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T00:00:00+00:00"
+  },
+  "4fce4e9d9685": {
+    "id": "4fce4e9d9685",
+    "title_en": "Six charts show how clean power was world’s largest source of new energy in 2025",
+    "title_zh": "六张图表显示了清洁能源如何在2025年成为世界上最大的新能源来源",
+    "url": "https://www.carbonbrief.org/six-charts-show-how-clean-power-was-worlds-largest-source-of-new-energy-in-2025/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-06-29T23:01:00+00:00"
+  },
+  "b7b44f40d2ca": {
+    "id": "b7b44f40d2ca",
+    "title_en": "The Next Oil Rally Could Be Driven by Stockpile Buying",
+    "title_zh": "下一次油价上涨可能是由库存购买推动的",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-Could-Be-Driven-by-Stockpile-Buying.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-29T23:00:00+00:00"
+  },
+  "ad37aad8c7f9": {
+    "id": "ad37aad8c7f9",
+    "title_en": "How a gas plant helped fast-track 270 MW of new solar",
+    "title_zh": "天然气厂如何帮助快速跟踪270兆瓦的新太阳能",
+    "url": "https://electrek.co/2026/06/29/how-a-gas-plant-helped-fast-track-270-mw-of-new-solar/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-29T22:51:13+00:00"
+  },
+  "cd27398c9303": {
+    "id": "cd27398c9303",
+    "title_en": "Power From Here: Most Of Humanity Already Lives Where Solar & Wind Are Strongest",
+    "title_zh": "来自这里的电力：大多数人类已经生活在太阳能和风能最强的地方",
+    "url": "https://cleantechnica.com/2026/06/29/power-from-here-most-of-humanity-already-lives-where-solar-wind-are-strongest/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-29T22:21:49+00:00"
+  },
   "37446f2e78cc": {
     "id": "37446f2e78cc",
     "title_en": "Ukraine's Refinery Strikes Push Russia Into a Fuel Crisis",
@@ -4408,95 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-23T16:00:00+00:00"
-  },
-  "be4f2e764c2b": {
-    "id": "be4f2e764c2b",
-    "title_en": "Record high power prices in Belgium, Netherlands and Germany",
-    "title_zh": "比利时、荷兰和德国的电价创历史新高",
-    "url": "https://www.pv-magazine.com/2026/06/23/record-high-power-prices-in-belgium-netherlands-and-germany/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-23T15:40:09+00:00"
-  },
-  "20cab69ae9ac": {
-    "id": "20cab69ae9ac",
-    "title_en": "K-12 schools can soften energy-cost hikes with performance contracts, Ameresco chief says",
-    "title_zh": "Ameresco首席执行官表示，K-12学校可以通过绩效合同来缓解能源成本上涨",
-    "url": "https://www.utilitydive.com/news/k-12-schools-can-soften-energy-cost-hikes-with-performance-contracts-amere/823647/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-23T15:15:43+00:00"
-  },
-  "bbf14ccc8892": {
-    "id": "bbf14ccc8892",
-    "title_en": "Two Microgrids With Solar Power Being Developed For Tribal Community In California",
-    "title_zh": "加利福尼亚州部落社区正在开发两个太阳能微电网",
-    "url": "https://cleantechnica.com/2026/06/23/two-microgrids-with-solar-power-being-developed-for-tribal-community-in-california/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-23T15:14:26+00:00"
-  },
-  "271dce7808f5": {
-    "id": "271dce7808f5",
-    "title_en": "Novak: Russia Considers Complete Ban on Diesel Exports",
-    "title_zh": "诺瓦克：俄罗斯考虑全面禁止柴油出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Novak-Russia-Considers-Complete-Ban-on-Diesel-Exports.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-23T15:08:00+00:00"
-  },
-  "e719047fd780": {
-    "id": "e719047fd780",
-    "title_en": "Tesla admits FSD was on in fatal Texas crash, blames driver for ‘overriding’ it",
-    "title_zh": "特斯拉承认FSD在致命的德克萨斯州车祸中，指责司机“超越”它",
-    "url": "https://electrek.co/2026/06/23/tesla-fsd-katy-crash-driver-pedal/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-23T15:04:36+00:00"
-  },
-  "37a6acc1aa3e": {
-    "id": "37a6acc1aa3e",
-    "title_en": "China’s Antimony Ban Sent Prices Up 2,600%. Rare Earths Are Next",
-    "title_zh": "中国的锑禁令使价格上涨了2600%。稀土是下一个",
-    "url": "https://oilprice.com/Energy/Energy-General/Chinas-Antimony-Ban-Sent-Prices-Up-2600-Rare-Earths-Are-Next.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-23T15:00:00+00:00"
-  },
-  "b547b34ae530": {
-    "id": "b547b34ae530",
-    "title_en": "Intersolar Europe 2026: SMA Solar launches grid-forming inverters and management software",
-    "title_zh": "Intersolar Europe 2026:SMA Solar推出并网逆变器和管理软件",
-    "url": "https://www.pv-tech.org/intersolar-europe-2026-sma-solar-launches-suite-of-products-mvps-grid-forming-inverters-management-software/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-23T14:53:28+00:00"
-  },
-  "83dc010f5e6d": {
-    "id": "83dc010f5e6d",
-    "title_en": "Frontier Climate adds Anthropic to buyers group, makes new financing pledge",
-    "title_zh": "Frontier Climate将Anthropic加入买家群体，做出新的融资承诺",
-    "url": "https://www.utilitydive.com/news/frontier-climate-adds-anthropic-to-CDR-buyers-group-makes-new-financing-pledge/823511/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-23T14:48:16+00:00"
-  },
-  "7b99e14f21ce": {
-    "id": "7b99e14f21ce",
-    "title_en": "A Bleating, Bloviating US President Picks A Fight Against Clean Energy, Loses",
-    "title_zh": "一位面色苍白的美国总统选择与清洁能源作斗争，但失败了",
-    "url": "https://cleantechnica.com/2026/06/23/clean-energy-us-sunzia-wind-power-new-technology/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-23T14:41:15+00:00"
-  },
-  "a28ba577b061": {
-    "id": "a28ba577b061",
-    "title_en": "The AI race will be won or lost on power infrastructure",
-    "title_zh": "人工智能竞赛的胜负将取决于电力基础设施",
-    "url": "https://www.utilitydive.com/news/ai-race-will-be-won-or-lost-on-power-infrastructure/823444/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-23T14:39:43+00:00"
   }
 }
