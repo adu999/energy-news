@@ -1,4 +1,139 @@
 {
+  "fa229446c8ee": {
+    "id": "fa229446c8ee",
+    "title_en": "China's Energy Future Runs on Coal and Solar",
+    "title_zh": "中国的能源未来依赖于煤炭和太阳能",
+    "url": "https://oilprice.com/Energy/Energy-General/Chinas-Energy-Future-Runs-on-Coal-and-Solar.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T20:00:00+00:00"
+  },
+  "a816d676c675": {
+    "id": "a816d676c675",
+    "title_en": "Can zinc-based batteries scale into US storage buildout?",
+    "title_zh": "锌基电池能否扩展到美国的储能建设？",
+    "url": "https://www.utilitydive.com/news/can-zinc-based-batteries-scale-into-us-storage-buildout/824136/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-30T19:00:00+00:00"
+  },
+  "4ad77be23e95": {
+    "id": "4ad77be23e95",
+    "title_en": "Nigeria Unveils World-Class Critical Minerals Discovery",
+    "title_zh": "尼日利亚公布世界级关键矿物发现",
+    "url": "https://oilprice.com/Metals/Commodities/Nigeria-Unveils-World-Class-Critical-Minerals-Discovery.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T19:00:00+00:00"
+  },
+  "b6ecb6d3a177": {
+    "id": "b6ecb6d3a177",
+    "title_en": "California Advances New Clean Vehicle Incentives While Trump Administration Continues Rolling Back Affordable Clean Transportation",
+    "title_zh": "加利福尼亚州推进新的清洁汽车激励措施，而特朗普政府继续削减负担得起的清洁交通",
+    "url": "https://cleantechnica.com/2026/06/30/california-advances-new-clean-vehicle-incentives-while-trump-administration-continues-rolling-back-affordable-clean-transportation/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T18:56:12+00:00"
+  },
+  "949c9c243c7e": {
+    "id": "949c9c243c7e",
+    "title_en": "Solar gets railed: clever Swiss pilot proves PV panels and trains can coexist",
+    "title_zh": "太阳能受到抨击：聪明的瑞士飞行员证明光伏电池板和火车可以共存",
+    "url": "https://electrek.co/2026/06/30/solar-gets-railed-clever-swiss-pilot-proves-pv-panels-and-trains-can-coexist/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T18:46:21+00:00"
+  },
+  "e35d0b9eb8e4": {
+    "id": "e35d0b9eb8e4",
+    "title_en": "Federal Appeals Court Upholds New York Limits on Fossil Fuel Use in Buildings",
+    "title_zh": "联邦上诉法院维持纽约对建筑物使用化石燃料的限制",
+    "url": "https://cleantechnica.com/2026/06/30/federal-appeals-court-upholds-new-york-limits-on-fossil-fuel-use-in-buildings/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T18:42:38+00:00"
+  },
+  "7a443c092609": {
+    "id": "7a443c092609",
+    "title_en": "Tesla poaches 17-year Intel veteran to lead its ‘Terafab’ chip plant",
+    "title_zh": "特斯拉挖走了17年的英特尔老将来领导其“Terafab”芯片工厂",
+    "url": "https://electrek.co/2026/06/30/tesla-intel-veteran-terafab-director/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T18:31:24+00:00"
+  },
+  "4796e0a6ebf6": {
+    "id": "4796e0a6ebf6",
+    "title_en": "The Oil Benchmark Named Brent Is Losing Its Brent",
+    "title_zh": "布伦特原油基准价格正在下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Oil-Benchmark-Named-Brent-Is-Losing-Its-Brent.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T18:30:00+00:00"
+  },
+  "7cc0238ef2d5": {
+    "id": "7cc0238ef2d5",
+    "title_en": "Florida Anti-Net Zero Law Takes Effect July 1",
+    "title_zh": "佛罗里达州反网络零法律将于7月1日生效",
+    "url": "https://cleantechnica.com/2026/06/30/florida-anti-net-zero-law-takes-effect-july-1/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T18:22:05+00:00"
+  },
+  "ad7f718aba15": {
+    "id": "ad7f718aba15",
+    "title_en": "Electrify America is adding NACS chargers to more of its busiest stations",
+    "title_zh": "Electrify America正在为其最繁忙的车站增加NACS充电器",
+    "url": "https://electrek.co/2026/06/30/electrify-america-nacs-chargers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T18:13:22+00:00"
+  },
+  "185f54aff06c": {
+    "id": "185f54aff06c",
+    "title_en": "BYD’s flagship electric SUV is so smooth that it won an anti-motion-sickness certification",
+    "title_zh": "比亚迪的旗舰电动SUV非常平稳，获得了抗晕动病认证",
+    "url": "https://electrek.co/2026/06/30/byds-flagship-electric-suv-wins-anti-motion-sickness-certification/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T18:02:06+00:00"
+  },
+  "7a1f02529d68": {
+    "id": "7a1f02529d68",
+    "title_en": "Tenways Wayfarer cruiser e-bike bundle at new $1,649 low ($827 off), Jackery July 4th power station sale, Aiper, Greenworks, more",
+    "title_zh": "Tenways Wayfarer巡洋舰电动自行车捆绑在新的1649美元低点（827美元折扣），Jackery 7月4日发电站销售，Aiper，Greenworks，更多",
+    "url": "https://electrek.co/2026/06/30/tenways-wayfarer-cruiser-e-bike-jackery-july-4th-power-station-sale-aiper-greenworks-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T18:00:00+00:00"
+  },
+  "7b908399f113": {
+    "id": "7b908399f113",
+    "title_en": "Russian Refinery Disruptions Ripple Across Central Asian Fuel Markets",
+    "title_zh": "俄罗斯炼油厂中断波及中亚燃料市场",
+    "url": "https://oilprice.com/Energy/Energy-General/Russian-Refinery-Disruptions-Ripple-Across-Central-Asian-Fuel-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T18:00:00+00:00"
+  },
+  "c3d7e379056e": {
+    "id": "c3d7e379056e",
+    "title_en": "World’s Biggest Green Hydrogen Project Blows Off Trump, Bigly",
+    "title_zh": "世界上最大的绿色氢项目让特朗普大吃一惊",
+    "url": "https://cleantechnica.com/2026/06/30/green-hydrogen-neom-saudi-arabia-wind-solar-ammonia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T17:38:39+00:00"
+  },
+  "05fa72c2b929": {
+    "id": "05fa72c2b929",
+    "title_en": "US Crude Output Sets New Monthly Production Record",
+    "title_zh": "美国原油产量创下月度产量新纪录",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Output-Sets-New-Monthly-Production-Record.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T17:30:00+00:00"
+  },
   "a8af0466a946": {
     "id": "a8af0466a946",
     "title_en": "Beaver Island Becomes Test Site for Freshwater Wave Energy",
@@ -16,6 +151,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-30T16:50:54+00:00"
+  },
+  "f075fbe1b6f6": {
+    "id": "f075fbe1b6f6",
+    "title_en": "California delays emissions reporting deadline by 3 months",
+    "title_zh": "加州将排放报告截止日期推迟了3个月",
+    "url": "https://www.utilitydive.com/news/california-delays-emissions-reporting-deadline-by-3-months/823988/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-06-30T16:34:00+00:00"
   },
   "b33c46b5c621": {
     "id": "b33c46b5c621",
@@ -4354,149 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-24T12:15:19+00:00"
-  },
-  "c7418a2003fa": {
-    "id": "c7418a2003fa",
-    "title_en": "Comstock Metals sets up solar panel recycling hub in Ohio",
-    "title_zh": "Comstock Metals在俄亥俄州设立太阳能电池板回收中心",
-    "url": "https://www.solarpowerworldonline.com/2026/06/comstock-metals-sets-up-solar-panel-recycling-hub-in-ohio/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:12:55+00:00"
-  },
-  "00d71e351d91": {
-    "id": "00d71e351d91",
-    "title_en": "Microquanta launches 26%-efficient colored perovskite-silicon tandem modules for building-integrated PV",
-    "title_zh": "Microquanta推出26%效率的彩色钙钛矿硅串联模块，用于建筑集成光伏",
-    "url": "https://www.pv-magazine.com/2026/06/24/microquanta-launches-26-efficient-colored-perovskite-silicon-tandem-modules-for-building-integrated-pv/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:05:02+00:00"
-  },
-  "4a8bf6c5eeda": {
-    "id": "4a8bf6c5eeda",
-    "title_en": "Tesla, Sunrun, Renew Home team up on massive 16GW virtual power plant",
-    "title_zh": "特斯拉、Sunrun和Renew Home联手打造16GW的大型虚拟发电厂",
-    "url": "https://www.canarymedia.com/articles/virtual-power-plants/tesla-sunrun-renewhome-vpp",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-24T12:00:00+00:00"
-  },
-  "659746edf5bb": {
-    "id": "659746edf5bb",
-    "title_en": "Norwegian startup raises $6M to fix this sneaky source of energy waste",
-    "title_zh": "挪威初创公司筹集了600万美元来解决这种偷偷摸摸的能源浪费问题",
-    "url": "https://www.canarymedia.com/articles/energy-efficiency/eqon-heating-cable-industrial-decarbonization-funding",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-06-24T12:00:00+00:00"
-  },
-  "1efbe5ca3314": {
-    "id": "1efbe5ca3314",
-    "title_en": "EU funding ban on Chinese inverters drives BESS industry towards optionality, supply chain resiliency",
-    "title_zh": "欧盟对中国逆变器的资金禁令推动BESS行业走向可选性和供应链弹性",
-    "url": "https://www.energy-storage.news/eu-funding-ban-on-chinese-inverters-drives-bess-industry-towards-optionality-supply-chain-resiliency/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-24T11:58:22+00:00"
-  },
-  "a8442f3d596d": {
-    "id": "a8442f3d596d",
-    "title_en": "US energy storage installations will quadruple by 2031, Wood Mackenzie forecasts",
-    "title_zh": "Wood Mackenzie预测，到2031年，美国的储能装置将翻两番",
-    "url": "https://www.energy-storage.news/us-energy-storage-installations-will-quadruple-by-2031-wood-mackenzie-forecasts/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-24T11:56:07+00:00"
-  },
-  "c3c471c77545": {
-    "id": "c3c471c77545",
-    "title_en": "US manufacturers file AD/CVD request against Hanwha and other cell makers in South Korea",
-    "title_zh": "美国制造商对韩华和韩国其他电池制造商提出AD/CVD请求",
-    "url": "https://www.pv-tech.org/us-manufacturers-file-ad-cvd-request-against-hanwha-and-other-cell-makers-in-south-korea/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T11:41:03+00:00"
-  },
-  "9a4e4f947799": {
-    "id": "9a4e4f947799",
-    "title_en": "Reflecting Pool Becomes No-Go Zone As Algae Biofuel Mystery Deepens",
-    "title_zh": "随着藻类生物燃料之谜的加深，反射池成为禁区",
-    "url": "https://cleantechnica.com/2026/06/24/reflecting-pool-becomes-no-go-zone-as-algae-biofuel-mystery-deepens/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-24T11:32:19+00:00"
-  },
-  "ce52b4680502": {
-    "id": "ce52b4680502",
-    "title_en": "Adani Targets 10 GW Nuclear Power Capacity in India by 2035",
-    "title_zh": "阿达尼计划到2035年印度核电装机容量达到10吉瓦",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Adani-Targets-10-GW-Nuclear-Power-Capacity-in-India-by-2035.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-24T11:30:00+00:00"
-  },
-  "7be199c29eef": {
-    "id": "7be199c29eef",
-    "title_en": "Sweden’s solar market stabilizes as storage pushes deployment",
-    "title_zh": "瑞典太阳能市场稳定，储能推动部署",
-    "url": "https://www.pv-magazine.com/2026/06/24/swedens-solar-market-stabilizes-as-storage-pushes-deployment/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T11:28:15+00:00"
-  },
-  "cd07ad9da62c": {
-    "id": "cd07ad9da62c",
-    "title_en": "Utah’s largest solar + battery storage project is officially online",
-    "title_zh": "犹他州最大的太阳能+电池储能项目正式上线",
-    "url": "https://electrek.co/2026/06/24/utahs-largest-solar-battery-storage-project-is-officially-online/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-24T11:25:40+00:00"
-  },
-  "bc27386dbfdf": {
-    "id": "bc27386dbfdf",
-    "title_en": "Intersolar Europe 2026: LONGi launches Hi-MO 9 Prime modules, ‘scenario-based’ variants",
-    "title_zh": "Intersolar Europe 2026：隆基推出Hi-MO 9 Prime模块，“基于场景”的变体",
-    "url": "https://www.pv-tech.org/intersolar-europe-2026-longi-launches-hi-mo-9-prime-modules-scenario-based-variants/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T11:05:02+00:00"
-  },
-  "5c1b01e8b5a7": {
-    "id": "5c1b01e8b5a7",
-    "title_en": "FER X brings certainty to Italy’s renewables market, but deployment hurdles remain",
-    "title_zh": "FER X为意大利可再生能源市场带来了确定性，但部署障碍依然存在",
-    "url": "https://www.pv-tech.org/fer-x-brings-certainty-to-italys-renewables-market-but-deployment-hurdles-remain/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T11:00:47+00:00"
-  },
-  "cf7aa8c746f8": {
-    "id": "cf7aa8c746f8",
-    "title_en": "Trillion-Dollar AI Bubble On Verge Of Popping?",
-    "title_zh": "万亿美元的人工智能泡沫濒临破裂？",
-    "url": "https://cleantechnica.com/2026/06/24/trillion-dollar-ai-bubble-on-verge-of-popping/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-24T11:00:29+00:00"
-  },
-  "a2393d696ecf": {
-    "id": "a2393d696ecf",
-    "title_en": "HiTHIUM launches ARKVOLT residential energy storage products in Europe",
-    "title_zh": "HiTHIUM在欧洲推出ARKVOLT住宅储能产品",
-    "url": "https://www.pv-magazine.com/2026/06/24/hithium-launches-arkvolt-residential-energy-storage-products-in-europe/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T11:00:00+00:00"
-  },
-  "8349a444db76": {
-    "id": "8349a444db76",
-    "title_en": "China’s Teapot Refineries Cut Operations to Their Lowest Level Since 2017",
-    "title_zh": "中国茶壶精炼厂减产至2017年以来的最低水平",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapot-Refineries-Cut-Operations-to-Their-Lowest-Level-Since-2017.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-24T10:30:00+00:00"
   }
 }
