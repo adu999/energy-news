@@ -1,4 +1,94 @@
 {
+  "723611b3e208": {
+    "id": "723611b3e208",
+    "title_en": "Australia’s Oil and Gas Exploration Set for Renaissance",
+    "title_zh": "澳大利亚的石油和天然气勘探将迎来复兴",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Australias-Oil-and-Gas-Exploration-Set-for-Renaissance.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T22:00:00+00:00"
+  },
+  "7bdd2fb6ef02": {
+    "id": "7bdd2fb6ef02",
+    "title_en": "OpenAI Went From $5.09 Billion Net Loss in 2024 to $38.53 Billion Net Loss in 2025",
+    "title_zh": "OpenAI的净亏损从2024年的50.9亿美元增至2025年的385.3亿美元",
+    "url": "https://cleantechnica.com/2026/06/30/openai-went-from-5-09-billion-net-loss-in-2024-to-38-53-billion-net-loss-in-2025/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T21:40:10+00:00"
+  },
+  "69f008fea1fa": {
+    "id": "69f008fea1fa",
+    "title_en": "Genesis confirms the GV90 launch date as its ultra-luxe SUV nears arrival",
+    "title_zh": "Genesis确认了GV90的发布日期，因为其超豪华SUV即将上市",
+    "url": "https://electrek.co/2026/06/30/genesis-confirms-gv90-launch-date-debut/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T21:37:14+00:00"
+  },
+  "7b8ad9f9155a": {
+    "id": "7b8ad9f9155a",
+    "title_en": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
+    "title_zh": "为什么伊朗的供应紧缩可能使油价回落至每桶40美元以下",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T21:00:00+00:00"
+  },
+  "eab784051183": {
+    "id": "eab784051183",
+    "title_en": "US Crude Oil Inventories Keep Falling As Hormuz Flows Slow To Start",
+    "title_zh": "霍尔木兹河启动缓慢，美国原油库存持续下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Keep-Falling-As-Hormuz-Flows-Slow-To-Start.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T20:57:32+00:00"
+  },
+  "e9fb0d3d528b": {
+    "id": "e9fb0d3d528b",
+    "title_en": "Controversial Ferrari Luce EV is an instant sellout in China [update]",
+    "title_zh": "备受争议的法拉利Luce EV在中国立即售罄[更新]",
+    "url": "https://electrek.co/2026/06/30/controversial-ferrari-luce-ev-is-an-instant-sellout-in-china/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T20:55:00+00:00"
+  },
+  "ed45b8d0a731": {
+    "id": "ed45b8d0a731",
+    "title_en": "$383 million port and freight infrastructure grant to create 22,000 clean jobs",
+    "title_zh": "3.83亿美元的港口和货运基础设施拨款，创造22000个清洁工作岗位",
+    "url": "https://electrek.co/2026/06/30/383-million-port-and-freight-infrastructure-grant-to-create-22000-clean-jobs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T20:29:42+00:00"
+  },
+  "d42a8e5b39ec": {
+    "id": "d42a8e5b39ec",
+    "title_en": "OMG, I’m In Love — New Hyundai IONIQ 3 Is It!",
+    "title_zh": "天哪，我恋爱了——新款现代IONIQ 3就是它！",
+    "url": "https://cleantechnica.com/2026/06/30/omg-im-in-love-new-hyundai-ioniq-3-is-it/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T20:28:33+00:00"
+  },
+  "9298ffae6f5f": {
+    "id": "9298ffae6f5f",
+    "title_en": "Big Short’s Michael Burry discloses new Tesla (TSLA) position",
+    "title_zh": "Big Short的Michael Burry披露了特斯拉（TSLA）的新职位",
+    "url": "https://electrek.co/2026/06/30/michael-burry-tesla-short-416/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T20:24:37+00:00"
+  },
+  "a270e5cb61aa": {
+    "id": "a270e5cb61aa",
+    "title_en": "The Chevy Blazer EV avoids a price hike for 2027 despite a few upgrades",
+    "title_zh": "尽管进行了一些升级，雪佛兰Blazer EV还是避免了2027年的价格上涨",
+    "url": "https://electrek.co/2026/06/30/chevy-blazer-ev-avoids-price-hike-2027-despite-upgrades/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-06-30T20:09:38+00:00"
+  },
   "fa229446c8ee": {
     "id": "fa229446c8ee",
     "title_en": "China's Energy Future Runs on Coal and Solar",
@@ -4408,95 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-24T13:15:01+00:00"
-  },
-  "e4a515b2c82e": {
-    "id": "e4a515b2c82e",
-    "title_en": "2,000 trucks, 33 million miles: Orange EV’s milestone Coke Canada delivery",
-    "title_zh": "2000辆卡车，3300万英里：Orange EV里程碑式的加拿大可口可乐交付",
-    "url": "https://electrek.co/2026/06/24/2000-trucks-33-million-miles-orange-evs-milestone-coke-canada-delivery/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-24T12:58:49+00:00"
-  },
-  "9be9890ff7e2": {
-    "id": "9be9890ff7e2",
-    "title_en": "Turkish PV keeps growing amid policy shift, financing constraints",
-    "title_zh": "土耳其光伏在政策转变和融资限制下保持增长",
-    "url": "https://www.pv-magazine.com/2026/06/24/turkish-pv-keeps-growing-amid-policy-shift-financing-constraints/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:54:30+00:00"
-  },
-  "8af347834ece": {
-    "id": "8af347834ece",
-    "title_en": "Canadian Solar storage subsidiary supplying battery for 150-MW Michigan solar project",
-    "title_zh": "加拿大太阳能储能子公司为密歇根州150兆瓦太阳能项目提供电池",
-    "url": "https://www.solarpowerworldonline.com/2026/06/canadian-solar-storage-subsidiary-supplying-battery-for-150-mw-michigan-solar-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:49:09+00:00"
-  },
-  "0408a5f99c4b": {
-    "id": "0408a5f99c4b",
-    "title_en": "Grid operators make ‘significant progress’ on generator interconnection reform: AEU",
-    "title_zh": "电网运营商在发电机互联改革方面取得“重大进展”：AEU",
-    "url": "https://www.utilitydive.com/news/generator-interconnection-reform-ferc-spp-miso-pjm/823613/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-24T12:42:26+00:00"
-  },
-  "beaa3419312c": {
-    "id": "beaa3419312c",
-    "title_en": "Sunrun, Tesla say they have 16 GW of existing home battery capacity to send to utilities",
-    "title_zh": "Sunrun，特斯拉表示，他们有16GW的现有家用电池容量可以发送给公用事业公司",
-    "url": "https://www.solarpowerworldonline.com/2026/06/sunrun-tesla-say-they-have-16-gw-of-existing-home-battery-capacity-to-send-to-utilities/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:38:09+00:00"
-  },
-  "3d6384646638": {
-    "id": "3d6384646638",
-    "title_en": "VLCC Earnings Near $470,000 a Day as Hormuz Hopes Drive Tanker Frenzy",
-    "title_zh": "霍尔木兹希望推动油轮狂热，超大型油轮日收益接近47万美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/VLCC-Earnings-Near-470000-a-Day-as-Hormuz-Hopes-Drive-Tanker-Frenzy.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-24T12:30:00+00:00"
-  },
-  "dfee36de8693": {
-    "id": "dfee36de8693",
-    "title_en": "Fluence boosts Smartstack BESS storage capacity to 10 MWh",
-    "title_zh": "Fluence将Smartstack BESS存储容量提升至10 MWh",
-    "url": "https://www.solarpowerworldonline.com/2026/06/fluence-boosts-smartstack-bess-storage-capacity-to-10-mwh/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:23:01+00:00"
-  },
-  "02515b51c8e7": {
-    "id": "02515b51c8e7",
-    "title_en": "Czech PV market faces policy reset, supply-chain uncertainty",
-    "title_zh": "捷克光伏市场面临政策调整供应链不确定性",
-    "url": "https://www.pv-magazine.com/2026/06/24/czech-pv-market-faces-policy-reset-supply-chain-uncertainty/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:20:23+00:00"
-  },
-  "1adbc56b3b4b": {
-    "id": "1adbc56b3b4b",
-    "title_en": "Grid-forming BESS to enhance stability in utility-scale PV",
-    "title_zh": "电网形成BESS以提高公用事业规模光伏的稳定性",
-    "url": "https://www.pv-magazine.com/2026/06/24/grid-forming-bess-to-enhance-stability-in-utility-scale-pv/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:17:17+00:00"
-  },
-  "53a588c983f0": {
-    "id": "53a588c983f0",
-    "title_en": "Paving the way for lithium–nitrogen batteries, one hurdle at a time",
-    "title_zh": "为锂氮电池铺平道路，一次一个障碍",
-    "url": "https://www.pv-magazine.com/2026/06/24/paving-the-way-for-lithium-nitrogen-batteries-one-hurdle-at-a-time/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T12:15:19+00:00"
   }
 }
