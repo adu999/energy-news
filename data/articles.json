@@ -1,4 +1,76 @@
 {
+  "a01c9ad9e77d": {
+    "id": "a01c9ad9e77d",
+    "title_en": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
+    "title_zh": "华尔街正从太阳能转向太阳能+储能",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Wall-Street-Is-Pivoting-From-Solar-To-Solar-Plus-Storage.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T22:00:00+00:00"
+  },
+  "d1ab51acf11d": {
+    "id": "d1ab51acf11d",
+    "title_en": "Subaru’s new EVs are already outselling the Solterra",
+    "title_zh": "斯巴鲁的新款电动汽车销量已经超过了Solterra",
+    "url": "https://electrek.co/2026/07/01/subarus-new-evs-outselling-solterra/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T21:37:44+00:00"
+  },
+  "243f1b2d3740": {
+    "id": "243f1b2d3740",
+    "title_en": "XPENG Sales Rise 16% in June",
+    "title_zh": "XPENG 6月份销售额增长16%",
+    "url": "https://cleantechnica.com/2026/07/01/xpeng-sales-rise-16-in-june/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T21:10:20+00:00"
+  },
+  "a0543d3c8982": {
+    "id": "a0543d3c8982",
+    "title_en": "Kempower + PowerUp kick off a 12-site EV fast charging rollout",
+    "title_zh": "Kempower+PowerUp启动12站点电动汽车快速充电推广",
+    "url": "https://electrek.co/2026/07/01/kempower-powerup-kick-off-a-12-site-ev-fast-charging-rollout/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T21:03:52+00:00"
+  },
+  "54282258af2e": {
+    "id": "54282258af2e",
+    "title_en": "The Hydrogen Industry's Efficiency Problem May Have Just Met Its Fix",
+    "title_zh": "氢能行业的效率问题可能刚刚得到解决",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Hydrogen-Industrys-Efficiency-Problem-May-Have-Just-Met-Its-Fix.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T21:00:00+00:00"
+  },
+  "0d9d76b85a57": {
+    "id": "0d9d76b85a57",
+    "title_en": "Ford’s $30,000 EV pickup captured testing again as new details emerge",
+    "title_zh": "随着新细节的出现，福特价值3万美元的电动汽车皮卡再次进行了测试",
+    "url": "https://electrek.co/2026/07/01/fords-30000-ev-pickup-captured-again-new-details-emerge/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T20:51:04+00:00"
+  },
+  "ce93656a3fa7": {
+    "id": "ce93656a3fa7",
+    "title_en": "NIO Sales Increase 63% in June!",
+    "title_zh": "6月NIO销量增长63%！",
+    "url": "https://cleantechnica.com/2026/07/01/nio-sales-increase-63-in-june/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T20:33:42+00:00"
+  },
+  "6270acc3e240": {
+    "id": "6270acc3e240",
+    "title_en": "How the U.S. and U.K. Are Redrawing Syria's Energy Map",
+    "title_zh": "美国和英国如何重新绘制叙利亚能源地图",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/How-the-US-and-UK-Are-Redrawing-Syrias-Energy-Map.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T20:00:00+00:00"
+  },
   "2ebea51ff063": {
     "id": "2ebea51ff063",
     "title_en": "Toyota’s electric SUV clears 17,500 sales, outpacing the Land Cruiser and key EV rivals",
@@ -313,6 +385,15 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-01T13:16:45+00:00"
+  },
+  "0e56c79003dc": {
+    "id": "0e56c79003dc",
+    "title_en": "New Jersey lawmakers send data center tariff bill to governor",
+    "title_zh": "新泽西州立法者向州长提交数据中心关税法案",
+    "url": "https://www.utilitydive.com/news/new-jersey-lawmakers-send-data-center-tariff-bill-to-governor/824191/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-01T13:08:02+00:00"
   },
   "dc03bc2487da": {
     "id": "dc03bc2487da",
@@ -4417,86 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-06-25T13:46:46+00:00"
-  },
-  "b05f4d44ef92": {
-    "id": "b05f4d44ef92",
-    "title_en": "Livestock heat deaths in transit doubled in UK record-hot summer of 2025",
-    "title_zh": "2025年英国创纪录的炎热夏季，牲畜在运输途中的死亡人数翻了一番",
-    "url": "https://www.carbonbrief.org/livestock-heat-deaths-in-transit-doubled-in-uk-record-hot-summer-of-2025/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-25T13:30:22+00:00"
-  },
-  "895f54120b3c": {
-    "id": "895f54120b3c",
-    "title_en": "ADNOC Cuts Murban Crude Price to $101.48 as Hormuz Tensions Ease",
-    "title_zh": "随着霍尔木兹紧张局势的缓解，ADNOC将Murban原油价格降至101.48美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Cuts-Murban-Crude-Price-to-10148-as-Hormuz-Tensions-Ease.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T13:30:00+00:00"
-  },
-  "24331085fc47": {
-    "id": "24331085fc47",
-    "title_en": "Pathfinder secures €100 million to finance 400MW solar, 200MW storage portfolio in the UK",
-    "title_zh": "探路者获得1亿欧元，为英国400MW太阳能和200MW储能投资组合提供资金",
-    "url": "https://www.pv-tech.org/pathfinder-secures-e100-million-finance-400mw-solar-200mw-storage-portfolio-uk/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T13:29:35+00:00"
-  },
-  "bc3183a7a575": {
-    "id": "bc3183a7a575",
-    "title_en": "US ROUND-UP: Vesper, rPlus and Matrix advance PV projects across the country",
-    "title_zh": "美国ROUND-UP：Vesper、rPlus和Matrix在全国范围内推进光伏项目",
-    "url": "https://www.pv-tech.org/us-round-up-vesper-rplus-matrix-advance-solar-pv-projects-across-country/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T13:26:58+00:00"
-  },
-  "54f6ccc09f9f": {
-    "id": "54f6ccc09f9f",
-    "title_en": "Texas landowners seek pause in $2B 765-kV transmission line case over notice concerns",
-    "title_zh": "德克萨斯州土地所有者因通知问题寻求暂停20亿美元765千伏输电线路案件",
-    "url": "https://www.utilitydive.com/news/texas-landowners-transmission-line-puc-oncor-lcra/823657/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-25T13:25:56+00:00"
-  },
-  "1bbd6c7c1676": {
-    "id": "1bbd6c7c1676",
-    "title_en": "Energy Transition Impacts: Sector and Country Impacts from a Demand-Driven Model",
-    "title_zh": "能源转型影响：来自需求驱动模型的部门和国家影响",
-    "url": "https://about.bnef.com/insights/clean-energy/energy-transition-impacts-sector-and-country-impacts-from-a-demand-driven-model/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-06-25T13:23:13+00:00"
-  },
-  "ec208e68c2a8": {
-    "id": "ec208e68c2a8",
-    "title_en": "Amble unveils fun-looking, street-legal 40 MPH ‘electric buggy’",
-    "title_zh": "Amble推出外观有趣的街头合法40英里/小时“电动越野车”",
-    "url": "https://electrek.co/2026/06/25/amble-unveils-street-legal-electric-buggy-but-its-not-a-car/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T13:00:00+00:00"
-  },
-  "0b7b9d0cf261": {
-    "id": "0b7b9d0cf261",
-    "title_en": "Prime Day 2026 Green Deals: EVs, power stations, tools, smart devices, and much more",
-    "title_zh": "2026年Prime Day绿色交易：电动汽车、发电站、工具、智能设备等等",
-    "url": "https://electrek.co/2026/06/25/prime-day-2026-green-deals-evs-power-stations-tools-smart-devices-and-much-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T12:50:58+00:00"
-  },
-  "5269b14819c7": {
-    "id": "5269b14819c7",
-    "title_en": "Romania on course for another record solar year",
-    "title_zh": "罗马尼亚即将迎来又一个创纪录的太阳年",
-    "url": "https://www.pv-magazine.com/2026/06/25/romania-on-course-for-another-record-solar-year/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T12:50:00+00:00"
   }
 }
