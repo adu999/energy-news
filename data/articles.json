@@ -1,4 +1,112 @@
 {
+  "c11da83e6d5d": {
+    "id": "c11da83e6d5d",
+    "title_en": "South Korea’s solar crossroads",
+    "title_zh": "韩国的太阳能十字路口",
+    "url": "https://www.pv-magazine.com/2026/07/01/south-koreas-solar-crossroads/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-01T04:00:00+00:00"
+  },
+  "f92bbd8c5b35": {
+    "id": "f92bbd8c5b35",
+    "title_en": "Samsung C&T submits 600MWh Comet Park BESS to Australia’s EPBC Act",
+    "title_zh": "三星C&T向澳大利亚EPBC法案提交600MWh彗星公园BESS",
+    "url": "https://www.energy-storage.news/samsung-ct-submits-600mwh-comet-park-bess-to-australias-epbc-act/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-01T03:50:34+00:00"
+  },
+  "76bca475e773": {
+    "id": "76bca475e773",
+    "title_en": "Australian AI developer locks in 1.5GWh of battery energy storage under 12-year agreement",
+    "title_zh": "澳大利亚人工智能开发商根据12年协议锁定1.5GWh的电池储能",
+    "url": "https://www.energy-storage.news/australian-ai-developer-locks-in-1-5gwh-of-battery-energy-storage-under-12-year-agreement/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-01T03:49:13+00:00"
+  },
+  "92b0e6372f73": {
+    "id": "92b0e6372f73",
+    "title_en": "The 250-Year History of U.S. Energy Consumption",
+    "title_zh": "美国能源消费250年历史",
+    "url": "https://cleantechnica.com/2026/06/30/the-250-year-history-of-u-s-energy-consumption/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T01:37:20+00:00"
+  },
+  "8f68851d2839": {
+    "id": "8f68851d2839",
+    "title_en": "Tesla Cybercab with No Steering Wheel or Pedals Starts On-Road Testing, USA Standards Changing",
+    "title_zh": "无方向盘或踏板的特斯拉Cybercab开始进行道路测试，美国标准正在改变",
+    "url": "https://cleantechnica.com/2026/06/30/tesla-cybercab-with-no-steering-wheel-or-pedals-starts-on-road-testing-usa-standards-changing/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T01:24:30+00:00"
+  },
+  "bd7ac3b226ae": {
+    "id": "bd7ac3b226ae",
+    "title_en": "Old Teslas Starting Getting Full Self-Driving v14 Lite",
+    "title_zh": "旧特斯拉开始获得全自动驾驶v14 Lite",
+    "url": "https://cleantechnica.com/2026/06/30/old-teslas-starting-getting-full-self-driving-v14-lite/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T01:04:17+00:00"
+  },
+  "6cfb5433f817": {
+    "id": "6cfb5433f817",
+    "title_en": "T&E, EIES and RECHARGE Joint Statement on the Industrial Accelerator Act",
+    "title_zh": "T&E、EIES和RECHARGE关于《工业加速器法案》的联合声明",
+    "url": "https://cleantechnica.com/2026/06/30/te-eies-and-recharge-joint-statement-on-the-industrial-accelerator-act/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T00:11:43+00:00"
+  },
+  "160c982a36a5": {
+    "id": "160c982a36a5",
+    "title_en": "The AI Revolution Needs Electricity More Than Intelligence",
+    "title_zh": "人工智能革命需要电力而不是智能",
+    "url": "https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Needs-Electricity-More-Than-Intelligence.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T00:00:00+00:00"
+  },
+  "84388c93debb": {
+    "id": "84388c93debb",
+    "title_en": "NRC Charts a Disposal Path for Nuclear Waste Stuck at a ‘Dead End’",
+    "title_zh": "NRC为陷入“死胡同”的核废料制定了处置路径",
+    "url": "https://www.powermag.com/nrc-charts-a-disposal-path-for-nuclear-waste-stuck-at-a-dead-end/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-06-30T23:09:40+00:00"
+  },
+  "4e66ca437a9f": {
+    "id": "4e66ca437a9f",
+    "title_en": "India’s Russian Oil Boom Outlives the Hormuz Shock",
+    "title_zh": "印度的俄罗斯石油繁荣消除了霍尔木兹冲击",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Indias-Russian-Oil-Boom-Outlives-the-Hormuz-Shock.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-06-30T23:00:00+00:00"
+  },
+  "016ec6472599": {
+    "id": "016ec6472599",
+    "title_en": "Toyota & Joby Aviation Are Really Trying To Build “Air Mobility for All” — Or So They Say",
+    "title_zh": "丰田和Joby Aviation真的在努力打造“全民空中交通”——至少他们是这么说的",
+    "url": "https://cleantechnica.com/2026/06/30/toyota-joby-aviation-are-really-trying-to-build-air-mobility-for-all/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T22:39:25+00:00"
+  },
+  "e7cd3c28cdf4": {
+    "id": "e7cd3c28cdf4",
+    "title_en": "Lynk & Co Introduces the 07 GT, a New Sport Touring Model Planned for Europe in 2027",
+    "title_zh": "Lynk&Co推出07 GT，这是一款计划于2027年在欧洲推出的新型运动旅游车型",
+    "url": "https://cleantechnica.com/2026/06/30/lynk-co-introduces-the-07-gt-a-new-sport-touring-model-planned-for-europe-in-2027/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-06-30T22:39:05+00:00"
+  },
   "723611b3e208": {
     "id": "723611b3e208",
     "title_en": "Australia’s Oil and Gas Exploration Set for Renaissance",
@@ -4390,113 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-06-24T14:22:49+00:00"
-  },
-  "a39d9113e160": {
-    "id": "a39d9113e160",
-    "title_en": "Prime Day 2026 Green Deals: EVs, power stations, tools, smart devices, and much more",
-    "title_zh": "2026年Prime Day绿色交易：电动汽车、发电站、工具、智能设备等等",
-    "url": "https://electrek.co/2026/06/24/prime-day-2026-green-deals-evs-power-stations-tools-smart-devices-and-much-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-24T14:12:14+00:00"
-  },
-  "465cd1f445dc": {
-    "id": "465cd1f445dc",
-    "title_en": "Platte River, EnergyHub partner to deploy 39-MW Colorado VPP",
-    "title_zh": "Platte River与EnergyHub合作部署39兆瓦科罗拉多VPP",
-    "url": "https://www.utilitydive.com/news/platte-river-energyhub-partner-to-deploy-39-mw-colorado-vpp/823634/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-24T14:07:56+00:00"
-  },
-  "3e808137935b": {
-    "id": "3e808137935b",
-    "title_en": "California will sue over Trump’s latest bribe to block wind power",
-    "title_zh": "加利福尼亚州将起诉特朗普最近贿赂阻止风力发电",
-    "url": "https://electrek.co/2026/06/24/california-will-sue-over-trumps-latest-bribe-to-block-wind-power/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-24T14:00:00+00:00"
-  },
-  "e5495a2e2028": {
-    "id": "e5495a2e2028",
-    "title_en": "Rubio Heads to Gulf as Iran Deal Sparks Anxiety Among U.S. Allies",
-    "title_zh": "卢比奥前往海湾，伊朗协议引发美国盟友的焦虑",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Rubio-Heads-to-Gulf-as-Iran-Deal-Sparks-Anxiety-Among-US-Allies.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-24T14:00:00+00:00"
-  },
-  "0b53409b0f01": {
-    "id": "0b53409b0f01",
-    "title_en": "California Preparing Lawsuit Against Trump Administration’s Deal that Cancels 2 GW Floating Wind Project",
-    "title_zh": "加利福尼亚州准备对特朗普政府取消2吉瓦浮动风电项目的协议提起诉讼",
-    "url": "https://www.offshorewind.biz/2026/06/24/california-preparing-lawsuit-against-trump-administrations-deal-that-cancels-2-gw-floating-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-24T13:46:42+00:00"
-  },
-  "0d5abb5bebfb": {
-    "id": "0d5abb5bebfb",
-    "title_en": "DOE offers $17.5B in loans to help build 10 large nuclear reactors",
-    "title_zh": "美国能源部提供175亿美元贷款，帮助建造10座大型核反应堆",
-    "url": "https://www.utilitydive.com/news/doe-offers-175b-loans-help-build-10-large-nuclear-reactors/823633/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-24T13:45:06+00:00"
-  },
-  "6a0782e8a588": {
-    "id": "6a0782e8a588",
-    "title_en": "Dominion Energy launches long-duration energy storage RFI in Virgina",
-    "title_zh": "Dominion Energy在弗吉尼亚州推出长期储能RFI",
-    "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virgina/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-24T13:44:00+00:00"
-  },
-  "6c758d927944": {
-    "id": "6c758d927944",
-    "title_en": "Dominion Energy launches long-duration energy storage RFI in Virginia",
-    "title_zh": "Dominion Energy在弗吉尼亚州推出长期储能RFI",
-    "url": "https://www.energy-storage.news/dominion-energy-launches-long-duration-energy-storage-rfi-in-virginia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-24T13:44:00+00:00"
-  },
-  "1b0a79a44e36": {
-    "id": "1b0a79a44e36",
-    "title_en": "Tesla sued over fatal crash in Texas home that killed 76-year-old woman",
-    "title_zh": "特斯拉起诉得克萨斯州家中发生致命车祸，导致76岁女子死亡",
-    "url": "https://electrek.co/2026/06/24/tesla-sued-fatal-katy-fsd-crash/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-24T13:31:48+00:00"
-  },
-  "a047f11a1e45": {
-    "id": "a047f11a1e45",
-    "title_en": "China issues renewables consumption rules set to fuel new growth cycle for solar PV and energy storage",
-    "title_zh": "中国发布可再生能源消费规则，推动太阳能光伏和储能的新增长周期",
-    "url": "https://www.pv-tech.org/china-issues-renewables-consumption-rules-set-to-fuel-new-growth-cycle-for-solar-pv-and-energy-storage/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-24T13:30:15+00:00"
-  },
-  "3869f685ff09": {
-    "id": "3869f685ff09",
-    "title_en": "Euro Sinks To One-Year Low As Oil Price Drop Fuels ECB Rate Cut Bets",
-    "title_zh": "油价下跌推动欧洲央行降息，欧元跌至一年低点",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Euro-Sinks-To-One-Year-Low-As-Oil-Price-Drop-Fuels-ECB-Rate-Cut-Bets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-24T13:30:00+00:00"
-  },
-  "10a2d65f7a61": {
-    "id": "10a2d65f7a61",
-    "title_en": "Slate Auto’s electric truck starts at $24,950 with 205 miles of range",
-    "title_zh": "Slate Auto的电动卡车起价24950美元，续航里程205英里",
-    "url": "https://electrek.co/2026/06/24/slate-electric-truck-24950-price/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-24T13:15:01+00:00"
   }
 }
