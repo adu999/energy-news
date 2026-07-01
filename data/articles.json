@@ -1,4 +1,85 @@
 {
+  "2ebea51ff063": {
+    "id": "2ebea51ff063",
+    "title_en": "Toyota’s electric SUV clears 17,500 sales, outpacing the Land Cruiser and key EV rivals",
+    "title_zh": "丰田的电动SUV销量达到17500辆，超过了陆地巡洋舰和主要电动汽车竞争对手",
+    "url": "https://electrek.co/2026/07/01/toyotas-electric-suv-tops-17500-sales-outpaces-key-ev-rivals/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T19:34:47+00:00"
+  },
+  "a52b2132e905": {
+    "id": "a52b2132e905",
+    "title_en": "Deployable Energy’s Unity Nuclear Reactor Achieves Criticality at INL, Third Under DOE Nuclear Push",
+    "title_zh": "可部署能源公司的Unity核反应堆在INL达到临界状态，这是美国能源部核能推动下的第三次",
+    "url": "https://www.powermag.com/deployable-energys-unity-nuclear-reactor-achieves-criticality-at-inl-third-under-doe-nuclear-push/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-01T19:15:44+00:00"
+  },
+  "4174dd865ec4": {
+    "id": "4174dd865ec4",
+    "title_en": "Same Fear, Different Fallout: Oil and Gold's Diverging Collapse",
+    "title_zh": "同样的恐惧，不同的后果：石油和黄金的不同崩溃",
+    "url": "https://oilprice.com/Energy/Energy-General/Same-Fear-Different-Fallout-Oil-and-Golds-Diverging-Collapse.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T19:00:00+00:00"
+  },
+  "bf67a4b213e8": {
+    "id": "bf67a4b213e8",
+    "title_en": "Sicily is now home to Italy’s largest solar farm",
+    "title_zh": "西西里岛现在是意大利最大的太阳能发电厂所在地",
+    "url": "https://electrek.co/2026/07/01/sicily-is-now-home-to-italys-largest-solar-farm/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T18:09:53+00:00"
+  },
+  "19daf8b7c0c2": {
+    "id": "19daf8b7c0c2",
+    "title_en": "Private equity firm acquiring EDF’s North American renewables business",
+    "title_zh": "私募股权公司收购EDF的北美可再生能源业务",
+    "url": "https://www.solarpowerworldonline.com/2026/07/private-equity-firm-acquiring-edfs-north-american-renewables-business/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-01T18:06:56+00:00"
+  },
+  "6801aa349bc6": {
+    "id": "6801aa349bc6",
+    "title_en": "Tesla Semi involved in first fatal crash, killing 2 in Nevada",
+    "title_zh": "特斯拉Semi在内华达州发生首次致命车祸，造成2人死亡",
+    "url": "https://electrek.co/2026/07/01/tesla-semi-first-fatal-crash-nevada/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T18:02:31+00:00"
+  },
+  "23322bb0595c": {
+    "id": "23322bb0595c",
+    "title_en": "Juiced Scrambler e-bikes at new lows from $1,694, Baseus X1 Pro solar security camera $140, Greenworks 80V CrossoverZ bundle, more",
+    "title_zh": "Juiced Scrambler电动自行车从1694美元跌至新低，Baseus X1 Pro太阳能安全摄像头140美元，Greenworks 80V CrossoverZ捆绑包，更多",
+    "url": "https://electrek.co/2026/07/01/juiced-scrambler-e-bikes-baseus-x1-pro-solar-security-camera-greenworks-80v-crossoverz-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-01T18:00:00+00:00"
+  },
+  "a1601583e0f1": {
+    "id": "a1601583e0f1",
+    "title_en": "Russia’s Security and Trade Blocs Show Signs of Fracturing",
+    "title_zh": "俄罗斯的安全和贸易集团显示出分裂的迹象",
+    "url": "https://oilprice.com/Geopolitics/Europe/Russias-Security-and-Trade-Blocs-Show-Signs-of-Fracturing.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T18:00:00+00:00"
+  },
+  "5c1fbbf78458": {
+    "id": "5c1fbbf78458",
+    "title_en": "KKR Makes Largest Ever Clean Energy Investment With $4.2B EDF Purchase",
+    "title_zh": "KKR以42亿美元收购EDF，成为有史以来最大的清洁能源投资",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/KKR-Makes-Largest-Ever-Clean-Energy-Investment-With-42B-EDF-Purchase.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T17:30:00+00:00"
+  },
   "9c69674d15c6": {
     "id": "9c69674d15c6",
     "title_en": "Chevy Equinox EV sales slide 41%, but the new Bolt and Cadillac EVs pick up the slack",
@@ -4417,86 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-25T12:50:00+00:00"
-  },
-  "569be1b82bb0": {
-    "id": "569be1b82bb0",
-    "title_en": "China to Increase Fuel Export Allowances for July",
-    "title_zh": "中国将提高7月份的燃料出口配额",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-to-Increase-Fuel-Export-Allowances-for-July.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T12:30:00+00:00"
-  },
-  "adcc7ad13638": {
-    "id": "adcc7ad13638",
-    "title_en": "Latin America’s clean power success creates a harder problem",
-    "title_zh": "拉丁美洲清洁能源的成功带来了一个更棘手的问题",
-    "url": "https://www.energymonitor.ai/analysis/latin-america-energy-transition/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-25T12:28:33+00:00"
-  },
-  "d6fae9773e86": {
-    "id": "d6fae9773e86",
-    "title_en": "Sodium-ion will reach LCOS parity with LFP ‘in two to three years,’ BESS firm says",
-    "title_zh": "BESS公司表示，钠离子将在两到三年内达到与LFP相当的LCOS水平",
-    "url": "https://www.energy-storage.news/sodium-ion-will-reach-lcos-parity-with-lfp-in-two-to-three-years-bess-firm-says/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-25T12:25:57+00:00"
-  },
-  "25517389f8ac": {
-    "id": "25517389f8ac",
-    "title_en": "94-MW NY solar project to utilize Piled construction quality management platform",
-    "title_zh": "94兆瓦纽约太阳能项目利用打桩施工质量管理平台",
-    "url": "https://www.solarpowerworldonline.com/2026/06/94-mw-ny-solar-project-to-utilize-piled-construction-quality-management-platform/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T12:20:47+00:00"
-  },
-  "5283ba6d089e": {
-    "id": "5283ba6d089e",
-    "title_en": "Commercial rooftops have more potential than the solar industry believes A case study on C&I roof space in New Jersey.",
-    "title_zh": "商业屋顶比太阳能行业认为的更有潜力。新泽西州C&I屋顶空间的案例研究。",
-    "url": "https://www.solarpowerworldonline.com/2026/06/commercial-rooftops-have-more-potential-than-the-solar-industry-believes/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T12:00:12+00:00"
-  },
-  "91829a523bff": {
-    "id": "91829a523bff",
-    "title_en": "Africa’s solar market diversifies as C&I demand accelerates",
-    "title_zh": "随着C&I需求加速，非洲太阳能市场多样化",
-    "url": "https://www.pv-magazine.com/2026/06/25/africas-solar-market-diversifies-as-ci-demand-accelerates/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T12:00:00+00:00"
-  },
-  "fc5f07d907ae": {
-    "id": "fc5f07d907ae",
-    "title_en": "ADNOC Brings BP, TotalEnergies Into Abu Dhabi’s Biggest Gas Cap Project",
-    "title_zh": "ADNOC将BP和TotalEnergies带入阿布扎比最大的天然气上限项目",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Brings-BP-TotalEnergies-Into-Abu-Dhabis-Biggest-Gas-Cap-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T11:30:00+00:00"
-  },
-  "184b99e44015": {
-    "id": "184b99e44015",
-    "title_en": "Sunwoda Energy launches SunESS H Series and deepens European partnerships",
-    "title_zh": "Sunwoda Energy推出SunESS H系列，深化欧洲合作伙伴关系",
-    "url": "https://www.pv-magazine.com/2026/06/25/sunwoda-energy-launches-suness-h-series-and-deepens-european-partnerships/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T11:00:00+00:00"
-  },
-  "e2d4551f9aec": {
-    "id": "e2d4551f9aec",
-    "title_en": "North Macedonia prepares to integrate gigawatt-sized project pipeline",
-    "title_zh": "北马其顿准备整合千兆瓦级的项目管道",
-    "url": "https://www.pv-magazine.com/2026/06/25/north-macedonia-prepares-to-integrate-gigawatt-sized-project-pipeline/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T11:00:00+00:00"
   }
 }
