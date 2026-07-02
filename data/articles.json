@@ -1,4 +1,112 @@
 {
+  "4ca70965ce51": {
+    "id": "4ca70965ce51",
+    "title_en": "ISC Konstanz kicks off five publicly funded PV research projects",
+    "title_zh": "ISC Konstanz启动五个公共资助的光伏研究项目",
+    "url": "https://www.pv-tech.org/isc-konstanz-kicks-off-five-publicly-funded-pv-research-projects/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-02T11:24:12+00:00"
+  },
+  "55fb96d84b61": {
+    "id": "55fb96d84b61",
+    "title_en": "Japanese Banks Commit $496 Million to India's Power Grid Expansion",
+    "title_zh": "日本银行承诺投资4.96亿美元用于印度电网扩建",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Banks-Commit-496-Million-to-Indias-Power-Grid-Expansion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-02T11:05:06+00:00"
+  },
+  "efc90645752d": {
+    "id": "efc90645752d",
+    "title_en": "NRC Proposes Landmark Reactor Licensing Overhaul, Bundling Decades of Modernization Into One Rule",
+    "title_zh": "NRC提议进行具有里程碑意义的反应堆许可证大修，将数十年的现代化整合为一条规则",
+    "url": "https://www.powermag.com/nrc-proposes-landmark-reactor-licensing-overhaul-bundling-decades-of-modernization-into-one-rule/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-02T10:52:59+00:00"
+  },
+  "c57e3aba76d2": {
+    "id": "c57e3aba76d2",
+    "title_en": "New Jersey passes plug-in solar bill, deployments exempt from utility approval",
+    "title_zh": "新泽西州通过插电式太阳能法案，部署无需公用事业批准",
+    "url": "https://www.pv-tech.org/new-jersey-passes-plug-in-solar-bill-deployments-exempt-utility-approval/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-02T10:34:26+00:00"
+  },
+  "2d06689b89dd": {
+    "id": "2d06689b89dd",
+    "title_en": "First Monopile In at Vattenfall’s Nordlicht I Offshore Wind Farm",
+    "title_zh": "Vattenfall Nordlicht I海上风电场的第一个单桩",
+    "url": "https://www.offshorewind.biz/2026/07/02/first-monopile-in-at-vattenfalls-nordlicht-i-offshore-wind-farm/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-02T10:26:43+00:00"
+  },
+  "9daa78a25e49": {
+    "id": "9daa78a25e49",
+    "title_en": "Renewables generated 45.5% of EU electricity in Q1 2026",
+    "title_zh": "2026年第一季度，可再生能源发电量占欧盟电力的45.5%",
+    "url": "https://www.pv-magazine.com/2026/07/02/renewables-generated-45-5-of-eu-electricity-in-q1-2026/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-02T10:15:42+00:00"
+  },
+  "b65f55e96ac0": {
+    "id": "b65f55e96ac0",
+    "title_en": "Saudi Arabia Rushes Crude Exports Through Reopened Strait of Hormuz",
+    "title_zh": "沙特阿拉伯通过重新开放的霍尔木兹海峡迅速出口原油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Rushes-Crude-Exports-Through-Reopened-Strait-of-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-02T10:00:00+00:00"
+  },
+  "28def2f2d1f6": {
+    "id": "28def2f2d1f6",
+    "title_en": "CIP Secures 1 GW Across Two Projects in South Korea’s Offshore Wind Auction",
+    "title_zh": "CIP在韩国海上风电拍卖中获得两个项目的1GW",
+    "url": "https://www.offshorewind.biz/2026/07/02/cip-secures-1-gw-across-two-projects-in-south-koreas-offshore-wind-auction/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-02T09:30:00+00:00"
+  },
+  "a0c17778d5d0": {
+    "id": "a0c17778d5d0",
+    "title_en": "Vopak takes FID on 800MWh Netherlands ‘controllable congestion mitigator’ BESS",
+    "title_zh": "Vopak在800MWh荷兰“可控拥堵缓解器”BESS上采用FID",
+    "url": "https://www.energy-storage.news/vopak-final-investment-decision-on-200mw-800mwh-netherlands-bess-battery-storage/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-02T09:16:05+00:00"
+  },
+  "cfb1bed47264": {
+    "id": "cfb1bed47264",
+    "title_en": "Alsym Energy signs 9GWh sodium-ion BESS agreement with consultancy for global mining operations",
+    "title_zh": "Alsym Energy与全球采矿运营咨询公司签署9GWh钠离子BESS协议",
+    "url": "https://www.energy-storage.news/alsym-energy-signs-9gwh-sodium-ion-bess-agreement-with-consultancy-for-global-mining-operations/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-02T09:08:44+00:00"
+  },
+  "8aae90340c42": {
+    "id": "8aae90340c42",
+    "title_en": "AI Boom Drives Record Surge in Battery Demand",
+    "title_zh": "人工智能热潮推动电池需求创纪录激增",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/AI-Boom-Drives-Record-Surge-in-Battery-Demand.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-02T09:07:51+00:00"
+  },
+  "1e39d5da87a8": {
+    "id": "1e39d5da87a8",
+    "title_en": "Dahua Technology showcases “Visible AI in New Energy” at Intersolar Europe 2026",
+    "title_zh": "大华科技在2026年欧洲国际太阳能展上展示“新能源中的可见人工智能”",
+    "url": "https://www.pv-magazine.com/2026/07/02/dahua-technology-showcases-visible-ai-in-new-energy-at-intersolar-europe-2026/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-02T09:00:00+00:00"
+  },
   "9f9801c065b8": {
     "id": "9f9801c065b8",
     "title_en": "Oman awards 500 MW solar, 2 GW pumped hydro contracts",
@@ -43,6 +151,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-02T08:03:43+00:00"
+  },
+  "70ee8fa274de": {
+    "id": "70ee8fa274de",
+    "title_en": "Tax credit 4 July deadline looms as US wind developers brace for more federal roadblocks",
+    "title_zh": "税收抵免7月4日的最后期限迫在眉睫，因为美国风能开发商正在为更多的联邦障碍做准备",
+    "url": "https://www.windpowermonthly.com/article/1963411/tax-credit-4-july-deadline-looms-us-wind-developers-brace-federal-roadblocks",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-02T08:00:00+00:00"
   },
   "e84fe6991cbf": {
     "id": "e84fe6991cbf",
@@ -610,6 +727,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-01T13:51:26+00:00"
+  },
+  "6b3e535c45b9": {
+    "id": "6b3e535c45b9",
+    "title_en": "Can Brazil become a key rare earth supplier for the West?",
+    "title_zh": "巴西能成为西方主要的稀土供应国吗？",
+    "url": "https://www.energymonitor.ai/news/can-brazil-become-a-key-rare-earth-supplier-for-the-west/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-01T13:43:08+00:00"
   },
   "aa8fa609685b": {
     "id": "aa8fa609685b",
@@ -4372,131 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-25T21:01:22+00:00"
-  },
-  "2090321ed52e": {
-    "id": "2090321ed52e",
-    "title_en": "Geothermal Could Power 65 Million U.S. Homes by 2050, DOE Says",
-    "title_zh": "美国能源部表示，到2050年，地热可以为6500万美国家庭供电",
-    "url": "https://oilprice.com/Energy/Energy-General/Geothermal-Could-Power-65-Million-US-Homes-by-2050-DOE-Says.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T21:00:00+00:00"
-  },
-  "9eca6a91e8c9": {
-    "id": "9eca6a91e8c9",
-    "title_en": "Anker SOLIX S2000 Review — CleanTechnica Tested",
-    "title_zh": "Anker SOLIX S2000评测--CleanTechnica测试",
-    "url": "https://cleantechnica.com/2026/06/25/anker-solix-s2000-review-cleantechnica-tested/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-25T20:39:56+00:00"
-  },
-  "610308c885a5": {
-    "id": "610308c885a5",
-    "title_en": "Asia's Crude Buying Spree Is Running Out of Steam",
-    "title_zh": "亚洲原油购买价差正在失去动力",
-    "url": "https://oilprice.com/Energy/Energy-General/Asias-Crude-Buying-Spree-Is-Running-Out-of-Steam.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T20:00:00+00:00"
-  },
-  "85aad125173b": {
-    "id": "85aad125173b",
-    "title_en": "SpaceX Wants to Fuel Its Mars Ambitions With Its Own Gas Pipeline",
-    "title_zh": "SpaceX希望通过自己的天然气管道来推动其火星野心",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/SpaceX-Wants-to-Fuel-Its-Mars-Ambitions-With-Its-Own-Gas-Pipeline.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T19:30:00+00:00"
-  },
-  "f0450d210770": {
-    "id": "f0450d210770",
-    "title_en": "Range Rover’s first EV will beat its gas counterpart, but it may cost over $150,000",
-    "title_zh": "路虎揽胜的首款电动汽车将击败其汽油车，但价格可能超过15万美元",
-    "url": "https://electrek.co/2026/06/25/range-rovers-ev-beat-gas-model-cost-150000/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T19:15:06+00:00"
-  },
-  "83c4b23059a3": {
-    "id": "83c4b23059a3",
-    "title_en": "Lithium Prices Tumble As Traders Brace For CATL Supply Surge",
-    "title_zh": "随着贸易商为CATL供应激增做准备，锂价格暴跌",
-    "url": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Tumble-As-Traders-Brace-For-CATL-Supply-Surge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T19:00:00+00:00"
-  },
-  "a516056b6031": {
-    "id": "a516056b6031",
-    "title_en": "Gas Prices Are Falling. Your July 4 Fill-Up Still Won't Feel Cheap.",
-    "title_zh": "天然气价格正在下跌。你的7月4日加满油仍然不会觉得便宜。",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-Are-Falling-Your-July-4-Fill-Up-Still-Wont-Feel-Cheap.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T19:00:00+00:00"
-  },
-  "51947efdb417": {
-    "id": "51947efdb417",
-    "title_en": "McMurtry teases production version of its bonkers, record-breaking electric fan car",
-    "title_zh": "McMurtry调侃其疯狂的破纪录电风扇车的生产版本",
-    "url": "https://electrek.co/2026/06/25/mcmurtry-teases-production-version-of-its-bonkers-record-breaking-electric-fan-car/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T18:59:27+00:00"
-  },
-  "85f755c8ebaa": {
-    "id": "85f755c8ebaa",
-    "title_en": "The Inevitable Electrification of Labor? — CleanTechnica Field Trip",
-    "title_zh": "劳动不可避免的电气化？--CleanTechnica实地考察",
-    "url": "https://cleantechnica.com/2026/06/25/the-inevitable-electrification-of-labor-cleantechnica-field-trip/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-25T18:39:54+00:00"
-  },
-  "eb7c62d68f51": {
-    "id": "eb7c62d68f51",
-    "title_en": "Prime Day-3 Deals: ECOVACS LiDAR Pro robot mowers back at lows, Jackery Prime Day power station sale + new releases, more",
-    "title_zh": "Prime Day 3优惠：ECOVACS LiDAR Pro机器人割草机价格回落，Jackery Prime Day发电站销售+新品发布，更多",
-    "url": "https://electrek.co/2026/06/25/prime-day-3-ecovacs-lidar-pro-robot-mowers-jackery-prime-day-power-station-sale-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T18:00:00+00:00"
-  },
-  "72c83feb6e76": {
-    "id": "72c83feb6e76",
-    "title_en": "Kazakhstan Lands $12 Billion in EU Deals to Expand Energy and Trade Ties",
-    "title_zh": "哈萨克斯坦与欧盟达成120亿美元协议，以扩大能源和贸易关系",
-    "url": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Lands-12-Billion-in-EU-Deals-to-Expand-Energy-and-Trade-Ties.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T18:00:00+00:00"
-  },
-  "0bd5f4647dc6": {
-    "id": "0bd5f4647dc6",
-    "title_en": "Polestar barred from US over the Chinese connected vehicle rule, a dangerous precedent",
-    "title_zh": "Polestar因中国联网汽车规则被禁止进入美国，这是一个危险的先例",
-    "url": "https://electrek.co/2026/06/25/polestar-us-connected-vehicle-rule-europe/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T17:45:04+00:00"
-  },
-  "890f04b5cfc8": {
-    "id": "890f04b5cfc8",
-    "title_en": "Ann Arbor finishes its largest solar project to date",
-    "title_zh": "安娜堡完成了迄今为止最大的太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/06/ann-arbor-finishes-its-largest-solar-project-to-date/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T17:22:45+00:00"
-  },
-  "c5d2f0700654": {
-    "id": "c5d2f0700654",
-    "title_en": "Toyota is recalling over 20,000 EVs, including Lexus and Subaru models",
-    "title_zh": "丰田正在召回20000多辆电动汽车，包括雷克萨斯和斯巴鲁车型",
-    "url": "https://electrek.co/2026/06/25/toyota-recalls-over-20000-evs-lexus-subaru/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T17:19:13+00:00"
   }
 }
