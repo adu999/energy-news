@@ -1,4 +1,58 @@
 {
+  "44f7c1e964ae": {
+    "id": "44f7c1e964ae",
+    "title_en": "Firmus Secures 600 MW Energy Supply Agreement in South Australia, Linked to 1.2 GW of New Renewable Generation & Battery Storage",
+    "title_zh": "Firmus在南澳大利亚获得600兆瓦的能源供应协议，与1.2吉瓦的新可再生能源发电和电池储能挂钩",
+    "url": "https://cleantechnica.com/2026/07/01/firmus-secures-600-mw-energy-supply-agreement-in-south-australia-linked-to-1-2-gw-of-new-renewable-generation-battery-storage/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-02T01:41:36+00:00"
+  },
+  "c06333c3cf65": {
+    "id": "c06333c3cf65",
+    "title_en": "NIO vs. XPENG — Back Almost Even Again!",
+    "title_zh": "NIO vs.XPENG-几乎又回来了！",
+    "url": "https://cleantechnica.com/2026/07/01/nio-vs-xpeng-back-almost-even-again/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-02T00:56:54+00:00"
+  },
+  "0ab8e5342461": {
+    "id": "0ab8e5342461",
+    "title_en": "5 Under-the-Radar Stocks Fueling the AI Revolution",
+    "title_zh": "5种雷达下的股票推动了人工智能革命",
+    "url": "https://oilprice.com/Energy/Energy-General/5-Under-the-Radar-Stocks-Fueling-the-AI-Revolution.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-02T00:00:00+00:00"
+  },
+  "bc507dbf7811": {
+    "id": "bc507dbf7811",
+    "title_en": "Trump Targets California Again In SpaceX Feud",
+    "title_zh": "特朗普在SpaceX的争论中再次瞄准加利福尼亚州",
+    "url": "https://oilprice.com/Energy/Energy-General/Trump-Targets-California-Again-In-SpaceX-Feud.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-01T23:00:00+00:00"
+  },
+  "1e95405f209b": {
+    "id": "1e95405f209b",
+    "title_en": "Top Selling Electric Vehicles in the World — May 2026",
+    "title_zh": "世界上最畅销的电动汽车——2026年5月",
+    "url": "https://cleantechnica.com/2026/07/01/top-selling-electric-vehicles-in-the-world-may-2026/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T22:41:42+00:00"
+  },
+  "4af060caf14d": {
+    "id": "4af060caf14d",
+    "title_en": "Firmus secures 1.2GW of new renewables to power South Australian AI factory campuses",
+    "title_zh": "Firmus获得1.2GW的新可再生能源，为南澳大利亚人工智能工厂园区供电",
+    "url": "https://www.pv-tech.org/firmus-secures-1-2gw-of-new-renewables-to-power-south-australian-ai-factory-campuses/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-01T22:33:28+00:00"
+  },
   "a01c9ad9e77d": {
     "id": "a01c9ad9e77d",
     "title_en": "Wall Street Is Pivoting From Solar To Solar Plus Storage",
@@ -62,6 +116,33 @@
     "category": "综合",
     "pub_ts": "2026-07-01T20:33:42+00:00"
   },
+  "40dee3fd20e7": {
+    "id": "40dee3fd20e7",
+    "title_en": "XPENG Unveils X-Mind: Empowering Autonomous Driving With A “Future-Foresight” Brain",
+    "title_zh": "XPENG发布X-Mind：用“未来远见”大脑赋予自动驾驶能力",
+    "url": "https://cleantechnica.com/2026/07/01/xpeng-unveils-x-mind-empowering-autonomous-driving-with-a-future-foresight-brain/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T20:20:57+00:00"
+  },
+  "49b55368f486": {
+    "id": "49b55368f486",
+    "title_en": "Southeast Missouri Smelter Announces Intent to Restart This Year",
+    "title_zh": "东南密苏里冶炼厂宣布有意今年重新开工",
+    "url": "https://cleantechnica.com/2026/07/01/southeast-missouri-smelter-announces-intent-to-restart-this-year/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T20:10:18+00:00"
+  },
+  "fcdaf6a7c7b8": {
+    "id": "fcdaf6a7c7b8",
+    "title_en": "USMCA to Move to Automatic Annual Renewal as Countries Face July 1st Deadline",
+    "title_zh": "随着各国面临7月1日的最后期限，USMCA将自动进行年度续期",
+    "url": "https://cleantechnica.com/2026/07/01/usmca-to-move-to-automatic-annual-renewal-as-countries-face-july-1st-deadline/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T20:00:36+00:00"
+  },
   "6270acc3e240": {
     "id": "6270acc3e240",
     "title_en": "How the U.S. and U.K. Are Redrawing Syria's Energy Map",
@@ -88,6 +169,15 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-07-01T19:15:44+00:00"
+  },
+  "facc33f20656": {
+    "id": "facc33f20656",
+    "title_en": "“Alligator Alcatraz” Ends Immigration Detention After Earthjustice Lawsuits",
+    "title_zh": "“鳄鱼恶魔岛”在地球正义诉讼后结束移民拘留",
+    "url": "https://cleantechnica.com/2026/07/01/alligator-alcatraz-ends-immigration-detention-after-earthjustice-lawsuits/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-01T19:00:53+00:00"
   },
   "4174dd865ec4": {
     "id": "4174dd865ec4",
@@ -4408,95 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-25T14:30:00+00:00"
-  },
-  "74d3b4857f67": {
-    "id": "74d3b4857f67",
-    "title_en": "PowerBank brings online NY community solar project built for Honeywell",
-    "title_zh": "PowerBank为霍尼韦尔打造的纽约社区太阳能项目上线",
-    "url": "https://www.solarpowerworldonline.com/2026/06/powerbank-brings-online-ny-community-solar-project-built-for-honeywell/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-25T14:26:50+00:00"
-  },
-  "2658bb2d7f0a": {
-    "id": "2658bb2d7f0a",
-    "title_en": "China Briefing 25 June 2026: Five-year plans passed | Critical-mineral tensions | Industrial decarbonisation plan",
-    "title_zh": "中国简报2026年6月25日：五年计划通过|关键矿产紧张局势|工业脱碳计划",
-    "url": "https://www.carbonbrief.org/china-briefing-25-june-2026-five-year-plans-passed-critical-mineral-tensions-industrial-decarbonisation-plan/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-25T14:25:29+00:00"
-  },
-  "008a28957c5b": {
-    "id": "008a28957c5b",
-    "title_en": "Deployable reserves shrinking as coal, gas forced outage rates rise: NERC",
-    "title_zh": "随着煤炭和天然气被迫停运率的上升，可部署储量正在萎缩：NERC",
-    "url": "https://www.utilitydive.com/news/deployable-reserves-shrinking-forced-outage-rates-increase-nerc/823765/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-25T14:25:07+00:00"
-  },
-  "bbf05c80dc71": {
-    "id": "bbf05c80dc71",
-    "title_en": "BYD is making public EV charging and parking a whole lot easier",
-    "title_zh": "比亚迪正在使公共电动汽车充电和停车变得更加容易",
-    "url": "https://electrek.co/2026/06/25/byd-making-public-ev-charging-parking-easier/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T14:21:47+00:00"
-  },
-  "12436f0ff168": {
-    "id": "12436f0ff168",
-    "title_en": "A month into EDAM, the data already shows two very different grids",
-    "title_zh": "EDAM一个月后，数据已经显示了两个截然不同的网格",
-    "url": "https://www.utilitydive.com/news/caiso-edam-day-ahead-pacificorp-analysis/823240/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-25T14:12:59+00:00"
-  },
-  "4add1519cb0d": {
-    "id": "4add1519cb0d",
-    "title_en": "Tesla to hire 1,000 more Giga Berlin workers as Europe demand returns",
-    "title_zh": "欧洲要求特斯拉重新雇佣1000名Giga Berlin员工",
-    "url": "https://electrek.co/2026/06/25/tesla-giga-berlin-1000-hires-europe-demand/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-25T14:04:52+00:00"
-  },
-  "219fdea912fb": {
-    "id": "219fdea912fb",
-    "title_en": "Tesla, Sunrun, Renew Home announce 16GW VPP framework, focus on PJM",
-    "title_zh": "特斯拉、Sunrun、Renew Home宣布16GW VPP框架，专注于PJM",
-    "url": "https://www.energy-storage.news/tesla-sunrun-renew-home-announce-16gw-vpp-framework-focus-on-pjm/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-25T14:00:52+00:00"
-  },
-  "8672f775ed36": {
-    "id": "8672f775ed36",
-    "title_en": "Russia Faces Growing Fuel Crunch as Ukrainian Strikes Knock Out Refineries",
-    "title_zh": "乌克兰罢工摧毁炼油厂，俄罗斯面临日益严重的燃料短缺",
-    "url": "https://oilprice.com/Energy/Energy-General/Russia-Faces-Growing-Fuel-Crunch-as-Ukrainian-Strikes-Knock-Out-Refineries.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-25T14:00:00+00:00"
-  },
-  "f0d56a210276": {
-    "id": "f0d56a210276",
-    "title_en": "US ROUNDUP: e-Storage, Spearmint Energy, and OCI Energy advance BESS projects in Michigan and Texas",
-    "title_zh": "美国ROUNDUP：e-Storage、Spearmint Energy和OCI Energy在密歇根州和德克萨斯州推进BESS项目",
-    "url": "https://www.energy-storage.news/us-roundup-e-storage-spearmint-energy-and-oci-energy-advance-bess-projects-in-michigan-and-texas/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-25T13:56:08+00:00"
-  },
-  "1c119c7b97e7": {
-    "id": "1c119c7b97e7",
-    "title_en": "UN secretary general urges AI giants to disclose environmental impact",
-    "title_zh": "联合国秘书长敦促人工智能巨头披露环境影响",
-    "url": "https://www.utilitydive.com/news/un-secretary-general-guterres-urges-ai-giants-to-disclose-environmental-impact-renewables-2030/823746/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-25T13:46:46+00:00"
   }
 }
