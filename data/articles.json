@@ -1,4 +1,103 @@
 {
+  "d85cb2ccd6b1": {
+    "id": "d85cb2ccd6b1",
+    "title_en": "Tesla Will Reach 10 Million Cumulative Sales This Quarter",
+    "title_zh": "特斯拉本季度累计销量将达到1000万辆",
+    "url": "https://cleantechnica.com/2026/07/02/tesla-will-reach-10-million-cumulative-sales-this-quarter/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T02:55:40+00:00"
+  },
+  "aac0b3d937ef": {
+    "id": "aac0b3d937ef",
+    "title_en": "Tesla Has Its 4th Best Quarter Ever",
+    "title_zh": "特斯拉有史以来第四好的季度",
+    "url": "https://cleantechnica.com/2026/07/02/tesla-has-its-4th-best-quarter-ever/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T02:22:02+00:00"
+  },
+  "a83531609d25": {
+    "id": "a83531609d25",
+    "title_en": "Ninth Circuit Rejects Industry Challenge to SoCal Clean Air Rule for Boilers",
+    "title_zh": "第九巡回法院驳回了对SoCal锅炉清洁空气规则的行业挑战",
+    "url": "https://cleantechnica.com/2026/07/02/ninth-circuit-rejects-industry-challenge-to-socal-clean-air-rule-for-boilers/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T01:40:33+00:00"
+  },
+  "56e39518cfcd": {
+    "id": "56e39518cfcd",
+    "title_en": "Residential Batteries Are Becoming An Active Grid Management Tool",
+    "title_zh": "家用电池正在成为一种主动的电网管理工具",
+    "url": "https://cleantechnica.com/2026/07/02/residential-batteries-are-becoming-an-active-grid-management-tool/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T01:01:41+00:00"
+  },
+  "88bc2a4734dd": {
+    "id": "88bc2a4734dd",
+    "title_en": "Tesla caps employee AI spending at $200/week except for Grok",
+    "title_zh": "特斯拉将员工人工智能支出限制在每周200美元，Grok除外",
+    "url": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-03T00:34:03+00:00"
+  },
+  "f4fee324dcae": {
+    "id": "f4fee324dcae",
+    "title_en": "Floating Hotels (Cruise Ships) Taxed Much Less Than Normal Hotels",
+    "title_zh": "浮动酒店（游轮）的税收远低于普通酒店",
+    "url": "https://cleantechnica.com/2026/07/02/floating-hotels-cruise-ships-taxed-much-less-than-normal-hotels/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T00:12:24+00:00"
+  },
+  "bcd5fb61103e": {
+    "id": "bcd5fb61103e",
+    "title_en": "Cape Verde Competes in World Cup, Leads In EV Adoption With All-BYD Government Fleet",
+    "title_zh": "佛得角参加世界杯，与比亚迪政府车队一起引领电动汽车采用率",
+    "url": "https://cleantechnica.com/2026/07/02/cape-verde-competes-in-world-cup-leads-in-ev-adoption-with-all-byd-government-fleet/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T00:08:03+00:00"
+  },
+  "f538af0e9d9e": {
+    "id": "f538af0e9d9e",
+    "title_en": "UAE Rewrites Offshore Oil Pricing To Capture Asian Markets",
+    "title_zh": "阿联酋重新制定海上石油定价以占领亚洲市场",
+    "url": "https://oilprice.com/Energy/Crude-Oil/UAE-Rewrites-Offshore-Oil-Pricing-To-Capture-Asian-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-03T00:00:00+00:00"
+  },
+  "78d23ac40291": {
+    "id": "78d23ac40291",
+    "title_en": "BYD Commercial Vehicle Sales Up 24.7% in June",
+    "title_zh": "比亚迪6月份商用车销量增长24.7%",
+    "url": "https://cleantechnica.com/2026/07/02/byd-commercial-vehicle-sales-up-24-7-in-june/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-02T23:08:19+00:00"
+  },
+  "6e72cba54529": {
+    "id": "6e72cba54529",
+    "title_en": "AMPERA Produces First 3D-Printed Nuclear Reactor Module",
+    "title_zh": "AMPERA生产首个3D打印核反应堆模块",
+    "url": "https://www.powermag.com/ampera-produces-first-3d-printed-nuclear-reactor-module/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-02T22:59:00+00:00"
+  },
+  "621f59c6d301": {
+    "id": "621f59c6d301",
+    "title_en": "Iberdrola kicks off its first large-scale battery project in the US",
+    "title_zh": "Iberdrola在美国启动了第一个大型电池项目",
+    "url": "https://electrek.co/2026/07/02/iberdrola-kicks-off-its-first-large-scale-battery-project-in-the-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-02T22:33:31+00:00"
+  },
   "706b2d2cbd3d": {
     "id": "706b2d2cbd3d",
     "title_en": "Tehran Is Racing the Clock to Export as Much Oil as Possible",
@@ -4399,104 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-06-26T15:15:44+00:00"
-  },
-  "d6b43139c6ea": {
-    "id": "d6b43139c6ea",
-    "title_en": "Data centers are ready to negotiate flexibility for speed",
-    "title_zh": "数据中心已准备好就速度灵活性进行谈判",
-    "url": "https://www.utilitydive.com/news/data-centers-flexibility-utilities-speed-to-power/822588/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-26T15:00:00+00:00"
-  },
-  "09f29a69429c": {
-    "id": "09f29a69429c",
-    "title_en": "The grid operates in seconds, but financial settlement still moves in months",
-    "title_zh": "电网在几秒钟内运行，但财务结算仍需几个月才能完成",
-    "url": "https://www.utilitydive.com/news/the-grid-operates-in-seconds-but-financial-settlement-still-moves-in-month/823605/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-26T15:00:00+00:00"
-  },
-  "b5a8bb0276e6": {
-    "id": "b5a8bb0276e6",
-    "title_en": "Sleek, Futuristic “Atlas” Car Recharges Self With Built-In Solar Cells",
-    "title_zh": "时尚、未来主义的“阿特拉斯”汽车通过内置太阳能电池自我充电",
-    "url": "https://cleantechnica.com/2026/06/26/solar-ev-aptera-us-startup-range-miles-autocycle/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-06-26T14:49:54+00:00"
-  },
-  "8a20dada421a": {
-    "id": "8a20dada421a",
-    "title_en": "ASHRAE to tackle data centers, thermal systems at annual conference",
-    "title_zh": "ASHRAE将在年会上解决数据中心和热系统问题",
-    "url": "https://www.utilitydive.com/news/ashrae-to-tackle-data-centers-thermal-systems-at-annual-conference/823900/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-26T14:44:24+00:00"
-  },
-  "8c5df6f9f922": {
-    "id": "8c5df6f9f922",
-    "title_en": "Baghdad Hosting EU Energy Talks After Iraq Floats OPEC Exit",
-    "title_zh": "伊拉克退出欧佩克后，巴格达主持欧盟能源谈判",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Baghdad-Hosting-EU-Energy-Talks-After-Iraq-Floats-OPEC-Exit.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-26T14:30:00+00:00"
-  },
-  "3a4a478bc37c": {
-    "id": "3a4a478bc37c",
-    "title_en": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’",
-    "title_zh": "2026年6月26日简报：欧洲各地打破高温记录|伦敦气候行动周|介绍“宇宙计划”",
-    "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-26T14:27:07+00:00"
-  },
-  "f7c82f780685": {
-    "id": "f7c82f780685",
-    "title_en": "Q&A: What change of power in Colombia could mean for world’s fossil-fuel transition",
-    "title_zh": "问答：哥伦比亚的电力变化对世界化石燃料转型意味着什么",
-    "url": "https://www.carbonbrief.org/qa-what-change-of-power-in-colombia-could-mean-for-worlds-fossil-fuel-transition/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-06-26T14:04:53+00:00"
-  },
-  "d18b0abfe18d": {
-    "id": "d18b0abfe18d",
-    "title_en": "What Happened to Big Oil's Green Pivot?",
-    "title_zh": "大型石油公司的绿色转型发生了什么？",
-    "url": "https://oilprice.com/Energy/Energy-General/What-Happened-to-Big-Oils-Green-Pivot.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-26T14:00:00+00:00"
-  },
-  "fdceb2f45064": {
-    "id": "fdceb2f45064",
-    "title_en": "Tesla settles lawsuit over fatal ‘Full Self-Driving’ pedestrian crash",
-    "title_zh": "特斯拉就致命的“全自动驾驶”行人碰撞案达成和解",
-    "url": "https://electrek.co/2026/06/26/tesla-fsd-pedestrian-death-settlement/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-26T13:58:56+00:00"
-  },
-  "582df1ca8076": {
-    "id": "582df1ca8076",
-    "title_en": "445 GW — mainly solar, storage — to come online by 2030 as demand growth surges: ICF",
-    "title_zh": "随着需求增长激增，到2030年将有445吉瓦（主要是太阳能和储能）并网：ICF",
-    "url": "https://www.utilitydive.com/news/solar-storage-demand-growth-data-centers-icf/823866/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-26T13:43:03+00:00"
-  },
-  "ae21d51ce9e0": {
-    "id": "ae21d51ce9e0",
-    "title_en": "Kia reveals three new PV5 electric vans, including a 7-seater [Images]",
-    "title_zh": "起亚发布了三款新的PV5电动货车，其中包括一款7座[图片]",
-    "url": "https://electrek.co/2026/06/26/kia-reveals-three-new-pv5-electric-vans-images/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-26T13:38:41+00:00"
   }
 }
