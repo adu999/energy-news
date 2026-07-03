@@ -1,4 +1,49 @@
 {
+  "e8879607028f": {
+    "id": "e8879607028f",
+    "title_en": "The DC metro area is getting its first en-route electric bus chargers",
+    "title_zh": "DC都会区正在获得其首个途中电动公交车充电器",
+    "url": "https://electrek.co/2026/07/03/the-dc-metro-area-is-getting-its-first-en-route-electric-bus-chargers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-03T21:01:56+00:00"
+  },
+  "a5de3d8fb08a": {
+    "id": "a5de3d8fb08a",
+    "title_en": "BYD Seal 08 EV: A No-Compromise Premium Sedan At A Commodity Car Price",
+    "title_zh": "比亚迪海豹08电动汽车：一款价格实惠的高档轿车",
+    "url": "https://cleantechnica.com/2026/07/03/byd-seal-08-ev-a-no-compromise-premium-sedan-at-a-commodity-car-price/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T20:35:12+00:00"
+  },
+  "d4f675ac209a": {
+    "id": "d4f675ac209a",
+    "title_en": "Tesla Has A Blowout Q2 — The Story Behind The Numbers",
+    "title_zh": "特斯拉在第二季度爆发——数字背后的故事",
+    "url": "https://cleantechnica.com/2026/07/03/tesla-has-a-blowout-q2-the-story-behind-the-numbers/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T19:34:30+00:00"
+  },
+  "1b2a3cb17fd2": {
+    "id": "1b2a3cb17fd2",
+    "title_en": "OPEC Oil Production Jumps, But Gulf Supply Is Still Far From Normal",
+    "title_zh": "欧佩克石油产量激增，但海湾供应仍远未正常",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Oil-Production-Jumps-But-Gulf-Supply-Is-Still-Far-From-Normal.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-03T19:30:00+00:00"
+  },
+  "54f019a5aa16": {
+    "id": "54f019a5aa16",
+    "title_en": "GCL Plans To Integrate AI Data Centers Directly with the Grid — CleanTechnica Field Trip",
+    "title_zh": "协鑫计划将人工智能数据中心直接与网格集成——CleanTechnica实地考察",
+    "url": "https://cleantechnica.com/2026/07/03/gcl-plans-to-integrate-ai-data-centers-directly-with-the-grid-cleantechnica-field-trip/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T19:19:09+00:00"
+  },
   "da8821605e1f": {
     "id": "da8821605e1f",
     "title_en": "Copper's Next Move Depends On Washington, Not The Strait Of Hormuz",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-29T08:12:43+00:00"
-  },
-  "8e455c7a66f7": {
-    "id": "8e455c7a66f7",
-    "title_en": "Envision to supply 660MWh of battery storage for South Africa’s ‘largest private hybrid power project’",
-    "title_zh": "远景为南非“最大的私人混合动力项目”提供660MWh的电池储能",
-    "url": "https://www.energy-storage.news/envision-to-supply-660mwh-of-battery-storage-for-south-africas-largest-private-hybrid-power-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-29T07:57:44+00:00"
-  },
-  "700a952efb25": {
-    "id": "700a952efb25",
-    "title_en": "Australia: AEMO’s 2026 ISP calls for nearly 120GW of utility-scale wind and solar by 2050",
-    "title_zh": "澳大利亚：AEMO的2026 ISP要求到2050年实现近120GW的公用事业规模的风能和太阳能",
-    "url": "https://www.pv-tech.org/australia-aemos-2026-isp-calls-for-nearly-120gw-of-utility-scale-wind-and-solar-by-2050/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T07:55:43+00:00"
-  },
-  "b760885bbfde": {
-    "id": "b760885bbfde",
-    "title_en": "AGL submits 50MW/100MWh Awaba BESS to Australia’s EPBC Act",
-    "title_zh": "AGL向澳大利亚EPBC法案提交50MW/100MWh Awaba BESS",
-    "url": "https://www.energy-storage.news/agl-submits-50mw-100mwh-awaba-bess-to-australias-epbc-act/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-29T07:53:44+00:00"
-  },
-  "78bcaf498149": {
-    "id": "78bcaf498149",
-    "title_en": "‘Decisions look obvious after the event. They rarely are in real time’: OptiGrid on South Australia’s battery storage price cap event",
-    "title_zh": "“事件发生后，决定似乎很明显。它们很少是实时的”：OptiGrid在南澳大利亚电池储能价格上限活动上",
-    "url": "https://www.energy-storage.news/decisions-look-obvious-after-the-event-they-rarely-are-in-real-time-optigrid-on-south-australias-battery-storage-price-cap-event/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-29T07:52:08+00:00"
-  },
-  "91632d1aff63": {
-    "id": "91632d1aff63",
-    "title_en": "Oman tenders 1.5 GW of solar",
-    "title_zh": "阿曼招标1.5吉瓦太阳能",
-    "url": "https://www.pv-magazine.com/2026/06/29/oman-tenders-1-5-gw-of-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T07:43:19+00:00"
   }
 }
