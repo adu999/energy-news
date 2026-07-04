@@ -1,4 +1,40 @@
 {
+  "0134b95fe546": {
+    "id": "0134b95fe546",
+    "title_en": "Lynk & Co Announces Leadership Changes to Support the Next Phase of Its European Growth",
+    "title_zh": "Lynk&Co宣布领导层变动，以支持其下一阶段的欧洲增长",
+    "url": "https://cleantechnica.com/2026/07/03/lynk-co-announces-leadership-changes-to-support-the-next-phase-of-its-european-growth/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T02:19:34+00:00"
+  },
+  "845caa77b0f3": {
+    "id": "845caa77b0f3",
+    "title_en": "Electric Buses Make Up Over 50% of New Deliveries in Australia",
+    "title_zh": "电动公交车占澳大利亚新交付量的50%以上",
+    "url": "https://cleantechnica.com/2026/07/03/electric-buses-make-up-over-50-of-new-deliveries-in-australia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T01:33:54+00:00"
+  },
+  "58d1e55f64e3": {
+    "id": "58d1e55f64e3",
+    "title_en": "Vatrer LFP Battery Transforms EZ Go Golf Cart",
+    "title_zh": "Vatrer LFP电池改造EZ-Go高尔夫球车",
+    "url": "https://cleantechnica.com/2026/07/03/vatrer-lfp-battery-transforms-ez-go-golf-cart/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-03T23:34:31+00:00"
+  },
+  "0928569f3f1c": {
+    "id": "0928569f3f1c",
+    "title_en": "Colombia's Oil and Gas Reserves Keep Shrinking",
+    "title_zh": "哥伦比亚的石油和天然气储量持续减少",
+    "url": "https://oilprice.com/Energy/Energy-General/Colombias-Oil-and-Gas-Reserves-Keep-Shrinking.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-03T23:00:00+00:00"
+  },
   "e8879607028f": {
     "id": "e8879607028f",
     "title_en": "The DC metro area is getting its first en-route electric bus chargers",
@@ -4462,41 +4498,5 @@
     "source": "Clean Energy Wire",
     "category": "政策",
     "pub_ts": "2026-06-29T08:53:54+00:00"
-  },
-  "125cb5c310a5": {
-    "id": "125cb5c310a5",
-    "title_en": "Mexico aims to add 22 GW of renewables by 2030",
-    "title_zh": "墨西哥计划到2030年增加22吉瓦的可再生能源",
-    "url": "https://www.pv-magazine.com/2026/06/29/mexico-aims-to-add-22-gw-of-renewables-by-2030/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T08:46:47+00:00"
-  },
-  "7c568d5f2e34": {
-    "id": "7c568d5f2e34",
-    "title_en": "Panasonic launches CO₂ air-to-water heat pump with coefficient of performance of 6.1",
-    "title_zh": "松下推出CO₂ 性能系数为6.1的空气-水热泵",
-    "url": "https://www.pv-magazine.com/2026/06/29/panasonic-launches-co%e2%82%82-air-to-water-heat-pump-with-coefficient-of-performance-of-6-1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T08:33:25+00:00"
-  },
-  "5421ae368c01": {
-    "id": "5421ae368c01",
-    "title_en": "Middle East Oil Production Rebounds to 15 Million Bpd",
-    "title_zh": "中东石油产量反弹至1500万桶/日",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Production-Rebounds-to-15-Million-Bpd.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-29T08:30:00+00:00"
-  },
-  "9f0b9e8db25e": {
-    "id": "9f0b9e8db25e",
-    "title_en": "Atmoce integrates snow removal tech in microinverters",
-    "title_zh": "Atmoce将除雪技术集成到微型逆变器中",
-    "url": "https://www.pv-magazine.com/2026/06/29/atmoce-integrates-snow-removal-tech-in-microinverters/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T08:12:43+00:00"
   }
 }
