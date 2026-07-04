@@ -1,4 +1,49 @@
 {
+  "731d263afd46": {
+    "id": "731d263afd46",
+    "title_en": "BYD Beats Tesla — Again",
+    "title_zh": "比亚迪再次击败特斯拉",
+    "url": "https://cleantechnica.com/2026/07/04/byd-beats-tesla-again/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T15:10:14+00:00"
+  },
+  "c038215d1caa": {
+    "id": "c038215d1caa",
+    "title_en": "Courts and Congress Are Undoing Trump's War on Wind Power",
+    "title_zh": "法院和国会正在撤销特朗普对风力发电的战争",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Courts-and-Congress-Are-Undoing-Trumps-War-on-Wind-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-04T15:00:00+00:00"
+  },
+  "186492ecd493": {
+    "id": "186492ecd493",
+    "title_en": "CATL is building more than 200 battery swap stations EVERY MONTH",
+    "title_zh": "CATL每月建造200多个电池交换站",
+    "url": "https://electrek.co/2026/07/04/catl-is-building-more-than-200-battery-swap-stations-every-month/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-04T14:40:54+00:00"
+  },
+  "84cc141993ec": {
+    "id": "84cc141993ec",
+    "title_en": "Agrivoltaics Works When Solar Panels Do Farm Work",
+    "title_zh": "当太阳能电池板在农场工作时，农业光伏发电就起作用了",
+    "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-works-where-shade-does-farm-work/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T14:01:00+00:00"
+  },
+  "6db23acd87f1": {
+    "id": "6db23acd87f1",
+    "title_en": "The Balcony Solar Movement Will Fry Trump’s Brain",
+    "title_zh": "阳台太阳能运动将炸掉特朗普的大脑",
+    "url": "https://cleantechnica.com/2026/07/04/balcony-solar-us-states-legislation-powerful-movement/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T13:48:55+00:00"
+  },
   "eb92bcb6b2b9": {
     "id": "eb92bcb6b2b9",
     "title_en": "Agrivoltaics Could Solve One of Solar’s Biggest Problems in the Philippines",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-29T10:00:00+00:00"
-  },
-  "12f4de834251": {
-    "id": "12f4de834251",
-    "title_en": "EU tripartite agreement targets 30-35GW of storage deployments by 2028",
-    "title_zh": "欧盟三方协议目标到2028年实现30-35GW的存储部署",
-    "url": "https://www.energy-storage.news/eu-tripartite-agreement-targets-30-35gw-of-storage-deployments-by-2028/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-29T09:32:38+00:00"
-  },
-  "e121adefae37": {
-    "id": "e121adefae37",
-    "title_en": "How to detect low-energy fractures in PV modules",
-    "title_zh": "如何检测光伏组件中的低能断裂",
-    "url": "https://www.pv-magazine.com/2026/06/29/how-to-detect-low-energy-fractures-in-pv-modules/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T09:31:58+00:00"
-  },
-  "1e96e7a6f095": {
-    "id": "1e96e7a6f095",
-    "title_en": "Cause of Danish wind vessel collision ‘still not clear’",
-    "title_zh": "丹麦风船相撞原因“尚不清楚”",
-    "url": "https://www.windpowermonthly.com/article/1963047/cause-danish-wind-vessel-collision-still-not-clear",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-06-29T09:31:31+00:00"
-  },
-  "250354a04d61": {
-    "id": "250354a04d61",
-    "title_en": "Why energy and utilities are moving from ‘systems’ mindset to a ‘connected platform ecosystems’ mindset powered by Vertical AI",
-    "title_zh": "为什么能源和公用事业正在从“系统”思维转向由垂直人工智能驱动的“互联平台生态系统”思维",
-    "url": "https://www.utilitydive.com/spons/why-energy-and-utilities-are-moving-from-systems-mindset-to-a-connected/823517/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-29T09:00:00+00:00"
-  },
-  "6c6986aee58e": {
-    "id": "6c6986aee58e",
-    "title_en": "EcoFlow unveils OASIS 3.0: Pioneering energy intelligence for the European home",
-    "title_zh": "EcoFlow发布OASIS 3.0：欧洲家庭能源智能的先驱",
-    "url": "https://www.pv-magazine.com/2026/06/29/ecoflow-unveils-oasis-3-0-pioneering-energy-intelligence-for-the-european-home/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T09:00:00+00:00"
   }
 }
