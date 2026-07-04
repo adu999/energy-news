@@ -1,4 +1,13 @@
 {
+  "3068b34aaef1": {
+    "id": "3068b34aaef1",
+    "title_en": "The 250th Anniversary Of The Declaration Of Independence Was Nothing Like The Bicentennial Celebrations",
+    "title_zh": "《独立宣言》250周年与200周年庆典截然不同",
+    "url": "https://cleantechnica.com/2026/07/04/the-250th-anniversary-of-the-declaration-of-independence-was-nothing-like-the-bicentennial-celebrations/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T21:43:00+00:00"
+  },
   "96521f8538d5": {
     "id": "96521f8538d5",
     "title_en": "Largest Data Center Project Ever Proposed Is Officially Dead",
@@ -4489,14 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-29T10:31:00+00:00"
-  },
-  "df6d8ca88a41": {
-    "id": "df6d8ca88a41",
-    "title_en": "Korkia’s Smedjebacken hybrid project secures environmental permit",
-    "title_zh": "Korkia的Smedjebacken混合动力项目获得环境许可",
-    "url": "https://www.energymonitor.ai/news/smedjebacken-project-secures-permit/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-29T10:17:46+00:00"
   }
 }
