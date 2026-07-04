@@ -1,4 +1,22 @@
 {
+  "eb92bcb6b2b9": {
+    "id": "eb92bcb6b2b9",
+    "title_en": "Agrivoltaics Could Solve One of Solar’s Biggest Problems in the Philippines",
+    "title_zh": "农业光伏可以解决菲律宾太阳能最大的问题之一",
+    "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-could-solve-one-of-solars-biggest-problems-in-the-philippines/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-04T13:19:56+00:00"
+  },
+  "849e6038e91c": {
+    "id": "849e6038e91c",
+    "title_en": "GM is flooding dealers with Bolt EVs – is that part of the plan?",
+    "title_zh": "通用汽车正在向经销商大量销售Bolt电动汽车——这是计划的一部分吗？",
+    "url": "https://electrek.co/2026/07/04/gm-is-flooding-dealers-with-bolt-evs-is-that-part-of-the-plan/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-04T13:16:53+00:00"
+  },
   "0134b95fe546": {
     "id": "0134b95fe546",
     "title_en": "Lynk & Co Announces Leadership Changes to Support the Next Phase of Its European Growth",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-06-29T09:00:00+00:00"
-  },
-  "142a896c0cc4": {
-    "id": "142a896c0cc4",
-    "title_en": "Philippines Gov’t, Copenhagen Infrastructure Partners Talk Advancing ‘Southeast Asia’s First’ Offshore Wind Project",
-    "title_zh": "菲律宾政府与哥本哈根基础设施合作伙伴讨论推进“东南亚首个”海上风电项目",
-    "url": "https://www.offshorewind.biz/2026/06/29/philippines-govt-copenhagen-infrastructure-partners-talk-advancing-southeast-asias-first-offshore-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-29T08:55:41+00:00"
-  },
-  "1b0f2a76c7bd": {
-    "id": "1b0f2a76c7bd",
-    "title_en": "Los Angeles turns “most polluting” World Cup into Olympic rehearsal in bid for climate legacy",
-    "title_zh": "洛杉矶将“污染最严重”的世界杯变成奥运彩排，以争取气候遗产",
-    "url": "https://www.cleanenergywire.org/news/los-angeles-turns-most-polluting-world-cup-olympic-rehearsal-bid-climate-legacy",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-06-29T08:53:54+00:00"
   }
 }
