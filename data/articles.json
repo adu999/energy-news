@@ -1,4 +1,22 @@
 {
+  "576b07b7ec77": {
+    "id": "576b07b7ec77",
+    "title_en": "Malaysia Is Emerging As Southeast Asia’s Next EV Manufacturing Hub",
+    "title_zh": "马来西亚正在成为东南亚下一个电动汽车制造中心",
+    "url": "https://cleantechnica.com/2026/07/05/malaysia-is-emerging-as-southeast-asias-next-ev-manufacturing-hub/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-05T21:03:11+00:00"
+  },
+  "31f840fc245c": {
+    "id": "31f840fc245c",
+    "title_en": "Five Energy Stocks Riding Texas's Data Center Power Boom",
+    "title_zh": "五只能源股助力德克萨斯州数据中心电力繁荣",
+    "url": "https://oilprice.com/Energy/Energy-General/Five-Energy-Stocks-Riding-Texass-Data-Center-Power-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-05T21:00:00+00:00"
+  },
   "fd103d5e977e": {
     "id": "fd103d5e977e",
     "title_en": "The Era of Cheap U.S. Natural Gas May Be Coming to an End",
@@ -4480,23 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-06-29T13:00:00+00:00"
-  },
-  "ab0acea471ad": {
-    "id": "ab0acea471ad",
-    "title_en": "Utilities are not spending enough on low-income household efficiency: ACEEE",
-    "title_zh": "公用事业在低收入家庭效率方面的支出不足：ACEEE",
-    "url": "https://www.utilitydive.com/news/utilities-are-not-spending-enough-on-low-income-efficiency-aceee/823956/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-06-29T12:51:40+00:00"
-  },
-  "8839eccac162": {
-    "id": "8839eccac162",
-    "title_en": "WoodMac: Federal changes halted gigawatts of renewable energy development in 2025",
-    "title_zh": "WoodMac：联邦改革在2025年停止了千兆瓦的可再生能源开发",
-    "url": "https://www.solarpowerworldonline.com/2026/06/woodmac-federal-changes-halted-gigawatts-of-renewable-energy-development-in-2025/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-06-29T12:47:49+00:00"
   }
 }
