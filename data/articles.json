@@ -1,4 +1,40 @@
 {
+  "51f438ed8be0": {
+    "id": "51f438ed8be0",
+    "title_en": "Documenting risk",
+    "title_zh": "记录风险",
+    "url": "https://www.pv-magazine.com/2026/07/06/documenting-risk/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-06T04:00:00+00:00"
+  },
+  "559356668b53": {
+    "id": "559356668b53",
+    "title_en": "Exclusive: Lucid Motors’ Saudi Bet Meets Harsh Reality As New CEO Cuts Deep To Keep Cosmos Alive",
+    "title_zh": "独家报道：Lucid Motors在沙特的赌注遇到了严峻的现实，因为新任首席执行官深度削减以保持Cosmos的活力",
+    "url": "https://cleantechnica.com/2026/07/05/exclusive-lucid-motors-saudi-bet-meets-harsh-reality-as-new-ceo-cuts-deep-to-keep-cosmos-alive/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-05T23:59:06+00:00"
+  },
+  "c1f2e8ea39ed": {
+    "id": "c1f2e8ea39ed",
+    "title_en": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
+    "title_zh": "大型科技公司为确保足够的电力而进行的3万亿美元的斗争",
+    "url": "https://oilprice.com/Energy/Energy-General/Big-Techs-3-Trillion-Struggle-to-Secure-Enough-Electricity.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-05T23:00:00+00:00"
+  },
+  "253b54f8e7f5": {
+    "id": "253b54f8e7f5",
+    "title_en": "AGL to deliver 9.2MWp solar microgrid in South Australia",
+    "title_zh": "AGL将在南澳大利亚提供9.2MWp太阳能微电网",
+    "url": "https://www.pv-tech.org/agl-to-deliver-9-2mwp-solar-microgrid-in-south-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-05T22:34:52+00:00"
+  },
   "576b07b7ec77": {
     "id": "576b07b7ec77",
     "title_en": "Malaysia Is Emerging As Southeast Asia’s Next EV Manufacturing Hub",
@@ -4462,41 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-06-29T13:41:01+00:00"
-  },
-  "916bda565b64": {
-    "id": "916bda565b64",
-    "title_en": "Public Power’s Affordability Edge Faces Its Hardest Test in Years",
-    "title_zh": "公共权力的可负担性边缘面临多年来最严峻的考验",
-    "url": "https://www.powermag.com/public-powers-affordability-edge-faces-its-hardest-test-in-years/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-06-29T13:28:51+00:00"
-  },
-  "9f49c10bd993": {
-    "id": "9f49c10bd993",
-    "title_en": "Tesla batteries stolen from Giga Nevada 11+ times since December",
-    "title_zh": "自去年12月以来，特斯拉电池在Giga Nevada被盗11次以上",
-    "url": "https://electrek.co/2026/06/29/tesla-batteries-stolen-giga-nevada/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-06-29T13:03:56+00:00"
-  },
-  "26e87a82776e": {
-    "id": "26e87a82776e",
-    "title_en": "VARD Delivers Japan-Bound Hybrid Construction and Cable Laying Vessel",
-    "title_zh": "VARD交付开往日本的混合动力建筑和电缆铺设船",
-    "url": "https://www.offshorewind.biz/2026/06/29/vard-delivers-japan-bound-hybrid-construction-and-cable-laying-vessel/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-29T13:00:00+00:00"
-  },
-  "ed835bf37879": {
-    "id": "ed835bf37879",
-    "title_en": "Pakistan LNG Seeks Emergency Cargo After Weekend Hormuz Flare-Up",
-    "title_zh": "巴基斯坦液化天然气在周末霍尔木兹大火后寻求紧急货物",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-LNG-Seeks-Emergency-Cargo-After-Weekend-Hormuz-Flare-Up.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-29T13:00:00+00:00"
   }
 }
