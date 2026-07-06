@@ -1,4 +1,67 @@
 {
+  "5978c438e121": {
+    "id": "5978c438e121",
+    "title_en": "Big Oil Heads for Record Profits as Trump Turns Up the Heat on Gas Prices",
+    "title_zh": "随着特朗普加大对天然气价格的关注，大型石油公司有望获得创纪录的利润",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oil-Heads-for-Record-Profits-as-Trump-Turns-Up-the-Heat-on-Gas-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-06T22:00:00+00:00"
+  },
+  "0d6a429f7ea0": {
+    "id": "0d6a429f7ea0",
+    "title_en": "BMW’s iX4 EV captured with a new look as its debut nears [Images]",
+    "title_zh": "宝马iX4电动汽车在首次亮相临近时以新外观拍摄[图片]",
+    "url": "https://electrek.co/2026/07/06/bmw-ix4-ev-spotted-new-look-debut-nears-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-06T21:32:19+00:00"
+  },
+  "767f31802e4c": {
+    "id": "767f31802e4c",
+    "title_en": "Shell And ExxonMobil Are Betting Billions On Nigeria's Deepwater Comeback",
+    "title_zh": "壳牌和埃克森美孚在尼日利亚的深水复苏上押注数十亿美元",
+    "url": "https://oilprice.com/Energy/Energy-General/Shell-And-ExxonMobil-Are-Betting-Billions-On-Nigerias-Deepwater-Comeback.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-06T21:00:00+00:00"
+  },
+  "7c11cf7e081b": {
+    "id": "7c11cf7e081b",
+    "title_en": "First Year in Operation: Performance Lessons From a 100-MW/400-MWh CAISO Battery",
+    "title_zh": "运行第一年：100-MW/400MWh CAISO电池的性能教训",
+    "url": "https://www.powermag.com/first-year-in-operation-performance-lessons-from-a-100-mw-400-mwh-caiso-battery/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-06T20:50:34+00:00"
+  },
+  "e47655c39567": {
+    "id": "e47655c39567",
+    "title_en": "Saudi Arabia Ships 34 Million Barrels Through Hormuz Despite Thin Tanker Traffic",
+    "title_zh": "尽管油轮流量稀少，沙特阿拉伯仍通过霍尔木兹运送了3400万桶石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Ships-34-Million-Barrels-Through-Hormuz-Despite-Thin-Tanker-Traffic.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-06T20:30:00+00:00"
+  },
+  "7f36aaae1945": {
+    "id": "7f36aaae1945",
+    "title_en": "The US Army Is Launching A Next-Gen Abrams Tank, And It’s Just What You’d Expect",
+    "title_zh": "美国陆军正在推出下一代艾布拉姆斯坦克，这正是你所期望的",
+    "url": "https://cleantechnica.com/2026/07/06/hybrid-ev-abrams-m1e3-tank-us-army-drone-warfare-laser-weapons/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-06T20:06:18+00:00"
+  },
+  "f2fa7507fa25": {
+    "id": "f2fa7507fa25",
+    "title_en": "North America Drove Nearly Half Of Global Emissions Growth In 2025",
+    "title_zh": "2025年，北美推动了全球近一半的排放增长",
+    "url": "https://oilprice.com/Energy/Energy-General/North-America-Drove-Nearly-Half-Of-Global-Emissions-Growth-In-2025.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-06T20:00:00+00:00"
+  },
   "3944931f0046": {
     "id": "3944931f0046",
     "title_en": "Tesla app code reveals cabin camera will verify driver before FSD",
@@ -4435,68 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-06-30T09:16:39+00:00"
-  },
-  "35edcd5e5a21": {
-    "id": "35edcd5e5a21",
-    "title_en": "EU Roundup: Axpo and e-Storage partner in Italy, RES secures Nordic asset management deal, R.Power sells Poland BESS to Engie",
-    "title_zh": "欧盟综述：Axpo和意大利e-Storage合作伙伴，RES获得北欧资产管理协议，R.Power将波兰BESS出售给Engie",
-    "url": "https://www.energy-storage.news/eu-roundup-axpo-and-e-storage-partner-in-italy-res-secures-nordic-asset-management-deal-r-power-sells-poland-bess-to-engie/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-06-30T09:15:15+00:00"
-  },
-  "8f88e4dbbdc8": {
-    "id": "8f88e4dbbdc8",
-    "title_en": "What do dark factories mean for the energy transition?",
-    "title_zh": "黑暗工厂对能源转型意味着什么？",
-    "url": "https://www.energymonitor.ai/features/dark-factories-energy-transition/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-30T08:57:00+00:00"
-  },
-  "4867f4f63eb7": {
-    "id": "4867f4f63eb7",
-    "title_en": "Europe could integrate 614 GW of solar within hourly demand limits",
-    "title_zh": "欧洲可以在每小时需求限制内整合614吉瓦的太阳能",
-    "url": "https://www.pv-magazine.com/2026/06/30/europe-could-integrate-614-gw-of-solar-within-hourly-demand-limits/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-30T08:48:13+00:00"
-  },
-  "03efe74ec485": {
-    "id": "03efe74ec485",
-    "title_en": "Pakistan Pays Premium for Urgent LNG Cargo",
-    "title_zh": "巴基斯坦为紧急液化天然气货物支付保费",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Pays-Premium-for-Urgent-LNG-Cargo.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-06-30T08:45:00+00:00"
-  },
-  "a012dd8e4afe": {
-    "id": "a012dd8e4afe",
-    "title_en": "Masdar begins construction of 1GW wind farm in Kazakhstan",
-    "title_zh": "马斯达尔开始在哈萨克斯坦建设1GW风电场",
-    "url": "https://www.energymonitor.ai/news/masdar-construction-1gw-wind-farm-kazakhstan/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-06-30T08:09:24+00:00"
-  },
-  "cdc1927dd50f": {
-    "id": "cdc1927dd50f",
-    "title_en": "Trump Administration Reaches Fourth Offshore Wind Lease Buyout Deal, Duke Energy Exits Carolina Long Bay Site",
-    "title_zh": "特朗普政府达成第四次海上风电租赁收购协议，杜克能源退出卡罗莱纳州长湾项目",
-    "url": "https://www.offshorewind.biz/2026/06/30/trump-administration-reaches-fourth-offshore-wind-lease-buyout-deal-duke-energy-exits-carolina-long-bay-site/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-06-30T08:02:03+00:00"
-  },
-  "982ca47869d3": {
-    "id": "982ca47869d3",
-    "title_en": "UNSW unveils spectrally selective solar modules for agrivoltaics",
-    "title_zh": "新南威尔士大学推出用于农业光伏的光谱选择性太阳能模块",
-    "url": "https://www.pv-magazine.com/2026/06/30/unsw-unveils-spectrally-selective-solar-modules-for-agrivoltaics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-06-30T08:00:00+00:00"
   }
 }
