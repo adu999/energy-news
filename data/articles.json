@@ -1,4 +1,49 @@
 {
+  "ae3f6557fa06": {
+    "id": "ae3f6557fa06",
+    "title_en": "Has Iraq Finally Run Out of Road in Its Double-Dealings with the West?",
+    "title_zh": "伊拉克在与西方的双重交易中终于走投无路了吗？",
+    "url": "https://oilprice.com/Energy/Energy-General/Has-Iraq-Finally-Run-Out-of-Road-in-Its-Double-Dealings-with-the-West.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-07T22:00:00+00:00"
+  },
+  "8b734186fe3b": {
+    "id": "8b734186fe3b",
+    "title_en": "Kia’s next electric van looks even bigger in person [Video]",
+    "title_zh": "起亚的下一款电动面包车看起来更大[视频]",
+    "url": "https://electrek.co/2026/07/07/kias-next-electric-van-looks-even-bigger-in-person-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-07T21:06:24+00:00"
+  },
+  "5535deaa0032": {
+    "id": "5535deaa0032",
+    "title_en": "Trump's Nuclear Loan Program Won't Fix What's Really Broken",
+    "title_zh": "特朗普的核贷款计划不会解决真正破裂的问题",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trumps-Nuclear-Loan-Program-Wont-Fix-Whats-Really-Broken.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-07T21:00:00+00:00"
+  },
+  "54c8eb6ea1e4": {
+    "id": "54c8eb6ea1e4",
+    "title_en": "US Crude Oil, Product Inventories Fall Even As Hormuz Traffic Begins to Flow",
+    "title_zh": "霍尔木兹交通开始流动，美国原油和产品库存下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Product-Inventories-Fall-Even-As-Hormuz-Traffic-Begins-to-Flow.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-07T20:48:00+00:00"
+  },
+  "f4464c6a203b": {
+    "id": "f4464c6a203b",
+    "title_en": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
+    "title_zh": "大型石油公司的意外收益威胁要重新点燃特朗普的价格飙升",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-07T20:00:00+00:00"
+  },
   "2367af8d2e24": {
     "id": "2367af8d2e24",
     "title_en": "BYD’s electric GT resurfaces after its first public sighting",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-01T09:24:33+00:00"
-  },
-  "cb50bb9b7f5a": {
-    "id": "cb50bb9b7f5a",
-    "title_en": "Tests begin on Spain’s largest green hydrogen facility",
-    "title_zh": "西班牙最大的绿色氢设施开始测试",
-    "url": "https://www.pv-magazine.com/2026/07/01/tests-begin-on-spains-largest-green-hydrogen-facility/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T09:06:55+00:00"
-  },
-  "1147c924aba9": {
-    "id": "1147c924aba9",
-    "title_en": "SolaX introduces AC-side V2H system at Intersolar Europe 2026",
-    "title_zh": "SolaX在2026年欧洲国际太阳能展上推出交流侧V2H系统",
-    "url": "https://www.pv-magazine.com/2026/07/01/solax-introduces-ac-side-v2h-system-at-intersolar-europe-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T09:00:00+00:00"
-  },
-  "3cab47dce4dc": {
-    "id": "3cab47dce4dc",
-    "title_en": "BKV begins operations at two new CCS sites in Texas",
-    "title_zh": "BKV在德克萨斯州的两个新CCS站点开始运营",
-    "url": "https://www.energymonitor.ai/news/bkv-begins-operations-ccs-texas/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-01T08:41:38+00:00"
-  },
-  "582200257a1b": {
-    "id": "582200257a1b",
-    "title_en": "GERD: How Ethiopia’s Blue Nile Vision Became Africa’s Largest Hydropower Plant",
-    "title_zh": "埃塞俄比亚的青尼罗河愿景如何成为非洲最大的水电站",
-    "url": "https://www.powermag.com/gerd-how-ethiopias-blue-nile-vision-became-africas-largest-hydropower-plant/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-01T08:37:48+00:00"
-  },
-  "ed4d4ac4960e": {
-    "id": "ed4d4ac4960e",
-    "title_en": "Modernizing the Plant That Powers 40% of Kyrgyzstan",
-    "title_zh": "为吉尔吉斯斯坦40%的地区供电的工厂现代化",
-    "url": "https://www.powermag.com/modernizing-the-plant-that-powers-40-of-kyrgyzstan/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-01T08:37:34+00:00"
   }
 }
