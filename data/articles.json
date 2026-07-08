@@ -1,4 +1,112 @@
 {
+  "00cf422ce7b0": {
+    "id": "00cf422ce7b0",
+    "title_en": "Oil and LNG Tankers Make U-Turns After Fresh Hormuz Escalation",
+    "title_zh": "霍尔木兹火山爆发后，石油和液化天然气油轮掉头",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-and-LNG-Tankers-Make-U-Turns-After-Fresh-Hormuz-Escalation.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T08:30:00+00:00"
+  },
+  "09019ede6f7c": {
+    "id": "09019ede6f7c",
+    "title_en": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
+    "title_zh": "Elestor与Windpark Zeewolde在荷兰合作开展10-40小时氢铁液流电池LDES项目",
+    "url": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-08T08:01:42+00:00"
+  },
+  "8ec750a9146d": {
+    "id": "8ec750a9146d",
+    "title_en": "Grid expansion, storage, flexibility lag behind Europe’s renewables growth",
+    "title_zh": "电网扩张、储能和灵活性落后于欧洲的可再生能源增长",
+    "url": "https://www.pv-magazine.com/2026/07/08/grid-expansion-storage-flexibility-lag-behind-europes-renewables-growth/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T07:49:48+00:00"
+  },
+  "0caf4f18ecd1": {
+    "id": "0caf4f18ecd1",
+    "title_en": "ES Foundry concludes 2GW expansion at Greenwood solar plant",
+    "title_zh": "ES Foundry完成格林伍德太阳能发电厂2GW扩建",
+    "url": "https://www.energymonitor.ai/news/es-foundry-expansion-greenwood/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-08T07:47:43+00:00"
+  },
+  "ebf71187f387": {
+    "id": "ebf71187f387",
+    "title_en": "China Lifts Fuel Export Curbs as Refiners Ramp Up Overseas Shipments",
+    "title_zh": "随着炼油厂增加海外出货量，中国取消了燃料出口限制",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Lifts-Fuel-Export-Curbs-as-Refiners-Ramp-Up-Overseas-Shipments.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T07:30:00+00:00"
+  },
+  "f25cd00d9f82": {
+    "id": "f25cd00d9f82",
+    "title_en": "Southern California clean-heat rule survives key legal challenge",
+    "title_zh": "南加州清洁供暖规则在关键的法律挑战中幸存下来",
+    "url": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-08T07:30:00+00:00"
+  },
+  "e589086c5981": {
+    "id": "e589086c5981",
+    "title_en": "Water-jet delamination for solar module recycling",
+    "title_zh": "太阳能组件回收中的水射流分层",
+    "url": "https://www.pv-magazine.com/2026/07/08/water-jet-delamination-for-solar-module-recycling/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T07:18:29+00:00"
+  },
+  "a820f76e8b72": {
+    "id": "a820f76e8b72",
+    "title_en": "TÜV NORD study confirms back-contact advantage over TOPCon is limited to mild shading conditions",
+    "title_zh": "TÜV NORD的研究证实，与TOPCon相比，背接触优势仅限于温和的遮阳条件",
+    "url": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T07:06:13+00:00"
+  },
+  "3668133d796b": {
+    "id": "3668133d796b",
+    "title_en": "Ariel Rider launches outrageous new MUDD 72V bike with 65 MPH top speed",
+    "title_zh": "Ariel Rider推出了令人震惊的新款MUDD 72V自行车，最高时速为65英里/小时",
+    "url": "https://electrek.co/2026/07/08/ariel-rider-launches-outrageous-new-mudd-72v-bike-with-65-mph-top-speed/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-08T07:00:59+00:00"
+  },
+  "8a50bed448c2": {
+    "id": "8a50bed448c2",
+    "title_en": "New Company Launches Deepwater Offshore Wind Foundation Technology",
+    "title_zh": "新公司推出深水海上风力基础技术",
+    "url": "https://www.offshorewind.biz/2026/07/08/new-company-launches-deepwater-offshore-wind-foundation-technology/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-08T06:47:41+00:00"
+  },
+  "e68f00f00d17": {
+    "id": "e68f00f00d17",
+    "title_en": "Haier launches propane air-to-water heat pump for commercial applications",
+    "title_zh": "海尔推出丙烷空气-水热泵用于商业应用",
+    "url": "https://www.pv-magazine.com/2026/07/08/haier-launches-propane-air-to-water-heat-pump-for-commercial-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T06:26:31+00:00"
+  },
+  "3d0ddb6318de": {
+    "id": "3d0ddb6318de",
+    "title_en": "Oil Prices Jump After Iran Attacks Commercial Vessels",
+    "title_zh": "伊朗袭击商船后油价飙升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-Iran-Attacks-Commercial-Vessels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T05:58:56+00:00"
+  },
   "cf04907790d4": {
     "id": "cf04907790d4",
     "title_en": "Australian utility delivers solar microgrid for farming operation",
@@ -4390,113 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-07-01T14:15:14+00:00"
-  },
-  "93d9604175f0": {
-    "id": "93d9604175f0",
-    "title_en": "U.S. Raises Pressure on Iran With Renewed Military Warning",
-    "title_zh": "美国再次发出军事警告，对伊朗施压",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/US-Raises-Pressure-on-Iran-With-Renewed-Military-Warning.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T14:00:00+00:00"
-  },
-  "3dd720e6c205": {
-    "id": "3dd720e6c205",
-    "title_en": "Cropped 1 July 2026: Heatwave scorches Europe | UK 2050 farm plan | What’s next for the High Seas Treaty",
-    "title_zh": "2026年7月1日：热浪烧焦欧洲|英国2050年农业计划|《公海条约》的下一步是什么",
-    "url": "https://www.carbonbrief.org/cropped-1-july-2026-heatwave-scorches-europe-uk-2050-farm-plan-whats-next-for-the-high-seas-treaty/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-01T14:00:00+00:00"
-  },
-  "cc8d8f9edc61": {
-    "id": "cc8d8f9edc61",
-    "title_en": "Cybertruck failure kills home charging, and Tesla is avoiding a recall",
-    "title_zh": "Cybertruck故障扼杀了家庭充电，特斯拉正在避免召回",
-    "url": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-01T13:51:26+00:00"
-  },
-  "6b3e535c45b9": {
-    "id": "6b3e535c45b9",
-    "title_en": "Can Brazil become a key rare earth supplier for the West?",
-    "title_zh": "巴西能成为西方主要的稀土供应国吗？",
-    "url": "https://www.energymonitor.ai/news/can-brazil-become-a-key-rare-earth-supplier-for-the-west/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-01T13:43:08+00:00"
-  },
-  "aa8fa609685b": {
-    "id": "aa8fa609685b",
-    "title_en": "SK, KKR launch US$1.29 billion renewables platform in South Korea",
-    "title_zh": "SK和KKR在韩国推出12.9亿美元的可再生能源平台",
-    "url": "https://www.pv-tech.org/sk-kkr-launch-us1-29-billion-renewables-platform-in-south-korea/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T13:32:53+00:00"
-  },
-  "03b554c80e95": {
-    "id": "03b554c80e95",
-    "title_en": "EU Industry Splits Over Emissions Trading Scheme Overhaul",
-    "title_zh": "欧盟工业因碳排放交易计划改革而分裂",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Industry-Splits-Over-Emissions-Trading-Scheme-Overhaul.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T13:30:00+00:00"
-  },
-  "863bc3691d93": {
-    "id": "863bc3691d93",
-    "title_en": "BYD set to crush Tesla again in Q2 EV sales with 557,000 deliveries",
-    "title_zh": "比亚迪将在第二季度电动汽车销量中再次击败特斯拉，交付55.7万辆",
-    "url": "https://electrek.co/2026/07/01/byd-tesla-q2-2026-bev-sales/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-01T13:18:14+00:00"
-  },
-  "b6dfa5c56f11": {
-    "id": "b6dfa5c56f11",
-    "title_en": "China’s largest PV-CSP hybrid project enters commercial operation",
-    "title_zh": "中国最大的PV-CSP混合动力项目投入商业运营",
-    "url": "https://www.pv-tech.org/chinas-largest-pv-csp-hybrid-project-enters-commercial-operation/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T13:16:45+00:00"
-  },
-  "0e56c79003dc": {
-    "id": "0e56c79003dc",
-    "title_en": "New Jersey lawmakers send data center tariff bill to governor",
-    "title_zh": "新泽西州立法者向州长提交数据中心关税法案",
-    "url": "https://www.utilitydive.com/news/new-jersey-lawmakers-send-data-center-tariff-bill-to-governor/824191/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-01T13:08:02+00:00"
-  },
-  "dc03bc2487da": {
-    "id": "dc03bc2487da",
-    "title_en": "Vena Energy raises US$970 million to support Australian solar-plus-storage portfolio",
-    "title_zh": "Vena Energy筹集9.7亿美元支持澳大利亚太阳能+储能投资组合",
-    "url": "https://www.pv-tech.org/vena-energy-raises-us970-million-support-australian-solar-plus-storage-portfolio/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T13:06:24+00:00"
-  },
-  "553e6394a07f": {
-    "id": "553e6394a07f",
-    "title_en": "El Paso launches solar group buying program Switch Together",
-    "title_zh": "埃尔帕索启动太阳能团购计划Switch Together",
-    "url": "https://www.solarpowerworldonline.com/2026/07/el-paso-launches-solar-group-buying-program-switch-together/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T12:57:28+00:00"
-  },
-  "a3b6272381ab": {
-    "id": "a3b6272381ab",
-    "title_en": "Eni Forms Trading Venture With Mercuria to Boost Commodity Profits",
-    "title_zh": "埃尼与摩科瑞组建贸易合资企业，以提高大宗商品利润",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Eni-Forms-Trading-Venture-With-Mercuria-to-Boost-Commodity-Profits.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T12:30:00+00:00"
   }
 }
