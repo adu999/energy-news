@@ -1,4 +1,67 @@
 {
+  "6d81fcc86bc8": {
+    "id": "6d81fcc86bc8",
+    "title_en": "Gulf Oil Producers Relaunch Fight for Market Share in Asia",
+    "title_zh": "海湾石油生产商重新争夺亚洲市场份额",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Gulf-Oil-Producers-Relaunch-Fight-for-Market-Share-in-Asia.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T22:00:00+00:00"
+  },
+  "544336fd8fa1": {
+    "id": "544336fd8fa1",
+    "title_en": "Volkswagen put 100 sheep to work under 31,000 solar panels",
+    "title_zh": "大众汽车让100只羊在31000块太阳能电池板下工作",
+    "url": "https://electrek.co/2026/07/08/volkswagen-put-100-sheep-to-work-under-31000-solar-panels/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-08T21:12:34+00:00"
+  },
+  "8ca452061e6b": {
+    "id": "8ca452061e6b",
+    "title_en": "Kia’s electric hatch gains AWD and nearly 350 miles of range",
+    "title_zh": "起亚的电动舱门获得了全轮驱动和近350英里的续航里程",
+    "url": "https://electrek.co/2026/07/08/kias-electric-hatch-gains-awd-nearly-350-miles-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-08T21:05:20+00:00"
+  },
+  "4d786c26a86e": {
+    "id": "4d786c26a86e",
+    "title_en": "How an Accidental Discovery in a Texas Lab Could Reshape Battery Manufacturing",
+    "title_zh": "德克萨斯州实验室的意外发现如何重塑电池制造业",
+    "url": "https://oilprice.com/Energy/Energy-General/How-an-Accidental-Discovery-in-a-Texas-Lab-Could-Reshape-Battery-Manufacturing.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T21:00:00+00:00"
+  },
+  "cbbd6355f54e": {
+    "id": "cbbd6355f54e",
+    "title_en": "India’s $100 Billion Grid Bet Is Accelerating A Solar Manufacturing Boom",
+    "title_zh": "印度1000亿美元的电网投资正在加速太阳能制造业的繁荣",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Indias-100-Billion-Grid-Bet-Is-Accelerating-A-Solar-Manufacturing-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T20:00:00+00:00"
+  },
+  "9e9319846828": {
+    "id": "9e9319846828",
+    "title_en": "What I saw inside Lectron’s EV charger factory in China",
+    "title_zh": "我在Lectron中国电动汽车充电器工厂看到了什么",
+    "url": "https://electrek.co/2026/07/08/i-toured-lectron-factory-in-china-heres-what-i-learned/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-08T19:33:27+00:00"
+  },
+  "f9ea17d3cad4": {
+    "id": "f9ea17d3cad4",
+    "title_en": "Sunrun wants to pay you to turn your home into an AI data center",
+    "title_zh": "Sunrun想付钱让你把家变成人工智能数据中心",
+    "url": "https://electrek.co/2026/07/08/sunrun-wants-to-pay-you-to-turn-your-home-into-an-ai-data-center/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-08T19:27:36+00:00"
+  },
   "c314243bf0ec": {
     "id": "c314243bf0ec",
     "title_en": "Canada Eyes Two New Oil Pipelines",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-02T08:45:48+00:00"
-  },
-  "21eca0e5c217": {
-    "id": "21eca0e5c217",
-    "title_en": "ACCIONA Energía starts work on 235MWp solar farm in Kentucky, US",
-    "title_zh": "ACCIONA Energía开始在美国肯塔基州建设235MWp太阳能发电厂",
-    "url": "https://www.energymonitor.ai/news/acciona-energia-starts-work-solar-farm/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-02T08:29:02+00:00"
-  },
-  "ee9a44743e8f": {
-    "id": "ee9a44743e8f",
-    "title_en": "Vena Energy secures AU$1.4 billion to scale Australian platform with solar and battery storage infrastructure",
-    "title_zh": "Vena Energy获得14亿澳元，用于扩大澳大利亚平台的太阳能和电池存储基础设施",
-    "url": "https://www.energy-storage.news/vena-energy-secures-au1-4-billion-to-scale-australian-platform-with-solar-and-battery-storage-infrastructure/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-02T08:24:08+00:00"
-  },
-  "a9c52b616cc3": {
-    "id": "a9c52b616cc3",
-    "title_en": "Chinese Teapots Snap Up Middle East Crude As Prices Slide",
-    "title_zh": "随着价格下跌，中国茶壶抢购中东原油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Teapots-Snap-Up-Middle-East-Crude-As-Prices-Slide.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-02T08:19:14+00:00"
-  },
-  "5d76113c34d1": {
-    "id": "5d76113c34d1",
-    "title_en": "Australia launches Solar Sharer Offer, giving households three hours of free midday electricity",
-    "title_zh": "澳大利亚推出太阳能共享优惠，为家庭提供三小时的免费午间电力",
-    "url": "https://www.pv-tech.org/australia-launches-solar-sharer-offer-giving-households-three-hours-of-free-midday-electricity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-02T08:16:23+00:00"
-  },
-  "c15d5aae6b38": {
-    "id": "c15d5aae6b38",
-    "title_en": "Africa’s largest floating PV plant comes online in Morocco",
-    "title_zh": "非洲最大的浮动光伏电站在摩洛哥上线",
-    "url": "https://www.pv-magazine.com/2026/07/02/africas-largest-floating-pv-plant-comes-online-in-morocco/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-02T08:03:43+00:00"
-  },
-  "70ee8fa274de": {
-    "id": "70ee8fa274de",
-    "title_en": "Tax credit 4 July deadline looms as US wind developers brace for more federal roadblocks",
-    "title_zh": "税收抵免7月4日的最后期限迫在眉睫，因为美国风能开发商正在为更多的联邦障碍做准备",
-    "url": "https://www.windpowermonthly.com/article/1963411/tax-credit-4-july-deadline-looms-us-wind-developers-brace-federal-roadblocks",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-02T08:00:00+00:00"
-  },
-  "143a95c6bf85": {
-    "id": "143a95c6bf85",
-    "title_en": "Analysis: Tax credit 4 July deadline looms as US wind developers brace for more federal roadblocks",
-    "title_zh": "分析：税收抵免7月4日的最后期限迫在眉睫，因为美国风电开发商正在为更多的联邦障碍做准备",
-    "url": "https://www.windpowermonthly.com/article/1963411/analysis-tax-credit-4-july-deadline-looms-us-wind-developers-brace-federal-roadblocks",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-02T08:00:00+00:00"
   }
 }
