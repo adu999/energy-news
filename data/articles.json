@@ -1,4 +1,85 @@
 {
+  "ac90645736b3": {
+    "id": "ac90645736b3",
+    "title_en": "Oil Prices Surge 6% Even as Tankers Push Through Hormuz",
+    "title_zh": "即使油轮驶过霍尔木兹，油价仍飙升6%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-6-Even-as-Tankers-Push-Through-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T10:30:00+00:00"
+  },
+  "adc6483856af": {
+    "id": "adc6483856af",
+    "title_en": "Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
+    "title_zh": "Hiconics在Intersolar Europe上讨论PowerNexus住宅智能能源解决方案",
+    "url": "https://www.energy-storage.news/hiconics-discusses-powernexus-residential-smart-energy-solution-at-intersolar-europe/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-08T10:29:40+00:00"
+  },
+  "b59ce8d3ce83": {
+    "id": "b59ce8d3ce83",
+    "title_en": "Polaris inks investment for 250MW/192MWh solar-plus-storage portfolio in Mexico",
+    "title_zh": "Polaris在墨西哥投资250MW/192MWh太阳能加储能组合",
+    "url": "https://www.pv-tech.org/polaris-inks-investment-for-250mw-192mwh-solar-plus-storage-portfolio-in-mexico/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T10:15:18+00:00"
+  },
+  "300daf02db06": {
+    "id": "300daf02db06",
+    "title_en": "Project targeting Europe’s PV ingot and wafer manufacturing gap underway",
+    "title_zh": "针对欧洲光伏晶锭和晶圆制造差距的项目正在进行中",
+    "url": "https://www.pv-tech.org/europe-silicon-ingot-czochralski-manufacturing/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T10:13:41+00:00"
+  },
+  "bc3a6dfad7f5": {
+    "id": "bc3a6dfad7f5",
+    "title_en": "Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
+    "title_zh": "欧洲ROUNDUP：Green Flexibility、Jinko、OX2和波罗的海存储平台从北到东的项目、供应交易和收购",
+    "url": "https://www.energy-storage.news/europe-roundup-projects-supply-deals-and-acquisitions-spanning-north-to-east-by-green-flexibility-jinko-ox2-and-baltic-storage-platform/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-08T10:06:48+00:00"
+  },
+  "4858b80923f9": {
+    "id": "4858b80923f9",
+    "title_en": "South Africa awards licenses to 1 GW of solar",
+    "title_zh": "南非授予1GW太阳能许可证",
+    "url": "https://www.pv-magazine.com/2026/07/08/south-africa-awards-licenses-to-1-gw-of-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T09:56:38+00:00"
+  },
+  "6a89bdeab4f2": {
+    "id": "6a89bdeab4f2",
+    "title_en": "Germany plans to reduce subsidies for heat pumps",
+    "title_zh": "德国计划减少对热泵的补贴",
+    "url": "https://www.pv-magazine.com/2026/07/08/germany-plans-to-reduce-subsidies-for-heat-pumps/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T09:46:42+00:00"
+  },
+  "3bdd3aae0ec0": {
+    "id": "3bdd3aae0ec0",
+    "title_en": "Bahrain and Kuwait Restore Power After Iranian Attacks",
+    "title_zh": "伊朗袭击后巴林和科威特恢复供电",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Bahrain-and-Kuwait-Restore-Power-After-Iranian-Attacks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-08T09:30:00+00:00"
+  },
+  "b2da328af3b6": {
+    "id": "b2da328af3b6",
+    "title_en": "A rebuildable solar array to train students and access ‘beginner’s mind’",
+    "title_zh": "一个可重建的太阳能电池阵列，用于训练学生并获得“初学者的思维”",
+    "url": "https://www.pv-magazine.com/2026/07/08/a-rebuildable-pv-array-to-train-students-and-access-beginners-mind/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T08:34:53+00:00"
+  },
   "00cf422ce7b0": {
     "id": "00cf422ce7b0",
     "title_en": "Oil and LNG Tankers Make U-Turns After Fresh Hormuz Escalation",
@@ -7,6 +88,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-08T08:30:00+00:00"
+  },
+  "a4d0207558d8": {
+    "id": "a4d0207558d8",
+    "title_en": "Floating Wind Test Site Offshore Spain Gets Regulatory Nod",
+    "title_zh": "西班牙海上浮动风力试验场获得监管批准",
+    "url": "https://www.offshorewind.biz/2026/07/08/floating-wind-test-site-offshore-spain-gets-regulatory-nod/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-08T08:25:45+00:00"
   },
   "09019ede6f7c": {
     "id": "09019ede6f7c",
@@ -4408,95 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-01T16:00:00+00:00"
-  },
-  "236d483b2d8c": {
-    "id": "236d483b2d8c",
-    "title_en": "Hyundai sold over 20,000 IONIQ 5 EVs in the first half of 2026, and IONIQ 9 sales are up 380%",
-    "title_zh": "现代在2026年上半年售出了20000多辆IONIQ 5电动汽车，IONIQ 9的销量增长了380%",
-    "url": "https://electrek.co/2026/07/01/hyundai-ioniq-5-sales-top-20000-ioniq-9-up-380-h1-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-01T15:51:26+00:00"
-  },
-  "4aa737738e6d": {
-    "id": "4aa737738e6d",
-    "title_en": "Renewables Hit Record 58% Share of Germany's Power Consumption",
-    "title_zh": "可再生能源在德国电力消费中的份额创下58%的纪录",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Renewables-Hit-Record-58-Share-of-Germanys-Power-Consumption.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T15:30:00+00:00"
-  },
-  "8300efe63df3": {
-    "id": "8300efe63df3",
-    "title_en": "Hydrogen Demand Shrinks When It Is Counted Properly",
-    "title_zh": "正确计算氢气需求量会减少",
-    "url": "https://cleantechnica.com/2026/07/01/hydrogen-demand-shrinks-counted-properly/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-01T14:57:42+00:00"
-  },
-  "0bffe44b88ce": {
-    "id": "0bffe44b88ce",
-    "title_en": "EIA: U.S. Crude Inventories Post Another Major Draw",
-    "title_zh": "EIA：美国原油库存再次大幅下降",
-    "url": "https://oilprice.com/Energy/Crude-Oil/EIA-US-Crude-Inventories-Post-Another-Major-Draw.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T14:47:00+00:00"
-  },
-  "08bb39fd9979": {
-    "id": "08bb39fd9979",
-    "title_en": "EPA’s tougher soot standard upheld in court",
-    "title_zh": "美国环保署更严格的烟尘标准在法庭上得到支持",
-    "url": "https://www.utilitydive.com/news/epas-tougher-soot-standard-upheld-in-court/824211/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-01T14:38:01+00:00"
-  },
-  "ca05e4a3fb33": {
-    "id": "ca05e4a3fb33",
-    "title_en": "KKR to acquire EDF’s North American operations for $4.2 billion",
-    "title_zh": "KKR将以42亿美元收购EDF的北美业务",
-    "url": "https://www.pv-magazine.com/2026/07/01/kkr-to-acquire-edf-power-solutions-north-american-operations-for-4-2-billion/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T14:34:37+00:00"
-  },
-  "cf9bbed1ded4": {
-    "id": "cf9bbed1ded4",
-    "title_en": "Japan's Biggest LNG Buyer Creates Standalone Trading Arm",
-    "title_zh": "日本最大的液化天然气买家创建独立的贸易部门",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Biggest-LNG-Buyer-Creates-Standalone-Trading-Arm.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T14:30:00+00:00"
-  },
-  "ddf599c54743": {
-    "id": "ddf599c54743",
-    "title_en": "Opsun introduces commercial flat-roof inverter racking system",
-    "title_zh": "Opsun推出商用平屋顶变频货架系统",
-    "url": "https://www.pv-magazine.com/2026/07/01/opsunintroducesdedicated-commercial-flat-roof-inverter-racking-system/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T14:28:08+00:00"
-  },
-  "c9e0eb7b6c96": {
-    "id": "c9e0eb7b6c96",
-    "title_en": "Kia’s midsize electric SUV gains AWD and a special new ‘Storm’ edition",
-    "title_zh": "起亚的中型电动SUV获得了全轮驱动和特别的新“风暴”版",
-    "url": "https://electrek.co/2026/07/01/kias-midsize-ev-suv-gains-awd-special-storm-edition/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-01T14:16:18+00:00"
-  },
-  "4d189093d7df": {
-    "id": "4d189093d7df",
-    "title_en": "Analysis: UK newspapers have already printed 63 editorials in 2026 backing North Sea drilling",
-    "title_zh": "分析：英国报纸在2026年已经发表了63篇社论支持北海钻探",
-    "url": "https://www.carbonbrief.org/analysis-uk-newspapers-have-already-printed-63-editorials-in-2026-backing-north-sea-drilling/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-01T14:15:14+00:00"
   }
 }
