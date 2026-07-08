@@ -1,4 +1,76 @@
 {
+  "cf04907790d4": {
+    "id": "cf04907790d4",
+    "title_en": "Australian utility delivers solar microgrid for farming operation",
+    "title_zh": "澳大利亚公用事业公司为农业运营提供太阳能微电网",
+    "url": "https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T05:04:51+00:00"
+  },
+  "532bfaeaba1b": {
+    "id": "532bfaeaba1b",
+    "title_en": "UK scraps mandatory consultations for large-scale solar planning",
+    "title_zh": "英国取消大规模太阳能规划的强制性咨询",
+    "url": "https://www.pv-magazine.com/2026/07/08/uk-scraps-mandatory-consultations-for-large-scale-solar-planning/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T05:00:00+00:00"
+  },
+  "6fc058893d9c": {
+    "id": "6fc058893d9c",
+    "title_en": "ES Foundry completes 3 GW solar cell factory expansion",
+    "title_zh": "ES Foundry完成3GW太阳能电池工厂扩建",
+    "url": "https://www.pv-magazine.com/2026/07/08/es-foundry-completes-factor-expansion-bringing-output-capacity-to-3-gw-per-year/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T04:57:58+00:00"
+  },
+  "44b85b932324": {
+    "id": "44b85b932324",
+    "title_en": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
+    "title_zh": "Akaysha Energy与伊藤忠东京世纪合资公司在日本南部开始建设82MWh BESS",
+    "url": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-08T04:54:07+00:00"
+  },
+  "3ca8f1b9c8a2": {
+    "id": "3ca8f1b9c8a2",
+    "title_en": "Who maintains Europe’s orphaned rooftop solar?",
+    "title_zh": "谁在维护欧洲的孤儿屋顶太阳能？",
+    "url": "https://www.pv-magazine.com/2026/07/08/who-maintains-europes-orphaned-rooftop-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-08T04:00:00+00:00"
+  },
+  "d0a1e0e51beb": {
+    "id": "d0a1e0e51beb",
+    "title_en": "CleanPeak Energy & Western Sydney International Airport Partner on 100% Renewable Electricity Deal",
+    "title_zh": "CleanPeak Energy与西悉尼国际机场达成100%可再生电力协议",
+    "url": "https://cleantechnica.com/2026/07/07/cleanpeak-energy-western-sydney-international-airport-partner-on-100-renewable-electricity-deal/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-08T03:46:17+00:00"
+  },
+  "2aa94ba434f5": {
+    "id": "2aa94ba434f5",
+    "title_en": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
+    "title_zh": "澳大利亚在容量投资计划招标9和10中为第一民族保留500MW发电和2GWh储能",
+    "url": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-08T03:13:59+00:00"
+  },
+  "c90e91390f6c": {
+    "id": "c90e91390f6c",
+    "title_en": "‘Battery storage may be important, but we also welcome long-duration storage’: QIC on Queensland’s North West Energy Fund",
+    "title_zh": "“电池储能可能很重要，但我们也欢迎长期储能”：昆士兰西北能源基金QIC",
+    "url": "https://www.energy-storage.news/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-08T03:12:58+00:00"
+  },
   "858de5d988a4": {
     "id": "858de5d988a4",
     "title_en": "Leapmotor B03X Orders Open in Europe: A New Benchmark in the Urban Crossover Segment",
@@ -4426,77 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-01T12:30:00+00:00"
-  },
-  "7a8fa6fee429": {
-    "id": "7a8fa6fee429",
-    "title_en": "Energy Dome to build 23 MW/200 MWh carbon battery in Ireland",
-    "title_zh": "Energy Dome将在爱尔兰建造23兆瓦/200兆瓦时的碳电池",
-    "url": "https://www.pv-magazine.com/2026/07/01/energy-dome-to-build-23-mw-200-mwh-carbon-battery-in-ireland/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T12:11:08+00:00"
-  },
-  "d0b0a3741c5b": {
-    "id": "d0b0a3741c5b",
-    "title_en": "Why Verified Waterproofing and Load Testing Matter for Solar Mounting on Exposed-Fastened Metal Roofs",
-    "title_zh": "为什么经过验证的防水和负载测试对外露紧固金属屋顶上的太阳能安装很重要",
-    "url": "https://www.solarpowerworldonline.com/2026/07/why-verified-waterproofing-and-load-testing-matter-for-solar-mounting-on-exposed-fastened-metal-roofs/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T12:00:56+00:00"
-  },
-  "6fdbd064b1b1": {
-    "id": "6fdbd064b1b1",
-    "title_en": "Solar Power World is now accepting submissions for the 2026 Top Products contest",
-    "title_zh": "太阳能世界现在接受2026年顶级产品竞赛的参赛作品",
-    "url": "https://www.solarpowerworldonline.com/2026/07/spw-top-products-2026-news/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T12:00:41+00:00"
-  },
-  "45449adf7998": {
-    "id": "45449adf7998",
-    "title_en": "Gwynt Glas Submits EIA Scoping Report for 1.5 GW Celtic Sea Floating Wind Project",
-    "title_zh": "Gwynt Glas提交1.5吉瓦凯尔特海浮式风电项目的环境影响评估范围界定报告",
-    "url": "https://www.offshorewind.biz/2026/07/01/gwynt-glas-submits-eia-scoping-report-for-1-5-gw-celtic-sea-floating-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-01T12:00:00+00:00"
-  },
-  "d13c794351f8": {
-    "id": "d13c794351f8",
-    "title_en": "Charge your EV at home and get paid up to CA$350 a year in Canada",
-    "title_zh": "在家为电动汽车充电，在加拿大每年可获得高达350加元的报酬",
-    "url": "https://electrek.co/2026/07/01/charge-your-ev-at-home-and-get-paid-up-to-ca350-a-year-in-canada-chargelab/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-01T12:00:00+00:00"
-  },
-  "82b8d5e9c7be": {
-    "id": "82b8d5e9c7be",
-    "title_en": "Boralex secures US$1.65 billion to finance French renewables activities",
-    "title_zh": "Boralex获得16.5亿美元用于资助法国可再生能源活动",
-    "url": "https://www.pv-tech.org/boralex-secures-us1-65-billion-to-finance-french-renewables-activities/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-01T11:39:31+00:00"
-  },
-  "c9e7010b7da1": {
-    "id": "c9e7010b7da1",
-    "title_en": "Co-location of solar and BESS still has a long way to go",
-    "title_zh": "太阳能和BESS的共置还有很长的路要走",
-    "url": "https://www.energy-storage.news/co-location-of-solar-and-bess-still-has-a-long-way-to-go/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-01T11:31:26+00:00"
-  },
-  "368337f95602": {
-    "id": "368337f95602",
-    "title_en": "KKR and SK Launch South Korea’s Largest Renewable Energy Platform",
-    "title_zh": "KKR和SK推出韩国最大的可再生能源平台",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/KKR-and-SK-Launch-South-Koreas-Largest-Renewable-Energy-Platform.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-01T11:30:00+00:00"
   }
 }
