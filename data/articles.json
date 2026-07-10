@@ -1,4 +1,58 @@
 {
+  "41d28c80f731": {
+    "id": "41d28c80f731",
+    "title_en": "A Tour of the Jackery Energy Storage Factory & Product Testing Lab — CleanTechnica Field Trip",
+    "title_zh": "Jackery储能工厂及产品测试实验室之旅——CleanTechnica实地考察",
+    "url": "https://cleantechnica.com/2026/07/10/a-tour-of-the-jackery-energy-storage-factory-product-testing-lab-cleantechnica-field-trip/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-10T21:55:54+00:00"
+  },
+  "cb68008cf287": {
+    "id": "cb68008cf287",
+    "title_en": "Musk tells Tesla staff to switch to Grok — a model he admits is worse",
+    "title_zh": "马斯克告诉特斯拉员工改用Grok——他承认这种模式更糟",
+    "url": "https://electrek.co/2026/07/10/musk-tells-tesla-staff-switch-grok/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-10T21:14:06+00:00"
+  },
+  "445d365e57b3": {
+    "id": "445d365e57b3",
+    "title_en": "Kazakhstan Extends Petroleum Export Ban Six Months as Hormuz Tensions Flare",
+    "title_zh": "霍尔木兹紧张局势加剧，哈萨克斯坦将石油出口禁令延长六个月",
+    "url": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Extends-Petroleum-Export-Ban-Six-Months-as-Hormuz-Tensions-Flare.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-10T21:00:00+00:00"
+  },
+  "c67c9d326bc9": {
+    "id": "c67c9d326bc9",
+    "title_en": "BYD’s $10,000 Seagull EV revealed with a longer body and more upgrades",
+    "title_zh": "比亚迪售价1万美元的海鸥电动汽车亮相，车身更长，升级更多",
+    "url": "https://electrek.co/2026/07/10/byds-10k-seagull-ev-revealed-longer-body-more-upgrades/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-10T20:50:45+00:00"
+  },
+  "9f007a36f11b": {
+    "id": "9f007a36f11b",
+    "title_en": "A pioneering grid-battery factory is headed for this California city",
+    "title_zh": "一家开创性的电网电池工厂正朝着这个加利福尼亚城市发展",
+    "url": "https://www.canarymedia.com/articles/batteries/pioneering-grid-battery-factory-california",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-10T20:30:00+00:00"
+  },
+  "10d4fab1f1f3": {
+    "id": "10d4fab1f1f3",
+    "title_en": "Podcast: Rivian goes to market, Xiaomi goes big, and a $14,000 tiny EV in the US",
+    "title_zh": "播客：Rivian上市，小米做大，1.4万美元的小型电动汽车在美国上市",
+    "url": "https://electrek.co/2026/07/10/podcast-rivian-goes-to-market-xiaomi-goes-big-and-a-14000-tiny-ev-in-the-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-10T19:53:18+00:00"
+  },
   "d2bccafdb524": {
     "id": "d2bccafdb524",
     "title_en": "Summer Heatwaves Are Rewriting the Rules for Britain's Power Grid",
@@ -4444,59 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-06T04:00:00+00:00"
-  },
-  "559356668b53": {
-    "id": "559356668b53",
-    "title_en": "Exclusive: Lucid Motors’ Saudi Bet Meets Harsh Reality As New CEO Cuts Deep To Keep Cosmos Alive",
-    "title_zh": "独家报道：Lucid Motors在沙特的赌注遇到了严峻的现实，因为新任首席执行官深度削减以保持Cosmos的活力",
-    "url": "https://cleantechnica.com/2026/07/05/exclusive-lucid-motors-saudi-bet-meets-harsh-reality-as-new-ceo-cuts-deep-to-keep-cosmos-alive/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-05T23:59:06+00:00"
-  },
-  "c1f2e8ea39ed": {
-    "id": "c1f2e8ea39ed",
-    "title_en": "Big Tech’s $3 Trillion Struggle to Secure Enough Electricity",
-    "title_zh": "大型科技公司为确保足够的电力而进行的3万亿美元的斗争",
-    "url": "https://oilprice.com/Energy/Energy-General/Big-Techs-3-Trillion-Struggle-to-Secure-Enough-Electricity.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-05T23:00:00+00:00"
-  },
-  "253b54f8e7f5": {
-    "id": "253b54f8e7f5",
-    "title_en": "AGL to deliver 9.2MWp solar microgrid in South Australia",
-    "title_zh": "AGL将在南澳大利亚提供9.2MWp太阳能微电网",
-    "url": "https://www.pv-tech.org/agl-to-deliver-9-2mwp-solar-microgrid-in-south-australia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-05T22:34:52+00:00"
-  },
-  "576b07b7ec77": {
-    "id": "576b07b7ec77",
-    "title_en": "Malaysia Is Emerging As Southeast Asia’s Next EV Manufacturing Hub",
-    "title_zh": "马来西亚正在成为东南亚下一个电动汽车制造中心",
-    "url": "https://cleantechnica.com/2026/07/05/malaysia-is-emerging-as-southeast-asias-next-ev-manufacturing-hub/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-05T21:03:11+00:00"
-  },
-  "31f840fc245c": {
-    "id": "31f840fc245c",
-    "title_en": "Five Energy Stocks Riding Texas's Data Center Power Boom",
-    "title_zh": "五只能源股助力德克萨斯州数据中心电力繁荣",
-    "url": "https://oilprice.com/Energy/Energy-General/Five-Energy-Stocks-Riding-Texass-Data-Center-Power-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-05T21:00:00+00:00"
-  },
-  "fd103d5e977e": {
-    "id": "fd103d5e977e",
-    "title_en": "The Era of Cheap U.S. Natural Gas May Be Coming to an End",
-    "title_zh": "美国廉价天然气时代可能即将结束",
-    "url": "https://oilprice.com/Energy/Natural-Gas/The-Era-of-Cheap-US-Natural-Gas-May-Be-Coming-to-an-End.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-05T19:00:00+00:00"
   }
 }
