@@ -1,4 +1,148 @@
 {
+  "43489cb861af": {
+    "id": "43489cb861af",
+    "title_en": "Volkswagen’s EV van makes a surprise comeback in the US as the ID.4 goes on hiatus",
+    "title_zh": "随着ID.4的停产，大众的电动货车在美国出人意料地卷土重来",
+    "url": "https://electrek.co/2026/07/10/vws-ev-van-makes-comeback-us-id-4-goes-on-hiatus/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-10T16:47:16+00:00"
+  },
+  "b1e8df512919": {
+    "id": "b1e8df512919",
+    "title_en": "China Tightens Its Grip on Namibia's Next Energy Boom",
+    "title_zh": "中国加强对纳米比亚下一次能源繁荣的控制",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Tightens-Its-Grip-on-Namibias-Next-Energy-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-10T16:30:00+00:00"
+  },
+  "07e7ef2e6c61": {
+    "id": "07e7ef2e6c61",
+    "title_en": "Oil’s Calm Is Over as Middle East Risks Return",
+    "title_zh": "中东风险回归，石油平静期结束",
+    "url": "https://oilprice.com/Energy/Energy-General/Oils-Calm-Is-Over-as-Middle-East-Risks-Return.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-10T16:01:00+00:00"
+  },
+  "eddad6d8114d": {
+    "id": "eddad6d8114d",
+    "title_en": "Russian Fuel Disruptions Push Central Asia Into an Energy Crisis",
+    "title_zh": "俄罗斯燃料中断使中亚陷入能源危机",
+    "url": "https://oilprice.com/Energy/Energy-General/Russian-Fuel-Disruptions-Push-Central-Asia-Into-an-Energy-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-10T16:00:00+00:00"
+  },
+  "3fe52fd8b152": {
+    "id": "3fe52fd8b152",
+    "title_en": "World Bank commits US$890 million to support India’s rooftop solar expansion",
+    "title_zh": "世界银行承诺提供8.9亿美元支持印度屋顶太阳能扩建",
+    "url": "https://www.pv-tech.org/world-bank-commits-us890-million-support-india-rooftop-solar-expansion/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-10T15:54:25+00:00"
+  },
+  "1f19f7575866": {
+    "id": "1f19f7575866",
+    "title_en": "Metlen, Tsakos advance 251.9MW solar-plus-storage project",
+    "title_zh": "Metlen，Tsakos推进251.9MW太阳能+储能项目",
+    "url": "https://www.pv-tech.org/metlen-tsakos-advance-251mw-greek-solar-plus-storage-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-10T15:50:28+00:00"
+  },
+  "14dbbaab4d3a": {
+    "id": "14dbbaab4d3a",
+    "title_en": "Volkswagen May Discontinue Up To Half Its Current Models",
+    "title_zh": "大众汽车可能会停产多达一半的现有车型",
+    "url": "https://cleantechnica.com/2026/07/10/volkswagen-may-discontinue-up-to-half-its-current-models/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-10T15:46:33+00:00"
+  },
+  "bc3c3e904e88": {
+    "id": "bc3c3e904e88",
+    "title_en": "Interview: COP31 president says electrification is ‘surest way to protect citizens’",
+    "title_zh": "采访：COP31主席表示电气化是“保护公民的最可靠方式”",
+    "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-10T15:40:00+00:00"
+  },
+  "5088855c0dd5": {
+    "id": "5088855c0dd5",
+    "title_en": "IEA Chief Urges EU to Drop Arctic Drilling Ban",
+    "title_zh": "国际能源署署长敦促欧盟取消北极钻探禁令",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Chief-Urges-EU-to-Drop-Arctic-Drilling-Ban.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-10T15:30:00+00:00"
+  },
+  "6dd8328245ec": {
+    "id": "6dd8328245ec",
+    "title_en": "DeBriefed 10 July 2026: Deadly Europe heat | EU electrification leak | COP31 president interview",
+    "title_zh": "2026年7月10日简报：致命的欧洲高温|欧盟电气化泄漏| COP31主席访谈",
+    "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-10T15:30:00+00:00"
+  },
+  "c4b5654e2b91": {
+    "id": "c4b5654e2b91",
+    "title_en": "America’s first nuclear plant restart may be near the finish line",
+    "title_zh": "美国第一座核电站重启可能即将结束",
+    "url": "https://www.canarymedia.com/articles/nuclear/americas-first-nuclear-plant-restart",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-10T15:30:00+00:00"
+  },
+  "e059120612d4": {
+    "id": "e059120612d4",
+    "title_en": "Toyota is promising big things for the Lexus LFA EV sports car, but will we ever get to see it?",
+    "title_zh": "丰田承诺为雷克萨斯LFA电动汽车跑车做出重大贡献，但我们还能看到吗？",
+    "url": "https://electrek.co/2026/07/10/toyota-promising-big-things-for-lexus-lfa-ev-sports-car/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-10T15:01:12+00:00"
+  },
+  "019d1164033e": {
+    "id": "019d1164033e",
+    "title_en": "Electric Vehicle Raffle Is Insanely UNDERSOLD. 4,500 Tickets Remain With Less Than 21 Days Before Drawing. Stunning Odds for You. Tickets Benefit Nonprofit.",
+    "title_zh": "电动汽车盗窃案被疯狂地低估了。在提款前不到21天，仍有4500张门票。给你惊人的机会。门票福利非营利组织。",
+    "url": "https://cleantechnica.com/2026/07/10/electric-vehicle-raffle-is-insanely-undersold-4500-tickets-remain-with-less-than-21-days-before-drawing-stunning-odds-for-you-tickets-benefit-nonprofit/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-10T15:00:03+00:00"
+  },
+  "05d192c59da0": {
+    "id": "05d192c59da0",
+    "title_en": "Former FERC officials weigh in on Supreme Court ruling expanding president’s power to fire regulators",
+    "title_zh": "联邦能源管理委员会前官员对最高法院扩大总统解雇监管机构权力的裁决发表意见",
+    "url": "https://www.utilitydive.com/news/former-ferc-officials-supreme-court-slaughter-ruling-expanding-presidential-power-fire-regulators/824842/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-10T14:35:13+00:00"
+  },
+  "ee2ac87e303d": {
+    "id": "ee2ac87e303d",
+    "title_en": "Australia’s 7 best-selling EVs are now all Chinese — even Tesla’s",
+    "title_zh": "澳大利亚最畅销的7款电动汽车现在都是中国人，甚至特斯拉也是如此",
+    "url": "https://electrek.co/2026/07/10/australia-top-7-evs-all-chinese/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-10T14:34:47+00:00"
+  },
+  "c384fbedbd9e": {
+    "id": "c384fbedbd9e",
+    "title_en": "UAE Oil Output Hits All-Time High, Doubling Pre-Crisis Levels",
+    "title_zh": "阿联酋石油产量创历史新高，是危机前水平的两倍",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Oil-Output-Hits-All-Time-High-Doubling-Pre-Crisis-Levels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-10T14:30:00+00:00"
+  },
   "183954ecd0a7": {
     "id": "183954ecd0a7",
     "title_en": "Eight facts about air conditioning amid an overheated global debate",
@@ -88,6 +232,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-10T13:25:23+00:00"
+  },
+  "9a943b5621f3": {
+    "id": "9a943b5621f3",
+    "title_en": "What can best ease transmission bottlenecks? More transfer capacity, DOE says.",
+    "title_zh": "什么能最好地缓解传输瓶颈？美国能源部表示，转移能力更强。",
+    "url": "https://www.utilitydive.com/news/transfer-capacity-transmission-needs-study-doe/824925/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-10T12:53:21+00:00"
   },
   "4bedc7e87ed3": {
     "id": "4bedc7e87ed3",
@@ -4345,158 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-05T12:20:00+00:00"
-  },
-  "7949c0249a0c": {
-    "id": "7949c0249a0c",
-    "title_en": "Happy Birthday, America! Hope You Find Your Way Back.",
-    "title_zh": "生日快乐，美国！希望你能找到回去的路。",
-    "url": "https://cleantechnica.com/2026/07/04/happy-birthday-america-hope-you-find-your-way-back/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-05T03:50:03+00:00"
-  },
-  "8b3de9907969": {
-    "id": "8b3de9907969",
-    "title_en": "Electric School Buses Put Batteries To Work To Stabilize Grids",
-    "title_zh": "电动校车让电池工作以稳定电网",
-    "url": "https://cleantechnica.com/2026/07/04/electric-school-buses-put-batteries-to-work-to-stabilize-grids/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-05T00:52:09+00:00"
-  },
-  "b72cecca861e": {
-    "id": "b72cecca861e",
-    "title_en": "For The US Auto Market, What Is The Next Step, Battery Electric Vehicles Or Hybrids?",
-    "title_zh": "对于美国汽车市场来说，下一步是电池电动汽车还是混合动力汽车？",
-    "url": "https://cleantechnica.com/2026/07/04/for-the-us-auto-market-what-is-the-next-step-battery-electric-vehicles-or-hybrids/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-05T00:44:06+00:00"
-  },
-  "74164e247c46": {
-    "id": "74164e247c46",
-    "title_en": "Why KG Motors Suspended Reservations For Its Tiny MiBot EV",
-    "title_zh": "为什么KG Motors暂停了其微型MiBot EV的预订",
-    "url": "https://cleantechnica.com/2026/07/04/why-kg-motors-suspended-reservations-for-its-tiny-mibot-ev/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T23:27:19+00:00"
-  },
-  "1de6e641fdc5": {
-    "id": "1de6e641fdc5",
-    "title_en": "Dip in U.S. LNG Imports to EU Spells Trouble for Trade Deal",
-    "title_zh": "美国对欧盟液化天然气进口量下降给贸易协议带来麻烦",
-    "url": "https://oilprice.com/Energy/Energy-General/Dip-in-US-LNG-Imports-to-EU-Spells-Trouble-for-Trade-Deal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-04T23:00:00+00:00"
-  },
-  "26a40982f457": {
-    "id": "26a40982f457",
-    "title_en": "Heat, Drought, & Fires Disrupt USA’s 250th Anniversary — But We Ain’t Seen Nothing Yet",
-    "title_zh": "高温、干旱和火灾扰乱了美国建国250周年——但我们还什么都没看到",
-    "url": "https://cleantechnica.com/2026/07/04/heat-drought-fires-disrupt-usas-250th-anniversary-but-we-aint-seen-nothing-yet/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T22:50:38+00:00"
-  },
-  "3068b34aaef1": {
-    "id": "3068b34aaef1",
-    "title_en": "The 250th Anniversary Of The Declaration Of Independence Was Nothing Like The Bicentennial Celebrations",
-    "title_zh": "《独立宣言》250周年与200周年庆典截然不同",
-    "url": "https://cleantechnica.com/2026/07/04/the-250th-anniversary-of-the-declaration-of-independence-was-nothing-like-the-bicentennial-celebrations/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T21:43:00+00:00"
-  },
-  "96521f8538d5": {
-    "id": "96521f8538d5",
-    "title_en": "Largest Data Center Project Ever Proposed Is Officially Dead",
-    "title_zh": "有史以来最大的数据中心项目正式终止",
-    "url": "https://oilprice.com/Energy/Energy-General/Largest-Data-Center-Project-Ever-Proposed-Is-Officially-Dead.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-04T19:00:00+00:00"
-  },
-  "2cf3b7c75481": {
-    "id": "2cf3b7c75481",
-    "title_en": "Kalmar is building – and selling! – these massive electric reach stackers in China",
-    "title_zh": "卡尔玛正在建设和销售！–中国的这些大型电动正面吊运机",
-    "url": "https://electrek.co/2026/07/04/kalmar-is-building-and-selling-these-massive-electric-reach-stackers-in-china/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-04T17:56:36+00:00"
-  },
-  "0a5539752ff7": {
-    "id": "0a5539752ff7",
-    "title_en": "Asia Bets on Biofuels to Dodge Middle East Oil Shortages",
-    "title_zh": "亚洲押注生物燃料以避免中东石油短缺",
-    "url": "https://oilprice.com/Alternative-Energy/Biofuels/Asia-Bets-on-Biofuels-to-Dodge-Middle-East-Oil-Shortages.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-04T17:00:00+00:00"
-  },
-  "731d263afd46": {
-    "id": "731d263afd46",
-    "title_en": "BYD Beats Tesla — Again",
-    "title_zh": "比亚迪再次击败特斯拉",
-    "url": "https://cleantechnica.com/2026/07/04/byd-beats-tesla-again/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T15:10:14+00:00"
-  },
-  "c038215d1caa": {
-    "id": "c038215d1caa",
-    "title_en": "Courts and Congress Are Undoing Trump's War on Wind Power",
-    "title_zh": "法院和国会正在撤销特朗普对风力发电的战争",
-    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Courts-and-Congress-Are-Undoing-Trumps-War-on-Wind-Power.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-04T15:00:00+00:00"
-  },
-  "186492ecd493": {
-    "id": "186492ecd493",
-    "title_en": "CATL is building more than 200 battery swap stations EVERY MONTH",
-    "title_zh": "CATL每月建造200多个电池交换站",
-    "url": "https://electrek.co/2026/07/04/catl-is-building-more-than-200-battery-swap-stations-every-month/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-04T14:40:54+00:00"
-  },
-  "84cc141993ec": {
-    "id": "84cc141993ec",
-    "title_en": "Agrivoltaics Works When Solar Panels Do Farm Work",
-    "title_zh": "当太阳能电池板在农场工作时，农业光伏发电就起作用了",
-    "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-works-where-shade-does-farm-work/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T14:01:00+00:00"
-  },
-  "6db23acd87f1": {
-    "id": "6db23acd87f1",
-    "title_en": "The Balcony Solar Movement Will Fry Trump’s Brain",
-    "title_zh": "阳台太阳能运动将炸掉特朗普的大脑",
-    "url": "https://cleantechnica.com/2026/07/04/balcony-solar-us-states-legislation-powerful-movement/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T13:48:55+00:00"
-  },
-  "eb92bcb6b2b9": {
-    "id": "eb92bcb6b2b9",
-    "title_en": "Agrivoltaics Could Solve One of Solar’s Biggest Problems in the Philippines",
-    "title_zh": "农业光伏可以解决菲律宾太阳能最大的问题之一",
-    "url": "https://cleantechnica.com/2026/07/04/agrivoltaics-could-solve-one-of-solars-biggest-problems-in-the-philippines/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-04T13:19:56+00:00"
-  },
-  "849e6038e91c": {
-    "id": "849e6038e91c",
-    "title_en": "GM is flooding dealers with Bolt EVs – is that part of the plan?",
-    "title_zh": "通用汽车正在向经销商大量销售Bolt电动汽车——这是计划的一部分吗？",
-    "url": "https://electrek.co/2026/07/04/gm-is-flooding-dealers-with-bolt-evs-is-that-part-of-the-plan/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-04T13:16:53+00:00"
   }
 }
