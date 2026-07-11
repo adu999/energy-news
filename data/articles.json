@@ -1,4 +1,31 @@
 {
+  "f430cb496d40": {
+    "id": "f430cb496d40",
+    "title_en": "The Escalating Energy War Between California and the White House",
+    "title_zh": "加州与白宫之间不断升级的能源战争",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Escalating-Energy-War-Between-California-and-the-White-House.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-11T19:00:00+00:00"
+  },
+  "6fdbdfbd2252": {
+    "id": "6fdbdfbd2252",
+    "title_en": "Can Colombia’s New Government Reverse the Nation’s Oil and Gas Decline?",
+    "title_zh": "哥伦比亚新政府能否扭转国家石油和天然气的衰退？",
+    "url": "https://oilprice.com/Energy/Energy-General/Can-Colombias-New-Government-Reverse-the-Nations-Oil-and-Gas-Decline.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-11T17:00:00+00:00"
+  },
+  "e8f7cc312728": {
+    "id": "e8f7cc312728",
+    "title_en": "Waymo Expands Into Germany & Tesla Pumping Up Production While Volkswagen In Crisis",
+    "title_zh": "Waymo进军德国，特斯拉在大众陷入危机时提高产量",
+    "url": "https://cleantechnica.com/2026/07/11/waymo-expands-into-germany-tesla-pumping-up-production-while-volkswagen-in-crisis/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-11T16:38:32+00:00"
+  },
   "ab40f03ccf12": {
     "id": "ab40f03ccf12",
     "title_en": "Ford’s New EV Needs A Name…What Will It Be?",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-06T09:30:00+00:00"
-  },
-  "c4085c23b624": {
-    "id": "c4085c23b624",
-    "title_en": "Solar boom in the Philippines continues as electricity prices rise",
-    "title_zh": "随着电价上涨，菲律宾的太阳能热潮仍在继续",
-    "url": "https://www.pv-magazine.com/2026/07/06/solar-boom-in-the-philippines-continues-as-electricity-prices-rise/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T09:17:14+00:00"
-  },
-  "89712bfa2e96": {
-    "id": "89712bfa2e96",
-    "title_en": "Boskalis Christens ‘Industry’s Largest’ Subsea Rock Installation Vessel",
-    "title_zh": "Boskalis Christens“业界最大”海底岩石安装船",
-    "url": "https://www.offshorewind.biz/2026/07/06/boskalis-christens-industrys-largest-subsea-rock-installation-vessel/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-06T09:11:55+00:00"
-  },
-  "d4e7a6651112": {
-    "id": "d4e7a6651112",
-    "title_en": "PJM’s rate increase is here. What’s your strategy?",
-    "title_zh": "PJM的加息就在这里。你的策略是什么？",
-    "url": "https://www.utilitydive.com/spons/pjms-rate-increase-is-here-whats-your-strategy/824052/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-06T09:00:00+00:00"
   }
 }
