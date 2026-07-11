@@ -1,4 +1,40 @@
 {
+  "b6d82e09cca9": {
+    "id": "b6d82e09cca9",
+    "title_en": "Another state adds a way to report reckless e-bike and e-scooter riders",
+    "title_zh": "另一个州增加了一种报告鲁莽的电动自行车和电动滑板车骑手的方法",
+    "url": "https://electrek.co/2026/07/11/another-state-adds-a-way-to-report-reckless-e-bike-and-e-scooter-riders/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-11T09:06:49+00:00"
+  },
+  "0f5375321d42": {
+    "id": "0f5375321d42",
+    "title_en": "China could produce more batteries than global demand by 2030, says US think tank",
+    "title_zh": "美国智库表示，到2030年，中国的电池产量可能超过全球需求",
+    "url": "https://www.pv-magazine.com/2026/07/11/china-could-produce-more-batteries-than-global-demand-by-2030-says-us-think-tank/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-11T09:00:00+00:00"
+  },
+  "5b52bd851e1f": {
+    "id": "5b52bd851e1f",
+    "title_en": "Study finds heatwaves cause hourly losses of up to 90% in PV plants in Iberian peninsula",
+    "title_zh": "研究发现，热浪导致伊比利亚半岛光伏电站每小时损失高达90%",
+    "url": "https://www.pv-magazine.com/2026/07/11/study-finds-heatwaves-cause-hourly-losses-of-up-to-90-in-pv-plants-in-iberian-peninsula/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-11T08:30:00+00:00"
+  },
+  "6d298c6fae7a": {
+    "id": "6d298c6fae7a",
+    "title_en": "End-of-life solar module recycling unviable if material diversity is not considered",
+    "title_zh": "如果不考虑材料多样性，寿命终止的太阳能模块回收是不可行的",
+    "url": "https://www.pv-magazine.com/2026/07/11/end-of-life-module-recycling-unviable-if-material-diversity-is-not-considered/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-11T08:00:00+00:00"
+  },
   "a046cd8896d0": {
     "id": "a046cd8896d0",
     "title_en": "HIZEnergy presents PCS for C&I applications",
@@ -4462,41 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-06T08:58:41+00:00"
-  },
-  "5f14510baf7f": {
-    "id": "5f14510baf7f",
-    "title_en": "Medium-voltage series regulator enables 260% more PV capacity in German distribution grids",
-    "title_zh": "中压串联稳压器使德国配电网的光伏容量增加了260%",
-    "url": "https://www.pv-magazine.com/2026/07/06/medium-voltage-series-regulator-enables-260-more-pv-capacity-in-german-distribution-grids/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T08:54:41+00:00"
-  },
-  "7c0b84477b78": {
-    "id": "7c0b84477b78",
-    "title_en": "Photovoltaics for metro stations",
-    "title_zh": "地铁站光伏",
-    "url": "https://www.pv-magazine.com/2026/07/06/photovoltaics-for-metro-stations/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T08:32:30+00:00"
-  },
-  "a54398aeebad": {
-    "id": "a54398aeebad",
-    "title_en": "More European Investors Oppose Norway’s Push for Arctic Oil Drilling",
-    "title_zh": "更多欧洲投资者反对挪威推动北极石油钻探",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/More-European-Investors-Oppose-Norways-Push-for-Arctic-Oil-Drilling.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-06T08:30:00+00:00"
-  },
-  "55ca7b572467": {
-    "id": "55ca7b572467",
-    "title_en": "Vikram Solar starts PV module production at manufacturing facility in India",
-    "title_zh": "Vikram Solar在印度的制造工厂开始生产光伏组件",
-    "url": "https://www.pv-magazine.com/2026/07/06/vikram-solar-begins-pv-module-production-at-new-tamil-nadu-manufacturing-facility/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T08:22:17+00:00"
   }
 }
