@@ -1,4 +1,40 @@
 {
+  "ab40f03ccf12": {
+    "id": "ab40f03ccf12",
+    "title_en": "Ford’s New EV Needs A Name…What Will It Be?",
+    "title_zh": "福特的新电动汽车需要一个名字……它会是什么？",
+    "url": "https://cleantechnica.com/2026/07/11/ford-ev-universal-electric-pickup-truck-phev-europe/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-11T15:14:18+00:00"
+  },
+  "e87d20ac3edd": {
+    "id": "e87d20ac3edd",
+    "title_en": "Can Europe Beat the Heat Without More Air Conditioners?",
+    "title_zh": "欧洲能在没有更多空调的情况下战胜酷热吗？",
+    "url": "https://oilprice.com/Energy/Energy-General/Can-Europe-Beat-the-Heat-Without-More-Air-Conditioners.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-11T15:00:00+00:00"
+  },
+  "9e49a7d86a18": {
+    "id": "9e49a7d86a18",
+    "title_en": "Two Progressive Representatives Chart A Course Forward For America",
+    "title_zh": "两位进步派代表为美国指明前进方向",
+    "url": "https://cleantechnica.com/2026/07/11/two-progressive-representatives-chart-a-course-forward-for-america/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-11T14:32:11+00:00"
+  },
+  "cad87f9f6c52": {
+    "id": "cad87f9f6c52",
+    "title_en": "Energy Intelligence Platform Florion Launched to Help South African Businesses Navigate a New Era of Energy Risk & Opportunity",
+    "title_zh": "能源情报平台Florion正式上线，助力南非企业开启能源风险与机遇的新时代",
+    "url": "https://cleantechnica.com/2026/07/11/energy-intelligence-platform-florion-launched-to-help-south-african-businesses-navigate-a-new-era-of-energy-risk-opportunity/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-11T14:03:29+00:00"
+  },
   "b6d82e09cca9": {
     "id": "b6d82e09cca9",
     "title_en": "Another state adds a way to report reckless e-bike and e-scooter riders",
@@ -4462,41 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-06T09:00:00+00:00"
-  },
-  "43add30d59d1": {
-    "id": "43add30d59d1",
-    "title_en": "6 ways to get digital upgrades right for your customers",
-    "title_zh": "为客户提供数字升级的6种方法",
-    "url": "https://www.utilitydive.com/spons/6-ways-to-get-digital-upgrades-right-for-your-customers/823943/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-06T09:00:00+00:00"
-  },
-  "07526d8abeab": {
-    "id": "07526d8abeab",
-    "title_en": "AI is reshaping the grid. Utilities need capacity that can move faster.",
-    "title_zh": "人工智能正在重塑电网。公用事业需要能够更快移动的容量。",
-    "url": "https://www.utilitydive.com/spons/ai-is-reshaping-the-grid-utilities-need-capacity-that-can-move-faster/824175/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-06T09:00:00+00:00"
-  },
-  "231224213289": {
-    "id": "231224213289",
-    "title_en": "Poweroad receives China’s first pilot Battery Passport from Bureau Veritas",
-    "title_zh": "Poweroad从必维获得中国首个试点电池护照",
-    "url": "https://www.pv-magazine.com/2026/07/06/poweroad-receives-chinas-first-pilot-battery-passport-from-bureau-veritas/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T09:00:00+00:00"
-  },
-  "2d1bdda2c8ff": {
-    "id": "2d1bdda2c8ff",
-    "title_en": "Solax unveils new energy management system for residential PV",
-    "title_zh": "Solax推出住宅光伏新能源管理系统",
-    "url": "https://www.pv-magazine.com/2026/07/06/solax-announces-new-energy-management-system-for-residential-pv/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T08:58:41+00:00"
   }
 }
