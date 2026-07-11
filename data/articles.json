@@ -1,4 +1,13 @@
 {
+  "050a22119725": {
+    "id": "050a22119725",
+    "title_en": "Chinese EV Gets To North America With A Little Help From Stellantis",
+    "title_zh": "中国电动汽车在Stellantis的帮助下进入北美",
+    "url": "https://cleantechnica.com/2026/07/10/chinese-ev-gets-to-north-america-with-a-little-help-from-stellantis/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-11T02:42:25+00:00"
+  },
   "51732b6f37b9": {
     "id": "51732b6f37b9",
     "title_en": "“Structural Shift” Continues in Australia’s Car Market — June Update",
@@ -4489,14 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-06T08:08:37+00:00"
-  },
-  "73b3d7d83849": {
-    "id": "73b3d7d83849",
-    "title_en": "How to retrofit residential air-source heat pumps to run on DC",
-    "title_zh": "如何改造住宅空气源热泵使其在直流电上运行",
-    "url": "https://www.pv-magazine.com/2026/07/06/how-to-retrofit-residential-air-source-heat-pumps-to-run-on-dc/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T08:02:47+00:00"
   }
 }
