@@ -1,4 +1,31 @@
 {
+  "a046cd8896d0": {
+    "id": "a046cd8896d0",
+    "title_en": "HIZEnergy presents PCS for C&I applications",
+    "title_zh": "HIZEnergy推出用于C&I应用的PCS",
+    "url": "https://www.pv-magazine.com/2026/07/11/hizenergy-presents-pcs-for-ci-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-11T07:30:00+00:00"
+  },
+  "f07c7ce652a2": {
+    "id": "f07c7ce652a2",
+    "title_en": "U.S. assembled solar module prices steady at $0.30/W",
+    "title_zh": "美国组装太阳能组件价格稳定在0.30美元/瓦",
+    "url": "https://www.pv-magazine.com/2026/07/11/u-s-assembled-module-prices-steady-at-0-30-w/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-11T07:00:00+00:00"
+  },
+  "af6ff423d88a": {
+    "id": "af6ff423d88a",
+    "title_en": "The Hydrogen Stream: Pilot project in Iceland shows geothermal-driven H2 could achieve LCOH of $1.75/kg",
+    "title_zh": "氢流：冰岛的试点项目表明，地热驱动的H2可以实现1.75美元/公斤的LCOH",
+    "url": "https://www.pv-magazine.com/2026/07/11/the-hydrogen-stream-pilot-project-in-iceland-shows-geothermal-driven-h2-could-achieve-lcoh-of-1-75-kg/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-11T06:30:00+00:00"
+  },
   "050a22119725": {
     "id": "050a22119725",
     "title_en": "Chinese EV Gets To North America With A Little Help From Stellantis",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-06T08:22:17+00:00"
-  },
-  "4f1d366a6dc2": {
-    "id": "4f1d366a6dc2",
-    "title_en": "Tata Power commissions 100.8MW wind facility in Maharashtra, India",
-    "title_zh": "塔塔电力公司在印度马哈拉施特拉邦委托建设100.8MW风力发电设施",
-    "url": "https://www.energymonitor.ai/news/tata-power-100-8mw-wind-facility/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-06T08:17:23+00:00"
-  },
-  "0cee01ba1c20": {
-    "id": "0cee01ba1c20",
-    "title_en": "Amazon pens battery storage PPA for 220MWh solar-plus-storage site in Australia",
-    "title_zh": "亚马逊为澳大利亚220MWh太阳能+储能电站签署电池储能PPA",
-    "url": "https://www.energy-storage.news/amazon-pens-battery-storage-ppa-for-220mwh-solar-plus-storage-site-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-06T08:10:23+00:00"
-  },
-  "b00bfa6bb45e": {
-    "id": "b00bfa6bb45e",
-    "title_en": "Australia’s Zen Energy appoints administrators with wholesale electricity volatility cited as main driver",
-    "title_zh": "澳大利亚Zen Energy任命管理人员，批发电力波动被认为是主要驱动力",
-    "url": "https://www.energy-storage.news/australias-zen-energy-appoints-administrators-with-wholesale-electricity-volatility-cited-as-main-driver/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-06T08:08:37+00:00"
   }
 }
