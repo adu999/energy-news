@@ -1,4 +1,49 @@
 {
+  "00773425b6eb": {
+    "id": "00773425b6eb",
+    "title_en": "Britain Bets on Hydropower to Boost Energy Security",
+    "title_zh": "英国投资水电以提高能源安全",
+    "url": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-12T15:00:00+00:00"
+  },
+  "407fe6a682a8": {
+    "id": "407fe6a682a8",
+    "title_en": "Hydrogen Injection Can Make Diesel Exhaust Look Cleaner. The Carbon Math Still Fails.",
+    "title_zh": "氢气喷射可以使柴油机废气看起来更清洁。碳数学仍然失败。",
+    "url": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-12T14:44:43+00:00"
+  },
+  "af5642be9505": {
+    "id": "af5642be9505",
+    "title_en": "Qcells Announces Equipment Deliveries for Major Arizona Solar-Plus-Storage Project",
+    "title_zh": "Qcells宣布亚利桑那州大型太阳能+储能项目的设备交付",
+    "url": "https://www.powermag.com/qcells-announces-equipment-deliveries-for-major-arizona-solar-plus-storage-project/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-12T14:09:00+00:00"
+  },
+  "3d5ddc71094f": {
+    "id": "3d5ddc71094f",
+    "title_en": "Argo Infrastructure Partners Acquires Solar Portfolio from NuGen",
+    "title_zh": "Argo Infrastructure Partners从NuGen收购太阳能投资组合",
+    "url": "https://www.powermag.com/argo-infrastructure-partners-acquires-solar-portfolio-from-nugen/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-12T13:58:54+00:00"
+  },
+  "f09dab59f708": {
+    "id": "f09dab59f708",
+    "title_en": "VMAX launches new full-suspension VX2 Lite e-scooter for a mere $799",
+    "title_zh": "VMAX推出全新全悬挂VX2 Lite电动滑板车，售价仅799美元",
+    "url": "https://electrek.co/2026/07/12/vmax-launches-new-full-suspension-vx2-lite-e-scooter-for-a-mere-799/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-12T13:43:00+00:00"
+  },
   "26a30dc949d6": {
     "id": "26a30dc949d6",
     "title_en": "China About To Get 156 New Electric Vehicle Models!",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-06T11:00:00+00:00"
-  },
-  "4e4100504281": {
-    "id": "4e4100504281",
-    "title_en": "Vikram Solar commissions Tamil Nadu TOPCon module plant",
-    "title_zh": "Vikram Solar委托泰米尔纳德邦TOPCon模块工厂",
-    "url": "https://www.pv-tech.org/vikram-solar-commissions-tamil-nadu-topcon-module-plant/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T10:56:33+00:00"
-  },
-  "fd7d14e56c14": {
-    "id": "fd7d14e56c14",
-    "title_en": "NEM Data Spotlight: Combined solar generation falls 21% in June as end-of-month pricing spike pushes AU$120/MWh",
-    "title_zh": "NEM数据聚焦：6月太阳能发电量下降21%，月底价格飙升至120澳元/兆瓦时",
-    "url": "https://www.pv-tech.org/nem-data-spotlight-combined-solar-generation-falls-21-in-june-as-end-of-month-pricing-spike-pushes-au120-mwh/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T10:54:19+00:00"
-  },
-  "9b876bdf8e17": {
-    "id": "9b876bdf8e17",
-    "title_en": "South Korean Ultra-Large Cable Laying Vessel Enters Construction in Türkiye",
-    "title_zh": "韩国超大型电缆敷设船在土耳其投入施工",
-    "url": "https://www.offshorewind.biz/2026/07/06/south-korean-ultra-large-cable-laying-vessel-enters-construction-in-turkiye/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-06T10:47:47+00:00"
-  },
-  "f87a5ab76ec4": {
-    "id": "f87a5ab76ec4",
-    "title_en": "Wind power patents: Dongfang | Siemens Gamesa | Goldwind | Nordex | ZF",
-    "title_zh": "风电专利：东方|西门子歌美飒|金风|北欧|采埃孚",
-    "url": "https://www.windpowermonthly.com/article/1963730/wind-power-patents-dongfang-siemens-gamesa-goldwind-nordex-zf",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-06T10:35:12+00:00"
-  },
-  "de7fa87108f6": {
-    "id": "de7fa87108f6",
-    "title_en": "Spain awards €162 million to clean energy manufacturing",
-    "title_zh": "西班牙向清洁能源制造业拨款1.62亿欧元",
-    "url": "https://www.pv-tech.org/spain-awards-e162-million-to-clean-energy-manufacturing/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T10:31:39+00:00"
   }
 }
