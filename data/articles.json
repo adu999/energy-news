@@ -1,4 +1,31 @@
 {
+  "5fd7ea2c7e8a": {
+    "id": "5fd7ea2c7e8a",
+    "title_en": "Is the AI Bubble About to Burst?",
+    "title_zh": "人工智能泡沫即将破裂吗？",
+    "url": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-12T19:00:00+00:00"
+  },
+  "aa1934966ffb": {
+    "id": "aa1934966ffb",
+    "title_en": "Head of IEA Roasts Europe for “Slow Electrification”",
+    "title_zh": "国际能源署负责人抨击欧洲“缓慢的电气化”",
+    "url": "https://cleantechnica.com/2026/07/12/head-of-iea-roasts-europe-for-slow-electrification/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-12T18:49:16+00:00"
+  },
+  "8ed76a38e617": {
+    "id": "8ed76a38e617",
+    "title_en": "Can Sodium-Ion Batteries Help the U.S. Close the Gap With China?",
+    "title_zh": "钠离子电池能帮助美国缩小与中国的差距吗？",
+    "url": "https://oilprice.com/Energy/Energy-General/Can-Sodium-Ion-Batteries-Help-the-US-Close-the-Gap-With-China.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-12T17:00:00+00:00"
+  },
   "00773425b6eb": {
     "id": "00773425b6eb",
     "title_en": "Britain Bets on Hydropower to Boost Energy Security",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-06T11:50:57+00:00"
-  },
-  "e7627b4b6343": {
-    "id": "e7627b4b6343",
-    "title_en": "Huawei launches the latest grid-forming strategy for future power systems at The smarter E 2026",
-    "title_zh": "华为在智能E 2026上推出未来电力系统的最新并网战略",
-    "url": "https://www.pv-magazine.com/2026/07/06/huawei-launches-the-latest-grid-forming-strategy-for-future-power-systems-at-the-smarter-e-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T11:23:43+00:00"
-  },
-  "d7ccfe1286f6": {
-    "id": "d7ccfe1286f6",
-    "title_en": "Norwegian startup develops floating PV tech designed to withstand waves of up to 3.5 m",
-    "title_zh": "挪威初创公司开发了浮动光伏技术，可承受高达3.5米的海浪",
-    "url": "https://www.pv-magazine.com/2026/07/06/norwegian-startup-develops-floating-pv-tech-designed-to-withstand-waves-of-up-to-3-5-meters/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T11:15:14+00:00"
-  },
-  "dd49ebe5713d": {
-    "id": "dd49ebe5713d",
-    "title_en": "Germany Weathers Energy Crisis With Growing Dependence on American LNG",
-    "title_zh": "德国通过日益依赖美国液化天然气度过能源危机",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Weathers-Energy-Crisis-With-Growing-Dependence-on-American-LNG.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-06T11:00:00+00:00"
   }
 }
