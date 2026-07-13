@@ -1,4 +1,49 @@
 {
+  "95b3b2334172": {
+    "id": "95b3b2334172",
+    "title_en": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
+    "title_zh": "梅赛德斯-AMG CLA 45抵达古德伍德，搭载680马力和三台轴向磁通电机",
+    "url": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-13T00:36:38+00:00"
+  },
+  "959faa75a0ed": {
+    "id": "959faa75a0ed",
+    "title_en": "Volvo Electric semi trucks charge up American Truck Simulator",
+    "title_zh": "沃尔沃电动半挂车为美国卡车模拟器充电",
+    "url": "https://electrek.co/2026/07/12/volvo-electric-semi-trucks-charge-up-american-truck-simulator/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-12T23:29:54+00:00"
+  },
+  "41c86d4f39cd": {
+    "id": "41c86d4f39cd",
+    "title_en": "Big Oil’s War-Related Profits Anger Governments",
+    "title_zh": "大型石油公司与战争有关的利润激怒了政府",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-War-Related-Profits-Anger-Governments.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-12T23:00:00+00:00"
+  },
+  "858d9df09aab": {
+    "id": "858d9df09aab",
+    "title_en": "It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America",
+    "title_zh": "这是美国电动汽车销售最好的时期，也是最糟糕的时期",
+    "url": "https://cleantechnica.com/2026/07/12/it-was-the-best-of-times-it-was-the-worst-of-times-for-electric-car-sales-in-america/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-12T21:57:22+00:00"
+  },
+  "bd5fba51c813": {
+    "id": "bd5fba51c813",
+    "title_en": "Uruguay’s Offshore Oil Province Could Be Bigger Than Vaca Muerta",
+    "title_zh": "乌拉圭的海洋石油省可能比Vaca Muerta更大",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Uruguays-Offshore-Oil-Province-Could-Be-Bigger-Than-Vaca-Muerta.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-12T21:00:00+00:00"
+  },
   "667b4dc6df26": {
     "id": "667b4dc6df26",
     "title_en": "Tesla’s Profit Per Vehicle Has Been Dropping Significantly",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-06T13:18:40+00:00"
-  },
-  "0070147d04b3": {
-    "id": "0070147d04b3",
-    "title_en": "Lawsuit claims Boeing-backed Wisk rushed eVTOL software testing",
-    "title_zh": "诉讼称波音支持的Wisk匆忙进行eVTOL软件测试",
-    "url": "https://electrek.co/2026/07/06/whistleblower-claims-boeing-backed-wisk-rushed-testing-now-theres-a-lawsuit/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-06T13:11:19+00:00"
-  },
-  "eaee31e8977d": {
-    "id": "eaee31e8977d",
-    "title_en": "New York surpasses 8 GW of distributed solar",
-    "title_zh": "纽约分布式太阳能发电量超过8GW",
-    "url": "https://www.solarpowerworldonline.com/2026/07/new-york-surpasses-8-gw-of-distributed-solar/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T13:06:58+00:00"
-  },
-  "e1de6b4c8057": {
-    "id": "e1de6b4c8057",
-    "title_en": "Super El Niño Could Trigger a Major Coal Boom in India",
-    "title_zh": "超级厄尔尼诺现象可能引发印度煤炭热潮",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Super-El-Nio-Could-Trigger-a-Major-Coal-Boom-in-India.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-06T12:15:00+00:00"
-  },
-  "f8e816d58c47": {
-    "id": "f8e816d58c47",
-    "title_en": "$2.4 million in grants split among 10 Massachusetts nonprofits going solar",
-    "title_zh": "240万美元的拨款分配给马萨诸塞州10个非营利组织，用于太阳能",
-    "url": "https://www.solarpowerworldonline.com/2026/07/2-4-million-in-grants-split-among-10-massachusetts-nonprofits-going-solar/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T12:11:55+00:00"
-  },
-  "e027bc957d4a": {
-    "id": "e027bc957d4a",
-    "title_en": "Acciona Energía to build 235MW PV plant in Kentucky",
-    "title_zh": "Acciona Energía将在肯塔基州建造235MW光伏电站",
-    "url": "https://www.pv-tech.org/acciona-energia-to-build-235mw-pv-plant-in-kentucky/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T11:52:08+00:00"
   }
 }
