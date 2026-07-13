@@ -1,4 +1,49 @@
 {
+  "00511022b02c": {
+    "id": "00511022b02c",
+    "title_en": "Oil and LNG Tankers Go Dark Again as Hormuz Crisis Deepens",
+    "title_zh": "霍尔木兹危机加深，石油和液化天然气油轮再次陷入黑暗",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-and-LNG-Tankers-Go-Dark-Again-as-Hormuz-Crisis-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-13T06:15:00+00:00"
+  },
+  "8bed952b1355": {
+    "id": "8bed952b1355",
+    "title_en": "Oil Prices Surge 4% as U.S.-Iran Escalation Rekindles Supply Fears",
+    "title_zh": "油价飙升4%，因美国-伊朗升级重新引发供应担忧",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-4-as-US-Iran-Escalation-Rekindles-Supply-Fears.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-13T04:55:00+00:00"
+  },
+  "3a34dad45a95": {
+    "id": "3a34dad45a95",
+    "title_en": "Iran Strikes 5 Gulf Countries as Regional Escalation Continues",
+    "title_zh": "伊朗袭击5个海湾国家，地区局势持续升级",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Strikes-5-Gulf-Countries-as-Regional-Escalation-Continues.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-13T04:35:55+00:00"
+  },
+  "14c29927ee09": {
+    "id": "14c29927ee09",
+    "title_en": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
+    "title_zh": "澳大利亚AEMC就最低系统负载市场规则进行咨询，电池存储投资岌岌可危",
+    "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-13T04:12:10+00:00"
+  },
+  "7198fe21ace9": {
+    "id": "7198fe21ace9",
+    "title_en": "Spain targets wafer production",
+    "title_zh": "西班牙瞄准晶圆生产",
+    "url": "https://www.pv-magazine.com/2026/07/13/spain-targets-wafer-production/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-13T04:00:00+00:00"
+  },
   "95b3b2334172": {
     "id": "95b3b2334172",
     "title_en": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
@@ -4453,50 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-06T13:37:36+00:00"
-  },
-  "a0ba1b507b39": {
-    "id": "a0ba1b507b39",
-    "title_en": "Competition grows for U.S. solar industry workforce",
-    "title_zh": "美国太阳能行业劳动力竞争加剧",
-    "url": "https://www.pv-magazine.com/2026/07/06/competition-grows-for-us-solar-industry-workforce/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T13:30:26+00:00"
-  },
-  "efc89f2fc257": {
-    "id": "efc89f2fc257",
-    "title_en": "Hormuz Tanker Traffic Slowly Recovers Despite Persistent Risks",
-    "title_zh": "尽管风险持续存在，霍尔木兹油轮交通仍在缓慢恢复",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slowly-Recovers-Despite-Persistent-Risks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-06T13:30:00+00:00"
-  },
-  "ed2a2cff20a2": {
-    "id": "ed2a2cff20a2",
-    "title_en": "Scatec begins commercial operations at 142MW solar PV plant in Brazil",
-    "title_zh": "Scatec在巴西的142MW太阳能光伏电站开始商业运营",
-    "url": "https://www.pv-tech.org/scatec-begins-commercial-operations-at-142mw-solar-pv-plant-in-brazil/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T13:29:58+00:00"
-  },
-  "b697981eb263": {
-    "id": "b697981eb263",
-    "title_en": "Vertical rooftop PV reaches Vancouver",
-    "title_zh": "垂直屋顶光伏到达温哥华",
-    "url": "https://www.pv-magazine.com/2026/07/06/vertical-rooftop-pv-reaches-vancouver/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T13:26:44+00:00"
-  },
-  "89c9364f998e": {
-    "id": "89c9364f998e",
-    "title_en": "German startup offers passive exoskeletons for PV installers",
-    "title_zh": "德国初创公司为光伏安装人员提供被动外骨骼",
-    "url": "https://www.pv-magazine.com/2026/07/06/german-startup-offers-passive-exoskeletons-for-pv-installers/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-06T13:18:40+00:00"
   }
 }
