@@ -1,4 +1,139 @@
 {
+  "43a5908ad9c0": {
+    "id": "43a5908ad9c0",
+    "title_en": "The New Large-Load Compact",
+    "title_zh": "新型大负载紧凑型",
+    "url": "https://www.powermag.com/the-new-large-load-compact/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-14T16:12:11+00:00"
+  },
+  "7482ec6041ba": {
+    "id": "7482ec6041ba",
+    "title_en": "Pebble Flow electric RV towed by TELO’s MINI-sized electric truck",
+    "title_zh": "TELO MINI电动卡车牵引的Pebble Flow电动房车",
+    "url": "https://electrek.co/2026/07/14/pebble-flow-telo-mt1-electric-truck-tow/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T16:10:02+00:00"
+  },
+  "d95afb45fa9c": {
+    "id": "d95afb45fa9c",
+    "title_en": "The distribution grid can be the unlikely hero of affordability",
+    "title_zh": "配电网不太可能成为负担能力的英雄",
+    "url": "https://www.utilitydive.com/news/distributed-capacity-procurement-grid-xcel-minnesota/824930/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-14T16:04:29+00:00"
+  },
+  "fd9c5569e049": {
+    "id": "fd9c5569e049",
+    "title_en": "Oil’s Oversupply Narrative Just Died",
+    "title_zh": "石油供应过剩的叙事刚刚结束",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Oils-Oversupply-Narrative-Just-Died.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T16:00:00+00:00"
+  },
+  "9033dc92710a": {
+    "id": "9033dc92710a",
+    "title_en": "U.S. Gasoline Prices Rise for First Time Since May as Iran Ceasefire Collapses",
+    "title_zh": "伊朗停火协议破裂，美国汽油价格自5月以来首次上涨",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Rise-for-First-Time-Since-May-as-Iran-Ceasefire-Collapses.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T15:30:00+00:00"
+  },
+  "cfa8fa817c0b": {
+    "id": "cfa8fa817c0b",
+    "title_en": "Fronius inverter + Renon battery pairing achieves CEC listing",
+    "title_zh": "Fronius逆变器+Renon电池配对实现CEC上市",
+    "url": "https://www.solarpowerworldonline.com/2026/07/fronius-inverter-renon-battery-pairing-achieves-cec-listing/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T15:12:39+00:00"
+  },
+  "a20529e85743": {
+    "id": "a20529e85743",
+    "title_en": "Venezuela’s Oil Revival Faces a Critical Services Bottleneck",
+    "title_zh": "委内瑞拉的石油复兴面临关键服务瓶颈",
+    "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Faces-a-Critical-Services-Bottleneck.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T15:00:00+00:00"
+  },
+  "1d6070d0f67a": {
+    "id": "1d6070d0f67a",
+    "title_en": "$10",
+    "title_zh": "$10",
+    "url": "https://cleantechnica.com/2026/07/14/10/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-14T14:44:13+00:00"
+  },
+  "0381ef593ed9": {
+    "id": "0381ef593ed9",
+    "title_en": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
+    "title_zh": "下一任英国领导人安迪·伯纳姆关于气候、净零排放和化石燃料的28句话",
+    "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-14T14:43:57+00:00"
+  },
+  "48357edee73c": {
+    "id": "48357edee73c",
+    "title_en": "These Volkswagen EVs could soon disappear, including Audi and Porsche models",
+    "title_zh": "这些大众电动汽车可能很快就会消失，包括奥迪和保时捷车型",
+    "url": "https://electrek.co/2026/07/14/volkswagen-evs-soon-disappear/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T14:30:10+00:00"
+  },
+  "0bf29b27eabb": {
+    "id": "0bf29b27eabb",
+    "title_en": "Oil Jumps Above $87 as Russia-Ukraine Black Sea Attacks Escalate",
+    "title_zh": "俄罗斯-乌克兰黑海袭击升级，油价飙升至87美元以上",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Above-87-as-Russia-Ukraine-Black-Sea-Attacks-Escalate.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T14:30:00+00:00"
+  },
+  "1d38a42f2741": {
+    "id": "1d38a42f2741",
+    "title_en": "Pennsylvania data centers face increased oversight under new law",
+    "title_zh": "宾夕法尼亚州数据中心在新法律下面临更严格的监管",
+    "url": "https://www.utilitydive.com/news/pennsylvania-passes-budget-increasing-data-center-oversight/825177/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-14T14:27:32+00:00"
+  },
+  "97d95337eda5": {
+    "id": "97d95337eda5",
+    "title_en": "Masdar hits financial close on 5.2GW/19GWh ‘round-the-clock’ solar-plus-storage project",
+    "title_zh": "马斯达尔完成5.2GW/19GWh“全天候”太阳能+储能项目的财务结算",
+    "url": "https://www.pv-tech.org/masdar-financial-close-5-2gw-19gwh-round-the-clock-solar-storage-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T14:23:24+00:00"
+  },
+  "cd8dad140099": {
+    "id": "cd8dad140099",
+    "title_en": "Iran Ceasefire Collapse Sends UK Borrowing Costs to Five-Month High",
+    "title_zh": "伊朗停火协议破裂导致英国借贷成本创五个月新高",
+    "url": "https://oilprice.com/Finance/the-Economy/Iran-Ceasefire-Collapse-Sends-UK-Borrowing-Costs-to-Five-Month-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T14:00:00+00:00"
+  },
+  "0583fd8dd363": {
+    "id": "0583fd8dd363",
+    "title_en": "VIDEO: Scaling solar-coupled, distributed sodium-ion NFPP battery storage with startup Moonwatt",
+    "title_zh": "视频：通过启动Moonwatt扩展太阳能耦合分布式钠离子NFPP电池存储",
+    "url": "https://www.energy-storage.news/video-scaling-solar-coupled-distributed-sodium-ion-nfpp-battery-storage-with-startup-moonwatt/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-14T13:55:54+00:00"
+  },
   "568d6af9f4b0": {
     "id": "568d6af9f4b0",
     "title_en": "China’s Electric Trucks Are Breaking The Diesel Assumptions In Oil Forecasts",
@@ -17,6 +152,15 @@
     "category": "EV",
     "pub_ts": "2026-07-14T13:32:32+00:00"
   },
+  "8b5990def4ed": {
+    "id": "8b5990def4ed",
+    "title_en": "Inside the High-Productivity Rolling Technologies Driving the Offshore Wind Evolution",
+    "title_zh": "推动海上风电发展的高生产率轧制技术内部",
+    "url": "https://www.offshorewind.biz/2026/07/14/inside-the-high-productivity-rolling-technologies-driving-the-offshore-wind-evolution/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-14T13:09:50+00:00"
+  },
   "3d553a652822": {
     "id": "3d553a652822",
     "title_en": "Vermeer’s latest material transporter is ideal for solar pile installation",
@@ -34,6 +178,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-14T13:00:00+00:00"
+  },
+  "0ad080ccac1f": {
+    "id": "0ad080ccac1f",
+    "title_en": "Illinois governor signs laws on utility bill transparency, financial assistance",
+    "title_zh": "伊利诺伊州州长签署关于公用事业法案透明度和财政援助的法律",
+    "url": "https://www.utilitydive.com/news/illinois-governor-signs-laws-utility-bill-transparency-financial-aid/825150/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-14T12:59:12+00:00"
   },
   "b29688706b02": {
     "id": "b29688706b02",
@@ -143,6 +296,15 @@
     "category": "太阳能",
     "pub_ts": "2026-07-14T10:13:44+00:00"
   },
+  "70e645c6f7fb": {
+    "id": "70e645c6f7fb",
+    "title_en": "OMV secures $512m EIB loan for green hydrogen plant in Austria",
+    "title_zh": "OMV为奥地利的绿色氢工厂获得了5.12亿美元的欧洲投资银行贷款",
+    "url": "https://www.energymonitor.ai/news/omv-secures-eib-loan/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-14T10:05:56+00:00"
+  },
   "da36ca754567": {
     "id": "da36ca754567",
     "title_en": "Momentum’s new Vida E+ EX commuter e-bike adds cruise control, throttle, and more",
@@ -196,6 +358,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-14T09:30:00+00:00"
+  },
+  "8b528cceeadd": {
+    "id": "8b528cceeadd",
+    "title_en": "EU backs French plan for 11GW offshore wind CfD auction",
+    "title_zh": "欧盟支持法国11GW海上风电CfD拍卖计划",
+    "url": "https://www.windpowermonthly.com/article/1964520/eu-backs-french-plan-11gw-offshore-wind-cfd-auction",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-14T09:20:47+00:00"
   },
   "7c5c24145879": {
     "id": "7c5c24145879",
@@ -4327,176 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-08T07:06:13+00:00"
-  },
-  "3668133d796b": {
-    "id": "3668133d796b",
-    "title_en": "Ariel Rider launches outrageous new MUDD 72V bike with 65 MPH top speed",
-    "title_zh": "Ariel Rider推出了令人震惊的新款MUDD 72V自行车，最高时速为65英里/小时",
-    "url": "https://electrek.co/2026/07/08/ariel-rider-launches-outrageous-new-mudd-72v-bike-with-65-mph-top-speed/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T07:00:59+00:00"
-  },
-  "8a50bed448c2": {
-    "id": "8a50bed448c2",
-    "title_en": "New Company Launches Deepwater Offshore Wind Foundation Technology",
-    "title_zh": "新公司推出深水海上风力基础技术",
-    "url": "https://www.offshorewind.biz/2026/07/08/new-company-launches-deepwater-offshore-wind-foundation-technology/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-08T06:47:41+00:00"
-  },
-  "e68f00f00d17": {
-    "id": "e68f00f00d17",
-    "title_en": "Haier launches propane air-to-water heat pump for commercial applications",
-    "title_zh": "海尔推出丙烷空气-水热泵用于商业应用",
-    "url": "https://www.pv-magazine.com/2026/07/08/haier-launches-propane-air-to-water-heat-pump-for-commercial-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T06:26:31+00:00"
-  },
-  "3d0ddb6318de": {
-    "id": "3d0ddb6318de",
-    "title_en": "Oil Prices Jump After Iran Attacks Commercial Vessels",
-    "title_zh": "伊朗袭击商船后油价飙升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-Iran-Attacks-Commercial-Vessels.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T05:58:56+00:00"
-  },
-  "cf04907790d4": {
-    "id": "cf04907790d4",
-    "title_en": "Australian utility delivers solar microgrid for farming operation",
-    "title_zh": "澳大利亚公用事业公司为农业运营提供太阳能微电网",
-    "url": "https://www.pv-magazine.com/2026/07/08/agl-delivers-solar-powered-microgrid-for-farming-operation-2/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T05:04:51+00:00"
-  },
-  "532bfaeaba1b": {
-    "id": "532bfaeaba1b",
-    "title_en": "UK scraps mandatory consultations for large-scale solar planning",
-    "title_zh": "英国取消大规模太阳能规划的强制性咨询",
-    "url": "https://www.pv-magazine.com/2026/07/08/uk-scraps-mandatory-consultations-for-large-scale-solar-planning/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T05:00:00+00:00"
-  },
-  "6fc058893d9c": {
-    "id": "6fc058893d9c",
-    "title_en": "ES Foundry completes 3 GW solar cell factory expansion",
-    "title_zh": "ES Foundry完成3GW太阳能电池工厂扩建",
-    "url": "https://www.pv-magazine.com/2026/07/08/es-foundry-completes-factor-expansion-bringing-output-capacity-to-3-gw-per-year/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T04:57:58+00:00"
-  },
-  "44b85b932324": {
-    "id": "44b85b932324",
-    "title_en": "Akaysha Energy begins construction of 82MWh BESS in southern Japan with Itochu-Tokyo Century JV",
-    "title_zh": "Akaysha Energy与伊藤忠东京世纪合资公司在日本南部开始建设82MWh BESS",
-    "url": "https://www.energy-storage.news/akaysha-energy-begins-construction-of-82mwh-bess-in-southern-japan-with-itochu-tokyo-century-jv/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T04:54:07+00:00"
-  },
-  "3ca8f1b9c8a2": {
-    "id": "3ca8f1b9c8a2",
-    "title_en": "Who maintains Europe’s orphaned rooftop solar?",
-    "title_zh": "谁在维护欧洲的孤儿屋顶太阳能？",
-    "url": "https://www.pv-magazine.com/2026/07/08/who-maintains-europes-orphaned-rooftop-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T04:00:00+00:00"
-  },
-  "d0a1e0e51beb": {
-    "id": "d0a1e0e51beb",
-    "title_en": "CleanPeak Energy & Western Sydney International Airport Partner on 100% Renewable Electricity Deal",
-    "title_zh": "CleanPeak Energy与西悉尼国际机场达成100%可再生电力协议",
-    "url": "https://cleantechnica.com/2026/07/07/cleanpeak-energy-western-sydney-international-airport-partner-on-100-renewable-electricity-deal/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-08T03:46:17+00:00"
-  },
-  "2aa94ba434f5": {
-    "id": "2aa94ba434f5",
-    "title_en": "Australia reserves 500MW generation and 2GWh storage for First Nations in Capacity Investment Scheme Tenders 9 and 10",
-    "title_zh": "澳大利亚在容量投资计划招标9和10中为第一民族保留500MW发电和2GWh储能",
-    "url": "https://www.energy-storage.news/australia-reserves-500mw-generation-and-2gwh-storage-for-first-nations-in-capacity-investment-scheme-tenders-9-and-10/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T03:13:59+00:00"
-  },
-  "c90e91390f6c": {
-    "id": "c90e91390f6c",
-    "title_en": "‘Battery storage may be important, but we also welcome long-duration storage’: QIC on Queensland’s North West Energy Fund",
-    "title_zh": "“电池储能可能很重要，但我们也欢迎长期储能”：昆士兰西北能源基金QIC",
-    "url": "https://www.energy-storage.news/battery-storage-may-be-important-but-we-also-welcome-long-duration-storage-qic-on-queenslands-north-west-energy-fund/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T03:12:58+00:00"
-  },
-  "858de5d988a4": {
-    "id": "858de5d988a4",
-    "title_en": "Leapmotor B03X Orders Open in Europe: A New Benchmark in the Urban Crossover Segment",
-    "title_zh": "Leapmotor B03X订单在欧洲开放：城市跨界车领域的新标杆",
-    "url": "https://cleantechnica.com/2026/07/07/leapmotor-b03x-orders-open-in-europe-a-new-benchmark-in-the-urban-crossover-segment/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-08T02:40:23+00:00"
-  },
-  "d7ba60e58c2d": {
-    "id": "d7ba60e58c2d",
-    "title_en": "Floating Solar PV … To Survive 3.5 Meter Waves",
-    "title_zh": "浮式太阳能光伏…在3.5米海浪中生存",
-    "url": "https://cleantechnica.com/2026/07/07/floating-solar-pv-to-survive-3-5-meter-waves/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-08T02:22:01+00:00"
-  },
-  "6b9004b551f5": {
-    "id": "6b9004b551f5",
-    "title_en": "Vertical Solar PV? Yes, Says Vancouver",
-    "title_zh": "垂直太阳能光伏？是的，温哥华说",
-    "url": "https://cleantechnica.com/2026/07/07/vertical-solar-pv-yes-says-vancouver/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-08T00:15:11+00:00"
-  },
-  "f650fdb948a4": {
-    "id": "f650fdb948a4",
-    "title_en": "Why the AI Boom Is About to Break the U.S. Power Grid",
-    "title_zh": "为什么人工智能热潮即将打破美国电网",
-    "url": "https://oilprice.com/Energy/Energy-General/Why-the-AI-Boom-Is-About-to-Break-the-US-Power-Grid.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T00:00:00+00:00"
-  },
-  "c1b910f10ae0": {
-    "id": "c1b910f10ae0",
-    "title_en": "In Latest Pro-Polluter Move, Trump Pardons Mechanics that Tampered with Vehicle Pollution Controls for Trucks",
-    "title_zh": "在最新的亲污染行动中，特朗普赦免了篡改卡车车辆污染控制的机械师",
-    "url": "https://cleantechnica.com/2026/07/07/in-latest-pro-polluter-move-trump-pardons-mechanics-that-tampered-with-vehicle-pollution-controls-for-trucks/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-07T23:31:36+00:00"
-  },
-  "c140b3eaf4e1": {
-    "id": "c140b3eaf4e1",
-    "title_en": "EPA Proposes Air Pollution Exemption “Deal” for Data Centers",
-    "title_zh": "美国环保署提议数据中心空气污染豁免“协议”",
-    "url": "https://cleantechnica.com/2026/07/07/epa-proposes-air-pollution-exemption-deal-for-data-centers/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-07T23:23:33+00:00"
-  },
-  "51626ea7ce99": {
-    "id": "51626ea7ce99",
-    "title_en": "Sierra Club & Partners Oppose Trump EPA’s Weakening of Vehicle Pollutant Standards",
-    "title_zh": "塞拉俱乐部及其合作伙伴反对特朗普环保署降低车辆污染标准",
-    "url": "https://cleantechnica.com/2026/07/07/sierra-club-partners-oppose-trump-epas-weakening-of-vehicle-pollutant-standards/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-07T23:14:36+00:00"
   }
 }
