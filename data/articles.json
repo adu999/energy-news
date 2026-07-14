@@ -1,4 +1,67 @@
 {
+  "6dfa65e39a16": {
+    "id": "6dfa65e39a16",
+    "title_en": "BYD’s new Qin Max EV with Flash Charging spotted for the first time",
+    "title_zh": "比亚迪新款秦Max电动汽车首次亮相",
+    "url": "https://electrek.co/2026/07/14/byd-qin-max-ev-with-flash-charging-spotted-first-time/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T21:34:12+00:00"
+  },
+  "7c22770908c0": {
+    "id": "7c22770908c0",
+    "title_en": "EV prices just fell again – here’s what US buyers paid in June",
+    "title_zh": "电动汽车价格再次下跌——这是美国买家在6月份支付的价格",
+    "url": "https://electrek.co/2026/07/14/ev-prices-just-fell-again-heres-what-us-buyers-paid-in-june/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T21:05:05+00:00"
+  },
+  "5bd821e8f6ca": {
+    "id": "5bd821e8f6ca",
+    "title_en": "US Crude Oil, Gasoline Inventories Still Falling",
+    "title_zh": "美国原油、汽油库存仍在下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Gasoline-Inventories-Still-Falling.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T21:04:18+00:00"
+  },
+  "d484d405b8de": {
+    "id": "d484d405b8de",
+    "title_en": "Could Geothermal Energy Rescue Germany's Fading Coal Towns?",
+    "title_zh": "地热能能否拯救德国衰落的煤炭城镇？",
+    "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Could-Geothermal-Energy-Rescue-Germanys-Fading-Coal-Towns.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T21:00:00+00:00"
+  },
+  "a948ec15583c": {
+    "id": "a948ec15583c",
+    "title_en": "Volkswagen Board Rejects Blume Restructuring Plan",
+    "title_zh": "大众汽车董事会拒绝Blume重组计划",
+    "url": "https://cleantechnica.com/2026/07/14/volkswagen-board-rejects-blume-restructuring-plan/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-14T20:37:44+00:00"
+  },
+  "7f43b32bd7f1": {
+    "id": "7f43b32bd7f1",
+    "title_en": "Nissan recalls nearly 4,000 new Leaf EVs after CR test finds seat belt issue",
+    "title_zh": "在CR测试发现安全带问题后，日产召回了近4000辆新的Leaf电动汽车",
+    "url": "https://electrek.co/2026/07/14/nissan-recalls-nearly-4000-new-leaf-evs-seat-belt-issue/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T20:37:08+00:00"
+  },
+  "202aaafa4532": {
+    "id": "202aaafa4532",
+    "title_en": "Trump’s Hormuz Toll Could Upend Global Energy Trade",
+    "title_zh": "特朗普的霍尔木兹收费可能会颠覆全球能源贸易",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Trumps-Hormuz-Toll-Could-Upend-Global-Energy-Trade.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T20:00:00+00:00"
+  },
   "9e2d09f183ab": {
     "id": "9e2d09f183ab",
     "title_en": "ChargePoint is bringing ultra-fast EV chargers to 12 busy highway travel plazas",
@@ -7,6 +70,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-14T19:20:26+00:00"
+  },
+  "ab7236c47924": {
+    "id": "ab7236c47924",
+    "title_en": "Terra-Gen brings online final phase of 365-MW Lockhart Solar project",
+    "title_zh": "Terra Gen使365兆瓦洛克哈特太阳能项目的最后阶段上线",
+    "url": "https://www.solarpowerworldonline.com/2026/07/terra-gen-brings-online-final-phase-of-365-mw-lockhart-solar-project/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T19:18:20+00:00"
   },
   "7f2092247168": {
     "id": "7f2092247168",
@@ -4426,77 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-08T12:03:51+00:00"
-  },
-  "6fc8f68f4a93": {
-    "id": "6fc8f68f4a93",
-    "title_en": "Solar Spotlight: The AI-powered future of solar field operations",
-    "title_zh": "太阳能聚光灯：人工智能驱动的太阳能场运营的未来",
-    "url": "https://www.solarpowerworldonline.com/2026/07/ai-powered-future-of-solar-field-operations/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T12:00:34+00:00"
-  },
-  "51813b99b4b5": {
-    "id": "51813b99b4b5",
-    "title_en": "France registers lowest average price in C&I PV tender oversubscribed fivefold",
-    "title_zh": "法国C&I光伏招标平均价格最低，超额认购五倍",
-    "url": "https://www.pv-tech.org/france-registers-lowest-average-price-in-ci-pv-tender-oversubscribed-fivefold/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T11:59:26+00:00"
-  },
-  "8beb0f6eb2ae": {
-    "id": "8beb0f6eb2ae",
-    "title_en": "63 Million Barrels Of Crude Stuck At Sea As U.S. Pulls Iran Sanction Waiver",
-    "title_zh": "美国撤销对伊朗制裁豁免，6300万桶原油滞留海上",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/63-Million-Barrels-Of-Crude-Stuck-At-Sea-As-US-Pulls-Iran-Sanction-Waiver.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T11:48:40+00:00"
-  },
-  "022ba01f8a53": {
-    "id": "022ba01f8a53",
-    "title_en": "France backs repowering projects in latest onshore wind auction",
-    "title_zh": "法国在最新的陆上风电拍卖中支持重新供电项目",
-    "url": "https://www.windpowermonthly.com/article/1964008/france-backs-repowering-projects-latest-onshore-wind-auction",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-08T11:41:28+00:00"
-  },
-  "e4cb215ae595": {
-    "id": "e4cb215ae595",
-    "title_en": "GameChange to supply trackers for 380MWp Queensland PV project",
-    "title_zh": "GameChange将为380MWp昆士兰光伏项目提供跟踪器",
-    "url": "https://www.pv-tech.org/gamechange-to-supply-trackers-for-380mwp-queensland-pv-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T11:22:45+00:00"
-  },
-  "10f551304a33": {
-    "id": "10f551304a33",
-    "title_en": "Taiwan to reallocate terminated offshore wind sites",
-    "title_zh": "台湾重新分配终止的海上风电场",
-    "url": "https://www.windpowermonthly.com/article/1964001/taiwan-reallocate-terminated-offshore-wind-sites",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-08T10:32:13+00:00"
-  },
-  "ac90645736b3": {
-    "id": "ac90645736b3",
-    "title_en": "Oil Prices Surge 6% Even as Tankers Push Through Hormuz",
-    "title_zh": "即使油轮驶过霍尔木兹，油价仍飙升6%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-6-Even-as-Tankers-Push-Through-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T10:30:00+00:00"
-  },
-  "adc6483856af": {
-    "id": "adc6483856af",
-    "title_en": "Hiconics discusses PowerNexus residential smart energy solution at Intersolar Europe",
-    "title_zh": "Hiconics在Intersolar Europe上讨论PowerNexus住宅智能能源解决方案",
-    "url": "https://www.energy-storage.news/hiconics-discusses-powernexus-residential-smart-energy-solution-at-intersolar-europe/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T10:29:40+00:00"
   }
 }
