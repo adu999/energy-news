@@ -1,4 +1,40 @@
 {
+  "9ac75cb5d324": {
+    "id": "9ac75cb5d324",
+    "title_en": "Sungrow, TÜV Rheinland release long-term inverter reliability testing standards",
+    "title_zh": "阳光电源、德国莱茵TÜV发布长期逆变器可靠性测试标准",
+    "url": "https://www.pv-magazine.com/2026/07/14/sungrow-tuv-rheinland-release-long-term-inverter-reliability-testing-standards/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T05:24:45+00:00"
+  },
+  "9954548e2cac": {
+    "id": "9954548e2cac",
+    "title_en": "Avoiding IP issues",
+    "title_zh": "避免IP问题",
+    "url": "https://www.pv-magazine.com/2026/07/14/avoiding-ip-issues/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T04:00:00+00:00"
+  },
+  "fcbb8ccfaa8f": {
+    "id": "fcbb8ccfaa8f",
+    "title_en": "Thailand is creating a ‘flexible and competitive environment’ for energy storage market participation",
+    "title_zh": "泰国正在为参与储能市场创造一个“灵活和竞争的环境”",
+    "url": "https://www.energy-storage.news/thailand-is-creating-a-flexible-and-competitive-environment-for-energy-storage-market-participation/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-14T03:37:49+00:00"
+  },
+  "909ba40c12f7": {
+    "id": "909ba40c12f7",
+    "title_en": "California-based nonprofit now accepting pre-orders for plug-in solar kits",
+    "title_zh": "总部位于加利福尼亚州的非营利组织现在接受插电式太阳能套件的预购",
+    "url": "https://www.pv-magazine.com/2026/07/14/bright-saver-begins-offering-plug-in-solar-kits-at-wholesale-costs-to-customers-nationwide/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T03:27:30+00:00"
+  },
   "96afd11456df": {
     "id": "96afd11456df",
     "title_en": "EnergyCo, Transgrid sign deal to unlock transmission capacity for 3.56GW of renewables and battery storage in Australia",
@@ -4462,41 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-07T14:34:56+00:00"
-  },
-  "0da202fec2ff": {
-    "id": "0da202fec2ff",
-    "title_en": "India Could Return To Iranian Crude If U.S. Extends Sanctions Waiver",
-    "title_zh": "如果美国延长制裁豁免，印度可能会重返伊朗原油市场",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Could-Return-To-Iranian-Crude-If-US-Extends-Sanctions-Waiver.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-07T14:30:00+00:00"
-  },
-  "dbc683a945f3": {
-    "id": "dbc683a945f3",
-    "title_en": "Kia’s EV push is paying off with a full lineup from entry-level electric SUVs to vans",
-    "title_zh": "起亚的电动汽车推广正在取得成效，从入门级电动SUV到面包车，其产品线齐全",
-    "url": "https://electrek.co/2026/07/07/kias-ev-push-paying-off-full-lineup-suvs-to-vans/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-07T14:14:11+00:00"
-  },
-  "193341b10980": {
-    "id": "193341b10980",
-    "title_en": "Exelon, FirstEnergy utilities’ RTO adder targeted by Maryland in FERC complaint",
-    "title_zh": "Exelon，FirstEnergy公用事业公司的RTO加法器成为马里兰州联邦能源管理委员会投诉的目标",
-    "url": "https://www.utilitydive.com/news/exelon-firstenergy-ferc-maryland-rto-adder/824576/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-07T14:12:34+00:00"
-  },
-  "5b1d7a215856": {
-    "id": "5b1d7a215856",
-    "title_en": "Octopus Energy launches plug-in home battery",
-    "title_zh": "Octopus Energy推出插电式家用电池",
-    "url": "https://www.pv-magazine.com/2026/07/07/octopus-energy-launches-plug-in-home-battery/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-07T14:07:31+00:00"
   }
 }
