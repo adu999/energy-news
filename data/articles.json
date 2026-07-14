@@ -1,4 +1,139 @@
 {
+  "9e2d09f183ab": {
+    "id": "9e2d09f183ab",
+    "title_en": "ChargePoint is bringing ultra-fast EV chargers to 12 busy highway travel plazas",
+    "title_zh": "ChargePoint将为12个繁忙的高速公路旅行广场带来超高速电动汽车充电器",
+    "url": "https://electrek.co/2026/07/14/chargepoint-ultra-fast-ev-chargers-12-highway-travel-plazas-onvo/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T19:20:26+00:00"
+  },
+  "7f2092247168": {
+    "id": "7f2092247168",
+    "title_en": "Illinois community solar project pilots Planted high-density solar racking",
+    "title_zh": "伊利诺伊州社区太阳能项目试点种植高密度太阳能支架",
+    "url": "https://www.solarpowerworldonline.com/2026/07/illinois-community-solar-project-pilots-planted-high-density-solar-racking/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T19:06:56+00:00"
+  },
+  "08431abebbb9": {
+    "id": "08431abebbb9",
+    "title_en": "Aptera announces nationwide repair network for its upcoming solar electric car",
+    "title_zh": "Aptera宣布其即将推出的太阳能电动汽车的全国维修网络",
+    "url": "https://electrek.co/2026/07/14/aptera-announces-nationwide-repair-network-for-its-upcoming-solar-electric-car/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T19:03:13+00:00"
+  },
+  "cc0148e0ff6e": {
+    "id": "cc0148e0ff6e",
+    "title_en": "Trump Scraps Hormuz Toll Plan as U.S.-Iran Conflict Deepens",
+    "title_zh": "特朗普取消霍尔木兹收费计划，因为美伊冲突加剧",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Trump-Scraps-Hormuz-Toll-Plan-as-US-Iran-Conflict-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T19:00:00+00:00"
+  },
+  "1d124a5258c5": {
+    "id": "1d124a5258c5",
+    "title_en": "Lucid (LCID) stock halted, crashes 40% on bankruptcy report it denies",
+    "title_zh": "Lucid（LCID）股票因否认破产报告而停牌，暴跌40%",
+    "url": "https://electrek.co/2026/07/14/lucid-lcid-bankruptcy-report-denied/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T18:48:42+00:00"
+  },
+  "fa5234bb0cd0": {
+    "id": "fa5234bb0cd0",
+    "title_en": "Insane “Gigascale” 5.2GW, 19GWh Solar + Storage Project Moves Forward",
+    "title_zh": "疯狂的“千兆级”5.2GW、19GWh太阳能+储能项目向前推进",
+    "url": "https://cleantechnica.com/2026/07/14/insane-gigascale-5-2gw-19gwh-solar-storage-project-moves-forward/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-14T18:46:33+00:00"
+  },
+  "f72fdc7508a8": {
+    "id": "f72fdc7508a8",
+    "title_en": "BYD says demand is ‘booming’ for the new Denza Z EV as global pre-orders top 1,000",
+    "title_zh": "比亚迪表示，随着全球预购量突破1000辆，新款腾势Z电动汽车的需求正在“蓬勃发展”",
+    "url": "https://electrek.co/2026/07/14/byd-denza-z-ev-booming-demand-pre-orders-top-1000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T18:32:48+00:00"
+  },
+  "f9eb42b71a91": {
+    "id": "f9eb42b71a91",
+    "title_en": "Segway Myon smart e-bike first discount to $1,550, ECOVACS Goat O1000 RTK robot mower bundle $699, Lectric, Bluetti, more",
+    "title_zh": "Segway Myon智能电动自行车首次折扣为1550美元，ECOVACS山羊O1000 RTK机器人割草机捆绑包699美元，Letric，Bluetti，更多",
+    "url": "https://electrek.co/2026/07/14/segway-myon-smart-e-bike-first-discount-to-1550-ecovacs-goat-o1000-rtk-robot-mower-bundle-699-lectric-bluetti-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T18:00:00+00:00"
+  },
+  "35a989dcb733": {
+    "id": "35a989dcb733",
+    "title_en": "Azerbaijan Accelerates Middle Corridor Push With Central Asia Trade Deals",
+    "title_zh": "阿塞拜疆通过中亚贸易协议加快推进中部走廊",
+    "url": "https://oilprice.com/Geopolitics/Asia/Azerbaijan-Accelerates-Middle-Corridor-Push-With-Central-Asia-Trade-Deals.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T18:00:00+00:00"
+  },
+  "c93bdc891e2b": {
+    "id": "c93bdc891e2b",
+    "title_en": "Dangote's Dollar Shift Reveals Nigeria's Bigger Oil Problem",
+    "title_zh": "丹格特的美元转移揭示了尼日利亚更大的石油问题",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dangotes-Dollar-Shift-Reveals-Nigerias-Bigger-Oil-Problem.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T17:30:00+00:00"
+  },
+  "57bea582b592": {
+    "id": "57bea582b592",
+    "title_en": "Google signs PPA for majority output of largest solar project in US",
+    "title_zh": "谷歌签署美国最大太阳能项目大部分产量的购电协议",
+    "url": "https://www.solarpowerworldonline.com/2026/07/google-signs-ppa-for-majority-output-of-largest-solar-project-in-us/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T17:09:19+00:00"
+  },
+  "b9ef915bed57": {
+    "id": "b9ef915bed57",
+    "title_en": "ESS Tech launches 1.2-MWh sodium-ion battery ‘building block’ system",
+    "title_zh": "ESS Tech推出1.2-MWh钠离子电池“积木”系统",
+    "url": "https://www.utilitydive.com/news/ess-tech-launches-12-mwh-sodium-ion-battery-building-block-system/825204/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-14T16:49:40+00:00"
+  },
+  "9f6eb4f175ea": {
+    "id": "9f6eb4f175ea",
+    "title_en": "Can The World’s Smartest E-Bike Save Volkswagen?",
+    "title_zh": "世界上最智能的电动自行车能拯救大众汽车吗？",
+    "url": "https://cleantechnica.com/2026/07/14/ebikes-worlds-smartest-volkswagen-n-evs-branding-marketing/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-14T16:37:36+00:00"
+  },
+  "10d0459cc570": {
+    "id": "10d0459cc570",
+    "title_en": "Toyota is now among the top 5 EV sellers in the US, but it’s still taking its foot off the gas",
+    "title_zh": "丰田现在是美国五大电动汽车销售商之一，但它仍在起步",
+    "url": "https://electrek.co/2026/07/14/toyota-ranks-top-5-ev-sellers-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T16:35:08+00:00"
+  },
+  "3be261cc43f2": {
+    "id": "3be261cc43f2",
+    "title_en": "New York Imposes First Ever Moratorium On U.S. Data Centers",
+    "title_zh": "纽约首次暂停美国数据中心建设",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/New-York-Imposes-First-Ever-Moratorium-On-US-Data-Centers.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T16:30:00+00:00"
+  },
   "43a5908ad9c0": {
     "id": "43a5908ad9c0",
     "title_en": "The New Large-Load Compact",
@@ -116,6 +251,24 @@
     "category": "太阳能",
     "pub_ts": "2026-07-14T14:23:24+00:00"
   },
+  "432a5268b8a7": {
+    "id": "432a5268b8a7",
+    "title_en": "Utilities requested $9.2B in rate hikes in Q2: PowerLines",
+    "title_zh": "公用事业公司要求第二季度加息92亿美元：电力线",
+    "url": "https://www.utilitydive.com/news/utility-rate-hike-proposals-affordability-powerlines/825167/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-14T14:11:06+00:00"
+  },
+  "05488a153385": {
+    "id": "05488a153385",
+    "title_en": "DHS proposes new critical infrastructure security framework",
+    "title_zh": "国土安全部提出新的关键基础设施安全框架",
+    "url": "https://www.utilitydive.com/news/dhs-proposes-new-critical-infrastructure-security-framework/825197/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-14T14:07:02+00:00"
+  },
   "cd8dad140099": {
     "id": "cd8dad140099",
     "title_en": "Iran Ceasefire Collapse Sends UK Borrowing Costs to Five-Month High",
@@ -133,6 +286,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-14T13:55:54+00:00"
+  },
+  "0c65b8237137": {
+    "id": "0c65b8237137",
+    "title_en": "Siemens Energy and Siemens Gamesa rebrand under one umbrella",
+    "title_zh": "西门子能源和西门子歌美飒在一个保护伞下重塑品牌",
+    "url": "https://www.windpowermonthly.com/article/1964559/siemens-energy-siemens-gamesa-rebrand-one-umbrella",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-14T13:42:51+00:00"
   },
   "568d6af9f4b0": {
     "id": "568d6af9f4b0",
@@ -4336,167 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-08T10:29:40+00:00"
-  },
-  "b59ce8d3ce83": {
-    "id": "b59ce8d3ce83",
-    "title_en": "Polaris inks investment for 250MW/192MWh solar-plus-storage portfolio in Mexico",
-    "title_zh": "Polaris在墨西哥投资250MW/192MWh太阳能加储能组合",
-    "url": "https://www.pv-tech.org/polaris-inks-investment-for-250mw-192mwh-solar-plus-storage-portfolio-in-mexico/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T10:15:18+00:00"
-  },
-  "300daf02db06": {
-    "id": "300daf02db06",
-    "title_en": "Project targeting Europe’s PV ingot and wafer manufacturing gap underway",
-    "title_zh": "针对欧洲光伏晶锭和晶圆制造差距的项目正在进行中",
-    "url": "https://www.pv-tech.org/europe-silicon-ingot-czochralski-manufacturing/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T10:13:41+00:00"
-  },
-  "bc3a6dfad7f5": {
-    "id": "bc3a6dfad7f5",
-    "title_en": "Europe ROUNDUP: Projects, supply deals and acquisitions spanning north to east by Green Flexibility, Jinko, OX2 and Baltic Storage Platform",
-    "title_zh": "欧洲ROUNDUP：Green Flexibility、Jinko、OX2和波罗的海存储平台从北到东的项目、供应交易和收购",
-    "url": "https://www.energy-storage.news/europe-roundup-projects-supply-deals-and-acquisitions-spanning-north-to-east-by-green-flexibility-jinko-ox2-and-baltic-storage-platform/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T10:06:48+00:00"
-  },
-  "4858b80923f9": {
-    "id": "4858b80923f9",
-    "title_en": "South Africa awards licenses to 1 GW of solar",
-    "title_zh": "南非授予1GW太阳能许可证",
-    "url": "https://www.pv-magazine.com/2026/07/08/south-africa-awards-licenses-to-1-gw-of-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T09:56:38+00:00"
-  },
-  "6a89bdeab4f2": {
-    "id": "6a89bdeab4f2",
-    "title_en": "Germany plans to reduce subsidies for heat pumps",
-    "title_zh": "德国计划减少对热泵的补贴",
-    "url": "https://www.pv-magazine.com/2026/07/08/germany-plans-to-reduce-subsidies-for-heat-pumps/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T09:46:42+00:00"
-  },
-  "590f37a63545": {
-    "id": "590f37a63545",
-    "title_en": "Benton REA partners with Landis+Gyr for grid edge technology",
-    "title_zh": "Benton REA与Landis+Gyr合作开发网格边缘技术",
-    "url": "https://www.energymonitor.ai/news/benton-rea-partners-landisgyr/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-08T09:38:18+00:00"
-  },
-  "3bdd3aae0ec0": {
-    "id": "3bdd3aae0ec0",
-    "title_en": "Bahrain and Kuwait Restore Power After Iranian Attacks",
-    "title_zh": "伊朗袭击后巴林和科威特恢复供电",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Bahrain-and-Kuwait-Restore-Power-After-Iranian-Attacks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T09:30:00+00:00"
-  },
-  "8455a683e43e": {
-    "id": "8455a683e43e",
-    "title_en": "TPI Composites completes 'bankruptcy restructuring' with new owner",
-    "title_zh": "TPI Composites与新所有者完成“破产重组”",
-    "url": "https://www.windpowermonthly.com/article/1963974/tpi-composites-completes-bankruptcy-restructuring-new-owner",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-08T09:24:37+00:00"
-  },
-  "b2da328af3b6": {
-    "id": "b2da328af3b6",
-    "title_en": "A rebuildable solar array to train students and access ‘beginner’s mind’",
-    "title_zh": "一个可重建的太阳能电池阵列，用于训练学生并获得“初学者的思维”",
-    "url": "https://www.pv-magazine.com/2026/07/08/a-rebuildable-pv-array-to-train-students-and-access-beginners-mind/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T08:34:53+00:00"
-  },
-  "00cf422ce7b0": {
-    "id": "00cf422ce7b0",
-    "title_en": "Oil and LNG Tankers Make U-Turns After Fresh Hormuz Escalation",
-    "title_zh": "霍尔木兹火山爆发后，石油和液化天然气油轮掉头",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-and-LNG-Tankers-Make-U-Turns-After-Fresh-Hormuz-Escalation.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T08:30:00+00:00"
-  },
-  "a4d0207558d8": {
-    "id": "a4d0207558d8",
-    "title_en": "Floating Wind Test Site Offshore Spain Gets Regulatory Nod",
-    "title_zh": "西班牙海上浮动风力试验场获得监管批准",
-    "url": "https://www.offshorewind.biz/2026/07/08/floating-wind-test-site-offshore-spain-gets-regulatory-nod/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-08T08:25:45+00:00"
-  },
-  "09019ede6f7c": {
-    "id": "09019ede6f7c",
-    "title_en": "Elestor, Windpark Zeewolde partner on 10-40-hour hydrogen-iron flow battery LDES project in Netherlands",
-    "title_zh": "Elestor与Windpark Zeewolde在荷兰合作开展10-40小时氢铁液流电池LDES项目",
-    "url": "https://www.energy-storage.news/elestor-windpark-zeewolde-partner-on-10-40-hour-hydrogen-iron-flow-battery-ldes-project-in-netherlands/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T08:01:42+00:00"
-  },
-  "8ec750a9146d": {
-    "id": "8ec750a9146d",
-    "title_en": "Grid expansion, storage, flexibility lag behind Europe’s renewables growth",
-    "title_zh": "电网扩张、储能和灵活性落后于欧洲的可再生能源增长",
-    "url": "https://www.pv-magazine.com/2026/07/08/grid-expansion-storage-flexibility-lag-behind-europes-renewables-growth/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T07:49:48+00:00"
-  },
-  "0caf4f18ecd1": {
-    "id": "0caf4f18ecd1",
-    "title_en": "ES Foundry concludes 2GW expansion at Greenwood solar plant",
-    "title_zh": "ES Foundry完成格林伍德太阳能发电厂2GW扩建",
-    "url": "https://www.energymonitor.ai/news/es-foundry-expansion-greenwood/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-08T07:47:43+00:00"
-  },
-  "ebf71187f387": {
-    "id": "ebf71187f387",
-    "title_en": "China Lifts Fuel Export Curbs as Refiners Ramp Up Overseas Shipments",
-    "title_zh": "随着炼油厂增加海外出货量，中国取消了燃料出口限制",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Lifts-Fuel-Export-Curbs-as-Refiners-Ramp-Up-Overseas-Shipments.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T07:30:00+00:00"
-  },
-  "f25cd00d9f82": {
-    "id": "f25cd00d9f82",
-    "title_en": "Southern California clean-heat rule survives key legal challenge",
-    "title_zh": "南加州清洁供暖规则在关键的法律挑战中幸存下来",
-    "url": "https://www.canarymedia.com/articles/electrification/southern-california-clean-heat-rule-survives",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-08T07:30:00+00:00"
-  },
-  "e589086c5981": {
-    "id": "e589086c5981",
-    "title_en": "Water-jet delamination for solar module recycling",
-    "title_zh": "太阳能组件回收中的水射流分层",
-    "url": "https://www.pv-magazine.com/2026/07/08/water-jet-delamination-for-solar-module-recycling/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T07:18:29+00:00"
-  },
-  "a820f76e8b72": {
-    "id": "a820f76e8b72",
-    "title_en": "TÜV NORD study confirms back-contact advantage over TOPCon is limited to mild shading conditions",
-    "title_zh": "TÜV NORD的研究证实，与TOPCon相比，背接触优势仅限于温和的遮阳条件",
-    "url": "https://www.pv-magazine.com/2026/07/08/tuv-nord-study-confirms-back-contact-advantage-over-topcon-is-limited-to-mild-shading-conditions/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T07:06:13+00:00"
   }
 }
