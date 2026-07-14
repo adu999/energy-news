@@ -1,4 +1,85 @@
 {
+  "0299d6831fb9": {
+    "id": "0299d6831fb9",
+    "title_en": "Aditya Birla Group to acquire 5 GW renewables portfolio from Shell",
+    "title_zh": "Aditya Birla Group将从壳牌收购5吉瓦的可再生能源组合",
+    "url": "https://www.pv-magazine.com/2026/07/14/aditya-birla-group-to-acquire-sprng-energy-from-shell/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T07:59:39+00:00"
+  },
+  "1cfcb4116cda": {
+    "id": "1cfcb4116cda",
+    "title_en": "Intertek CEA says 587Ah cells could drive down BESS costs through 2027",
+    "title_zh": "Intertek CEA表示，到2027年，587Ah电池可以降低BESS成本",
+    "url": "https://www.pv-magazine.com/2026/07/14/intertek-cea-says-587ah-cells-could-drive-down-bess-costs-through-2027/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T07:50:45+00:00"
+  },
+  "98ecee1af31b": {
+    "id": "98ecee1af31b",
+    "title_en": "Here’s how offshore wind helped New England beat record heat",
+    "title_zh": "以下是海上风电如何帮助新英格兰打破创纪录的高温",
+    "url": "https://www.canarymedia.com/articles/offshore-wind/offshore-wind-new-england-heat",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-14T07:30:00+00:00"
+  },
+  "1cc01874fbee": {
+    "id": "1cc01874fbee",
+    "title_en": "More Ohioans are getting their power shut off as energy costs surge",
+    "title_zh": "随着能源成本飙升，越来越多的俄亥俄州人被切断了电源",
+    "url": "https://www.canarymedia.com/articles/utilities/ohioans-getting-power-shut-off",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-14T07:30:00+00:00"
+  },
+  "a5076dda48bf": {
+    "id": "a5076dda48bf",
+    "title_en": "China’s Crude Oil Imports Crash to Decade Low as Hormuz Crisis Bites",
+    "title_zh": "霍尔木兹危机爆发，中国原油进口暴跌至十年低点",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Crash-to-Decade-Low-as-Hormuz-Crisis-Bites.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T07:15:00+00:00"
+  },
+  "5070bbf2ba13": {
+    "id": "5070bbf2ba13",
+    "title_en": "Three-source heat pump system for cold climates",
+    "title_zh": "寒冷气候下的三源热泵系统",
+    "url": "https://www.pv-magazine.com/2026/07/14/three-source-heat-pump-system-for-cold-climates/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T07:00:00+00:00"
+  },
+  "3159bf860ca0": {
+    "id": "3159bf860ca0",
+    "title_en": "Peru proposes national energy planning framework with solar and storage scenarios",
+    "title_zh": "秘鲁提出了包含太阳能和储能情景的国家能源规划框架",
+    "url": "https://www.pv-magazine.com/2026/07/14/peru-proposes-national-energy-planning-framework-with-solar-and-storage-scenarios/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T06:01:52+00:00"
+  },
+  "dab59aac4a05": {
+    "id": "dab59aac4a05",
+    "title_en": "Hydraulic storage proves more cost-effective than batteries for PV irrigation",
+    "title_zh": "事实证明，水力储能比光伏灌溉电池更具成本效益",
+    "url": "https://www.pv-magazine.com/2026/07/14/hydraulic-storage-proves-more-cost-effective-than-batteries-for-pv-irrigation/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-14T05:44:27+00:00"
+  },
+  "086637bb72bc": {
+    "id": "086637bb72bc",
+    "title_en": "Oil Prices Have Jumped 12% Since Friday as War Risks Return",
+    "title_zh": "自周五以来，随着战争风险的回归，油价上涨了12%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Have-Jumped-12-Since-Friday-as-War-Risks-Return.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T05:44:07+00:00"
+  },
   "9ac75cb5d324": {
     "id": "9ac75cb5d324",
     "title_en": "Sungrow, TÜV Rheinland release long-term inverter reliability testing standards",
@@ -4417,86 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-07T15:00:00+00:00"
-  },
-  "d2bd2a05d363": {
-    "id": "d2bd2a05d363",
-    "title_en": "Cited 7 July 2026: ‘Impossible’ heat | Global ocean record | Climate change and the ozone hole",
-    "title_zh": "2026年7月7日：“不可能的”高温|全球海洋记录|气候变化和臭氧空洞",
-    "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-07T14:58:43+00:00"
-  },
-  "d6cda90227f5": {
-    "id": "d6cda90227f5",
-    "title_en": "ES Foundry Completes 2-GW Solar Cell Factory Expansion",
-    "title_zh": "ES Foundry完成2-GW太阳能电池工厂扩建",
-    "url": "https://www.powermag.com/es-foundry-completes-2-gw-solar-cell-factory-expansion/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-07T14:57:21+00:00"
-  },
-  "a4ed1f6fda7b": {
-    "id": "a4ed1f6fda7b",
-    "title_en": "Ex-Tesla Optimus scientist unveils European humanoid robot startup",
-    "title_zh": "前特斯拉Optimus科学家推出欧洲人形机器人初创公司",
-    "url": "https://electrek.co/2026/07/07/tesla-optimus-scientist-uma-humanoid-robot/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-07T14:56:32+00:00"
-  },
-  "4979af6d9b92": {
-    "id": "4979af6d9b92",
-    "title_en": "ES Foundry completes 2GW solar cell expansion in South Carolina",
-    "title_zh": "ES Foundry在南卡罗来纳州完成2GW太阳能电池扩建",
-    "url": "https://www.pv-tech.org/es-foundry-completes-2gw-solar-cell-expansion-in-south-carolina/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-07T14:56:23+00:00"
-  },
-  "68f0204a7a1b": {
-    "id": "68f0204a7a1b",
-    "title_en": "The US Is Stuck With This Ninny For How Much Longer?",
-    "title_zh": "美国被这个尼尼困住了多久？",
-    "url": "https://cleantechnica.com/2026/07/07/renewable-energy-beats-trump-obstruction-us-policy/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-07T14:51:25+00:00"
-  },
-  "0e2e125cb327": {
-    "id": "0e2e125cb327",
-    "title_en": "New York Now at 8 Gigawatts of Distributed Solar Power",
-    "title_zh": "纽约现在拥有8吉瓦的分布式太阳能",
-    "url": "https://cleantechnica.com/2026/07/07/new-york-now-at-8-gigawatts-of-distributed-solar-power/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-07T14:49:02+00:00"
-  },
-  "89ac9cc974c8": {
-    "id": "89ac9cc974c8",
-    "title_en": "Tracking the energy transition: The latest patent activity signals a sector resolving, not retreating",
-    "title_zh": "追踪能源转型：最新的专利活动表明该行业正在解决，而不是退缩",
-    "url": "https://www.energymonitor.ai/sponsored/tracking-the-energy-transition-the-latest-patent-activity-signals-a-sector-resolving-not-retreating/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-07T14:45:33+00:00"
-  },
-  "b07f82234d36": {
-    "id": "b07f82234d36",
-    "title_en": "Brookfield, Bloom Energy Expand AI Infrastructure Partnership to $25 Billion",
-    "title_zh": "Brookfield和Bloom Energy将人工智能基础设施合作伙伴关系扩大到250亿美元",
-    "url": "https://www.powermag.com/brookfield-bloom-energy-expand-ai-infrastructure-partnership-to-25-billion/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-07T14:36:38+00:00"
-  },
-  "9f6aa374ec08": {
-    "id": "9f6aa374ec08",
-    "title_en": "BC Hydro’s Net Metering Change Points Past Export Credits",
-    "title_zh": "不列颠哥伦比亚水电公司过去出口信贷的净计量变化点",
-    "url": "https://cleantechnica.com/2026/07/07/bc-hydro-net-metering-paid-flexibility/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-07T14:34:56+00:00"
   }
 }
