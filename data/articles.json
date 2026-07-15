@@ -1,4 +1,130 @@
 {
+  "4f2f3d7f85ac": {
+    "id": "4f2f3d7f85ac",
+    "title_en": "Pilot tests show vertical PV system with specular reflectors delivers 51% higher yield",
+    "title_zh": "初步测试表明，带有镜面反射器的垂直光伏系统可提高51%的产量",
+    "url": "https://www.pv-magazine.com/2026/07/15/pilot-tests-show-vertical-pv-system-with-specular-reflectors-delivers-50-higher-yield/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T10:43:51+00:00"
+  },
+  "7b9d4e967eb8": {
+    "id": "7b9d4e967eb8",
+    "title_en": "Europe’s record solar output drives surge in negative electricity prices",
+    "title_zh": "欧洲创纪录的太阳能产量推动负电价飙升",
+    "url": "https://www.pv-magazine.com/2026/07/15/europes-record-solar-output-drives-surge-in-negative-electricity-prices/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T10:30:17+00:00"
+  },
+  "cc8c46166e11": {
+    "id": "cc8c46166e11",
+    "title_en": "Oil Prices Climb for Fourth Day as Iran Threatens New Energy Chokepoints",
+    "title_zh": "伊朗威胁新能源瓶颈，油价连续第四天上涨",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-for-Fourth-Day-as-Iran-Threatens-New-Energy-Chokepoints.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-15T10:30:00+00:00"
+  },
+  "e12480cee7a1": {
+    "id": "e12480cee7a1",
+    "title_en": "Global BESS deployments soar 27% in H1 2026, Saudi Arabia drives figures in June",
+    "title_zh": "2026年上半年，全球BESS部署激增27%，沙特阿拉伯在6月份推动了这一数字",
+    "url": "https://www.energy-storage.news/global-bess-deployments-soar-27-in-h1-2026-saudi-arabia-drives-figures-in-june/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-15T10:28:54+00:00"
+  },
+  "46e69f986f19": {
+    "id": "46e69f986f19",
+    "title_en": "BlackRock subsidiary agrees to acquire Summit Ridge Energy",
+    "title_zh": "贝莱德子公司同意收购Summit Ridge Energy",
+    "url": "https://www.pv-tech.org/blackrock-subsidiary-agrees-to-acquire-summit-ridge-energy/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T10:26:59+00:00"
+  },
+  "bbc6765636c1": {
+    "id": "bbc6765636c1",
+    "title_en": "Tern redesigns famous HSD cargo e-bike, making it smarter, stronger, and even more family-friendly",
+    "title_zh": "Tern重新设计了著名的HSD货运电动自行车，使其更智能、更坚固，甚至更适合家庭使用",
+    "url": "https://electrek.co/2026/07/15/tern-redesigns-famous-hsd-cargo-e-bike-making-it-smarter-stronger-and-even-more-family-friendly/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-15T10:00:00+00:00"
+  },
+  "5da571757b36": {
+    "id": "5da571757b36",
+    "title_en": "China’s new PV industry standards unlikely to resolve overcapacity",
+    "title_zh": "中国新的光伏行业标准不太可能解决产能过剩问题",
+    "url": "https://www.pv-magazine.com/2026/07/15/chinas-new-pv-industry-standards-unlikely-to-resolve-overcapacity/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T09:56:07+00:00"
+  },
+  "d5cb2d56d935": {
+    "id": "d5cb2d56d935",
+    "title_en": "Google projects are evidence that long-duration CO2 Batteries are ‘reliable capacity assets,’ Energy Dome says",
+    "title_zh": "Energy Dome表示，谷歌的项目证明了长期二氧化碳电池是“可靠的容量资产”",
+    "url": "https://www.energy-storage.news/google-projects-are-evidence-that-long-duration-co2-batteries-are-reliable-capacity-assets-energy-dome-says/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-15T09:51:16+00:00"
+  },
+  "ca4942662800": {
+    "id": "ca4942662800",
+    "title_en": "Brent Futures Flip to Backwardation as Middle East Supply Risks Return",
+    "title_zh": "随着中东供应风险的回归，布伦特原油期货价格回落",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Futures-Flip-to-Backwardation-as-Middle-East-Supply-Risks-Return.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-15T09:50:00+00:00"
+  },
+  "91cc3b5523dd": {
+    "id": "91cc3b5523dd",
+    "title_en": "Arctech tailors tracker solutions to the European market",
+    "title_zh": "Arctech为欧洲市场量身定制跟踪器解决方案",
+    "url": "https://www.pv-magazine.com/2026/07/15/arctech-tailors-tracker-solutions-to-the-european-market/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T09:00:00+00:00"
+  },
+  "a0f831b4838e": {
+    "id": "a0f831b4838e",
+    "title_en": "Germany ROUNDUP: TotalEnergies and Kyon, Envision and Ju:niz, Flower progress BESS portfolios",
+    "title_zh": "德国ROUNDUP：TotalEnergies和Kyon、Envision和Ju:niz、Flower progress BESS投资组合",
+    "url": "https://www.energy-storage.news/germany-roundup-totalenergies-and-kyon-envision-and-juniz-flower-progress-bess-portfolios/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-15T08:56:54+00:00"
+  },
+  "023dad4887fb": {
+    "id": "023dad4887fb",
+    "title_en": "U.S. Gasoline Prices Could Hit $4 Per Gallon Within Days",
+    "title_zh": "美国汽油价格可能在几天内达到每加仑4美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Could-Hit-4-Per-Gallon-Within-Days.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-15T08:45:00+00:00"
+  },
+  "3c16081a0fa0": {
+    "id": "3c16081a0fa0",
+    "title_en": "Avantus, Clean Power Alliance sign PPA for 200MW solar PV, 800MWh BESS project",
+    "title_zh": "Avantus与清洁能源联盟签署200MW太阳能光伏、800MWh BESS项目购电协议",
+    "url": "https://www.pv-tech.org/avantus-clean-power-alliance-ppa-200mw-solar-pv-800mwh-bess-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T08:23:29+00:00"
+  },
+  "46033a345170": {
+    "id": "46033a345170",
+    "title_en": "Grid tariff design key to renewable energy communities",
+    "title_zh": "电网电价设计是可再生能源社区的关键",
+    "url": "https://www.pv-magazine.com/2026/07/15/grid-tariff-design-key-to-renewable-energy-communities/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-15T08:18:50+00:00"
+  },
   "954ad6e9a029": {
     "id": "954ad6e9a029",
     "title_en": "What does a bankable route-to-market strategy for battery storage in Europe actually look like?",
@@ -7,6 +133,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-15T07:59:18+00:00"
+  },
+  "ffbf099e171b": {
+    "id": "ffbf099e171b",
+    "title_en": "Turkey announces 1.5GW onshore wind auction",
+    "title_zh": "土耳其宣布1.5GW陆上风电拍卖",
+    "url": "https://www.windpowermonthly.com/article/1964632/turkey-announces-15gw-onshore-wind-auction",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-15T07:46:26+00:00"
   },
   "847ad98fc11f": {
     "id": "847ad98fc11f",
@@ -4363,140 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-08T19:00:00+00:00"
-  },
-  "3b0f59df69c9": {
-    "id": "3b0f59df69c9",
-    "title_en": "Ford admits its $30K midsize EV pickup is actually ‘small’",
-    "title_zh": "福特承认其3万美元的中型电动皮卡实际上“很小”",
-    "url": "https://electrek.co/2026/07/08/ford-admits-30k-midsize-ev-pickup-is-small/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T18:41:40+00:00"
-  },
-  "c056e2adc42d": {
-    "id": "c056e2adc42d",
-    "title_en": "China is bringing buttons back to cars, ending trend led by Tesla",
-    "title_zh": "中国正在将按钮带回汽车，结束特斯拉引领的趋势",
-    "url": "https://electrek.co/2026/07/08/china-is-bringing-buttons-back-to-cars-ending-trend-led-by-tesla/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T18:36:37+00:00"
-  },
-  "a32a5c4f0318": {
-    "id": "a32a5c4f0318",
-    "title_en": "Solar Set to Rule World’s Power Supply: Three Things to Know",
-    "title_zh": "太阳能发电机组将统治世界电力供应：需要知道的三件事",
-    "url": "https://about.bnef.com/insights/clean-energy/solar-set-to-rule-worlds-power-supply-three-things-to-know/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-07-08T18:21:06+00:00"
-  },
-  "5fcc0d1a5c3e": {
-    "id": "5fcc0d1a5c3e",
-    "title_en": "Lectric XP4 750 e-bike gets FREE $498 flash sale cargo bundle, Navee Summer EV Sale, EGO Select Cut + Touch Drive mower $599, more",
-    "title_zh": "Lectric XP4 750电动自行车获得免费498美元的闪购货物捆绑，Navee夏季电动汽车销售，EGO Select Cut+Touch Drive割草机599美元，更多",
-    "url": "https://electrek.co/2026/07/08/lectric-xp4-750-e-bike-navee-summer-ev-sale-ego-select-cut-touch-drive-mower-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T18:00:00+00:00"
-  },
-  "260a30f9d7e9": {
-    "id": "260a30f9d7e9",
-    "title_en": "West Texas Cowboys Are Cashing In on the AI Land Rush",
-    "title_zh": "西德克萨斯牛仔队正在从AI土地热潮中获利",
-    "url": "https://oilprice.com/Energy/Energy-General/West-Texas-Cowboys-Are-Cashing-In-on-the-AI-Land-Rush.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T18:00:00+00:00"
-  },
-  "da68c3951097": {
-    "id": "da68c3951097",
-    "title_en": "Xiaomi makes Sky Nomad official: new EREV brand to take on Li Auto",
-    "title_zh": "小米正式宣布Sky Nomad：新的EREV品牌将挑战李汽车",
-    "url": "https://electrek.co/2026/07/08/xiaomi-sky-nomad-erev-brand-official/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T17:44:46+00:00"
-  },
-  "871c087887f1": {
-    "id": "871c087887f1",
-    "title_en": "This $22K EV coupe has a semi-solid-state battery and a ‘Queen’ makeup station in China",
-    "title_zh": "这款售价2.2万美元的电动轿跑在中国有一个半固态电池和一个“女王”化妆站",
-    "url": "https://electrek.co/2026/07/08/22000-ev-semi-solid-state-battery-makeup-station/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T17:32:21+00:00"
-  },
-  "3d02c9811dd3": {
-    "id": "3d02c9811dd3",
-    "title_en": "Russia Bans Diesel Exports Amid Heavy Ukraine Attacks On Refineries",
-    "title_zh": "乌克兰对炼油厂发动猛烈袭击，俄罗斯禁止柴油出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Bans-Diesel-Exports-Amid-Heavy-Ukraine-Attacks-On-Refineries.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T17:30:00+00:00"
-  },
-  "9038230a16ef": {
-    "id": "9038230a16ef",
-    "title_en": "China Plans 1,000-Satellite Network to Watch Over Central Asia",
-    "title_zh": "中国计划建立1000个卫星网络以监视中亚",
-    "url": "https://oilprice.com/Geopolitics/International/China-Plans-1000-Satellite-Network-to-Watch-Over-Central-Asia.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T17:00:00+00:00"
-  },
-  "9f62d22cf6cf": {
-    "id": "9f62d22cf6cf",
-    "title_en": "Avangrid starts laying panels on another large solar project in Oregon",
-    "title_zh": "Avangrid开始在俄勒冈州的另一个大型太阳能项目上铺设太阳能电池板",
-    "url": "https://www.solarpowerworldonline.com/2026/07/avangrid-starts-laying-panels-on-another-large-solar-project-in-oregon/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T16:40:24+00:00"
-  },
-  "9f95557ef37f": {
-    "id": "9f95557ef37f",
-    "title_en": "Illinois regulators approve ComEd VPP under new clean energy law",
-    "title_zh": "伊利诺伊州监管机构根据新的清洁能源法批准ComEd VPP",
-    "url": "https://www.utilitydive.com/news/illinois-approves-commonwealth-edison-vpp-under-new-clean-energy-law/824723/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-08T16:35:57+00:00"
-  },
-  "226f5d79523e": {
-    "id": "226f5d79523e",
-    "title_en": "Changing The Narrative About Clean Energy — Dollars, Not Policies",
-    "title_zh": "改变关于清洁能源的叙述——美元，而不是政策",
-    "url": "https://cleantechnica.com/2026/07/08/changing-the-narrative-about-clean-energy-dollars-not-policies/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-08T16:25:04+00:00"
-  },
-  "e3a9e3c5faff": {
-    "id": "e3a9e3c5faff",
-    "title_en": "South Africa clears four REIPPPP solar projects for construction",
-    "title_zh": "南非批准了四个REIPPP太阳能项目的建设",
-    "url": "https://www.pv-tech.org/south-africa-clears-four-reipppp-solar-projects-for-construction/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T16:03:27+00:00"
-  },
-  "db229643235a": {
-    "id": "db229643235a",
-    "title_en": "UK Airline Turns Fuel Price Surge Into $500 Million Windfall Through Hedging",
-    "title_zh": "英国航空公司通过对冲将燃油价格飙升转化为5亿美元的意外之财",
-    "url": "https://oilprice.com/Energy/Energy-General/UK-Airline-Turns-Fuel-Price-Surge-Into-500-Million-Windfall-Through-Hedging.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T16:00:00+00:00"
-  },
-  "48eca37e7f13": {
-    "id": "48eca37e7f13",
-    "title_en": "Waymo Gets Scientific: “Not All Miles Are Equal”",
-    "title_zh": "Waymo科学化：“并非所有里程都相等”",
-    "url": "https://cleantechnica.com/2026/07/08/waymo-gets-scientific-not-all-miles-are-equal/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-08T15:53:14+00:00"
   }
 }
