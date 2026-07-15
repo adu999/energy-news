@@ -1,4 +1,94 @@
 {
+  "9b79d8ad996e": {
+    "id": "9b79d8ad996e",
+    "title_en": "25% of EU Power Came from Solar for the First Time in June",
+    "title_zh": "6月份，欧盟25%的电力首次来自太阳能",
+    "url": "https://cleantechnica.com/2026/07/14/25-of-eu-power-came-from-solar-for-the-first-time-in-june/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-15T02:21:57+00:00"
+  },
+  "97f8545dc88d": {
+    "id": "97f8545dc88d",
+    "title_en": "Fastest Renewable Energy Growth Ever",
+    "title_zh": "有史以来最快的可再生能源增长",
+    "url": "https://cleantechnica.com/2026/07/14/fastest-renewable-energy-growth-ever/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-15T01:33:57+00:00"
+  },
+  "ca8cf805cbde": {
+    "id": "ca8cf805cbde",
+    "title_en": "Cypress Creek & Google Break Ground on America’s Largest Solar Project",
+    "title_zh": "Cypress Creek和谷歌在美国最大的太阳能项目上破土动工",
+    "url": "https://cleantechnica.com/2026/07/14/cypress-creek-google-break-ground-on-americas-largest-solar-project/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-15T01:23:18+00:00"
+  },
+  "1b61a70ed4de": {
+    "id": "1b61a70ed4de",
+    "title_en": "How EU’s Tariffs on EVs Produced in China Affected Different Brands",
+    "title_zh": "欧盟对中国生产的电动汽车征收关税如何影响不同品牌",
+    "url": "https://cleantechnica.com/2026/07/14/how-eus-tariffs-on-evs-produced-in-china-affected-different-brands/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-15T01:13:20+00:00"
+  },
+  "368e17e37e09": {
+    "id": "368e17e37e09",
+    "title_en": "The 10 Top Battery Integrators in the World",
+    "title_zh": "全球十大电池集成商",
+    "url": "https://cleantechnica.com/2026/07/14/the-10-top-battery-integrators-in-the-world/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-15T00:20:09+00:00"
+  },
+  "a4e260e0b3e8": {
+    "id": "a4e260e0b3e8",
+    "title_en": "The Next Oil Rally May Depend On China, Not The Middle East",
+    "title_zh": "下一次油价上涨可能取决于中国，而不是中东",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-Next-Oil-Rally-May-Depend-On-China-Not-The-Middle-East.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-15T00:00:00+00:00"
+  },
+  "f347a9fa1f9c": {
+    "id": "f347a9fa1f9c",
+    "title_en": "Lawsuit Seeks to Protect America’s Wildlife From Trump Administration",
+    "title_zh": "诉讼寻求保护美国野生动物免受特朗普政府的侵害",
+    "url": "https://cleantechnica.com/2026/07/14/lawsuit-seeks-to-protect-americas-wildlife-from-trump-administration/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-14T23:42:54+00:00"
+  },
+  "9730abaaaa3a": {
+    "id": "9730abaaaa3a",
+    "title_en": "Elon Musk quietly buys a $1 billion gas turbine company to power Grok",
+    "title_zh": "埃隆·马斯克悄悄收购了一家价值10亿美元的燃气轮机公司，为Grok提供动力",
+    "url": "https://electrek.co/2026/07/14/musk-buys-gas-turbine-company-apr-energy-grok/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-14T23:32:50+00:00"
+  },
+  "b2a69c6e0274": {
+    "id": "b2a69c6e0274",
+    "title_en": "Bangladesh's Nuclear Power Play Is a Test for Emerging Economies",
+    "title_zh": "孟加拉国的核电游戏是对新兴经济体的考验",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-Nuclear-Power-Play-Is-a-Test-for-Emerging-Economies.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T23:00:00+00:00"
+  },
+  "41d0cd9233b4": {
+    "id": "41d0cd9233b4",
+    "title_en": "Canada Ties New West Coast Pipeline to Oil Sands Expansion",
+    "title_zh": "加拿大将新的西海岸管道与油砂扩建联系起来",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Canada-Ties-New-West-Coast-Pipeline-to-Oil-Sands-Expansion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-14T22:00:00+00:00"
+  },
   "6dfa65e39a16": {
     "id": "6dfa65e39a16",
     "title_en": "BYD’s new Qin Max EV with Flash Charging spotted for the first time",
@@ -4408,95 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-08T13:19:59+00:00"
-  },
-  "06ba4abdcc90": {
-    "id": "06ba4abdcc90",
-    "title_en": "Tesla launches ‘Tesla Home’ with Opticaster AI to cut power bills",
-    "title_zh": "特斯拉推出带有Opticaster AI的“特斯拉之家”以降低电费",
-    "url": "https://electrek.co/2026/07/08/tesla-home-opticaster-ai-energy-platform/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-08T13:19:13+00:00"
-  },
-  "e4946f7838b3": {
-    "id": "e4946f7838b3",
-    "title_en": "Enphase debuts smart thermostat displaying home solar production",
-    "title_zh": "Enphase推出显示家庭太阳能生产的智能恒温器",
-    "url": "https://www.solarpowerworldonline.com/2026/07/enphase-debuts-smart-thermostat-displaying-home-solar-production/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T13:16:56+00:00"
-  },
-  "19dba750f882": {
-    "id": "19dba750f882",
-    "title_en": "Aggreko shifts Los Angeles service center to 100% on-site solar",
-    "title_zh": "亚力克将洛杉矶服务中心改为100%现场太阳能",
-    "url": "https://www.solarpowerworldonline.com/2026/07/aggreko-shifts-los-angeles-service-center-to-100-on-site-solar/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T13:11:15+00:00"
-  },
-  "30d7e79939a8": {
-    "id": "30d7e79939a8",
-    "title_en": "UNIGRID unveils 9.25-kWh sodium-ion battery for residential applications",
-    "title_zh": "UNIGRID推出9.25-kWh家用钠离子电池",
-    "url": "https://www.solarpowerworldonline.com/2026/07/unigrid-unveils-9-25-kwh-sodium-ion-battery-for-residential-applications/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T13:01:52+00:00"
-  },
-  "ecc4c82fc950": {
-    "id": "ecc4c82fc950",
-    "title_en": "Vitol Eyes Venezuela Expansion as Oil Industry Returns",
-    "title_zh": "随着石油工业的复苏，维多公司着眼于委内瑞拉的扩张",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-Eyes-Venezuela-Expansion-as-Oil-Industry-Returns.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-08T13:00:00+00:00"
-  },
-  "da2b6ab2f81c": {
-    "id": "da2b6ab2f81c",
-    "title_en": "Honda-LG ES begin ESS cell production at retooled Ohio EV cell facility",
-    "title_zh": "本田LG ES在重组后的俄亥俄州电动汽车工厂开始生产ESS电池",
-    "url": "https://www.energy-storage.news/honda-lg-es-begin-ess-cell-production-at-retooled-ohio-ev-cell-facility/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-08T12:58:02+00:00"
-  },
-  "b728d6dedfe8": {
-    "id": "b728d6dedfe8",
-    "title_en": "US wholesale power prices to decline 8% this summer: EIA",
-    "title_zh": "美国能源信息署预测，今年夏天美国批发电价将下跌8%",
-    "url": "https://www.utilitydive.com/news/us-wholesale-power-prices-decline-summer-eia/824671/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-08T12:57:51+00:00"
-  },
-  "3ea42a21614c": {
-    "id": "3ea42a21614c",
-    "title_en": "One-third of India’s new renewable energy capacity faces curtailment",
-    "title_zh": "印度三分之一的新可再生能源产能面临削减",
-    "url": "https://www.pv-magazine.com/2026/07/08/one-third-of-indias-new-renewable-energy-capacity-faces-curtailment-due-to-grid-constraints/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T12:30:50+00:00"
-  },
-  "88f90e22fb6e": {
-    "id": "88f90e22fb6e",
-    "title_en": "Algeria’s path to 15 GW of solar",
-    "title_zh": "阿尔及利亚通往15吉瓦太阳能的道路",
-    "url": "https://www.pv-magazine.com/2026/07/08/algerias-path-to-15-gw-of-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T12:10:45+00:00"
-  },
-  "c8442c42c733": {
-    "id": "c8442c42c733",
-    "title_en": "EU’s solar and wind growing ‘far too slowly’ to meet 2030 target – report",
-    "title_zh": "欧盟的太阳能和风能增长“太慢”，无法实现2030年的目标——报告",
-    "url": "https://www.pv-tech.org/eu-solar-wind-growing-too-slowly-2030-target-report-ecno/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-08T12:03:51+00:00"
   }
 }
