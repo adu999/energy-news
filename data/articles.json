@@ -1,4 +1,67 @@
 {
+  "4420e84ff300": {
+    "id": "4420e84ff300",
+    "title_en": "Zero-E Australia secures 5.3.4A approval for 145MWac solar-plus-storage site",
+    "title_zh": "Zero-E Australia获得145MWac太阳能+储能电站5.3.4A批准",
+    "url": "https://www.pv-tech.org/zero-e-australia-secures-5-3-4a-approval-for-145mwac-solar-plus-storage-site/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T05:02:04+00:00"
+  },
+  "14fbb16cf8f3": {
+    "id": "14fbb16cf8f3",
+    "title_en": "Harmony Energy energises New Zealand’s largest solar PV plant",
+    "title_zh": "Harmony Energy为新西兰最大的太阳能光伏电站供电",
+    "url": "https://www.pv-tech.org/harmony-energy-energises-new-zealands-largest-solar-pv-plant/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T05:00:17+00:00"
+  },
+  "ee71b1cfcc67": {
+    "id": "ee71b1cfcc67",
+    "title_en": "Australia’s New South Wales grants planning consent for 3.6GWh pumped hydro project at former coal mine",
+    "title_zh": "澳大利亚新南威尔士州批准前煤矿3.6GWh抽水蓄能项目的规划许可",
+    "url": "https://www.energy-storage.news/australias-new-south-wales-grants-planning-consent-for-3-6gwh-pumped-hydro-project-at-former-coal-mine/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-16T04:57:30+00:00"
+  },
+  "e16f480af86f": {
+    "id": "e16f480af86f",
+    "title_en": "Australia to legally require large data centres to become net-generators of renewable energy",
+    "title_zh": "澳大利亚将依法要求大型数据中心成为可再生能源的净发电机",
+    "url": "https://www.pv-tech.org/australia-to-legally-require-large-data-centres-to-become-net-generators-of-renewable-energy/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T04:55:54+00:00"
+  },
+  "54f7cab779a6": {
+    "id": "54f7cab779a6",
+    "title_en": "Australia’s Transgrid opens pathway for 900MW of grid-forming battery storage as synchronous condenser costs surge 38%",
+    "title_zh": "澳大利亚Transgrid为900MW并网电池储能开辟了道路，因为同步电容器成本飙升38%",
+    "url": "https://www.energy-storage.news/australias-transgrid-opens-pathway-for-900mw-of-grid-forming-battery-storage-as-synchronous-condenser-costs-surge-38/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-16T04:52:38+00:00"
+  },
+  "79cf6e4dd145": {
+    "id": "79cf6e4dd145",
+    "title_en": "The swiftest route to scale",
+    "title_zh": "扩大规模的最快途径",
+    "url": "https://www.pv-magazine.com/2026/07/16/the-swiftest-route-to-scale/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T04:00:00+00:00"
+  },
+  "8ac1aebf71f1": {
+    "id": "8ac1aebf71f1",
+    "title_en": "This Graph Shows Why Europe, India, & China Should Adopt Cleantech ASAP",
+    "title_zh": "此图显示了为什么欧洲、印度和中国应该尽快采用清洁技术",
+    "url": "https://cleantechnica.com/2026/07/15/this-graph-shows-why-europe-india-china-should-adopt-cleantech-asap/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-16T02:37:35+00:00"
+  },
   "8df0fac85b8c": {
     "id": "8df0fac85b8c",
     "title_en": "Zayed Sustainability Prize Closes 2027 Submissions with Strong Global Participation",
@@ -4435,68 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-09T14:46:30+00:00"
-  },
-  "fee542d0d2f7": {
-    "id": "fee542d0d2f7",
-    "title_en": "BP Weighs North Sea Exit Under New CEO",
-    "title_zh": "英国石油公司在新任首席执行官的领导下考虑退出北海",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Weighs-North-Sea-Exit-as-New-CEO-Tightens-Capital-Discipli.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-09T14:30:00+00:00"
-  },
-  "fa1e8c961ae0": {
-    "id": "fa1e8c961ae0",
-    "title_en": "Republicans & Democrats in Congress Unite in Effort to Ban Chinese Electric Vehicles",
-    "title_zh": "国会中的共和党人和民主党人联合起来禁止中国电动汽车",
-    "url": "https://cleantechnica.com/2026/07/09/republicans-democrats-in-congress-unite-in-effort-to-ban-chinese-electric-vehicles/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-09T14:06:12+00:00"
-  },
-  "989fa78efa1e": {
-    "id": "989fa78efa1e",
-    "title_en": "Trek targets the fat tire e-bike boom with its new throttle-enabled Borrego+",
-    "title_zh": "Trek凭借其新的油门Borrego瞄准了胖轮胎电动自行车热潮+",
-    "url": "https://electrek.co/2026/07/09/trek-targets-the-fat-tire-e-bike-boom-with-its-new-throttle-enabled-borrego/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-09T14:00:00+00:00"
-  },
-  "3b8156456e7f": {
-    "id": "3b8156456e7f",
-    "title_en": "High Oil Prices Are Fueling a New Heavy Crude Rush in Canada",
-    "title_zh": "高油价正在推动加拿大新一轮的重质原油热潮",
-    "url": "https://oilprice.com/Energy/Crude-Oil/High-Oil-Prices-Are-Fueling-a-New-Heavy-Crude-Rush-in-Canada.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-09T14:00:00+00:00"
-  },
-  "7c1067e6255b": {
-    "id": "7c1067e6255b",
-    "title_en": "AlphaESS presents 313 kWh storage solution for C&I applications",
-    "title_zh": "AlphaESS为C&I应用提供313千瓦时的储能解决方案",
-    "url": "https://www.pv-magazine.com/2026/07/09/alphaess-presents-313-kwh-storage-solution-for-ci-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-09T13:42:14+00:00"
-  },
-  "22f12f6d0fc0": {
-    "id": "22f12f6d0fc0",
-    "title_en": "Eaton is preferred smart breaker supplier for FranklinWH",
-    "title_zh": "伊顿是FranklinWH首选的智能断路器供应商",
-    "url": "https://www.solarpowerworldonline.com/2026/07/eaton-is-preferred-smart-breaker-supplier-for-franklinwh/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-09T13:38:48+00:00"
-  },
-  "e3c0501b3af9": {
-    "id": "e3c0501b3af9",
-    "title_en": "July polysilicon market weakens further but decline slows",
-    "title_zh": "7月多晶硅市场进一步走弱，但跌幅放缓",
-    "url": "https://www.pv-tech.org/polysilicon-prices-july-2026-decline-slower-rate/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-09T13:31:37+00:00"
   }
 }
