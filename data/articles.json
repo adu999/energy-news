@@ -1,4 +1,67 @@
 {
+  "a67ef6a65f1c": {
+    "id": "a67ef6a65f1c",
+    "title_en": "Malaysia unveils sixth large-scale solar tender",
+    "title_zh": "马来西亚公布第六次大规模太阳能招标",
+    "url": "https://www.pv-magazine.com/2026/07/16/malaysia-unveils-sixth-large-scale-solar-tender/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T08:00:27+00:00"
+  },
+  "c2f69e1206f2": {
+    "id": "c2f69e1206f2",
+    "title_en": "VSL PowerHive launches LFP batteries for residential, small commercial applications",
+    "title_zh": "VSL PowerHive为住宅和小型商业应用推出LFP电池",
+    "url": "https://www.pv-magazine.com/2026/07/16/vsl-powerhive-launches-10-kwh-and-15-kwh-residential-small-commercial-energy-storage-systems/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T07:51:26+00:00"
+  },
+  "63718d57d40a": {
+    "id": "63718d57d40a",
+    "title_en": "Hoymiles introduces first UL 3700-compliant plug-in microinverter to U.S. market",
+    "title_zh": "Hoymiles向美国市场推出首款符合UL 3700标准的插入式微型逆变器",
+    "url": "https://www.pv-magazine.com/2026/07/16/hoymiles-introduces-first-ul-3700-compliant-plug-in-microinverter-to-u-s-market/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-16T07:49:27+00:00"
+  },
+  "790d93115cb8": {
+    "id": "790d93115cb8",
+    "title_en": "IEA Warns World Has Just Weeks to Avoid Hormuz Economic Shock",
+    "title_zh": "国际能源署警告世界只有几周时间避免霍尔木兹经济冲击",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-World-Has-Just-Weeks-to-Avoid-Hormuz-Economic-Shock.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-16T07:30:00+00:00"
+  },
+  "e94d733b34c4": {
+    "id": "e94d733b34c4",
+    "title_en": "New Jersey law will let data centers pay for home energy upgrades",
+    "title_zh": "新泽西州法律将允许数据中心为家庭能源升级付费",
+    "url": "https://www.canarymedia.com/articles/data-centers/new-jersey-data-centers-energy-upgrades",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-16T07:30:00+00:00"
+  },
+  "8125b3ecc443": {
+    "id": "8125b3ecc443",
+    "title_en": "Massachusetts lawmakers try new way to kill ‘zombie’ wood power plant",
+    "title_zh": "马萨诸塞州立法者尝试杀死“僵尸”火力发电厂的新方法",
+    "url": "https://www.canarymedia.com/articles/energy-equity/massachusetts-zombie-wood-power-plant",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-16T07:30:00+00:00"
+  },
+  "3e03c3cf863c": {
+    "id": "3e03c3cf863c",
+    "title_en": "U.S. Strikes Iran-Linked Tanker Near Kharg Island",
+    "title_zh": "美国在哈格岛附近袭击与伊朗有联系的油轮",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Strikes-Iran-Linked-Tanker-Near-Kharg-Island.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-16T05:48:03+00:00"
+  },
   "4420e84ff300": {
     "id": "4420e84ff300",
     "title_en": "Zero-E Australia secures 5.3.4A approval for 145MWac solar-plus-storage site",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-09T15:30:00+00:00"
-  },
-  "4b44cceddb65": {
-    "id": "4b44cceddb65",
-    "title_en": "Bosch’s Real Hydrogen Mistake Was Strategic, Not Financial",
-    "title_zh": "博世真正的氢能错误是战略上的，而不是财务上的",
-    "url": "https://cleantechnica.com/2026/07/09/bosch-hydrogen-mistake-strategic-not-financial/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-09T15:28:41+00:00"
-  },
-  "b576eff2b765": {
-    "id": "b576eff2b765",
-    "title_en": "China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism",
-    "title_zh": "中国简报2026年7月9日：广西洪水|“美丽中国”计划|中欧新机制",
-    "url": "https://www.carbonbrief.org/china-briefing-9-july-2026-guangxi-floods-beautiful-china-plan-new-eu-china-mechanism/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-09T15:01:34+00:00"
-  },
-  "cf70aa6b9884": {
-    "id": "cf70aa6b9884",
-    "title_en": "Shippers Cool on Green Fuels as Costs Stay Too High",
-    "title_zh": "由于成本居高不下，托运人对绿色燃料的态度降温",
-    "url": "https://oilprice.com/Energy/Energy-General/Shippers-Cool-on-Green-Fuels-as-Costs-Stay-Too-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-09T15:00:00+00:00"
-  },
-  "ec5fdf10d7f4": {
-    "id": "ec5fdf10d7f4",
-    "title_en": "Duke reduces rate hike request, still faces regulator pushback",
-    "title_zh": "杜克降低加息要求，仍面临监管机构的抵制",
-    "url": "https://www.utilitydive.com/news/ncuc-questions-dukes-numbers-in-rate-case-hearing/824834/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-09T14:59:49+00:00"
-  },
-  "8d48a764a906": {
-    "id": "8d48a764a906",
-    "title_en": "Forget the Fiat Golf Cart, VinFast City Car Costs $7,150 and Has Twice the Range!",
-    "title_zh": "忘记菲亚特高尔夫球车吧，VinFast City汽车售价7150美元，续航里程是它的两倍！",
-    "url": "https://cleantechnica.com/2026/07/09/forget-the-fiat-golf-cart-vinfast-city-car-costs-7150-and-has-twice-the-range/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-09T14:52:01+00:00"
-  },
-  "bd389e00fd7c": {
-    "id": "bd389e00fd7c",
-    "title_en": "PJM status quo ‘untenable’: FERC Commissioner LaCerte",
-    "title_zh": "PJM现状“站不住脚”：联邦能源管理委员会委员LaCerte",
-    "url": "https://www.utilitydive.com/news/pjm-interconnection-stakeholders-ferc-lacerte/824832/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-09T14:51:31+00:00"
-  },
-  "baaaaffe32b1": {
-    "id": "baaaaffe32b1",
-    "title_en": "BYD reveals prices for its new 1,500+ luxury EV sports car start at nearly $200K [Images]",
-    "title_zh": "比亚迪公布其新款1500+豪华电动跑车起价近20万美元[图片]",
-    "url": "https://electrek.co/2026/07/09/byd-reveals-prices-luxury-ev-sports-car-start-at-nearly-200k/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-09T14:46:30+00:00"
   }
 }
