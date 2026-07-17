@@ -1,4 +1,103 @@
 {
+  "849a2da4f505": {
+    "id": "849a2da4f505",
+    "title_en": "BYD unveils its latest luxury EV with sleek fastback styling and 570 miles of range",
+    "title_zh": "比亚迪推出了其最新的豪华电动汽车，具有时尚的快背造型和570英里的续航里程",
+    "url": "https://electrek.co/2026/07/17/byd-unveils-new-luxury-ev-1200-hp-570-miles-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-17T16:03:45+00:00"
+  },
+  "848c4ec2dcbd": {
+    "id": "848c4ec2dcbd",
+    "title_en": "Trump-Backed Trade Corridor Moves Closer to Reality in Armenia",
+    "title_zh": "特朗普支持的贸易走廊在亚美尼亚更接近现实",
+    "url": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Moves-Closer-to-Reality-in-Armenia.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-17T15:00:00+00:00"
+  },
+  "5f47d3a30a9a": {
+    "id": "5f47d3a30a9a",
+    "title_en": "AI data center growth could force US utilities to rethink generation plans, BofA says",
+    "title_zh": "美国银行表示，人工智能数据中心的增长可能会迫使美国公用事业公司重新考虑发电计划",
+    "url": "https://www.utilitydive.com/news/ai-data-center-growth-utilities-generation-plans/825541/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-17T14:45:39+00:00"
+  },
+  "5c9202cf6d44": {
+    "id": "5c9202cf6d44",
+    "title_en": "EU Takes Half-hearted Step Towards Taxing International Flights",
+    "title_zh": "欧盟半心半意地对国际航班征税",
+    "url": "https://cleantechnica.com/2026/07/17/eu-takes-half-hearted-step-towards-taxing-international-flights/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T14:36:54+00:00"
+  },
+  "5f842871068b": {
+    "id": "5f842871068b",
+    "title_en": "The summer solar surge is here for many. The challenge now is not scale, but flexibility",
+    "title_zh": "夏季的太阳潮对许多人来说已经到来。现在的挑战不是规模，而是灵活性",
+    "url": "https://www.pv-tech.org/summer-solar-surge-here-for-many-challenge-scale-flexibility/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-17T14:36:04+00:00"
+  },
+  "29b3635dd163": {
+    "id": "29b3635dd163",
+    "title_en": "The Grid Needs Storage, Not Every Storage Idea",
+    "title_zh": "网格需要存储，而不是每个存储想法",
+    "url": "https://cleantechnica.com/2026/07/17/grid-storage-2100-batteries-pumped-hydro/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T14:28:28+00:00"
+  },
+  "cbbf5051e0c2": {
+    "id": "cbbf5051e0c2",
+    "title_en": "Qcells secures ‘first’ UL, IEC certifications for perovskite tandem tech",
+    "title_zh": "Qcells获得钙钛矿串联技术的“首个”UL、IEC认证",
+    "url": "https://www.pv-tech.org/qcells-secures-first-ul-iec-certifications-for-perovskite-tandem-tech/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-17T14:19:37+00:00"
+  },
+  "31b71fbfcdb5": {
+    "id": "31b71fbfcdb5",
+    "title_en": "How getting a Garmin watch changed my e-biking (and my fitness lifestyle)",
+    "title_zh": "购买Garmin手表如何改变我的电子自行车运动（以及我的健身生活方式）",
+    "url": "https://electrek.co/2026/07/17/how-getting-a-garmin-watch-changed-my-e-biking-and-my-fitness-lifestyle/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-17T14:17:07+00:00"
+  },
+  "522b82ba49a2": {
+    "id": "522b82ba49a2",
+    "title_en": "Volkswagen’s new ID. Polo EV secured 25,000 orders in weeks — Now, it’s even cheaper",
+    "title_zh": "大众汽车的新款ID。Polo EV在几周内获得了25000份订单——现在，它甚至更便宜了",
+    "url": "https://electrek.co/2026/07/17/volkswagen-id-polo-ev-orders-hit-25000-in-weeks-cheaper-version-launches/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-17T14:16:02+00:00"
+  },
+  "7bee249caff7": {
+    "id": "7bee249caff7",
+    "title_en": "Whoa, Honda to Stop Selling Prologue EV … What the Heck?",
+    "title_zh": "哇，本田将停止销售Prologue EV……这到底是怎么回事？",
+    "url": "https://cleantechnica.com/2026/07/17/whoa-honda-to-stop-selling-prologue-ev-what-the-heck/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T14:09:03+00:00"
+  },
+  "cebd23b605ac": {
+    "id": "cebd23b605ac",
+    "title_en": "U.S. Expands Iran Strikes as Tehran Retaliates Across the Gulf",
+    "title_zh": "随着德黑兰在海湾地区进行报复，美国扩大了对伊朗的打击",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/US-Expands-Iran-Strikes-as-Tehran-Retaliates-Across-the-Gulf.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-17T14:00:00+00:00"
+  },
   "c0b58dfc1057": {
     "id": "c0b58dfc1057",
     "title_en": "Tesla launches in Latvia and Uruguay, expanding on two continents",
@@ -115,6 +214,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-17T12:45:29+00:00"
+  },
+  "532d2b9a0c81": {
+    "id": "532d2b9a0c81",
+    "title_en": "PJM capacity auction results compound ‘alarm bells’: FERC Chairman Swett",
+    "title_zh": "联邦能源管理委员会主席斯维特：PJM产能拍卖结果敲响了警钟",
+    "url": "https://www.utilitydive.com/news/pjm-capacity-auction-governance-ferc-swett/825508/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-17T12:44:15+00:00"
   },
   "49136095c2b5": {
     "id": "49136095c2b5",
@@ -233,6 +341,15 @@
     "category": "油气",
     "pub_ts": "2026-07-17T11:30:00+00:00"
   },
+  "31ee19b81191": {
+    "id": "31ee19b81191",
+    "title_en": "Scottish government approves 2GW offshore wind farm",
+    "title_zh": "苏格兰政府批准2GW海上风电场",
+    "url": "https://www.windpowermonthly.com/article/1964938/scottish-government-approves-2gw-offshore-wind-farm",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-17T11:22:42+00:00"
+  },
   "d6e2feb8ea98": {
     "id": "d6e2feb8ea98",
     "title_en": "Q&A: Europe’s May and June heatwave deaths – and how they were counted",
@@ -277,6 +394,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-17T10:30:00+00:00"
+  },
+  "f7bef9195f69": {
+    "id": "f7bef9195f69",
+    "title_en": "BP veteran joins Energy Institute as new CEO",
+    "title_zh": "英国石油公司资深人士加入能源研究所担任新任首席执行官",
+    "url": "https://www.windpowermonthly.com/article/1964925/bp-veteran-joins-energy-institute-new-ceo",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-17T10:25:52+00:00"
   },
   "08109850aade": {
     "id": "08109850aade",
@@ -4372,131 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-13T04:55:00+00:00"
-  },
-  "3a34dad45a95": {
-    "id": "3a34dad45a95",
-    "title_en": "Iran Strikes 5 Gulf Countries as Regional Escalation Continues",
-    "title_zh": "伊朗袭击5个海湾国家，地区局势持续升级",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Strikes-5-Gulf-Countries-as-Regional-Escalation-Continues.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T04:35:55+00:00"
-  },
-  "14c29927ee09": {
-    "id": "14c29927ee09",
-    "title_en": "Battery storage investment at stake as Australia’s AEMC consults on minimum system load market rules",
-    "title_zh": "澳大利亚AEMC就最低系统负载市场规则进行咨询，电池存储投资岌岌可危",
-    "url": "https://www.energy-storage.news/battery-storage-investment-at-stake-as-australias-aemc-consults-on-minimum-system-load-market-rules/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-13T04:12:10+00:00"
-  },
-  "7198fe21ace9": {
-    "id": "7198fe21ace9",
-    "title_en": "Spain targets wafer production",
-    "title_zh": "西班牙瞄准晶圆生产",
-    "url": "https://www.pv-magazine.com/2026/07/13/spain-targets-wafer-production/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T04:00:00+00:00"
-  },
-  "95b3b2334172": {
-    "id": "95b3b2334172",
-    "title_en": "Mercedes AMG CLA 45 arrives in Goodwood with 680 hp and three axial-flux motors",
-    "title_zh": "梅赛德斯-AMG CLA 45抵达古德伍德，搭载680马力和三台轴向磁通电机",
-    "url": "https://electrek.co/2026/07/12/mercedes-amg-cla-45-arrives-in-goodwood-with-680-hp-and-three-axial-flux-motors/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-13T00:36:38+00:00"
-  },
-  "959faa75a0ed": {
-    "id": "959faa75a0ed",
-    "title_en": "Volvo Electric semi trucks charge up American Truck Simulator",
-    "title_zh": "沃尔沃电动半挂车为美国卡车模拟器充电",
-    "url": "https://electrek.co/2026/07/12/volvo-electric-semi-trucks-charge-up-american-truck-simulator/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-12T23:29:54+00:00"
-  },
-  "41c86d4f39cd": {
-    "id": "41c86d4f39cd",
-    "title_en": "Big Oil’s War-Related Profits Anger Governments",
-    "title_zh": "大型石油公司与战争有关的利润激怒了政府",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-War-Related-Profits-Anger-Governments.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-12T23:00:00+00:00"
-  },
-  "858d9df09aab": {
-    "id": "858d9df09aab",
-    "title_en": "It Was The Best Of Times, It Was The Worst Of Times For Electric Car Sales In America",
-    "title_zh": "这是美国电动汽车销售最好的时期，也是最糟糕的时期",
-    "url": "https://cleantechnica.com/2026/07/12/it-was-the-best-of-times-it-was-the-worst-of-times-for-electric-car-sales-in-america/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-12T21:57:22+00:00"
-  },
-  "bd5fba51c813": {
-    "id": "bd5fba51c813",
-    "title_en": "Uruguay’s Offshore Oil Province Could Be Bigger Than Vaca Muerta",
-    "title_zh": "乌拉圭的海洋石油省可能比Vaca Muerta更大",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Uruguays-Offshore-Oil-Province-Could-Be-Bigger-Than-Vaca-Muerta.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-12T21:00:00+00:00"
-  },
-  "667b4dc6df26": {
-    "id": "667b4dc6df26",
-    "title_en": "Tesla’s Profit Per Vehicle Has Been Dropping Significantly",
-    "title_zh": "特斯拉的每辆车利润大幅下降",
-    "url": "https://cleantechnica.com/2026/07/12/teslas-profit-per-vehicle-has-been-dropping-significantly/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-12T19:36:49+00:00"
-  },
-  "5fd7ea2c7e8a": {
-    "id": "5fd7ea2c7e8a",
-    "title_en": "Is the AI Bubble About to Burst?",
-    "title_zh": "人工智能泡沫即将破裂吗？",
-    "url": "https://oilprice.com/Energy/Energy-General/Is-the-AI-Bubble-About-to-Burst.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-12T19:00:00+00:00"
-  },
-  "aa1934966ffb": {
-    "id": "aa1934966ffb",
-    "title_en": "Head of IEA Roasts Europe for “Slow Electrification”",
-    "title_zh": "国际能源署负责人抨击欧洲“缓慢的电气化”",
-    "url": "https://cleantechnica.com/2026/07/12/head-of-iea-roasts-europe-for-slow-electrification/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-12T18:49:16+00:00"
-  },
-  "8ed76a38e617": {
-    "id": "8ed76a38e617",
-    "title_en": "Can Sodium-Ion Batteries Help the U.S. Close the Gap With China?",
-    "title_zh": "钠离子电池能帮助美国缩小与中国的差距吗？",
-    "url": "https://oilprice.com/Energy/Energy-General/Can-Sodium-Ion-Batteries-Help-the-US-Close-the-Gap-With-China.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-12T17:00:00+00:00"
-  },
-  "00773425b6eb": {
-    "id": "00773425b6eb",
-    "title_en": "Britain Bets on Hydropower to Boost Energy Security",
-    "title_zh": "英国投资水电以提高能源安全",
-    "url": "https://oilprice.com/Alternative-Energy/Hydroelectric/Britain-Bets-on-Hydropower-to-Boost-Energy-Security.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-12T15:00:00+00:00"
-  },
-  "407fe6a682a8": {
-    "id": "407fe6a682a8",
-    "title_en": "Hydrogen Injection Can Make Diesel Exhaust Look Cleaner. The Carbon Math Still Fails.",
-    "title_zh": "氢气喷射可以使柴油机废气看起来更清洁。碳数学仍然失败。",
-    "url": "https://cleantechnica.com/2026/07/12/hydrogen-injection-diesel-smoke-not-climate/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-12T14:44:43+00:00"
   }
 }
