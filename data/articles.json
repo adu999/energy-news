@@ -1,4 +1,85 @@
 {
+  "64952b059d18": {
+    "id": "64952b059d18",
+    "title_en": "Construction begins on 31 MW agrivoltaic project in New Zealand",
+    "title_zh": "新西兰31兆瓦农业光伏项目开工",
+    "url": "https://www.pv-magazine.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-17T05:42:05+00:00"
+  },
+  "71f1ee4a4391": {
+    "id": "71f1ee4a4391",
+    "title_en": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
+    "title_zh": "随着伊朗战争升级，油价将出现自4月以来的最大周涨幅",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-17T05:41:26+00:00"
+  },
+  "0a014ddef206": {
+    "id": "0a014ddef206",
+    "title_en": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-module via reactive plasma deposition",
+    "title_zh": "科学家通过反应性等离子体沉积建造了31%效率的无铟串联钙钛矿硅微型模块",
+    "url": "https://www.pv-magazine.com/2026/07/17/research-breakthrough-develops-indium-free-tandem-solar-cell-with-31-efficiency/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-17T05:39:28+00:00"
+  },
+  "96886288a6ec": {
+    "id": "96886288a6ec",
+    "title_en": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
+    "title_zh": "ib vogt在澳大利亚Wagga Wagga特别激活区获得480MWh电池储能基地的批准",
+    "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-17T04:21:49+00:00"
+  },
+  "670c0c49951a": {
+    "id": "670c0c49951a",
+    "title_en": "Port of Newcastle cleared to safely stage grid-scale battery storage systems in New South Wales, Australia",
+    "title_zh": "纽卡斯尔港获准在澳大利亚新南威尔士州安全部署电网规模的电池储能系统",
+    "url": "https://www.energy-storage.news/port-of-newcastle-cleared-to-safely-stage-grid-scale-battery-storage-systems-in-new-south-wales-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-17T04:18:05+00:00"
+  },
+  "b26372334f95": {
+    "id": "b26372334f95",
+    "title_en": "Holistic approach wins for agrivoltaics",
+    "title_zh": "整体方法赢得农业光伏",
+    "url": "https://www.pv-magazine.com/2026/07/17/holistic-approach-wins-for-agrivoltaics/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-17T04:00:00+00:00"
+  },
+  "ecf1ec6c573c": {
+    "id": "ecf1ec6c573c",
+    "title_en": "6 Records Solar & Storage Have Crushed in the First Half of 2026",
+    "title_zh": "2026年上半年太阳能和储能打破6项纪录",
+    "url": "https://cleantechnica.com/2026/07/16/6-records-solar-storage-have-crushed-in-the-first-half-of-2026/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T03:30:38+00:00"
+  },
+  "daffae296da4": {
+    "id": "daffae296da4",
+    "title_en": "China’s Batteries Move Beyond Capacity Scale-up: Utility-Scale Storage Could Have Shifted 23 TWh More Clean Power in 2025",
+    "title_zh": "中国电池超越产能扩张：到2025年，公用事业规模的储能可能会增加23 TWh的清洁电力",
+    "url": "https://cleantechnica.com/2026/07/16/chinas-batteries-move-beyond-capacity-scale-up-utility-scale-storage-could-have-shifted-23-twh-more-clean-power-in-2025/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T03:11:29+00:00"
+  },
+  "0b5f8150a31b": {
+    "id": "0b5f8150a31b",
+    "title_en": "New Partnerships With State of Alaska & University of Alaska Fairbanks Expand on Critical Minerals & Energy Innovation",
+    "title_zh": "与阿拉斯加州和阿拉斯加大学费尔班克斯分校建立新的合作伙伴关系，扩大关键矿产和能源创新",
+    "url": "https://cleantechnica.com/2026/07/16/new-partnerships-with-state-of-alaska-university-of-alaska-fairbanks-expand-on-critical-minerals-energy-innovation/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T02:59:10+00:00"
+  },
   "6e25426df012": {
     "id": "6e25426df012",
     "title_en": "Is A Double-Shock What Will Really Change Auto Purchasing & Oil Use Again?",
@@ -4417,86 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-10T15:50:28+00:00"
-  },
-  "14dbbaab4d3a": {
-    "id": "14dbbaab4d3a",
-    "title_en": "Volkswagen May Discontinue Up To Half Its Current Models",
-    "title_zh": "大众汽车可能会停产多达一半的现有车型",
-    "url": "https://cleantechnica.com/2026/07/10/volkswagen-may-discontinue-up-to-half-its-current-models/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-10T15:46:33+00:00"
-  },
-  "bc3c3e904e88": {
-    "id": "bc3c3e904e88",
-    "title_en": "Interview: COP31 president says electrification is ‘surest way to protect citizens’",
-    "title_zh": "采访：COP31主席表示电气化是“保护公民的最可靠方式”",
-    "url": "https://www.carbonbrief.org/interview-cop31-president-says-electrification-is-surest-way-to-protect-citizens/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-10T15:40:00+00:00"
-  },
-  "5088855c0dd5": {
-    "id": "5088855c0dd5",
-    "title_en": "IEA Chief Urges EU to Drop Arctic Drilling Ban",
-    "title_zh": "国际能源署署长敦促欧盟取消北极钻探禁令",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Chief-Urges-EU-to-Drop-Arctic-Drilling-Ban.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-10T15:30:00+00:00"
-  },
-  "6dd8328245ec": {
-    "id": "6dd8328245ec",
-    "title_en": "DeBriefed 10 July 2026: Deadly Europe heat | EU electrification leak | COP31 president interview",
-    "title_zh": "2026年7月10日简报：致命的欧洲高温|欧盟电气化泄漏| COP31主席访谈",
-    "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-10T15:30:00+00:00"
-  },
-  "c4b5654e2b91": {
-    "id": "c4b5654e2b91",
-    "title_en": "America’s first nuclear plant restart may be near the finish line",
-    "title_zh": "美国第一座核电站重启可能即将结束",
-    "url": "https://www.canarymedia.com/articles/nuclear/americas-first-nuclear-plant-restart",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-10T15:30:00+00:00"
-  },
-  "e059120612d4": {
-    "id": "e059120612d4",
-    "title_en": "Toyota is promising big things for the Lexus LFA EV sports car, but will we ever get to see it?",
-    "title_zh": "丰田承诺为雷克萨斯LFA电动汽车跑车做出重大贡献，但我们还能看到吗？",
-    "url": "https://electrek.co/2026/07/10/toyota-promising-big-things-for-lexus-lfa-ev-sports-car/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-10T15:01:12+00:00"
-  },
-  "019d1164033e": {
-    "id": "019d1164033e",
-    "title_en": "Electric Vehicle Raffle Is Insanely UNDERSOLD. 4,500 Tickets Remain With Less Than 21 Days Before Drawing. Stunning Odds for You. Tickets Benefit Nonprofit.",
-    "title_zh": "电动汽车盗窃案被疯狂地低估了。在提款前不到21天，仍有4500张门票。给你惊人的机会。门票福利非营利组织。",
-    "url": "https://cleantechnica.com/2026/07/10/electric-vehicle-raffle-is-insanely-undersold-4500-tickets-remain-with-less-than-21-days-before-drawing-stunning-odds-for-you-tickets-benefit-nonprofit/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-10T15:00:03+00:00"
-  },
-  "05d192c59da0": {
-    "id": "05d192c59da0",
-    "title_en": "Former FERC officials weigh in on Supreme Court ruling expanding president’s power to fire regulators",
-    "title_zh": "联邦能源管理委员会前官员对最高法院扩大总统解雇监管机构权力的裁决发表意见",
-    "url": "https://www.utilitydive.com/news/former-ferc-officials-supreme-court-slaughter-ruling-expanding-presidential-power-fire-regulators/824842/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-10T14:35:13+00:00"
-  },
-  "ee2ac87e303d": {
-    "id": "ee2ac87e303d",
-    "title_en": "Australia’s 7 best-selling EVs are now all Chinese — even Tesla’s",
-    "title_zh": "澳大利亚最畅销的7款电动汽车现在都是中国人，甚至特斯拉也是如此",
-    "url": "https://electrek.co/2026/07/10/australia-top-7-evs-all-chinese/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-10T14:34:47+00:00"
   }
 }
