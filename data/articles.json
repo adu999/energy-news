@@ -1,9 +1,72 @@
 {
+  "1ed8ea7f339f": {
+    "id": "1ed8ea7f339f",
+    "title_en": "Australia Nails It Again — On Large Data Centers This Time",
+    "title_zh": "澳大利亚再次锁定它——这次是在大型数据中心",
+    "url": "https://cleantechnica.com/2026/07/17/australia-nails-it-again-on-large-data-centers-this-time/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T21:36:03+00:00"
+  },
+  "33a61b28a851": {
+    "id": "33a61b28a851",
+    "title_en": "BMW i3 Touring caught for the first time, and that wagon rear is hard to miss",
+    "title_zh": "宝马i3 Touring首次被抓住，那辆旅行车的后部很难错过",
+    "url": "https://electrek.co/2026/07/17/bmw-i3-touring-caught-first-time-flashing-wagon-rear/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-17T20:46:18+00:00"
+  },
+  "6699c1285b47": {
+    "id": "6699c1285b47",
+    "title_en": "Colombia's New Government Prepares Fossil Fuel Comeback",
+    "title_zh": "哥伦比亚新政府准备恢复化石燃料",
+    "url": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-17T20:00:00+00:00"
+  },
+  "ffb456e4fc53": {
+    "id": "ffb456e4fc53",
+    "title_en": "Brilliant AI Solution to High Solar Soft Costs & Overpricing in the United States",
+    "title_zh": "美国太阳能软成本高和定价过高的人工智能解决方案",
+    "url": "https://cleantechnica.com/2026/07/17/brilliant-ai-solution-to-high-solar-soft-costs-overpricing-in-the-united-states/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T19:47:48+00:00"
+  },
+  "be24200c5c10": {
+    "id": "be24200c5c10",
+    "title_en": "Podcast: TSLA shareholders wake up, Xpeng targets EU, VW goes cheaper, and more",
+    "title_zh": "播客：TSLA股东觉醒，小鹏瞄准欧盟，大众更便宜，等等",
+    "url": "https://electrek.co/2026/07/17/podcast-tsla-shareholders-wake-up-xpeng-targets-eu-vw-goes-cheaper-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-17T19:29:46+00:00"
+  },
+  "f08cfc850eed": {
+    "id": "f08cfc850eed",
+    "title_en": "Getting to Know Your 2026 Tesla",
+    "title_zh": "了解你的2026特斯拉",
+    "url": "https://cleantechnica.com/2026/07/17/getting-to-know-your-2026-tesla/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-17T19:11:54+00:00"
+  },
   "1247b1165d00": {
     "id": "1247b1165d00",
     "title_en": "Clean energy still beats fossil fuels on cost, despite, well, everything",
     "title_zh": "尽管如此，清洁能源在成本上仍然优于化石燃料",
     "url": "https://www.canarymedia.com/articles/clean-energy-still-beats-fossil-fuels-on-cost-despite-well-everything",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-17T19:09:00+00:00"
+  },
+  "55dc41a4a239": {
+    "id": "55dc41a4a239",
+    "title_en": "Clean energy still beats fossil fuels on cost, despite, well, everything",
+    "title_zh": "尽管如此，清洁能源在成本上仍然优于化石燃料",
+    "url": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy",
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-07-17T19:09:00+00:00"
@@ -4435,68 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-13T10:37:05+00:00"
-  },
-  "001ae5eb8e07": {
-    "id": "001ae5eb8e07",
-    "title_en": "Strait of Hormuz Tanker Traffic Falls to Five-Week Low",
-    "title_zh": "霍尔木兹海峡油轮流量降至五周低点",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Tanker-Traffic-Falls-to-Five-Week-Low.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T10:15:00+00:00"
-  },
-  "2bb043cfc9e2": {
-    "id": "2bb043cfc9e2",
-    "title_en": "Vestas plan to move nacelle assembly to Japan wins government backing",
-    "title_zh": "维斯塔斯计划将机舱组件转移到日本赢得政府支持",
-    "url": "https://www.windpowermonthly.com/article/1964384/vestas-plan-move-nacelle-assembly-japan-wins-government-backing",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-13T09:50:18+00:00"
-  },
-  "e3c456130c3b": {
-    "id": "e3c456130c3b",
-    "title_en": "Kanadevia and BEC to collaborate on green hydrogen projects in Oman",
-    "title_zh": "Kanadevi和BEC将在阿曼合作开展绿色氢项目",
-    "url": "https://www.energymonitor.ai/news/kanadevia-bec-collaborate-green-hydrogen/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-13T09:45:00+00:00"
-  },
-  "0281d23742ec": {
-    "id": "0281d23742ec",
-    "title_en": "Mingyang appoints new commercial director for Europe",
-    "title_zh": "明阳任命新的欧洲商务总监",
-    "url": "https://www.windpowermonthly.com/article/1964377/mingyang-appoints-new-commercial-director-europe",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-13T09:33:36+00:00"
-  },
-  "44fdc6b80e1b": {
-    "id": "44fdc6b80e1b",
-    "title_en": "France’s Reden halts solar module production",
-    "title_zh": "法国Reden公司停止生产太阳能组件",
-    "url": "https://www.pv-magazine.com/2026/07/13/frances-reden-halts-solar-module-production/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T09:06:04+00:00"
-  },
-  "8a6e9254f2fd": {
-    "id": "8a6e9254f2fd",
-    "title_en": "Every customer you can’t enroll is a kilowatt you can’t dispatch",
-    "title_zh": "你无法注册的每个客户都是你无法调度的千瓦",
-    "url": "https://www.utilitydive.com/spons/every-customer-you-cant-enroll-is-a-kilowatt-you-cant-dispatch/824174/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-13T09:00:00+00:00"
-  },
-  "9b38b0de367a": {
-    "id": "9b38b0de367a",
-    "title_en": "KEMA Labs: Why quality will define the future of the power sector",
-    "title_zh": "KEMA实验室：为什么质量将决定电力行业的未来",
-    "url": "https://www.utilitydive.com/spons/kema-labs-why-quality-will-define-the-future-of-the-power-sector/824023/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-13T09:00:00+00:00"
   }
 }
