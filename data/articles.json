@@ -1,4 +1,31 @@
 {
+  "449b61d66061": {
+    "id": "449b61d66061",
+    "title_en": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
+    "title_zh": "加拿大推出新管道以减少对美国石油路线的依赖",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-18T19:00:00+00:00"
+  },
+  "0e7aac887b1d": {
+    "id": "0e7aac887b1d",
+    "title_en": "This New Made-In-China Ship Explains Why Offshore Wind Will Crush Trump’s Coal Dreams",
+    "title_zh": "这艘中国制造的新船解释了为什么海上风电将粉碎特朗普的煤炭梦想",
+    "url": "https://cleantechnica.com/2026/07/18/offshore-wind-china-reducing-costs-new-vessels/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T18:52:36+00:00"
+  },
+  "2ab1d580a39c": {
+    "id": "2ab1d580a39c",
+    "title_en": "U.S. Scientists Tap Seawater to Break China's Rare Earth Monopoly",
+    "title_zh": "美国科学家利用海水打破中国稀土垄断",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Scientists-Tap-Seawater-to-Break-Chinas-Rare-Earth-Monopoly.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-18T17:00:00+00:00"
+  },
   "0e872279b9c5": {
     "id": "0e872279b9c5",
     "title_en": "Philippines Logistics Firm Sees Swappable Battery Scooters As The Next Milestone In Last-Mile Deliveries",
@@ -4471,32 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-13T13:43:07+00:00"
-  },
-  "4920c65b8b86": {
-    "id": "4920c65b8b86",
-    "title_en": "Passive mooring system enables floating PV to track water-level changes",
-    "title_zh": "被动系泊系统使浮动PV能够跟踪水位变化",
-    "url": "https://www.pv-magazine.com/2026/07/13/passive-mooring-system-enables-floating-pv-to-track-water-level-changes/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T13:35:05+00:00"
-  },
-  "8953912453fe": {
-    "id": "8953912453fe",
-    "title_en": "BlackRock subsidiary acquiring solar contractor Summit Ridge Energy",
-    "title_zh": "贝莱德子公司收购太阳能承包商Summit Ridge Energy",
-    "url": "https://www.solarpowerworldonline.com/2026/07/blackrock-subsidiary-acquiring-solar-contractor-summit-ridge-energy/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T13:34:37+00:00"
-  },
-  "d90fd0aa1a31": {
-    "id": "d90fd0aa1a31",
-    "title_en": "Masdar Secures $5.1 Billion for World’s Largest Solar-and-Battery Project",
-    "title_zh": "马斯达尔获得51亿美元用于世界上最大的太阳能和电池项目",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Masdar-Secures-51-Billion-for-Worlds-Largest-Solar-and-Battery-Energy-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T13:30:00+00:00"
   }
 }
