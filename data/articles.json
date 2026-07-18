@@ -1,4 +1,31 @@
 {
+  "7549eeb0d908": {
+    "id": "7549eeb0d908",
+    "title_en": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
+    "title_zh": "什么是微电网？它们是如何工作的，为什么它们突然无处不在",
+    "url": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-18T21:00:00+00:00"
+  },
+  "e9206f48f7f4": {
+    "id": "e9206f48f7f4",
+    "title_en": "LiuGong brings electric heavy equipment options to North America [video]",
+    "title_zh": "柳工将电动重型设备选项带到北美[视频]",
+    "url": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-18T20:50:45+00:00"
+  },
+  "9f491adee228": {
+    "id": "9f491adee228",
+    "title_en": "Honda goes all-in on EVs in a multibillion dollar market: commercial lawnmowers",
+    "title_zh": "本田在数十亿美元的市场上全力投入电动汽车：商用割草机",
+    "url": "https://electrek.co/2026/07/18/honda-goes-all-in-on-evs-in-a-multibillion-dollar-market-commercial-lawnmowers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-18T19:56:41+00:00"
+  },
   "449b61d66061": {
     "id": "449b61d66061",
     "title_en": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-13T14:00:00+00:00"
-  },
-  "ccdf655987e2": {
-    "id": "ccdf655987e2",
-    "title_en": "A $5M startup claims rare earth-free electric motor breakthrough",
-    "title_zh": "一家500万美元的初创公司声称无稀土电机取得突破",
-    "url": "https://electrek.co/2026/07/13/vimag-labs-magnet-free-ev-motor-patent/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-13T13:59:20+00:00"
-  },
-  "4bdc546e7672": {
-    "id": "4bdc546e7672",
-    "title_en": "This Electric Car Is Now The UK’s Cheapest Car",
-    "title_zh": "这款电动汽车现在是英国最便宜的汽车",
-    "url": "https://cleantechnica.com/2026/07/13/this-electric-car-is-now-the-uks-cheapest-car/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-13T13:53:00+00:00"
-  },
-  "817b96f1a7f7": {
-    "id": "817b96f1a7f7",
-    "title_en": "PG&E faces $22M penalty for Mosquito Fire under proposed agreement",
-    "title_zh": "根据拟议协议，PG&E面临2200万美元的蚊子火灾罚款",
-    "url": "https://www.utilitydive.com/news/pge-wildfire-california-puc-penalty-mosquito-fire/825041/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-13T13:43:07+00:00"
   }
 }
