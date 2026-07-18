@@ -1,4 +1,31 @@
 {
+  "cd57e0da0f8e": {
+    "id": "cd57e0da0f8e",
+    "title_en": "APsystems introduces plug-in microinverter for U.S. balcony solar",
+    "title_zh": "APsystems为美国阳台太阳能引入插入式微型逆变器",
+    "url": "https://www.pv-magazine.com/2026/07/18/apsystems-introduces-plug-in-microinverter-for-u-s-balcony-and-diy-solar-markets/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-18T09:30:00+00:00"
+  },
+  "afeaa2831222": {
+    "id": "afeaa2831222",
+    "title_en": "How to protect residential batteries from heat waves",
+    "title_zh": "如何保护住宅电池免受热浪的影响",
+    "url": "https://www.pv-magazine.com/2026/07/18/how-to-protect-residential-batteries-from-heat-waves/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-18T09:00:00+00:00"
+  },
+  "26ed7837956f": {
+    "id": "26ed7837956f",
+    "title_en": "‘Inclusion has to move beyond good intentions and symbolic actions’",
+    "title_zh": "“包容必须超越善意和象征性行动”",
+    "url": "https://www.pv-magazine.com/2026/07/18/inclusion-has-to-move-beyond-good-intentions-and-symbolic-actions/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-18T08:00:00+00:00"
+  },
   "c1ce78723923": {
     "id": "c1ce78723923",
     "title_en": "New AI tool brings transparency to the solar buying process",
@@ -4471,32 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-07-13T12:00:36+00:00"
-  },
-  "b40b38fd3857": {
-    "id": "b40b38fd3857",
-    "title_en": "CMBlu Energy advances US manufacturing plans and targets multiple market segments for organic flow battery technology",
-    "title_zh": "CMBlu Energy推进美国制造计划，瞄准有机液流电池技术的多个细分市场",
-    "url": "https://www.energy-storage.news/cmblu-energy-advances-us-manufacturing-plans-and-targets-multiple-market-segments-for-organic-flow-battery-technology/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-13T11:54:33+00:00"
-  },
-  "3ebbfebb6336": {
-    "id": "3ebbfebb6336",
-    "title_en": "Avaada commissions first 3GW TOPCon solar cell production line in Nagpur, India",
-    "title_zh": "Avaada在印度那格浦尔调试了第一条3GW TOPCon太阳能电池生产线",
-    "url": "https://www.pv-tech.org/avaada-commissions-first-3gw-topcon-solar-cell-production-line-in-nagpur-india/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T11:45:50+00:00"
-  },
-  "004c0e59ba87": {
-    "id": "004c0e59ba87",
-    "title_en": "Leaked EU Electrification Action Plan recognises need for 200GW of energy storage by 2030",
-    "title_zh": "泄露的欧盟电气化行动计划承认到2030年需要200GW的储能",
-    "url": "https://www.energy-storage.news/leaked-eu-electrification-action-plan-recognises-need-for-200gw-of-energy-storage-by-2030/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-13T11:43:52+00:00"
   }
 }
