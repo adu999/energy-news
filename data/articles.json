@@ -1,4 +1,22 @@
 {
+  "c1ce78723923": {
+    "id": "c1ce78723923",
+    "title_en": "New AI tool brings transparency to the solar buying process",
+    "title_zh": "新的人工智能工具为太阳能购买过程带来了透明度",
+    "url": "https://www.pv-magazine.com/2026/07/18/an-ex-nrel-scientist-is-using-ai-to-bypass-high-pressure-solar-sales-reps/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-18T07:00:00+00:00"
+  },
+  "b24db56dd405": {
+    "id": "b24db56dd405",
+    "title_en": "From import dependence to global competitiveness: India’s solar manufacturing story",
+    "title_zh": "从进口依赖到全球竞争力：印度太阳能制造业的故事",
+    "url": "https://www.pv-magazine.com/2026/07/18/from-import-dependence-to-global-competitiveness-indias-solar-manufacturing-story/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-18T06:00:00+00:00"
+  },
   "2cc151e289e6": {
     "id": "2cc151e289e6",
     "title_en": "GenCost at Eight: how a decade of disruption reshaped the future of Australia’s energy system",
@@ -4480,23 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-13T11:43:52+00:00"
-  },
-  "ea9ae4b85644": {
-    "id": "ea9ae4b85644",
-    "title_en": "How Dahua is expanding into renewable energy with AI-powered solutions",
-    "title_zh": "大华如何通过人工智能解决方案扩展到可再生能源领域",
-    "url": "https://www.energy-storage.news/how-dahua-is-expanding-into-renewable-energy-with-ai-powered-solutions/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-13T11:32:53+00:00"
-  },
-  "2074f15d2aa2": {
-    "id": "2074f15d2aa2",
-    "title_en": "Nigeria’s Oil Production Hits Six-Year High as Middle East Risks Return",
-    "title_zh": "尼日利亚石油产量创六年新高，中东风险回归",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigerias-Oil-Production-Hits-Six-Year-High-as-Middle-East-Risks-Return.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T11:30:00+00:00"
   }
 }
