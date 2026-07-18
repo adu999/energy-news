@@ -1,4 +1,49 @@
 {
+  "4833c7b18b2c": {
+    "id": "4833c7b18b2c",
+    "title_en": "Pass Permitting Reform. Unleash American Solar and Storage.",
+    "title_zh": "通过许可改革。释放美国太阳能和储能。",
+    "url": "https://cleantechnica.com/2026/07/17/pass-permitting-reform-unleash-american-solar-and-storage/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T02:22:06+00:00"
+  },
+  "cfa0040900ed": {
+    "id": "cfa0040900ed",
+    "title_en": "East Coast States Will Sue Trump for Illegal Payoffs",
+    "title_zh": "东海岸各州将起诉特朗普非法支付",
+    "url": "https://cleantechnica.com/2026/07/17/east-coast-states-will-sue-trump-for-illegal-payoffs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T01:44:39+00:00"
+  },
+  "dddb47f72e7c": {
+    "id": "dddb47f72e7c",
+    "title_en": "Sierra Club North Carolina Reacts: NextEra & Dominion File Application to Merge, Form Country’s Largest Utility",
+    "title_zh": "北卡罗来纳州塞拉俱乐部回应：NextEra和Dominion申请合并，成立该国最大的公用事业公司",
+    "url": "https://cleantechnica.com/2026/07/17/sierra-club-north-carolina-reacts-nextera-dominion-file-application-to-merge-form-countrys-largest-utility/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T01:16:24+00:00"
+  },
+  "3c7ee1c6b0f9": {
+    "id": "3c7ee1c6b0f9",
+    "title_en": "HERO’s Mission: Building a Blueprint for Wave Energy Components",
+    "title_zh": "HERO的使命：为波浪能组件构建蓝图",
+    "url": "https://cleantechnica.com/2026/07/17/heros-mission-building-a-blueprint-for-wave-energy-components/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T01:11:18+00:00"
+  },
+  "d6d79de5f468": {
+    "id": "d6d79de5f468",
+    "title_en": "Bangladesh's $12.65 Billion Nuclear Bet Faces Its Biggest Test Yet",
+    "title_zh": "孟加拉国126.5亿美元的核赌注面临迄今为止最大的考验",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-1265-Billion-Nuclear-Bet-Faces-Its-Biggest-Test-Yet.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-17T23:00:00+00:00"
+  },
   "1ed8ea7f339f": {
     "id": "1ed8ea7f339f",
     "title_en": "Australia Nails It Again — On Large Data Centers This Time",
@@ -611,6 +656,15 @@
     "category": "太阳能",
     "pub_ts": "2026-07-17T10:19:57+00:00"
   },
+  "a7e3cd0451de": {
+    "id": "a7e3cd0451de",
+    "title_en": "IDF and Oaktree back $1.7bn Bloom Energy project for AI infrastructure",
+    "title_zh": "IDF和橡树资本支持17亿美元的Bloom Energy人工智能基础设施项目",
+    "url": "https://www.energymonitor.ai/news/idf-oaktree-back-bloom-energy/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-17T10:19:40+00:00"
+  },
   "97e98bbaacde": {
     "id": "97e98bbaacde",
     "title_en": "Array Technologies acquires wires, cables and BoS specialist Affordable Wire Management",
@@ -691,6 +745,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-17T08:30:00+00:00"
+  },
+  "6ba9cc3387ec": {
+    "id": "6ba9cc3387ec",
+    "title_en": "TotalEnergies and partners open hybrid renewable project in South Africa",
+    "title_zh": "TotalEnergies及其合作伙伴在南非启动混合可再生能源项目",
+    "url": "https://www.energymonitor.ai/news/totalenergies-open-hybrid-project-sa/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-17T08:20:28+00:00"
   },
   "3038208612c0": {
     "id": "3038208612c0",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-13T11:14:52+00:00"
-  },
-  "1a8a8836180a": {
-    "id": "1a8a8836180a",
-    "title_en": "TotalEnergies sells distributed solar in Europe, aims to ‘refocus’ on utility-scale projects",
-    "title_zh": "TotalEnergies在欧洲销售分布式太阳能，旨在“重新聚焦”公用事业规模的项目",
-    "url": "https://www.pv-tech.org/totalenergies-divests-distributed-solar-europe-refocus-utility-scale-projects/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T11:10:50+00:00"
-  },
-  "156dedc82041": {
-    "id": "156dedc82041",
-    "title_en": "Hoymiles issues response after security vulnerability identified in older microinverters",
-    "title_zh": "在较旧的微型椎体中发现安全漏洞后，Hoymiles发布了响应",
-    "url": "https://www.pv-magazine.com/2026/07/13/hoymiles-issues-response-after-security-vulnerability-identified-in-older-microinverters/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T11:07:38+00:00"
-  },
-  "0a70a5a1d6e0": {
-    "id": "0a70a5a1d6e0",
-    "title_en": "U.S. solar LCOE on the rise, says Lazard",
-    "title_zh": "Lazard表示，美国太阳能LCOE正在上升",
-    "url": "https://www.pv-magazine.com/2026/07/13/u-s-solar-lcoe-on-the-rise-lazard-says/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T11:00:00+00:00"
-  },
-  "d6107de1e9b6": {
-    "id": "d6107de1e9b6",
-    "title_en": "SolarPower Europe: EU’s Chinese inverter ban causing ‘deep uncertainty’ with lack of clarity",
-    "title_zh": "SolarPower Europe：欧盟对中国逆变器的禁令导致“深度不确定性”，缺乏明确性",
-    "url": "https://www.pv-tech.org/solarpower-europe-eus-chinese-inverter-ban-causing-deep-uncertainty-with-lack-of-clarity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T10:55:22+00:00"
-  },
-  "78980fce5537": {
-    "id": "78980fce5537",
-    "title_en": "Avantus secures US$525 million financing for 184MW solar-plus-storage in California",
-    "title_zh": "Avantus为加州184MW太阳能+储能项目获得5.25亿美元融资",
-    "url": "https://www.pv-tech.org/avantus-secures-financing-184mw-solar-plus-storage-california/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T10:41:37+00:00"
-  },
-  "68e819ad4ff1": {
-    "id": "68e819ad4ff1",
-    "title_en": "Triple-junction all-perovskite solar cell based on graphene oxide bilayer achieves 27.3% efficiency",
-    "title_zh": "基于氧化石墨烯双层的三结全钙钛矿太阳能电池实现了27.3%的效率",
-    "url": "https://www.pv-magazine.com/2026/07/13/triple-junction-all-perovskite-solar-cell-based-on-graphene-oxide-bilayer-achieves-27-3-efficiency/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T10:37:23+00:00"
-  },
-  "30048e09148c": {
-    "id": "30048e09148c",
-    "title_en": "Qcells completes EPC work on 372MWdc PV projects in Arizona",
-    "title_zh": "Qcells完成亚利桑那州372MWdc光伏项目的EPC工作",
-    "url": "https://www.pv-tech.org/qcells-completes-epc-work-on-372mwdc-pv-projects-in-arizona/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T10:37:05+00:00"
   }
 }
