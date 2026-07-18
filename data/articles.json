@@ -1,4 +1,40 @@
 {
+  "0572109fe12f": {
+    "id": "0572109fe12f",
+    "title_en": "Philippines Energy Company Junk Coal Plant & Break Ground on Latest BESS",
+    "title_zh": "菲律宾能源公司垃圾煤电厂和最新BESS破土动工",
+    "url": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T13:11:34+00:00"
+  },
+  "b4e7592fea14": {
+    "id": "b4e7592fea14",
+    "title_en": "New HMP Flash brings affordable 75 MPH electric scooters to the US",
+    "title_zh": "新款HMP Flash为美国带来了价格实惠的75英里/小时电动滑板车",
+    "url": "https://electrek.co/2026/07/18/new-hmp-flash-brings-affordable-75-mph-electric-scooters-to-the-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-18T13:07:26+00:00"
+  },
+  "9640c3525f67": {
+    "id": "9640c3525f67",
+    "title_en": "Trump’s dumb idea to tariff Canada over smoke could set a useful precedent",
+    "title_zh": "特朗普对加拿大征收烟雾税的愚蠢想法可能会树立一个有益的先例",
+    "url": "https://electrek.co/2026/07/18/trumps-dumb-idea-to-tariff-canada-over-smoke-could-set-a-useful-precedent/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-18T13:00:00+00:00"
+  },
+  "d62e0fed8a10": {
+    "id": "d62e0fed8a10",
+    "title_en": "EVs At 98.3% Share In Norway – Tesla Model Y Leads",
+    "title_zh": "电动汽车在挪威的份额为98.3%——特斯拉Model Y领先",
+    "url": "https://cleantechnica.com/2026/07/18/evs-at-98-3-share-in-norway-tesla-model-y-leads/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-18T11:12:39+00:00"
+  },
   "cd57e0da0f8e": {
     "id": "cd57e0da0f8e",
     "title_en": "APsystems introduces plug-in microinverter for U.S. balcony solar",
@@ -4462,41 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-13T12:10:00+00:00"
-  },
-  "6fc3d5816098": {
-    "id": "6fc3d5816098",
-    "title_en": "Philippines proposes transmission grid reforms, updates to net-metering",
-    "title_zh": "菲律宾提议输电网改革，更新电网计量",
-    "url": "https://www.pv-magazine.com/2026/07/13/philippines-proposes-transmission-grid-reforms-updates-to-net-metering/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T12:08:54+00:00"
-  },
-  "50e484ff87cc": {
-    "id": "50e484ff87cc",
-    "title_en": "Vanlife: Vantrack promises a Kia PV5 camper you can actually buy",
-    "title_zh": "Vanlife:Vantrack承诺你可以买到一辆起亚PV5露营车",
-    "url": "https://electrek.co/2026/07/13/vanlife-vantrack-promises-a-kia-pv5-camper-you-can-actually-buy/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-13T12:01:37+00:00"
-  },
-  "02d715f27480": {
-    "id": "02d715f27480",
-    "title_en": "Solar Power World’s parent company, WTWH Media, rebrands as Arrowfly",
-    "title_zh": "Solar Power World的母公司WTWH Media更名为Arrowfly",
-    "url": "https://www.solarpowerworldonline.com/2026/07/solar-power-worlds-parent-company-wtwh-media-rebrands-as-arrowfly/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T12:00:50+00:00"
-  },
-  "8ae309659e65": {
-    "id": "8ae309659e65",
-    "title_en": "Does your logistics company understand the solar market?",
-    "title_zh": "贵物流公司了解太阳能市场吗？",
-    "url": "https://www.solarpowerworldonline.com/2026/07/does-your-logistics-company-understand-the-solar-market/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T12:00:36+00:00"
   }
 }
