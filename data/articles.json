@@ -1,4 +1,22 @@
 {
+  "5abec7e15e7b": {
+    "id": "5abec7e15e7b",
+    "title_en": "Survey Sunday: is Slate Auto’s affordable electric truck going to make it?",
+    "title_zh": "周日调查：Slate Auto的平价电动卡车会成功吗？",
+    "url": "https://electrek.co/2026/07/19/survey-sunday-is-slate-autos-affordable-electric-truck-going-to-make-it/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-19T21:20:04+00:00"
+  },
+  "d3c9a00d0579": {
+    "id": "d3c9a00d0579",
+    "title_en": "Pilot hits new EV milestone with 300th DC fast charging location",
+    "title_zh": "Pilot在第300个直流快速充电位置实现了电动汽车的新里程碑",
+    "url": "https://electrek.co/2026/07/19/pilot-hits-new-ev-milestone-with-300th-dc-fast-charging-location/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-19T20:27:32+00:00"
+  },
   "c2fb77ee464a": {
     "id": "c2fb77ee464a",
     "title_en": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
@@ -4480,23 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-13T15:25:00+00:00"
-  },
-  "91b36c18887b": {
-    "id": "91b36c18887b",
-    "title_en": "Renewables, Led By Solar, Were Largest Source of Energy Supply Growth Globally in 2025",
-    "title_zh": "以太阳能为首的可再生能源是2025年全球能源供应增长的最大来源",
-    "url": "https://cleantechnica.com/2026/07/13/renewables-led-by-solar-were-largest-source-of-energy-supply-growth-globally-in-2025/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-13T15:22:10+00:00"
-  },
-  "eb9f73a3bd31": {
-    "id": "eb9f73a3bd31",
-    "title_en": "Turkey launches tender seeking 900MW solar PV, 1.5GW wind capacity",
-    "title_zh": "土耳其启动招标寻求900MW太阳能光伏，1.5GW风电容量",
-    "url": "https://www.pv-tech.org/turkey-launches-tender-900mw-solar-pv-1-5gw-wind-capacity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T15:08:36+00:00"
   }
 }
