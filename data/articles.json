@@ -1,4 +1,22 @@
 {
+  "af8305ec80ca": {
+    "id": "af8305ec80ca",
+    "title_en": "New 6 passenger, 780-mile PHEV from GM has North America written all over it",
+    "title_zh": "通用汽车推出的新款6座780英里PHEV遍布北美",
+    "url": "https://electrek.co/2026/07/18/new-6-passenger-780-mile-phev-from-gm-has-north-america-written-all-over-it/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-19T00:05:03+00:00"
+  },
+  "1f105cf02434": {
+    "id": "1f105cf02434",
+    "title_en": "Europe's Heatwave Is Becoming an Energy Crisis",
+    "title_zh": "欧洲的热浪正在成为一场能源危机",
+    "url": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-18T23:00:00+00:00"
+  },
   "7549eeb0d908": {
     "id": "7549eeb0d908",
     "title_en": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
@@ -4480,23 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-13T14:10:24+00:00"
-  },
-  "7b8b12771c2f": {
-    "id": "7b8b12771c2f",
-    "title_en": "How EPCs can de-risk solar carport projects",
-    "title_zh": "EPC如何降低太阳能车棚项目的风险",
-    "url": "https://www.pv-magazine.com/2026/07/13/how-epcs-can-de-risk-solar-carport-projects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T14:09:10+00:00"
-  },
-  "f622f10c1edd": {
-    "id": "f622f10c1edd",
-    "title_en": "Global Emissions Hit Another Record High Despite Clean Energy Boom",
-    "title_zh": "尽管清洁能源蓬勃发展，全球排放量仍创下历史新高",
-    "url": "https://oilprice.com/Energy/Energy-General/Global-Emissions-Hit-Another-Record-High-Despite-Clean-Energy-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T14:00:00+00:00"
   }
 }
