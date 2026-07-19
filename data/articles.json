@@ -1,4 +1,58 @@
 {
+  "45b2bd572208": {
+    "id": "45b2bd572208",
+    "title_en": "Alberta’s Million-Barrel Pipeline Needs Missing Barrels",
+    "title_zh": "阿尔伯塔省的百万桶管道需要缺失的桶",
+    "url": "https://cleantechnica.com/2026/07/19/albertas-million-barrel-pipeline-needs-missing-barrels/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-19T15:43:21+00:00"
+  },
+  "23d7b7c97861": {
+    "id": "23d7b7c97861",
+    "title_en": "Energy Storage Key To Avoiding The Next Energy Crisis",
+    "title_zh": "储能是避免下一次能源危机的关键",
+    "url": "https://oilprice.com/Energy/Energy-General/Energy-Storage-Key-To-Avoiding-The-Next-Energy-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-19T15:00:00+00:00"
+  },
+  "fa7c4215eeb9": {
+    "id": "fa7c4215eeb9",
+    "title_en": "Hormuz Closure Exposes Africa's Energy Dependence on Iran and China",
+    "title_zh": "霍尔木兹关闭暴露了非洲对伊朗和中国的能源依赖",
+    "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Closure-Exposes-Africas-Energy-Dependence-on-Iran-and-China.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-19T15:00:00+00:00"
+  },
+  "489736f8f698": {
+    "id": "489736f8f698",
+    "title_en": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
+    "title_zh": "东盟将重点转向电池制造、扩大电动汽车采用和电网整合",
+    "url": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-19T14:49:04+00:00"
+  },
+  "32693c6ee95b": {
+    "id": "32693c6ee95b",
+    "title_en": "Geely Unveils New EV Powertrain That Is 93.8% Efficient",
+    "title_zh": "吉利推出效率为93.8%的新型电动汽车动力总成",
+    "url": "https://cleantechnica.com/2026/07/19/geely-unveils-new-ev-powertrain-that-is-93-8-efficient/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-19T14:25:00+00:00"
+  },
+  "e38301240c88": {
+    "id": "e38301240c88",
+    "title_en": "Nissan Sakura Keeps the Crown as Japan’s Best Selling EV",
+    "title_zh": "日产樱花保持日本最畅销电动汽车的桂冠",
+    "url": "https://cleantechnica.com/2026/07/19/nissan-sakura-keeps-the-crown-as-japans-best-selling-ev/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-19T13:42:29+00:00"
+  },
   "5ce300b3980f": {
     "id": "5ce300b3980f",
     "title_en": "A Campaign For Affordability: A Clean-Energy-For-All Agenda",
@@ -4444,59 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-13T15:06:59+00:00"
-  },
-  "890bafceb733": {
-    "id": "890bafceb733",
-    "title_en": "Utility-Scale Solar Costs Rise 18% but Remain Cheapest Power Source",
-    "title_zh": "公用事业规模的太阳能成本上升了18%，但仍然是最便宜的能源",
-    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Utility-Scale-Solar-Costs-Rise-18-but-Remain-Cheapest-Power-Source.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T15:00:00+00:00"
-  },
-  "e54489dd0451": {
-    "id": "e54489dd0451",
-    "title_en": "Hyundai’s electric hatch starts at under $30,000, and interest is already sky-high",
-    "title_zh": "现代的电动舱口起价不到3万美元，而且人们的兴趣已经非常高了",
-    "url": "https://electrek.co/2026/07/13/hyundais-ev-hatch-starts-at-30k-interest-is-sky-high/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-13T14:59:13+00:00"
-  },
-  "336c8bbdb852": {
-    "id": "336c8bbdb852",
-    "title_en": "Argentina awards 700MW BESS in elevenfold oversubscribed tender",
-    "title_zh": "阿根廷在11倍超额认购的招标中授予700MW BESS",
-    "url": "https://www.energy-storage.news/argentina-awards-700mw-bess-in-elevenfold-oversubscribed-tender/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-13T14:44:07+00:00"
-  },
-  "97efb41d24ee": {
-    "id": "97efb41d24ee",
-    "title_en": "Ballard’s GeoPura Deal Turns Private Hydrogen Losses Into Public Dilution",
-    "title_zh": "巴拉德的GeoPura交易将私人氢气损失转化为公共稀释",
-    "url": "https://cleantechnica.com/2026/07/13/ballard-geopura-deal-losses-dilution/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-13T14:35:42+00:00"
-  },
-  "d8a359999df5": {
-    "id": "d8a359999df5",
-    "title_en": "EU's Russian LNG Imports Hit Record High Ahead of 2027 Ban",
-    "title_zh": "2027年禁令前，欧盟俄罗斯液化天然气进口量创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/EUs-Russian-LNG-Imports-Hit-Record-High-Ahead-of-2027-Ban.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T14:30:00+00:00"
-  },
-  "89b2297184a9": {
-    "id": "89b2297184a9",
-    "title_en": "Texas PUC approves ‘ride-through’ rules for data centers",
-    "title_zh": "德克萨斯州PUC批准数据中心的“穿越”规则",
-    "url": "https://www.utilitydive.com/news/texas-puc-approves-ride-through-rules-data-centers/825051/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-13T14:25:32+00:00"
   }
 }
