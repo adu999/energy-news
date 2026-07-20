@@ -1,4 +1,58 @@
 {
+  "afe4d9570f04": {
+    "id": "afe4d9570f04",
+    "title_en": "Why India Could Dominate The Sustainable Aviation Fuel Market",
+    "title_zh": "为什么印度可以主导可持续航空燃料市场",
+    "url": "https://oilprice.com/Alternative-Energy/Biofuels/Why-India-Could-Dominate-The-Sustainable-Aviation-Fuel-Market.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-20T22:00:00+00:00"
+  },
+  "18ffdfd7535d": {
+    "id": "18ffdfd7535d",
+    "title_en": "The Hyundai IONIQ 5 is flying off dealer lots, and it’s getting harder to find",
+    "title_zh": "现代IONIQ 5正从经销商手中飞走，而且越来越难找到",
+    "url": "https://electrek.co/2026/07/20/hyundai-ioniq-5-selling-fast-dealers-running-out/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-20T21:39:42+00:00"
+  },
+  "333f5eaa9979": {
+    "id": "333f5eaa9979",
+    "title_en": "Oil Market Loses Its Safety Net as Iran Conflict Reignites",
+    "title_zh": "伊朗冲突再次爆发，石油市场失去安全网",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Market-Loses-Its-Safety-Net-as-Iran-Conflict-Reignites.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-20T21:00:00+00:00"
+  },
+  "5245ef1d5564": {
+    "id": "5245ef1d5564",
+    "title_en": "The US’s first UL 3700 balcony solar microinverter is here",
+    "title_zh": "美国首台UL 3700阳台太阳能微型逆变器问世",
+    "url": "https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-20T20:38:08+00:00"
+  },
+  "3f396e00ffd1": {
+    "id": "3f396e00ffd1",
+    "title_en": "Tesla ‘Full Self-Driving’ got me a speeding ticket, and Tesla killed the fix",
+    "title_zh": "特斯拉的“全自动驾驶”给我开了一张超速罚单，特斯拉终止了这一修复",
+    "url": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-20T20:01:16+00:00"
+  },
+  "80bef6bcd2ef": {
+    "id": "80bef6bcd2ef",
+    "title_en": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions",
+    "title_zh": "为什么欧盟仍无法就下一轮俄罗斯制裁达成一致",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-the-EU-Still-Cant-Agree-on-Its-Next-Round-of-Russia-Sanctions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-20T20:00:00+00:00"
+  },
   "c55fbed38668": {
     "id": "c55fbed38668",
     "title_en": "Hyundai’s $5B battery plant opens with enough capacity to power 300,000 EVs a year",
@@ -538,6 +592,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-20T09:35:00+00:00"
+  },
+  "c142b18b37d0": {
+    "id": "c142b18b37d0",
+    "title_en": "States join fight against Trump administration’s wind farm blockade",
+    "title_zh": "各国加入反对特朗普政府风电场封锁的斗争",
+    "url": "https://www.canarymedia.com/articles/wind/states-lawsuit-trump-defense-permitting-freeze",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-20T09:30:00+00:00"
   },
   "0e1f9cb7f2ae": {
     "id": "0e1f9cb7f2ae",
@@ -4435,68 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-14T14:11:06+00:00"
-  },
-  "05488a153385": {
-    "id": "05488a153385",
-    "title_en": "DHS proposes new critical infrastructure security framework",
-    "title_zh": "国土安全部提出新的关键基础设施安全框架",
-    "url": "https://www.utilitydive.com/news/dhs-proposes-new-critical-infrastructure-security-framework/825197/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-14T14:07:02+00:00"
-  },
-  "cd8dad140099": {
-    "id": "cd8dad140099",
-    "title_en": "Iran Ceasefire Collapse Sends UK Borrowing Costs to Five-Month High",
-    "title_zh": "伊朗停火协议破裂导致英国借贷成本创五个月新高",
-    "url": "https://oilprice.com/Finance/the-Economy/Iran-Ceasefire-Collapse-Sends-UK-Borrowing-Costs-to-Five-Month-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-14T14:00:00+00:00"
-  },
-  "0583fd8dd363": {
-    "id": "0583fd8dd363",
-    "title_en": "VIDEO: Scaling solar-coupled, distributed sodium-ion NFPP battery storage with startup Moonwatt",
-    "title_zh": "视频：通过启动Moonwatt扩展太阳能耦合分布式钠离子NFPP电池存储",
-    "url": "https://www.energy-storage.news/video-scaling-solar-coupled-distributed-sodium-ion-nfpp-battery-storage-with-startup-moonwatt/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-14T13:55:54+00:00"
-  },
-  "0c65b8237137": {
-    "id": "0c65b8237137",
-    "title_en": "Siemens Energy and Siemens Gamesa rebrand under one umbrella",
-    "title_zh": "西门子能源和西门子歌美飒在一个保护伞下重塑品牌",
-    "url": "https://www.windpowermonthly.com/article/1964559/siemens-energy-siemens-gamesa-rebrand-one-umbrella",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-14T13:42:51+00:00"
-  },
-  "568d6af9f4b0": {
-    "id": "568d6af9f4b0",
-    "title_en": "China’s Electric Trucks Are Breaking The Diesel Assumptions In Oil Forecasts",
-    "title_zh": "中国电动卡车正在打破石油预测中的柴油假设",
-    "url": "https://cleantechnica.com/2026/07/14/china-electric-trucks-breaking-oil-forecasts/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-14T13:32:58+00:00"
-  },
-  "8d28873530aa": {
-    "id": "8d28873530aa",
-    "title_en": "Tesla moves to guarantee resale value for buyers after price cuts",
-    "title_zh": "特斯拉在降价后采取行动保证买家的转售价值",
-    "url": "https://electrek.co/2026/07/14/tesla-guarantee-resale-value-buyers-price-cuts/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-14T13:32:32+00:00"
-  },
-  "8b5990def4ed": {
-    "id": "8b5990def4ed",
-    "title_en": "Inside the High-Productivity Rolling Technologies Driving the Offshore Wind Evolution",
-    "title_zh": "推动海上风电发展的高生产率轧制技术内部",
-    "url": "https://www.offshorewind.biz/2026/07/14/inside-the-high-productivity-rolling-technologies-driving-the-offshore-wind-evolution/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-14T13:09:50+00:00"
   }
 }
