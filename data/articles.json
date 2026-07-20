@@ -1,4 +1,31 @@
 {
+  "e055ebc7bf05": {
+    "id": "e055ebc7bf05",
+    "title_en": "Did Scientists Just Solve The Biggest Mystery Holding Back Solid-State Batteries",
+    "title_zh": "科学家们刚刚解开了阻碍固态电池发展的最大谜团吗",
+    "url": "https://oilprice.com/Energy/Energy-General/Did-Scientists-Just-Solve-The-Biggest-Mystery-Holding-Back-Solid-State-Batteries.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-19T23:00:00+00:00"
+  },
+  "ad46a82739b6": {
+    "id": "ad46a82739b6",
+    "title_en": "Australia moves to legislate net-generator requirement for large-scale data centres",
+    "title_zh": "澳大利亚立法要求大型数据中心的网络生成器",
+    "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-19T22:48:00+00:00"
+  },
+  "87caa1a2b425": {
+    "id": "87caa1a2b425",
+    "title_en": "Chinese Wuling Bingo could come to North America as an entry-level Chevy EV",
+    "title_zh": "中国五菱宾果可能会作为入门级雪佛兰电动汽车进入北美市场",
+    "url": "https://electrek.co/2026/07/19/chinese-wuling-bingo-could-come-to-north-america-as-an-entry-level-chevy-ev/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-19T22:28:34+00:00"
+  },
   "5abec7e15e7b": {
     "id": "5abec7e15e7b",
     "title_en": "Survey Sunday: is Slate Auto’s affordable electric truck going to make it?",
@@ -7,6 +34,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-19T21:20:04+00:00"
+  },
+  "56f87dd2f7ff": {
+    "id": "56f87dd2f7ff",
+    "title_en": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
+    "title_zh": "欧洲本应在6月耗尽喷气燃料。它没有",
+    "url": "https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-19T21:00:00+00:00"
   },
   "d3c9a00d0579": {
     "id": "d3c9a00d0579",
@@ -4462,41 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-13T16:24:51+00:00"
-  },
-  "7488b5da0233": {
-    "id": "7488b5da0233",
-    "title_en": "IEA Chief Slams Europe’s Slow Electrification as Energy Crisis Deepens",
-    "title_zh": "随着能源危机的加剧，国际能源署署长抨击欧洲缓慢的电气化",
-    "url": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Slams-Europes-Slow-Electrification-as-Energy-Crisis-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-13T16:00:00+00:00"
-  },
-  "9b9ff9bca8a5": {
-    "id": "9b9ff9bca8a5",
-    "title_en": "Tesla Semi adds another fleet as Paper Transport starts Chicago pilot",
-    "title_zh": "特斯拉Semi增加了另一支车队，因为Paper Transport开始在芝加哥进行试点",
-    "url": "https://electrek.co/2026/07/13/paper-transport-tesla-semi-chicago-pilot/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-13T15:49:07+00:00"
-  },
-  "711c4e4873d9": {
-    "id": "711c4e4873d9",
-    "title_en": "Renewables still offer cheapest LCOE in the US as all prices rise – Lazard",
-    "title_zh": "随着所有价格的上涨，可再生能源在美国仍然提供最便宜的LCOE——Lazard",
-    "url": "https://www.pv-tech.org/renewables-still-offer-cheapest-lcoe-in-the-us-as-all-prices-rise-lazard/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T15:48:57+00:00"
-  },
-  "8dec8a57ce31": {
-    "id": "8dec8a57ce31",
-    "title_en": "The challenges and risks of AI adoption in the solar industry",
-    "title_zh": "太阳能行业采用人工智能的挑战和风险",
-    "url": "https://www.pv-tech.org/the-challenges-and-risks-of-ai-adoption-in-the-solar-industry/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-13T15:25:00+00:00"
   }
 }
