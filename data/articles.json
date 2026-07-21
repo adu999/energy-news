@@ -1,4 +1,31 @@
 {
+  "5d0a794be0f1": {
+    "id": "5d0a794be0f1",
+    "title_en": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
+    "title_zh": "高盛警告称，随着中东战争的持续，油价可能会达到120美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Warns-Oil-Could-Hit-120-as-Middle-East-War-Drags-On.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-21T05:36:45+00:00"
+  },
+  "bf675d4e7aea": {
+    "id": "bf675d4e7aea",
+    "title_en": "Scaling sodium storage",
+    "title_zh": "缩放钠储存",
+    "url": "https://www.pv-magazine.com/2026/07/21/scaling-sodium-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-21T04:00:00+00:00"
+  },
+  "0f0dfda0aa5e": {
+    "id": "0f0dfda0aa5e",
+    "title_en": "EV Sales Rebound In Trump’s Nemesis, The Entire State Of California",
+    "title_zh": "电动汽车销售在特朗普的复仇女神中反弹，整个加利福尼亚州",
+    "url": "https://cleantechnica.com/2026/07/20/ev-sales-california-trump-fails-newsom-laughs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-21T03:39:17+00:00"
+  },
   "8c2c635a9e2b": {
     "id": "8c2c635a9e2b",
     "title_en": "European Energy reaches financial close on 80MWh Mokoan solar-plus-storage site in Australia",
@@ -4471,32 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-14T16:37:36+00:00"
-  },
-  "10d0459cc570": {
-    "id": "10d0459cc570",
-    "title_en": "Toyota is now among the top 5 EV sellers in the US, but it’s still taking its foot off the gas",
-    "title_zh": "丰田现在是美国五大电动汽车销售商之一，但它仍在起步",
-    "url": "https://electrek.co/2026/07/14/toyota-ranks-top-5-ev-sellers-us/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-14T16:35:08+00:00"
-  },
-  "3be261cc43f2": {
-    "id": "3be261cc43f2",
-    "title_en": "New York Imposes First Ever Moratorium On U.S. Data Centers",
-    "title_zh": "纽约首次暂停美国数据中心建设",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/New-York-Imposes-First-Ever-Moratorium-On-US-Data-Centers.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-14T16:30:00+00:00"
-  },
-  "43a5908ad9c0": {
-    "id": "43a5908ad9c0",
-    "title_en": "The New Large-Load Compact",
-    "title_zh": "新型大负载紧凑型",
-    "url": "https://www.powermag.com/the-new-large-load-compact/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-14T16:12:11+00:00"
   }
 }
