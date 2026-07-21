@@ -1,4 +1,94 @@
 {
+  "a12125ef0f9e": {
+    "id": "a12125ef0f9e",
+    "title_en": "Fossil Fuels Still Generate 57% of the World's Electricity",
+    "title_zh": "化石燃料仍占世界电力的57%",
+    "url": "https://oilprice.com/Energy/Energy-General/Fossil-Fuels-Still-Generate-57-of-the-Worlds-Electricity.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-21T22:00:00+00:00"
+  },
+  "ae6e19318e8d": {
+    "id": "ae6e19318e8d",
+    "title_en": "GM just added ChargePoint to its EV apps",
+    "title_zh": "通用汽车刚刚将ChargePoint添加到其电动汽车应用程序中",
+    "url": "https://electrek.co/2026/07/21/gm-just-added-chargepoint-to-its-ev-apps/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-21T21:50:26+00:00"
+  },
+  "645f07cd9a15": {
+    "id": "645f07cd9a15",
+    "title_en": "US Crude Oil Inventories Build As Hormuz Shipping Headache Drags On",
+    "title_zh": "霍尔木兹航运头痛持续，美国原油库存增加",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Hormuz-Shipping-Headache-Drags-On.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-21T21:10:00+00:00"
+  },
+  "34739de12681": {
+    "id": "34739de12681",
+    "title_en": "Energy IPOs Are Booming Thanks to AI’s Insatiable Thirst for Power",
+    "title_zh": "由于人工智能对电力的无尽渴望，能源IPO正在蓬勃发展",
+    "url": "https://oilprice.com/Energy/Energy-General/Energy-IPOs-Are-Booming-Thanks-to-AIs-Insatiable-Thirst-for-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-21T21:00:00+00:00"
+  },
+  "dd33472844cc": {
+    "id": "dd33472844cc",
+    "title_en": "Kia PV5 High Roof spotted in public for the first time [Video]",
+    "title_zh": "起亚PV5高顶首次公开亮相[视频]",
+    "url": "https://electrek.co/2026/07/21/kia-pv5-high-roof-spotted-first-time-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-21T20:46:43+00:00"
+  },
+  "b0fd3a431fa2": {
+    "id": "b0fd3a431fa2",
+    "title_en": "NHTSA targets Tesla’s ‘Radar Saves Us’ document in FSD crash probe",
+    "title_zh": "NHTSA在FSD碰撞调查中针对特斯拉的“雷达拯救我们”文件",
+    "url": "https://electrek.co/2026/07/21/nhtsa-tesla-radar-saves-us-document-fsd-probe/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-21T20:37:53+00:00"
+  },
+  "5af4e994c5e4": {
+    "id": "5af4e994c5e4",
+    "title_en": "Idaho just switched on a big solar farm – and a much larger one is next",
+    "title_zh": "爱达荷州刚刚启动了一个大型太阳能发电厂，下一个将是一个更大的发电厂",
+    "url": "https://electrek.co/2026/07/21/idaho-just-switched-on-a-big-solar-farm-and-a-much-larger-one-is-next/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-21T20:16:26+00:00"
+  },
+  "26c7cacf2e1e": {
+    "id": "26c7cacf2e1e",
+    "title_en": "Norway's Oil Output Beats Forecasts as Hormuz Traffic Stays Near Crisis Lows",
+    "title_zh": "挪威石油产量超过预测，霍尔木兹交通量接近危机低点",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Beats-Forecasts-as-Hormuz-Traffic-Stays-Near-Crisis-Lows.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-21T20:00:00+00:00"
+  },
+  "223069ef2b44": {
+    "id": "223069ef2b44",
+    "title_en": "Minnesota solar project set to replace retiring coal plant reaches 710 MW",
+    "title_zh": "明尼苏达州太阳能项目将取代退役的燃煤电厂，发电量达到710兆瓦",
+    "url": "https://www.solarpowerworldonline.com/2026/07/minnesota-solar-project-set-to-replace-retiring-coal-plant-reaches-710-mw/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-21T19:53:39+00:00"
+  },
+  "d3953bfccf4d": {
+    "id": "d3953bfccf4d",
+    "title_en": "Tesla (TSLA) Q2 2026 earnings preview: strong deliveries, murky profits",
+    "title_zh": "特斯拉（TSLA）2026年第二季度盈利预览：交付强劲，利润不明朗",
+    "url": "https://electrek.co/2026/07/21/tesla-tsla-q2-2026-earnings-preview/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-21T19:27:45+00:00"
+  },
   "9970d456e833": {
     "id": "9970d456e833",
     "title_en": "Kazakhstan Suspends Major Oil Exports as Black Sea Risks Escalate",
@@ -4408,95 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-07-15T16:04:22+00:00"
-  },
-  "c306c3b079c0": {
-    "id": "c306c3b079c0",
-    "title_en": "UK withdraws millions in funding from world’s second-largest rainforest in Congo",
-    "title_zh": "英国从刚果世界第二大热带雨林撤回数百万美元资金",
-    "url": "https://www.carbonbrief.org/uk-withdraws-millions-in-funding-from-worlds-second-largest-rainforest-in-congo",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-15T16:04:22+00:00"
-  },
-  "0c7ef92f7f75": {
-    "id": "0c7ef92f7f75",
-    "title_en": "PJM Auction Comes Up 6.8 Gigawatts Short As Data Centers Devour Power",
-    "title_zh": "PJM拍卖会因数据中心消耗电力而短缺6.8吉瓦",
-    "url": "https://oilprice.com/Energy/Energy-General/PJM-Auction-Comes-Up-68-Gigawatts-Short-As-Data-Centers-Devour-Power.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-15T16:00:00+00:00"
-  },
-  "c2774dc84d92": {
-    "id": "c2774dc84d92",
-    "title_en": "US DISTRIBUTED SOLAR ROUND-UP: PureSky, ClearGen and Aligned Climate Capital advance projects",
-    "title_zh": "美国分布式太阳能圆桌会议：PureSky、ClearGen和气候资本联合推进项目",
-    "url": "https://www.pv-tech.org/us-distributed-solar-round-up-puresky-cleargen-aligned-climate-capital-advance-projects/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-15T15:38:25+00:00"
-  },
-  "9082464a7b9e": {
-    "id": "9082464a7b9e",
-    "title_en": "EU solar fleet avoided US$22 billion in gas costs amid Middle East conflict",
-    "title_zh": "欧盟太阳能船队在中东冲突中避免了220亿美元的天然气成本",
-    "url": "https://www.pv-tech.org/eu-solar-fleet-avoided-us22-billion-in-gas-costs-amid-middle-east-conflict/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-15T15:34:25+00:00"
-  },
-  "d76b5ca72170": {
-    "id": "d76b5ca72170",
-    "title_en": "U.S. Crude Inventories Fall 1.7 Million Barrels As Iran Tensions Rattle Markets",
-    "title_zh": "伊朗紧张局势扰乱市场，美国原油库存下降170万桶",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Inventories-Fall-17-Million-Barrels-As-Iran-Tensions-Rattle-Markets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-15T15:28:17+00:00"
-  },
-  "bc864af8fe05": {
-    "id": "bc864af8fe05",
-    "title_en": "T1 Energy seeking US PV component partners as Austin plant taps semiconductor talent pool",
-    "title_zh": "T1 Energy寻求美国光伏组件合作伙伴，奥斯汀工厂利用半导体人才库",
-    "url": "https://www.pv-tech.org/t1-energy-local-pv-component-partners/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-15T15:22:44+00:00"
-  },
-  "f9756df26da8": {
-    "id": "f9756df26da8",
-    "title_en": "Geothermal Energy Will Help Make The Strait Of Hormuz Irrelevant",
-    "title_zh": "地热能将使霍尔木兹海峡变得无关紧要",
-    "url": "https://cleantechnica.com/2026/07/15/geothermal-energy-deep-hot-innovation-green-investing-us/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-15T15:16:49+00:00"
-  },
-  "1c461fb9d4f3": {
-    "id": "1c461fb9d4f3",
-    "title_en": "Bluebird Solar secures 439.35MW module order from NTPC REL",
-    "title_zh": "Bluebird Solar从NTPC REL获得439.35MW模块订单",
-    "url": "https://www.pv-tech.org/bluebird-solar-secures-439-35mw-module-order-from-ntpc-rel/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-15T15:05:01+00:00"
-  },
-  "6d7a60414fb1": {
-    "id": "6d7a60414fb1",
-    "title_en": "Russia’s Oil Export Surge Runs Into a 135 Million-Barrel Traffic Jam",
-    "title_zh": "俄罗斯石油出口激增遭遇1.35亿桶交通堵塞",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Export-Surge-Runs-Into-a-135-Million-Barrel-Traffic-Jam.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-15T15:01:10+00:00"
-  },
-  "978d09b4771a": {
-    "id": "978d09b4771a",
-    "title_en": "GMC marks 25 years of Hummer with limited ‘ICON’ EV as sales sink 55%",
-    "title_zh": "GMC以限量版“ICON”电动汽车纪念悍马25周年，销量下降55%",
-    "url": "https://electrek.co/2026/07/15/gmc-hummer-ev-icon-25/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-15T15:00:02+00:00"
   }
 }
