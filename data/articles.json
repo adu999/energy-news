@@ -1,4 +1,139 @@
 {
+  "9489e0dec300": {
+    "id": "9489e0dec300",
+    "title_en": "LNG Supply Crisis Pushes Buyers Toward Coal and Oil",
+    "title_zh": "液化天然气供应危机促使买家转向煤炭和石油",
+    "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Supply-Crisis-Pushes-Buyers-Toward-Coal-and-Oil.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-22T16:00:00+00:00"
+  },
+  "23b933e53548": {
+    "id": "23b933e53548",
+    "title_en": "South Carolina court upholds zoning decision against Silfab Solar manufacturing facility",
+    "title_zh": "南卡罗来纳州法院维持对Silfab Solar制造工厂的分区决定",
+    "url": "https://www.pv-tech.org/south-carolina-court-upholds-zoning-decision-against-silfab-solar-manufacturing-facility/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-22T15:55:34+00:00"
+  },
+  "c09d72c49f42": {
+    "id": "c09d72c49f42",
+    "title_en": "Oxford PV, Caelux join global AI venture to advance materials discovery",
+    "title_zh": "牛津光伏、Caelux加入全球人工智能企业，推进材料发现",
+    "url": "https://www.pv-tech.org/oxford-pv-caelux-perovskite-ai-materials-science/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-22T15:41:48+00:00"
+  },
+  "003f87560dc6": {
+    "id": "003f87560dc6",
+    "title_en": "China’s Electric Trucks, Diesel’s Peak, and What Western Planners Still Don’t See",
+    "title_zh": "中国的电动卡车，柴油车的巅峰，以及西方规划者仍然没有看到的东西",
+    "url": "https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-22T15:13:19+00:00"
+  },
+  "b35d09f99867": {
+    "id": "b35d09f99867",
+    "title_en": "Developer rPlus Energies commissions 125MW Idaho solar PV project",
+    "title_zh": "开发商rPlus Energies委托爱达荷州125MW太阳能光伏项目",
+    "url": "https://www.pv-tech.org/developer-rplus-energies-commissions-125mw-idaho-solar-pv-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-22T14:47:00+00:00"
+  },
+  "d39d8bd4a997": {
+    "id": "d39d8bd4a997",
+    "title_en": "US Oil, Product Inventories See Builds Across the Board",
+    "title_zh": "美国石油、产品库存全面增加",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Product-Inventories-See-Builds-Across-the-Board.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-22T14:44:00+00:00"
+  },
+  "78ee6de94010": {
+    "id": "78ee6de94010",
+    "title_en": "CATL Is Building The Electric-Truck Platform Europe May Have To Join",
+    "title_zh": "CATL正在构建欧洲可能不得不加入的电动卡车平台",
+    "url": "https://cleantechnica.com/2026/07/22/catl-electric-truck-platform-europe/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-22T14:34:52+00:00"
+  },
+  "d3ce2daadda4": {
+    "id": "d3ce2daadda4",
+    "title_en": "This country went 100% electric vehicles overnight with a drastic approach",
+    "title_zh": "这个国家一夜之间以激进的方式实现了100%的电动汽车",
+    "url": "https://electrek.co/2026/07/22/laos-bans-gas-diesel-car-imports-ev/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-22T14:30:31+00:00"
+  },
+  "8de1dfe9aec0": {
+    "id": "8de1dfe9aec0",
+    "title_en": "Europe Heads Into Winter With Its Weakest Gas Cushion In 15 Years",
+    "title_zh": "欧洲因15年来最弱的天然气缓冲而进入冬季",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Heads-Into-Winter-With-Its-Weakest-Gas-Cushion-In-15-Years.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-22T14:30:00+00:00"
+  },
+  "d7206ec0b73e": {
+    "id": "d7206ec0b73e",
+    "title_en": "Don’t gut the utility model just as we need it most",
+    "title_zh": "不要在我们最需要的时候把实用新型拆开",
+    "url": "https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-22T14:27:22+00:00"
+  },
+  "c40e86994066": {
+    "id": "c40e86994066",
+    "title_en": "Range Rover’s next EV is unlike anything the luxury brand has built before [Images]",
+    "title_zh": "路虎揽胜的下一代电动汽车与这个奢侈品牌之前建造的任何汽车都不同[图片]",
+    "url": "https://electrek.co/2026/07/22/range-rovers-next-ev-unlike-anything-its-ever-built-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-22T14:26:56+00:00"
+  },
+  "e79c72f9d919": {
+    "id": "e79c72f9d919",
+    "title_en": "Comstock, Illuminate USA ink module recycling agreement",
+    "title_zh": "康斯托克、Illuminate USA油墨模块回收协议",
+    "url": "https://www.pv-tech.org/comstock-illuminate-usa-ink-module-recycling-agreement/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-22T14:00:31+00:00"
+  },
+  "4554aa873b62": {
+    "id": "4554aa873b62",
+    "title_en": "VIDEO: Integrating solar, storage, grid-forming and AI with Envision Energy",
+    "title_zh": "视频：将太阳能、储能、电网形成和人工智能与远景能源相结合",
+    "url": "https://www.energy-storage.news/video-integrating-solar-storage-grid-forming-and-ai-with-envision-energy/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-22T14:00:29+00:00"
+  },
+  "1a4a6f45f909": {
+    "id": "1a4a6f45f909",
+    "title_en": "Topband showcases Ecosolex energy storage solutions at ees Europe 2026",
+    "title_zh": "Topband在欧洲能源展2026上展示Ecosolex储能解决方案",
+    "url": "https://www.pv-magazine.com/2026/07/22/topband-showcases-ecosolex-energy-storage-solutions-at-ees-europe-2026/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-22T14:00:00+00:00"
+  },
+  "3919600eba95": {
+    "id": "3919600eba95",
+    "title_en": "The Hormuz Crisis Is Driving a Geopolitical Shift Across Asia",
+    "title_zh": "霍尔木兹危机正在推动整个亚洲的地缘政治转变",
+    "url": "https://oilprice.com/Geopolitics/Asia/The-Hormuz-Crisis-Is-Driving-a-Geopolitical-Shift-Across-Asia.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-22T14:00:00+00:00"
+  },
   "42afd0d9cfad": {
     "id": "42afd0d9cfad",
     "title_en": "ARRAY Technologies unveils solar tracker with 60° stow angling",
@@ -232,6 +367,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-22T11:00:00+00:00"
+  },
+  "81095642efac": {
+    "id": "81095642efac",
+    "title_en": "GE Vernova's wind power losses widen in Q2",
+    "title_zh": "通用电气Vernova第二季度风电亏损扩大",
+    "url": "https://www.windpowermonthly.com/article/1965319/ge-vernovas-wind-power-losses-widen-q2",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-22T10:55:16+00:00"
   },
   "ccf3d62d900d": {
     "id": "ccf3d62d900d",
@@ -3617,6 +3761,15 @@
     "category": "太阳能",
     "pub_ts": "2026-07-17T10:17:16+00:00"
   },
+  "e78a5629c32c": {
+    "id": "e78a5629c32c",
+    "title_en": "South Korean SMR-powered container ship design certified",
+    "title_zh": "韩国SMR动力集装箱船设计认证",
+    "url": "https://www.world-nuclear-news.org//articles/korean-smr-powered-container-ship-design-certified",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-07-17T10:17:06+00:00"
+  },
   "afcacee62292": {
     "id": "afcacee62292",
     "title_en": "Waaree, India’s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
@@ -4345,158 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-16T13:30:00+00:00"
-  },
-  "33b81570f4b8": {
-    "id": "33b81570f4b8",
-    "title_en": "Xpanner introduces excavator-mounted automation tool to ease utility-scale installation bottlenecks",
-    "title_zh": "Xpanner推出挖掘机安装的自动化工具，以缓解公用事业规模的安装瓶颈",
-    "url": "https://www.pv-magazine.com/2026/07/16/xpanner-introduces-excavator-mounted-automation-tool-to-ease-utility-scale-installation-bottlenecks/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T13:22:56+00:00"
-  },
-  "2fc52a38f1cc": {
-    "id": "2fc52a38f1cc",
-    "title_en": "LONGi reports 35.5% efficiency for silicon-perovskite tandem solar cell",
-    "title_zh": "隆基报告硅钙钛矿叠层太阳能电池的效率为35.5%",
-    "url": "https://www.pv-tech.org/longi-reports-35-5-efficiency-for-silicon-perovskite-tandem-solar-cell/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T13:20:20+00:00"
-  },
-  "2487ebf2d363": {
-    "id": "2487ebf2d363",
-    "title_en": "Sunrun, FranklinWH expand BESS virtual power plant capacity in California, Texas",
-    "title_zh": "Sunrun，FranklinWH扩大了德克萨斯州加利福尼亚州BESS虚拟发电厂的产能",
-    "url": "https://www.energy-storage.news/sunrun-franklinwh-expand-bess-virtual-power-plant-capacity-in-california-texas/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-16T13:20:05+00:00"
-  },
-  "75897b0d6eca": {
-    "id": "75897b0d6eca",
-    "title_en": "Rise in solar module prices comes to a halt",
-    "title_zh": "太阳能组件价格上涨停止",
-    "url": "https://www.pv-magazine.com/2026/07/16/rise-in-solar-module-prices-comes-to-a-halt/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T13:07:08+00:00"
-  },
-  "b5e1074bf861": {
-    "id": "b5e1074bf861",
-    "title_en": "Retail electric rate increases outpace inflation with prices set to rise higher",
-    "title_zh": "零售电价涨幅超过通胀，价格将进一步上涨",
-    "url": "https://www.utilitydive.com/news/retail-electric-rate-increases-outpace-inflation-with-prices-set-to-rise-hi/825391/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-16T13:03:18+00:00"
-  },
-  "da950dc6396f": {
-    "id": "da950dc6396f",
-    "title_en": "Alfen, CATL to deploy 5 GWh of sodium-ion battery storage in Europe",
-    "title_zh": "Alfen和CATL将在欧洲部署5GWh的钠离子电池储能系统",
-    "url": "https://www.pv-magazine.com/2026/07/16/alfen-catl-to-deploy-5-gwh-of-sodium-ion-battery-storage-in-europe/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T12:41:42+00:00"
-  },
-  "261f334fd159": {
-    "id": "261f334fd159",
-    "title_en": "Infinite Machine Olto review: A strange ‘e-bike’ or an urban transportation revolution?",
-    "title_zh": "Infinite Machine Olto评论：奇怪的“电动自行车”还是城市交通革命？",
-    "url": "https://electrek.co/2026/07/16/infinite-machine-olto-review-a-strange-e-bike-or-an-urban-transportation-revolution/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-16T12:32:54+00:00"
-  },
-  "8963d49fc821": {
-    "id": "8963d49fc821",
-    "title_en": "Asian LNG Spot Prices Jump 10% as Hormuz Crisis Reignites Supply Fears",
-    "title_zh": "霍尔木兹危机再次引发供应担忧，亚洲液化天然气现货价格上涨10%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Spot-Prices-Jump-10-as-Hormuz-Crisis-Reignites-Supply-Fears.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-16T12:30:00+00:00"
-  },
-  "23ce32082848": {
-    "id": "23ce32082848",
-    "title_en": "ISC Konstanz appoints Dr Gerhard Mathiak as head of module department",
-    "title_zh": "ISC Konstanz任命Gerhard Mathiak博士为模块部门负责人",
-    "url": "https://www.pv-tech.org/isc-konstanz-appoints-dr-gerhard-mathiak-head-module-depatment/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T11:54:18+00:00"
-  },
-  "4a29eca589d5": {
-    "id": "4a29eca589d5",
-    "title_en": "Alfen and CATL agree 5GWh sodium-ion BESS partnership in Europe",
-    "title_zh": "Alfen和CATL在欧洲达成5GWh钠离子BESS合作伙伴关系",
-    "url": "https://www.energy-storage.news/alfen-and-catl-agree-5gwh-sodium-ion-bess-partnership-in-europe/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-16T11:39:33+00:00"
-  },
-  "3d6a79f6229f": {
-    "id": "3d6a79f6229f",
-    "title_en": "Pakistan Pays Highest Spot LNG Price in Four Years as Qatar Supply Falters",
-    "title_zh": "巴基斯坦支付四年来最高的现货液化天然气价格，因为卡塔尔供应量下降",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Pays-Highest-Spot-LNG-Price-in-Four-Years-as-Qatar-Supply-Falters.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-16T11:30:00+00:00"
-  },
-  "f3eaf079c3b9": {
-    "id": "f3eaf079c3b9",
-    "title_en": "Thailand needs ‘many regulatory reforms’ of electricity sector to catch up with ASEAN leaders on energy storage",
-    "title_zh": "泰国需要对电力部门进行“许多监管改革”，以在能源储存方面赶上东盟领导人",
-    "url": "https://www.energy-storage.news/thailand-needs-many-regulatory-reforms-of-electricity-sector-to-catch-up-with-asean-leaders-on-energy-storage/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-16T11:20:57+00:00"
-  },
-  "8a953c13f981": {
-    "id": "8a953c13f981",
-    "title_en": "Austrian scientists testing foldable PV system with dual-axis tracking",
-    "title_zh": "奥地利科学家测试双轴跟踪可折叠光伏系统",
-    "url": "https://www.pv-magazine.com/2026/07/16/austrian-scientists-testing-foldable-pv-system-with-dual-axis-tracking/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T11:05:22+00:00"
-  },
-  "f5aad243c80c": {
-    "id": "f5aad243c80c",
-    "title_en": "Qcells secures TÜV Rheinland certification for perovskite-silicon tandem solar tech",
-    "title_zh": "Qcells获得德国莱茵TÜV钙钛矿硅叠层太阳能技术认证",
-    "url": "https://www.pv-magazine.com/2026/07/16/qcells-secures-tuv-rheinland-certification-for-perovskite-silicon-tandem-solar-tech/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T11:00:00+00:00"
-  },
-  "c2830857122c": {
-    "id": "c2830857122c",
-    "title_en": "Sigenergy unveils AI-driven plug-and-play home storage system for PV retrofits",
-    "title_zh": "Sigenergy推出用于光伏改造的AI驱动即插即用家庭存储系统",
-    "url": "https://www.pv-magazine.com/2026/07/16/sigenergy-unveils-ai-driven-plug-and-play-home-storage-system-for-pv-retrofits/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T10:53:32+00:00"
-  },
-  "10d5e4655c9b": {
-    "id": "10d5e4655c9b",
-    "title_en": "SSI awards first traceability certification to Chinese polysilicon plant",
-    "title_zh": "SSI授予中国多晶硅厂首个可追溯性认证",
-    "url": "https://www.pv-tech.org/ssi-awards-first-traceability-certification-to-chinese-polysilicon-plant/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T10:43:55+00:00"
-  },
-  "3a0ad946537f": {
-    "id": "3a0ad946537f",
-    "title_en": "Oman finances 6GW solar cell, 3GW solar module manufacturing facility",
-    "title_zh": "阿曼为6GW太阳能电池和3GW太阳能模块制造厂提供资金",
-    "url": "https://www.pv-tech.org/oman-finances-6gw-solar-cell-3gw-solar-module-manufacturing-facility/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-16T10:43:43+00:00"
   }
 }
