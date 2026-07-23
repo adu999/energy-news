@@ -1,4 +1,121 @@
 {
+  "c7147b5e2e3e": {
+    "id": "c7147b5e2e3e",
+    "title_en": "U.S. and Ukraine Sign Landmark Drone Cooperation Agreement",
+    "title_zh": "美国和乌克兰签署具有里程碑意义的无人机合作协议",
+    "url": "https://oilprice.com/Geopolitics/Europe/US-and-Ukraine-Sign-Landmark-Drone-Cooperation-Agreement.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T14:00:00+00:00"
+  },
+  "c9fc9a791a18": {
+    "id": "c9fc9a791a18",
+    "title_en": "Tesla swapped a solar owner’s lease contract for the Book of Enoch",
+    "title_zh": "特斯拉将太阳能所有者的租赁合同换成了《以诺之书》",
+    "url": "https://electrek.co/2026/07/23/tesla-solar-lease-contract-book-of-enoch/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-23T13:56:31+00:00"
+  },
+  "15834b51dabe": {
+    "id": "15834b51dabe",
+    "title_en": "ZPMC Starts Building Multipurpose CLV for Far East Cable",
+    "title_zh": "ZPMC开始为远东电缆建造多用途CLV",
+    "url": "https://www.offshorewind.biz/2026/07/23/zpmc-starts-building-multipurpose-clv-far-east-cable/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-23T13:45:21+00:00"
+  },
+  "60e745e9f69d": {
+    "id": "60e745e9f69d",
+    "title_en": "LNG Importers Seek Lower Qatar and UAE Prices as War Upends Deals",
+    "title_zh": "随着战争结束交易，液化天然气进口商寻求降低卡塔尔和阿联酋的价格",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Importers-Seek-Lower-Qatar-and-UAE-Prices-as-War-Upends-Deals.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T13:30:00+00:00"
+  },
+  "ab58436fa988": {
+    "id": "ab58436fa988",
+    "title_en": "Hybrid PPAs see growing adoption in Europe despite a 24% premium over solar PPAs",
+    "title_zh": "尽管混合电力购电协议比太阳能购电协议溢价24%，但在欧洲的采用率仍在增长",
+    "url": "https://www.pv-magazine.com/2026/07/23/hybrid-ppas-see-growing-adoption-in-europe-despite-a-24-premium-over-solar-ppas/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T13:15:56+00:00"
+  },
+  "1050bebc6436": {
+    "id": "1050bebc6436",
+    "title_en": "GEOxyz Brings Survey Expertise to South Korea Through Local Partnership",
+    "title_zh": "GEOxyz通过当地合作伙伴关系为韩国带来调查专业知识",
+    "url": "https://www.offshorewind.biz/2026/07/23/geoxyz-brings-survey-expertise-to-south-korea-through-local-partnership/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-23T12:39:39+00:00"
+  },
+  "a3f68b8ea9b3": {
+    "id": "a3f68b8ea9b3",
+    "title_en": "U.S. Refinery Utilization Hits 96.2% as Fuel Markets Tighten Worldwide",
+    "title_zh": "全球燃料市场趋紧，美国炼油厂利用率达到96.2%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Refinery-Utilization-Hits-962-as-Fuel-Markets-Tighten-Worldwide.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T12:30:00+00:00"
+  },
+  "15b49a6025b9": {
+    "id": "15b49a6025b9",
+    "title_en": "Brookfield to buy energy storage developer Aypa for $7 billion",
+    "title_zh": "布鲁克菲尔德以70亿美元收购储能开发商Aypa",
+    "url": "https://www.solarpowerworldonline.com/2026/07/brookfield-to-buy-energy-storage-developer-aypa-for-7-billion/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T12:16:02+00:00"
+  },
+  "60ee2175b45a": {
+    "id": "60ee2175b45a",
+    "title_en": "SEIA calls for stronger cybersecurity as US solar and storage manufacturing expands",
+    "title_zh": "随着美国太阳能和储能制造业的扩张，SEIA呼吁加强网络安全",
+    "url": "https://www.pv-tech.org/seia-calls-for-stronger-cybersecurity-as-us-solar-and-storage-manufacturing-expands/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T12:01:27+00:00"
+  },
+  "9535eb4a65c1": {
+    "id": "9535eb4a65c1",
+    "title_en": "Southern Africa shifts toward competitive wholesale electricity markets",
+    "title_zh": "南部非洲转向竞争性批发电力市场",
+    "url": "https://www.pv-magazine.com/2026/07/23/southern-africa-shifts-toward-competitive-wholesale-electricity-markets/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T11:41:03+00:00"
+  },
+  "6ababe7068b0": {
+    "id": "6ababe7068b0",
+    "title_en": "Caelux links up with Rayzon, Navitas on 10GW perovskite PV ‘commercialisation’ deals in India",
+    "title_zh": "Caelux与Rayzon、Navitas在印度达成10GW钙钛矿光伏“商业化”交易",
+    "url": "https://www.pv-tech.org/caelux-links-up-with-rayzon-navitas-on-10gw-perovskite-pv-commercialisation-deals-in-india/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T11:40:33+00:00"
+  },
+  "9ec5dea6ecf1": {
+    "id": "9ec5dea6ecf1",
+    "title_en": "Germany sets September date for first capacity market auction",
+    "title_zh": "德国将9月定为首次产能市场拍卖的日期",
+    "url": "https://www.energy-storage.news/germany-sets-september-date-for-first-capacity-market-auction/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T11:40:09+00:00"
+  },
+  "7226413913be": {
+    "id": "7226413913be",
+    "title_en": "Chinese Tankers Push Through Bab el-Mandeb Despite Houthi Blockade Threats",
+    "title_zh": "尽管胡塞武装威胁封锁，中国油轮仍驶过曼德海峡",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Tankers-Push-Through-Bab-el-Mandeb-Despite-Houthi-Blockade-Threats.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T11:30:00+00:00"
+  },
   "b97761054a38": {
     "id": "b97761054a38",
     "title_en": "Hail storm damages PV systems across Italy’s Marche region",
@@ -80,6 +197,15 @@
     "category": "油气",
     "pub_ts": "2026-07-23T09:30:00+00:00"
   },
+  "7619cb241456": {
+    "id": "7619cb241456",
+    "title_en": "CPV brings 114MW Rogue’s Wind online in Pennsylvania",
+    "title_zh": "CPV在宾夕法尼亚州上线114MW Rogue’s Wind",
+    "url": "https://www.energymonitor.ai/news/cpv-brings-rogues-wind-online/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-23T09:28:03+00:00"
+  },
   "81dcdb38d9d2": {
     "id": "81dcdb38d9d2",
     "title_en": "Spanish operational PV assets stabilize at €596,000/MW following 50% value decline",
@@ -115,6 +241,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-23T08:53:38+00:00"
+  },
+  "21f950959648": {
+    "id": "21f950959648",
+    "title_en": "CIMIC’s UGL and CPB to build 179MW Western Australia’s Narrogin Wind Farm",
+    "title_zh": "CIMIC的UGL和CPB将建造西澳大利亚州179MW的Narrogin风电场",
+    "url": "https://www.energymonitor.ai/news/ugl-cpb-build-narrogin-farm-2/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-23T08:40:35+00:00"
   },
   "68403a2af748": {
     "id": "68403a2af748",
@@ -4363,140 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-17T10:30:00+00:00"
-  },
-  "f7bef9195f69": {
-    "id": "f7bef9195f69",
-    "title_en": "BP veteran joins Energy Institute as new CEO",
-    "title_zh": "英国石油公司资深人士加入能源研究所担任新任首席执行官",
-    "url": "https://www.windpowermonthly.com/article/1964925/bp-veteran-joins-energy-institute-new-ceo",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-17T10:25:52+00:00"
-  },
-  "08109850aade": {
-    "id": "08109850aade",
-    "title_en": "Unirac acquires Terrasmart solar racking business",
-    "title_zh": "Unirac收购Terrasmart太阳能货架业务",
-    "url": "https://www.pv-tech.org/unirac-acquires-terrasmart-solar-racking-business/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T10:19:57+00:00"
-  },
-  "a7e3cd0451de": {
-    "id": "a7e3cd0451de",
-    "title_en": "IDF and Oaktree back $1.7bn Bloom Energy project for AI infrastructure",
-    "title_zh": "IDF和橡树资本支持17亿美元的Bloom Energy人工智能基础设施项目",
-    "url": "https://www.energymonitor.ai/news/idf-oaktree-back-bloom-energy/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-17T10:19:40+00:00"
-  },
-  "97e98bbaacde": {
-    "id": "97e98bbaacde",
-    "title_en": "Array Technologies acquires wires, cables and BoS specialist Affordable Wire Management",
-    "title_zh": "Array Technologies收购电线、电缆和BoS专家Affordable Wire Management",
-    "url": "https://www.pv-tech.org/array-technologies-acquires-affordable-wire-management/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T10:17:16+00:00"
-  },
-  "e78a5629c32c": {
-    "id": "e78a5629c32c",
-    "title_en": "South Korean SMR-powered container ship design certified",
-    "title_zh": "韩国SMR动力集装箱船设计认证",
-    "url": "https://www.world-nuclear-news.org//articles/korean-smr-powered-container-ship-design-certified",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-17T10:17:06+00:00"
-  },
-  "afcacee62292": {
-    "id": "afcacee62292",
-    "title_en": "Waaree, India’s biggest PV module supplier, opens 5.15GWh battery storage assembly plant",
-    "title_zh": "印度最大的光伏组件供应商Waaree开设5.15GWh电池储能组装厂",
-    "url": "https://www.energy-storage.news/waaree-indias-biggest-pv-module-supplier-opens-5-15gwh-battery-storage-assembly-plant/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-17T09:46:20+00:00"
-  },
-  "82aa1d76f44b": {
-    "id": "82aa1d76f44b",
-    "title_en": "Tongwei claims record-breaking 93.07% bifaciality factor for 770 W solar module",
-    "title_zh": "通威声称770 W太阳能模块的双面系数达到创纪录的93.07%",
-    "url": "https://www.pv-magazine.com/2026/07/17/tongwei-claims-record-breaking-93-07-bifaciality-factor-for-770-w-solar-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T09:45:39+00:00"
-  },
-  "7ba2cb3f3147": {
-    "id": "7ba2cb3f3147",
-    "title_en": "Bluetti features new Balco Series line of products at The smarter E 2026",
-    "title_zh": "Bluetti在智能E 2026上推出了新的Balco系列产品",
-    "url": "https://www.pv-magazine.com/2026/07/17/bluetti-features-new-balco-series-line-of-products-at-the-smarter-e-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T09:45:00+00:00"
-  },
-  "3f2cd075f00e": {
-    "id": "3f2cd075f00e",
-    "title_en": "China wafer prices edge lower on abundant supply and weak downstream demand",
-    "title_zh": "由于供应充足和下游需求疲软，中国晶圆价格小幅下跌",
-    "url": "https://www.pv-magazine.com/2026/07/17/china-wafer-prices-edge-lower-on-abundant-supply-and-weak-downstream-demand/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T09:31:40+00:00"
-  },
-  "f4d9a71179ff": {
-    "id": "f4d9a71179ff",
-    "title_en": "States join renewables’ lawsuit over US wind permitting freeze",
-    "title_zh": "各州加入可再生能源对美国风能许可冻结的诉讼",
-    "url": "https://www.windpowermonthly.com/article/1964912/states-join-renewables-lawsuit-us-wind-permitting-freeze",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-17T09:30:03+00:00"
-  },
-  "cfaf48d8afc7": {
-    "id": "cfaf48d8afc7",
-    "title_en": "Libya Declares Major Oil Discovery Commercial as Production Revival Gains Pace",
-    "title_zh": "随着生产复苏的步伐加快，利比亚宣布重大石油发现商业化",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Declares-Major-Oil-Discovery-Commercial-as-Production-Revival-Gains-Pace.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T09:30:00+00:00"
-  },
-  "158679a647f0": {
-    "id": "158679a647f0",
-    "title_en": "Turbine Installation at Thor Offshore Wind Farm Reaches Halfway Point",
-    "title_zh": "Thor海上风电场的涡轮机安装已达到一半",
-    "url": "https://www.offshorewind.biz/2026/07/17/turbine-installation-at-thor-offshore-wind-farm-reaches-halfway-point/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-17T08:50:45+00:00"
-  },
-  "baa791c4cf9c": {
-    "id": "baa791c4cf9c",
-    "title_en": "Iran-Linked LPG Tankers Turn Back as U.S. Blockade Tightens",
-    "title_zh": "与伊朗有关的液化石油气油轮因美国封锁收紧而折返",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Linked-LPG-Tankers-Turn-Back-as-US-Blockade-Tightens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T08:30:00+00:00"
-  },
-  "6ba9cc3387ec": {
-    "id": "6ba9cc3387ec",
-    "title_en": "TotalEnergies and partners open hybrid renewable project in South Africa",
-    "title_zh": "TotalEnergies及其合作伙伴在南非启动混合可再生能源项目",
-    "url": "https://www.energymonitor.ai/news/totalenergies-open-hybrid-project-sa/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-17T08:20:28+00:00"
-  },
-  "3038208612c0": {
-    "id": "3038208612c0",
-    "title_en": "Suntech: Building Trust Through 25 Years of Solar Innovation",
-    "title_zh": "尚德：通过25年的太阳能创新建立信任",
-    "url": "https://www.pv-tech.org/suntech-building-trust-through-25-years-of-solar-innovation/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T08:03:37+00:00"
   }
 }
