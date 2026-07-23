@@ -1,4 +1,130 @@
 {
+  "b97761054a38": {
+    "id": "b97761054a38",
+    "title_en": "Hail storm damages PV systems across Italy’s Marche region",
+    "title_zh": "冰雹风暴损坏了意大利马尔凯地区的光伏系统",
+    "url": "https://www.pv-magazine.com/2026/07/23/hail-storm-damages-pv-systems-across-italys-marche-region/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T11:07:30+00:00"
+  },
+  "2e224666650c": {
+    "id": "2e224666650c",
+    "title_en": "Analysis: Recent AI data centre BESS technology and deployment partnerships",
+    "title_zh": "分析：最近的人工智能数据中心BESS技术和部署合作伙伴关系",
+    "url": "https://www.energy-storage.news/analysis-recent-ai-data-centre-bess-technology-and-deployment-partnerships/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T10:37:12+00:00"
+  },
+  "06493808f39c": {
+    "id": "06493808f39c",
+    "title_en": "ARRAY claims superior weather resilience with 60-degree tracker",
+    "title_zh": "ARRAY声称其60度跟踪器具有卓越的天气弹性",
+    "url": "https://www.pv-tech.org/array-duratrack-60-degree-hail-resilience/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T10:17:39+00:00"
+  },
+  "2cbc1b13bb0a": {
+    "id": "2cbc1b13bb0a",
+    "title_en": "BW Ideol, NGE Partner on Floating Wind Foundation Manufacturing Facility in Southern France",
+    "title_zh": "BW Ideol，法国南部浮式风力基础制造工厂的NGE合作伙伴",
+    "url": "https://www.offshorewind.biz/2026/07/23/bw-ideol-nge-partner-on-floating-wind-foundation-manufacturing-facility-in-southern-france/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-23T10:15:00+00:00"
+  },
+  "ae81659ce49a": {
+    "id": "ae81659ce49a",
+    "title_en": "‘Growing interest’ in US microgrids attracts tax equity investor Foss & Company to US$30 million Maryland deal",
+    "title_zh": "对美国微电网的“兴趣日益增长”吸引了税务股权投资者Foss&Company以3000万美元收购马里兰州",
+    "url": "https://www.energy-storage.news/growing-interest-in-us-microgrids-attracts-tax-equity-investor-foss-company-to-us30-million-maryland-deal/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T10:14:33+00:00"
+  },
+  "60ff480e64fc": {
+    "id": "60ff480e64fc",
+    "title_en": "ON.Energy and Crusoe partner on UPS technology for US data centres, Skeleton Tech in 800 VDC partnership with DG Matrix",
+    "title_zh": "ON.Energy和Crusoe在美国数据中心UPS技术方面的合作伙伴，Skeleton Tech与DG Matrix在800 VDC方面的合作",
+    "url": "https://www.energy-storage.news/on-energy-and-crusoe-partner-on-ups-technology-for-us-data-centres-skeleton-tech-in-800-vdc-partnership-with-dg-matrix/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T10:05:47+00:00"
+  },
+  "956716611a19": {
+    "id": "956716611a19",
+    "title_en": "Spain and Portugal back 3.5GW of new pumped hydro energy storage capacity",
+    "title_zh": "西班牙和葡萄牙支持3.5GW的新抽水蓄能容量",
+    "url": "https://www.energy-storage.news/spain-and-portugal-back-3-5gw-of-new-pumped-hydro-energy-storage-capacity/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T10:01:03+00:00"
+  },
+  "d1f94c01253f": {
+    "id": "d1f94c01253f",
+    "title_en": "Tesla’s energy division gross margin declines 19% despite battery storage deployment rebound",
+    "title_zh": "尽管电池存储部署反弹，特斯拉能源部门的毛利率仍下降了19%",
+    "url": "https://www.energy-storage.news/teslas-energy-division-gross-margin-declines-19-despite-battery-storage-deployment-rebound/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T09:58:14+00:00"
+  },
+  "a3a751643936": {
+    "id": "a3a751643936",
+    "title_en": "TotalEnergies Profit Soars 68% as Oil Price Surge Lifts Earnings",
+    "title_zh": "油价飙升提振收益，总能源利润飙升68%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Profit-Soars-68-as-Oil-Price-Surge-Lifts-Earnings.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T09:30:00+00:00"
+  },
+  "81dcdb38d9d2": {
+    "id": "81dcdb38d9d2",
+    "title_en": "Spanish operational PV assets stabilize at €596,000/MW following 50% value decline",
+    "title_zh": "西班牙运营光伏资产在价值下降50%后稳定在596000欧元/MW",
+    "url": "https://www.pv-magazine.com/2026/07/23/spanish-operational-pv-assets-stabilize-at-e596000-mw-following-50-value-decline/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T09:19:44+00:00"
+  },
+  "edb8e6998646": {
+    "id": "edb8e6998646",
+    "title_en": "ML System presents solar tile for demanding architectural applications",
+    "title_zh": "ML系统为要求苛刻的建筑应用提供太阳能瓷砖",
+    "url": "https://www.pv-magazine.com/2026/07/23/ml-system-unveils-solar-tile-for-demanding-architectural-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T09:05:04+00:00"
+  },
+  "b489c808d2dc": {
+    "id": "b489c808d2dc",
+    "title_en": "Oil Prices Climb Toward $100 as Red Sea Risks Rise",
+    "title_zh": "红海风险上升，油价攀升至100美元",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-Toward-100-as-Red-Sea-Risks-Rise.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T09:02:43+00:00"
+  },
+  "3423f2b72a44": {
+    "id": "3423f2b72a44",
+    "title_en": "Smulders Taps Palfinger for East Anglia Two Davit Cranes",
+    "title_zh": "Smulders为东安格利亚的两只吊臂用手指敲击",
+    "url": "https://www.offshorewind.biz/2026/07/23/smulders-taps-palfinger-for-east-anglia-two-davit-cranes/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-23T08:53:38+00:00"
+  },
+  "68403a2af748": {
+    "id": "68403a2af748",
+    "title_en": "Sinovoltaics updates solar module manufacturer financial stability ranking",
+    "title_zh": "中国光伏更新太阳能组件制造商财务稳定性排名",
+    "url": "https://www.pv-magazine.com/2026/07/23/sinovoltaics-updates-solar-module-manufacturer-financial-stability-ranking-4/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T08:37:05+00:00"
+  },
   "476cf1f246b0": {
     "id": "476cf1f246b0",
     "title_en": "EU Concedes to Greek LNG Demand in Russian Sanctions Row",
@@ -16,6 +142,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-23T07:43:24+00:00"
+  },
+  "80f2f8cf03db": {
+    "id": "80f2f8cf03db",
+    "title_en": "MN8 Energy to buy Greenbacker in $375m deal",
+    "title_zh": "MN8 Energy以3.75亿美元收购Greenbacker",
+    "url": "https://www.energymonitor.ai/news/mn8-to-buy-greenbacker/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-23T07:42:20+00:00"
   },
   "d8ada7930e5b": {
     "id": "d8ada7930e5b",
@@ -4363,140 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-17T08:03:37+00:00"
-  },
-  "e0a55d92bbbb": {
-    "id": "e0a55d92bbbb",
-    "title_en": "South Korean Cable Maker Takes Delivery of Its Second Cable Laying Vessel",
-    "title_zh": "韩国电缆制造商交付第二艘电缆铺设船",
-    "url": "https://www.offshorewind.biz/2026/07/17/south-korean-cable-maker-takes-delivery-of-its-second-cable-laying-vessel/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-17T07:46:16+00:00"
-  },
-  "30548d1e747a": {
-    "id": "30548d1e747a",
-    "title_en": "Pakistan Plans Fresh LNG Purchases Amid Strait of Hormuz Shutdown",
-    "title_zh": "巴基斯坦计划在霍尔木兹海峡关闭期间购买新的液化天然气",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-Fresh-LNG-Purchases-Amid-Strait-of-Hormuz-Shutdown.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T07:30:00+00:00"
-  },
-  "eaa34e884908": {
-    "id": "eaa34e884908",
-    "title_en": "PJM’s old way of getting power built isn’t working. Has it found a fix?",
-    "title_zh": "PJM旧的发电方式不起作用了。它找到解决办法了吗？",
-    "url": "https://www.canarymedia.com/articles/data-centers/pjm-get-power-built-fix",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-17T07:30:00+00:00"
-  },
-  "8aa39bb6f354": {
-    "id": "8aa39bb6f354",
-    "title_en": "Nuclear energy could be in for a big decade",
-    "title_zh": "核能可能会持续十年",
-    "url": "https://www.canarymedia.com/articles/nuclear/nuclear-energy-big-decade",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-17T07:30:00+00:00"
-  },
-  "7c435d8eb0e1": {
-    "id": "7c435d8eb0e1",
-    "title_en": "Giving away excess daytime solar for free",
-    "title_zh": "免费赠送多余的日间太阳能",
-    "url": "https://www.pv-magazine.com/2026/07/17/giving-away-excess-daytime-solar-for-free/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T07:27:48+00:00"
-  },
-  "745bfbbaedaf": {
-    "id": "745bfbbaedaf",
-    "title_en": "Oman plans 6 GW solar cell, module factory",
-    "title_zh": "阿曼计划建造6吉瓦太阳能电池和组件工厂",
-    "url": "https://www.pv-magazine.com/2026/07/17/oman-plans-6-gw-solar-cell-module-factory/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T07:25:19+00:00"
-  },
-  "0857f4950d57": {
-    "id": "0857f4950d57",
-    "title_en": "The Hydrogen Stream: Tanaka energizes 500 kW fuel cell facility in Japan",
-    "title_zh": "氢流：田中为日本500千瓦燃料电池设施供电",
-    "url": "https://www.pv-magazine.com/2026/07/17/the-hydrogen-stream-tanaka-energizes-500-kw-pure-hydrogen-fuel-cell-facility-in-japan/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T07:00:17+00:00"
-  },
-  "9943f77890e3": {
-    "id": "9943f77890e3",
-    "title_en": "AI-powered 9-ton tracked robot for large-scale PV construction",
-    "title_zh": "人工智能驱动的9吨履带式机器人，用于大规模光伏建设",
-    "url": "https://www.pv-magazine.com/2026/07/17/ai-powered-9-ton-tracked-robot-for-large-scale-pv-construction/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T06:33:22+00:00"
-  },
-  "62d7952c9fa4": {
-    "id": "62d7952c9fa4",
-    "title_en": "Argentina’s electricity demand fell by 1,700 MW during World Cup semifinal against England",
-    "title_zh": "在世界杯半决赛对阵英格兰的比赛中，阿根廷的电力需求下降了1700兆瓦",
-    "url": "https://www.pv-magazine.com/2026/07/17/argentinas-electricity-demand-fell-by-1700-mw-during-world-cup-semifinal-against-england/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T06:05:33+00:00"
-  },
-  "64952b059d18": {
-    "id": "64952b059d18",
-    "title_en": "Construction begins on 31 MW agrivoltaic project in New Zealand",
-    "title_zh": "新西兰31兆瓦农业光伏项目开工",
-    "url": "https://www.pv-magazine.com/2026/07/17/31-mw-agrovoltaic-project-kicks-off-construction-in-new-zealand/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T05:42:05+00:00"
-  },
-  "71f1ee4a4391": {
-    "id": "71f1ee4a4391",
-    "title_en": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
-    "title_zh": "随着伊朗战争升级，油价将出现自4月以来的最大周涨幅",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T05:41:26+00:00"
-  },
-  "0a014ddef206": {
-    "id": "0a014ddef206",
-    "title_en": "Scientists build 31%-efficient indium-free tandem perovskite silicon mini-module via reactive plasma deposition",
-    "title_zh": "科学家通过反应性等离子体沉积建造了31%效率的无铟串联钙钛矿硅微型模块",
-    "url": "https://www.pv-magazine.com/2026/07/17/research-breakthrough-develops-indium-free-tandem-solar-cell-with-31-efficiency/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T05:39:28+00:00"
-  },
-  "96886288a6ec": {
-    "id": "96886288a6ec",
-    "title_en": "ib vogt wins approval for 480MWh battery storage site in Australia’s Wagga Wagga Special Activation Precinct",
-    "title_zh": "ib vogt在澳大利亚Wagga Wagga特别激活区获得480MWh电池储能基地的批准",
-    "url": "https://www.energy-storage.news/ib-vogt-wins-approval-for-480mwh-battery-storage-site-in-australias-wagga-wagga-special-activation-precinct/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-17T04:21:49+00:00"
-  },
-  "670c0c49951a": {
-    "id": "670c0c49951a",
-    "title_en": "Port of Newcastle cleared to safely stage grid-scale battery storage systems in New South Wales, Australia",
-    "title_zh": "纽卡斯尔港获准在澳大利亚新南威尔士州安全部署电网规模的电池储能系统",
-    "url": "https://www.energy-storage.news/port-of-newcastle-cleared-to-safely-stage-grid-scale-battery-storage-systems-in-new-south-wales-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-17T04:18:05+00:00"
-  },
-  "b26372334f95": {
-    "id": "b26372334f95",
-    "title_en": "Holistic approach wins for agrivoltaics",
-    "title_zh": "整体方法赢得农业光伏",
-    "url": "https://www.pv-magazine.com/2026/07/17/holistic-approach-wins-for-agrivoltaics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-17T04:00:00+00:00"
   }
 }
