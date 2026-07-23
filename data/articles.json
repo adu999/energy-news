@@ -1,4 +1,49 @@
 {
+  "bc1a0b92553c": {
+    "id": "bc1a0b92553c",
+    "title_en": "IEA: Global power demand is surging – and renewables are passing coal",
+    "title_zh": "国际能源署：全球电力需求激增，可再生能源正在超越煤炭",
+    "url": "https://electrek.co/2026/07/22/iea-global-power-demand-is-surging-and-renewables-are-passing-coal/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-23T05:00:00+00:00"
+  },
+  "a14d776085d6": {
+    "id": "a14d776085d6",
+    "title_en": "New rules for Poland’s grid",
+    "title_zh": "波兰电网新规",
+    "url": "https://www.pv-magazine.com/2026/07/23/new-rules-for-polands-grid/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T04:00:00+00:00"
+  },
+  "b9524c59bfb7": {
+    "id": "b9524c59bfb7",
+    "title_en": "Aquila Clean Energy energises 38MW solar PV plant in New Zealand’s Bay of Plenty",
+    "title_zh": "Aquila Clean Energy为新西兰丰盛湾的38MW太阳能光伏电站供电",
+    "url": "https://www.pv-tech.org/aquila-clean-energy-energises-38mw-solar-pv-plant-in-new-zealands-bay-of-plenty/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T03:12:36+00:00"
+  },
+  "961f9d2faf05": {
+    "id": "961f9d2faf05",
+    "title_en": "Australia suspends 21 solar companies from Small-scale Renewable Energy Scheme in compliance crackdown",
+    "title_zh": "澳大利亚暂停21家太阳能公司参与小型可再生能源计划，以打击合规行为",
+    "url": "https://www.pv-tech.org/australia-suspends-21-solar-companies-from-small-scale-renewable-energy-scheme-in-compliance-crackdown/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T03:09:46+00:00"
+  },
+  "644269b134e1": {
+    "id": "644269b134e1",
+    "title_en": "Australia’s Clean Energy Investor Group calls for faster, clearer EPBC Act implementation",
+    "title_zh": "澳大利亚清洁能源投资集团呼吁更快、更清晰地实施《环境保护与商业连续性法案》",
+    "url": "https://www.energy-storage.news/australias-clean-energy-investor-group-calls-for-faster-clearer-epbc-act-implementation/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-23T03:07:16+00:00"
+  },
   "3e8ef9a1f09b": {
     "id": "3e8ef9a1f09b",
     "title_en": "Brent Nears $96 as U.S. Strikes Iran for 12th Consecutive Night",
@@ -4453,50 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-16T20:17:21+00:00"
-  },
-  "0ce306e56e96": {
-    "id": "0ce306e56e96",
-    "title_en": "Smart Energy Management Research Could Unlock Grid Flexibility & Cost Savings",
-    "title_zh": "智能能源管理研究可以释放电网灵活性和成本节约",
-    "url": "https://cleantechnica.com/2026/07/16/smart-energy-management-research-could-unlock-grid-flexibility-cost-savings/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-16T20:10:33+00:00"
-  },
-  "739710ade371": {
-    "id": "739710ade371",
-    "title_en": "NLR Battery Innovation Awarded NASA’s Invention of the Year",
-    "title_zh": "NLR电池创新荣获美国国家航空航天局年度发明奖",
-    "url": "https://cleantechnica.com/2026/07/16/nlr-battery-innovation-awarded-nasas-invention-of-the-year-2/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-16T20:04:20+00:00"
-  },
-  "80025ad80160": {
-    "id": "80025ad80160",
-    "title_en": "Yemen's Houthis Threaten New Oil Shock as Civil War Reignites",
-    "title_zh": "也门内战再次爆发，胡塞武装威胁要发动新的石油危机",
-    "url": "https://oilprice.com/Energy/Energy-General/Yemens-Houthis-Threaten-New-Oil-Shock-as-Civil-War-Reignites.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-16T20:00:00+00:00"
-  },
-  "eedcef174277": {
-    "id": "eedcef174277",
-    "title_en": "Kia EV2 Long Range goes on sale with 281 miles of range, plus GT and Black-Line trims",
-    "title_zh": "起亚EV2 Long Range上市，续航281英里，加上GT和黑线装饰",
-    "url": "https://electrek.co/2026/07/16/kia-ev2-long-range-on-sale-281-miles-of-range/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-16T19:55:02+00:00"
-  },
-  "ac70b4d7e8ff": {
-    "id": "ac70b4d7e8ff",
-    "title_en": "Siemens Energy Will Shed the Siemens Name, Rebrand as Omterra",
-    "title_zh": "西门子能源将更名为Omterra",
-    "url": "https://www.powermag.com/siemens-energy-will-shed-the-siemens-name-rebrand-as-omterra/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-16T19:35:37+00:00"
   }
 }
