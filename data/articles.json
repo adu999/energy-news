@@ -1,4 +1,175 @@
 {
+  "eec92dd389a1": {
+    "id": "eec92dd389a1",
+    "title_en": "Pakistan Transporters Threaten Nationwide Strike Over Fuel Price Hikes",
+    "title_zh": "巴基斯坦运输公司威胁就燃料价格上涨举行全国罢工",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Transporters-Threaten-Nationwide-Strike-Over-Fuel-Price-Hikes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T13:30:00+00:00"
+  },
+  "bc897b9707c2": {
+    "id": "bc897b9707c2",
+    "title_en": "New solar output is still outpacing fossil fuels, nuclear",
+    "title_zh": "新的太阳能产量仍超过化石燃料和核能",
+    "url": "https://www.solarpowerworldonline.com/2026/07/new-solar-output-is-still-outpacing-fossil-fuels-nuclear/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T13:25:20+00:00"
+  },
+  "447f341c461e": {
+    "id": "447f341c461e",
+    "title_en": "Aiko’s ABC modules receive TÜV Rheinland’s ‘anti-ignition’ certification",
+    "title_zh": "爱子的ABC模块获得德国莱茵TÜV“防爆”认证",
+    "url": "https://www.pv-tech.org/aikos-abc-modules-receive-tuv-rheinland-anti-ignition-certification/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T13:17:52+00:00"
+  },
+  "7162d7bcd2ec": {
+    "id": "7162d7bcd2ec",
+    "title_en": "NHTSA denies Tesla door-release defect petition, opens new door rules",
+    "title_zh": "NHTSA驳回特斯拉车门释放缺陷申请，开启新车门规则",
+    "url": "https://electrek.co/2026/07/24/nhtsa-denies-tesla-door-release-defect-petition-opens-rulemaking/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T13:16:56+00:00"
+  },
+  "9a5b395a0828": {
+    "id": "9a5b395a0828",
+    "title_en": "Hyundai Motor Group Launches AllDayEnergy, Its Global V2X Service",
+    "title_zh": "现代汽车集团推出全球V2X服务AllDayEnergy",
+    "url": "https://cleantechnica.com/2026/07/24/hyundai-motor-group-launches-alldayenergy-its-global-v2x-service/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T13:16:42+00:00"
+  },
+  "87ab07e19e21": {
+    "id": "87ab07e19e21",
+    "title_en": "China adopts tougher mandatory energy limits for polysilicon plants",
+    "title_zh": "中国对多晶硅厂实施更严格的强制性能源限制",
+    "url": "https://www.pv-magazine.com/2026/07/24/china-adopts-tougher-mandatory-energy-limits-for-polysilicon-plants/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T12:40:00+00:00"
+  },
+  "07256b31efdb": {
+    "id": "07256b31efdb",
+    "title_en": "Hormuz Tanker Crossings Sink to Lowest Level Since May as War Risk Spikes",
+    "title_zh": "随着战争风险飙升，霍尔木兹油轮过境点降至5月以来的最低水平",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Crossings-Sink-to-Lowest-Level-Since-May-as-War-Risk-Spikes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T12:30:00+00:00"
+  },
+  "3335313797af": {
+    "id": "3335313797af",
+    "title_en": "Canadian Solar ramps HJT solar cell manufacturing in Indiana",
+    "title_zh": "加拿大太阳能公司在印第安纳州扩大HJT太阳能电池制造",
+    "url": "https://www.solarpowerworldonline.com/2026/07/canadian-solar-ramps-hjt-solar-cell-manufacturing-in-indiana/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T12:28:43+00:00"
+  },
+  "a03760974e68": {
+    "id": "a03760974e68",
+    "title_en": "How to win and how not to lose: What the Football World Cup final teaches us about leading the energy transition",
+    "title_zh": "如何赢，如何不输：足球世界杯决赛教会了我们如何领导能源转型",
+    "url": "https://www.pv-magazine.com/2026/07/24/how-to-win-and-how-not-to-lose-what-the-football-world-cup-final-teaches-us-about-leading-the-energy-transition/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T12:00:00+00:00"
+  },
+  "efdffb1afd68": {
+    "id": "efdffb1afd68",
+    "title_en": "Tunisia authorizes residential solar-plus-storage amid heatwave",
+    "title_zh": "突尼斯在热浪中批准住宅太阳能+储能",
+    "url": "https://www.pv-magazine.com/2026/07/24/tunisia-authorizes-residential-solar-plus-storage-amid-heatwave/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:59:20+00:00"
+  },
+  "a090d14d3dcb": {
+    "id": "a090d14d3dcb",
+    "title_en": "Chinese PV Industry Brief: H1 solar additions total just 72 GW",
+    "title_zh": "中国光伏产业简报：上半年太阳能新增总量仅为72吉瓦",
+    "url": "https://www.pv-magazine.com/2026/07/24/chinese-pv-industry-brief-h1-solar-additions-total-just-72-gw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:45:07+00:00"
+  },
+  "d371242c44b2": {
+    "id": "d371242c44b2",
+    "title_en": "Mounting system for photovoltaic installations on gabions",
+    "title_zh": "石笼上光伏装置的安装系统",
+    "url": "https://www.pv-magazine.com/2026/07/24/mounting-system-for-photovoltaic-installations-on-gabions/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:38:53+00:00"
+  },
+  "d0f1478a3320": {
+    "id": "d0f1478a3320",
+    "title_en": "Panamint Capital breaks ground on 1.2GWdc Texas solar project",
+    "title_zh": "Panamint Capital在德克萨斯州1.2GWdc太阳能项目上破土动工",
+    "url": "https://www.pv-tech.org/panamint-capital-breaks-ground-on-1-2gwdc-texas-solar-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:37:25+00:00"
+  },
+  "7d08055ba8e6": {
+    "id": "7d08055ba8e6",
+    "title_en": "German startup launches high-voltage sodium-ion battery for residential applications",
+    "title_zh": "德国初创公司推出用于住宅应用的高压钠离子电池",
+    "url": "https://www.pv-magazine.com/2026/07/24/german-startup-launches-high-voltage-sodium-ion-battery-for-residential-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:33:44+00:00"
+  },
+  "db9ebb2aa96f": {
+    "id": "db9ebb2aa96f",
+    "title_en": "Saudi Crude Tanker Goes Dark to Slip Through Bab el-Mandeb",
+    "title_zh": "沙特原油油轮在Bab el-Mandeb沉没",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Tanker-Goes-Dark-to-Slip-Through-Bab-el-Mandeb.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T11:30:00+00:00"
+  },
+  "c2664e560d26": {
+    "id": "c2664e560d26",
+    "title_en": "Access to finance ‘strengthens climate resilience’ among sub-Saharan women",
+    "title_zh": "获得融资“增强了撒哈拉以南非洲妇女的气候适应能力”",
+    "url": "https://www.carbonbrief.org/access-to-finance-strengthens-climate-resilience-among-sub-saharan-women",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-24T11:29:45+00:00"
+  },
+  "ef026627e0ad": {
+    "id": "ef026627e0ad",
+    "title_en": "Ontario wildfire smoke suppresses irradiance across the Great Lakes",
+    "title_zh": "安大略省野火烟雾抑制了五大湖的辐照度",
+    "url": "https://www.pv-magazine.com/2026/07/24/71629/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:25:31+00:00"
+  },
+  "72b7fb26ee9a": {
+    "id": "72b7fb26ee9a",
+    "title_en": "EVs Take 34.5% Share In France — Renault & Tesla Dominate",
+    "title_zh": "电动汽车在法国占34.5%的份额——雷诺和特斯拉占主导地位",
+    "url": "https://cleantechnica.com/2026/07/24/evs-take-34-5-share-in-france-renault-and-tesla-dominate/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T11:22:05+00:00"
+  },
+  "31f7d9d433eb": {
+    "id": "31f7d9d433eb",
+    "title_en": "The Hydrogen Stream: green hydrogen production begins at North Sea gas platform",
+    "title_zh": "氢流：北海天然气平台开始绿色氢气生产",
+    "url": "https://www.pv-magazine.com/2026/07/24/the-hydrogen-stream-green-hydrogen-production-begins-at-north-sea-gas-platform/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T11:08:00+00:00"
+  },
   "a3fd91b6c0bd": {
     "id": "a3fd91b6c0bd",
     "title_en": "WTI Explodes Higher as Middle East Shipping Risks Multiply",
@@ -34,6 +205,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-24T11:00:00+00:00"
+  },
+  "be4b8cd0507b": {
+    "id": "be4b8cd0507b",
+    "title_en": "State of the climate: Rapidly developing El Niño raises chance of record-warm 2026",
+    "title_zh": "气候状况：快速发展的厄尔尼诺现象增加了2026年创纪录的温暖机会",
+    "url": "https://www.carbonbrief.org/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-24T10:59:37+00:00"
   },
   "aa919609f7ac": {
     "id": "aa919609f7ac",
@@ -2086,6 +2266,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-22T10:19:12+00:00"
+  },
+  "e6b15feb1d7f": {
+    "id": "e6b15feb1d7f",
+    "title_en": "Beyond AI: Future-proofing oil and gas with private 5G",
+    "title_zh": "超越人工智能：通过私有5G实现面向未来的石油和天然气",
+    "url": "https://www.energymonitor.ai/sponsored/beyond-ai-future-proofing-oil-and-gas-with-private-5g/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-22T10:08:43+00:00"
   },
   "831d0fff0cde": {
     "id": "831d0fff0cde",
@@ -4309,194 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-20T08:13:25+00:00"
-  },
-  "ce128fc0fa32": {
-    "id": "ce128fc0fa32",
-    "title_en": "Lodestone Energy begins work on 31.5MWp solar PV plant in New Zealand",
-    "title_zh": "Lodestone Energy开始在新西兰建设31.5MWp太阳能光伏电站",
-    "url": "https://www.pv-tech.org/lodestone-energy-begins-work-on-31-5mwp-solar-pv-plant-in-new-zealand/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T08:11:38+00:00"
-  },
-  "18ceb603ac63": {
-    "id": "18ceb603ac63",
-    "title_en": "Australia adds 9.1GW of new generation and storage in FY26 with battery storage dominating",
-    "title_zh": "澳大利亚在FY26增加了9.1GW的新一代和储能，其中电池储能占主导地位",
-    "url": "https://www.energy-storage.news/australia-adds-9-1gw-of-new-generation-and-storage-in-fy26-with-battery-storage-dominating/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-20T07:57:48+00:00"
-  },
-  "26dfa09fbfa2": {
-    "id": "26dfa09fbfa2",
-    "title_en": "An old-school geothermal giant rides the tech’s newfound popularity",
-    "title_zh": "一位老派的地热巨头利用这项技术的新人气",
-    "url": "https://www.canarymedia.com/articles/geothermal/ormat-next-gen-geothermal-popularity",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-20T07:30:00+00:00"
-  },
-  "2a282a79b395": {
-    "id": "2a282a79b395",
-    "title_en": "Massachusetts bill would end a costly gas pipeline repair program",
-    "title_zh": "马萨诸塞州的法案将终止昂贵的天然气管道维修计划",
-    "url": "https://www.canarymedia.com/articles/utilities/massachusetts-gas-pipeline-repair-program",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-20T07:30:00+00:00"
-  },
-  "84bd76440057": {
-    "id": "84bd76440057",
-    "title_en": "LNG Shipments Through Strait of Hormuz Grind to a Halt as Conflict Escalates",
-    "title_zh": "随着冲突升级，霍尔木兹海峡的液化天然气运输停止",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Shipments-Through-Strait-of-Hormuz-Grind-to-a-Halt-as-Conflict-Escalates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T07:10:00+00:00"
-  },
-  "44c2729b780d": {
-    "id": "44c2729b780d",
-    "title_en": "Charging Infrastructure Has Far Outpaced EV Sales In All But One EU Country — Analysis",
-    "title_zh": "充电基础设施在除一个欧盟国家外的所有国家都远远超过了电动汽车的销量——分析",
-    "url": "https://cleantechnica.com/2026/07/20/charging-infrastructure-has-far-outpaced-ev-sales-in-all-but-one-eu-country-analysis/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T07:00:05+00:00"
-  },
-  "54216e75e573": {
-    "id": "54216e75e573",
-    "title_en": "Scottish Government Greenlights 2 GW Caledonia Offshore Wind Farm",
-    "title_zh": "苏格兰政府批准2吉瓦喀里多尼亚海上风电场",
-    "url": "https://www.offshorewind.biz/2026/07/20/scottish-government-greenlights-2-gw-caledonia-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-20T06:57:23+00:00"
-  },
-  "ca1cd6d8aa43": {
-    "id": "ca1cd6d8aa43",
-    "title_en": "Ocean Winds secures consent for 2GW Caledonia offshore project",
-    "title_zh": "Ocean Winds获得2GW Caledonia海上项目的同意",
-    "url": "https://www.energymonitor.ai/news/ocean-winds-consent-2gw-caledonia-offshore-project/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-20T06:56:55+00:00"
-  },
-  "9955ae34a4c6": {
-    "id": "9955ae34a4c6",
-    "title_en": "XPENG L03 Launches With Strong German Pricing & Shocking Prices In Norway",
-    "title_zh": "XPENG L03在挪威以强劲的德国定价和令人震惊的价格推出",
-    "url": "https://cleantechnica.com/2026/07/20/xpeng-l03-launches-with-strong-german-pricing-shocking-prices-in-norway/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T06:16:00+00:00"
-  },
-  "145abc614362": {
-    "id": "145abc614362",
-    "title_en": "Electrification action plan aims to make Europe world’s first electric-powered continent",
-    "title_zh": "电气化行动计划旨在使欧洲成为世界上第一个电动大陆",
-    "url": "https://www.pv-magazine.com/2026/07/20/electrification-action-plan-aims-to-make-europe-worlds-first-electric-powered-continent/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T05:48:18+00:00"
-  },
-  "b08dd310e581": {
-    "id": "b08dd310e581",
-    "title_en": "Gulf Oil Exports Briefly Recovered to Pre-War Levels Before Latest Escalation",
-    "title_zh": "海湾石油出口在最近一次升级前短暂恢复到战前水平",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Oil-Exports-Briefly-Recovered-to-Pre-War-Levels-Before-Latest-Escalation.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T05:47:37+00:00"
-  },
-  "33a34c0ca862": {
-    "id": "33a34c0ca862",
-    "title_en": "Australia sees record surge in solar, wind and battery projects",
-    "title_zh": "澳大利亚太阳能、风能和电池项目创历史新高",
-    "url": "https://www.pv-magazine.com/2026/07/20/solar-wind-and-battery-projects-surge-to-record-high/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T05:40:07+00:00"
-  },
-  "0734a887d1c5": {
-    "id": "0734a887d1c5",
-    "title_en": "Fight Forest Fires With Heat Pumps",
-    "title_zh": "用热泵扑灭森林火灾",
-    "url": "https://cleantechnica.com/2026/07/20/fight-forest-fires-with-heat-pumps/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T05:00:35+00:00"
-  },
-  "65392317d74c": {
-    "id": "65392317d74c",
-    "title_en": "US Hydropower Faces Supply Chain Challenges With Large Power Transformers",
-    "title_zh": "美国水电面临大型电力变压器供应链挑战",
-    "url": "https://cleantechnica.com/2026/07/20/us-hydropower-faces-supply-chain-challenges-with-large-power-transformers/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T04:10:45+00:00"
-  },
-  "46266551c521": {
-    "id": "46266551c521",
-    "title_en": "The silicon recycling loop remains open",
-    "title_zh": "硅回收回路保持打开状态",
-    "url": "https://www.pv-magazine.com/2026/07/20/the-silicon-recycling-loop-remains-open/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T04:00:00+00:00"
-  },
-  "e055ebc7bf05": {
-    "id": "e055ebc7bf05",
-    "title_en": "Did Scientists Just Solve The Biggest Mystery Holding Back Solid-State Batteries",
-    "title_zh": "科学家们刚刚解开了阻碍固态电池发展的最大谜团吗",
-    "url": "https://oilprice.com/Energy/Energy-General/Did-Scientists-Just-Solve-The-Biggest-Mystery-Holding-Back-Solid-State-Batteries.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-19T23:00:00+00:00"
-  },
-  "ad46a82739b6": {
-    "id": "ad46a82739b6",
-    "title_en": "Australia moves to legislate net-generator requirement for large-scale data centres",
-    "title_zh": "澳大利亚立法要求大型数据中心的网络生成器",
-    "url": "https://www.energy-storage.news/australia-moves-to-legislate-net-generator-requirement-for-large-scale-data-centres/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-19T22:48:00+00:00"
-  },
-  "87caa1a2b425": {
-    "id": "87caa1a2b425",
-    "title_en": "Chinese Wuling Bingo could come to North America as an entry-level Chevy EV",
-    "title_zh": "中国五菱宾果可能会作为入门级雪佛兰电动汽车进入北美市场",
-    "url": "https://electrek.co/2026/07/19/chinese-wuling-bingo-could-come-to-north-america-as-an-entry-level-chevy-ev/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-19T22:28:34+00:00"
-  },
-  "5abec7e15e7b": {
-    "id": "5abec7e15e7b",
-    "title_en": "Survey Sunday: is Slate Auto’s affordable electric truck going to make it?",
-    "title_zh": "周日调查：Slate Auto的平价电动卡车会成功吗？",
-    "url": "https://electrek.co/2026/07/19/survey-sunday-is-slate-autos-affordable-electric-truck-going-to-make-it/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-19T21:20:04+00:00"
-  },
-  "56f87dd2f7ff": {
-    "id": "56f87dd2f7ff",
-    "title_en": "Europe Was Supposed to Run Out of Jet Fuel by June. It Didn’t",
-    "title_zh": "欧洲本应在6月耗尽喷气燃料。它没有",
-    "url": "https://oilprice.com/Energy/Energy-General/Europe-Was-Supposed-to-Run-Out-of-Jet-Fuel-by-June-It-Didnt.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-19T21:00:00+00:00"
-  },
-  "d3c9a00d0579": {
-    "id": "d3c9a00d0579",
-    "title_en": "Pilot hits new EV milestone with 300th DC fast charging location",
-    "title_zh": "Pilot在第300个直流快速充电位置实现了电动汽车的新里程碑",
-    "url": "https://electrek.co/2026/07/19/pilot-hits-new-ev-milestone-with-300th-dc-fast-charging-location/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-19T20:27:32+00:00"
   }
 }
