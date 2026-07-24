@@ -1,4 +1,94 @@
 {
+  "b89b367bd5b4": {
+    "id": "b89b367bd5b4",
+    "title_en": "Renewables Provide More Than 30% of US Electricity",
+    "title_zh": "可再生能源提供了美国30%以上的电力",
+    "url": "https://cleantechnica.com/2026/07/23/renewables-provide-more-than-30-of-us-electricity/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T02:05:53+00:00"
+  },
+  "db102b627c44": {
+    "id": "db102b627c44",
+    "title_en": "EV Charging Infrastructure Partnerships Starting to Grow In Kenya",
+    "title_zh": "肯尼亚电动汽车充电基础设施合作伙伴关系开始增长",
+    "url": "https://cleantechnica.com/2026/07/23/ev-charging-infrastructure-partnerships-starting-to-grow-in-kenya/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T01:57:38+00:00"
+  },
+  "3091c0bbc265": {
+    "id": "3091c0bbc265",
+    "title_en": "Army Corps Sued Again for Failing to Protect Waterways, Endangered Wildlife from Pipeline Construction",
+    "title_zh": "陆军再次起诉未能保护水道和濒危野生动物免受管道建设的影响",
+    "url": "https://cleantechnica.com/2026/07/23/army-corps-sued-again-for-failing-to-protect-waterways-endangered-wildlife-from-pipeline-construction/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T01:41:38+00:00"
+  },
+  "32248c53d384": {
+    "id": "32248c53d384",
+    "title_en": "EPA Will Allow SRP to Continue to Recklessly Dump Toxic Waste",
+    "title_zh": "美国环保署将允许SRP继续肆无忌惮地倾倒有毒废物",
+    "url": "https://cleantechnica.com/2026/07/23/epa-will-allow-srp-to-continue-to-recklessly-dump-toxic-waste/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T01:18:58+00:00"
+  },
+  "67493bdd21de": {
+    "id": "67493bdd21de",
+    "title_en": "This is the new 18-in-1 electric vehicle you can build yourself",
+    "title_zh": "这是你可以自己制造的新型18合1电动汽车",
+    "url": "https://electrek.co/2026/07/23/this-is-the-new-18-in-1-electric-vehicle-you-can-build-yourself/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T00:29:00+00:00"
+  },
+  "46340e30cc4b": {
+    "id": "46340e30cc4b",
+    "title_en": "Lithium Prices Sink To Five-Month Lows Amid Oversupply Jitters",
+    "title_zh": "锂价格因供应过剩而跌至五个月低点",
+    "url": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Sink-To-Five-Month-Lows-Amid-Oversupply-Jitters.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T00:00:00+00:00"
+  },
+  "da08ca754820": {
+    "id": "da08ca754820",
+    "title_en": "Trump Administration Eyes Offshore Nuclear to Power AI Boom",
+    "title_zh": "特朗普政府着眼于海上核能发电人工智能热潮",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Eyes-Offshore-Nuclear-to-Power-AI-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-23T23:00:00+00:00"
+  },
+  "ade6bf953d7b": {
+    "id": "ade6bf953d7b",
+    "title_en": "XPENG L03 Impresses In The Details: Part 2",
+    "title_zh": "XPENG L03在细节上令人印象深刻：第二部分",
+    "url": "https://cleantechnica.com/2026/07/23/xpeng-l03-impresses-in-the-details-part-2/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-23T22:31:17+00:00"
+  },
+  "52bfced56288": {
+    "id": "52bfced56288",
+    "title_en": "White House Expands Data Center Ratepayer Pledge as Congress Moves to Codify Protections",
+    "title_zh": "白宫扩大了数据中心纳税人的承诺，因为国会正在将保护措施编入法典",
+    "url": "https://www.powermag.com/white-house-expands-data-center-ratepayer-pledge-as-congress-moves-to-codify-protections/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-23T22:26:47+00:00"
+  },
+  "192a78eafa7e": {
+    "id": "192a78eafa7e",
+    "title_en": "Australia’s Clean Energy Investor Group calls for urgent EPBC Act implementation to unlock renewables",
+    "title_zh": "澳大利亚清洁能源投资集团呼吁紧急实施《环境保护与商业连续性法案》，以解锁可再生能源",
+    "url": "https://www.pv-tech.org/australias-clean-energy-investor-group-calls-for-urgent-epbc-act-implementation-to-unlock-renewables/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-23T22:13:18+00:00"
+  },
   "95c8337764d7": {
     "id": "95c8337764d7",
     "title_en": "OPEC+ Set to Raise Output Again—Even as Members Can't Pump It",
@@ -4408,95 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-17T19:47:48+00:00"
-  },
-  "be24200c5c10": {
-    "id": "be24200c5c10",
-    "title_en": "Podcast: TSLA shareholders wake up, Xpeng targets EU, VW goes cheaper, and more",
-    "title_zh": "播客：TSLA股东觉醒，小鹏瞄准欧盟，大众更便宜，等等",
-    "url": "https://electrek.co/2026/07/17/podcast-tsla-shareholders-wake-up-xpeng-targets-eu-vw-goes-cheaper-and-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-17T19:29:46+00:00"
-  },
-  "f08cfc850eed": {
-    "id": "f08cfc850eed",
-    "title_en": "Getting to Know Your 2026 Tesla",
-    "title_zh": "了解你的2026特斯拉",
-    "url": "https://cleantechnica.com/2026/07/17/getting-to-know-your-2026-tesla/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-17T19:11:54+00:00"
-  },
-  "1247b1165d00": {
-    "id": "1247b1165d00",
-    "title_en": "Clean energy still beats fossil fuels on cost, despite, well, everything",
-    "title_zh": "尽管如此，清洁能源在成本上仍然优于化石燃料",
-    "url": "https://www.canarymedia.com/articles/clean-energy-still-beats-fossil-fuels-on-cost-despite-well-everything",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-17T19:09:00+00:00"
-  },
-  "55dc41a4a239": {
-    "id": "55dc41a4a239",
-    "title_en": "Clean energy still beats fossil fuels on cost, despite, well, everything",
-    "title_zh": "尽管如此，清洁能源在成本上仍然优于化石燃料",
-    "url": "https://www.canarymedia.com/articles/clean-energy/lcoe-lazard-clean-energy",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-17T19:09:00+00:00"
-  },
-  "9ae7a6a03e0e": {
-    "id": "9ae7a6a03e0e",
-    "title_en": "How To Climb a Critical Mineral Mountain? Come Together, Right Now",
-    "title_zh": "如何攀登关键的矿物山？现在就来吧",
-    "url": "https://cleantechnica.com/2026/07/17/how-to-climb-a-critical-mineral-mountain-come-together-right-now/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-17T18:42:43+00:00"
-  },
-  "4996e1162693": {
-    "id": "4996e1162693",
-    "title_en": "India Proposes Stricter Vehicle Emission Rules To Cut Oil Consumption",
-    "title_zh": "印度提出更严格的汽车排放规则以减少石油消耗",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Proposes-Stricter-Vehicle-Emission-Rules-To-Cut-Oil-Consumption.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T18:30:00+00:00"
-  },
-  "8b39ea8c35e5": {
-    "id": "8b39ea8c35e5",
-    "title_en": "Tesla’s Offensive in South America Continues as the Brand Arrives in Uruguay, Cuts Prices in Chile",
-    "title_zh": "特斯拉在南美的攻势仍在继续，因为该品牌抵达乌拉圭，在智利降价",
-    "url": "https://cleantechnica.com/2026/07/17/teslas-offensive-in-south-america-continues-as-the-brand-arrives-in-uruguay-cuts-prices-in-chile/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-17T18:03:00+00:00"
-  },
-  "709abf4cbe90": {
-    "id": "709abf4cbe90",
-    "title_en": "Toyota is offering $3,000 if you trade in your old EV for its new electric SUV",
-    "title_zh": "如果你用旧电动汽车换新的电动SUV，丰田将提供3000美元",
-    "url": "https://electrek.co/2026/07/17/toyota-offers-3000-to-trade-in-old-ev-for-new-electric-suv/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-17T18:03:00+00:00"
-  },
-  "9ea4c59c2a15": {
-    "id": "9ea4c59c2a15",
-    "title_en": "EcoFlow brings back Prime Day power station pricing in sale from $169, Segway Xafari e-bike $1,550 low, EGO Multi-Head, more",
-    "title_zh": "EcoFlow将Prime Day发电站的售价从169美元恢复到1550美元，Segway Xafari电动自行车的售价更低，EGO多头，更多",
-    "url": "https://electrek.co/2026/07/17/ecoflow-prime-day-power-station-pricing-segway-xafari-e-bike-ego-multi-head-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-17T18:00:00+00:00"
-  },
-  "eb8c994e507b": {
-    "id": "eb8c994e507b",
-    "title_en": "New Jersey Bets Big on Small Nuclear Reactors",
-    "title_zh": "新泽西州大举投资小型核反应堆",
-    "url": "https://oilprice.com/Energy/Energy-General/New-Jersey-Bets-Big-on-Small-Nuclear-Reactors.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T18:00:00+00:00"
   }
 }
