@@ -1,4 +1,94 @@
 {
+  "cbb26eb55447": {
+    "id": "cbb26eb55447",
+    "title_en": "Oil Tops $100 as Supply Crisis Deepens",
+    "title_zh": "随着供应危机加剧，油价突破100美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tops-100-as-Supply-Crisis-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T05:40:00+00:00"
+  },
+  "f6fea0543131": {
+    "id": "f6fea0543131",
+    "title_en": "Wildfire resilience: How vegetation clearing protected an 11 MW solar plant in France",
+    "title_zh": "野火恢复力：植被清理如何保护法国11兆瓦的太阳能发电厂",
+    "url": "https://www.pv-magazine.com/2026/07/24/wildfire-resilience-how-vegetation-clearing-protected-an-11-mw-solar-plant-in-france/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T05:34:24+00:00"
+  },
+  "c4424574b4f5": {
+    "id": "c4424574b4f5",
+    "title_en": "The geopolitics of solar manufacturing and how India can build a China-alternative supply chain",
+    "title_zh": "太阳能制造业的地缘政治以及印度如何建立中国替代供应链",
+    "url": "https://www.pv-magazine.com/2026/07/24/the-geopolitics-of-solar-manufacturing-and-how-can-india-build-a-china-alternative-supply-chain/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T05:10:14+00:00"
+  },
+  "6a10ba92db9d": {
+    "id": "6a10ba92db9d",
+    "title_en": "JinkoSolar targets retail power bills with Sunny 365 solar-storage platform",
+    "title_zh": "晶科太阳能利用Sunny 365太阳能储能平台瞄准零售电费",
+    "url": "https://www.pv-magazine.com/2026/07/24/jinkosolar-targets-retail-power-bills-with-sunny-365-solar-storage-platform/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T05:06:42+00:00"
+  },
+  "89f7e86fe93f": {
+    "id": "89f7e86fe93f",
+    "title_en": "Rayzon Solar, Navitas partner with Caelux to develop 10 GW of perovskite-silicon tandem modules in India",
+    "title_zh": "雷松太阳能与纳维教育携手Caelux在印度开发10吉瓦钙钛矿硅叠层组件",
+    "url": "https://www.pv-magazine.com/2026/07/24/rayzon-solar-navitas-partner-us-based-caelux-to-develop-10-gw-of-perovskite-silicon-tandem-modules-in-india/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T04:52:24+00:00"
+  },
+  "876539d9b001": {
+    "id": "876539d9b001",
+    "title_en": "Array Technologies announces $203 million AWM acquisition and new 60 degree solar tracker",
+    "title_zh": "Array Technologies宣布斥资2.03亿美元收购AWM和新的60度太阳能跟踪器",
+    "url": "https://www.pv-magazine.com/2026/07/24/array-technologies-expands-balance-of-system-platform-with-203-million-awm-acquisition-and-new-60-degree-solar-tracker/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T04:45:45+00:00"
+  },
+  "038b5eb21f69": {
+    "id": "038b5eb21f69",
+    "title_en": "The Iberian BESS paradox",
+    "title_zh": "伊比利亚BESS悖论",
+    "url": "https://www.pv-magazine.com/2026/07/24/the-iberian-bess-paradox/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T04:00:00+00:00"
+  },
+  "b82554e54397": {
+    "id": "b82554e54397",
+    "title_en": "Australia’s Ark Energy locks in AU$1.3 billion for Richmond Valley as 150MW Lansdown Solar West joins EPBC queue",
+    "title_zh": "澳大利亚Ark Energy为Richmond Valley锁定了13亿澳元，因为150MW Lansdown Solar West加入了EPBC的行列",
+    "url": "https://www.pv-tech.org/australias-ark-energy-locks-in-au1-3-billion-for-richmond-valley-as-150mw-lansdown-solar-west-joins-epbc-queue/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T03:38:39+00:00"
+  },
+  "6d2cc0dd2581": {
+    "id": "6d2cc0dd2581",
+    "title_en": "Australia’s Clean Energy Finance Corporation appoints new CEO as clean energy investment push accelerates",
+    "title_zh": "澳大利亚清洁能源金融公司任命新任首席执行官，清洁能源投资步伐加快",
+    "url": "https://www.pv-tech.org/australias-clean-energy-finance-corporation-appoints-new-ceo-as-clean-energy-investment-push-accelerates/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T03:37:24+00:00"
+  },
+  "d62b1980679c": {
+    "id": "d62b1980679c",
+    "title_en": "Halocell Energy partners with South Korea’s MSWay to scale roll-printed perovskite solar modules",
+    "title_zh": "Halocell Energy与韩国MSWay合作，扩大辊印钙钛矿太阳能模块的规模",
+    "url": "https://www.pv-tech.org/halocell-energy-partners-with-south-koreas-msway-to-scale-roll-printed-perovskite-solar-modules/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T03:31:12+00:00"
+  },
   "b89b367bd5b4": {
     "id": "b89b367bd5b4",
     "title_en": "Renewables Provide More Than 30% of US Electricity",
@@ -4408,95 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-18T05:00:00+00:00"
-  },
-  "0f5086150a28": {
-    "id": "0f5086150a28",
-    "title_en": "Endgame: The Decline & Fall of the Western Automotive Industry",
-    "title_zh": "结局：西方汽车工业的衰落",
-    "url": "https://cleantechnica.com/2026/07/17/endgame-the-decline-fall-of-the-western-automotive-industry/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T03:19:47+00:00"
-  },
-  "4833c7b18b2c": {
-    "id": "4833c7b18b2c",
-    "title_en": "Pass Permitting Reform. Unleash American Solar and Storage.",
-    "title_zh": "通过许可改革。释放美国太阳能和储能。",
-    "url": "https://cleantechnica.com/2026/07/17/pass-permitting-reform-unleash-american-solar-and-storage/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T02:22:06+00:00"
-  },
-  "cfa0040900ed": {
-    "id": "cfa0040900ed",
-    "title_en": "East Coast States Will Sue Trump for Illegal Payoffs",
-    "title_zh": "东海岸各州将起诉特朗普非法支付",
-    "url": "https://cleantechnica.com/2026/07/17/east-coast-states-will-sue-trump-for-illegal-payoffs/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T01:44:39+00:00"
-  },
-  "dddb47f72e7c": {
-    "id": "dddb47f72e7c",
-    "title_en": "Sierra Club North Carolina Reacts: NextEra & Dominion File Application to Merge, Form Country’s Largest Utility",
-    "title_zh": "北卡罗来纳州塞拉俱乐部回应：NextEra和Dominion申请合并，成立该国最大的公用事业公司",
-    "url": "https://cleantechnica.com/2026/07/17/sierra-club-north-carolina-reacts-nextera-dominion-file-application-to-merge-form-countrys-largest-utility/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T01:16:24+00:00"
-  },
-  "3c7ee1c6b0f9": {
-    "id": "3c7ee1c6b0f9",
-    "title_en": "HERO’s Mission: Building a Blueprint for Wave Energy Components",
-    "title_zh": "HERO的使命：为波浪能组件构建蓝图",
-    "url": "https://cleantechnica.com/2026/07/17/heros-mission-building-a-blueprint-for-wave-energy-components/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T01:11:18+00:00"
-  },
-  "d6d79de5f468": {
-    "id": "d6d79de5f468",
-    "title_en": "Bangladesh's $12.65 Billion Nuclear Bet Faces Its Biggest Test Yet",
-    "title_zh": "孟加拉国126.5亿美元的核赌注面临迄今为止最大的考验",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Bangladeshs-1265-Billion-Nuclear-Bet-Faces-Its-Biggest-Test-Yet.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T23:00:00+00:00"
-  },
-  "1ed8ea7f339f": {
-    "id": "1ed8ea7f339f",
-    "title_en": "Australia Nails It Again — On Large Data Centers This Time",
-    "title_zh": "澳大利亚再次锁定它——这次是在大型数据中心",
-    "url": "https://cleantechnica.com/2026/07/17/australia-nails-it-again-on-large-data-centers-this-time/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-17T21:36:03+00:00"
-  },
-  "33a61b28a851": {
-    "id": "33a61b28a851",
-    "title_en": "BMW i3 Touring caught for the first time, and that wagon rear is hard to miss",
-    "title_zh": "宝马i3 Touring首次被抓住，那辆旅行车的后部很难错过",
-    "url": "https://electrek.co/2026/07/17/bmw-i3-touring-caught-first-time-flashing-wagon-rear/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-17T20:46:18+00:00"
-  },
-  "6699c1285b47": {
-    "id": "6699c1285b47",
-    "title_en": "Colombia's New Government Prepares Fossil Fuel Comeback",
-    "title_zh": "哥伦比亚新政府准备恢复化石燃料",
-    "url": "https://oilprice.com/Energy/Energy-General/Colombias-New-Government-Prepares-Fossil-Fuel-Comeback.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-17T20:00:00+00:00"
-  },
-  "ffb456e4fc53": {
-    "id": "ffb456e4fc53",
-    "title_en": "Brilliant AI Solution to High Solar Soft Costs & Overpricing in the United States",
-    "title_zh": "美国太阳能软成本高和定价过高的人工智能解决方案",
-    "url": "https://cleantechnica.com/2026/07/17/brilliant-ai-solution-to-high-solar-soft-costs-overpricing-in-the-united-states/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-17T19:47:48+00:00"
   }
 }
