@@ -1,4 +1,121 @@
 {
+  "a1e0535b9834": {
+    "id": "a1e0535b9834",
+    "title_en": "Podcast: TSLA earnings debacle, FSD ticket, Toyota finally waking up? FSGP, more",
+    "title_zh": "播客：特斯拉盈利崩溃，FSD罚单，丰田终于醒了？FSGP，更多",
+    "url": "https://electrek.co/2026/07/24/podcast-tsla-earnings-debacle-fsd-ticket-toyota-finally-waking-up-fsgp-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T19:23:44+00:00"
+  },
+  "e269dc6590a2": {
+    "id": "e269dc6590a2",
+    "title_en": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+    "title_zh": "红海正在成为沙特阿拉伯最大的石油瓶颈",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T19:00:00+00:00"
+  },
+  "9552fe709316": {
+    "id": "9552fe709316",
+    "title_en": "Ford Partners With Geely To Produce “Multi-Energy” Cars In Valencia",
+    "title_zh": "福特与吉利合作在瓦伦西亚生产“多能源”汽车",
+    "url": "https://cleantechnica.com/2026/07/24/ford-partners-with-geely-to-produce-multi-energy-cars-in-valencia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T18:57:57+00:00"
+  },
+  "de1ef49db313": {
+    "id": "de1ef49db313",
+    "title_en": "Results are in! These teams are moving on to the 2026 Electrek American Solar Challenge",
+    "title_zh": "结果出来了！这些团队将参加2026年Electrek美国太阳能挑战赛",
+    "url": "https://electrek.co/2026/07/24/results-are-in-these-teams-are-moving-on-to-the-2026-electrek-american-solar-challenge/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T18:36:04+00:00"
+  },
+  "992f3a058941": {
+    "id": "992f3a058941",
+    "title_en": "Volvo trademark reveals EX50 EV name: Here’s what we know so far",
+    "title_zh": "沃尔沃商标揭示了EX50电动汽车的名称：这是我们目前所知道的",
+    "url": "https://electrek.co/2026/07/24/volvo-trademark-reveals-ex50-ev-name/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T18:23:23+00:00"
+  },
+  "226a7d7e1ffd": {
+    "id": "226a7d7e1ffd",
+    "title_en": "Lectric Christmas in July e-bike sale with up to $733 savings, Best Buy Black Friday in July appliance sale, Jackery, EGO, more",
+    "title_zh": "Lectric 7月圣诞节电动自行车促销，最高可节省733美元，百思买7月黑色星期五电器促销，Jackery，EGO，更多",
+    "url": "https://electrek.co/2026/07/24/lectric-christmas-in-july-e-bike-sale-best-buy-black-friday-in-july-appliance-sale-jackery-ego-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T18:00:00+00:00"
+  },
+  "0dbcfa1f3b0e": {
+    "id": "0dbcfa1f3b0e",
+    "title_en": "$4,000 Gold Is Changing Lives Across Central Asia",
+    "title_zh": "4000美元黄金正在改变整个中亚地区的生活",
+    "url": "https://oilprice.com/Metals/Gold/4000-Gold-Is-Changing-Lives-Across-Central-Asia.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T18:00:00+00:00"
+  },
+  "d6134a2262d8": {
+    "id": "d6134a2262d8",
+    "title_en": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
+    "title_zh": "随着无人机威胁的增加，俄罗斯最大的黑海石油港口变得安静",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Biggest-Black-Sea-Oil-Port-Goes-Quiet-as-Drone-Threat-Grows.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T18:00:00+00:00"
+  },
+  "85f400fc8f21": {
+    "id": "85f400fc8f21",
+    "title_en": "Oil Shock Could Turn Super El Niño Into an Inflation Problem Again",
+    "title_zh": "石油危机可能会使超级厄尔尼诺现象再次成为通货膨胀问题",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Shock-Could-Turn-Super-El-Nio-Into-an-Inflation-Problem-Again.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T17:30:00+00:00"
+  },
+  "8703a2732b6b": {
+    "id": "8703a2732b6b",
+    "title_en": "Specialized just unveiled a new full-suspension e-bike, and here’s why it costs $13k",
+    "title_zh": "Specialized刚刚推出了一款新的全悬挂电动自行车，这就是为什么它的售价为1.3万美元",
+    "url": "https://electrek.co/2026/07/24/specialized-just-unveiled-a-new-full-suspension-e-bike-and-heres-why-it-costs-13k/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T17:23:31+00:00"
+  },
+  "6fb81a8d5991": {
+    "id": "6fb81a8d5991",
+    "title_en": "US Oil Drillers Take A Break As Oil Prices Hover Near $100",
+    "title_zh": "油价徘徊在100美元附近，美国石油钻井商休息",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Take-A-Break-As-Oil-Prices-Hover-Near-100.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T17:15:00+00:00"
+  },
+  "e17bc691366f": {
+    "id": "e17bc691366f",
+    "title_en": "In Lawsuit Society, Elon Musk Still Posts Legally Wrong Nonsense — Because He’s Got Enough Money To Get Away With It",
+    "title_zh": "在诉讼社会中，埃隆·马斯克仍然发表了法律上错误的无稽之谈——因为他有足够的钱逃脱惩罚",
+    "url": "https://cleantechnica.com/2026/07/24/in-lawsuit-society-elon-musk-still-posts-legally-wrong-nonsense-because-hes-got-enough-money-to-get-away-with-it/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T16:52:42+00:00"
+  },
+  "4f732d1d0614": {
+    "id": "4f732d1d0614",
+    "title_en": "After canceling EVs, Honda laughably tells EV owners to buy a gas guzzler instead",
+    "title_zh": "取消电动汽车后，本田可笑地告诉电动汽车车主买一辆油老虎",
+    "url": "https://electrek.co/2026/07/24/after-canceling-evs-honda-laughably-tells-ev-owners-to-buy-a-gas-guzzler-instead/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T16:48:55+00:00"
+  },
   "16d171a33667": {
     "id": "16d171a33667",
     "title_en": "Saudi Red Sea Crude Exports Have Sank 41% Since March Peak",
@@ -231,6 +348,15 @@
     "url": "https://www.pv-magazine.com/2026/07/24/how-to-win-and-how-not-to-lose-what-the-football-world-cup-final-teaches-us-about-leading-the-energy-transition/",
     "source": "PV Magazine",
     "category": "太阳能",
+    "pub_ts": "2026-07-24T12:00:00+00:00"
+  },
+  "448f2be38bd8": {
+    "id": "448f2be38bd8",
+    "title_en": "PG&E says it has 12.7 GW in data center pipeline as it courts smaller loads",
+    "title_zh": "PG&E表示，由于负荷较小，其数据中心管道中有12.7吉瓦",
+    "url": "https://www.utilitydive.com/news/pge-claims-127-gw-in-data-center-pipeline-as-utility-courts-smaller-loads/826099/",
+    "source": "Utility Dive",
+    "category": "电网",
     "pub_ts": "2026-07-24T12:00:00+00:00"
   },
   "efdffb1afd68": {
@@ -4372,131 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-20T13:15:01+00:00"
-  },
-  "d11f06037e94": {
-    "id": "d11f06037e94",
-    "title_en": "Europe Faces Diesel Crunch as Inventories Head Toward Multi-Year Lows",
-    "title_zh": "欧洲面临柴油危机，库存量降至多年低点",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Faces-Diesel-Crunch-as-Inventories-Head-Toward-Multi-Year-Lows.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T13:15:00+00:00"
-  },
-  "60999150356a": {
-    "id": "60999150356a",
-    "title_en": "Nextpower finalizes Prevalon acquisition, enters energy storage market",
-    "title_zh": "Nextpower完成对Prevalon的收购，进军储能市场",
-    "url": "https://www.solarpowerworldonline.com/2026/07/nextpower-finalizes-prevalon-acquisition-enters-energy-storage-market/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T13:10:01+00:00"
-  },
-  "7a111520bcf2": {
-    "id": "7a111520bcf2",
-    "title_en": "Data centers drove $6.3B in PJM capacity auction costs: market monitor",
-    "title_zh": "数据中心推动PJM容量拍卖成本达到63亿美元：市场监测",
-    "url": "https://www.utilitydive.com/news/pjm-data-centers-capacity-auction-imm-bowring/825626/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-20T12:49:05+00:00"
-  },
-  "558a720206aa": {
-    "id": "558a720206aa",
-    "title_en": "Solar power added to ingredient list at Maine ice cream shop",
-    "title_zh": "缅因州冰淇淋店将太阳能添加到配料清单中",
-    "url": "https://www.solarpowerworldonline.com/2026/07/solar-power-added-to-ingredient-list-at-maine-ice-cream-shop/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T12:22:46+00:00"
-  },
-  "40586066024a": {
-    "id": "40586066024a",
-    "title_en": "Deep learning model improves PV segmentation in remote sensing images",
-    "title_zh": "深度学习模型改进了遥感图像中的PV分割",
-    "url": "https://www.pv-magazine.com/2026/07/20/deep-learning-model-improves-pv-segmentation-in-remote-sensing-images/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T12:22:17+00:00"
-  },
-  "18e4f1e71dda": {
-    "id": "18e4f1e71dda",
-    "title_en": "India’s Crude Oil Import Bill Soars 60% as Iran War Drives Prices Higher",
-    "title_zh": "伊朗战争推高价格，印度原油进口账单飙升60%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-60-as-Iran-War-Drives-Prices-Higher.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T12:00:00+00:00"
-  },
-  "5cceecd1e7c4": {
-    "id": "5cceecd1e7c4",
-    "title_en": "1.8GWh Germany BESS moves to construction; 15GWh+ progressed since grid fees decision",
-    "title_zh": "1.8GWh德国BESS投入建设；自电网费用决定以来，已取得15GWh+的进展",
-    "url": "https://www.energy-storage.news/1-8gwh-germany-bess-moves-to-construction-15gwh-progressed-since-grid-fees-decision/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-20T11:44:23+00:00"
-  },
-  "071b214cf7c5": {
-    "id": "071b214cf7c5",
-    "title_en": "MNRE extends ALMM List-II exemption for net-metering and open access solar projects",
-    "title_zh": "MNRE扩大了净计量和开放式太阳能项目的ALMM清单II豁免",
-    "url": "https://www.pv-tech.org/mnre-extends-almm-list-ii-exemption-for-net-metering-and-open-access-solar-projects/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T11:27:59+00:00"
-  },
-  "72eb8fbeaefc": {
-    "id": "72eb8fbeaefc",
-    "title_en": "JA begins module shipments for 5.2GW 24/7 Abu Dhabi project, Trina eyes 1.5GW Yemen PV pipeline",
-    "title_zh": "JA开始为5.2GW 24/7阿布扎比项目发货，天合光能关注1.5GW也门光伏管道",
-    "url": "https://www.pv-tech.org/ja-solar-modules-masdar-storage/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T11:22:19+00:00"
-  },
-  "f45db235c3b7": {
-    "id": "f45db235c3b7",
-    "title_en": "Mochovce 4 preparing for physical start-up tests",
-    "title_zh": "Mochovce 4准备物理启动测试",
-    "url": "https://www.world-nuclear-news.org/articles/mochovce-4-reactor-assembly-completed",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-20T11:21:08+00:00"
-  },
-  "8cd6c57605dc": {
-    "id": "8cd6c57605dc",
-    "title_en": "EU plans to make Europe ‘the world’s first electro-continent’ through Electrification Action Plan",
-    "title_zh": "欧盟计划通过《电气化行动计划》使欧洲成为“世界上第一个电气大陆”",
-    "url": "https://www.pv-tech.org/eu-plans-make-europe-worlds-first-electro-continent-electrification-action-plan/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T11:13:56+00:00"
-  },
-  "f06e0478ec3a": {
-    "id": "f06e0478ec3a",
-    "title_en": "Cradle-to-Crisis Approach Improves Battery Safety & Performance",
-    "title_zh": "从摇篮到危机的方法提高了电池的安全性和性能",
-    "url": "https://cleantechnica.com/2026/07/20/cradle-to-crisis-approach-improves-battery-safety-performance/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T11:00:47+00:00"
-  },
-  "016e5296d106": {
-    "id": "016e5296d106",
-    "title_en": "China’s LNG Buying Spree Tightens Global Gas Market",
-    "title_zh": "中国液化天然气购买价差收紧全球天然气市场",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Buying-Spree-Tightens-Global-Gas-Market.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T10:45:00+00:00"
-  },
-  "3d02a780d832": {
-    "id": "3d02a780d832",
-    "title_en": "Masdar reaches financial close on ‘round-the-clock’ hybrid solar project with 19GWh BESS in UAE",
-    "title_zh": "Masdar在阿联酋完成了19GWh BESS的“全天候”混合太阳能项目的财务结算",
-    "url": "https://www.energy-storage.news/masdar-reaches-financial-close-on-round-the-clock-hybrid-solar-project-with-19gwh-bess-in-uae/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-20T10:36:00+00:00"
   }
 }
