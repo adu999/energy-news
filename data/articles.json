@@ -1,4 +1,157 @@
 {
+  "a3fd91b6c0bd": {
+    "id": "a3fd91b6c0bd",
+    "title_en": "WTI Explodes Higher as Middle East Shipping Risks Multiply",
+    "title_zh": "随着中东航运风险倍增，WTI价格飙升",
+    "url": "https://oilprice.com/Energy/Energy-General/WTI-Explodes-Higher-as-Middle-East-Shipping-Risks-Multiply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T11:00:00+00:00"
+  },
+  "8f53d1ad27b6": {
+    "id": "8f53d1ad27b6",
+    "title_en": "The Middle East War Has Entered Its Most Dangerous Phase Yet",
+    "title_zh": "中东战争已进入迄今为止最危险的阶段",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/The-Middle-East-War-Has-Entered-Its-Most-Dangerous-Phase-Yet.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T11:00:00+00:00"
+  },
+  "46734fdc9e5f": {
+    "id": "46734fdc9e5f",
+    "title_en": "The Best Way to Invest in America's Electrification Boom",
+    "title_zh": "投资美国电气化繁荣的最佳方式",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Best-Way-to-Invest-in-Americas-Electrification-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T11:00:00+00:00"
+  },
+  "6886eb048d2c": {
+    "id": "6886eb048d2c",
+    "title_en": "Trump’s Nuclear Gamble Could Spell Disaster for the Middle East",
+    "title_zh": "特朗普的核赌博可能给中东带来灾难",
+    "url": "https://oilprice.com/Energy/Energy-General/Trumps-Nuclear-Gamble-Could-Spell-Disaster-for-the-Middle-East.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T11:00:00+00:00"
+  },
+  "aa919609f7ac": {
+    "id": "aa919609f7ac",
+    "title_en": "Sweden Greenlights Two, Rejects 11 Offshore Wind Farms Over Defence Concerns; Vattenfall Halts Approved Project?",
+    "title_zh": "瑞典绿灯二号，因国防问题拒绝11个海上风电场；Vattenfall停止批准的项目？",
+    "url": "https://www.offshorewind.biz/2026/07/24/sweden-greenlights-two-rejects-11-offshore-wind-farms-over-defence-concerns-vattenfall-halts-approved-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-24T10:58:39+00:00"
+  },
+  "d18ba4bf8190": {
+    "id": "d18ba4bf8190",
+    "title_en": "Poland: R.Power enlists EPCs for 2.2GWh of BESS, EDF and Eurus, Eiffel and Ergy co-invest in projects",
+    "title_zh": "波兰：R.Power为BESS、EDF和Eurus、Eiffel和Ergy的2.2GWh项目招募EPC",
+    "url": "https://www.energy-storage.news/poland-r-power-enlists-epcs-for-2-2gwh-of-bess-edf-and-eurus-eiffel-and-ergy-co-invest-in-projects/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-24T10:48:49+00:00"
+  },
+  "8dfb5b725a60": {
+    "id": "8dfb5b725a60",
+    "title_en": "North Sea Pilot Project Produces First Green Hydrogen on Operational Platform",
+    "title_zh": "北海试点项目在操作平台上首次生产绿色氢气",
+    "url": "https://www.offshorewind.biz/2026/07/24/north-sea-pilot-project-produces-first-green-hydrogen-on-operational-platform/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-24T10:00:00+00:00"
+  },
+  "6ee550801823": {
+    "id": "6ee550801823",
+    "title_en": "SSE wins planning consent for Scotland’s Sloy pumped storage conversion option",
+    "title_zh": "苏格兰电力公司赢得苏格兰斯洛伊抽水蓄能转换方案的规划许可",
+    "url": "https://www.energymonitor.ai/news/sse-wins-consent-sloy/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-24T10:00:00+00:00"
+  },
+  "2e1347d325c0": {
+    "id": "2e1347d325c0",
+    "title_en": "China Rushes to Secure Russian Oil as Middle East Supply Risks Escalate",
+    "title_zh": "中东供应风险升级，中国急于保护俄罗斯石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Rushes-to-Secure-Russian-Oil-as-Middle-East-Supply-Risks-Escalate.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T09:45:00+00:00"
+  },
+  "c459ba3361ba": {
+    "id": "c459ba3361ba",
+    "title_en": "Taiwanese JV to establish 1GW module assembly plant in the US",
+    "title_zh": "台湾合资企业将在美国建立1GW组件组装厂",
+    "url": "https://www.pv-tech.org/taiwanese-jv-to-establish-1gw-module-assembly-plant-in-the-us/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T09:21:07+00:00"
+  },
+  "55c737061054": {
+    "id": "55c737061054",
+    "title_en": "EVs At 41.4% Share In The UK – Tesla Leading BEV Brand",
+    "title_zh": "电动汽车在英国的份额为41.4%——特斯拉领先的纯电动汽车品牌",
+    "url": "https://cleantechnica.com/2026/07/24/evs-at-41-4-share-in-the-uk-tesla-leading-bev-brand/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T09:11:48+00:00"
+  },
+  "fe914900c207": {
+    "id": "fe914900c207",
+    "title_en": "Despite historical failure, cylindrical solar tubes may still find a place in BIPV market, say Japanese scientists",
+    "title_zh": "日本科学家表示，尽管历史上失败了，但圆柱形太阳能管仍可能在BIPV市场占有一席之地",
+    "url": "https://www.pv-magazine.com/2026/07/24/despite-historical-failure-cylindrical-solar-tubes-may-still-find-a-place-in-bipv-market-say-japanese-scientists/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T09:00:00+00:00"
+  },
+  "c06eddeff099": {
+    "id": "c06eddeff099",
+    "title_en": "U.S. Prioritizes Small Nuclear Reactors Across Southeast Asia",
+    "title_zh": "美国优先考虑东南亚的小型核反应堆",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Prioritizes-Small-Nuclear-Reactors-Across-Southeast-Asia.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T08:45:00+00:00"
+  },
+  "daf348204790": {
+    "id": "daf348204790",
+    "title_en": "When winter shuts down solar storage: how Ampace is solving Europe’s cold-climate challenge",
+    "title_zh": "当冬季关闭太阳能储能：Ampace如何解决欧洲的寒冷气候挑战",
+    "url": "https://www.pv-tech.org/when-winter-shuts-down-solar-storage-how-ampace-is-solving-europes-cold-climate-challenge/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-24T08:41:05+00:00"
+  },
+  "821454f70e66": {
+    "id": "821454f70e66",
+    "title_en": "Sodium-ion BESS: CATL in 2GWh Eastern Europe collaboration, ESS Inc signs LOI for 500MWh of US deployments",
+    "title_zh": "BESS Sodium-ion：CATL在2GWh东欧合作中，ESS公司签署了500MWh美国部署的LOI",
+    "url": "https://www.energy-storage.news/sodium-ion-bess-catl-in-2gwh-eastern-europe-collaboration-ess-inc-signs-loi-for-500mwh-of-us-deployments/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-24T08:40:48+00:00"
+  },
+  "951a42f34069": {
+    "id": "951a42f34069",
+    "title_en": "Alpiq follows Harmony Energy acquisition with 1.2GWh project announcement",
+    "title_zh": "Alpiq在收购Harmony Energy后宣布了1.2GWh的项目",
+    "url": "https://www.energy-storage.news/alpiq-follows-harmony-energy-acquisition-with-1-2gwh-project-announcement/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-24T08:35:47+00:00"
+  },
+  "48b1da2af343": {
+    "id": "48b1da2af343",
+    "title_en": "Gasunie Launches Tender for 10-Year Offshore Wind PPA in Netherlands",
+    "title_zh": "Gasunie在荷兰启动为期10年的海上风电购电协议招标",
+    "url": "https://www.offshorewind.biz/2026/07/24/gasunie-launches-tender-for-10-year-offshore-wind-ppa-in-netherlands/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-24T08:34:11+00:00"
+  },
   "f3e7924badfa": {
     "id": "f3e7924badfa",
     "title_en": "China TOPCon cell prices extend decline on weak demand and oversupply",
@@ -16,6 +169,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-24T08:16:16+00:00"
+  },
+  "f81392061e48": {
+    "id": "f81392061e48",
+    "title_en": "Panamint Capital starts construction on $1.7bn solar PV project in Texas",
+    "title_zh": "Panamint Capital在德克萨斯州开始建设17亿美元的太阳能光伏项目",
+    "url": "https://www.energymonitor.ai/news/panamint-starts-construction-solar-project/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-24T08:01:48+00:00"
   },
   "efeecf2ae31f": {
     "id": "efeecf2ae31f",
@@ -2798,6 +2960,15 @@
     "category": "电网",
     "pub_ts": "2026-07-21T12:25:05+00:00"
   },
+  "39f79c863bba": {
+    "id": "39f79c863bba",
+    "title_en": "Two more Czech sites lined up for Rolls-Royce SMRs",
+    "title_zh": "又有两家捷克工厂为劳斯莱斯SMR排队",
+    "url": "https://www.world-nuclear-news.org/articles/two-more-czech-sites-lined-up-for-rolls-royce-smrs",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-07-21T12:03:40+00:00"
+  },
   "ed542b14469b": {
     "id": "ed542b14469b",
     "title_en": "Startup offers low-cost home batteries to Massachusetts residents",
@@ -4327,176 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-19T20:27:32+00:00"
-  },
-  "c2fb77ee464a": {
-    "id": "c2fb77ee464a",
-    "title_en": "What Are Mineral Rights? The Complete Guide to Owning, Leasing and Selling Them",
-    "title_zh": "什么是矿产权？拥有、租赁和出售它们的完整指南",
-    "url": "https://oilprice.com/Energy/Energy-General/What-Are-Mineral-Rights-The-Complete-Guide-to-Owning-Leasing-and-Selling-Them.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-19T19:00:00+00:00"
-  },
-  "45b2bd572208": {
-    "id": "45b2bd572208",
-    "title_en": "Alberta’s Million-Barrel Pipeline Needs Missing Barrels",
-    "title_zh": "阿尔伯塔省的百万桶管道需要缺失的桶",
-    "url": "https://cleantechnica.com/2026/07/19/albertas-million-barrel-pipeline-needs-missing-barrels/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-19T15:43:21+00:00"
-  },
-  "23d7b7c97861": {
-    "id": "23d7b7c97861",
-    "title_en": "Energy Storage Key To Avoiding The Next Energy Crisis",
-    "title_zh": "储能是避免下一次能源危机的关键",
-    "url": "https://oilprice.com/Energy/Energy-General/Energy-Storage-Key-To-Avoiding-The-Next-Energy-Crisis.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-19T15:00:00+00:00"
-  },
-  "fa7c4215eeb9": {
-    "id": "fa7c4215eeb9",
-    "title_en": "Hormuz Closure Exposes Africa's Energy Dependence on Iran and China",
-    "title_zh": "霍尔木兹关闭暴露了非洲对伊朗和中国的能源依赖",
-    "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Closure-Exposes-Africas-Energy-Dependence-on-Iran-and-China.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-19T15:00:00+00:00"
-  },
-  "489736f8f698": {
-    "id": "489736f8f698",
-    "title_en": "ASEAN Shifts Focus to Battery Manufacturing, Scaling EV Adoption, and Grid Integration",
-    "title_zh": "东盟将重点转向电池制造、扩大电动汽车采用和电网整合",
-    "url": "https://cleantechnica.com/2026/07/19/asean-shifts-focus-to-battery-manufacturing-scaling-ev-adoption-and-grid-integration/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-19T14:49:04+00:00"
-  },
-  "32693c6ee95b": {
-    "id": "32693c6ee95b",
-    "title_en": "Geely Unveils New EV Powertrain That Is 93.8% Efficient",
-    "title_zh": "吉利推出效率为93.8%的新型电动汽车动力总成",
-    "url": "https://cleantechnica.com/2026/07/19/geely-unveils-new-ev-powertrain-that-is-93-8-efficient/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-19T14:25:00+00:00"
-  },
-  "e38301240c88": {
-    "id": "e38301240c88",
-    "title_en": "Nissan Sakura Keeps the Crown as Japan’s Best Selling EV",
-    "title_zh": "日产樱花保持日本最畅销电动汽车的桂冠",
-    "url": "https://cleantechnica.com/2026/07/19/nissan-sakura-keeps-the-crown-as-japans-best-selling-ev/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-19T13:42:29+00:00"
-  },
-  "5ce300b3980f": {
-    "id": "5ce300b3980f",
-    "title_en": "A Campaign For Affordability: A Clean-Energy-For-All Agenda",
-    "title_zh": "可负担性运动：人人享有清洁能源议程",
-    "url": "https://cleantechnica.com/2026/07/19/a-campaign-for-affordability-a-clean-energy-for-all-agenda/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-19T10:19:31+00:00"
-  },
-  "177e2c1b031d": {
-    "id": "177e2c1b031d",
-    "title_en": "VinFast Bets on Entrepreneurs with “Rentapasada” Program in the Philippines",
-    "title_zh": "VinFast在菲律宾通过“Rentapasada”计划押注企业家",
-    "url": "https://cleantechnica.com/2026/07/19/vinfast-bets-on-entrepreneurs-with-rentapasada-program-in-the-philippines/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-19T05:00:27+00:00"
-  },
-  "af8305ec80ca": {
-    "id": "af8305ec80ca",
-    "title_en": "New 6 passenger, 780-mile PHEV from GM has North America written all over it",
-    "title_zh": "通用汽车推出的新款6座780英里PHEV遍布北美",
-    "url": "https://electrek.co/2026/07/18/new-6-passenger-780-mile-phev-from-gm-has-north-america-written-all-over-it/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-19T00:05:03+00:00"
-  },
-  "1f105cf02434": {
-    "id": "1f105cf02434",
-    "title_en": "Europe's Heatwave Is Becoming an Energy Crisis",
-    "title_zh": "欧洲的热浪正在成为一场能源危机",
-    "url": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-18T23:00:00+00:00"
-  },
-  "7549eeb0d908": {
-    "id": "7549eeb0d908",
-    "title_en": "What Is a Microgrid? How They Work and Why They're Suddenly Everywhere",
-    "title_zh": "什么是微电网？它们是如何工作的，为什么它们突然无处不在",
-    "url": "https://oilprice.com/Energy/Energy-General/What-Is-a-Microgrid-How-They-Work-and-Why-Theyre-Suddenly-Everywhere.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-18T21:00:00+00:00"
-  },
-  "e9206f48f7f4": {
-    "id": "e9206f48f7f4",
-    "title_en": "LiuGong brings electric heavy equipment options to North America [video]",
-    "title_zh": "柳工将电动重型设备选项带到北美[视频]",
-    "url": "https://electrek.co/2026/07/18/liugong-brings-electric-heavy-equipment-options-to-north-america-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-18T20:50:45+00:00"
-  },
-  "9f491adee228": {
-    "id": "9f491adee228",
-    "title_en": "Honda goes all-in on EVs in a multibillion dollar market: commercial lawnmowers",
-    "title_zh": "本田在数十亿美元的市场上全力投入电动汽车：商用割草机",
-    "url": "https://electrek.co/2026/07/18/honda-goes-all-in-on-evs-in-a-multibillion-dollar-market-commercial-lawnmowers/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-18T19:56:41+00:00"
-  },
-  "449b61d66061": {
-    "id": "449b61d66061",
-    "title_en": "Canada Unveils New Pipeline to Cut Reliance on U.S. Oil Routes",
-    "title_zh": "加拿大推出新管道以减少对美国石油路线的依赖",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Canada-Unveils-New-Pipeline-to-Cut-Reliance-on-US-Oil-Routes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-18T19:00:00+00:00"
-  },
-  "0e7aac887b1d": {
-    "id": "0e7aac887b1d",
-    "title_en": "This New Made-In-China Ship Explains Why Offshore Wind Will Crush Trump’s Coal Dreams",
-    "title_zh": "这艘中国制造的新船解释了为什么海上风电将粉碎特朗普的煤炭梦想",
-    "url": "https://cleantechnica.com/2026/07/18/offshore-wind-china-reducing-costs-new-vessels/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T18:52:36+00:00"
-  },
-  "2ab1d580a39c": {
-    "id": "2ab1d580a39c",
-    "title_en": "U.S. Scientists Tap Seawater to Break China's Rare Earth Monopoly",
-    "title_zh": "美国科学家利用海水打破中国稀土垄断",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Scientists-Tap-Seawater-to-Break-Chinas-Rare-Earth-Monopoly.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-18T17:00:00+00:00"
-  },
-  "0e872279b9c5": {
-    "id": "0e872279b9c5",
-    "title_en": "Philippines Logistics Firm Sees Swappable Battery Scooters As The Next Milestone In Last-Mile Deliveries",
-    "title_zh": "菲律宾物流公司将可更换电池滑板车视为最后一英里交付的下一个里程碑",
-    "url": "https://cleantechnica.com/2026/07/18/philippines-logistics-firm-sees-swappable-battery-scooters-as-the-next-milestone-in-last-mile-deliveries/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T15:54:03+00:00"
-  },
-  "d1c6de4a1c08": {
-    "id": "d1c6de4a1c08",
-    "title_en": "New Delhi Air Pollution Index Further Pushes for EV Adoption in India",
-    "title_zh": "新德里空气污染指数进一步推动印度电动汽车的采用",
-    "url": "https://cleantechnica.com/2026/07/18/new-delhi-air-pollution-index-further-pushes-for-ev-adoption-in-india/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-18T15:44:00+00:00"
   }
 }
