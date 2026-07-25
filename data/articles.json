@@ -1,4 +1,49 @@
 {
+  "6ff7ad58e56b": {
+    "id": "6ff7ad58e56b",
+    "title_en": "The Carbon Capture Boom Is Starting to Crack",
+    "title_zh": "碳捕获热潮开始破裂",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Carbon-Capture-Boom-Is-Starting-to-Crack.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-25T19:00:00+00:00"
+  },
+  "9e7e78a8492c": {
+    "id": "9e7e78a8492c",
+    "title_en": "Land Rover’s fancy Freelander 8 EREV reveals high-tech, ultra-luxe interior",
+    "title_zh": "路虎的豪华路虎神行者8 EREV展示了高科技、超豪华的内饰",
+    "url": "https://electrek.co/2026/07/25/land-rovers-fancy-freelander-8-erev-reveals-high-tech-ultra-luxe-interior/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-25T18:45:41+00:00"
+  },
+  "ad0977a71caf": {
+    "id": "ad0977a71caf",
+    "title_en": "Seriously, Who Is Buying All Those New Subaru EVs?",
+    "title_zh": "说真的，谁在买那些新的斯巴鲁电动汽车？",
+    "url": "https://cleantechnica.com/2026/07/25/subaru-ev-sales-us-getaway-suv-delayed/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T17:04:26+00:00"
+  },
+  "b20241f43796": {
+    "id": "b20241f43796",
+    "title_en": "UCLA Scientists Turn Plastic Waste Into Pure Hydrogen Fuel",
+    "title_zh": "加州大学洛杉矶分校的科学家将塑料废物转化为纯氢燃料",
+    "url": "https://oilprice.com/Energy/Energy-General/UCLA-Scientists-Turn-Plastic-Waste-Into-Pure-Hydrogen-Fuel.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-25T17:00:00+00:00"
+  },
+  "bfa965be86f6": {
+    "id": "bfa965be86f6",
+    "title_en": "Loganair Agrees To Buy Five BETA Technologies Short Range Electric Aircraft",
+    "title_zh": "洛根航空同意购买五架BETA Technologies短程电动飞机",
+    "url": "https://cleantechnica.com/2026/07/25/loganair-agrees-to-buy-five-beta-technologies-short-range-electric-aircraft/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T16:49:25+00:00"
+  },
   "31d3c4ff8f17": {
     "id": "31d3c4ff8f17",
     "title_en": "Europe’s next-generation submarines are getting a lithium-ion battery upgrade",
@@ -4453,50 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-20T16:54:22+00:00"
-  },
-  "db0399368331": {
-    "id": "db0399368331",
-    "title_en": "Will we soon see sodium-ion batteries on electric bikes?",
-    "title_zh": "我们很快就会在电动自行车上看到钠离子电池吗？",
-    "url": "https://electrek.co/2026/07/20/will-we-soon-see-sodium-ion-batteries-on-electric-bikes/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T16:44:52+00:00"
-  },
-  "a459bf95ecae": {
-    "id": "a459bf95ecae",
-    "title_en": "Genesis may bring a more affordable luxury EV to the mass market",
-    "title_zh": "Genesis可能会为大众市场带来更实惠的豪华电动汽车",
-    "url": "https://electrek.co/2026/07/20/genesis-more-affordable-luxury-ev-mass-market/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T16:42:15+00:00"
-  },
-  "1f46ee46b37d": {
-    "id": "1f46ee46b37d",
-    "title_en": "Houthis Declare Naval Blockade on Saudi Arabia as Red Sea Crisis Deepens",
-    "title_zh": "随着红海危机的加剧，胡塞武装宣布对沙特阿拉伯实施海军封锁",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Declare-Naval-Blockade-on-Saudi-Arabia-as-Red-Sea-Crisis-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T16:30:00+00:00"
-  },
-  "3a1a1aeb69b1": {
-    "id": "3a1a1aeb69b1",
-    "title_en": "Q&A: What the EU’s carbon market review means for climate action",
-    "title_zh": "问答：欧盟碳市场审查对气候行动意味着什么",
-    "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-20T16:22:59+00:00"
-  },
-  "0bea6efc0afb": {
-    "id": "0bea6efc0afb",
-    "title_en": "Q&A: What the EU’s carbon market review means for climate action",
-    "title_zh": "问答：欧盟碳市场审查对气候行动意味着什么",
-    "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action/",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-20T16:11:23+00:00"
   }
 }
