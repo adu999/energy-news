@@ -1,4 +1,58 @@
 {
+  "31d3c4ff8f17": {
+    "id": "31d3c4ff8f17",
+    "title_en": "Europe’s next-generation submarines are getting a lithium-ion battery upgrade",
+    "title_zh": "欧洲的下一代潜艇正在进行锂离子电池升级",
+    "url": "https://electrek.co/2026/07/25/europes-next-generation-submarines-are-getting-a-lithium-ion-battery-upgrade/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-25T15:58:36+00:00"
+  },
+  "039e84822d84": {
+    "id": "039e84822d84",
+    "title_en": "EU Backs Off Methane Rules as Energy Security Fears Mount",
+    "title_zh": "随着能源安全担忧的加剧，欧盟取消了甲烷规定",
+    "url": "https://oilprice.com/Energy/Energy-General/EU-Backs-Off-Methane-Rules-as-Energy-Security-Fears-Mount.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-25T15:00:00+00:00"
+  },
+  "e1f78f4ee225": {
+    "id": "e1f78f4ee225",
+    "title_en": "Tesla: $1.1 Billion Negative Free Cash Flow — Betting the Company’s Survival Again?",
+    "title_zh": "特斯拉：11亿美元负自由现金流——再次押注公司生存？",
+    "url": "https://cleantechnica.com/2026/07/25/tesla-1-1-billion-negative-free-cash-flow-betting-the-companys-survival-again/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T14:50:56+00:00"
+  },
+  "54a914ada46f": {
+    "id": "54a914ada46f",
+    "title_en": "China Keeps Beating Renewable Targets And Missing Nuclear Ones",
+    "title_zh": "中国持续超越可再生能源目标，却未能实现核能目标",
+    "url": "https://cleantechnica.com/2026/07/25/china-renewable-targets-nuclear-delivery/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T14:47:50+00:00"
+  },
+  "5b27959138d7": {
+    "id": "5b27959138d7",
+    "title_en": "Another Coal Power Plant Bites The Dust (Shhh! Don’t Tell Trump!)",
+    "title_zh": "另一座燃煤发电厂正在吞噬灰尘（嘘！别告诉特朗普！）",
+    "url": "https://cleantechnica.com/2026/07/25/coal-replaced-solar-batteries-clean-energy-transmission/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T14:04:54+00:00"
+  },
+  "d13bd6dd1809": {
+    "id": "d13bd6dd1809",
+    "title_en": "AI Industry Red & Yellow Flags",
+    "title_zh": "人工智能行业的红旗和黄旗",
+    "url": "https://cleantechnica.com/2026/07/25/ai-industry-red-yellow-flags/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T13:50:13+00:00"
+  },
   "aa315a5860b9": {
     "id": "aa315a5860b9",
     "title_en": "Another state may legalize electric motorbikes up to 30 and 40 mph under sweeping new micromobility bill",
@@ -438,6 +492,15 @@
     "url": "https://electrek.co/2026/07/24/nhtsa-denies-tesla-door-release-defect-petition-opens-rulemaking/",
     "source": "Electrek",
     "category": "EV",
+    "pub_ts": "2026-07-24T13:16:56+00:00"
+  },
+  "ea35bf7e63e8": {
+    "id": "ea35bf7e63e8",
+    "title_en": "Adapting European energy grids for air conditioning expansion",
+    "title_zh": "调整欧洲电网以适应空调扩建",
+    "url": "https://www.energymonitor.ai/analyst-comment/european-energy-grids-air-conditioning-expansion/",
+    "source": "Energy Monitor",
+    "category": "综合",
     "pub_ts": "2026-07-24T13:16:56+00:00"
   },
   "9a5b395a0828": {
@@ -4435,68 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-07-20T16:11:23+00:00"
-  },
-  "7b34128b22b8": {
-    "id": "7b34128b22b8",
-    "title_en": "New UK Prime Minister Set to Back North Sea Oil and Gas Projects",
-    "title_zh": "英国新任首相将支持北海石油和天然气项目",
-    "url": "https://oilprice.com/Energy/Energy-General/New-UK-Prime-Minister-Set-to-Back-North-Sea-Oil-and-Gas-Projects.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T16:00:00+00:00"
-  },
-  "9fd465466029": {
-    "id": "9fd465466029",
-    "title_en": "Terra Innovatum, Waiken ILW Will Deploy Microreactors for Data Center Infrastructure",
-    "title_zh": "Terra Innovatum，Waiken ILW将为数据中心基础设施部署微反应堆",
-    "url": "https://www.powermag.com/terra-innovatum-waiken-ilw-will-deploy-microreactors-for-data-center-infrastructure/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-20T15:56:57+00:00"
-  },
-  "b228fe865bb8": {
-    "id": "b228fe865bb8",
-    "title_en": "Long Beach Says Zero-Emission. Its Capital Plan Says Electric.",
-    "title_zh": "长滩说零排放。其资本计划称为电力。",
-    "url": "https://cleantechnica.com/2026/07/20/long-beach-zero-emission-port-electrification/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T15:29:31+00:00"
-  },
-  "bc288c71613a": {
-    "id": "bc288c71613a",
-    "title_en": "Drone Strike Halts Exports at Strategic Black Sea Oil Terminal",
-    "title_zh": "无人机袭击停止了黑海战略石油码头的出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Halts-Exports-at-Strategic-Black-Sea-Oil-Terminal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T15:25:00+00:00"
-  },
-  "92842c015c89": {
-    "id": "92842c015c89",
-    "title_en": "Toyota’s next-gen Corolla EV takes center stage as a ‘sense of crisis’ reshapes the company",
-    "title_zh": "丰田的下一代卡罗拉电动汽车成为“危机感”重塑公司的焦点",
-    "url": "https://electrek.co/2026/07/20/toyota-next-gen-corolla-ev-crisis-grows/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T15:01:15+00:00"
-  },
-  "324356f85d9b": {
-    "id": "324356f85d9b",
-    "title_en": "U.S.-Iran Conflict Enters Dangerous New Phase With Fresh Missile Exchanges",
-    "title_zh": "美伊冲突进入危险的新阶段，新的导弹交换",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/US-Iran-Conflict-Enters-Dangerous-New-Phase-With-Fresh-Missile-Exchanges.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T15:00:00+00:00"
-  },
-  "26b41d1723d6": {
-    "id": "26b41d1723d6",
-    "title_en": "Spain awards €165 million for 2 GW pumped storage projects",
-    "title_zh": "西班牙为2吉瓦抽水蓄能项目拨款1.65亿欧元",
-    "url": "https://www.pv-magazine.com/2026/07/20/spain-awards-e165-million-for-2-gw-pumped-storage-projects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T14:49:46+00:00"
   }
 }
