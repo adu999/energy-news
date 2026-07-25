@@ -1,4 +1,85 @@
 {
+  "34bd8d2281c6": {
+    "id": "34bd8d2281c6",
+    "title_en": "Volvo Electric Heavy Trucks — Built in Queensland for Australia",
+    "title_zh": "沃尔沃电动重型卡车——为澳大利亚昆士兰州制造",
+    "url": "https://cleantechnica.com/2026/07/24/volvo-electric-heavy-trucks-built-in-queensland-for-australia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T01:41:32+00:00"
+  },
+  "1457a64af104": {
+    "id": "1457a64af104",
+    "title_en": "CS PowerTech Launches Best In Class PV HJT Solar Cell Factory",
+    "title_zh": "CS PowerTech推出一流光伏HJT太阳能电池工厂",
+    "url": "https://cleantechnica.com/2026/07/24/cs-powertech-launches-best-in-class-pv-hjt-solar-cell-factory/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T01:22:47+00:00"
+  },
+  "99f6dc4d8e89": {
+    "id": "99f6dc4d8e89",
+    "title_en": "Trump Administration Admits Retaliatory Grant Cancellations",
+    "title_zh": "特朗普政府承认取消了报复性拨款",
+    "url": "https://cleantechnica.com/2026/07/24/trump-administration-admits-retaliatory-grant-cancellations/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T00:55:40+00:00"
+  },
+  "8babd36a48ef": {
+    "id": "8babd36a48ef",
+    "title_en": "New Analysis Evaluates Major U.S. Investors’ Record on Key Climate Shareholder Votes",
+    "title_zh": "新分析评估了美国主要投资者在关键气候股东投票方面的记录",
+    "url": "https://cleantechnica.com/2026/07/24/new-analysis-evaluates-major-u-s-investors-record-on-key-climate-shareholder-votes/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T00:27:39+00:00"
+  },
+  "996691fa5ef2": {
+    "id": "996691fa5ef2",
+    "title_en": "Musk says Tesla to ‘open source’ Model S and X, but prior release makes us skeptical",
+    "title_zh": "马斯克表示特斯拉将“开源”Model S和X，但之前的版本让我们持怀疑态度",
+    "url": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T23:38:20+00:00"
+  },
+  "5247d7e2a4f0": {
+    "id": "5247d7e2a4f0",
+    "title_en": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+    "title_zh": "霍尔木兹海峡的关闭已经影响了超市的价格",
+    "url": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-24T23:00:00+00:00"
+  },
+  "a4b42bbf70b1": {
+    "id": "a4b42bbf70b1",
+    "title_en": "Duh, solar power doesn't work at night — but it excels during the day",
+    "title_zh": "啊，太阳能晚上不工作，但白天很好",
+    "url": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-24T22:58:00+00:00"
+  },
+  "b597afff242c": {
+    "id": "b597afff242c",
+    "title_en": "Position Paper on the Connecting Europe through High-Speed Rail Own-Initiative Report",
+    "title_zh": "关于通过高铁连接欧洲的立场文件",
+    "url": "https://cleantechnica.com/2026/07/24/position-paper-on-the-connecting-europe-through-high-speed-rail-own-initiative-report/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-24T22:47:20+00:00"
+  },
+  "06783fbf6236": {
+    "id": "06783fbf6236",
+    "title_en": "A 1.2 GW solar farm is rising at a Texas coal site – but coal is staying",
+    "title_zh": "德克萨斯州一个煤炭基地的1.2吉瓦太阳能发电厂正在扩建，但煤炭仍在继续",
+    "url": "https://electrek.co/2026/07/24/a-1-2-gw-solar-farm-is-rising-at-a-texas-coal-site-but-coal-is-staying/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-24T22:25:17+00:00"
+  },
   "4889dc58a63d": {
     "id": "4889dc58a63d",
     "title_en": "Strategy Amid Uncertainty: Why Decisioning Maturity is the Critical Differentiator in Today’s Power Markets",
@@ -4417,86 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-20T14:39:53+00:00"
-  },
-  "4b95b6e4512b": {
-    "id": "4b95b6e4512b",
-    "title_en": "Florida AG asks court to erase Tesla’s $243M Autopilot crash verdict",
-    "title_zh": "佛罗里达州股份公司要求法院撤销特斯拉2.43亿美元的自动驾驶仪事故判决",
-    "url": "https://electrek.co/2026/07/20/florida-ag-tesla-243m-autopilot-verdict/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T14:20:41+00:00"
-  },
-  "22dd89d0166b": {
-    "id": "22dd89d0166b",
-    "title_en": "Order up: Janus Electric set to convert 67 diesel trucks to battery-swap EVs",
-    "title_zh": "订购：Janus Electric将67辆柴油卡车改装为电池交换电动汽车",
-    "url": "https://electrek.co/2026/07/20/order-up-janus-electric-set-to-convert-67-diesel-trucks-to-battery-swap-evs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T14:15:00+00:00"
-  },
-  "db2c54d1afe6": {
-    "id": "db2c54d1afe6",
-    "title_en": "U.S. Gasoline Prices Climb Back Above $4 Per Gallon",
-    "title_zh": "美国汽油价格回升至每加仑4美元以上",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Climb-Back-Above-4-Per-Gallon.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T14:15:00+00:00"
-  },
-  "82fd20085da9": {
-    "id": "82fd20085da9",
-    "title_en": "Best Buy adds more solar generation to portfolio",
-    "title_zh": "百思买在投资组合中增加了更多的太阳能发电",
-    "url": "https://www.utilitydive.com/news/best-buy-adds-more-solar-generation-to-portfolio/825634/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-20T14:10:51+00:00"
-  },
-  "41eb625b608d": {
-    "id": "41eb625b608d",
-    "title_en": "Malaysia launches 2.5GW solar-plus-storage tender",
-    "title_zh": "马来西亚启动2.5GW太阳能+储能招标",
-    "url": "https://www.pv-tech.org/malaysia-launches-2-5gw-solar-plus-storage-tender/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T14:04:25+00:00"
-  },
-  "2836a757bb31": {
-    "id": "2836a757bb31",
-    "title_en": "Envision Energy showcases next-generation energy storage solutions at The smarter E 2026",
-    "title_zh": "远景能源在智能E 2026上展示了下一代储能解决方案",
-    "url": "https://www.pv-magazine.com/2026/07/20/envision-energy-showcases-next-generation-energy-storage-solutions-at-the-smarter-e-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T14:00:00+00:00"
-  },
-  "67b3200e84f5": {
-    "id": "67b3200e84f5",
-    "title_en": "China’s new standards for PV production set to cut outdated technology across value chain – PV Tech Research",
-    "title_zh": "中国光伏生产新标准将削减整个价值链中的过时技术——光伏技术研究",
-    "url": "https://www.pv-tech.org/chinas-new-standards-for-pv-production-set-to-cut-outdated-technology-across-value-chain-pv-tech-research/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T13:46:25+00:00"
-  },
-  "30ceb3519512": {
-    "id": "30ceb3519512",
-    "title_en": "Flintstone to Start Scour Protection Work at Dogger Bank C",
-    "title_zh": "Flintstone开始在Dogger Bank C进行冲刷防护工作",
-    "url": "https://www.offshorewind.biz/2026/07/20/flintstone-to-start-scour-protection-work-at-dogger-bank-c/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-20T13:38:00+00:00"
-  },
-  "17c4b30c81f5": {
-    "id": "17c4b30c81f5",
-    "title_en": "Brent Briefly Breaks $90 After Fresh Iran War Escalation",
-    "title_zh": "布伦特原油在伊朗战争升级后短暂突破90美元",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Briefly-Breaks-90-After-Fresh-Iran-War-Escalation.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T13:20:00+00:00"
   }
 }
