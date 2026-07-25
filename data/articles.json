@@ -1,4 +1,31 @@
 {
+  "1f5ae5aab6d1": {
+    "id": "1f5ae5aab6d1",
+    "title_en": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
+    "title_zh": "人工智能黑匣子可以被信任来运行核反应堆吗？",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-an-AI-Black-Box-Be-Trusted-to-Run-a-Nuclear-Reactor.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-25T21:00:00+00:00"
+  },
+  "314498a5368b": {
+    "id": "314498a5368b",
+    "title_en": "This New Underground Energy Storage System Supports Wind And Solar Power",
+    "title_zh": "这种新型地下储能系统支持风能和太阳能",
+    "url": "https://cleantechnica.com/2026/07/25/flywheel-energy-storage-us-qnetic-factory-wind-solar-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-25T20:53:46+00:00"
+  },
+  "62f6e9cd6a00": {
+    "id": "62f6e9cd6a00",
+    "title_en": "Waymo is 2/3 safer than a human driver, says IIHS – with some caveats",
+    "title_zh": "IIHS表示，Waymo比人类驾驶员安全2/3，但有一些警告",
+    "url": "https://electrek.co/2026/07/25/waymo-is-2-3-safer-than-a-human-driver-says-iihs-with-some-caveats/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-25T19:27:07+00:00"
+  },
   "6ff7ad58e56b": {
     "id": "6ff7ad58e56b",
     "title_en": "The Carbon Capture Boom Is Starting to Crack",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-20T17:30:00+00:00"
-  },
-  "886e8701a6b5": {
-    "id": "886e8701a6b5",
-    "title_en": "Trump Administration Further Guts Endangered Species Act Implementation With Two New Rules",
-    "title_zh": "特朗普政府通过两项新规定进一步实施《濒危物种法》",
-    "url": "https://cleantechnica.com/2026/07/20/trump-administration-further-guts-endangered-species-act-implementation-with-two-new-rules/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T17:18:50+00:00"
-  },
-  "fc90f6184591": {
-    "id": "fc90f6184591",
-    "title_en": "Nigeria Targets Record 3 Million Bpd Oil Output by 2030",
-    "title_zh": "尼日利亚计划到2030年实现创纪录的300万桶/日石油产量",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Nigeria-Targets-Record-3-Million-Bpd-Oil-Output-by-2030.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T17:00:00+00:00"
-  },
-  "a7d58dd6b280": {
-    "id": "a7d58dd6b280",
-    "title_en": "Principia is here to win, and it won’t hesitate to help others do the same",
-    "title_zh": "Principia是来赢的，它会毫不犹豫地帮助其他人做同样的事情",
-    "url": "https://electrek.co/2026/07/20/principia-is-here-to-win-and-it-wont-hesitate-to-help-others-do-the-same/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T16:54:22+00:00"
   }
 }
