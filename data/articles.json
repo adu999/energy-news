@@ -1,4 +1,31 @@
 {
+  "04c73acae0d6": {
+    "id": "04c73acae0d6",
+    "title_en": "Another day at the office: Fortescue CEO test drives 150 ton haul truck [video]",
+    "title_zh": "在办公室的另一天：Fortescue首席执行官试驾150吨拖运卡车[视频]",
+    "url": "https://electrek.co/2026/07/25/another-day-at-the-office-fortescue-ceo-test-drives-150-ton-haul-truck-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-26T00:43:27+00:00"
+  },
+  "2501e8163e2a": {
+    "id": "2501e8163e2a",
+    "title_en": "Windrose says 10 of its electric semi trucks are coming to Texas’ I-35 corridor",
+    "title_zh": "Windrose表示，其10辆电动半挂卡车将进入德克萨斯州的I-35走廊",
+    "url": "https://electrek.co/2026/07/25/dsv-to-deploy-10-windrose-electric-semi-trucks-on-i-35-corridor-allegedly/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-26T00:12:22+00:00"
+  },
+  "c79b6e921382": {
+    "id": "c79b6e921382",
+    "title_en": "E-quipment highlight: Avant Tecno e727 electric wheel loader",
+    "title_zh": "电子设备亮点：Avant Tecno e727电动轮式装载机",
+    "url": "https://electrek.co/2026/07/25/e-quipment-highlight-avant-tecno-e727-electric-wheel-loader/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-25T23:15:02+00:00"
+  },
   "1f5ae5aab6d1": {
     "id": "1f5ae5aab6d1",
     "title_en": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-20T18:00:00+00:00"
-  },
-  "7b407a63503b": {
-    "id": "7b407a63503b",
-    "title_en": "Ford’s new EV pickup caught at a Tesla Supercharger",
-    "title_zh": "福特的新款电动汽车皮卡在特斯拉增压器上被卡住",
-    "url": "https://electrek.co/2026/07/20/fords-new-ev-pickup-caught-at-tesla-supercharger/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T17:58:52+00:00"
-  },
-  "73cf59fe7aa7": {
-    "id": "73cf59fe7aa7",
-    "title_en": "Wildfire Liability Is Becoming a Data Problem, Not Just a Legal One",
-    "title_zh": "野火责任正在成为一个数据问题，而不仅仅是法律问题",
-    "url": "https://www.powermag.com/wildfire-liability-is-becoming-a-data-problem-not-just-a-legal-one/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-20T17:50:33+00:00"
-  },
-  "3923f16031fe": {
-    "id": "3923f16031fe",
-    "title_en": "New Zealand Oil Explorers Rush to Secure Offshore Permits Before Election",
-    "title_zh": "新西兰石油勘探者在选举前急于获得海上许可证",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/New-Zealand-Oil-Explorers-Rush-to-Secure-Offshore-Permits-Before-Election.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T17:30:00+00:00"
   }
 }
