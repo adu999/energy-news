@@ -1,4 +1,22 @@
 {
+  "477916c0e60b": {
+    "id": "477916c0e60b",
+    "title_en": "Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records",
+    "title_zh": "阿根廷石油产量飙升，Vaca Muerta打破新纪录",
+    "url": "https://oilprice.com/Energy/Energy-General/Argentinas-Oil-Production-Soars-as-Vaca-Muerta-Breaks-New-Records.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-26T19:00:00+00:00"
+  },
+  "5e9848a75536": {
+    "id": "5e9848a75536",
+    "title_en": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
+    "title_zh": "熔盐反应堆刚刚扫清了美国监管的一大障碍",
+    "url": "https://oilprice.com/Energy/Energy-General/Molten-Salt-Reactors-Just-Cleared-A-Major-US-Regulatory-Hurdle.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-26T17:00:00+00:00"
+  },
   "d65063b9f657": {
     "id": "d65063b9f657",
     "title_en": "Oil Market's Glut Narrative Just Blew Up",
@@ -4480,23 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-20T20:01:16+00:00"
-  },
-  "80bef6bcd2ef": {
-    "id": "80bef6bcd2ef",
-    "title_en": "Why the EU Still Can’t Agree on Its Next Round of Russia Sanctions",
-    "title_zh": "为什么欧盟仍无法就下一轮俄罗斯制裁达成一致",
-    "url": "https://oilprice.com/Energy/Energy-General/Why-the-EU-Still-Cant-Agree-on-Its-Next-Round-of-Russia-Sanctions.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T20:00:00+00:00"
-  },
-  "93d9288bbdec": {
-    "id": "93d9288bbdec",
-    "title_en": "America Needs a Fifth Nuclear Executive Order",
-    "title_zh": "美国需要第五个核行政命令",
-    "url": "https://www.powermag.com/america-needs-a-fifth-nuclear-executive-order/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-20T19:16:09+00:00"
   }
 }
