@@ -1,4 +1,13 @@
 {
+  "8d780f6e1526": {
+    "id": "8d780f6e1526",
+    "title_en": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
+    "title_zh": "伊朗战争再次袭击航空公司，美国喷气燃料成本飙升",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-26T21:00:00+00:00"
+  },
   "477916c0e60b": {
     "id": "477916c0e60b",
     "title_en": "Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records",
@@ -4489,14 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-20T20:38:08+00:00"
-  },
-  "3f396e00ffd1": {
-    "id": "3f396e00ffd1",
-    "title_en": "Tesla ‘Full Self-Driving’ got me a speeding ticket, and Tesla killed the fix",
-    "title_zh": "特斯拉的“全自动驾驶”给我开了一张超速罚单，特斯拉终止了这一修复",
-    "url": "https://electrek.co/2026/07/20/tesla-fsd-speeding-ticket-removed-speed-setting/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T20:01:16+00:00"
   }
 }
