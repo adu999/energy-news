@@ -1,4 +1,40 @@
 {
+  "d65063b9f657": {
+    "id": "d65063b9f657",
+    "title_en": "Oil Market's Glut Narrative Just Blew Up",
+    "title_zh": "石油市场的贪婪叙事刚刚破灭",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Markets-Glut-Narrative-Just-Blew-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-26T16:00:00+00:00"
+  },
+  "95c8f904c603": {
+    "id": "95c8f904c603",
+    "title_en": "Trump Blames Canada For Smoke From A Climate America Created",
+    "title_zh": "特朗普指责加拿大制造了美国制造的气候烟雾",
+    "url": "https://cleantechnica.com/2026/07/26/trump-blames-canada-wildfire-smoke-climate/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-26T15:50:39+00:00"
+  },
+  "7990e4902950": {
+    "id": "7990e4902950",
+    "title_en": "Australia’s Clean Energy Boom Is Gathering Speed",
+    "title_zh": "澳大利亚的清洁能源热潮正在加速",
+    "url": "https://oilprice.com/Energy/Energy-General/Australias-Clean-Energy-Boom-Is-Gathering-Speed.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-26T15:00:00+00:00"
+  },
+  "f464ac39315a": {
+    "id": "f464ac39315a",
+    "title_en": "Kalmar Ottawa electric yard truck gets to work in Canada",
+    "title_zh": "卡尔玛渥太华电动庭院卡车在加拿大开始工作",
+    "url": "https://electrek.co/2026/07/26/kalmar-ottawa-electric-yard-truck-gets-to-work-in-canada/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-26T13:57:27+00:00"
+  },
   "4fb945d53800": {
     "id": "4fb945d53800",
     "title_en": "We May Be Looking At The Debate About AI & Data Centers All Wrong",
@@ -4462,41 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-07-20T19:16:09+00:00"
-  },
-  "c55fbed38668": {
-    "id": "c55fbed38668",
-    "title_en": "Hyundai’s $5B battery plant opens with enough capacity to power 300,000 EVs a year",
-    "title_zh": "现代耗资50亿美元的电池厂开业，年产能足以为30万辆电动汽车供电",
-    "url": "https://electrek.co/2026/07/20/hyundais-5b-battery-plant-opens-capacity-300k-evs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T19:14:55+00:00"
-  },
-  "c99b014cd82f": {
-    "id": "c99b014cd82f",
-    "title_en": "Avantus completes 1st phase of Aratina solar + storage project in California",
-    "title_zh": "Avantus在加利福尼亚州完成了Aratina太阳能+储能项目的第一阶段",
-    "url": "https://www.solarpowerworldonline.com/2026/07/avantus-completes-1st-phase-of-aratina-solar-storage-project-in-california/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T19:09:20+00:00"
-  },
-  "54f8ce50b361": {
-    "id": "54f8ce50b361",
-    "title_en": "Despite Political Headwinds, Wind Power Keeps Insisting Upon Itself",
-    "title_zh": "尽管面临政治逆风，风力发电仍坚持己见",
-    "url": "https://cleantechnica.com/2026/07/20/wind-power-us-pennsylvania-exus-repowering-coal-mines/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-20T19:05:23+00:00"
-  },
-  "fe9b9a61ebb4": {
-    "id": "fe9b9a61ebb4",
-    "title_en": "The U.S. Needs 5000 Miles of New High-Voltage Lines Annually. It Only Built 392",
-    "title_zh": "美国每年需要5000英里的新高压线路。它只建造了392",
-    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/The-US-Needs-5000-Miles-of-New-High-Voltage-Lines-Annually-It-Only-Built-392.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T19:00:00+00:00"
   }
 }
