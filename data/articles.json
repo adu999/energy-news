@@ -1,4 +1,103 @@
 {
+  "9743bb856933": {
+    "id": "9743bb856933",
+    "title_en": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
+    "title_zh": "Energy Vault在德克萨斯州的人工智能园区为Crusoe Spark模块化数据中心破土动工",
+    "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-27T19:23:17+00:00"
+  },
+  "ca992bd76920": {
+    "id": "ca992bd76920",
+    "title_en": "Strategic Value Partners Takes Stake in 1.2-GW Ohio Gas-Fired Power Plant",
+    "title_zh": "Strategic Value Partners入股俄亥俄州1.2GW燃气发电厂",
+    "url": "https://www.powermag.com/strategic-value-partners-takes-stake-in-1-2-gw-ohio-gas-fired-power-plant/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-27T19:07:22+00:00"
+  },
+  "1fb7cd69e680": {
+    "id": "1fb7cd69e680",
+    "title_en": "Op-ed: Agrivoltaics isn’t one thing. Our policy shouldn’t be either.",
+    "title_zh": "观点：农业光伏不是一回事。我们的政策也不应如此。",
+    "url": "https://www.solarpowerworldonline.com/2026/07/op-ed-agrivoltaics-isnt-one-thing-our-policy-shouldnt-be-either/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-27T19:01:53+00:00"
+  },
+  "30e3a00b2d01": {
+    "id": "30e3a00b2d01",
+    "title_en": "What If the Most Valuable Part of an EV Isn't the Car?",
+    "title_zh": "如果电动汽车最有价值的部分不是汽车呢？",
+    "url": "https://oilprice.com/Energy/Energy-General/What-If-the-Most-Valuable-Part-of-an-EV-Isnt-the-Car.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T19:00:00+00:00"
+  },
+  "31320591bee5": {
+    "id": "31320591bee5",
+    "title_en": "The Trade Routes Iran Cannot Afford to Lose",
+    "title_zh": "伊朗不能失去的贸易路线",
+    "url": "https://oilprice.com/Geopolitics/Asia/The-Trade-Routes-Iran-Cannot-Afford-to-Lose.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T19:00:00+00:00"
+  },
+  "834931ce42a2": {
+    "id": "834931ce42a2",
+    "title_en": "Kia’s next electric van is hard to miss on the road [Video]",
+    "title_zh": "起亚的下一款电动货车在路上很难错过[视频]",
+    "url": "https://electrek.co/2026/07/27/kias-next-electric-van-hard-to-miss-on-road-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-27T18:58:10+00:00"
+  },
+  "ef2e185b40bf": {
+    "id": "ef2e185b40bf",
+    "title_en": "Bluetti 3,014Wh Elite 300 + dual charger 2 power station bundle exclusive $1,329 low, Heybike CityScape 2.0 e-bike launch, more",
+    "title_zh": "Bluetti 3014Wh Elite 300+双充电器2电站捆绑包独家$1329低，Heybike CityScape 2.0电动自行车推出，更多",
+    "url": "https://electrek.co/2026/07/27/bluetti-3014wh-elite-300-dual-charger-2-power-station-bundle-heybike-cityscape-2-0-e-bike-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-27T18:00:00+00:00"
+  },
+  "2a6ec1bf4dd1": {
+    "id": "2a6ec1bf4dd1",
+    "title_en": "A Skeptical Look at Elon Musk's AI Utopia",
+    "title_zh": "对埃隆·马斯克的人工智能乌托邦持怀疑态度",
+    "url": "https://oilprice.com/Energy/Energy-General/A-Skeptical-Look-at-Elon-Musks-AI-Utopia.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T18:00:00+00:00"
+  },
+  "552fdb6e716b": {
+    "id": "552fdb6e716b",
+    "title_en": "BYD reveals new Seal 06 EV images ahead of launch",
+    "title_zh": "比亚迪在发布前公布了新的Seal 06电动汽车图片",
+    "url": "https://electrek.co/2026/07/27/byd-reveals-new-seal-06-ev-images-launch/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-27T17:41:51+00:00"
+  },
+  "4d9fe2cad64a": {
+    "id": "4d9fe2cad64a",
+    "title_en": "Kazakhstan Restarts CPC Oil Exports After Week-Long Black Sea Shutdown",
+    "title_zh": "哈萨克斯坦在黑海长达一周的停摆后重启CPC石油出口",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Restarts-CPC-Oil-Exports-After-Week-Long-Black-Sea-Shutdown.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T17:30:00+00:00"
+  },
+  "083a5032a555": {
+    "id": "083a5032a555",
+    "title_en": "Nvidia's $250 Billion OpenAI Guarantee Puts AI Capex Concerns Back in Focus",
+    "title_zh": "Nvidia 2500亿美元的OpenAI担保使人工智能资本支出问题重新成为焦点",
+    "url": "https://oilprice.com/Energy/Energy-General/Nvidias-250-Billion-OpenAI-Guarantee-Puts-AI-Capex-Concerns-Back-in-Focus.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T17:00:00+00:00"
+  },
   "485d80690eaa": {
     "id": "485d80690eaa",
     "title_en": "China to Resell First US LNG Cargo in a Year Instead of Importing It",
@@ -4399,104 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-21T14:00:00+00:00"
-  },
-  "70882ad5233a": {
-    "id": "70882ad5233a",
-    "title_en": "Germany’s degraded peatlands offer up to 268 GW of solar potential",
-    "title_zh": "德国退化的泥炭地提供高达268吉瓦的太阳能潜力",
-    "url": "https://www.pv-magazine.com/2026/07/21/germanys-degraded-peatlands-offer-up-to-268-gw-of-solar-potential/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T13:48:05+00:00"
-  },
-  "7da18deefe66": {
-    "id": "7da18deefe66",
-    "title_en": "FERC fails to shield PJM consumers from data center transmission costs: ratepayer advocates",
-    "title_zh": "联邦能源管理委员会未能保护PJM消费者免受数据中心传输成本的影响：纳税人倡导者",
-    "url": "https://www.utilitydive.com/news/ferc-data-center-pjm-transmission-costs/825760/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-21T13:36:04+00:00"
-  },
-  "a151a6f92ca0": {
-    "id": "a151a6f92ca0",
-    "title_en": "Ryanair Profit Falls 36% as Unhedged Jet Fuel Costs Double",
-    "title_zh": "瑞安航空利润下降36%，未对冲喷气燃料成本翻倍",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ryanair-Profit-Falls-36-as-Unhedged-Jet-Fuel-Costs-Double.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-21T13:30:00+00:00"
-  },
-  "32ed142a1b8c": {
-    "id": "32ed142a1b8c",
-    "title_en": "Geophysical Survey to Begin Along Potential Export Cable Corridor for Bellrock Floating Wind Farm",
-    "title_zh": "Bellrock浮式风电场潜在出口电缆走廊沿线开始进行地球物理调查",
-    "url": "https://www.offshorewind.biz/2026/07/21/geophysical-survey-to-begin-along-potential-export-cable-corridor-for-bellrock-floating-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-21T13:17:45+00:00"
-  },
-  "c6ba8e113905": {
-    "id": "c6ba8e113905",
-    "title_en": "Volkswagen enters the smart e-bike game with radar, cameras, HUD glasses, and more",
-    "title_zh": "大众汽车凭借雷达、摄像头、HUD眼镜等进入智能电动自行车游戏",
-    "url": "https://electrek.co/2026/07/21/volkswagen-enters-the-smart-e-bike-game-with-radar-cameras-hud-glasses-and-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-21T12:53:33+00:00"
-  },
-  "f6b1a228d876": {
-    "id": "f6b1a228d876",
-    "title_en": "$215B in annual energy cost savings starts with heat pumps: ACEEE",
-    "title_zh": "ACEEE：热泵每年可节省2150亿美元的能源成本",
-    "url": "https://www.utilitydive.com/news/215b-in-annual-energy-cost-savings-starts-with-heat-pumps-aceee/825794/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-21T12:25:05+00:00"
-  },
-  "39f79c863bba": {
-    "id": "39f79c863bba",
-    "title_en": "Two more Czech sites lined up for Rolls-Royce SMRs",
-    "title_zh": "又有两家捷克工厂为劳斯莱斯SMR排队",
-    "url": "https://www.world-nuclear-news.org/articles/two-more-czech-sites-lined-up-for-rolls-royce-smrs",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-21T12:03:40+00:00"
-  },
-  "ed542b14469b": {
-    "id": "ed542b14469b",
-    "title_en": "Startup offers low-cost home batteries to Massachusetts residents",
-    "title_zh": "初创公司为马萨诸塞州居民提供低成本家用电池",
-    "url": "https://www.canarymedia.com/articles/batteries/haven-energy-low-cost-batteries-massachusetts",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-21T12:00:00+00:00"
-  },
-  "d45191f45f3d": {
-    "id": "d45191f45f3d",
-    "title_en": "Statkraft makes FID in 131MW European solar PV as it reduces net loss in Q2 2026",
-    "title_zh": "Statkraft为131MW欧洲太阳能光伏发电提供FID，因为它减少了2026年第二季度的净亏损",
-    "url": "https://www.pv-tech.org/statkraft-makes-fid-in-131mw-european-solar-pv-as-it-reduces-net-loss-in-q2-2026/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T11:59:40+00:00"
-  },
-  "6a732d23bbd4": {
-    "id": "6a732d23bbd4",
-    "title_en": "Acciona Energía tests hybrid battery-ultracapacitor storage in Spain",
-    "title_zh": "Acciona Energía在西班牙测试混合电池超级电容器存储",
-    "url": "https://www.pv-magazine.com/2026/07/21/acciona-energia-tests-hybrid-battery-ultracapacitor-storage-in-spain/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T11:59:35+00:00"
-  },
-  "1388147fd7f3": {
-    "id": "1388147fd7f3",
-    "title_en": "2026 Top Solar Contractors List showcases veterans of dominant energy industry",
-    "title_zh": "2026年顶级太阳能承包商名单展示了主导能源行业的资深人士",
-    "url": "https://www.solarpowerworldonline.com/2026/07/2026-top-solar-contractors-launches-spw/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T11:55:00+00:00"
   }
 }
