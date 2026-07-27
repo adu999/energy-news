@@ -1,4 +1,85 @@
 {
+  "96134a851799": {
+    "id": "96134a851799",
+    "title_en": "Ark Energy locks in AU$1.3 billion for 2.2GWh solar-plus-storage site in New South Wales, Australia",
+    "title_zh": "Ark Energy在澳大利亚新南威尔士州为2.2GWh太阳能+储能电站锁定了13亿澳元的投资",
+    "url": "https://www.energy-storage.news/ark-energy-locks-in-au1-3-billion-for-2-2gwh-solar-plus-storage-site-in-new-south-wales-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-27T02:35:14+00:00"
+  },
+  "7d16a367ca45": {
+    "id": "7d16a367ca45",
+    "title_en": "Western Australia begins work on Clean Energy Link – North to unlock ‘solar-rich’ Mid West",
+    "title_zh": "西澳大利亚州启动清洁能源连接项目——北部，以解锁“太阳能资源丰富”的中西部地区",
+    "url": "https://www.pv-tech.org/western-australia-begins-work-on-clean-energy-link-north-to-unlock-solar-rich-mid-west/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-27T02:13:20+00:00"
+  },
+  "5a0cf4ca4c55": {
+    "id": "5a0cf4ca4c55",
+    "title_en": "Meridian Energy bags consent for 110MW solar PV plant in New Zealand",
+    "title_zh": "Meridian Energy获得新西兰110MW太阳能光伏电站的许可",
+    "url": "https://www.pv-tech.org/meridian-energy-bags-consent-for-110mw-solar-pv-plant-in-new-zealand/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-27T02:06:22+00:00"
+  },
+  "4e76dee358cb": {
+    "id": "4e76dee358cb",
+    "title_en": "Trinasolar begins mass production of 515W Vertex S+ G3 module for Australian rooftop market",
+    "title_zh": "天合光能开始为澳大利亚屋顶市场大规模生产515W Vertex S+G3模块",
+    "url": "https://www.pv-tech.org/trinasolar-begins-mass-production-of-515w-vertex-s-g3-module-for-australian-rooftop-market/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-07-27T02:04:20+00:00"
+  },
+  "33d2798dd661": {
+    "id": "33d2798dd661",
+    "title_en": "Partnership with EnergyHub, Sunrun, & The Mobility House to Test Massachusetts Residential Vehicle-to-Grid Program for Eversource & National Grid Customers",
+    "title_zh": "与EnergyHub、Sunrun和Mobility House合作，为Eversource和国家电网客户测试马萨诸塞州住宅车联网计划",
+    "url": "https://cleantechnica.com/2026/07/26/partnership-with-energyhub-sunrun-the-mobility-house-to-test-massachusetts-residential-vehicle-to-grid-program-for-eversource-national-grid-customers/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-27T01:55:33+00:00"
+  },
+  "7f98fe093a56": {
+    "id": "7f98fe093a56",
+    "title_en": "Altus Power Partners with New Leaf Energy on Development of 5 Community Solar Projects in Virginia",
+    "title_zh": "Altus Power与New Leaf Energy合作开发弗吉尼亚州的5个社区太阳能项目",
+    "url": "https://cleantechnica.com/2026/07/26/altus-power-partners-with-new-leaf-energy-on-development-of-5-community-solar-projects-in-virginia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-27T01:45:02+00:00"
+  },
+  "96bd9184059d": {
+    "id": "96bd9184059d",
+    "title_en": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
+    "title_zh": "美国和伊朗停止袭击后油价暴跌5%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-After-US-and-Iran-Halt-Attacks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T01:06:14+00:00"
+  },
+  "e9c81bdce818": {
+    "id": "e9c81bdce818",
+    "title_en": "China’s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
+    "title_zh": "中国的稀土战略正在推动美国制造业革命",
+    "url": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Strategy-Is-Forcing-a-US-Manufacturing-Revolution.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T00:00:00+00:00"
+  },
+  "975f33fb9e23": {
+    "id": "975f33fb9e23",
+    "title_en": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
+    "title_zh": "渣打银行：石油市场现在必须为两个中东瓶颈定价",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-26T23:00:00+00:00"
+  },
   "8d780f6e1526": {
     "id": "8d780f6e1526",
     "title_en": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
@@ -4417,86 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-07-21T00:16:09+00:00"
-  },
-  "a653b22b2434": {
-    "id": "a653b22b2434",
-    "title_en": "Ember: EU hybridisation could unlock 25GW solar PV and wind without new grids",
-    "title_zh": "Ember：欧盟混合动力可以在没有新电网的情况下解锁25GW的太阳能光伏和风能",
-    "url": "https://www.pv-tech.org/ember-eu-hybridisation-could-unlock-25gw-solar-pv-and-wind-without-new-grids/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T00:01:00+00:00"
-  },
-  "d303595eadc9": {
-    "id": "d303595eadc9",
-    "title_en": "Higher-For-Longer Oil Scenario Is Here To Stay",
-    "title_zh": "油价长期上涨的情景将持续下去",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Higher-For-Longer-Oil-Scenario-Is-Here-To-Stay.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-21T00:00:00+00:00"
-  },
-  "21ccd18a11a5": {
-    "id": "21ccd18a11a5",
-    "title_en": "Australia achieves record renewables and storage connections with 9.1GW reaching full output in FY26",
-    "title_zh": "澳大利亚实现了创纪录的可再生能源和储能连接，26财年达到9.1GW的满负荷产出",
-    "url": "https://www.pv-tech.org/australia-achieves-record-renewables-and-storage-connections-with-9-1gw-reaching-full-output-in-fy26/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-20T23:49:41+00:00"
-  },
-  "a96398a1974a": {
-    "id": "a96398a1974a",
-    "title_en": "With The U.S.-Iran Deal Collapsing, How Exposed Are Oil Markets Right Now?",
-    "title_zh": "随着美伊协议的破裂，石油市场现在暴露在多大程度上？",
-    "url": "https://oilprice.com/Energy/Crude-Oil/With-The-US-Iran-Deal-Collapsing-How-Exposed-Are-Oil-Markets-Right-Now.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T23:00:00+00:00"
-  },
-  "427648cb3606": {
-    "id": "427648cb3606",
-    "title_en": "Severe Service Control Valves for Power Plants: Reducing Cavitation, Noise, and Maintenance Costs",
-    "title_zh": "发电厂恶劣工况控制阀：减少气蚀、噪音和维护成本",
-    "url": "https://www.powermag.com/severe-service-control-valves-for-power-plants-reducing-cavitation-noise-and-maintenance-costs/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-20T22:27:41+00:00"
-  },
-  "afe4d9570f04": {
-    "id": "afe4d9570f04",
-    "title_en": "Why India Could Dominate The Sustainable Aviation Fuel Market",
-    "title_zh": "为什么印度可以主导可持续航空燃料市场",
-    "url": "https://oilprice.com/Alternative-Energy/Biofuels/Why-India-Could-Dominate-The-Sustainable-Aviation-Fuel-Market.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T22:00:00+00:00"
-  },
-  "18ffdfd7535d": {
-    "id": "18ffdfd7535d",
-    "title_en": "The Hyundai IONIQ 5 is flying off dealer lots, and it’s getting harder to find",
-    "title_zh": "现代IONIQ 5正从经销商手中飞走，而且越来越难找到",
-    "url": "https://electrek.co/2026/07/20/hyundai-ioniq-5-selling-fast-dealers-running-out/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T21:39:42+00:00"
-  },
-  "333f5eaa9979": {
-    "id": "333f5eaa9979",
-    "title_en": "Oil Market Loses Its Safety Net as Iran Conflict Reignites",
-    "title_zh": "伊朗冲突再次爆发，石油市场失去安全网",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Market-Loses-Its-Safety-Net-as-Iran-Conflict-Reignites.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-20T21:00:00+00:00"
-  },
-  "5245ef1d5564": {
-    "id": "5245ef1d5564",
-    "title_en": "The US’s first UL 3700 balcony solar microinverter is here",
-    "title_zh": "美国首台UL 3700阳台太阳能微型逆变器问世",
-    "url": "https://electrek.co/2026/07/20/us-first-ul-3700-balcony-solar-microinverter-hoymiles/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-20T20:38:08+00:00"
   }
 }
