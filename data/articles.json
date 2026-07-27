@@ -1,4 +1,40 @@
 {
+  "9fa5a8b0d237": {
+    "id": "9fa5a8b0d237",
+    "title_en": "Jet Fuel Spike Blows a Hole in Airline Profit Forecasts",
+    "title_zh": "喷气燃料激增导致航空公司利润预测出现漏洞",
+    "url": "https://oilprice.com/Energy/Energy-General/Jet-Fuel-Spike-Blows-a-Hole-in-Airline-Profit-Forecasts.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T22:00:00+00:00"
+  },
+  "5619f547d224": {
+    "id": "5619f547d224",
+    "title_en": "Meta is backing 10 gas plants to power data centers – and just quit a global renewables pledge",
+    "title_zh": "Meta支持10家天然气厂为数据中心供电，并刚刚退出全球可再生能源承诺",
+    "url": "https://electrek.co/2026/07/27/meta-is-backing-10-gas-plants-and-just-quit-a-global-renewables-pledge/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-27T21:33:44+00:00"
+  },
+  "3829ca7e8b35": {
+    "id": "3829ca7e8b35",
+    "title_en": "The U.S. Is Walking Into Iran’s Escalation Trap",
+    "title_zh": "美国正陷入伊朗的升级陷阱",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/The-US-Is-Walking-Into-Irans-Escalation-Trap.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-27T21:00:00+00:00"
+  },
+  "c4c6b022fcc0": {
+    "id": "c4c6b022fcc0",
+    "title_en": "BYD’s new flagship EV breaks cover for the first time with over 1,000 km of range [Video]",
+    "title_zh": "比亚迪新旗舰电动汽车首次突破1000公里续航里程[视频]",
+    "url": "https://electrek.co/2026/07/27/byd-reveals-new-flagship-ev-range-1008-km-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-27T20:58:03+00:00"
+  },
   "9743bb856933": {
     "id": "9743bb856933",
     "title_en": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
@@ -4462,41 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-21T14:07:50+00:00"
-  },
-  "0e16ef161b63": {
-    "id": "0e16ef161b63",
-    "title_en": "Nextpower completes Prevalon acquisition",
-    "title_zh": "Nextpower完成对Prevalon的收购",
-    "url": "https://www.pv-tech.org/nextpower-completes-prevalon-acquisition/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T14:05:52+00:00"
-  },
-  "37051fc1a0d6": {
-    "id": "37051fc1a0d6",
-    "title_en": "US data center electricity use could more than double by 2030: report",
-    "title_zh": "到2030年，美国数据中心的用电量可能会增加一倍以上：报告",
-    "url": "https://www.utilitydive.com/news/us-data-centers-could-4x-water-use-by-2028-double-electricity-by-2030-khi/825774/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-21T14:03:19+00:00"
-  },
-  "d24b3afe4f92": {
-    "id": "d24b3afe4f92",
-    "title_en": "POWEROAD builds eco-partnerships to strengthen its presence in European market",
-    "title_zh": "POWEROAD建立生态合作伙伴关系，以加强其在欧洲市场的影响力",
-    "url": "https://www.pv-magazine.com/2026/07/21/poweroad-builds-eco-partnerships-to-strengthen-its-presence-in-european-market/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T14:00:00+00:00"
-  },
-  "57c1d43342b1": {
-    "id": "57c1d43342b1",
-    "title_en": "Trump Vows Tehran Will 'Pay' As U.S. Strikes Iran for 10th Consecutive Night",
-    "title_zh": "特朗普誓言德黑兰将“支付”美国连续第10晚袭击伊朗",
-    "url": "https://oilprice.com/Energy/Energy-General/Trump-Vows-Tehran-Will-Pay-As-US-Strikes-Iran-for-10th-Consecutive-Night.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-21T14:00:00+00:00"
   }
 }
