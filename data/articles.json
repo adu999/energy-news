@@ -1,4 +1,130 @@
 {
+  "905ca2efbad9": {
+    "id": "905ca2efbad9",
+    "title_en": "AI To Replace Overpaid CEOs",
+    "title_zh": "人工智能取代高薪CEO",
+    "url": "https://cleantechnica.com/2026/07/28/ai-to-replace-overpaid-ceos/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T16:10:43+00:00"
+  },
+  "93c6c9cd0c6c": {
+    "id": "93c6c9cd0c6c",
+    "title_en": "BMW ramps up iX3 output as orders near 100,000",
+    "title_zh": "宝马增加iX3产量，订单接近10万辆",
+    "url": "https://electrek.co/2026/07/28/bmw-ramps-up-ix3-output-orders-near-100000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T16:09:36+00:00"
+  },
+  "e6b2adde2dcf": {
+    "id": "e6b2adde2dcf",
+    "title_en": "Defense Tech Investment Hits Record High as Arms Giants Ramp Up Startup Funding",
+    "title_zh": "国防科技投资创历史新高，军火巨头加大启动资金",
+    "url": "https://oilprice.com/Energy/Energy-General/Defense-Tech-Investment-Hits-Record-High-as-Arms-Giants-Ramp-Up-Startup-Funding.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T16:00:00+00:00"
+  },
+  "78e9ddd0000f": {
+    "id": "78e9ddd0000f",
+    "title_en": "Behind the New York data center pause is legislation that could impact existing facilities",
+    "title_zh": "纽约数据中心暂停运营的背后是可能影响现有设施的立法",
+    "url": "https://www.utilitydive.com/news/behind-the-new-york-data-center-pause-is-legislation-that-could-impact-exis/826369/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-28T15:53:08+00:00"
+  },
+  "2404cddd98fd": {
+    "id": "2404cddd98fd",
+    "title_en": "Severe Risks of AI That Are Not Getting Enough Attention",
+    "title_zh": "人工智能的严重风险没有得到足够的关注",
+    "url": "https://cleantechnica.com/2026/07/28/severe-risks-of-ai-that-are-not-getting-enough-attention/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T15:42:00+00:00"
+  },
+  "4828d55c7f93": {
+    "id": "4828d55c7f93",
+    "title_en": "Tesla buys 90% of a 509 MW Arizona solar and storage project",
+    "title_zh": "特斯拉收购了亚利桑那州509兆瓦太阳能和储能项目90%的股份",
+    "url": "https://electrek.co/2026/07/28/tesla-arizona-solar-storage-ppa-project-sterling/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T15:32:55+00:00"
+  },
+  "1fddcceb0f3d": {
+    "id": "1fddcceb0f3d",
+    "title_en": "Hitting EU Renewables Targets Could Slash Gas Demand a Quarter by 2030",
+    "title_zh": "到2030年，达到欧盟可再生能源目标可能会使天然气需求减少四分之一",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hitting-EU-Renewables-Targets-Could-Slash-Gas-Demand-a-Quarter-by-2030.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T15:30:00+00:00"
+  },
+  "cb3a69029a4b": {
+    "id": "cb3a69029a4b",
+    "title_en": "Oil Prices Retreat, But the Strait of Hormuz Remains the Wild Card",
+    "title_zh": "油价回落，但霍尔木兹海峡仍是未知数",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Retreat-But-the-Strait-of-Hormuz-Remains-the-Wild-Card.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T15:20:00+00:00"
+  },
+  "282ba8879ebd": {
+    "id": "282ba8879ebd",
+    "title_en": "Community solar can bridge California’s energy affordability gap",
+    "title_zh": "社区太阳能可以弥合加州的能源负担差距",
+    "url": "https://www.utilitydive.com/news/community-solar-can-bridge-californias-energy-affordability-gap/824956/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-28T15:00:00+00:00"
+  },
+  "cfd0a065037d": {
+    "id": "cfd0a065037d",
+    "title_en": "Amid Monstrous Wildfires, European Automakers Push To Weaken EV Mandates",
+    "title_zh": "在可怕的野火中，欧洲汽车制造商推动削弱电动汽车授权",
+    "url": "https://cleantechnica.com/2026/07/28/amid-monstrous-wildfires-european-automakers-push-to-weaken-ev-mandates/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T14:37:49+00:00"
+  },
+  "76a1478c738b": {
+    "id": "76a1478c738b",
+    "title_en": "BYD launches the ‘world’s first’ SDV kei EV, starting at just $13,000",
+    "title_zh": "比亚迪推出“全球首款”SDV-kei电动汽车，起价仅为13000美元",
+    "url": "https://electrek.co/2026/07/28/byd-launches-worlds-first-sdv-kei-ev-starting-at-13000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T14:35:20+00:00"
+  },
+  "ba6a25217f39": {
+    "id": "ba6a25217f39",
+    "title_en": "Mitsubishi’s ‘all-new’ Eclipse Sportback EV is a rebadged Nissan Leaf",
+    "title_zh": "三菱的“全新”Eclipse Sportback EV是重新定位的日产Leaf",
+    "url": "https://electrek.co/2026/07/28/mitsubishi-eclipse-sportback-ev-rebadged-nissan-leaf/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T14:30:31+00:00"
+  },
+  "f307bdbcc324": {
+    "id": "f307bdbcc324",
+    "title_en": "Tata Power Targets 2032 for India's First Private Nuclear Plant",
+    "title_zh": "塔塔电力公司计划在2032年建成印度第一座私人核电站",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Tata-Power-Targets-2032-for-Indias-First-Private-Nuclear-Plant.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T14:30:00+00:00"
+  },
+  "d04cf03f9015": {
+    "id": "d04cf03f9015",
+    "title_en": "PJM board proposes backstop capacity auction, data center curtailment plans",
+    "title_zh": "PJM董事会提出后备容量拍卖和数据中心缩减计划",
+    "url": "https://www.utilitydive.com/news/pjm-board-backstop-capacity-auction-data-center-curtailment/826347/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-28T14:09:32+00:00"
+  },
   "6f65d52633a5": {
     "id": "6f65d52633a5",
     "title_en": "Britain Backs Ukraine With New Electronic Warfare Cooperation",
@@ -7,6 +133,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-28T14:00:00+00:00"
+  },
+  "146ec5613d82": {
+    "id": "146ec5613d82",
+    "title_en": "Yamaha is preparing to launch another electric scooter, design filings show",
+    "title_zh": "设计文件显示，雅马哈正准备推出另一款电动滑板车",
+    "url": "https://electrek.co/2026/07/28/yamaha-is-preparing-to-launch-another-electric-scooter-design-filings-show/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T13:56:00+00:00"
   },
   "33b43d007a16": {
     "id": "33b43d007a16",
@@ -133,6 +268,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-28T12:15:48+00:00"
+  },
+  "f472b0a3d4b6": {
+    "id": "f472b0a3d4b6",
+    "title_en": "CenterPoint says 14 GW likely eligible for Texas’ ‘Batch Zero’ large-load interconnection",
+    "title_zh": "CenterPoint表示，14GW可能符合德克萨斯州“零批”大负载互连的条件",
+    "url": "https://www.utilitydive.com/news/centerpoint-energy-14-gw-texas-batch-zero-large-load-earnings/826329/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-28T12:02:06+00:00"
   },
   "35a8b562cfbd": {
     "id": "35a8b562cfbd",
@@ -3095,6 +3239,15 @@
     "category": "EV",
     "pub_ts": "2026-07-23T14:09:44+00:00"
   },
+  "2a3ee7d561c5": {
+    "id": "2a3ee7d561c5",
+    "title_en": "Landmark module installation at Lufeng 2",
+    "title_zh": "陆丰2号地标模块安装",
+    "url": "https://www.world-nuclear-news.org/articles/landmark-module-installation-at-lufeng-2",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-07-23T14:01:35+00:00"
+  },
   "c7147b5e2e3e": {
     "id": "c7147b5e2e3e",
     "title_en": "U.S. and Ukraine Sign Landmark Drone Cooperation Agreement",
@@ -4345,158 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-22T09:44:38+00:00"
-  },
-  "3ad4adc5f380": {
-    "id": "3ad4adc5f380",
-    "title_en": "Equinor Profit Soars 93% as Oil and Gas Price Spike Fuels Windfall",
-    "title_zh": "Equinor利润飙升93%，因石油和天然气价格飙升引发意外",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profit-Soars-93-as-Oil-and-Gas-Price-Spike-Fuels-Windfall.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T09:30:00+00:00"
-  },
-  "2d068e926d6d": {
-    "id": "2d068e926d6d",
-    "title_en": "EDF study finds elevated agrivoltaics provide superior plant protection",
-    "title_zh": "法国电力公司的研究发现，升高的农业光伏提供了卓越的植物保护",
-    "url": "https://www.pv-magazine.com/2026/07/22/edf-study-finds-elevated-agrivoltaics-provide-superior-plant-protection/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T09:28:26+00:00"
-  },
-  "b0e6d087bff0": {
-    "id": "b0e6d087bff0",
-    "title_en": "Vattenfall, Dutch AI Infrastructure Company Explore Wind-Powered Offshore Data Centres",
-    "title_zh": "荷兰人工智能基础设施公司Vattenfall探索风力发电海上数据中心",
-    "url": "https://www.offshorewind.biz/2026/07/22/vattenfall-dutch-ai-infrastructure-company-explore-wind-powered-offshore-data-centres/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-22T09:03:23+00:00"
-  },
-  "4ba227b3f73e": {
-    "id": "4ba227b3f73e",
-    "title_en": "Sofab Inks announces $6 million funding to advance novel perovskite ETL materials",
-    "title_zh": "Sofab Inks宣布获得600万美元资金，用于推进新型钙钛矿ETL材料",
-    "url": "https://www.pv-magazine.com/2026/07/22/sofab-inks-announces-6-million-in-funding-to-advance-novel-perovskite-etl-materials/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T08:55:42+00:00"
-  },
-  "901758d87030": {
-    "id": "901758d87030",
-    "title_en": "SINEXCEL on engineering grid-forming PCS for European utility-scale BESS projects",
-    "title_zh": "SINEXCEL在欧洲公用事业规模BESS项目工程网格形成PCS中的应用",
-    "url": "https://www.energy-storage.news/sinexcel-on-engineering-grid-forming-pcs-for-european-utility-scale-bess-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T08:50:37+00:00"
-  },
-  "2f36740ba506": {
-    "id": "2f36740ba506",
-    "title_en": "China's Oil Output Hits Record High",
-    "title_zh": "中国石油产量创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Output-Hits-Record-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T08:30:00+00:00"
-  },
-  "d8ed1bc192f6": {
-    "id": "d8ed1bc192f6",
-    "title_en": "Energy Storage Awards 2026: Judges seek winners with the ambition to solve industry problems",
-    "title_zh": "2026年储能奖：评委们寻找有志于解决行业问题的获奖者",
-    "url": "https://www.energy-storage.news/energy-storage-awards-2026-judges-seek-winners-with-the-ambition-to-solve-industry-problems/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T08:24:06+00:00"
-  },
-  "ba1cab099982": {
-    "id": "ba1cab099982",
-    "title_en": "Northern Europe: Delta Capacity adds to Nordic BESS portfolio, Ignitis takes FID on Latvia project",
-    "title_zh": "北欧：德尔塔产能增加北欧BESS投资组合，Ignitis在拉脱维亚项目上获得FID",
-    "url": "https://www.energy-storage.news/northern-europe-delta-capacity-adds-to-nordic-bess-portfolio-ignitis-takes-fid-on-latvia-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T08:21:11+00:00"
-  },
-  "ba4e1315a50e": {
-    "id": "ba4e1315a50e",
-    "title_en": "Rising gas costs push European electricity prices higher",
-    "title_zh": "天然气成本上涨推高了欧洲电价",
-    "url": "https://www.pv-magazine.com/2026/07/22/rising-gas-costs-push-european-electricity-prices-higher-2/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T08:09:45+00:00"
-  },
-  "8f0db93299ca": {
-    "id": "8f0db93299ca",
-    "title_en": "VIDEO: ‘Not enough priority given to BESS asset management and operation’",
-    "title_zh": "视频：“BESS资产管理和运营没有得到足够的重视”",
-    "url": "https://www.energy-storage.news/video-not-enough-priority-given-to-bess-asset-management-and-operation/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T08:05:09+00:00"
-  },
-  "07a7ccaefcf6": {
-    "id": "07a7ccaefcf6",
-    "title_en": "GoodWe showcases residential, C&I, and utility-scale energy solutions at The smarter E 2026",
-    "title_zh": "GoodWe在智能E 2026上展示了住宅、C&I和公用事业规模的能源解决方案",
-    "url": "https://www.pv-magazine.com/2026/07/22/goodwe-showcases-residential-ci-and-utility-scale-energy-solutions-at-the-smarter-e-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T08:05:00+00:00"
-  },
-  "0bfa5f1c3fd5": {
-    "id": "0bfa5f1c3fd5",
-    "title_en": "Nordseecluster A Feeds First Electricity Into German Grid",
-    "title_zh": "Nordseecluster A首次向德国电网供电",
-    "url": "https://www.offshorewind.biz/2026/07/22/nordseecluster-a-feeds-first-electricity-into-german-grid/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-22T07:48:08+00:00"
-  },
-  "0fa168c0970e": {
-    "id": "0fa168c0970e",
-    "title_en": "Lians showcases 565 W heterojunction solar module with multi-cut shingled design",
-    "title_zh": "Lians展示了565 W异质结太阳能模块，采用多切割瓦片设计",
-    "url": "https://www.pv-magazine.com/2026/07/22/lians-showcases-565-w-heterojunction-solar-module-with-multi-cut-shingled-cell-architecture/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T07:41:43+00:00"
-  },
-  "406b2745c922": {
-    "id": "406b2745c922",
-    "title_en": "rPlus Energies expands solar and storage capacity with Idaho projects",
-    "title_zh": "rPlus Energies通过爱达荷州的项目扩大太阳能和储能容量",
-    "url": "https://www.energymonitor.ai/news/rplus-energies-idaho-projects/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-22T07:36:43+00:00"
-  },
-  "570cbd36a9d7": {
-    "id": "570cbd36a9d7",
-    "title_en": "Surging Oil Prices Push Japan’s Import Bill to an Unprecedented High",
-    "title_zh": "油价飙升将日本的进口账单推至前所未有的高位",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Surging-Oil-Prices-Push-Japans-Import-Bill-to-an-Unprecedented-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T07:30:00+00:00"
-  },
-  "8ae5a886b4b5": {
-    "id": "8ae5a886b4b5",
-    "title_en": "State legislatures are getting better at clean-energy permitting policy",
-    "title_zh": "州立法机构在清洁能源许可政策方面做得越来越好",
-    "url": "https://www.canarymedia.com/articles/clean-energy/state-legislatures-clean-energy-permitting",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-22T07:30:00+00:00"
-  },
-  "22dacbf4aba3": {
-    "id": "22dacbf4aba3",
-    "title_en": "A $100M Ohio energy fund lacks transparency — and excludes renewables",
-    "title_zh": "俄亥俄州1亿美元的能源基金缺乏透明度，且不包括可再生能源",
-    "url": "https://www.canarymedia.com/articles/fossil-fuels/100m-ohio-energy-fund",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-22T07:30:00+00:00"
   }
 }
