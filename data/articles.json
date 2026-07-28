@@ -1,4 +1,130 @@
 {
+  "4c924d2786d2": {
+    "id": "4c924d2786d2",
+    "title_en": "U.S. Sale Of Venezuela’s Oil Hits $13 Billion Since Trump’s Takeover",
+    "title_zh": "自特朗普接管以来，美国对委内瑞拉石油的销售达到130亿美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Sale-Of-Venezuelas-Oil-Hits-13-Billion-Since-Trumps-Takeover.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T19:00:00+00:00"
+  },
+  "07284c1f4ea2": {
+    "id": "07284c1f4ea2",
+    "title_en": "OPEC+ Prepares to Stop Raising Oil Output Targets",
+    "title_zh": "欧佩克+准备停止提高石油产量目标",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T19:00:00+00:00"
+  },
+  "4d61eab8fddf": {
+    "id": "4d61eab8fddf",
+    "title_en": "Mercedes’ new GLA EV leaks a day ahead of its official debut",
+    "title_zh": "梅赛德斯的新款GLA EV在正式亮相前一天泄漏",
+    "url": "https://electrek.co/2026/07/28/mercedes-new-gla-ev-leaks-day-ahead-of-debut/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T18:55:46+00:00"
+  },
+  "86a60679f11c": {
+    "id": "86a60679f11c",
+    "title_en": "What Is Cape Cod Doing To Secure Its Energy Independence And Protect Its Natural Resources?",
+    "title_zh": "科德角正在采取哪些措施来确保其能源独立性并保护其自然资源？",
+    "url": "https://cleantechnica.com/2026/07/28/what-is-cape-cod-doing-to-secure-its-energy-independence-and-protect-its-natural-resources/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T18:41:34+00:00"
+  },
+  "190c18a6bd6f": {
+    "id": "190c18a6bd6f",
+    "title_en": "30-MW Nebraska microgrid gets a non-lithium battery boost",
+    "title_zh": "30兆瓦的内布拉斯加州微电网获得了非锂电池的支持",
+    "url": "https://www.utilitydive.com/news/30-mw-nebraska-microgrid-gets-a-non-lithium-battery-boost/826393/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-28T18:16:21+00:00"
+  },
+  "331db6cddd8a": {
+    "id": "331db6cddd8a",
+    "title_en": "Saudi Prince Alwaleed takes 5% Lucid (LCID) stake, stock jumps 25%",
+    "title_zh": "沙特王子阿尔瓦利德持有Lucid（LCID）5%的股份，股价上涨25%",
+    "url": "https://electrek.co/2026/07/28/saudi-prince-alwaleed-5-percent-lucid-stake-lcid/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T18:11:13+00:00"
+  },
+  "ddf8b55e4a01": {
+    "id": "ddf8b55e4a01",
+    "title_en": "Greenworks 80V CrossoverT riding mower with 600W turbo charger $1,200 off, Camplux 3.5kW to 27kW water heaters, more",
+    "title_zh": "Greenworks 80V CrossoverT骑行割草机，配备600W涡轮增压器，可享受1200美元折扣，Camplux 3.5kW至27kW热水器，更多",
+    "url": "https://electrek.co/2026/07/28/greenworks-80v-crossovert-riding-mower-camplux-water-heaters-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T18:00:00+00:00"
+  },
+  "eee6155eccaa": {
+    "id": "eee6155eccaa",
+    "title_en": "Central Asia Seeks New Trade Route to Pakistani Ports",
+    "title_zh": "中亚寻求通往巴基斯坦港口的新贸易路线",
+    "url": "https://oilprice.com/Geopolitics/Asia/Central-Asia-Seeks-New-Trade-Route-to-Pakistani-Ports.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T18:00:00+00:00"
+  },
+  "f6131858c41d": {
+    "id": "f6131858c41d",
+    "title_en": "Saudi Aramco Shuts 400,000-Bpd Refinery After Houthi Strike",
+    "title_zh": "沙特阿美石油公司在胡塞罢工后关闭了40万桶/日的炼油厂",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Shuts-400000-Bpd-Refinery-After-Houthi-Strike.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T18:00:00+00:00"
+  },
+  "7ab88b722e4f": {
+    "id": "7ab88b722e4f",
+    "title_en": "Tesla signs PPA for large solar + storage project in Arizona",
+    "title_zh": "特斯拉签署亚利桑那州大型太阳能+储能项目购电协议",
+    "url": "https://www.solarpowerworldonline.com/2026/07/tesla-signs-ppa-for-large-solar-storage-project-in-arizona/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-28T17:38:17+00:00"
+  },
+  "2097a2ce2d31": {
+    "id": "2097a2ce2d31",
+    "title_en": "Who Needs Natural Gas Power Plants When Grid Solutions, VPPs, And DERs Are Here?",
+    "title_zh": "当电网解决方案、VPP和DER出现时，谁需要天然气发电厂？",
+    "url": "https://cleantechnica.com/2026/07/28/grid-modernization-energy-storage-vpp-wind-solar-ders/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T17:35:23+00:00"
+  },
+  "89b1472c0a92": {
+    "id": "89b1472c0a92",
+    "title_en": "Baidu’s Apollo Go begins London robotaxi testing with Uber and Lyft",
+    "title_zh": "百度阿波罗Go开始与优步和Lyft在伦敦进行自动出租车测试",
+    "url": "https://electrek.co/2026/07/28/baidu-apollo-go-london-robotaxi-testing-uber-lyft/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T17:20:02+00:00"
+  },
+  "6c6607245a11": {
+    "id": "6c6607245a11",
+    "title_en": "Volkswagen launches the cheaper ID. Polo EV after securing 25,000 orders in weeks",
+    "title_zh": "大众汽车在数周内获得25000份订单后，推出了更便宜的ID Polo EV",
+    "url": "https://electrek.co/2026/07/28/volkswagen-launches-cheaper-id-polo-ev-orders-25000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T17:00:23+00:00"
+  },
+  "ece68b4b6518": {
+    "id": "ece68b4b6518",
+    "title_en": "Why Did Trump Just Give Saudi Arabia the Fast Track to a Nuclear Weapon?",
+    "title_zh": "为什么特朗普只是让沙特阿拉伯快速发展核武器？",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Did-Trump-Just-Give-Saudi-Arabia-the-Fast-Track-to-a-Nuclear-Weapon.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T17:00:00+00:00"
+  },
   "905ca2efbad9": {
     "id": "905ca2efbad9",
     "title_en": "AI To Replace Overpaid CEOs",
@@ -4372,131 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-22T11:17:59+00:00"
-  },
-  "ace833fa2d72": {
-    "id": "ace833fa2d72",
-    "title_en": "Iberdrola reports US$4.9 billion H1 2026 net profit as solar capacity increases, but renewable generation falls",
-    "title_zh": "Iberdrola报告称，随着太阳能容量的增加，2026年上半年净利润为49亿美元，但可再生能源发电量下降",
-    "url": "https://www.pv-tech.org/iberdrola-reports-h1-2026-net-profit-solar-capacity-increases-renewable-generation-falls/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:16:43+00:00"
-  },
-  "87d8a55a69f5": {
-    "id": "87d8a55a69f5",
-    "title_en": "Hawaiian Electric launches RFP seeking renewables on three islands",
-    "title_zh": "夏威夷电力公司发布征求建议书，在三个岛屿上寻求可再生能源",
-    "url": "https://www.pv-tech.org/hawaiian-electric-launches-rfp-seeking-renewables-on-three-islands/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:13:11+00:00"
-  },
-  "e5bb92c9ede3": {
-    "id": "e5bb92c9ede3",
-    "title_en": "Oil Jumps Nearly 4% as Houthis Threaten Red Sea Blockade",
-    "title_zh": "胡塞威胁要封锁红海，油价上涨近4%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Nearly-4-as-Houthis-Threaten-Red-Sea-Blockade.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T11:10:00+00:00"
-  },
-  "54357aca1390": {
-    "id": "54357aca1390",
-    "title_en": "Maine submits plans for first competitive energy storage solicitation, eyeing 360MW",
-    "title_zh": "缅因州提交了首次竞争性储能招标计划，目标为360MW",
-    "url": "https://www.energy-storage.news/maine-submits-plans-for-first-competitive-energy-storage-solicitation-eyeing-360mw/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T11:05:31+00:00"
-  },
-  "23654d3883f4": {
-    "id": "23654d3883f4",
-    "title_en": "British Columbia and BC Hydro advance first ‘major’ BESS in Canadian province",
-    "title_zh": "不列颠哥伦比亚省和不列颠哥伦比亚水电公司在加拿大省推进了第一个“主要”BESS",
-    "url": "https://www.energy-storage.news/british-columbia-and-bc-hydro-advance-first-major-bess-in-canadian-province/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T11:05:28+00:00"
-  },
-  "f2ff08f449bb": {
-    "id": "f2ff08f449bb",
-    "title_en": "July 2026 issue: The 15th Anniversary Top Solar Contractors List",
-    "title_zh": "2026年7月号：15周年顶级太阳能承包商名单",
-    "url": "https://www.solarpowerworldonline.com/2026/07/july-2026-magazine/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:00:56+00:00"
-  },
-  "13f1dbbd845e": {
-    "id": "13f1dbbd845e",
-    "title_en": "Japan’s Oga–Katagami–Akita Offshore Wind Project Receives Certification",
-    "title_zh": "日本Oga-Katagami-Akita海上风电项目获得认证",
-    "url": "https://www.offshorewind.biz/2026/07/22/japans-oga-katagami-akita-offshore-wind-project-receives-certification/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-22T11:00:00+00:00"
-  },
-  "81095642efac": {
-    "id": "81095642efac",
-    "title_en": "GE Vernova's wind power losses widen in Q2",
-    "title_zh": "通用电气Vernova第二季度风电亏损扩大",
-    "url": "https://www.windpowermonthly.com/article/1965319/ge-vernovas-wind-power-losses-widen-q2",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-22T10:55:16+00:00"
-  },
-  "ccf3d62d900d": {
-    "id": "ccf3d62d900d",
-    "title_en": "Taiwanese manufacturers plan 1 GW solar module factory in the United States",
-    "title_zh": "台湾制造商计划在美国建立1GW太阳能组件工厂",
-    "url": "https://www.pv-magazine.com/2026/07/22/taiwanese-manufacturers-plan-1-gw-solar-module-factory-in-the-united-states/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T10:37:52+00:00"
-  },
-  "7957616aa913": {
-    "id": "7957616aa913",
-    "title_en": "Japan’s Power Prices Soar to 3.5-Year High",
-    "title_zh": "日本电价飙升至3.5年高点",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Power-Prices-Soar-to-35-Year-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T10:30:00+00:00"
-  },
-  "4573071eaa30": {
-    "id": "4573071eaa30",
-    "title_en": "IEA PVPS updates benchmark PV life cycle inventory with 83 factory assessments",
-    "title_zh": "IEA PVPS通过83项工厂评估更新了基准光伏生命周期库存",
-    "url": "https://www.pv-magazine.com/2026/07/22/iea-pvps-updates-benchmark-pv-life-cycle-inventory-with-83-factory-assessments/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T10:19:12+00:00"
-  },
-  "e6b15feb1d7f": {
-    "id": "e6b15feb1d7f",
-    "title_en": "Beyond AI: Future-proofing oil and gas with private 5G",
-    "title_zh": "超越人工智能：通过私有5G实现面向未来的石油和天然气",
-    "url": "https://www.energymonitor.ai/sponsored/beyond-ai-future-proofing-oil-and-gas-with-private-5g/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-22T10:08:43+00:00"
-  },
-  "831d0fff0cde": {
-    "id": "831d0fff0cde",
-    "title_en": "GameChange Energy to provide solar trackers for Texas solar projects",
-    "title_zh": "GameChange Energy将为德克萨斯州的太阳能项目提供太阳能跟踪器",
-    "url": "https://www.energymonitor.ai/news/gamechange-to-provide-solar-trackers/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-22T10:00:00+00:00"
-  },
-  "5f5ca55fc227": {
-    "id": "5f5ca55fc227",
-    "title_en": "Phase-change material cooling for PV-powered e-bike charging",
-    "title_zh": "光伏电动自行车充电相变材料冷却",
-    "url": "https://www.pv-magazine.com/2026/07/22/phase-change-material-cooling-for-pv-powered-e-bike-charging/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T09:44:38+00:00"
   }
 }
