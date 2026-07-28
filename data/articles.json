@@ -1,4 +1,67 @@
 {
+  "2c183db4ce7f": {
+    "id": "2c183db4ce7f",
+    "title_en": "Malaysia launches tender for 2.5GW of solar PV with co-located battery storage",
+    "title_zh": "马来西亚启动2.5GW太阳能光伏与共置电池储能的招标",
+    "url": "https://www.energy-storage.news/malaysia-launches-tender-for-2-5gw-of-solar-pv-with-co-located-battery-storage/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-28T05:17:59+00:00"
+  },
+  "7ba984c5cb4a": {
+    "id": "7ba984c5cb4a",
+    "title_en": "Australian researchers achieve 30.2% efficiency for 10 cm2 perovskite-silicon tandem solar cell",
+    "title_zh": "澳大利亚研究人员实现了10平方厘米钙钛矿硅叠层太阳能电池30.2%的效率",
+    "url": "https://www.pv-magazine.com/2026/07/28/australian-researchers-achieve-30-2-efficiency-for-10-cm2-perovskite-silicon-tandem-solar-cell/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-28T05:07:45+00:00"
+  },
+  "5787614b6e96": {
+    "id": "5787614b6e96",
+    "title_en": "Hanoi Power Corporation inaugurates the first 100MWh battery storage portfolio in Vietnamese capital",
+    "title_zh": "河内电力公司在越南首都推出首个100MWh电池储能产品组合",
+    "url": "https://www.energy-storage.news/hanoi-power-corporation-inaugurates-the-first-100mwh-battery-storage-portfolio-in-vietnamese-capital/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-28T04:47:11+00:00"
+  },
+  "3faf69a6d1d6": {
+    "id": "3faf69a6d1d6",
+    "title_en": "Oil Prices Extend Losses as U.S.-Iran Calm Holds for Another Night",
+    "title_zh": "油价继续下跌，因为美国-伊朗的平静又持续了一个晚上",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Extend-Losses-as-US-Iran-Calm-Holds-for-Another-Night.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T03:00:00+00:00"
+  },
+  "9f0a1a2c5c1e": {
+    "id": "9f0a1a2c5c1e",
+    "title_en": "Affordable Homes, Cooling Centers, and a Faster Grid? Yes, Please",
+    "title_zh": "经济适用房、冷却中心和更快的电网？好的，请",
+    "url": "https://cleantechnica.com/2026/07/27/affordable-homes-cooling-centers-and-a-faster-grid-yes-please/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T02:49:15+00:00"
+  },
+  "3276cfbeec41": {
+    "id": "3276cfbeec41",
+    "title_en": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
+    "title_zh": "混合动力汽车销量上升，而电池电动汽车销量在税收抵免到期后仍保持较低水平",
+    "url": "https://cleantechnica.com/2026/07/27/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T02:41:19+00:00"
+  },
+  "03d6f40cfb22": {
+    "id": "03d6f40cfb22",
+    "title_en": "BYD Reaches 100,000 EVs Produced in Brazil",
+    "title_zh": "比亚迪在巴西生产10万辆电动汽车",
+    "url": "https://cleantechnica.com/2026/07/27/byd-reaches-100000-evs-produced-in-brazil/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-28T02:35:49+00:00"
+  },
   "0fb63f1a02df": {
     "id": "0fb63f1a02df",
     "title_en": "BYD Continues Its Football Focus & Attempt At European Hearts — Partners With PSG",
@@ -4435,68 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-21T16:16:37+00:00"
-  },
-  "5ecfd429f8dd": {
-    "id": "5ecfd429f8dd",
-    "title_en": "CO2 emissions from US power sector rose 4% last year",
-    "title_zh": "去年美国电力行业的二氧化碳排放量增长了4%",
-    "url": "https://www.utilitydive.com/news/carbon-dioxide-emissions-electric-power-eia/825805/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-21T16:06:48+00:00"
-  },
-  "857cdce2d4c8": {
-    "id": "857cdce2d4c8",
-    "title_en": "Site adaptation is the non-negotiable standard for utility-scale solar",
-    "title_zh": "场地适应性是公用事业规模太阳能的不可谈判的标准",
-    "url": "https://www.pv-tech.org/site-adaptation-non-negotiable-standard-utility-scale-solar/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T15:59:46+00:00"
-  },
-  "24743f85e76c": {
-    "id": "24743f85e76c",
-    "title_en": "Houthi Threats Ignite New Oil Price Surge",
-    "title_zh": "胡塞威胁引发新的油价飙升",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Houthi-Threats-Ignite-New-Oil-Price-Surge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-21T15:53:00+00:00"
-  },
-  "440b0cd33678": {
-    "id": "440b0cd33678",
-    "title_en": "BYD unveils its latest luxury EV with sleek fastback styling and 570 miles of range",
-    "title_zh": "比亚迪推出了其最新的豪华电动汽车，具有时尚的快背造型和570英里的续航里程",
-    "url": "https://electrek.co/2026/07/21/byd-unveils-new-luxury-ev-1200-hp-570-miles-range/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-21T15:43:15+00:00"
-  },
-  "29759a66ab7f": {
-    "id": "29759a66ab7f",
-    "title_en": "Tesla’s 2026 Summer Update: auto navigation, Grok phone calls, Caraoke scoring, and more",
-    "title_zh": "特斯拉2026年夏季更新：自动导航、Grok电话、卡拉OK评分等",
-    "url": "https://electrek.co/2026/07/21/tesla-2026-summer-update-release-notes/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-21T15:34:43+00:00"
-  },
-  "f231404e4c52": {
-    "id": "f231404e4c52",
-    "title_en": "Comstock to recycle scrap material from Illuminate USA’s Ohio solar panel factory",
-    "title_zh": "康斯托克将回收美国俄亥俄州Illuminate太阳能电池板工厂的废料",
-    "url": "https://www.solarpowerworldonline.com/2026/07/comstock-to-recycle-scrap-material-from-illuminate-usas-ohio-solar-panel-factory/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-21T15:33:57+00:00"
-  },
-  "51b5adfafdd1": {
-    "id": "51b5adfafdd1",
-    "title_en": "India Became World's Top Long-Term LNG Buyer in 2025, GIIGNL Says",
-    "title_zh": "GIIGNL称，印度将于2025年成为全球最大的长期液化天然气买家",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Became-Worlds-Top-Long-Term-LNG-Buyer-in-2025-GIIGNL-Says.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-21T15:30:00+00:00"
   }
 }
