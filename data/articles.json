@@ -1,4 +1,85 @@
 {
+  "9e83fbf1800a": {
+    "id": "9e83fbf1800a",
+    "title_en": "The World’s Largest Sand Battery Is Now Online",
+    "title_zh": "世界上最大的沙电池现已上线",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Worlds-Largest-Sand-Battery-Is-Now-Online.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T22:00:00+00:00"
+  },
+  "594f37a68dd5": {
+    "id": "594f37a68dd5",
+    "title_en": "Kia’s vehicles are about to get a smart upgrade, starting in 2027",
+    "title_zh": "起亚汽车将从2027年开始进行智能升级",
+    "url": "https://electrek.co/2026/07/28/kias-vehicles-smart-upgrade-2027/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T21:09:49+00:00"
+  },
+  "1b6bedfb6f12": {
+    "id": "1b6bedfb6f12",
+    "title_en": "Refined Fuels, Not Crude, Are Driving the Oil Market Crunch",
+    "title_zh": "推动石油市场紧缩的是精炼燃料，而非原油",
+    "url": "https://oilprice.com/Energy/Energy-General/Refined-Fuels-Not-Crude-Are-Driving-the-Oil-Market-Crunch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T21:00:00+00:00"
+  },
+  "6f8206d15408": {
+    "id": "6f8206d15408",
+    "title_en": "US Crude Oil Inventories Build Again Despite Hormuz Disruption",
+    "title_zh": "尽管霍尔木兹中断，美国原油库存再次增加",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-Again-Despite-Hormuz-Disruption.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T20:58:00+00:00"
+  },
+  "a8446a851b9d": {
+    "id": "a8446a851b9d",
+    "title_en": "Vermont’s largest energy source is now a virtual power plant",
+    "title_zh": "佛蒙特州最大的能源现在是一个虚拟发电厂",
+    "url": "https://electrek.co/2026/07/28/vermonts-largest-energy-source-is-now-a-virtual-power-plant/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T20:51:59+00:00"
+  },
+  "024b6f1e1d85": {
+    "id": "024b6f1e1d85",
+    "title_en": "Tesla self-driving manager describes scary conditions in robotaxi testing",
+    "title_zh": "特斯拉自动驾驶经理描述了机器人出租车测试中的可怕情况",
+    "url": "https://electrek.co/2026/07/28/tesla-self-driving-manager-rolling-hazards-lawsuit/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T20:49:43+00:00"
+  },
+  "f87b225f6eaa": {
+    "id": "f87b225f6eaa",
+    "title_en": "You’ve heard of shared e-bikes. Now check out Veo’s new shared e-trike",
+    "title_zh": "你听说过共享电动自行车。现在查看Veo的新共享e-rike",
+    "url": "https://electrek.co/2026/07/28/youve-heard-of-shared-e-bikes-now-check-out-veos-new-shared-e-trike/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-28T20:48:23+00:00"
+  },
+  "8e691a7f2176": {
+    "id": "8e691a7f2176",
+    "title_en": "Microsoft’s $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center",
+    "title_zh": "微软6000万美元的创世纪任务承诺将核人工智能置于中心",
+    "url": "https://www.powermag.com/microsofts-60-million-genesis-mission-commitment-puts-nuclear-ai-at-the-center/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-28T20:14:42+00:00"
+  },
+  "c6e678707783": {
+    "id": "c6e678707783",
+    "title_en": "New Solar Cell Design Solves A Problem That's Plagued Panels for Decades",
+    "title_zh": "新的太阳能电池设计解决了困扰电池板数十年的问题",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/New-Solar-Cell-Design-Solves-A-Problem-Thats-Plagued-Panels-for-Decades.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-28T20:00:00+00:00"
+  },
   "4c924d2786d2": {
     "id": "4c924d2786d2",
     "title_en": "U.S. Sale Of Venezuela’s Oil Hits $13 Billion Since Trump’s Takeover",
@@ -4417,86 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-22T12:30:00+00:00"
-  },
-  "7ae36cc0831f": {
-    "id": "7ae36cc0831f",
-    "title_en": "Greece to permit balcony solar, storage",
-    "title_zh": "希腊允许阳台太阳能储能",
-    "url": "https://www.pv-magazine.com/2026/07/22/greece-to-permit-balcony-solar-storage/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T12:28:52+00:00"
-  },
-  "780ae03ee817": {
-    "id": "780ae03ee817",
-    "title_en": "Electric, autonomous, and there’s 800 of them: inside this week’s BIGGEST deal",
-    "title_zh": "电动、自动驾驶，共有800辆：在本周最大的交易中",
-    "url": "https://electrek.co/2026/07/22/electric-autonomous-and-theres-800-of-them-inside-this-weeks-biggest-deal/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T12:27:42+00:00"
-  },
-  "639bd7ada65f": {
-    "id": "639bd7ada65f",
-    "title_en": "To sell solar, sell the family, support the champion, and mind the timing",
-    "title_zh": "卖太阳能，卖家庭，支持冠军，注意时机",
-    "url": "https://www.pv-magazine.com/2026/07/22/to-sell-solar-sell-the-family-support-the-champion-and-mind-the-timing/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T12:11:54+00:00"
-  },
-  "8e25fc8526a1": {
-    "id": "8e25fc8526a1",
-    "title_en": "12-MWh BESS project in Nebraska nears finish line",
-    "title_zh": "内布拉斯加州12 MWh BESS项目接近终点线",
-    "url": "https://www.solarpowerworldonline.com/2026/07/12-mwh-bess-project-in-nebraska-nears-finish-line/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:58:56+00:00"
-  },
-  "2013b4813d18": {
-    "id": "2013b4813d18",
-    "title_en": "Dutch student team develops solar-powered ambulance",
-    "title_zh": "荷兰学生团队研发太阳能救护车",
-    "url": "https://www.pv-magazine.com/2026/07/22/dutch-student-team-develops-solar-powered-ambulance/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:51:27+00:00"
-  },
-  "3ed74d4f8eb1": {
-    "id": "3ed74d4f8eb1",
-    "title_en": "1.5GWh+ of BESS deals in Italy: Sonnedix, Strioga buy projects; BNZ, RWE order from Sungrow and LONGi",
-    "title_zh": "意大利1.5GWh以上的BESS交易：Sonnedix、Strioga收购项目；BNZ、RWE从阳光电源和隆基订购",
-    "url": "https://www.energy-storage.news/1-5gwh-of-bess-deals-in-italy-sonnedix-strioga-buy-projects-bnz-rwe-order-from-sungrow-and-longi/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T11:35:00+00:00"
-  },
-  "4db4883e3bc7": {
-    "id": "4db4883e3bc7",
-    "title_en": "Fire breaks out at 1.5 MW battery storage system in Germany",
-    "title_zh": "德国1.5兆瓦电池储能系统发生火灾",
-    "url": "https://www.pv-magazine.com/2026/07/22/fire-breaks-out-at-1-5-mw-battery-storage-system-in-germany/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:32:17+00:00"
-  },
-  "3a67be71a622": {
-    "id": "3a67be71a622",
-    "title_en": "Inside PV manufacturing: Iraq’s first solar module production line",
-    "title_zh": "光伏制造内部：伊拉克第一条太阳能组件生产线",
-    "url": "https://www.pv-magazine.com/2026/07/22/inside-pv-manufacturing-iraqs-first-solar-module-production-line/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:19:34+00:00"
-  },
-  "b85ac19e9dfd": {
-    "id": "b85ac19e9dfd",
-    "title_en": "Kyrgyzstan eyes 2GW solar cell plant with Singapore’s Sunvera Solar",
-    "title_zh": "吉尔吉斯斯坦与新加坡Sunvera solar合作建设2GW太阳能电池厂",
-    "url": "https://www.pv-tech.org/kyrgyzstan-eyes-2gw-solar-cell-plant-with-singapores-sunvera-solar/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T11:17:59+00:00"
   }
 }
