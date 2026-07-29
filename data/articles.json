@@ -1,4 +1,49 @@
 {
+  "f2d078ee24df": {
+    "id": "f2d078ee24df",
+    "title_en": "Neoen Australia begins construction on 907MWh grid-forming BESS in South Australia",
+    "title_zh": "Neoen Australia在南澳大利亚开始建设907MWh电网，形成BESS",
+    "url": "https://www.energy-storage.news/neoen-australia-begins-construction-on-907mwh-grid-forming-bess-in-south-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-29T03:20:14+00:00"
+  },
+  "53e9f8f5a671": {
+    "id": "53e9f8f5a671",
+    "title_en": "NEM battery price spreads fall 85% in a year as Australia’s grid-scale BESS fleet passes 9,000MW",
+    "title_zh": "随着澳大利亚电网规模的BESS机队超过9000MW，NEM电池价差在一年内下降了85%",
+    "url": "https://www.energy-storage.news/nem-battery-price-spreads-fall-85-in-a-year-as-australias-grid-scale-bess-fleet-passes-9000mw/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-29T03:17:34+00:00"
+  },
+  "f5ddcc10b357": {
+    "id": "f5ddcc10b357",
+    "title_en": "Quinbrook’s Supernode BESS becomes the largest in operation across Australia’s NEM",
+    "title_zh": "Quinbrook的超级节点BESS成为澳大利亚NEM运营中最大的节点",
+    "url": "https://www.energy-storage.news/quinbrooks-supernode-bess-becomes-the-largest-in-operation-across-australias-nem/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-29T03:13:55+00:00"
+  },
+  "d70ef8e1e67f": {
+    "id": "d70ef8e1e67f",
+    "title_en": "Oil Prices Surge on Fresh Middle East Strikes and API Crude Draw",
+    "title_zh": "中东新罢工和API原油开采引发油价飙升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-on-Fresh-Middle-East-Strikes-and-API-Crude-Draw.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T03:01:00+00:00"
+  },
+  "fb4388d37f31": {
+    "id": "fb4388d37f31",
+    "title_en": "Xpeng Back in the Driver’s Seat in Australia",
+    "title_zh": "小鹏在澳大利亚重返驾驶席",
+    "url": "https://cleantechnica.com/2026/07/28/xpeng-back-in-the-drivers-seat-in-australia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-29T02:51:43+00:00"
+  },
   "121dca01434f": {
     "id": "121dca01434f",
     "title_en": "New Advanced Air Mobility Framework Helps Industry Prepare for Future of Flight",
@@ -4453,50 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-22T14:00:31+00:00"
-  },
-  "4554aa873b62": {
-    "id": "4554aa873b62",
-    "title_en": "VIDEO: Integrating solar, storage, grid-forming and AI with Envision Energy",
-    "title_zh": "视频：将太阳能、储能、电网形成和人工智能与远景能源相结合",
-    "url": "https://www.energy-storage.news/video-integrating-solar-storage-grid-forming-and-ai-with-envision-energy/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-22T14:00:29+00:00"
-  },
-  "1a4a6f45f909": {
-    "id": "1a4a6f45f909",
-    "title_en": "Topband showcases Ecosolex energy storage solutions at ees Europe 2026",
-    "title_zh": "Topband在欧洲能源展2026上展示Ecosolex储能解决方案",
-    "url": "https://www.pv-magazine.com/2026/07/22/topband-showcases-ecosolex-energy-storage-solutions-at-ees-europe-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T14:00:00+00:00"
-  },
-  "3919600eba95": {
-    "id": "3919600eba95",
-    "title_en": "The Hormuz Crisis Is Driving a Geopolitical Shift Across Asia",
-    "title_zh": "霍尔木兹危机正在推动整个亚洲的地缘政治转变",
-    "url": "https://oilprice.com/Geopolitics/Asia/The-Hormuz-Crisis-Is-Driving-a-Geopolitical-Shift-Across-Asia.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T14:00:00+00:00"
-  },
-  "42afd0d9cfad": {
-    "id": "42afd0d9cfad",
-    "title_en": "ARRAY Technologies unveils solar tracker with 60° stow angling",
-    "title_zh": "ARRAY Technologies推出具有60°收起角度的太阳能跟踪器",
-    "url": "https://www.solarpowerworldonline.com/2026/07/array-technologies-unveils-solar-tracker-with-60-stow-angling/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T13:38:16+00:00"
-  },
-  "1667f5913843": {
-    "id": "1667f5913843",
-    "title_en": "GAC Aion V & UT Enter Australian Market",
-    "title_zh": "广汽艾昂V&UT进军澳大利亚市场",
-    "url": "https://cleantechnica.com/2026/07/22/gac-aion-v-ut-enter-australian-market/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-22T13:37:08+00:00"
   }
 }
