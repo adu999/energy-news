@@ -1,4 +1,94 @@
 {
+  "2a08a2ea516f": {
+    "id": "2a08a2ea516f",
+    "title_en": "Bhutan tenders solar systems for three schools",
+    "title_zh": "不丹为三所学校招标太阳能系统",
+    "url": "https://www.pv-magazine.com/2026/07/29/bhutan-tenders-solar-systems-for-three-schools/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T08:40:00+00:00"
+  },
+  "57dbc870b550": {
+    "id": "57dbc870b550",
+    "title_en": "U.S.-Saudi Consortium Plans $5 Billion Gulf Refinery Outside Hormuz",
+    "title_zh": "美国-沙特财团计划在霍尔木兹以外投资50亿美元建设海湾炼油厂",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Saudi-Consortium-Plans-5-Billion-Gulf-Refinery-Outside-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T08:30:00+00:00"
+  },
+  "05338605ef36": {
+    "id": "05338605ef36",
+    "title_en": "German battery manufacturer files for self-administered insolvency",
+    "title_zh": "德国电池制造商申请自行破产",
+    "url": "https://www.pv-magazine.com/2026/07/29/german-battery-manufacturer-files-for-self-administered-insolvency/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T08:20:00+00:00"
+  },
+  "dbcd105ab8be": {
+    "id": "dbcd105ab8be",
+    "title_en": "Photovoltaics for onboard fish preservation",
+    "title_zh": "用于船载鱼类保护的光伏",
+    "url": "https://www.pv-magazine.com/2026/07/29/photovoltaics-for-onboard-fish-preservation/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T08:00:00+00:00"
+  },
+  "675021d8b2a9": {
+    "id": "675021d8b2a9",
+    "title_en": "Masdar, Montenegrin utility to build 150 MW of solar",
+    "title_zh": "黑山马斯达尔公用事业公司将建造150兆瓦的太阳能发电厂",
+    "url": "https://www.pv-magazine.com/2026/07/29/masdar-montenegrin-utility-to-build-150-mw-of-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T07:30:00+00:00"
+  },
+  "97c44d63221c": {
+    "id": "97c44d63221c",
+    "title_en": "ADNOC Defies Hormuz Risks as UAE LNG Exports Continue",
+    "title_zh": "阿联酋液化天然气出口持续，ADNOC化解霍尔木兹风险",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Defies-Hormuz-Risks-as-UAE-LNG-Exports-Continue.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T07:30:00+00:00"
+  },
+  "96cb69fa6ef1": {
+    "id": "96cb69fa6ef1",
+    "title_en": "EPA proposals to keep Indiana coal going would threaten drinking water",
+    "title_zh": "美国环保署关于保持印第安纳州煤炭供应的提案将威胁饮用水",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/epa-indiana-coal-threaten-drinking-water",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-29T07:30:00+00:00"
+  },
+  "08f3037d803c": {
+    "id": "08f3037d803c",
+    "title_en": "The coal industry gave Trump a wish list. He’s checking items off it.",
+    "title_zh": "煤炭行业给了特朗普一份愿望清单。他正在检查上面的项目。",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/coal-industry-trump-wish-list",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-29T07:30:00+00:00"
+  },
+  "6c778c9d5166": {
+    "id": "6c778c9d5166",
+    "title_en": "Polish scientists build 21.87% semi-transparent perovskite PV cell for tandem applications",
+    "title_zh": "波兰科学家为串联应用建造了21.87%半透明钙钛矿光伏电池",
+    "url": "https://www.pv-magazine.com/2026/07/29/polish-scientists-build-21-87-semi-transparent-perovskite-cell-for-tandem-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T07:00:00+00:00"
+  },
+  "f03ca2e7025f": {
+    "id": "f03ca2e7025f",
+    "title_en": "New Zealand Awards First Offshore Oil License Since Ending Drilling Ban",
+    "title_zh": "新西兰颁发自解除钻井禁令以来的首个海上石油许可证",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/New-Zealand-Awards-First-Offshore-Oil-License-Since-Ending-Drilling-Ban.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T06:30:00+00:00"
+  },
   "f2d078ee24df": {
     "id": "f2d078ee24df",
     "title_en": "Neoen Australia begins construction on 907MWh grid-forming BESS in South Australia",
@@ -4408,95 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-07-22T15:41:48+00:00"
-  },
-  "003f87560dc6": {
-    "id": "003f87560dc6",
-    "title_en": "China’s Electric Trucks, Diesel’s Peak, and What Western Planners Still Don’t See",
-    "title_zh": "中国的电动卡车，柴油车的巅峰，以及西方规划者仍然没有看到的东西",
-    "url": "https://cleantechnica.com/2026/07/22/chinas-electric-trucks-diesels-peak-and-what-western-planners-still-dont-see/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-22T15:13:19+00:00"
-  },
-  "b35d09f99867": {
-    "id": "b35d09f99867",
-    "title_en": "Developer rPlus Energies commissions 125MW Idaho solar PV project",
-    "title_zh": "开发商rPlus Energies委托爱达荷州125MW太阳能光伏项目",
-    "url": "https://www.pv-tech.org/developer-rplus-energies-commissions-125mw-idaho-solar-pv-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T14:47:00+00:00"
-  },
-  "d39d8bd4a997": {
-    "id": "d39d8bd4a997",
-    "title_en": "US Oil, Product Inventories See Builds Across the Board",
-    "title_zh": "美国石油、产品库存全面增加",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Product-Inventories-See-Builds-Across-the-Board.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T14:44:00+00:00"
-  },
-  "78ee6de94010": {
-    "id": "78ee6de94010",
-    "title_en": "CATL Is Building The Electric-Truck Platform Europe May Have To Join",
-    "title_zh": "CATL正在构建欧洲可能不得不加入的电动卡车平台",
-    "url": "https://cleantechnica.com/2026/07/22/catl-electric-truck-platform-europe/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-22T14:34:52+00:00"
-  },
-  "d3ce2daadda4": {
-    "id": "d3ce2daadda4",
-    "title_en": "This country went 100% electric vehicles overnight with a drastic approach",
-    "title_zh": "这个国家一夜之间以激进的方式实现了100%的电动汽车",
-    "url": "https://electrek.co/2026/07/22/laos-bans-gas-diesel-car-imports-ev/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T14:30:31+00:00"
-  },
-  "8de1dfe9aec0": {
-    "id": "8de1dfe9aec0",
-    "title_en": "Europe Heads Into Winter With Its Weakest Gas Cushion In 15 Years",
-    "title_zh": "欧洲因15年来最弱的天然气缓冲而进入冬季",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Heads-Into-Winter-With-Its-Weakest-Gas-Cushion-In-15-Years.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T14:30:00+00:00"
-  },
-  "d7206ec0b73e": {
-    "id": "d7206ec0b73e",
-    "title_en": "Don’t gut the utility model just as we need it most",
-    "title_zh": "不要在我们最需要的时候把实用新型拆开",
-    "url": "https://www.utilitydive.com/news/utility-model-grid-investment-affordability-roe/825672/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-22T14:27:22+00:00"
-  },
-  "c40e86994066": {
-    "id": "c40e86994066",
-    "title_en": "Range Rover’s next EV is unlike anything the luxury brand has built before [Images]",
-    "title_zh": "路虎揽胜的下一代电动汽车与这个奢侈品牌之前建造的任何汽车都不同[图片]",
-    "url": "https://electrek.co/2026/07/22/range-rovers-next-ev-unlike-anything-its-ever-built-images/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T14:26:56+00:00"
-  },
-  "909fcc835d10": {
-    "id": "909fcc835d10",
-    "title_en": "Wisconsin gas plant proposals test state review process",
-    "title_zh": "威斯康星州天然气厂提案测试州审查程序",
-    "url": "https://www.utilitydive.com/news/wisconsin-gas-plant-proposals-test-state-review-process/825885/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-22T14:16:18+00:00"
-  },
-  "e79c72f9d919": {
-    "id": "e79c72f9d919",
-    "title_en": "Comstock, Illuminate USA ink module recycling agreement",
-    "title_zh": "康斯托克、Illuminate USA油墨模块回收协议",
-    "url": "https://www.pv-tech.org/comstock-illuminate-usa-ink-module-recycling-agreement/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T14:00:31+00:00"
   }
 }
