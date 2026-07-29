@@ -1,4 +1,121 @@
 {
+  "0c518a886659": {
+    "id": "0c518a886659",
+    "title_en": "U.S. Senate Advances Sweeping Russia Sanctions Bill in 86-12 Vote",
+    "title_zh": "美国参议院以86票对12票通过全面制裁俄罗斯法案",
+    "url": "https://oilprice.com/Geopolitics/Europe/US-Senate-Advances-Sweeping-Russia-Sanctions-Bill-in-86-12-Vote.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T14:00:00+00:00"
+  },
+  "1e5de1bd4fb0": {
+    "id": "1e5de1bd4fb0",
+    "title_en": "Hyundai reveals IONIQ 3 prices start at $30,000, and it already looks like a hit",
+    "title_zh": "现代汽车透露IONIQ 3的起价为30000美元，看起来已经很受欢迎了",
+    "url": "https://electrek.co/2026/07/29/hyundai-reveals-ioniq-3-prices-start-30000-interest-surges/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-29T13:50:55+00:00"
+  },
+  "bc87bbb2815e": {
+    "id": "bc87bbb2815e",
+    "title_en": "Volvo drops lidar for good on EX90 and ES90, pays owner compensation",
+    "title_zh": "沃尔沃在EX90和ES90上永久放弃激光雷达，并向车主支付赔偿金",
+    "url": "https://electrek.co/2026/07/29/volvo-drops-lidar-ex90-es90-compensation/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-29T13:50:15+00:00"
+  },
+  "6f72a66fa5ab": {
+    "id": "6f72a66fa5ab",
+    "title_en": "Oil Jumps 7% As Trump Threatens Iran Hours Before Fed Decision",
+    "title_zh": "特朗普在美联储做出决定前几小时威胁伊朗，油价上涨7%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-7-As-Trump-Threatens-Iran-Hours-Before-Fed-Decision.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T13:34:08+00:00"
+  },
+  "7a8917042977": {
+    "id": "7a8917042977",
+    "title_en": "World Nuclear Association: $6 Trillion Needed to Hit 2050 Capacity Goals",
+    "title_zh": "世界核协会：实现2050年产能目标需要6万亿美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/World-Nuclear-Association-6-Trillion-Needed-to-Hit-2050-Capacity-Goals.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T13:30:00+00:00"
+  },
+  "88f4655d2e19": {
+    "id": "88f4655d2e19",
+    "title_en": "PTSC M&C Loads Out Fengmiao Offshore Substation",
+    "title_zh": "PTSC M&C装船丰庙海上变电站",
+    "url": "https://www.offshorewind.biz/2026/07/29/ptsc-mc-loads-out-fengmiao-offshore-substation/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-29T13:18:43+00:00"
+  },
+  "e6d5abf19049": {
+    "id": "e6d5abf19049",
+    "title_en": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base",
+    "title_zh": "佐治亚电力公司完成穆迪空军基地旁198MWh BESS的建设",
+    "url": "https://www.energy-storage.news/georgia-power-completes-construction-of-198mwh-bess-next-to-moody-air-force-base/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-29T12:52:29+00:00"
+  },
+  "b6117e78e651": {
+    "id": "b6117e78e651",
+    "title_en": "China’s solar market heads for first annual contraction since 2019",
+    "title_zh": "中国太阳能市场自2019年以来首次出现年度收缩",
+    "url": "https://www.pv-magazine.com/2026/07/29/chinas-solar-market-heads-for-first-annual-contraction-since-2019/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T12:30:00+00:00"
+  },
+  "9def40617b77": {
+    "id": "9def40617b77",
+    "title_en": "UK Regulator Targets Data Center Land Grab on the Power Grid",
+    "title_zh": "英国监管机构瞄准电网数据中心土地掠夺",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Regulator-Targets-Data-Center-Land-Grab-on-the-Power-Grid.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T12:30:00+00:00"
+  },
+  "4bc96dcd908c": {
+    "id": "4bc96dcd908c",
+    "title_en": "Q&A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change?",
+    "title_zh": "问：中国第十五个可再生能源“五年计划”对气候变化意味着什么？",
+    "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-29T12:08:55+00:00"
+  },
+  "d6ae2740fb7e": {
+    "id": "d6ae2740fb7e",
+    "title_en": "US bans foreign-produced solar inverters",
+    "title_zh": "美国禁止外国生产的太阳能逆变器",
+    "url": "https://www.pv-magazine.com/2026/07/29/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T12:00:00+00:00"
+  },
+  "264771ac38da": {
+    "id": "264771ac38da",
+    "title_en": "Serbia adds 61 MW of solar in H1",
+    "title_zh": "塞尔维亚上半年新增61兆瓦太阳能",
+    "url": "https://www.pv-magazine.com/2026/07/29/serbia-adds-61-mw-of-solar-in-h1/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-29T11:30:00+00:00"
+  },
+  "d002e9c61244": {
+    "id": "d002e9c61244",
+    "title_en": "Iran Rejects Oman’s Proposal to Evenly Divide Hormuz Control",
+    "title_zh": "伊朗拒绝阿曼关于平均分割霍尔木兹控制权的提议",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rejects-Omans-Proposal-to-Evenly-Divide-Hormuz-Control.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T11:30:00+00:00"
+  },
   "56d34f254556": {
     "id": "56d34f254556",
     "title_en": "Fraunhofer ISE unveils propane heat pump concepts for multi-family buildings",
@@ -80,6 +197,15 @@
     "category": "油气",
     "pub_ts": "2026-07-29T09:30:00+00:00"
   },
+  "7b8102496db3": {
+    "id": "7b8102496db3",
+    "title_en": "Wreckage of 300 year-old Dutch ship found during offshore wind cable laying",
+    "title_zh": "海上风电电缆铺设过程中发现300年前荷兰船只残骸",
+    "url": "https://www.windpowermonthly.com/article/1965980/wreckage-300-year-old-dutch-ship-found-during-offshore-wind-cable-laying",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-29T09:22:46+00:00"
+  },
   "75eb1bb7641c": {
     "id": "75eb1bb7641c",
     "title_en": "Italy gives 599 MW agrivoltaic project positive environmental assessment",
@@ -115,6 +241,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-29T08:36:30+00:00"
+  },
+  "767423b9cece": {
+    "id": "767423b9cece",
+    "title_en": "Vestas blade breaks at German North Sea wind farm",
+    "title_zh": "德国北海风电场维斯塔斯叶片断裂",
+    "url": "https://www.windpowermonthly.com/article/1965966/vestas-blade-breaks-german-north-sea-wind-farm",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-29T08:30:53+00:00"
   },
   "57dbc870b550": {
     "id": "57dbc870b550",
@@ -4363,140 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-23T00:26:31+00:00"
-  },
-  "e91408669d1f": {
-    "id": "e91408669d1f",
-    "title_en": "Global Refiners Are Cutting Out Oil Traders To Buy Venezuelan Crude Directly",
-    "title_zh": "全球炼油商正在切断石油贸易商直接购买委内瑞拉原油的渠道",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Global-Refiners-Are-Cutting-Out-Oil-Traders-To-Buy-Venezuelan-Crude-Directly.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T00:00:00+00:00"
-  },
-  "e4bb8a39be8a": {
-    "id": "e4bb8a39be8a",
-    "title_en": "New Pipelines Set To Ease Permian Natural Gas Glut",
-    "title_zh": "新管道将缓解二叠纪天然气过剩",
-    "url": "https://oilprice.com/Energy/Natural-Gas/New-Pipelines-Set-To-Ease-Permian-Natural-Gas-Glut.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T23:00:00+00:00"
-  },
-  "cafdda87fb2f": {
-    "id": "cafdda87fb2f",
-    "title_en": "Nearly 4,000 Tennesseans Speak Out Against TVA’s Fossil Fuel-Powered Energy Plan",
-    "title_zh": "近4000名田纳西人公开反对TVA的化石燃料能源计划",
-    "url": "https://cleantechnica.com/2026/07/22/nearly-4000-tennesseans-speak-out-against-tvas-fossil-fuel-powered-energy-plan/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-22T22:59:46+00:00"
-  },
-  "750a9a630061": {
-    "id": "750a9a630061",
-    "title_en": "Equinor CEO: Europe May Miss Winter Gas Storage Goal",
-    "title_zh": "Equinor首席执行官：欧洲可能错过冬季天然气储存目标",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-CEO-Europe-May-Miss-Winter-Gas-Storage-Goal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T22:30:00+00:00"
-  },
-  "7f89567cd9a8": {
-    "id": "7f89567cd9a8",
-    "title_en": "Houthi Red Sea Blockade Could Shatter Hopes for Lower Oil Prices",
-    "title_zh": "胡塞红海封锁可能会粉碎油价下跌的希望",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Houthi-Red-Sea-Blockade-Could-Shatter-Hopes-for-Lower-Oil-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T22:00:00+00:00"
-  },
-  "63397928ae00": {
-    "id": "63397928ae00",
-    "title_en": "AI Is Usually Cast as a Grid Burden. The Genesis Mission Is Betting It’s a Grid Tool.",
-    "title_zh": "人工智能通常被视为网格负担。创世纪的使命是打赌它是一个网格工具。",
-    "url": "https://www.powermag.com/ai-is-usually-cast-as-a-grid-burden-the-genesis-mission-is-betting-its-a-grid-tool/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-22T21:09:01+00:00"
-  },
-  "143c81b3d668": {
-    "id": "143c81b3d668",
-    "title_en": "MIT Framework Maps Grid Weak Spots Before Climate Disasters Hit",
-    "title_zh": "麻省理工学院框架在气候灾害发生前绘制了电网弱点图",
-    "url": "https://oilprice.com/Energy/Energy-General/MIT-Framework-Maps-Grid-Weak-Spots-Before-Climate-Disasters-Hit.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T21:00:00+00:00"
-  },
-  "b45163529c33": {
-    "id": "b45163529c33",
-    "title_en": "Tesla says ‘Robotaxi’ is expanding — its own chart shows it’s not",
-    "title_zh": "特斯拉表示“Robotaxi”正在扩张——其自己的图表显示它没有",
-    "url": "https://electrek.co/2026/07/22/tesla-robotaxi-growth-flat-own-chart-q2-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T20:56:01+00:00"
-  },
-  "dd9f62575599": {
-    "id": "dd9f62575599",
-    "title_en": "Subaru is delaying the 3-row Getaway EV, following Toyota",
-    "title_zh": "继丰田之后，斯巴鲁推迟了3排Getaway EV",
-    "url": "https://electrek.co/2026/07/22/subaru-delaying-3-row-getaway-ev-following-toyota/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T20:45:13+00:00"
-  },
-  "bd882abcf19c": {
-    "id": "bd882abcf19c",
-    "title_en": "Tesla (TSLA) releases Q2 2026 financial results: record revenue, big profit miss",
-    "title_zh": "特斯拉（TSLA）发布2026年第二季度财务业绩：收入创纪录，利润大幅下滑",
-    "url": "https://electrek.co/2026/07/22/tesla-tsla-q2-2026-financial-results/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T20:13:32+00:00"
-  },
-  "2ee665c5be49": {
-    "id": "2ee665c5be49",
-    "title_en": "Ford F-150 electric trucks can now power a home’s electrical panel",
-    "title_zh": "福特F-150电动卡车现在可以为家庭的配电盘供电",
-    "url": "https://electrek.co/2026/07/22/ford-f-150-electric-trucks-can-now-power-home-electrical-panel/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T20:01:42+00:00"
-  },
-  "6d477132de2e": {
-    "id": "6d477132de2e",
-    "title_en": "Africa’s Richest Man Proposes To Build 700,000 Bpd Oil Refinery In Kenya",
-    "title_zh": "非洲首富提议在肯尼亚建设70万桶/日炼油厂",
-    "url": "https://oilprice.com/Energy/Energy-General/Africas-Richest-Man-Proposes-To-Build-700000-Bpd-Oil-Refinery-In-Kenya.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T20:00:00+00:00"
-  },
-  "c502dbbedce3": {
-    "id": "c502dbbedce3",
-    "title_en": "The Metals Selloff Is Creating New Winners And Losers",
-    "title_zh": "金属Selloff正在创造新的赢家和输家",
-    "url": "https://oilprice.com/Metals/Commodities/The-Metals-Selloff-Is-Creating-New-Winners-And-Losers.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-22T19:00:00+00:00"
-  },
-  "3487585a67ec": {
-    "id": "3487585a67ec",
-    "title_en": "Donated solar system to aid Denver-based refugee support organization",
-    "title_zh": "捐赠太阳能系统援助丹佛难民支持组织",
-    "url": "https://www.solarpowerworldonline.com/2026/07/donated-solar-system-to-aid-denver-based-refugee-support-organization/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-22T18:52:48+00:00"
-  },
-  "c20d6847ad03": {
-    "id": "c20d6847ad03",
-    "title_en": "France won’t approve Tesla ‘FSD’ yet, wants EU-wide sign-off first",
-    "title_zh": "法国尚未批准特斯拉的“FSD”，希望首先在欧盟范围内获得批准",
-    "url": "https://electrek.co/2026/07/22/france-tesla-fsd-approval-tabarot-speeding/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-22T18:08:09+00:00"
   }
 }
