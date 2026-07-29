@@ -1,4 +1,58 @@
 {
+  "a35b1cdb29eb": {
+    "id": "a35b1cdb29eb",
+    "title_en": "Low Gas Storage and Diesel Shortages Threaten Europe’s Winter Supply",
+    "title_zh": "低天然气储量和柴油短缺威胁着欧洲的冬季供应",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Low-Gas-Storage-and-Diesel-Shortages-Threaten-Europes-Winter-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T22:00:00+00:00"
+  },
+  "4cf692fd2f88": {
+    "id": "4cf692fd2f88",
+    "title_en": "Cooling Emissions Are Set to Triple by 2050 as Heat Waves Intensify",
+    "title_zh": "随着热浪的加剧，到2050年，冷却排放量将增加两倍",
+    "url": "https://oilprice.com/The-Environment/Global-Warming/Cooling-Emissions-Are-Set-to-Triple-by-2050-as-Heat-Waves-Intensify.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T21:00:00+00:00"
+  },
+  "90eba0e4da5f": {
+    "id": "90eba0e4da5f",
+    "title_en": "Trump admin bans ‘new’ foreign-made inverters. What does that mean?",
+    "title_zh": "特朗普政府禁止“新的”外国制造的逆变器。这是什么意思？",
+    "url": "https://www.canarymedia.com/articles/corporate-procurement/trump-admin-bans-new-foreign-inverters",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-29T21:00:00+00:00"
+  },
+  "9ab5aca8f5d5": {
+    "id": "9ab5aca8f5d5",
+    "title_en": "China Gives Strong Signal on Connected & Autonomous New Energy Vehicles",
+    "title_zh": "中国在互联和自动驾驶新能源汽车方面发出强烈信号",
+    "url": "https://cleantechnica.com/2026/07/29/china-gives-strong-signal-on-connected-autonomous-new-energy-vehicles/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-29T20:39:33+00:00"
+  },
+  "b84fdf5120c1": {
+    "id": "b84fdf5120c1",
+    "title_en": "Trump Administration Picks Five States for Nuclear Fuel-Cycle Hubs",
+    "title_zh": "特朗普政府选择五个州建立核燃料循环中心",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Picks-Five-States-for-Nuclear-Fuel-Cycle-Hubs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-29T20:00:00+00:00"
+  },
+  "2f5533590cc5": {
+    "id": "2f5533590cc5",
+    "title_en": "The new Mercedes GLA EV is bigger, smarter, and has a range of over 400 miles",
+    "title_zh": "新款梅赛德斯GLA电动汽车更大、更智能，续航里程超过400英里",
+    "url": "https://electrek.co/2026/07/29/new-mercedes-gla-ev-bigger-400-miles-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-29T19:53:51+00:00"
+  },
   "b3e157056b2b": {
     "id": "b3e157056b2b",
     "title_en": "BMW Targets 8,000 More Job Cuts in Fresh Cost-Cutting Drive",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-23T09:30:00+00:00"
-  },
-  "7619cb241456": {
-    "id": "7619cb241456",
-    "title_en": "CPV brings 114MW Rogue’s Wind online in Pennsylvania",
-    "title_zh": "CPV在宾夕法尼亚州上线114MW Rogue’s Wind",
-    "url": "https://www.energymonitor.ai/news/cpv-brings-rogues-wind-online/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-23T09:28:03+00:00"
-  },
-  "132306765d5d": {
-    "id": "132306765d5d",
-    "title_en": "BW Ideol finds new partner for French floating wind factory",
-    "title_zh": "BW Ideol为法国浮式风力发电厂找到新合作伙伴",
-    "url": "https://www.windpowermonthly.com/article/1965443/bw-ideol-finds-new-partner-french-floating-wind-factory",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-23T09:21:41+00:00"
-  },
-  "81dcdb38d9d2": {
-    "id": "81dcdb38d9d2",
-    "title_en": "Spanish operational PV assets stabilize at €596,000/MW following 50% value decline",
-    "title_zh": "西班牙运营光伏资产在价值下降50%后稳定在596000欧元/MW",
-    "url": "https://www.pv-magazine.com/2026/07/23/spanish-operational-pv-assets-stabilize-at-e596000-mw-following-50-value-decline/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-23T09:19:44+00:00"
-  },
-  "edb8e6998646": {
-    "id": "edb8e6998646",
-    "title_en": "ML System presents solar tile for demanding architectural applications",
-    "title_zh": "ML系统为要求苛刻的建筑应用提供太阳能瓷砖",
-    "url": "https://www.pv-magazine.com/2026/07/23/ml-system-unveils-solar-tile-for-demanding-architectural-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-23T09:05:04+00:00"
-  },
-  "b489c808d2dc": {
-    "id": "b489c808d2dc",
-    "title_en": "Oil Prices Climb Toward $100 as Red Sea Risks Rise",
-    "title_zh": "红海风险上升，油价攀升至100美元",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Climb-Toward-100-as-Red-Sea-Risks-Rise.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T09:02:43+00:00"
-  },
-  "3423f2b72a44": {
-    "id": "3423f2b72a44",
-    "title_en": "Smulders Taps Palfinger for East Anglia Two Davit Cranes",
-    "title_zh": "Smulders为东安格利亚的两只吊臂用手指敲击",
-    "url": "https://www.offshorewind.biz/2026/07/23/smulders-taps-palfinger-for-east-anglia-two-davit-cranes/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-23T08:53:38+00:00"
   }
 }
