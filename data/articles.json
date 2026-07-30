@@ -1,4 +1,85 @@
 {
+  "79d0342f948c": {
+    "id": "79d0342f948c",
+    "title_en": "Chinese researchers build 29.71% perovskite-CIGS tandem solar cell based on sulfide",
+    "title_zh": "中国研究人员建造了基于硫化物的29.71%钙钛矿CIGS叠层太阳能电池",
+    "url": "https://www.pv-magazine.com/2026/07/30/chinese-researchers-build-29-71-perovskite-cigs-tandem-solar-cell-based-on-sulfide/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T08:00:00+00:00"
+  },
+  "90c4916aff15": {
+    "id": "90c4916aff15",
+    "title_en": "South Africa energizes 216 MW solar, 500 MWh BESS project",
+    "title_zh": "南非为216兆瓦太阳能、500兆瓦时BESS项目供电",
+    "url": "https://www.pv-magazine.com/2026/07/30/south-africa-energizes-216-mw-solar-500-mwh-bess-project/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T07:30:00+00:00"
+  },
+  "f33d949d9c3f": {
+    "id": "f33d949d9c3f",
+    "title_en": "Qatar Sends First LNG Cargo Through Hormuz Since Tanker Attack",
+    "title_zh": "卡塔尔自油轮袭击以来首次通过霍尔木兹运送液化天然气",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Sends-First-LNG-Cargo-Through-Hormuz-Since-Tanker-Attack.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T07:30:00+00:00"
+  },
+  "d33fbbad4d90": {
+    "id": "d33fbbad4d90",
+    "title_en": "This Texas coal mine will soon be home to a 1.2GW solar farm",
+    "title_zh": "德克萨斯州的这座煤矿很快将成为1.2GW太阳能发电厂的所在地",
+    "url": "https://www.canarymedia.com/articles/solar/texas-coal-mine-solar-farm",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-07-30T07:30:00+00:00"
+  },
+  "6edf3ea482a2": {
+    "id": "6edf3ea482a2",
+    "title_en": "Aviation’s $4 Trillion Footprint Does Not Prove Every Flight Adds Growth",
+    "title_zh": "航空业4万亿美元的足迹并不能证明每架航班都能增加增长",
+    "url": "https://cleantechnica.com/2026/07/30/aviation-economic-growth-additionality/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-30T07:14:34+00:00"
+  },
+  "1d5261ab6697": {
+    "id": "1d5261ab6697",
+    "title_en": "Philippines Sets New Timeline for Recalibrated Offshore Wind Auction, Targets December 2026 Bidding",
+    "title_zh": "菲律宾为重新校准海上风电拍卖设定了新的时间表，目标是2026年12月的竞标",
+    "url": "https://www.offshorewind.biz/2026/07/30/philippines-sets-new-timeline-for-recalibrated-offshore-wind-auction-targets-december-2026-bidding/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-30T07:10:28+00:00"
+  },
+  "ef1d6e1032ac": {
+    "id": "ef1d6e1032ac",
+    "title_en": "Low-cost open-access tool for rooftop PV assessment in informal settlements",
+    "title_zh": "非正规住区屋顶光伏评估的低成本开放式工具",
+    "url": "https://www.pv-magazine.com/2026/07/30/low-cost-open-access-tool-for-rooftop-pv-assessment-in-informal-settlements/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T07:00:00+00:00"
+  },
+  "2e1d6ccbcfe4": {
+    "id": "2e1d6ccbcfe4",
+    "title_en": "Biopower’s next decade hinges on what it displaces, not what it builds",
+    "title_zh": "Biopower的下一个十年取决于它取代了什么，而不是它建造了什么",
+    "url": "https://www.energymonitor.ai/analysis/biopower-market-displace-fuel/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-07-30T07:00:00+00:00"
+  },
+  "4141a51a0d4c": {
+    "id": "4141a51a0d4c",
+    "title_en": "Japan Buys Rare Canadian Oil Cargo",
+    "title_zh": "日本收购加拿大稀有石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Buys-Rare-Canadian-Oil-Cargo.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T06:10:00+00:00"
+  },
   "8120c0e9047c": {
     "id": "8120c0e9047c",
     "title_en": "Quinbrook submits 520MW Flat Rock BESS in Australia’s ACT to EPBC Act",
@@ -1285,6 +1366,15 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-28T15:00:00+00:00"
+  },
+  "b481723e2507": {
+    "id": "b481723e2507",
+    "title_en": "Los Angeles works to shed its car-centric identity as “transit-first” Olympics approach",
+    "title_zh": "洛杉矶努力摆脱以汽车为中心的身份，成为“交通优先”的奥运会方式",
+    "url": "https://www.cleanenergywire.org/news/los-angeles-works-shed-its-car-centric-identity-transit-first-olympics-approach",
+    "source": "Clean Energy Wire",
+    "category": "政策",
+    "pub_ts": "2026-07-28T14:46:54+00:00"
   },
   "cfd0a065037d": {
     "id": "cfd0a065037d",
@@ -4408,95 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-23T14:53:49+00:00"
-  },
-  "17d0340f75d6": {
-    "id": "17d0340f75d6",
-    "title_en": "Prague’s Trolleybus Data Show Why Hard Bus Routes Don’t Need Hydrogen",
-    "title_zh": "布拉格无轨电车数据显示为什么硬公交路线不需要氢气",
-    "url": "https://cleantechnica.com/2026/07/23/prague-trolleybus-hydrogen-bus-problem/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T14:44:06+00:00"
-  },
-  "9ef6522e5422": {
-    "id": "9ef6522e5422",
-    "title_en": "Your Customers Are Asking AI About You. Do You Know What It’s Saying?",
-    "title_zh": "你的客户正在向AI询问你的情况。你知道它在说什么吗？",
-    "url": "https://www.powermag.com/your-customers-are-asking-ai-about-you-do-you-know-what-its-saying/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-23T14:31:18+00:00"
-  },
-  "2915f2f88465": {
-    "id": "2915f2f88465",
-    "title_en": "Tesla (TSLA) crashes 12%, sheds $140B as Elon Musk’s ‘just trust me’ doesn’t hold anymore",
-    "title_zh": "特斯拉（TSLA）暴跌12%，损失1400亿美元，因为埃隆·马斯克（Elon Musk）的“只要相信我”不再成立",
-    "url": "https://electrek.co/2026/07/23/tesla-tsla-crashes-12-q2-2026-earnings-miss/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T14:30:55+00:00"
-  },
-  "9f089b47961f": {
-    "id": "9f089b47961f",
-    "title_en": "India’s Fuel Exports Set to Soar in July as Refining Margins Jump",
-    "title_zh": "随着炼油利润率的飙升，印度7月份的燃料出口将飙升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Fuel-Exports-Set-to-Soar-in-July-as-Refining-Margins-Jump.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T14:30:00+00:00"
-  },
-  "84d0705e7227": {
-    "id": "84d0705e7227",
-    "title_en": "Ford’s $30,000 electric pickup will have Apple Maps built in with EV routing and more",
-    "title_zh": "福特价值3万美元的电动皮卡将内置苹果地图，包括电动汽车路线等",
-    "url": "https://electrek.co/2026/07/23/fords-30000-pickup-apple-maps-built-in-ev-routing/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T14:09:44+00:00"
-  },
-  "2a3ee7d561c5": {
-    "id": "2a3ee7d561c5",
-    "title_en": "Landmark module installation at Lufeng 2",
-    "title_zh": "陆丰2号地标模块安装",
-    "url": "https://www.world-nuclear-news.org/articles/landmark-module-installation-at-lufeng-2",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-23T14:01:35+00:00"
-  },
-  "c7147b5e2e3e": {
-    "id": "c7147b5e2e3e",
-    "title_en": "U.S. and Ukraine Sign Landmark Drone Cooperation Agreement",
-    "title_zh": "美国和乌克兰签署具有里程碑意义的无人机合作协议",
-    "url": "https://oilprice.com/Geopolitics/Europe/US-and-Ukraine-Sign-Landmark-Drone-Cooperation-Agreement.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T14:00:00+00:00"
-  },
-  "c9fc9a791a18": {
-    "id": "c9fc9a791a18",
-    "title_en": "Tesla swapped a solar owner’s lease contract for the Book of Enoch",
-    "title_zh": "特斯拉将太阳能所有者的租赁合同换成了《以诺之书》",
-    "url": "https://electrek.co/2026/07/23/tesla-solar-lease-contract-book-of-enoch/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T13:56:31+00:00"
-  },
-  "15834b51dabe": {
-    "id": "15834b51dabe",
-    "title_en": "ZPMC Starts Building Multipurpose CLV for Far East Cable",
-    "title_zh": "ZPMC开始为远东电缆建造多用途CLV",
-    "url": "https://www.offshorewind.biz/2026/07/23/zpmc-starts-building-multipurpose-clv-far-east-cable/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-23T13:45:21+00:00"
-  },
-  "379110518008": {
-    "id": "379110518008",
-    "title_en": "DOE’s new power export rule at odds with ‘energy emergency’ findings: Public Citizen",
-    "title_zh": "美国能源部的新电力出口规定与“能源紧急情况”调查结果不一致：公众",
-    "url": "https://www.utilitydive.com/news/doe-electricity-export-authorization-energy-emergency/825876/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-23T13:33:10+00:00"
   }
 }
