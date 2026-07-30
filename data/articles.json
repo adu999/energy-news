@@ -1,4 +1,76 @@
 {
+  "9eb10e5b6368": {
+    "id": "9eb10e5b6368",
+    "title_en": "Aalo, Crusoe Plan 2027 INL Demonstration Pairing Nuclear Power and AI Data Center Load",
+    "title_zh": "阿尔托，克鲁索2027年计划INL示范核电和人工智能数据中心负载配对",
+    "url": "https://www.powermag.com/aalo-crusoe-plan-2027-inl-demonstration-pairing-nuclear-power-and-ai-data-center-load/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-07-30T21:45:17+00:00"
+  },
+  "103e78ef8acb": {
+    "id": "103e78ef8acb",
+    "title_en": "Juiced Scrambler: Testing the best bang-for-your-buck moto-style e-bike",
+    "title_zh": "Juiced Scrambler：为您的电动自行车测试最佳效果",
+    "url": "https://electrek.co/2026/07/30/juiced-scrambler-testing-the-best-bang-for-your-buck-moto-style-e-bike/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T21:40:06+00:00"
+  },
+  "1da1ea25e795": {
+    "id": "1da1ea25e795",
+    "title_en": "A new Zipcar pilot pairs shared EVs with off-grid solar charging",
+    "title_zh": "一项新的Zipcar试点将共享电动汽车与离网太阳能充电相结合",
+    "url": "https://electrek.co/2026/07/30/a-new-zipcar-pilot-pairs-shared-evs-with-off-grid-solar-charging/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T21:11:38+00:00"
+  },
+  "b1c70289b450": {
+    "id": "b1c70289b450",
+    "title_en": "The Kia EV3 will go on sale soon, with production set to begin in Mexico next week",
+    "title_zh": "起亚EV3即将上市，下周将在墨西哥开始生产",
+    "url": "https://electrek.co/2026/07/30/kia-ev3-production-mexico-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T21:07:17+00:00"
+  },
+  "61a21d48cc6c": {
+    "id": "61a21d48cc6c",
+    "title_en": "John Kerry: Europe's Energy Crisis Is a Bigger Threat Than Any Weapon",
+    "title_zh": "约翰·克里：欧洲能源危机是比任何武器都更大的威胁",
+    "url": "https://oilprice.com/Energy/Energy-General/John-Kerry-Europes-Energy-Crisis-Is-a-Bigger-Threat-Than-Any-Weapon.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T21:00:00+00:00"
+  },
+  "f8ad3b8fa5a1": {
+    "id": "f8ad3b8fa5a1",
+    "title_en": "War Sends Saudi Oil Output Down and Revenue Up",
+    "title_zh": "战争导致沙特石油产量下降，收入上升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/War-Sends-Saudi-Oil-Output-Down-and-Revenue-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T20:30:00+00:00"
+  },
+  "87711be66027": {
+    "id": "87711be66027",
+    "title_en": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring",
+    "title_zh": "Rivian（RIVN）2026年第二季度收益：收入增长27%，毛利率飙升",
+    "url": "https://electrek.co/2026/07/30/rivian-rivn-q2-2026-earnings-r2-deliveries-revenue-up-27/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T20:05:15+00:00"
+  },
+  "b4fee07a8d8c": {
+    "id": "b4fee07a8d8c",
+    "title_en": "US Assists Morocco With Green Hydrogen Plan — Wait, What?",
+    "title_zh": "美国协助摩洛哥实施绿色氢计划——等等，什么？",
+    "url": "https://cleantechnica.com/2026/07/30/green-hydrogen-morocco-us-government-grant-renewable-energy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-30T20:03:42+00:00"
+  },
   "7ba3693e6684": {
     "id": "7ba3693e6684",
     "title_en": "Holtec Targets 2036 for 1.36-GW SMR-300 Project at Oyster Creek",
@@ -24,6 +96,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-07-30T19:00:00+00:00"
+  },
+  "818edbb12bc6": {
+    "id": "818edbb12bc6",
+    "title_en": "Antora snags $550M for heat batteries to run data centers and factories",
+    "title_zh": "Antora获得5.5亿美元用于数据中心和工厂的热电池",
+    "url": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-07-30T19:00:00+00:00"
   },
   "2d9151919438": {
@@ -4417,86 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-24T08:16:16+00:00"
-  },
-  "f81392061e48": {
-    "id": "f81392061e48",
-    "title_en": "Panamint Capital starts construction on $1.7bn solar PV project in Texas",
-    "title_zh": "Panamint Capital在德克萨斯州开始建设17亿美元的太阳能光伏项目",
-    "url": "https://www.energymonitor.ai/news/panamint-starts-construction-solar-project/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-24T08:01:48+00:00"
-  },
-  "efeecf2ae31f": {
-    "id": "efeecf2ae31f",
-    "title_en": "Global LNG Giants Target Cambodia as New Energy Market",
-    "title_zh": "全球液化天然气巨头将柬埔寨作为新能源市场",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-LNG-Giants-Target-Cambodia-as-New-Energy-Market.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-24T07:45:00+00:00"
-  },
-  "52fff9919868": {
-    "id": "52fff9919868",
-    "title_en": "South African airport tenders 2 MW solar plant",
-    "title_zh": "南非机场招标2兆瓦太阳能发电厂",
-    "url": "https://www.pv-magazine.com/2026/07/24/south-african-airport-tenders-2-mw-solar-plant/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-24T07:40:27+00:00"
-  },
-  "81531510aa29": {
-    "id": "81531510aa29",
-    "title_en": "Post–Hurricane Helene, this community is getting creative with solar",
-    "title_zh": "飓风海伦过后，这个社区在太阳能方面越来越有创意",
-    "url": "https://www.canarymedia.com/articles/solar/post-hurricane-helene-community-solar",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-24T07:30:00+00:00"
-  },
-  "b5245cd188de": {
-    "id": "b5245cd188de",
-    "title_en": "Solar is having its best summer yet in Europe",
-    "title_zh": "太阳能在欧洲迎来了迄今为止最好的夏天",
-    "url": "https://www.canarymedia.com/articles/solar/solar-best-summer-europe",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-24T07:30:00+00:00"
-  },
-  "87eb94af0fe2": {
-    "id": "87eb94af0fe2",
-    "title_en": "Belgium Approves New Tender Framework for First Princess Elisabeth Zone Offshore Wind Site",
-    "title_zh": "比利时批准首个伊丽莎白公主区海上风电场的新招标框架",
-    "url": "https://www.offshorewind.biz/2026/07/24/belgium-approves-new-tender-framework-for-first-princess-elisabeth-zone-offshore-wind-site/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-24T07:16:10+00:00"
-  },
-  "5997e9fd3655": {
-    "id": "5997e9fd3655",
-    "title_en": "Europe ROUNDUP: Grenergy, MaxSolar with Saft, and Amarenco progress BESS projects in Spain, Germany, and France",
-    "title_zh": "欧洲ROUNDUP：Grenergy、MaxSolar与Saft和Amarenco在西班牙、德国和法国推进BESS项目",
-    "url": "https://www.energy-storage.news/europe-roundup-grenergy-maxsolar-with-saft-and-amarenco-progress-bess-projects-in-spain-germany-and-france/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-24T07:01:49+00:00"
-  },
-  "c96c7690f49f": {
-    "id": "c96c7690f49f",
-    "title_en": "Tesla Stocks Down, Tesla EV Market Share Up: What Comes Next?",
-    "title_zh": "特斯拉股价下跌，特斯拉电动汽车市场份额上升：接下来会发生什么？",
-    "url": "https://cleantechnica.com/2026/07/24/tesla-stock-down-ev-market-share-us-competition/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-24T07:01:31+00:00"
-  },
-  "b820b7a9a544": {
-    "id": "b820b7a9a544",
-    "title_en": "Superhydrophobic nanocomposite coating boosts PV power output by 16%, outperforms manual cleaning",
-    "title_zh": "超疏水纳米复合涂层可将光伏发电量提高16%，优于手动清洁",
-    "url": "https://www.pv-magazine.com/2026/07/24/superhydrophobic-nanocomposite-coating-boosts-pv-power-output-by-16-outperforms-manual-cleaning/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-24T06:45:00+00:00"
   }
 }
