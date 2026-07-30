@@ -1,4 +1,94 @@
 {
+  "c392b01cd344": {
+    "id": "c392b01cd344",
+    "title_en": "The Madness Of King Elon The First",
+    "title_zh": "伊隆国王的疯狂",
+    "url": "https://cleantechnica.com/2026/07/30/the-madness-of-king-elon-the-first/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-30T16:25:11+00:00"
+  },
+  "4621299db53b": {
+    "id": "4621299db53b",
+    "title_en": "The Genesis GV60 Magma costs $10,000 more than the Hyundai IONIQ 5 N",
+    "title_zh": "Genesis GV60 Magma比现代IONIQ 5 N贵10000美元",
+    "url": "https://electrek.co/2026/07/30/genesis-gv60-magma-costs-10k-more-than-hyundai-ioniq-5-n/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T16:07:48+00:00"
+  },
+  "5f25564eebc0": {
+    "id": "5f25564eebc0",
+    "title_en": "Iraq Leader’s Successful Visit to Washington Shows New Path Forward with U.S.",
+    "title_zh": "伊拉克领导人成功访问华盛顿，为美国开辟了新的前进道路。",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Iraq-Leaders-Successful-Visit-to-Washington-Shows-New-Path-Forward-with-US.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T16:00:00+00:00"
+  },
+  "79fe563cc3e1": {
+    "id": "79fe563cc3e1",
+    "title_en": "California’s carbon-pricing program generated $36.2B for climate initiatives: report",
+    "title_zh": "加州的碳定价计划为气候倡议创造了362亿美元：报告",
+    "url": "https://www.utilitydive.com/news/california-carbon-pricing-program-generated-362b-for-climate-initiatives-carb/826598/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-30T15:37:41+00:00"
+  },
+  "0d75466515bf": {
+    "id": "0d75466515bf",
+    "title_en": "Correcting climate ‘misperceptions’ may not boost climate action",
+    "title_zh": "纠正气候“误解”可能不会促进气候行动",
+    "url": "https://www.carbonbrief.org/correcting-climate-misperceptions-may-not-boost-climate-action",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-30T15:30:11+00:00"
+  },
+  "38cf7de30ce8": {
+    "id": "38cf7de30ce8",
+    "title_en": "Coal Falls Below 50% Of China's Power Mix For First Time Ever",
+    "title_zh": "煤炭在中国电力结构中的占比首次降至50%以下",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Coal-Falls-Below-50-Of-Chinas-Power-Mix-For-First-Time-Ever.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T15:30:00+00:00"
+  },
+  "51dbf22ab73d": {
+    "id": "51dbf22ab73d",
+    "title_en": "Danube's record low leads to Hungary, Romania nuclear shutdowns",
+    "title_zh": "多瑙河创纪录低点导致匈牙利、罗马尼亚核设施关闭",
+    "url": "https://www.world-nuclear-news.org/articles/danubes-record-low-leads-to-hungary-romania-nuclear-shutdowns",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-07-30T15:09:55+00:00"
+  },
+  "daf855913817": {
+    "id": "daf855913817",
+    "title_en": "Iran's Strike on Jordan Signals a More Aggressive Military Strategy",
+    "title_zh": "伊朗对约旦的袭击标志着更激进的军事战略",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Strike-on-Jordan-Signals-a-More-Aggressive-Military-Strategy.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T15:00:00+00:00"
+  },
+  "e7bb35a88856": {
+    "id": "e7bb35a88856",
+    "title_en": "Factcheck: No, Europe is not having its ‘quietest’ year for wildfires",
+    "title_zh": "Factcheck：不，欧洲并没有经历野火“最平静”的一年",
+    "url": "https://www.carbonbrief.org/factcheck-no-europe-is-not-having-its-quietest-year-for-wildfires",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-07-30T14:51:00+00:00"
+  },
+  "87b705594a2c": {
+    "id": "87b705594a2c",
+    "title_en": "Oil Price Shock Fuels 35% Surge in Global EV Sales",
+    "title_zh": "油价冲击推动全球电动汽车销量激增35%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Shock-Fuels-35-Surge-in-Global-EV-Sales.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T14:30:00+00:00"
+  },
   "e492b138179e": {
     "id": "e492b138179e",
     "title_en": "BYD’s electric kei car gets off to a strong start with over 5,000 orders in its first week",
@@ -25,6 +115,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-30T14:00:00+00:00"
+  },
+  "b89021e5e7fc": {
+    "id": "b89021e5e7fc",
+    "title_en": "XPENG VLA 2.0 In Munich: Taking Global Intelligent Driving Lead",
+    "title_zh": "XPENG VLA 2.0在慕尼黑：引领全球智能驾驶",
+    "url": "https://cleantechnica.com/2026/07/30/xpeng-vla-2-0-in-munich-taking-global-intelligent-driving-lead/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-30T13:58:06+00:00"
   },
   "d40ad185f2f4": {
     "id": "d40ad185f2f4",
@@ -61,6 +160,24 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-07-30T13:00:13+00:00"
+  },
+  "ebae5f76a414": {
+    "id": "ebae5f76a414",
+    "title_en": "Under pressure, Entergy looks to mitigate cost of $1.8B Texas gas plant purchase",
+    "title_zh": "在压力下，Entergy希望降低18亿美元得克萨斯州天然气厂采购的成本",
+    "url": "https://www.utilitydive.com/news/entergy-cottonwood-texas-gas-plant-meta/826565/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-30T12:53:57+00:00"
+  },
+  "f1a3b50740f8": {
+    "id": "f1a3b50740f8",
+    "title_en": "FirstEnergy data center contracts surge 50% in Q2 to 6.4 GW",
+    "title_zh": "FirstEnergy数据中心合同在第二季度激增50%，达到6.4吉瓦",
+    "url": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-07-30T12:43:51+00:00"
   },
   "025530285c08": {
     "id": "025530285c08",
@@ -161,6 +278,15 @@
     "category": "太阳能",
     "pub_ts": "2026-07-30T12:00:00+00:00"
   },
+  "0b6746bd3cff": {
+    "id": "0b6746bd3cff",
+    "title_en": "Germany’s renewables and grids reforms slammed by industry groups",
+    "title_zh": "德国可再生能源和电网改革受到行业团体的抨击",
+    "url": "https://www.windpowermonthly.com/article/1966128/germanys-renewables-grids-reforms-slammed-industry-groups",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-30T11:33:48+00:00"
+  },
   "b8e9283d52db": {
     "id": "b8e9283d52db",
     "title_en": "Colombia awards 270 MW of solar, 100 MW of storage in clean energy auction",
@@ -241,6 +367,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-07-30T09:55:00+00:00"
+  },
+  "fd8d1bbd4778": {
+    "id": "fd8d1bbd4778",
+    "title_en": "Philippines eyes reset for paused offshore wind auction",
+    "title_zh": "菲律宾重新考虑暂停海上风电拍卖",
+    "url": "https://www.windpowermonthly.com/article/1966104/philippines-eyes-reset-paused-offshore-wind-auction",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-07-30T09:30:26+00:00"
   },
   "2692e9f13de1": {
     "id": "2692e9f13de1",
@@ -4363,140 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-24T02:05:53+00:00"
-  },
-  "db102b627c44": {
-    "id": "db102b627c44",
-    "title_en": "EV Charging Infrastructure Partnerships Starting to Grow In Kenya",
-    "title_zh": "肯尼亚电动汽车充电基础设施合作伙伴关系开始增长",
-    "url": "https://cleantechnica.com/2026/07/23/ev-charging-infrastructure-partnerships-starting-to-grow-in-kenya/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-24T01:57:38+00:00"
-  },
-  "3091c0bbc265": {
-    "id": "3091c0bbc265",
-    "title_en": "Army Corps Sued Again for Failing to Protect Waterways, Endangered Wildlife from Pipeline Construction",
-    "title_zh": "陆军再次起诉未能保护水道和濒危野生动物免受管道建设的影响",
-    "url": "https://cleantechnica.com/2026/07/23/army-corps-sued-again-for-failing-to-protect-waterways-endangered-wildlife-from-pipeline-construction/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-24T01:41:38+00:00"
-  },
-  "32248c53d384": {
-    "id": "32248c53d384",
-    "title_en": "EPA Will Allow SRP to Continue to Recklessly Dump Toxic Waste",
-    "title_zh": "美国环保署将允许SRP继续肆无忌惮地倾倒有毒废物",
-    "url": "https://cleantechnica.com/2026/07/23/epa-will-allow-srp-to-continue-to-recklessly-dump-toxic-waste/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-24T01:18:58+00:00"
-  },
-  "67493bdd21de": {
-    "id": "67493bdd21de",
-    "title_en": "This is the new 18-in-1 electric vehicle you can build yourself",
-    "title_zh": "这是你可以自己制造的新型18合1电动汽车",
-    "url": "https://electrek.co/2026/07/23/this-is-the-new-18-in-1-electric-vehicle-you-can-build-yourself/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-24T00:29:00+00:00"
-  },
-  "46340e30cc4b": {
-    "id": "46340e30cc4b",
-    "title_en": "Lithium Prices Sink To Five-Month Lows Amid Oversupply Jitters",
-    "title_zh": "锂价格因供应过剩而跌至五个月低点",
-    "url": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Sink-To-Five-Month-Lows-Amid-Oversupply-Jitters.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-24T00:00:00+00:00"
-  },
-  "da08ca754820": {
-    "id": "da08ca754820",
-    "title_en": "Trump Administration Eyes Offshore Nuclear to Power AI Boom",
-    "title_zh": "特朗普政府着眼于海上核能发电人工智能热潮",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Eyes-Offshore-Nuclear-to-Power-AI-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T23:00:00+00:00"
-  },
-  "ade6bf953d7b": {
-    "id": "ade6bf953d7b",
-    "title_en": "XPENG L03 Impresses In The Details: Part 2",
-    "title_zh": "XPENG L03在细节上令人印象深刻：第二部分",
-    "url": "https://cleantechnica.com/2026/07/23/xpeng-l03-impresses-in-the-details-part-2/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T22:31:17+00:00"
-  },
-  "52bfced56288": {
-    "id": "52bfced56288",
-    "title_en": "White House Expands Data Center Ratepayer Pledge as Congress Moves to Codify Protections",
-    "title_zh": "白宫扩大了数据中心纳税人的承诺，因为国会正在将保护措施编入法典",
-    "url": "https://www.powermag.com/white-house-expands-data-center-ratepayer-pledge-as-congress-moves-to-codify-protections/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-23T22:26:47+00:00"
-  },
-  "192a78eafa7e": {
-    "id": "192a78eafa7e",
-    "title_en": "Australia’s Clean Energy Investor Group calls for urgent EPBC Act implementation to unlock renewables",
-    "title_zh": "澳大利亚清洁能源投资集团呼吁紧急实施《环境保护与商业连续性法案》，以解锁可再生能源",
-    "url": "https://www.pv-tech.org/australias-clean-energy-investor-group-calls-for-urgent-epbc-act-implementation-to-unlock-renewables/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-23T22:13:18+00:00"
-  },
-  "95c8337764d7": {
-    "id": "95c8337764d7",
-    "title_en": "OPEC+ Set to Raise Output Again—Even as Members Can't Pump It",
-    "title_zh": "欧佩克+将再次提高产量——即使成员国无法提高产量",
-    "url": "https://oilprice.com/Energy/Crude-Oil/OPEC-Set-to-Raise-Output-AgainEven-as-Members-Cant-Pump-It.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T22:00:00+00:00"
-  },
-  "28011d803229": {
-    "id": "28011d803229",
-    "title_en": "NEVI gets real in Illinois as first federally funded EV chargers go online",
-    "title_zh": "NEVI在伊利诺伊州成为现实，因为第一个联邦资助的电动汽车充电器上线",
-    "url": "https://electrek.co/2026/07/23/nevi-gets-real-in-illinois-as-first-federally-funded-ev-chargers-go-online/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T21:57:15+00:00"
-  },
-  "9c023416c6d8": {
-    "id": "9c023416c6d8",
-    "title_en": "The new Hyundai Kona leaks with a tougher look and a surprise inside",
-    "title_zh": "新款现代科纳外观更坚固，内部更令人惊喜",
-    "url": "https://electrek.co/2026/07/23/new-hyundai-kona-leaks-with-tougher-look-surprise-inside/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T21:14:39+00:00"
-  },
-  "4cb3399e3f18": {
-    "id": "4cb3399e3f18",
-    "title_en": "Voters Know America Needs More Energy. Solar & Storage Are the Overwhelming Choice.",
-    "title_zh": "选民们知道美国需要更多的能源。太阳能和储能是压倒性的选择。",
-    "url": "https://cleantechnica.com/2026/07/23/voters-know-america-needs-more-energy-solar-storage-are-the-overwhelming-choice/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T21:04:03+00:00"
-  },
-  "32216d88dcea": {
-    "id": "32216d88dcea",
-    "title_en": "The AI Paradox Reshaping Clean Energy Research",
-    "title_zh": "人工智能悖论重塑清洁能源研究",
-    "url": "https://oilprice.com/Energy/Energy-General/The-AI-Paradox-Reshaping-Clean-Energy-Research.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T21:00:00+00:00"
-  },
-  "f45353825268": {
-    "id": "f45353825268",
-    "title_en": "Federal Court Upholds NRC’s Generic Severe-Accident Review for Nuclear Plant License Renewals",
-    "title_zh": "联邦法院支持NRC对核电站许可证续期的一般严重事故审查",
-    "url": "https://www.powermag.com/federal-court-upholds-nrcs-generic-severe-accident-review-for-nuclear-plant-license-renewals/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-23T20:54:34+00:00"
   }
 }
