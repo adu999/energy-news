@@ -1,4 +1,184 @@
 {
+  "e492b138179e": {
+    "id": "e492b138179e",
+    "title_en": "BYD’s electric kei car gets off to a strong start with over 5,000 orders in its first week",
+    "title_zh": "比亚迪的电动汽车kei在第一周就获得了5000多份订单，开局良好",
+    "url": "https://electrek.co/2026/07/30/byds-electric-kei-car-received-over-5000-orders-first-week/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T14:01:02+00:00"
+  },
+  "289ee4dc12a8": {
+    "id": "289ee4dc12a8",
+    "title_en": "China is starting to measure EV charging times in seconds, not minutes",
+    "title_zh": "中国开始以秒而不是分钟来衡量电动汽车充电时间",
+    "url": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T14:00:00+00:00"
+  },
+  "91a09e1c58aa": {
+    "id": "91a09e1c58aa",
+    "title_en": "Shell Maintains Bumper Buyback as Profit Surges",
+    "title_zh": "随着利润飙升，壳牌维持大幅回购",
+    "url": "https://oilprice.com/Energy/Energy-General/Shell-Maintains-Bumper-Buyback-as-Profit-Surges.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T14:00:00+00:00"
+  },
+  "d40ad185f2f4": {
+    "id": "d40ad185f2f4",
+    "title_en": "Tesla hits 10 million vehicles — but its EV growth has stalled",
+    "title_zh": "特斯拉汽车销量突破1000万辆，但电动汽车增长停滞不前",
+    "url": "https://electrek.co/2026/07/30/tesla-10-millionth-vehicle-ev-growth-stalled/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T13:36:51+00:00"
+  },
+  "16cbc0e76094": {
+    "id": "16cbc0e76094",
+    "title_en": "Qatar Turns to American LNG After Iran War Cripples Ras Laffan",
+    "title_zh": "伊朗战争使拉斯·拉凡瘫痪后，卡塔尔转向美国液化天然气",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Turns-to-American-LNG-After-Iran-War-Cripples-Ras-Laffan.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T13:30:00+00:00"
+  },
+  "44a0338f7dae": {
+    "id": "44a0338f7dae",
+    "title_en": "Nautilus, TPE bring online 4-MW community solar project in Delaware",
+    "title_zh": "Nautilus和TPE在特拉华州启动了4兆瓦的社区太阳能项目",
+    "url": "https://www.solarpowerworldonline.com/2026/07/nautilus-tpe-bring-online-4-mw-community-solar-project-in-delaware/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T13:00:14+00:00"
+  },
+  "771383f5a1b7": {
+    "id": "771383f5a1b7",
+    "title_en": "Connecticut Green Bank signs panel supply agreement with HD Hyundai Energy Solutions",
+    "title_zh": "康涅狄格州绿色银行与HD Hyundai Energy Solutions签署面板供应协议",
+    "url": "https://www.solarpowerworldonline.com/2026/07/connecticut-green-bank-signs-panel-supply-agreement-with-hd-hyundai-energy-solutions/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T13:00:13+00:00"
+  },
+  "025530285c08": {
+    "id": "025530285c08",
+    "title_en": "Boskalis’s New Rock Installation Vessel Starts Work on Polish Offshore Wind Project",
+    "title_zh": "Boskalis的新岩石安装船开始在波兰海上风电项目上工作",
+    "url": "https://www.offshorewind.biz/2026/07/30/boskalis-new-rock-installation-vessel-starts-work-on-polish-offshore-wind-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-07-30T12:41:45+00:00"
+  },
+  "f6b7448a5bb8": {
+    "id": "f6b7448a5bb8",
+    "title_en": "Türkiye adds 2.1 GW of solar in H1",
+    "title_zh": "Türkiye在上半年增加了2.1吉瓦的太阳能",
+    "url": "https://www.pv-magazine.com/2026/07/30/turkiye-adds-2-1-gw-of-solar-in-h1/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T12:30:00+00:00"
+  },
+  "8401e31413db": {
+    "id": "8401e31413db",
+    "title_en": "Goldman Sachs: Diesel Crunch Is Now the Biggest Threat in Oil Markets",
+    "title_zh": "高盛：柴油机危机现在是石油市场的最大威胁",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Diesel-Crunch-Is-Now-the-Biggest-Threat-in-Oil-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T12:30:00+00:00"
+  },
+  "f2afc2813a50": {
+    "id": "f2afc2813a50",
+    "title_en": "Aecon executes energy storage agreement for 1,200MWh Ontario BESS",
+    "title_zh": "Aecon签署1200MWh安大略BESS储能协议",
+    "url": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-30T12:27:15+00:00"
+  },
+  "5e0d97195a59": {
+    "id": "5e0d97195a59",
+    "title_en": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Growth Strategy in Brazil",
+    "title_zh": "现代汽车集团执行主席Euisun Chung制定巴西中长期增长战略",
+    "url": "https://cleantechnica.com/2026/07/30/hyundai-motor-group-executive-chair-euisun-chung-charts-mid-to-long-term-growth-strategy-in-brazil/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-30T12:24:23+00:00"
+  },
+  "ffa725c0912d": {
+    "id": "ffa725c0912d",
+    "title_en": "Eolian begins construction on 1.06GWh Ohio BESS, largest system built in PJM",
+    "title_zh": "Eolian开始建造1.06GWh俄亥俄州BESS，这是PJM建造的最大系统",
+    "url": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-07-30T12:17:14+00:00"
+  },
+  "8b3f54ca7f93": {
+    "id": "8b3f54ca7f93",
+    "title_en": "1-GWh energy storage project to be sited on Ohio data center campus",
+    "title_zh": "1-GWh储能项目将位于俄亥俄州数据中心园区",
+    "url": "https://www.solarpowerworldonline.com/2026/07/1-gwh-energy-storage-project-to-be-sited-on-ohio-data-center-campus/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T12:13:10+00:00"
+  },
+  "03ce01c90a54": {
+    "id": "03ce01c90a54",
+    "title_en": "Plug-in port: Brazilian Port of Santos electrifies DP World terminal",
+    "title_zh": "插电式港口：巴西桑托斯港为DP World码头供电",
+    "url": "https://electrek.co/2026/07/30/plug-in-port-brazilian-port-of-santos-electrifies-dp-world-terminal/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-30T12:06:28+00:00"
+  },
+  "e720760ff893": {
+    "id": "e720760ff893",
+    "title_en": "Hyundai Motor Group Appoints Junghyun Kwon as Head of Autonomous Driving Development Center",
+    "title_zh": "现代汽车集团任命权俊云为自动驾驶开发中心负责人",
+    "url": "https://cleantechnica.com/2026/07/30/hyundai-motor-group-appoints-junghyun-kwon-as-head-of-autonomous-driving-development-center/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-07-30T12:03:45+00:00"
+  },
+  "43011a828eb1": {
+    "id": "43011a828eb1",
+    "title_en": "Video game subscriptions support 110-MW solar project buildout in Texas",
+    "title_zh": "视频游戏订阅支持德克萨斯州110兆瓦太阳能项目建设",
+    "url": "https://www.solarpowerworldonline.com/2026/07/video-game-subscriptions-support-110-mw-solar-project-buildout-in-texas/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T12:02:22+00:00"
+  },
+  "70d9bd1c14ce": {
+    "id": "70d9bd1c14ce",
+    "title_en": "Indonesia signals start of 100 GW solar initiative",
+    "title_zh": "印尼启动100吉瓦太阳能项目",
+    "url": "https://www.pv-magazine.com/2026/07/30/indonesia-signals-start-of-100-gw-solar-initiative/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T12:00:00+00:00"
+  },
+  "b8e9283d52db": {
+    "id": "b8e9283d52db",
+    "title_en": "Colombia awards 270 MW of solar, 100 MW of storage in clean energy auction",
+    "title_zh": "哥伦比亚在清洁能源拍卖中授予270兆瓦太阳能和100兆瓦储能",
+    "url": "https://www.pv-magazine.com/2026/07/30/colombia-awards-270-mw-of-solar-100-mw-of-storage-in-clean-energy-auction/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-07-30T11:30:00+00:00"
+  },
+  "7da59304ec2b": {
+    "id": "7da59304ec2b",
+    "title_en": "Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz",
+    "title_zh": "伊朗称两艘油轮放弃了穿越霍尔木兹的尝试",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Two-Oil-Tankers-Ditched-Attempt-to-Transit-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-30T11:30:00+00:00"
+  },
   "05f25c9e8f8a": {
     "id": "05f25c9e8f8a",
     "title_en": "Jordan installs solar-powered water heating systems at nine hospitals",
@@ -4318,185 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-07-23T20:54:34+00:00"
-  },
-  "a8cfee1638f7": {
-    "id": "a8cfee1638f7",
-    "title_en": "XPENG L03 Impresses In The Details: Part 1",
-    "title_zh": "XPENG L03在细节上令人印象深刻：第1部分",
-    "url": "https://cleantechnica.com/2026/07/23/xpeng-l03-impresses-in-the-details-part-1/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T20:15:37+00:00"
-  },
-  "f8170b85a55b": {
-    "id": "f8170b85a55b",
-    "title_en": "Insurers Flock to Oil Projects Outside the Middle East",
-    "title_zh": "保险公司涌向中东以外的石油项目",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Insurers-Flock-to-Oil-Projects-Outside-the-Middle-East.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T20:00:00+00:00"
-  },
-  "41e3c948191e": {
-    "id": "41e3c948191e",
-    "title_en": "Schneider Electric’s upgraded app-free EV charger now has NACS",
-    "title_zh": "施耐德电气升级的无应用电动汽车充电器现已配备NACS",
-    "url": "https://electrek.co/2026/07/23/schneider-electrics-upgraded-app-free-ev-charger-now-has-nacs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T19:43:52+00:00"
-  },
-  "cffce3be5131": {
-    "id": "cffce3be5131",
-    "title_en": "Utilities & Big Tech Pay Lip Service, “Pledge” to Keep Costs Down",
-    "title_zh": "公用事业和大型科技公司承诺降低成本",
-    "url": "https://cleantechnica.com/2026/07/23/utilities-big-tech-pay-lip-service-pledge-to-keep-costs-down/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T19:33:03+00:00"
-  },
-  "517c75cf50af": {
-    "id": "517c75cf50af",
-    "title_en": "1.2-GW solar project to tie into existing 300-MW coal plant in Texas",
-    "title_zh": "1.2兆瓦太阳能项目将与德克萨斯州现有的300兆瓦燃煤电厂相结合",
-    "url": "https://www.solarpowerworldonline.com/2026/07/1-2-gw-solar-project-to-tie-into-existing-300-mw-coal-plant-in-texas/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-23T19:27:36+00:00"
-  },
-  "de75e84e762f": {
-    "id": "de75e84e762f",
-    "title_en": "Environmental Groups Sue to Stop Discharge of Toxic Metals from Coal Ash",
-    "title_zh": "环保组织呼吁停止从煤灰中排放有毒金属",
-    "url": "https://cleantechnica.com/2026/07/23/environmental-groups-sue-to-stop-discharge-of-toxic-metals-from-coal-ash/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T19:13:20+00:00"
-  },
-  "523b8b57efd4": {
-    "id": "523b8b57efd4",
-    "title_en": "Meta signs PPA for 172 MW of Louisiana solar",
-    "title_zh": "Meta签署路易斯安那州172兆瓦太阳能项目购电协议",
-    "url": "https://www.solarpowerworldonline.com/2026/07/meta-signs-ppa-for-172-mw-of-louisiana-solar/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-23T19:05:21+00:00"
-  },
-  "02a8bbd2d71a": {
-    "id": "02a8bbd2d71a",
-    "title_en": "Commodities Beat Tech This Decade, and Wall Street Still Won't Buy In",
-    "title_zh": "大宗商品在这十年里击败了科技，华尔街仍然不会买入",
-    "url": "https://oilprice.com/Energy/Energy-General/Commodities-Beat-Tech-This-Decade-and-Wall-Street-Still-Wont-Buy-In.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T19:00:00+00:00"
-  },
-  "833b6e4bf73c": {
-    "id": "833b6e4bf73c",
-    "title_en": "NIO Launches the ES8 Five-Seat Version",
-    "title_zh": "蔚来推出ES8五座版",
-    "url": "https://cleantechnica.com/2026/07/23/nio-launches-the-es8-five-seat-version/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T18:41:08+00:00"
-  },
-  "0a86665694c1": {
-    "id": "0a86665694c1",
-    "title_en": "BYD launches the Denza Z9 GT EV in Europe and the UK at over 3X the price",
-    "title_zh": "比亚迪在欧洲和英国以超过3倍的价格推出了Denza Z9 GT电动汽车",
-    "url": "https://electrek.co/2026/07/23/byd-launches-denza-z9-gt-ev-europe-the-uk-3x-price/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T18:29:21+00:00"
-  },
-  "3718915d209a": {
-    "id": "3718915d209a",
-    "title_en": "Massachusetts wants to pay EV drivers for their battery power",
-    "title_zh": "马萨诸塞州希望为电动汽车司机的电池电量支付费用",
-    "url": "https://electrek.co/2026/07/23/massachusetts-ev-drivers-battery-power-v2g/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T18:22:32+00:00"
-  },
-  "478662eb7b8c": {
-    "id": "478662eb7b8c",
-    "title_en": "Heybike Mars 2.0, ALPHA, Horizon e-bikes get up to $800 exclusive savings to new lows, Segway EVs up to 46% off, Aventon, more",
-    "title_zh": "Heybike Mars 2.0、ALPHA、Horizon电动自行车可享受高达800美元的独家优惠，创下新低，Segway电动汽车可享受46%的折扣，Aventon等",
-    "url": "https://electrek.co/2026/07/23/heybike-mars-2-0-alpha-horizon-e-bikes-exclusive-segway-evs-aventon-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T18:00:00+00:00"
-  },
-  "450441e947dc": {
-    "id": "450441e947dc",
-    "title_en": "Ukraine’s Drone War Is Choking Kazakhstan’s Oil Exports",
-    "title_zh": "乌克兰的无人机战争正在阻碍哈萨克斯坦的石油出口",
-    "url": "https://oilprice.com/Energy/Energy-General/Ukraines-Drone-War-Is-Choking-Kazakhstans-Oil-Exports.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T18:00:00+00:00"
-  },
-  "48fcdd45590a": {
-    "id": "48fcdd45590a",
-    "title_en": "Tesla Launches Robotaxi in Tampa & Orlando, + Big Change Coming to FSD!",
-    "title_zh": "特斯拉在坦帕和奥兰多推出Robotaxi，FSD迎来重大变革！",
-    "url": "https://cleantechnica.com/2026/07/23/tesla-launches-robotaxi-in-tampa-orlando-big-change-coming-to-fsd/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-23T17:55:01+00:00"
-  },
-  "8e7afac9674d": {
-    "id": "8e7afac9674d",
-    "title_en": "Toyota warns it ‘cannot survive’ as the next-gen Corolla EV becomes its make-or-break",
-    "title_zh": "丰田警告称，随着下一代卡罗拉电动汽车的成败，它“无法生存”",
-    "url": "https://electrek.co/2026/07/23/toyota-warns-cannot-survive-bets-on-next-gen-corolla-ev/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T17:31:22+00:00"
-  },
-  "02dcd49f80ef": {
-    "id": "02dcd49f80ef",
-    "title_en": "Renewables, storage can meet one-third of US industrial heat demand: report",
-    "title_zh": "可再生能源和储能可满足美国三分之一的工业用热需求：报告",
-    "url": "https://www.utilitydive.com/news/renewables-and-storage-can-meet-one-third-of-us-industrial-heat-demand-r/826057/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-23T17:17:17+00:00"
-  },
-  "2a774fced32b": {
-    "id": "2a774fced32b",
-    "title_en": "Volvo’s new midsize electric SUV delivers more range than expected, with up to 330 miles",
-    "title_zh": "沃尔沃新款中型电动SUV的续航里程超出预期，可达330英里",
-    "url": "https://electrek.co/2026/07/23/volvos-midsize-ev-suv-delivers-more-range-330-miles/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T17:08:39+00:00"
-  },
-  "74b9e629a39a": {
-    "id": "74b9e629a39a",
-    "title_en": "Hybrid Hydropower Could Unlock Europe’s Next Renewable Energy Boom",
-    "title_zh": "混合式水电可能开启欧洲下一个可再生能源热潮",
-    "url": "https://oilprice.com/Alternative-Energy/Hydroelectric/Hybrid-Hydropower-Could-Unlock-Europes-Next-Renewable-Energy-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-23T17:00:00+00:00"
-  },
-  "4d2b15f25c9b": {
-    "id": "4d2b15f25c9b",
-    "title_en": "Electrek Formula Sun Grand Prix 2026: Day 2 results and images",
-    "title_zh": "2026年Electrek Formula Sun大奖赛：第2天结果和图片",
-    "url": "https://electrek.co/2026/07/23/electrek-formula-sun-grand-prix-2026-day-2-results-and-images/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T16:19:38+00:00"
-  },
-  "e243b0064078": {
-    "id": "e243b0064078",
-    "title_en": "I love e-bikes, but do they always need pedals?",
-    "title_zh": "我喜欢电动自行车，但它们总是需要踏板吗？",
-    "url": "https://electrek.co/2026/07/23/i-love-e-bikes-but-do-they-always-need-pedals/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-23T16:15:17+00:00"
   }
 }
