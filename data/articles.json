@@ -1,4 +1,76 @@
 {
+  "651242bed427": {
+    "id": "651242bed427",
+    "title_en": "This huge Texas solar hub is nearly 1 GW, and it’s only half built",
+    "title_zh": "这个巨大的德克萨斯州太阳能中心近1吉瓦，只建成了一半",
+    "url": "https://electrek.co/2026/07/31/this-huge-texas-solar-hub-is-nearly-1-gw-and-its-only-half-built/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-31T19:14:20+00:00"
+  },
+  "595983ed112b": {
+    "id": "595983ed112b",
+    "title_en": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
+    "title_zh": "为什么特朗普的贸易威胁会危及西班牙的能源安全",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-31T19:00:00+00:00"
+  },
+  "d634dc3cdd94": {
+    "id": "d634dc3cdd94",
+    "title_en": "Hyundai reveals new 7-seat electric minivan concept",
+    "title_zh": "现代推出新款7座电动小型货车概念",
+    "url": "https://electrek.co/2026/07/31/hyundai-reveals-new-7-seat-electric-minivan-concept/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-31T18:33:40+00:00"
+  },
+  "5222fd21e494": {
+    "id": "5222fd21e494",
+    "title_en": "Exxon and Chevron’s $26.5 Billion Quarter Draws Trump’s Ire",
+    "title_zh": "埃克森美孚和雪佛龙的265亿美元季度吸引了特朗普的投资",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-and-Chevrons-265-Billion-Quarter-Draws-Trumps-Ire.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-31T18:05:13+00:00"
+  },
+  "a80ed5c8590a": {
+    "id": "a80ed5c8590a",
+    "title_en": "Aventon Level 3 + Pace 4 smart e-bikes at new $1,299 lows ($600 off), EcoFlow GLACIER electric cooler bundles, Anker, more",
+    "title_zh": "Aventon Level 3+Pace 4智能电动自行车创下1299美元新低（减600美元），EcoFlow GLACIER电动冷却器套装，Anker，更多",
+    "url": "https://electrek.co/2026/07/31/aventon-level-3-pace-4-smart-e-bikes-ecoflow-glacier-electric-cooler-anker-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-31T18:00:00+00:00"
+  },
+  "06c17b011301": {
+    "id": "06c17b011301",
+    "title_en": "What Kyrgyzstan Wants From the UN Security Council",
+    "title_zh": "吉尔吉斯斯坦希望从联合国安理会得到什么",
+    "url": "https://oilprice.com/Geopolitics/Asia/What-Kyrgyzstan-Wants-From-the-UN-Security-Council.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-31T18:00:00+00:00"
+  },
+  "945f4c5e7ed9": {
+    "id": "945f4c5e7ed9",
+    "title_en": "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel",
+    "title_zh": "美国石油钻井者变得谨慎，因为WTI每桶价格接近85美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Turn-Cautious-as-WTI-Holds-Near-85-per-Barrel.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-07-31T17:20:31+00:00"
+  },
+  "b39ca12f8b21": {
+    "id": "b39ca12f8b21",
+    "title_en": "Northern Illinois Public Storage sites to soon be solarized in major community deal",
+    "title_zh": "伊利诺伊州北部公共存储场所即将在重大社区交易中实现太阳能化",
+    "url": "https://www.solarpowerworldonline.com/2026/07/northern-illinois-public-storage-sites-to-soon-be-solarized-in-major-community-deal/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-07-31T17:17:49+00:00"
+  },
   "8acdb59d5281": {
     "id": "8acdb59d5281",
     "title_en": "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume",
@@ -13,6 +85,15 @@
     "title_en": "BYD’s first 7-seat SUV is cheaper than the Defender in the UK",
     "title_zh": "比亚迪首款7座SUV在英国比Defender便宜",
     "url": "https://electrek.co/2026/07/31/byds-first-7-seat-suv-cheaper-than-defender-uk/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-07-31T16:21:39+00:00"
+  },
+  "50ebeced1816": {
+    "id": "50ebeced1816",
+    "title_en": "BYD undercuts Defender with its first 7-seat SUV in the UK",
+    "title_zh": "比亚迪在英国推出首款7座SUV，击败了路虎卫士",
+    "url": "https://electrek.co/2026/07/31/byd-undercuts-defender-first-7-seat-suv-uk/",
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-31T16:21:39+00:00"
@@ -4417,86 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-25T02:00:52+00:00"
-  },
-  "34bd8d2281c6": {
-    "id": "34bd8d2281c6",
-    "title_en": "Volvo Electric Heavy Trucks — Built in Queensland for Australia",
-    "title_zh": "沃尔沃电动重型卡车——为澳大利亚昆士兰州制造",
-    "url": "https://cleantechnica.com/2026/07/24/volvo-electric-heavy-trucks-built-in-queensland-for-australia/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-25T01:41:32+00:00"
-  },
-  "1457a64af104": {
-    "id": "1457a64af104",
-    "title_en": "CS PowerTech Launches Best In Class PV HJT Solar Cell Factory",
-    "title_zh": "CS PowerTech推出一流光伏HJT太阳能电池工厂",
-    "url": "https://cleantechnica.com/2026/07/24/cs-powertech-launches-best-in-class-pv-hjt-solar-cell-factory/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-25T01:22:47+00:00"
-  },
-  "99f6dc4d8e89": {
-    "id": "99f6dc4d8e89",
-    "title_en": "Trump Administration Admits Retaliatory Grant Cancellations",
-    "title_zh": "特朗普政府承认取消了报复性拨款",
-    "url": "https://cleantechnica.com/2026/07/24/trump-administration-admits-retaliatory-grant-cancellations/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-25T00:55:40+00:00"
-  },
-  "8babd36a48ef": {
-    "id": "8babd36a48ef",
-    "title_en": "New Analysis Evaluates Major U.S. Investors’ Record on Key Climate Shareholder Votes",
-    "title_zh": "新分析评估了美国主要投资者在关键气候股东投票方面的记录",
-    "url": "https://cleantechnica.com/2026/07/24/new-analysis-evaluates-major-u-s-investors-record-on-key-climate-shareholder-votes/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-25T00:27:39+00:00"
-  },
-  "996691fa5ef2": {
-    "id": "996691fa5ef2",
-    "title_en": "Musk says Tesla to ‘open source’ Model S and X, but prior release makes us skeptical",
-    "title_zh": "马斯克表示特斯拉将“开源”Model S和X，但之前的版本让我们持怀疑态度",
-    "url": "https://electrek.co/2026/07/24/tesla-open-source-model-s-x-roadster-release-audit/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-24T23:38:20+00:00"
-  },
-  "5247d7e2a4f0": {
-    "id": "5247d7e2a4f0",
-    "title_en": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
-    "title_zh": "霍尔木兹海峡的关闭已经影响了超市的价格",
-    "url": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-24T23:00:00+00:00"
-  },
-  "a4b42bbf70b1": {
-    "id": "a4b42bbf70b1",
-    "title_en": "Duh, solar power doesn't work at night — but it excels during the day",
-    "title_zh": "啊，太阳能晚上不工作，但白天很好",
-    "url": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-24T22:58:00+00:00"
-  },
-  "b597afff242c": {
-    "id": "b597afff242c",
-    "title_en": "Position Paper on the Connecting Europe through High-Speed Rail Own-Initiative Report",
-    "title_zh": "关于通过高铁连接欧洲的立场文件",
-    "url": "https://cleantechnica.com/2026/07/24/position-paper-on-the-connecting-europe-through-high-speed-rail-own-initiative-report/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-24T22:47:20+00:00"
-  },
-  "06783fbf6236": {
-    "id": "06783fbf6236",
-    "title_en": "A 1.2 GW solar farm is rising at a Texas coal site – but coal is staying",
-    "title_zh": "德克萨斯州一个煤炭基地的1.2吉瓦太阳能发电厂正在扩建，但煤炭仍在继续",
-    "url": "https://electrek.co/2026/07/24/a-1-2-gw-solar-farm-is-rising-at-a-texas-coal-site-but-coal-is-staying/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-24T22:25:17+00:00"
   }
 }
