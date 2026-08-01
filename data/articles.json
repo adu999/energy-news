@@ -1,4 +1,13 @@
 {
+  "9a4c62163fc4": {
+    "id": "9a4c62163fc4",
+    "title_en": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
+    "title_zh": "下萨克森州的氢能列车现在是电池退出策略问题",
+    "url": "https://cleantechnica.com/2026/08/01/lower-saxony-hydrogen-trains-battery-exit/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-01T06:20:01+00:00"
+  },
   "2b9865a7dd65": {
     "id": "2b9865a7dd65",
     "title_en": "What Happens When The AI Power Industry Collapses?",
@@ -4489,14 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-25T23:15:02+00:00"
-  },
-  "1f5ae5aab6d1": {
-    "id": "1f5ae5aab6d1",
-    "title_en": "Can an AI Black Box Be Trusted to Run a Nuclear Reactor?",
-    "title_zh": "人工智能黑匣子可以被信任来运行核反应堆吗？",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Can-an-AI-Black-Box-Be-Trusted-to-Run-a-Nuclear-Reactor.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-25T21:00:00+00:00"
   }
 }
