@@ -1,4 +1,22 @@
 {
+  "2b9865a7dd65": {
+    "id": "2b9865a7dd65",
+    "title_en": "What Happens When The AI Power Industry Collapses?",
+    "title_zh": "当人工智能电力行业崩溃时会发生什么？",
+    "url": "https://cleantechnica.com/2026/07/31/what-happens-when-the-ai-power-industry-collapses/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-01T03:57:19+00:00"
+  },
+  "5be56977ad71": {
+    "id": "5be56977ad71",
+    "title_en": "The Big Problem For AI Companies — They Don’t Have A Monopoly",
+    "title_zh": "人工智能公司的大问题——他们没有垄断",
+    "url": "https://cleantechnica.com/2026/07/31/the-big-problem-for-ai-companies-they-dont-have-a-monopoly/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-01T03:23:18+00:00"
+  },
   "d558b9339067": {
     "id": "d558b9339067",
     "title_en": "“Circular” Financing in AI & Big Tech",
@@ -4480,23 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-25T21:00:00+00:00"
-  },
-  "314498a5368b": {
-    "id": "314498a5368b",
-    "title_en": "This New Underground Energy Storage System Supports Wind And Solar Power",
-    "title_zh": "这种新型地下储能系统支持风能和太阳能",
-    "url": "https://cleantechnica.com/2026/07/25/flywheel-energy-storage-us-qnetic-factory-wind-solar-power/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-25T20:53:46+00:00"
-  },
-  "62f6e9cd6a00": {
-    "id": "62f6e9cd6a00",
-    "title_en": "Waymo is 2/3 safer than a human driver, says IIHS – with some caveats",
-    "title_zh": "IIHS表示，Waymo比人类驾驶员安全2/3，但有一些警告",
-    "url": "https://electrek.co/2026/07/25/waymo-is-2-3-safer-than-a-human-driver-says-iihs-with-some-caveats/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-25T19:27:07+00:00"
   }
 }
