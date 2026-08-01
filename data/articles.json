@@ -1,4 +1,31 @@
 {
+  "e3d59d0a3abf": {
+    "id": "e3d59d0a3abf",
+    "title_en": "The Bank of England Is Moving Away From Coal",
+    "title_zh": "英格兰银行正在放弃煤炭",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Bank-of-England-Is-Moving-Away-From-Coal.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-01T15:00:00+00:00"
+  },
+  "3bc475fe922a": {
+    "id": "3bc475fe922a",
+    "title_en": "Pure Electric Vehicle Brands Take Center Stage at Indonesia Auto Show",
+    "title_zh": "纯电动汽车品牌在印尼车展上占据中心地位",
+    "url": "https://cleantechnica.com/2026/08/01/pure-electric-vehicle-brands-take-center-stage-at-indonesia-auto-show/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-01T14:52:30+00:00"
+  },
+  "4baadedb2789": {
+    "id": "4baadedb2789",
+    "title_en": "Hyundai Shows Neira Electric MPV Prototype in Indonesia Motor Show",
+    "title_zh": "现代在印尼车展上展示Neira电动MPV原型车",
+    "url": "https://cleantechnica.com/2026/08/01/hyundai-shows-neira-electric-mpv-prototype-in-indonesia-motor-show/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-01T13:59:38+00:00"
+  },
   "9a4c62163fc4": {
     "id": "9a4c62163fc4",
     "title_en": "Lower Saxony’s Hydrogen Trains Are Now A Battery Exit Strategy Problem",
@@ -4471,32 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-26T04:32:39+00:00"
-  },
-  "04c73acae0d6": {
-    "id": "04c73acae0d6",
-    "title_en": "Another day at the office: Fortescue CEO test drives 150 ton haul truck [video]",
-    "title_zh": "在办公室的另一天：Fortescue首席执行官试驾150吨拖运卡车[视频]",
-    "url": "https://electrek.co/2026/07/25/another-day-at-the-office-fortescue-ceo-test-drives-150-ton-haul-truck-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-26T00:43:27+00:00"
-  },
-  "2501e8163e2a": {
-    "id": "2501e8163e2a",
-    "title_en": "Windrose says 10 of its electric semi trucks are coming to Texas’ I-35 corridor",
-    "title_zh": "Windrose表示，其10辆电动半挂卡车将进入德克萨斯州的I-35走廊",
-    "url": "https://electrek.co/2026/07/25/dsv-to-deploy-10-windrose-electric-semi-trucks-on-i-35-corridor-allegedly/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-26T00:12:22+00:00"
-  },
-  "c79b6e921382": {
-    "id": "c79b6e921382",
-    "title_en": "E-quipment highlight: Avant Tecno e727 electric wheel loader",
-    "title_zh": "电子设备亮点：Avant Tecno e727电动轮式装载机",
-    "url": "https://electrek.co/2026/07/25/e-quipment-highlight-avant-tecno-e727-electric-wheel-loader/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-25T23:15:02+00:00"
   }
 }
