@@ -1,4 +1,13 @@
 {
+  "f4f88ed93d62": {
+    "id": "f4f88ed93d62",
+    "title_en": "Ember’s Electric Coaches Show Intercity Bus Electrification Is Already Here",
+    "title_zh": "Ember的电动客车展示城际巴士电气化已经到来",
+    "url": "https://cleantechnica.com/2026/08/02/ember-electric-intercity-coaches-scotland/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T09:03:00+00:00"
+  },
   "a36598e50945": {
     "id": "a36598e50945",
     "title_en": "Janus Battery Swap Trucks Show The Way",
@@ -4489,14 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-26T19:00:00+00:00"
-  },
-  "5e9848a75536": {
-    "id": "5e9848a75536",
-    "title_en": "Molten Salt Reactors Just Cleared A Major U.S. Regulatory Hurdle",
-    "title_zh": "熔盐反应堆刚刚扫清了美国监管的一大障碍",
-    "url": "https://oilprice.com/Energy/Energy-General/Molten-Salt-Reactors-Just-Cleared-A-Major-US-Regulatory-Hurdle.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-26T17:00:00+00:00"
   }
 }
