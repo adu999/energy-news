@@ -1,4 +1,58 @@
 {
+  "e96542e8c53f": {
+    "id": "e96542e8c53f",
+    "title_en": "China's Car Market Stalls Even as Global Demand Keeps Growing",
+    "title_zh": "尽管全球需求持续增长，但中国汽车市场仍停滞不前",
+    "url": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-02T19:00:00+00:00"
+  },
+  "33f4f6bead7b": {
+    "id": "33f4f6bead7b",
+    "title_en": "After A Long, Hot Summer, “Climate-Hushing” Is Missing The Moment",
+    "title_zh": "在漫长炎热的夏天之后，“气候安静”的时刻已经不见了",
+    "url": "https://cleantechnica.com/2026/08/02/climate-change-hushing-voter-motivation-democrats-2026-elections/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T18:37:31+00:00"
+  },
+  "1fc79a90977a": {
+    "id": "1fc79a90977a",
+    "title_en": "Tidal Energy Could Cover 57% of US Electricity Demand, NREL Study Finds",
+    "title_zh": "NREL研究发现，潮汐能可以满足美国57%的电力需求",
+    "url": "https://oilprice.com/Energy/Energy-General/Tidal-Energy-Could-Cover-57-of-US-Electricity-Demand-NREL-Study-Finds.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-02T17:00:00+00:00"
+  },
+  "b75dfe3a741f": {
+    "id": "b75dfe3a741f",
+    "title_en": "Europe EV Sales Report: BEVs Jump 50% & Reach 26% Market Share!",
+    "title_zh": "欧洲电动汽车销售报告：纯电动汽车增长50%，市场份额达到26%！",
+    "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T16:53:37+00:00"
+  },
+  "9d3d3063c3a0": {
+    "id": "9d3d3063c3a0",
+    "title_en": "Is China Winning On AI Because It Just Has A Better Approach To Business?",
+    "title_zh": "中国在人工智能上获胜是因为它有更好的商业方法吗？",
+    "url": "https://cleantechnica.com/2026/08/02/is-china-winning-on-ai-because-it-just-has-a-better-approach-to-business/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T16:30:48+00:00"
+  },
+  "98d7824e42a7": {
+    "id": "98d7824e42a7",
+    "title_en": "Chinese Government Approves Eight New Nuclear Units as Major Reactor Buildout Continues",
+    "title_zh": "中国政府批准八个新的核电机组，主要反应堆建设仍在继续",
+    "url": "https://www.powermag.com/chinese-government-approves-eight-new-nuclear-units-as-major-reactor-buildout-continues/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-02T16:28:33+00:00"
+  },
   "568b40435a2d": {
     "id": "568b40435a2d",
     "title_en": "Believe It Or Not, EV Battery Swapping Is Coming To The US",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-27T06:45:00+00:00"
-  },
-  "96134a851799": {
-    "id": "96134a851799",
-    "title_en": "Ark Energy locks in AU$1.3 billion for 2.2GWh solar-plus-storage site in New South Wales, Australia",
-    "title_zh": "Ark Energy在澳大利亚新南威尔士州为2.2GWh太阳能+储能电站锁定了13亿澳元的投资",
-    "url": "https://www.energy-storage.news/ark-energy-locks-in-au1-3-billion-for-2-2gwh-solar-plus-storage-site-in-new-south-wales-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-27T02:35:14+00:00"
-  },
-  "7d16a367ca45": {
-    "id": "7d16a367ca45",
-    "title_en": "Western Australia begins work on Clean Energy Link – North to unlock ‘solar-rich’ Mid West",
-    "title_zh": "西澳大利亚州启动清洁能源连接项目——北部，以解锁“太阳能资源丰富”的中西部地区",
-    "url": "https://www.pv-tech.org/western-australia-begins-work-on-clean-energy-link-north-to-unlock-solar-rich-mid-west/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-27T02:13:20+00:00"
-  },
-  "5a0cf4ca4c55": {
-    "id": "5a0cf4ca4c55",
-    "title_en": "Meridian Energy bags consent for 110MW solar PV plant in New Zealand",
-    "title_zh": "Meridian Energy获得新西兰110MW太阳能光伏电站的许可",
-    "url": "https://www.pv-tech.org/meridian-energy-bags-consent-for-110mw-solar-pv-plant-in-new-zealand/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-27T02:06:22+00:00"
-  },
-  "4e76dee358cb": {
-    "id": "4e76dee358cb",
-    "title_en": "Trinasolar begins mass production of 515W Vertex S+ G3 module for Australian rooftop market",
-    "title_zh": "天合光能开始为澳大利亚屋顶市场大规模生产515W Vertex S+G3模块",
-    "url": "https://www.pv-tech.org/trinasolar-begins-mass-production-of-515w-vertex-s-g3-module-for-australian-rooftop-market/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-07-27T02:04:20+00:00"
-  },
-  "33d2798dd661": {
-    "id": "33d2798dd661",
-    "title_en": "Partnership with EnergyHub, Sunrun, & The Mobility House to Test Massachusetts Residential Vehicle-to-Grid Program for Eversource & National Grid Customers",
-    "title_zh": "与EnergyHub、Sunrun和Mobility House合作，为Eversource和国家电网客户测试马萨诸塞州住宅车联网计划",
-    "url": "https://cleantechnica.com/2026/07/26/partnership-with-energyhub-sunrun-the-mobility-house-to-test-massachusetts-residential-vehicle-to-grid-program-for-eversource-national-grid-customers/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-27T01:55:33+00:00"
-  },
-  "7f98fe093a56": {
-    "id": "7f98fe093a56",
-    "title_en": "Altus Power Partners with New Leaf Energy on Development of 5 Community Solar Projects in Virginia",
-    "title_zh": "Altus Power与New Leaf Energy合作开发弗吉尼亚州的5个社区太阳能项目",
-    "url": "https://cleantechnica.com/2026/07/26/altus-power-partners-with-new-leaf-energy-on-development-of-5-community-solar-projects-in-virginia/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-27T01:45:02+00:00"
   }
 }
