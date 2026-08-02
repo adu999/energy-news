@@ -1,4 +1,40 @@
 {
+  "568b40435a2d": {
+    "id": "568b40435a2d",
+    "title_en": "Believe It Or Not, EV Battery Swapping Is Coming To The US",
+    "title_zh": "信不信由你，电动汽车电池更换即将进入美国",
+    "url": "https://cleantechnica.com/2026/08/02/ev-battery-swapping-us-fuel-saving-diesel-startup-revoy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T15:24:29+00:00"
+  },
+  "a1a482365ec5": {
+    "id": "a1a482365ec5",
+    "title_en": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
+    "title_zh": "尽管煤炭仍在增长，但中国在清洁能源方面加倍努力",
+    "url": "https://oilprice.com/Energy/Energy-General/China-Doubles-Down-on-Clean-Energy-Even-as-Coal-Keeps-Growing.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-02T15:00:00+00:00"
+  },
+  "d93c48c1ed9a": {
+    "id": "d93c48c1ed9a",
+    "title_en": "Test Drive: BYD eMAX7 & the Quiet Shock of an Electric Future for the Soccer Mom",
+    "title_zh": "试驾：比亚迪eMAX7&足球妈妈电动未来的安静震撼",
+    "url": "https://cleantechnica.com/2026/08/02/test-drive-byd-emax7-the-quiet-shock-of-an-electric-future-for-the-soccer-mom/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T13:35:48+00:00"
+  },
+  "84cc24ba1d93": {
+    "id": "84cc24ba1d93",
+    "title_en": "Funding for Renewables in Asia & Africa Ready",
+    "title_zh": "亚洲和非洲可再生能源融资准备就绪",
+    "url": "https://cleantechnica.com/2026/08/02/funding-for-renewables-in-asia-africa-ready/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-02T13:25:04+00:00"
+  },
   "8536ba836bd9": {
     "id": "8536ba836bd9",
     "title_en": "Here are the best electric bikes you can buy at every price level in August 2026",
@@ -4462,41 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-07-27T01:45:02+00:00"
-  },
-  "96bd9184059d": {
-    "id": "96bd9184059d",
-    "title_en": "Oil Prices Plunge 5% After U.S. and Iran Halt Attacks",
-    "title_zh": "美国和伊朗停止袭击后油价暴跌5%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-After-US-and-Iran-Halt-Attacks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-27T01:06:14+00:00"
-  },
-  "e9c81bdce818": {
-    "id": "e9c81bdce818",
-    "title_en": "China’s Rare Earth Strategy Is Forcing a U.S. Manufacturing Revolution",
-    "title_zh": "中国的稀土战略正在推动美国制造业革命",
-    "url": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Strategy-Is-Forcing-a-US-Manufacturing-Revolution.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-27T00:00:00+00:00"
-  },
-  "975f33fb9e23": {
-    "id": "975f33fb9e23",
-    "title_en": "Standard Chartered: Oil Markets Must Now Price Two Middle East Chokepoints",
-    "title_zh": "渣打银行：石油市场现在必须为两个中东瓶颈定价",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Oil-Markets-Must-Now-Price-Two-Middle-East-Chokepoints.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-26T23:00:00+00:00"
-  },
-  "8d780f6e1526": {
-    "id": "8d780f6e1526",
-    "title_en": "U.S. Jet Fuel Costs Soar as Iran War Hits Airlines Again",
-    "title_zh": "伊朗战争再次袭击航空公司，美国喷气燃料成本飙升",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Jet-Fuel-Costs-Soar-as-Iran-War-Hits-Airlines-Again.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-26T21:00:00+00:00"
   }
 }
