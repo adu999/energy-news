@@ -1,4 +1,85 @@
 {
+  "440deb654646": {
+    "id": "440deb654646",
+    "title_en": "Harold Hamm Bets Bigger on Argentina’s Vaca Muerta Shale Boom",
+    "title_zh": "Harold Hamm加大了对阿根廷Vaca Muerta页岩热潮的押注",
+    "url": "https://oilprice.com/Energy/Energy-General/Harold-Hamm-Bets-Bigger-on-Argentinas-Vaca-Muerta-Shale-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-03T22:00:00+00:00"
+  },
+  "8fada4fe3f6f": {
+    "id": "8fada4fe3f6f",
+    "title_en": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
+    "title_zh": "地热和核能如何帮助美国在能源竞赛中赶上中国",
+    "url": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-03T21:00:00+00:00"
+  },
+  "3f402b0c84bd": {
+    "id": "3f402b0c84bd",
+    "title_en": "Minutes to Exploit—Months to Recover",
+    "title_zh": "利用几分钟——恢复几个月",
+    "url": "https://www.powermag.com/minutes-to-exploit-months-to-recover/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-03T20:51:21+00:00"
+  },
+  "09a3d8fdb431": {
+    "id": "09a3d8fdb431",
+    "title_en": "This solar-powered ‘ambulance’ has a range of up to 444 miles",
+    "title_zh": "这辆太阳能“救护车”的续航里程可达444英里",
+    "url": "https://electrek.co/2026/08/03/this-solar-powered-ambulance-has-a-range-of-up-to-444-miles/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-03T20:44:20+00:00"
+  },
+  "2ff07f591a4e": {
+    "id": "2ff07f591a4e",
+    "title_en": "BYD opens Denza Z9S pre-orders, claiming the ‘world’s longest’ EV range at 1,100 km",
+    "title_zh": "比亚迪开始预订腾势Z9S，声称拥有1100公里的“世界上最长”电动汽车续航里程",
+    "url": "https://electrek.co/2026/08/03/byd-opens-denza-z9s-pre-orders-record-1100-km-ev-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-03T20:05:10+00:00"
+  },
+  "7e05d1385841": {
+    "id": "7e05d1385841",
+    "title_en": "Russia Is Running Out of Soldiers, Oil, and Time",
+    "title_zh": "俄罗斯正在耗尽士兵、石油和时间",
+    "url": "https://oilprice.com/Energy/Energy-General/Russia-Is-Running-Out-of-Soldiers-Oil-and-Time.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-03T20:00:00+00:00"
+  },
+  "64f4bd4c77e2": {
+    "id": "64f4bd4c77e2",
+    "title_en": "Wildfires Are The Earth’s Way Of Telling Us To Change Our Behavior — Or Else",
+    "title_zh": "野火是地球告诉我们改变行为的方式——否则",
+    "url": "https://cleantechnica.com/2026/08/03/wildfires-are-the-earths-way-of-telling-us-to-change-our-behavior-or-else/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-03T19:59:13+00:00"
+  },
+  "1886cec23fee": {
+    "id": "1886cec23fee",
+    "title_en": "Blocking New Imported Inverters Will Cost America",
+    "title_zh": "阻止新的进口逆变器将使美国付出代价",
+    "url": "https://cleantechnica.com/2026/08/03/blocking-new-imported-inverters-will-cost-america/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-03T19:55:36+00:00"
+  },
+  "439ac061bda8": {
+    "id": "439ac061bda8",
+    "title_en": "VinFast Debuts Electric Scooter Lineup and Battery-Swapping Network in the Philippines",
+    "title_zh": "VinFast在菲律宾推出电动滑板车系列和电池更换网络",
+    "url": "https://cleantechnica.com/2026/08/03/vinfast-debuts-electric-scooter-lineup-and-battery-swapping-network-in-the-philippines/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-03T19:54:05+00:00"
+  },
   "36121134faeb": {
     "id": "36121134faeb",
     "title_en": "Ukraine’s Drone Campaign Drives Russian Oil Refining to 24-Year Low",
@@ -4417,86 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-28T07:30:00+00:00"
-  },
-  "ddd9c78f2d87": {
-    "id": "ddd9c78f2d87",
-    "title_en": "Australia Eyes New Oil Refinery to Reduce Reliance on Imported Fuels",
-    "title_zh": "澳大利亚着眼于新建炼油厂，以减少对进口燃料的依赖",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Eyes-New-Oil-Refinery-to-Reduce-Reliance-on-Imported-Fuels.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-28T07:30:00+00:00"
-  },
-  "53163dfe1013": {
-    "id": "53163dfe1013",
-    "title_en": "Want a home battery on a budget? Consider a portable, DIY system.",
-    "title_zh": "想要在预算范围内购买家用电池吗？考虑一个便携式DIY系统。",
-    "url": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-28T07:30:00+00:00"
-  },
-  "bea3d2d87612": {
-    "id": "bea3d2d87612",
-    "title_en": "Solar-powered EV carshare pilot launches in Massachusetts",
-    "title_zh": "太阳能电动汽车共享试点在马萨诸塞州启动",
-    "url": "https://www.canarymedia.com/articles/electric-vehicles/solar-powered-ev-carshare-massachusetts",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-28T07:30:00+00:00"
-  },
-  "a04162380962": {
-    "id": "a04162380962",
-    "title_en": "Open-access framework for intraday PV power prediction",
-    "title_zh": "日内光伏发电量预测的开放获取框架",
-    "url": "https://www.pv-magazine.com/2026/07/28/open-access-framework-for-intraday-pv-power-prediction/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T07:00:00+00:00"
-  },
-  "0efe5ace36d9": {
-    "id": "0efe5ace36d9",
-    "title_en": "How Illinois’ new energy law is creating a market for Chicago properties",
-    "title_zh": "伊利诺伊州的新能源法如何为芝加哥房地产创造市场",
-    "url": "https://www.canarymedia.com/articles/sponsored/illinois-just-ordered-3-gw-of-battery-storage-chicago-landlords-with-spare-land-are-about-to-cash-in",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-28T07:00:00+00:00"
-  },
-  "374114f5d7da": {
-    "id": "374114f5d7da",
-    "title_en": "Saudi Arabia Weighs Higher Asia Crude Prices as Red Sea Shipping Costs Rise",
-    "title_zh": "随着红海航运成本的上升，沙特阿拉伯对亚洲原油价格的上涨表示担忧",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Weighs-Higher-Asia-Crude-Prices-as-Red-Sea-Shipping-Costs-Rise.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-28T06:30:00+00:00"
-  },
-  "2c183db4ce7f": {
-    "id": "2c183db4ce7f",
-    "title_en": "Malaysia launches tender for 2.5GW of solar PV with co-located battery storage",
-    "title_zh": "马来西亚启动2.5GW太阳能光伏与共置电池储能的招标",
-    "url": "https://www.energy-storage.news/malaysia-launches-tender-for-2-5gw-of-solar-pv-with-co-located-battery-storage/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-28T05:17:59+00:00"
-  },
-  "7ba984c5cb4a": {
-    "id": "7ba984c5cb4a",
-    "title_en": "Australian researchers achieve 30.2% efficiency for 10 cm2 perovskite-silicon tandem solar cell",
-    "title_zh": "澳大利亚研究人员实现了10平方厘米钙钛矿硅叠层太阳能电池30.2%的效率",
-    "url": "https://www.pv-magazine.com/2026/07/28/australian-researchers-achieve-30-2-efficiency-for-10-cm2-perovskite-silicon-tandem-solar-cell/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T05:07:45+00:00"
-  },
-  "5787614b6e96": {
-    "id": "5787614b6e96",
-    "title_en": "Hanoi Power Corporation inaugurates the first 100MWh battery storage portfolio in Vietnamese capital",
-    "title_zh": "河内电力公司在越南首都推出首个100MWh电池储能产品组合",
-    "url": "https://www.energy-storage.news/hanoi-power-corporation-inaugurates-the-first-100mwh-battery-storage-portfolio-in-vietnamese-capital/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-28T04:47:11+00:00"
   }
 }
