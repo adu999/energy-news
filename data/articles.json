@@ -1,4 +1,22 @@
 {
+  "af767ab9a3ad": {
+    "id": "af767ab9a3ad",
+    "title_en": "Fuel Cell Trucks And Buses Are Still Coming, And They Still Need More Green Hydrogen",
+    "title_zh": "燃料电池卡车和公共汽车仍在到来，他们仍然需要更多的绿色氢气",
+    "url": "https://cleantechnica.com/2026/08/02/fuel-cell-buses-trucks-green-hydrogen-innovation/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-03T02:06:53+00:00"
+  },
+  "a19c73b76ede": {
+    "id": "a19c73b76ede",
+    "title_en": "Saudi Oil Reroutes Hit Capacity and Security Limits",
+    "title_zh": "沙特石油改道触及产能和安全限制",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-02T23:00:00+00:00"
+  },
   "04cbd524cf08": {
     "id": "04cbd524cf08",
     "title_en": "Top Selling Electric Vehicles in the World — June 2026",
@@ -4480,23 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-07-27T07:30:00+00:00"
-  },
-  "9589e1a1a2f4": {
-    "id": "9589e1a1a2f4",
-    "title_en": "Canadian Solar subsidiary opens 6 GW solar cell factory in Indiana",
-    "title_zh": "加拿大太阳能子公司在印第安纳州开设6GW太阳能电池工厂",
-    "url": "https://www.pv-magazine.com/2026/07/27/canadian-solar-subsidiary-opens-6-gw-solar-cell-factory-in-indiana/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-27T07:20:00+00:00"
-  },
-  "ad67409cfa52": {
-    "id": "ad67409cfa52",
-    "title_en": "Three-year testing assesses wind flow dynamics in solar plants",
-    "title_zh": "三年测试评估太阳能发电厂的风流动力学",
-    "url": "https://www.pv-magazine.com/2026/07/27/three-year-testing-assesses-wind-flow-dynamics-in-solar-plants/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-27T07:00:00+00:00"
   }
 }
