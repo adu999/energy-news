@@ -1,4 +1,31 @@
 {
+  "653ffc9091b9": {
+    "id": "653ffc9091b9",
+    "title_en": "‘You cannot build a whole electricity system purely on solar hybrids’: Squadron Energy CEO warns",
+    "title_zh": "Squadron Energy首席执行官警告说：“你不能纯粹依靠太阳能混合动力车建造一个完整的电力系统”",
+    "url": "https://www.energy-storage.news/you-cannot-build-a-whole-electricity-system-purely-on-solar-hybrids-squadron-energy-ceo-warns/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-03T03:50:49+00:00"
+  },
+  "f3e0785a72aa": {
+    "id": "f3e0785a72aa",
+    "title_en": "Grid-forming BESS not yet confirmed for minimum system strength in Australia as AEMO launches fault current trial",
+    "title_zh": "澳大利亚能源运营管理局启动故障电流试验，尚未确认电网形成BESS在澳大利亚的最低系统强度",
+    "url": "https://www.energy-storage.news/grid-forming-bess-not-yet-confirmed-for-minimum-system-strength-in-australia-as-aemo-launches-fault-current-trial/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-03T03:29:54+00:00"
+  },
+  "f2419ec55815": {
+    "id": "f2419ec55815",
+    "title_en": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
+    "title_zh": "特朗普停止伊朗罢工计划，油价暴跌5%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-03T03:05:00+00:00"
+  },
   "af767ab9a3ad": {
     "id": "af767ab9a3ad",
     "title_en": "Fuel Cell Trucks And Buses Are Still Coming, And They Still Need More Green Hydrogen",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-27T07:40:00+00:00"
-  },
-  "63c4de3f6c8b": {
-    "id": "63c4de3f6c8b",
-    "title_en": "Saipem-Subsea7 Merger Under Microscope as EU Flags Competition Concerns",
-    "title_zh": "Saipem-Subsea7在显微镜下合并，欧盟面临竞争问题",
-    "url": "https://www.offshorewind.biz/2026/07/27/saipem-subsea7-merger-under-microscope-as-eu-flags-competition-concerns/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-27T07:38:10+00:00"
-  },
-  "48ebbb9fa8d8": {
-    "id": "48ebbb9fa8d8",
-    "title_en": "California to offer a novel $3,500 rebate for first-time EV buyers",
-    "title_zh": "加州将为首次购买电动汽车的人提供3500美元的新回扣",
-    "url": "https://www.canarymedia.com/articles/electric-vehicles/california-rebate-ev-buyers",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-27T07:30:00+00:00"
-  },
-  "e6c85193e3a7": {
-    "id": "e6c85193e3a7",
-    "title_en": "US factories are struggling to get cleaner heat. These ideas may help.",
-    "title_zh": "美国工厂正在努力获得更清洁的热量。这些想法可能会有所帮助。",
-    "url": "https://www.canarymedia.com/articles/clean-energy-manufacturing/factories-cleaner-heat-ideas",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-27T07:30:00+00:00"
   }
 }
