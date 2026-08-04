@@ -1,4 +1,49 @@
 {
+  "de6ec31ee51b": {
+    "id": "de6ec31ee51b",
+    "title_en": "Venezuela’s Oil Exports Fall Even as U.S. Shipments Hit Seven-Year High",
+    "title_zh": "委内瑞拉石油出口下降，尽管美国出口量创七年新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Venezuelas-Oil-Exports-Fall-Even-as-US-Shipments-Hit-Seven-Year-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-04T05:30:00+00:00"
+  },
+  "4dad6fa80bb6": {
+    "id": "4dad6fa80bb6",
+    "title_en": "Load smoothing, cold-start backup and speed-to-power: Fluence maps the battery storage opportunity for Australian data centres",
+    "title_zh": "负载平滑、冷启动备份和快速通电：Fluence为澳大利亚数据中心绘制了电池存储机会图",
+    "url": "https://www.energy-storage.news/load-smoothing-cold-start-backup-and-speed-to-power-fluence-maps-the-battery-storage-opportunity-for-australian-data-centres/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-04T04:16:10+00:00"
+  },
+  "33aa8dbf0a48": {
+    "id": "33aa8dbf0a48",
+    "title_en": "Habitat Energy appointed to optimise DC-coupled 614MWh solar-plus-storage portfolio for Octopus Australia",
+    "title_zh": "Habitat Energy获委任为Octopus Australia优化直流耦合614MWh太阳能+储能组合",
+    "url": "https://www.energy-storage.news/habitat-energy-appointed-to-optimise-dc-coupled-614mwh-solar-plus-storage-portfolio-for-octopus-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-04T03:28:43+00:00"
+  },
+  "7c009808f1d1": {
+    "id": "7c009808f1d1",
+    "title_en": "XPENG’s Sales Rise 4% in July",
+    "title_zh": "XPENG 7月份销售额增长4%",
+    "url": "https://cleantechnica.com/2026/08/03/xpengs-sales-rise-4-in-july/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-04T02:31:30+00:00"
+  },
+  "a8cbb88386c0": {
+    "id": "a8cbb88386c0",
+    "title_en": "NIO’s Sales Rise 71% in July",
+    "title_zh": "NIO 7月份销售额增长71%",
+    "url": "https://cleantechnica.com/2026/08/03/nios-sales-rise-71-in-july/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-04T02:30:45+00:00"
+  },
   "6a0c45092363": {
     "id": "6a0c45092363",
     "title_en": "Geely Galaxy Battleship 700 tri-motor stuffs 1,113 hp in a high-luxe, boxy package",
@@ -4453,50 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-07-28T09:54:36+00:00"
-  },
-  "e89d0eac7ba0": {
-    "id": "e89d0eac7ba0",
-    "title_en": "Zenobē buys German BESS developer SDP Energie, inheriting 1.75GW transmission-level pipeline",
-    "title_zh": "Zenobē收购德国BESS开发商SDP Energie，继承1.75GW输电级管道",
-    "url": "https://www.energy-storage.news/zenobe-buys-german-bess-developer-sdp-energie-inheriting-1-75gw-transmission-level-pipeline/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-28T09:40:04+00:00"
-  },
-  "7732324a3268": {
-    "id": "7732324a3268",
-    "title_en": "Mexican graduates develop agrivoltaic system with rainwater harvesting, smart irrigation",
-    "title_zh": "墨西哥毕业生开发了集雨水、智能灌溉的农业光伏系统",
-    "url": "https://www.pv-magazine.com/2026/07/28/mexican-graduates-develop-agrivoltaic-system-with-rainwater-harvesting-smart-irrigation/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T09:40:00+00:00"
-  },
-  "7dc9f1915b39": {
-    "id": "7dc9f1915b39",
-    "title_en": "Cyprus Launches First Gas Project with Eni and TotalEnergies Backing",
-    "title_zh": "塞浦路斯在埃尼集团和道达尔能源的支持下启动首个天然气项目",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Cyprus-Launches-First-Gas-Project-with-Eni-and-TotalEnergies-Backing.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-28T09:30:00+00:00"
-  },
-  "289613fc7d84": {
-    "id": "289613fc7d84",
-    "title_en": "Liverpool Bay CCS secures seabed lease for UK carbon storage project",
-    "title_zh": "利物浦湾CCS为英国碳储存项目获得海底租赁",
-    "url": "https://www.energymonitor.ai/news/liverpool-bay-ccs-secures-seabed-lease/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-28T09:30:00+00:00"
-  },
-  "0c531f4660b9": {
-    "id": "0c531f4660b9",
-    "title_en": "Solmeria opens platform for buying solar, storage projects",
-    "title_zh": "Solmeria为购买太阳能和储能项目提供平台",
-    "url": "https://www.pv-magazine.com/2026/07/28/solmeria-opens-platform-for-buying-solar-storage-projects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T09:20:00+00:00"
   }
 }
