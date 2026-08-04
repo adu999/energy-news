@@ -1,4 +1,94 @@
 {
+  "0a3b201d330c": {
+    "id": "0a3b201d330c",
+    "title_en": "IRENA opens funding call for renewable energy projects in Central America, the Caribbean",
+    "title_zh": "IRENA开始为中美洲和加勒比海地区的可再生能源项目筹集资金",
+    "url": "https://www.pv-magazine.com/2026/08/04/irena-opens-funding-call-for-renewable-energy-projects-in-central-america-the-caribbean/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-04T08:30:00+00:00"
+  },
+  "00fbb1df2260": {
+    "id": "00fbb1df2260",
+    "title_en": "Germany’s Energy Demand Falls as High Prices Hit Oil Consumption",
+    "title_zh": "高油价打击石油消费，德国能源需求下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-04T08:15:00+00:00"
+  },
+  "3b6009c6ccad": {
+    "id": "3b6009c6ccad",
+    "title_en": "Floating PV systems may face lower humidity stress than ground-mounted counterparts",
+    "title_zh": "浮式光伏系统可能面临比地面安装的光伏系统更低的湿度应力",
+    "url": "https://www.pv-magazine.com/2026/08/04/floating-pv-systems-may-face-lower-humidity-stress-than-ground-mounted-counterparts/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-04T08:00:00+00:00"
+  },
+  "d17678e8b1a4": {
+    "id": "d17678e8b1a4",
+    "title_en": "Photovoltaics feed record 12 TWh into Germany’s public grid in July",
+    "title_zh": "7月份，光伏发电向德国公共电网输送了创纪录的12 TWh",
+    "url": "https://www.pv-magazine.com/2026/08/04/photovoltaics-feed-record-12-twh-into-germanys-public-grid-in-july/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-04T07:30:00+00:00"
+  },
+  "2cbf430e88e5": {
+    "id": "2cbf430e88e5",
+    "title_en": "Data centers take center stage in Wisconsin governor’s race",
+    "title_zh": "数据中心在威斯康星州州长竞选中占据中心地位",
+    "url": "https://www.canarymedia.com/articles/data-centers/wisconsin-governors-race",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-04T07:30:00+00:00"
+  },
+  "e71b5d33f119": {
+    "id": "e71b5d33f119",
+    "title_en": "Massachusetts embraces backyard homes as housing and climate solution",
+    "title_zh": "马萨诸塞州将后院住宅作为住房和气候解决方案",
+    "url": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-embraces-backyard-homes",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-04T07:30:00+00:00"
+  },
+  "6957608775d4": {
+    "id": "6957608775d4",
+    "title_en": "How to bring a geothermal well back from the dead",
+    "title_zh": "如何让地热井起死回生",
+    "url": "https://www.canarymedia.com/articles/geothermal/zanskar-brings-geothermal-well-back",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-04T07:30:00+00:00"
+  },
+  "609f637f3236": {
+    "id": "609f637f3236",
+    "title_en": "Two 100 MW Floating Wind Demo Projects Enter Lease Agreement with Crown Estate",
+    "title_zh": "两个100兆瓦浮式风电示范项目与皇冠地产签订租赁协议",
+    "url": "https://www.offshorewind.biz/2026/08/04/two-100-mw-floating-wind-demo-projects-enter-lease-agreement-with-crown-estate/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-04T07:18:14+00:00"
+  },
+  "b9078b5781a9": {
+    "id": "b9078b5781a9",
+    "title_en": "Waste solar silicon repurposed as support for palladium nanoparticle catalysts",
+    "title_zh": "废太阳能硅被重新用作钯纳米粒子催化剂的载体",
+    "url": "https://www.pv-magazine.com/2026/08/04/waste-solar-silicon-repurposed-as-support-for-palladium-nanoparticle-catalysts/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-04T07:00:00+00:00"
+  },
+  "0c523ddf79ac": {
+    "id": "0c523ddf79ac",
+    "title_en": "Tanker Traffic Remains Subdued Despite Trump’s Talk of Peace",
+    "title_zh": "尽管特朗普谈论和平，但油轮交通仍然疲软",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-04T06:45:00+00:00"
+  },
   "de6ec31ee51b": {
     "id": "de6ec31ee51b",
     "title_en": "Venezuela’s Oil Exports Fall Even as U.S. Shipments Hit Seven-Year High",
@@ -4408,95 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-28T11:30:00+00:00"
-  },
-  "1a85c0693a65": {
-    "id": "1a85c0693a65",
-    "title_en": "Red Sea Tanker Traffic Hits Multi-Month Low as Houthi Threat Holds",
-    "title_zh": "胡塞威胁持续，红海油轮运输量创下数月新低",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Tanker-Traffic-Hits-Multi-Month-Low-as-Houthi-Threat-Holds.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-28T11:30:00+00:00"
-  },
-  "d9415793b79e": {
-    "id": "d9415793b79e",
-    "title_en": "Romanian Gov’t Identifies Six Offshore Wind Areas, Plans to Have 3.1 GW Installed by 2035",
-    "title_zh": "罗马尼亚政府确定了六个海上风电区域，计划到2035年安装3.1吉瓦",
-    "url": "https://www.offshorewind.biz/2026/07/28/romanian-govt-identifies-six-offshore-wind-areas-plans-to-have-3-1-gw-installed-by-2035/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-28T11:23:34+00:00"
-  },
-  "d31c7a80d7d3": {
-    "id": "d31c7a80d7d3",
-    "title_en": "Algeria’s solar market moves beyond potential",
-    "title_zh": "阿尔及利亚太阳能市场超越潜力",
-    "url": "https://www.pv-magazine.com/2026/07/28/algerias-solar-market-moves-beyond-potential/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T11:00:00+00:00"
-  },
-  "1e8eded478f0": {
-    "id": "1e8eded478f0",
-    "title_en": "Chile forecasts up to 58 GW of new solar capacity by 2057",
-    "title_zh": "智利预计到2057年新增太阳能装机容量将达到58吉瓦",
-    "url": "https://www.pv-magazine.com/2026/07/28/chile-could-add-up-to-58-gw-of-new-solar-capacity-by-2057/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T10:30:00+00:00"
-  },
-  "e3c743b3adf2": {
-    "id": "e3c743b3adf2",
-    "title_en": "Iran Races to Fortify Its Most Vital Oil Terminal as U.S. Threats Persist",
-    "title_zh": "随着美国的威胁持续存在，伊朗竞相加强其最重要的石油码头",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Races-to-Fortify-Its-Most-Vital-Oil-Terminal-as-US-Threats-Persist.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-28T10:30:00+00:00"
-  },
-  "fffd0fbd9164": {
-    "id": "fffd0fbd9164",
-    "title_en": "Inside the container: looking at CATL’s sodium-ion Tener’s specs",
-    "title_zh": "容器内部：查看CATL的钠离子Tener规格",
-    "url": "https://www.energy-storage.news/inside-the-container-looking-at-catls-sodium-ion-teners-specs/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-28T10:19:21+00:00"
-  },
-  "9930309c7ed8": {
-    "id": "9930309c7ed8",
-    "title_en": "VIDEO: How Envision Energy is positioning itself as a system-level energy infrastructure provider",
-    "title_zh": "视频：远景能源如何将自己定位为系统级能源基础设施提供商",
-    "url": "https://www.energy-storage.news/video-how-envision-energy-is-positioning-itself-as-a-system-level-energy-infrastructure-provider/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-28T10:14:53+00:00"
-  },
-  "b5cbf2b2b6b1": {
-    "id": "b5cbf2b2b6b1",
-    "title_en": "Galp beats rival to acquire onshore wind portfolio in Spain",
-    "title_zh": "Galp击败竞争对手收购西班牙陆上风电投资组合",
-    "url": "https://www.windpowermonthly.com/article/1965852/galp-beats-rival-acquire-onshore-wind-portfolio-spain",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-28T10:03:26+00:00"
-  },
-  "7258a440dcf7": {
-    "id": "7258a440dcf7",
-    "title_en": "OCI Holdings plans to double polysilicon production capacity by 2029",
-    "title_zh": "OCI控股计划到2029年将多晶硅产能翻一番",
-    "url": "https://www.pv-magazine.com/2026/07/28/oci-holdings-plans-to-double-polysilicon-production-capacity-by-2029/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-28T10:00:00+00:00"
-  },
-  "40a8805564e4": {
-    "id": "40a8805564e4",
-    "title_en": "Forecasts are always wrong: Co-location depends on real-time data and integration",
-    "title_zh": "预测总是错误的：共置取决于实时数据和集成",
-    "url": "https://www.energy-storage.news/forecasts-are-always-wrong-co-location-depends-on-real-time-data-and-integration/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-28T09:54:36+00:00"
   }
 }
