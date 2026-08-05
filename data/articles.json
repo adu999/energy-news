@@ -1,4 +1,49 @@
 {
+  "ba45d582dea8": {
+    "id": "ba45d582dea8",
+    "title_en": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+    "title_zh": "大型科技公司转向燃料电池为人工智能热潮提供动力",
+    "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T22:00:00+00:00"
+  },
+  "e7d1ae7cecc4": {
+    "id": "e7d1ae7cecc4",
+    "title_en": "Venezuela’s Oil Production Grows at a Crucial Time Despite Challenges",
+    "title_zh": "委内瑞拉石油产量在关键时刻增长，尽管面临挑战",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Production-Grows-at-a-Crucial-Time-Despite-Challenges.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T21:00:00+00:00"
+  },
+  "36bd8975d822": {
+    "id": "36bd8975d822",
+    "title_en": "Tesla Megapacks power Ørsted’s big new Texas grid battery",
+    "title_zh": "特斯拉Megapacks为Ørsted的大型新型德克萨斯电网电池供电",
+    "url": "https://electrek.co/2026/08/05/tesla-megapack-power-orsted-big-new-texas-grid-battery/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-05T20:45:27+00:00"
+  },
+  "6dbf0bdda13a": {
+    "id": "6dbf0bdda13a",
+    "title_en": "Philippines Could Become the World's First Geologic Hydrogen Hub",
+    "title_zh": "菲律宾可能成为世界上第一个地质氢中心",
+    "url": "https://oilprice.com/Energy/Energy-General/Philippines-Could-Become-the-Worlds-First-Geologic-Hydrogen-Hub.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T20:00:00+00:00"
+  },
+  "5c7f71fa5c48": {
+    "id": "5c7f71fa5c48",
+    "title_en": "Trump weaponizes FCC to ban new foreign-made connected solar inverters",
+    "title_zh": "特朗普将FCC武器化，禁止新的外国制造的连接太阳能逆变器",
+    "url": "https://electrek.co/2026/08/05/fcc-bans-foreign-made-connected-solar-inverters/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-05T19:55:00+00:00"
+  },
   "d8420d078ad2": {
     "id": "d8420d078ad2",
     "title_en": "Ørsted adds 500 MWh of Tesla BESS to ERCOT grid",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-30T08:45:00+00:00"
-  },
-  "3c89c2027479": {
-    "id": "3c89c2027479",
-    "title_en": "Tesla, ContourGlobal enter 1 TWh solar-storage PPA in Arizona",
-    "title_zh": "特斯拉与ContourGlobal在亚利桑那州签订1 TWh太阳能储能PPA",
-    "url": "https://www.pv-magazine.com/2026/07/30/tesla-contourglobal-enter-1-twh-solar-storage-ppa-in-arizona/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T08:30:00+00:00"
-  },
-  "372874fd272f": {
-    "id": "372874fd272f",
-    "title_en": "CS Wind Offshore Delivers First Nordlicht I Transition Pieces",
-    "title_zh": "CS Wind Offshore交付首批Nordlicht I过渡件",
-    "url": "https://www.offshorewind.biz/2026/07/30/cs-wind-offshore-delivers-first-nordlicht-i-transition-pieces/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-30T08:02:31+00:00"
-  },
-  "79d0342f948c": {
-    "id": "79d0342f948c",
-    "title_en": "Chinese researchers build 29.71% perovskite-CIGS tandem solar cell based on sulfide",
-    "title_zh": "中国研究人员建造了基于硫化物的29.71%钙钛矿CIGS叠层太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/07/30/chinese-researchers-build-29-71-perovskite-cigs-tandem-solar-cell-based-on-sulfide/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T08:00:00+00:00"
-  },
-  "e34f7f668f70": {
-    "id": "e34f7f668f70",
-    "title_en": "Elia Group and CPP to acquire Tarchon UK-Germany interconnector",
-    "title_zh": "Elia Group和CPP将收购Tarchon英德互联线路",
-    "url": "https://www.energymonitor.ai/news/elia-group-cpp-acquire-tarchon/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-30T07:48:49+00:00"
-  },
-  "90c4916aff15": {
-    "id": "90c4916aff15",
-    "title_en": "South Africa energizes 216 MW solar, 500 MWh BESS project",
-    "title_zh": "南非为216兆瓦太阳能、500兆瓦时BESS项目供电",
-    "url": "https://www.pv-magazine.com/2026/07/30/south-africa-energizes-216-mw-solar-500-mwh-bess-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T07:30:00+00:00"
   }
 }
