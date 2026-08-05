@@ -1,4 +1,76 @@
 {
+  "d7da924b6883": {
+    "id": "d7da924b6883",
+    "title_en": "BYD Achieves Record Exports With 124% Growth",
+    "title_zh": "比亚迪出口创纪录，增长124%",
+    "url": "https://cleantechnica.com/2026/08/04/byd-achieves-record-exports-with-124-growth/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T02:17:25+00:00"
+  },
+  "d1e084400e30": {
+    "id": "d1e084400e30",
+    "title_en": "The Elusive Dream Of Solar Powered EVs Is Not So Elusive After All",
+    "title_zh": "太阳能电动汽车的难以捉摸的梦想毕竟并不那么难以捉摸",
+    "url": "https://cleantechnica.com/2026/08/04/solar-powered-ev-aptera-qualifies-california-hov-lanes/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T02:05:09+00:00"
+  },
+  "00d17612b316": {
+    "id": "00d17612b316",
+    "title_en": "BYD BEV Sales Rise 31% in July!",
+    "title_zh": "比亚迪7月份纯电动汽车销量增长31%！",
+    "url": "https://cleantechnica.com/2026/08/04/byd-bev-sales-rise-31-in-july/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T01:45:13+00:00"
+  },
+  "60acd31010ed": {
+    "id": "60acd31010ed",
+    "title_en": "Base Power raises $1B to get big batteries into more homes",
+    "title_zh": "Base Power筹集了10亿美元，将大型电池引入更多家庭",
+    "url": "https://www.canarymedia.com/articles/batteries/base-power-raises-1b-to-get-big-batteries-into-more-homes",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-05T01:27:00+00:00"
+  },
+  "0cc3f77468e9": {
+    "id": "0cc3f77468e9",
+    "title_en": "The Fast Lane: 3 Ways Geothermal Companies Can Get More Heat",
+    "title_zh": "快速通道：地热公司获得更多热量的3种方式",
+    "url": "https://cleantechnica.com/2026/08/04/the-fast-lane-3-ways-geothermal-companies-can-get-more-heat/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T01:04:39+00:00"
+  },
+  "8f3a015964f7": {
+    "id": "8f3a015964f7",
+    "title_en": "Court rules against Trump EPA’s freeze of $20B in ‘green bank’ funds",
+    "title_zh": "法院裁定特朗普环保局冻结200亿美元的“绿色银行”资金",
+    "url": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-04T23:37:00+00:00"
+  },
+  "2086bff9b987": {
+    "id": "2086bff9b987",
+    "title_en": "Lucid’s smaller Cosmos SUV, slated for 2026, has been pushed back to 2027",
+    "title_zh": "Lucid计划于2026年推出的较小的Cosmos SUV已推迟到2027年",
+    "url": "https://electrek.co/2026/08/04/lucids-smaller-cosmos-suv-slated-for-2026-has-been-pushed-back-to-2027/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-04T23:24:17+00:00"
+  },
+  "b85317d2e959": {
+    "id": "b85317d2e959",
+    "title_en": "Students To Help Identify Retirement Options for Energy Technologies",
+    "title_zh": "学生帮助确定能源技术的退休选择",
+    "url": "https://cleantechnica.com/2026/08/04/students-to-help-identify-retirement-options-for-energy-technologies/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-04T23:09:40+00:00"
+  },
   "8d903eae0588": {
     "id": "8d903eae0588",
     "title_en": "U.S. Hits New Obstacle on Critical Mineral Security Course",
@@ -6,6 +78,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-08-04T22:00:00+00:00"
+  },
+  "e4735b13b8f1": {
+    "id": "e4735b13b8f1",
+    "title_en": "Microreactor startup Valar Atomics raises $1B",
+    "title_zh": "微反应堆初创公司Valar Atomics融资10亿美元",
+    "url": "https://www.canarymedia.com/articles/nuclear/microreactor-startup-valar-atomics-raises-1b",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-08-04T22:00:00+00:00"
   },
   "f35f7892890e": {
@@ -4417,86 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-29T10:30:00+00:00"
-  },
-  "516bb18ea7a3": {
-    "id": "516bb18ea7a3",
-    "title_en": "Uniper chooses SLB Capturi for UK gas power project",
-    "title_zh": "Uniper选择SLB Capturi用于英国天然气发电项目",
-    "url": "https://www.energymonitor.ai/news/uniper-chooses-slb-capturi/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-07-29T10:30:00+00:00"
-  },
-  "587b08ef7264": {
-    "id": "587b08ef7264",
-    "title_en": "Financing secured for Timor-Leste’s first solar-storage project",
-    "title_zh": "东帝汶首个太阳能储能项目获得融资",
-    "url": "https://www.pv-magazine.com/2026/07/29/financing-secured-for-timor-lestes-first-solar-storage-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T09:30:00+00:00"
-  },
-  "1d22274e8246": {
-    "id": "1d22274e8246",
-    "title_en": "Eni Increases 2026 Buybacks as Production Growth Accelerates",
-    "title_zh": "随着产量增长加速，埃尼集团增加了2026年的回购",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Eni-Increases-2026-Buybacks-as-Production-Growth-Accelerates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T09:30:00+00:00"
-  },
-  "7b8102496db3": {
-    "id": "7b8102496db3",
-    "title_en": "Wreckage of 300 year-old Dutch ship found during offshore wind cable laying",
-    "title_zh": "海上风电电缆铺设过程中发现300年前荷兰船只残骸",
-    "url": "https://www.windpowermonthly.com/article/1965980/wreckage-300-year-old-dutch-ship-found-during-offshore-wind-cable-laying",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-29T09:22:46+00:00"
-  },
-  "75eb1bb7641c": {
-    "id": "75eb1bb7641c",
-    "title_en": "Italy gives 599 MW agrivoltaic project positive environmental assessment",
-    "title_zh": "意大利对599兆瓦的农业光伏项目进行积极的环境评估",
-    "url": "https://www.pv-magazine.com/2026/07/29/italy-gives-599-mw-agrivoltaic-project-positive-environmental-assessment/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T09:00:00+00:00"
-  },
-  "1f08ea9897a2": {
-    "id": "1f08ea9897a2",
-    "title_en": "The US clean energy boom will continue to 2030. Then things get hazy.",
-    "title_zh": "美国清洁能源热潮将持续到2030年。然后事情变得模糊不清。",
-    "url": "https://www.canarymedia.com/articles/clean-energy/us-clean-energy-boom-rhodium",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-29T09:00:00+00:00"
-  },
-  "2a08a2ea516f": {
-    "id": "2a08a2ea516f",
-    "title_en": "Bhutan tenders solar systems for three schools",
-    "title_zh": "不丹为三所学校招标太阳能系统",
-    "url": "https://www.pv-magazine.com/2026/07/29/bhutan-tenders-solar-systems-for-three-schools/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T08:40:00+00:00"
-  },
-  "f3a282da55c8": {
-    "id": "f3a282da55c8",
-    "title_en": "RVO Launches Tender for Benthic Survey at Doordewind Offshore Wind Zone",
-    "title_zh": "RVO启动门上风海上风区海底调查招标",
-    "url": "https://www.offshorewind.biz/2026/07/29/rvo-launches-tender-for-benthic-survey-at-doordewind-offshore-wind-zone/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-29T08:36:30+00:00"
-  },
-  "767423b9cece": {
-    "id": "767423b9cece",
-    "title_en": "Vestas blade breaks at German North Sea wind farm",
-    "title_zh": "德国北海风电场维斯塔斯叶片断裂",
-    "url": "https://www.windpowermonthly.com/article/1965966/vestas-blade-breaks-german-north-sea-wind-farm",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-29T08:30:53+00:00"
   }
 }
