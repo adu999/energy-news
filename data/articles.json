@@ -1,4 +1,211 @@
 {
+  "0bacc2922ff0": {
+    "id": "0bacc2922ff0",
+    "title_en": "Kia’s electric van is crushing it in Europe with a 37% share of small EV van sales",
+    "title_zh": "起亚的电动货车在欧洲以37%的小型电动货车销量份额压倒了它",
+    "url": "https://electrek.co/2026/08/05/kia-pv5-captures-37-europes-small-ev-van-market/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-05T14:04:39+00:00"
+  },
+  "3f3bf260e110": {
+    "id": "3f3bf260e110",
+    "title_en": "Ukraine Calls for Faster Patriot Deliveries After Deadly Russian Missile Barrage",
+    "title_zh": "乌克兰呼吁在俄罗斯致命导弹袭击后更快地交付爱国者",
+    "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Calls-for-Faster-Patriot-Deliveries-After-Deadly-Russian-Missile-Barrage.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T14:00:00+00:00"
+  },
+  "2cf1d537b347": {
+    "id": "2cf1d537b347",
+    "title_en": "Op-Ed: Pax Silica Could Complicate Philippine & Regional Sustainable Energy Goals",
+    "title_zh": "专栏文章：二氧化硅和平可能会使菲律宾和地区可持续能源目标复杂化",
+    "url": "https://cleantechnica.com/2026/08/05/op-ed-pax-silica-could-complicate-philippine-regional-sustainable-energy-goals/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T13:58:56+00:00"
+  },
+  "be17d8bd17ff": {
+    "id": "be17d8bd17ff",
+    "title_en": "JinkoSolar, LONGi Green and Canadian Solar focus on module efficiency and quality ahead of new mandatory Chinese PV standards",
+    "title_zh": "晶科太阳能、隆基绿色和加拿大太阳能在新的强制性中国光伏标准之前专注于组件效率和质量",
+    "url": "https://www.pv-tech.org/jinkosolar-longi-green-canadian-solar-module-efficiency-quality-mandatory-chinese-pv-standards/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T13:57:00+00:00"
+  },
+  "81b3bc9ae4fe": {
+    "id": "81b3bc9ae4fe",
+    "title_en": "The 14 Manufacturers Participating in California’s New MyFirstEV Program",
+    "title_zh": "参与加州新MyFirstEV计划的14家制造商",
+    "url": "https://cleantechnica.com/2026/08/05/the-14-manufacturers-participating-in-californias-new-myfirstev-program/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T13:54:00+00:00"
+  },
+  "636e91464a55": {
+    "id": "636e91464a55",
+    "title_en": "AI’s Obstacle: Why the Grid Can’t Keep Pace With the Data Center Boom",
+    "title_zh": "人工智能的障碍：为什么电网无法跟上数据中心的繁荣",
+    "url": "https://www.powermag.com/ais-obstacle-why-the-grid-cant-keep-pace-with-the-data-center-boom/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-05T13:53:27+00:00"
+  },
+  "0d400d07ae94": {
+    "id": "0d400d07ae94",
+    "title_en": "Base Power begins manufacturing 39.2-kWh residential battery in Texas",
+    "title_zh": "Base Power开始在德克萨斯州生产39.2千瓦时的家用电池",
+    "url": "https://www.solarpowerworldonline.com/2026/08/base-power-begins-manufacturing-39-2-kwh-residential-battery-in-texas/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T13:51:05+00:00"
+  },
+  "8cc3028518be": {
+    "id": "8cc3028518be",
+    "title_en": "Spain’s MITECO allocates €360 million to co-located BESS with agriPV, floating solar",
+    "title_zh": "西班牙MITECO拨款3.6亿欧元用于BESS与agriPV、浮动太阳能的共置",
+    "url": "https://www.pv-tech.org/spains-miteco-allocates-e360-million-to-co-located-bess-with-agripv-floating-solar/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T13:32:19+00:00"
+  },
+  "f1f9ae4d8f2f": {
+    "id": "f1f9ae4d8f2f",
+    "title_en": "Iraq-Syria Pipeline to Bypass Hormuz Could Be Revived Within 3 Years",
+    "title_zh": "伊拉克-叙利亚绕过霍尔木兹的管道可能在3年内恢复",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Syria-Pipeline-to-Bypass-Hormuz-Could-Be-Revived-Within-3-Years.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T13:30:00+00:00"
+  },
+  "7f78f7541e3b": {
+    "id": "7f78f7541e3b",
+    "title_en": "A month after Congress killed the solar tax credit, the industry is anything but dead",
+    "title_zh": "国会取消太阳能税收抵免一个月后，该行业一点也没有死",
+    "url": "https://electrek.co/2026/08/05/a-month-after-congress-killed-the-solar-tax-credit-the-industry-is-anything-but-dead/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-05T13:23:19+00:00"
+  },
+  "d5e62fd20dc3": {
+    "id": "d5e62fd20dc3",
+    "title_en": "Steelwind Completes Baltica 2 Monopile Deliveries",
+    "title_zh": "Steelwind完成Baltica 2单桩交付",
+    "url": "https://www.offshorewind.biz/2026/08/05/steelwind-completes-baltica-2-monopile-deliveries/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-05T13:15:00+00:00"
+  },
+  "27b0b8c88bc2": {
+    "id": "27b0b8c88bc2",
+    "title_en": "NYC Council preparing nearly 20 new e-bike laws and restrictions",
+    "title_zh": "纽约市议会正在制定近20项新的电动自行车法律和限制",
+    "url": "https://electrek.co/2026/08/05/nyc-council-preparing-nearly-20-new-e-bike-laws-and-restrictions/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-05T13:14:00+00:00"
+  },
+  "4951991d6078": {
+    "id": "4951991d6078",
+    "title_en": "Chinese authorities suspend 18.33 GW ingot expansion over 3-for-1 capacity requirement",
+    "title_zh": "中国当局暂停18.33吉瓦钢锭扩建，超过3比1的产能要求",
+    "url": "https://www.pv-magazine.com/2026/08/05/chinese-authorities-suspend-18-33-gw-ingot-expansion-over-3-for-1-capacity-requirement/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T12:40:00+00:00"
+  },
+  "dfcbf5984452": {
+    "id": "dfcbf5984452",
+    "title_en": "Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in Red Sea",
+    "title_zh": "胡塞声称弹道导弹在红海击中沙特油轮",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Ballistic-Missile-Hit-on-Saudi-Oil-Tanker-in-Red-Sea.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T12:30:00+00:00"
+  },
+  "0ec7846471e5": {
+    "id": "0ec7846471e5",
+    "title_en": "Shoals posts record quarterly revenue of US163.4 million, returns to profitability in Q2 2026",
+    "title_zh": "Shoals公布了1.634亿美元的季度收入，并于2026年第二季度恢复盈利",
+    "url": "https://www.pv-tech.org/shoals-record-quarterly-revenue-us163-4-million-profitability-q2-2026/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T12:22:47+00:00"
+  },
+  "f5b314691ecc": {
+    "id": "f5b314691ecc",
+    "title_en": "Bangladesh hits 1 GW rooftop solar capacity",
+    "title_zh": "孟加拉国屋顶太阳能发电量达到1GW",
+    "url": "https://www.pv-magazine.com/2026/08/05/bangladesh-hits-1-gw-rooftop-solar-capacity/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T12:20:00+00:00"
+  },
+  "01ae5561636b": {
+    "id": "01ae5561636b",
+    "title_en": "Southern Power starts commercial operations at second phase of Millers Branch solar farm, signs seven-party VPPA",
+    "title_zh": "南方电力公司在Millers Branch太阳能发电厂二期开始商业运营，签署了七方VPPA协议",
+    "url": "https://www.pv-tech.org/southern-power-commercial-operations-second-phase-millers-branch-solar-seven-party-vppa/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T12:06:20+00:00"
+  },
+  "e4d59c5abf1d": {
+    "id": "e4d59c5abf1d",
+    "title_en": "Thailand registers solar installers, equipment ahead of rooftop PV expansion",
+    "title_zh": "泰国在屋顶光伏扩建前登记太阳能安装商和设备",
+    "url": "https://www.pv-magazine.com/2026/08/05/thailand-registers-solar-installers-equipment-ahead-of-rooftop-pv-expansion/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T12:00:00+00:00"
+  },
+  "82986b40bba2": {
+    "id": "82986b40bba2",
+    "title_en": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
+    "title_zh": "Base Power为美国住宅BESS再筹集10亿美元的D轮融资",
+    "url": "https://www.energy-storage.news/base-power-raises-another-us1-billion-in-series-d-financing-for-us-residential-bess/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-05T11:56:06+00:00"
+  },
+  "e9ca2d8d416d": {
+    "id": "e9ca2d8d416d",
+    "title_en": "Offshore Wind Sets New UK Generation Record in 2025",
+    "title_zh": "2025年，海上风电创下英国发电量新纪录",
+    "url": "https://www.offshorewind.biz/2026/08/05/offshore-wind-sets-new-uk-generation-record-in-2025/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-05T11:45:00+00:00"
+  },
+  "c49db94203ce": {
+    "id": "c49db94203ce",
+    "title_en": "MNRE adds 12.7GW of solar module capacity to ALMM-I, total listed capacity exceeds 217GW",
+    "title_zh": "MNRE为ALMM-I增加了12.7GW的太阳能组件容量，总上市容量超过217GW",
+    "url": "https://www.pv-tech.org/mnre-adds-12-7gw-of-solar-module-capacity-to-almm-i-total-listed-capacity-exceeds-217gw/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T11:33:32+00:00"
+  },
+  "48191c515b78": {
+    "id": "48191c515b78",
+    "title_en": "Fraunhofer ISE, Source Energy develop silicon PV modules for space satellites",
+    "title_zh": "弗劳恩霍夫ISE和Source Energy为太空卫星开发硅光伏模块",
+    "url": "https://www.pv-magazine.com/2026/08/05/fraunhofer-ise-source-energy-develop-silicon-pv-modules-for-space-satellites/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T11:30:00+00:00"
+  },
+  "a35e255d0b07": {
+    "id": "a35e255d0b07",
+    "title_en": "Oil Price Rally Boosts Glencore’s First-Half Profit",
+    "title_zh": "油价上涨提振嘉能可上半年利润",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Rally-Boosts-Glencores-First-Half-Profit.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T11:30:00+00:00"
+  },
   "3f8084401a8a": {
     "id": "3f8084401a8a",
     "title_en": "Hydrogen-iron flow batteries: How Elestor’s tech works",
@@ -4291,212 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-07-29T21:00:00+00:00"
-  },
-  "9ab5aca8f5d5": {
-    "id": "9ab5aca8f5d5",
-    "title_en": "China Gives Strong Signal on Connected & Autonomous New Energy Vehicles",
-    "title_zh": "中国在互联和自动驾驶新能源汽车方面发出强烈信号",
-    "url": "https://cleantechnica.com/2026/07/29/china-gives-strong-signal-on-connected-autonomous-new-energy-vehicles/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-29T20:39:33+00:00"
-  },
-  "5c9adec25438": {
-    "id": "5c9adec25438",
-    "title_en": "Biggest battery east of the Mississippi will help power AI complex",
-    "title_zh": "密西西比河以东最大的电池将为人工智能综合体供电",
-    "url": "https://www.canarymedia.com/articles/batteries/eolian-build-pjm-biggest-battery-ai-ohio",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-29T20:30:00+00:00"
-  },
-  "b84fdf5120c1": {
-    "id": "b84fdf5120c1",
-    "title_en": "Trump Administration Picks Five States for Nuclear Fuel-Cycle Hubs",
-    "title_zh": "特朗普政府选择五个州建立核燃料循环中心",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trump-Administration-Picks-Five-States-for-Nuclear-Fuel-Cycle-Hubs.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T20:00:00+00:00"
-  },
-  "2f5533590cc5": {
-    "id": "2f5533590cc5",
-    "title_en": "The new Mercedes GLA EV is bigger, smarter, and has a range of over 400 miles",
-    "title_zh": "新款梅赛德斯GLA电动汽车更大、更智能，续航里程超过400英里",
-    "url": "https://electrek.co/2026/07/29/new-mercedes-gla-ev-bigger-400-miles-range/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-29T19:53:51+00:00"
-  },
-  "b3e157056b2b": {
-    "id": "b3e157056b2b",
-    "title_en": "BMW Targets 8,000 More Job Cuts in Fresh Cost-Cutting Drive",
-    "title_zh": "宝马计划再裁员8000人以削减成本",
-    "url": "https://oilprice.com/Energy/Energy-General/BMW-Targets-8000-More-Job-Cuts-in-Fresh-Cost-Cutting-Drive.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T19:00:00+00:00"
-  },
-  "30a70a935ba5": {
-    "id": "30a70a935ba5",
-    "title_en": "ARRAY Technologies debuts new foundations for solar trackers",
-    "title_zh": "ARRAY Technologies推出太阳能跟踪器的新基础",
-    "url": "https://www.solarpowerworldonline.com/2026/07/array-technologies-debuts-new-foundations-for-solar-trackers/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T18:41:45+00:00"
-  },
-  "b73d80ad9819": {
-    "id": "b73d80ad9819",
-    "title_en": "Momenta To Test Robotaxis Across Germany, Uber Invests More",
-    "title_zh": "Momenta将在德国各地测试机器人出租车，优步将加大投资",
-    "url": "https://cleantechnica.com/2026/07/29/momenta-to-test-robotaxis-across-germany-uber-invests-more/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-29T18:32:24+00:00"
-  },
-  "c24de724da17": {
-    "id": "c24de724da17",
-    "title_en": "Gas Is Letting Data Centers Grow Beyond the Grid",
-    "title_zh": "Gas让数据中心在电网之外发展",
-    "url": "https://about.bnef.com/insights/data-centers/gas-is-letting-data-centers-grow-beyond-the-grid/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-07-29T18:28:15+00:00"
-  },
-  "50276b6e2762": {
-    "id": "50276b6e2762",
-    "title_en": "The 2027 Cadillac Lyriq gains a key upgrade for $200 more",
-    "title_zh": "2027款凯迪拉克Lyriq以200美元的价格获得关键升级",
-    "url": "https://electrek.co/2026/07/29/2027-cadillac-lyriq-key-upgrade-200-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-29T18:26:57+00:00"
-  },
-  "a4a58d9528cc": {
-    "id": "a4a58d9528cc",
-    "title_en": "Sugar Hollow Solar celebrates 16th anniversary with lease payment giveaway",
-    "title_zh": "Sugar Hollow Solar庆祝成立16周年，并赠送租赁付款",
-    "url": "https://www.solarpowerworldonline.com/2026/07/sugar-hollow-solar-celebrates-16th-anniversary-with-lease-payment-giveaway/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T18:19:20+00:00"
-  },
-  "40cb9c633ed9": {
-    "id": "40cb9c633ed9",
-    "title_en": "Yozma IN 10 and IN 10 Pro electric mini dirt bikes get up to $595 exclusive savings, EGO 880 CFM blower + 2x batteries, Hiboy, more",
-    "title_zh": "Yozma IN 10和IN 10 Pro电动迷你越野自行车最高可节省595美元，EGO 880 CFM鼓风机+2节电池，Hiboy，更多",
-    "url": "https://electrek.co/2026/07/29/yozma-in-10-and-in-10-pro-electric-mini-dirt-bikes-ego-880-cfm-blower-hiboy-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-29T18:00:00+00:00"
-  },
-  "d0fafbf8008e": {
-    "id": "d0fafbf8008e",
-    "title_en": "Ukraine’s Attack on Iranian Cargo Ship Links Two Wars",
-    "title_zh": "乌克兰对伊朗货船的袭击与两场战争有关",
-    "url": "https://oilprice.com/Energy/Energy-General/Ukraines-Attack-on-Iranian-Cargo-Ship-Links-Two-Wars.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T18:00:00+00:00"
-  },
-  "610c3fc65cb4": {
-    "id": "610c3fc65cb4",
-    "title_en": "Cherry Street completes 6-MW solar project for Georgia glass manufacturer",
-    "title_zh": "Cherry Street为佐治亚州玻璃制造商完成6-MW太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/07/cherry-street-completes-6-mw-solar-project-for-georgia-glass-manufacturer/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T17:47:56+00:00"
-  },
-  "427388c659bc": {
-    "id": "427388c659bc",
-    "title_en": "Ferrari’s $640K Luce EV sells out 2026 allocation: ~500 units",
-    "title_zh": "法拉利6.4万美元的Luce EV在2026年售罄：约500辆",
-    "url": "https://electrek.co/2026/07/29/ferrari-luce-ev-sold-out-2026-allocation/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-29T17:44:24+00:00"
-  },
-  "f87397819ad9": {
-    "id": "f87397819ad9",
-    "title_en": "The 2100 Projections Came First. Then Clients Asked For 2050 Roadmaps.",
-    "title_zh": "2100年的预测是第一位的。然后客户询问2050年路线图。",
-    "url": "https://cleantechnica.com/2026/07/29/2100-projections-2050-decarbonization-roadmaps/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-29T17:22:20+00:00"
-  },
-  "cccac3684954": {
-    "id": "cccac3684954",
-    "title_en": "Guyana’s Oil Boom Matters More Than Ever",
-    "title_zh": "圭亚那的石油繁荣比以往任何时候都重要",
-    "url": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Boom-Matters-More-Than-Ever.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T17:00:00+00:00"
-  },
-  "eacff41f1f48": {
-    "id": "eacff41f1f48",
-    "title_en": "Two solid-state EV battery leaders are joining forces to scale the ‘breakthrough’ tech",
-    "title_zh": "两个固态电动汽车电池领导者联手扩大“突破性”技术",
-    "url": "https://electrek.co/2026/07/29/solid-state-ev-battery-leaders-team-up/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-29T16:51:40+00:00"
-  },
-  "0d8a01dbd2d7": {
-    "id": "0d8a01dbd2d7",
-    "title_en": "Six Things to Know About BNEF’s New US Data Center Capacity Outlook",
-    "title_zh": "关于BNEF新的美国数据中心容量展望的六件事",
-    "url": "https://about.bnef.com/insights/data-centers/six-things-to-know-about-bnefs-new-us-data-center-capacity-outlook/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-07-29T16:39:17+00:00"
-  },
-  "c3a0de08b1c1": {
-    "id": "c3a0de08b1c1",
-    "title_en": "Waymo adds Google’s Gemini AI assistant and new UI to Ojai robotaxi",
-    "title_zh": "Waymo为Ojai robotaxi添加了谷歌的Gemini人工智能助手和新的用户界面",
-    "url": "https://electrek.co/2026/07/29/waymo-gemini-ai-ojai-robotaxi-redesigned-interface/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-29T16:30:00+00:00"
-  },
-  "f8ffe3735ca9": {
-    "id": "f8ffe3735ca9",
-    "title_en": "Glencore Sees $3.3 Billion Trading Profit as Iran War Rattles Oil Markets",
-    "title_zh": "伊朗战争扰乱石油市场，嘉能可预计交易利润33亿美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Glencore-Sees-33-Billion-Trading-Profit-as-Iran-War-Rattles-Oil-Markets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T16:30:00+00:00"
-  },
-  "afcf90ee7c0d": {
-    "id": "afcf90ee7c0d",
-    "title_en": "$18,590 Car With 845-Kilometer Range & Lidar — MG 07",
-    "title_zh": "价值18590美元的汽车，具有845公里的续航里程和激光雷达——MG 07",
-    "url": "https://cleantechnica.com/2026/07/29/18590-car-with-845-kilometer-range-lidar-mg-07/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-29T16:27:02+00:00"
-  },
-  "f3d44c8ed539": {
-    "id": "f3d44c8ed539",
-    "title_en": "CMS Energy plans to sell renewable assets to focus on regulated utilities",
-    "title_zh": "CMS Energy计划出售可再生资产，专注于受监管的公用事业",
-    "url": "https://www.utilitydive.com/news/cms-energy-plans-to-sell-renewable-assets-to-focus-on-regulated-utilities/826489/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-29T16:12:01+00:00"
-  },
-  "8bfc8f470979": {
-    "id": "8bfc8f470979",
-    "title_en": "Middle East Turmoil and the AI Boom Fuel Windfall for Mining Giants",
-    "title_zh": "中东动荡和人工智能繁荣为矿业巨头带来了意外之财",
-    "url": "https://oilprice.com/Metals/Commodities/Middle-East-Turmoil-and-the-AI-Boom-Fuel-Windfall-for-Mining-Giants.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T16:00:00+00:00"
   }
 }
