@@ -1,4 +1,94 @@
 {
+  "96039ed9d204": {
+    "id": "96039ed9d204",
+    "title_en": "China puts battery storage at center of renewable energy strategy",
+    "title_zh": "中国将电池储能置于可再生能源战略的中心",
+    "url": "https://www.pv-magazine.com/2026/08/05/china-puts-battery-storage-at-center-of-renewable-energy-strategy/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T08:30:00+00:00"
+  },
+  "3e45eae74fdd": {
+    "id": "3e45eae74fdd",
+    "title_en": "China’s Power Demand Hits Records as Heatwave Grips Key Regions",
+    "title_zh": "热浪席卷重点地区，中国电力需求创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Power-Demand-Hits-Records-as-Heatwave-Grips-Key-Regions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T08:30:00+00:00"
+  },
+  "1835366bb55b": {
+    "id": "1835366bb55b",
+    "title_en": "Meaningful local engagement key to floating PV acceptance",
+    "title_zh": "有意义的当地参与是浮动光伏验收的关键",
+    "url": "https://www.pv-magazine.com/2026/08/05/meaningful-local-engagement-key-to-floating-pv-acceptance/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T08:00:00+00:00"
+  },
+  "324bbe97e8f1": {
+    "id": "324bbe97e8f1",
+    "title_en": "India’s rooftop solar scheme surpasses 5 million households",
+    "title_zh": "印度屋顶太阳能计划超过500万户家庭",
+    "url": "https://www.pv-magazine.com/2026/08/05/pm-surya-ghar-rooftop-solar-scheme-surpasses-5-million-households/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T07:30:00+00:00"
+  },
+  "4418c3be3c34": {
+    "id": "4418c3be3c34",
+    "title_en": "PJM’s big new data center plan: Make the states figure it out",
+    "title_zh": "PJM的大型新数据中心计划：让各州弄清楚",
+    "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-05T07:30:00+00:00"
+  },
+  "903c3d1dfd7c": {
+    "id": "903c3d1dfd7c",
+    "title_en": "China Eases Fuel Export Curbs as Global Supply Crunch Deepens",
+    "title_zh": "随着全球供应紧缩加剧，中国放宽了燃料出口限制",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Eases-Fuel-Export-Curbs-as-Global-Supply-Crunch-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T07:15:00+00:00"
+  },
+  "ca40351a0e5d": {
+    "id": "ca40351a0e5d",
+    "title_en": "Dajin Delivers Second King-Class Offshore Wind Transport Vessel",
+    "title_zh": "大金交付第二艘王级海上风电运输船",
+    "url": "https://www.offshorewind.biz/2026/08/05/dajin-delivers-second-king-class-offshore-wind-transport-vessel/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-05T07:10:00+00:00"
+  },
+  "d343d22d7367": {
+    "id": "d343d22d7367",
+    "title_en": "Scientists explain unexpected hotspot formation in half-cell heterojunction modules",
+    "title_zh": "科学家解释了半电池异质结模块中意外的热点形成",
+    "url": "https://www.pv-magazine.com/2026/08/05/scientists-explain-unexpected-hotspot-formation-in-half-cell-heterojunction-modules/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T07:00:00+00:00"
+  },
+  "2cc02b2eebe3": {
+    "id": "2cc02b2eebe3",
+    "title_en": "Hormuz Tanker Traffic Remains Subdued Despite Reports of Peace Talks",
+    "title_zh": "尽管有和平谈判的报道，霍尔木兹油轮的交通仍然疲软",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Remains-Subdued-Despite-Reports-of-Peace-Talks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T06:00:00+00:00"
+  },
+  "77ec58b26881": {
+    "id": "77ec58b26881",
+    "title_en": "Siemens Gamesa returns to profit after years of loss-making",
+    "title_zh": "西门子歌美飒在多年亏损后恢复盈利",
+    "url": "https://www.windpowermonthly.com/article/1966556/siemens-gamesa-returns-profit-years-loss-making",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-08-05T05:55:57+00:00"
+  },
   "d0bfcfacac6b": {
     "id": "d0bfcfacac6b",
     "title_en": "Japan: Tokyo Gas enters offtake for 200MWh Fukushima BESS, Eku Energy nears completion of first project",
@@ -4408,95 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-29T13:34:08+00:00"
-  },
-  "7a8917042977": {
-    "id": "7a8917042977",
-    "title_en": "World Nuclear Association: $6 Trillion Needed to Hit 2050 Capacity Goals",
-    "title_zh": "世界核协会：实现2050年产能目标需要6万亿美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/World-Nuclear-Association-6-Trillion-Needed-to-Hit-2050-Capacity-Goals.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T13:30:00+00:00"
-  },
-  "88f4655d2e19": {
-    "id": "88f4655d2e19",
-    "title_en": "PTSC M&C Loads Out Fengmiao Offshore Substation",
-    "title_zh": "PTSC M&C装船丰庙海上变电站",
-    "url": "https://www.offshorewind.biz/2026/07/29/ptsc-mc-loads-out-fengmiao-offshore-substation/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-29T13:18:43+00:00"
-  },
-  "d9b220fc60c5": {
-    "id": "d9b220fc60c5",
-    "title_en": "Government agrees to phase out Germany’s landmark fixed feed-in tariffs for new small solar PV",
-    "title_zh": "政府同意逐步取消德国对新型小型太阳能光伏的具有里程碑意义的固定上网电价",
-    "url": "https://www.cleanenergywire.org/news/government-agrees-phase-out-germanys-landmark-fixed-feed-tariffs-new-small-solar-pv",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-07-29T13:14:30+00:00"
-  },
-  "e6d5abf19049": {
-    "id": "e6d5abf19049",
-    "title_en": "Georgia Power completes construction of 198MWh BESS next to Moody Air Force Base",
-    "title_zh": "佐治亚电力公司完成穆迪空军基地旁198MWh BESS的建设",
-    "url": "https://www.energy-storage.news/georgia-power-completes-construction-of-198mwh-bess-next-to-moody-air-force-base/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-29T12:52:29+00:00"
-  },
-  "b6117e78e651": {
-    "id": "b6117e78e651",
-    "title_en": "China’s solar market heads for first annual contraction since 2019",
-    "title_zh": "中国太阳能市场自2019年以来首次出现年度收缩",
-    "url": "https://www.pv-magazine.com/2026/07/29/chinas-solar-market-heads-for-first-annual-contraction-since-2019/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T12:30:00+00:00"
-  },
-  "9def40617b77": {
-    "id": "9def40617b77",
-    "title_en": "UK Regulator Targets Data Center Land Grab on the Power Grid",
-    "title_zh": "英国监管机构瞄准电网数据中心土地掠夺",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Regulator-Targets-Data-Center-Land-Grab-on-the-Power-Grid.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T12:30:00+00:00"
-  },
-  "3d39a6c334df": {
-    "id": "3d39a6c334df",
-    "title_en": "McDermott to support potential Dutch Rolls-Royce SMR projects",
-    "title_zh": "McDermott将支持潜在的荷兰劳斯莱斯SMR项目",
-    "url": "https://www.world-nuclear-news.org/articles/mcdermott-to-support-dutch-deployment-of-rolls-royce-smr",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-29T12:27:05+00:00"
-  },
-  "4bc96dcd908c": {
-    "id": "4bc96dcd908c",
-    "title_en": "Q&A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change?",
-    "title_zh": "问：中国第十五个可再生能源“五年计划”对气候变化意味着什么？",
-    "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-29T12:08:55+00:00"
-  },
-  "d6ae2740fb7e": {
-    "id": "d6ae2740fb7e",
-    "title_en": "US bans foreign-produced solar inverters",
-    "title_zh": "美国禁止外国生产的太阳能逆变器",
-    "url": "https://www.pv-magazine.com/2026/07/29/fcc-bans-foreign-produced-solar-inverters-grid-lockout-begins-today/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T12:00:00+00:00"
-  },
-  "264771ac38da": {
-    "id": "264771ac38da",
-    "title_en": "Serbia adds 61 MW of solar in H1",
-    "title_zh": "塞尔维亚上半年新增61兆瓦太阳能",
-    "url": "https://www.pv-magazine.com/2026/07/29/serbia-adds-61-mw-of-solar-in-h1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T11:30:00+00:00"
   }
 }
