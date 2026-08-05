@@ -1,4 +1,67 @@
 {
+  "d0bfcfacac6b": {
+    "id": "d0bfcfacac6b",
+    "title_en": "Japan: Tokyo Gas enters offtake for 200MWh Fukushima BESS, Eku Energy nears completion of first project",
+    "title_zh": "日本：东京燃气进入200MWh福岛BESS的承购，Eku Energy接近完成第一个项目",
+    "url": "https://www.energy-storage.news/japan-tokyo-gas-enters-offtake-for-200mwh-fukushima-bess-eku-energy-nears-completion-of-first-project/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-05T05:35:14+00:00"
+  },
+  "44d1e443e06a": {
+    "id": "44d1e443e06a",
+    "title_en": "EnergyAustralia admits breaching Electricity Retail Code over 33-day Solar Sharer Offer delay",
+    "title_zh": "澳大利亚能源公司承认因太阳能股票发行延迟33天而违反《电力零售法》",
+    "url": "https://www.pv-tech.org/energyaustralia-admits-breaching-electricity-retail-code-over-33-day-solar-sharer-offer-delay/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T03:31:29+00:00"
+  },
+  "772c67518b2f": {
+    "id": "772c67518b2f",
+    "title_en": "Australia to expand Small-scale Renewable Energy Scheme to cover 1MW solar installations",
+    "title_zh": "澳大利亚将扩大小型可再生能源计划，覆盖1MW太阳能装置",
+    "url": "https://www.pv-tech.org/australia-to-expand-small-scale-renewable-energy-scheme-to-cover-1mw-solar-installations/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-05T03:24:38+00:00"
+  },
+  "3b3042c9948d": {
+    "id": "3b3042c9948d",
+    "title_en": "AMPYR Australia bags 5.3.4 letter for 270MW grid-forming battery storage system",
+    "title_zh": "AMPYR澳大利亚公司收到270MW并网电池储能系统5.3.4信函",
+    "url": "https://www.energy-storage.news/ampyr-australia-bags-5-3-4-letter-for-270mw-grid-forming-battery-storage-system/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-05T03:21:42+00:00"
+  },
+  "acc7c75edb47": {
+    "id": "acc7c75edb47",
+    "title_en": "Waymo Launches Robotaxi Service in Dallas",
+    "title_zh": "Waymo在达拉斯推出Robotaxi服务",
+    "url": "https://cleantechnica.com/2026/08/04/waymo-launches-robotaxi-service-in-dallas/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T03:17:22+00:00"
+  },
+  "26a1119ce420": {
+    "id": "26a1119ce420",
+    "title_en": "BYD Commercial Vehicle Sales Jumped 149% in July",
+    "title_zh": "比亚迪7月份商用车销量增长149%",
+    "url": "https://cleantechnica.com/2026/08/04/byd-commercial-vehicle-sales-jumped-149-in-july/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T03:00:15+00:00"
+  },
+  "8a42b851110d": {
+    "id": "8a42b851110d",
+    "title_en": "LA City Council Votes to Allow Billion Dollar Scattergood Gas Plant Retrofit to Move Forward",
+    "title_zh": "洛杉矶市议会投票同意推进耗资数十亿美元的Scattergood天然气厂改造",
+    "url": "https://cleantechnica.com/2026/08/04/la-city-council-votes-to-allow-billion-dollar-scattergood-gas-plant-retrofit-to-move-forward/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-05T02:30:48+00:00"
+  },
   "d7da924b6883": {
     "id": "d7da924b6883",
     "title_en": "BYD Achieves Record Exports With 124% Growth",
@@ -44,6 +107,15 @@
     "category": "综合",
     "pub_ts": "2026-08-05T01:04:39+00:00"
   },
+  "f808df841baf": {
+    "id": "f808df841baf",
+    "title_en": "Middle East War Triggers New Global Refining Boom",
+    "title_zh": "中东战争引发新的全球炼油热潮",
+    "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-05T00:00:00+00:00"
+  },
   "8f3a015964f7": {
     "id": "8f3a015964f7",
     "title_en": "Court rules against Trump EPA’s freeze of $20B in ‘green bank’ funds",
@@ -70,6 +142,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-08-04T23:09:40+00:00"
+  },
+  "da6dfe0e6b57": {
+    "id": "da6dfe0e6b57",
+    "title_en": "China, Turkey Relations Strained After EV Investment Fallout",
+    "title_zh": "电动汽车投资退出后，中土关系紧张",
+    "url": "https://oilprice.com/Energy/Energy-General/China-Turkey-Relations-Strained-After-EV-Investment-Fallout.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-04T23:00:00+00:00"
   },
   "8d903eae0588": {
     "id": "8d903eae0588",
@@ -4417,86 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-29T11:30:00+00:00"
-  },
-  "d002e9c61244": {
-    "id": "d002e9c61244",
-    "title_en": "Iran Rejects Oman’s Proposal to Evenly Divide Hormuz Control",
-    "title_zh": "伊朗拒绝阿曼关于平均分割霍尔木兹控制权的提议",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rejects-Omans-Proposal-to-Evenly-Divide-Hormuz-Control.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T11:30:00+00:00"
-  },
-  "f8562e0d36d5": {
-    "id": "f8562e0d36d5",
-    "title_en": "Five potential states selected to host US nuclear innovation campuses",
-    "title_zh": "五个潜在的州被选为美国核创新园区的所在地",
-    "url": "https://www.world-nuclear-news.org/articles/five-potential-states-selected-to-host-us-nuclear-innovation-campuses",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-29T11:15:35+00:00"
-  },
-  "56d34f254556": {
-    "id": "56d34f254556",
-    "title_en": "Fraunhofer ISE unveils propane heat pump concepts for multi-family buildings",
-    "title_zh": "弗劳恩霍夫ISE为多户建筑推出丙烷热泵概念",
-    "url": "https://www.pv-magazine.com/2026/07/29/fraunhofer-ise-unveils-propane-heat-pump-concepts-for-multi-family-buildings/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T11:00:00+00:00"
-  },
-  "4b6cd249360c": {
-    "id": "4b6cd249360c",
-    "title_en": "‘Tremendously important market for storage’: US BESS integrator FlexGen on its start of European operations",
-    "title_zh": "“极其重要的存储市场”：美国BESS集成商FlexGen开始在欧洲运营",
-    "url": "https://www.energy-storage.news/tremendously-important-market-for-storage-us-bess-integrator-flexgen-on-its-start-of-european-operations/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-29T10:56:03+00:00"
-  },
-  "1041d632913a": {
-    "id": "1041d632913a",
-    "title_en": "RWE building 470MWh BESS in Germany; Kallista enlists Envision for 386MWh in France",
-    "title_zh": "RWE在德国建造470MWh BESS；Kallista在法国以386MWh的价格签约Envision",
-    "url": "https://www.energy-storage.news/rwe-building-470mwh-bess-in-germany-kallista-enlists-envision-for-386mwh-in-france/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-29T10:46:34+00:00"
-  },
-  "56a92a997fe2": {
-    "id": "56a92a997fe2",
-    "title_en": "DOE mulls changes to Biden-era transformer rule, raising utility concerns",
-    "title_zh": "美国能源部考虑修改拜登时代的变压器规则，引发公用事业担忧",
-    "url": "https://www.utilitydive.com/news/doe-mulls-changes-to-biden-era-transformer-rule-raising-utility-concerns/826440/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-29T10:40:40+00:00"
-  },
-  "bc857efabeea": {
-    "id": "bc857efabeea",
-    "title_en": "RWE Raises 2026, 2027 Offshore Wind Earnings Outlook After First-Half Results ‘Exceed Market Expectations’",
-    "title_zh": "RWE上调2026年和2027年海上风电盈利预期，上半年业绩“超出市场预期”",
-    "url": "https://www.offshorewind.biz/2026/07/29/rwe-raises-2026-2027-offshore-wind-earnings-outlook-after-first-half-results-exceed-market-expectations/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-29T10:34:39+00:00"
-  },
-  "c09e5ef51a36": {
-    "id": "c09e5ef51a36",
-    "title_en": "Why consumers are choosing solar over fossil fuels",
-    "title_zh": "为什么消费者选择太阳能而不是化石燃料",
-    "url": "https://www.pv-magazine.com/2026/07/29/why-consumers-are-choosing-solar-over-fossil-fuels/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-29T10:30:00+00:00"
-  },
-  "57c571719860": {
-    "id": "57c571719860",
-    "title_en": "Houthis Claim Attack on Saudi Oil Tanker in Red Sea",
-    "title_zh": "胡塞声称在红海袭击沙特油轮",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Attack-on-Saudi-Oil-Tanker-in-Red-Sea.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-29T10:30:00+00:00"
   }
 }
