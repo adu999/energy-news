@@ -1,4 +1,121 @@
 {
+  "1aee0a3a4be5": {
+    "id": "1aee0a3a4be5",
+    "title_en": "Ørsted puts 500MWh Old 300 Texas BESS into operation",
+    "title_zh": "Ørsted将500MWh Old 300 Texas BESS投入运行",
+    "url": "https://www.energy-storage.news/orsted-puts-500mwh-old-300-texas-bess-into-operation/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T11:21:34+00:00"
+  },
+  "453eb4e6e435": {
+    "id": "453eb4e6e435",
+    "title_en": "Zelestra and Centrica Energy agree toll for 99MW/297MWh Germany BESS",
+    "title_zh": "Zelestra和森特理克能源公司就德国BESS的99MW/297MWh收费达成一致",
+    "url": "https://www.energy-storage.news/zelestra-centrica-energy-agree-toll-99mw-297mwh-germany-bess/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T11:17:29+00:00"
+  },
+  "44f621ab1a52": {
+    "id": "44f621ab1a52",
+    "title_en": "South Korea proceeds with largest single-site PV project to date",
+    "title_zh": "韩国正在推进迄今为止最大的单站点光伏项目",
+    "url": "https://www.pv-magazine.com/2026/08/06/south-korea-proceeds-with-largest-single-site-pv-project-to-date/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T11:00:00+00:00"
+  },
+  "fb72841989cb": {
+    "id": "fb72841989cb",
+    "title_en": "Philippines plans green energy auction for agrivoltaics, aquavoltaics",
+    "title_zh": "菲律宾计划对农业光伏、水产光伏进行绿色能源拍卖",
+    "url": "https://www.pv-magazine.com/2026/08/06/philippines-plans-green-energy-auction-for-agrivoltaics-aquavoltaics/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T10:30:00+00:00"
+  },
+  "73056555e910": {
+    "id": "73056555e910",
+    "title_en": "Europe's Gas Storage Hits Lowest Level Since 2011 as Winter Looms",
+    "title_zh": "随着冬季的临近，欧洲的天然气储量降至2011年以来的最低水平",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Gas-Storage-Hits-Lowest-Level-Since-2011-as-Winter-Looms.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T10:30:00+00:00"
+  },
+  "dbfc1655df8c": {
+    "id": "dbfc1655df8c",
+    "title_en": "Vattenfall Seeks ROV Inspection, Seabed Survey Contractors for European Offshore Wind Fleet",
+    "title_zh": "Vattenfall寻求欧洲海上风电船队的ROV检查和海底调查承包商",
+    "url": "https://www.offshorewind.biz/2026/08/06/vattenfall-seeks-rov-inspection-seabed-survey-contractors-for-european-offshore-wind-fleet/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-06T09:46:45+00:00"
+  },
+  "231102d79c0e": {
+    "id": "231102d79c0e",
+    "title_en": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
+    "title_zh": "阿联酋如何保持石油流经霍尔木兹",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T09:40:00+00:00"
+  },
+  "49e23a52bff7": {
+    "id": "49e23a52bff7",
+    "title_en": "Nordex wins ‘biggest single wind turbine deal’ in Turkey",
+    "title_zh": "Nordex在土耳其赢得“最大的单台风力涡轮机交易”",
+    "url": "https://www.windpowermonthly.com/article/1966686/nordex-wins-biggest-single-wind-turbine-deal-turkey",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-08-06T09:30:12+00:00"
+  },
+  "cf2b50fb5761": {
+    "id": "cf2b50fb5761",
+    "title_en": "Researchers compare PV, wind, hybrid systems for community-scale energy",
+    "title_zh": "研究人员比较了社区规模能源的光伏、风能和混合系统",
+    "url": "https://www.pv-magazine.com/2026/08/06/researchers-compare-pv-wind-hybrid-systems-for-community-scale-energy/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T09:30:00+00:00"
+  },
+  "3cec102aa379": {
+    "id": "3cec102aa379",
+    "title_en": "Mystery buyer for UK floating wind test site revealed",
+    "title_zh": "英国浮动风试验场神秘买家揭晓",
+    "url": "https://www.windpowermonthly.com/article/1966683/mystery-buyer-uk-floating-wind-test-site-revealed",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-08-06T09:17:18+00:00"
+  },
+  "d4f62870fab0": {
+    "id": "d4f62870fab0",
+    "title_en": "Serentica commissions first phase of 1GWh Bikaner BESS in India",
+    "title_zh": "Serentica在印度委托1GWh Bikaner BESS的第一阶段",
+    "url": "https://www.energymonitor.ai/news/serentica-commissions-bikaner-bess/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-06T09:10:01+00:00"
+  },
+  "709b1fe6de12": {
+    "id": "709b1fe6de12",
+    "title_en": "Brazil proposes mandatory take-back scheme for solar panels, batteries",
+    "title_zh": "巴西提议强制回收太阳能电池板和电池",
+    "url": "https://www.pv-magazine.com/2026/08/06/brazil-proposes-mandatory-take-back-scheme-for-solar-panels-batteries/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T09:00:00+00:00"
+  },
+  "a9b8ac49e1f4": {
+    "id": "a9b8ac49e1f4",
+    "title_en": "China’s Top Refiner Pivots to Russian Crude",
+    "title_zh": "中国最大炼油厂转向俄罗斯原油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T08:40:00+00:00"
+  },
   "5ac70826e0a2": {
     "id": "5ac70826e0a2",
     "title_en": "India targets 5 GW of floating PV with co-located storage",
@@ -7,6 +124,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-06T08:30:00+00:00"
+  },
+  "1c0cd3dd9309": {
+    "id": "1c0cd3dd9309",
+    "title_en": "Haizea Delivers Largest Monopiles Ever Built in Southern Europe for Hornsea 3",
+    "title_zh": "Haizea为Hornsea 3交付南欧有史以来最大的单桩",
+    "url": "https://www.offshorewind.biz/2026/08/06/haizea-delivers-largest-monopiles-ever-built-in-southern-europe-for-hornsea-3/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-06T08:24:06+00:00"
   },
   "c3dd69fc6164": {
     "id": "c3dd69fc6164",
@@ -4372,131 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-07-30T15:30:11+00:00"
-  },
-  "38cf7de30ce8": {
-    "id": "38cf7de30ce8",
-    "title_en": "Coal Falls Below 50% Of China's Power Mix For First Time Ever",
-    "title_zh": "煤炭在中国电力结构中的占比首次降至50%以下",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Coal-Falls-Below-50-Of-Chinas-Power-Mix-For-First-Time-Ever.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T15:30:00+00:00"
-  },
-  "51dbf22ab73d": {
-    "id": "51dbf22ab73d",
-    "title_en": "Danube's record low leads to Hungary, Romania nuclear shutdowns",
-    "title_zh": "多瑙河创纪录低点导致匈牙利、罗马尼亚核设施关闭",
-    "url": "https://www.world-nuclear-news.org/articles/danubes-record-low-leads-to-hungary-romania-nuclear-shutdowns",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-30T15:09:55+00:00"
-  },
-  "daf855913817": {
-    "id": "daf855913817",
-    "title_en": "Iran's Strike on Jordan Signals a More Aggressive Military Strategy",
-    "title_zh": "伊朗对约旦的袭击标志着更激进的军事战略",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Strike-on-Jordan-Signals-a-More-Aggressive-Military-Strategy.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T15:00:00+00:00"
-  },
-  "e7bb35a88856": {
-    "id": "e7bb35a88856",
-    "title_en": "Factcheck: No, Europe is not having its ‘quietest’ year for wildfires",
-    "title_zh": "Factcheck：不，欧洲并没有经历野火“最平静”的一年",
-    "url": "https://www.carbonbrief.org/factcheck-no-europe-is-not-having-its-quietest-year-for-wildfires",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-30T14:51:00+00:00"
-  },
-  "87b705594a2c": {
-    "id": "87b705594a2c",
-    "title_en": "Oil Price Shock Fuels 35% Surge in Global EV Sales",
-    "title_zh": "油价冲击推动全球电动汽车销量激增35%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Shock-Fuels-35-Surge-in-Global-EV-Sales.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T14:30:00+00:00"
-  },
-  "e492b138179e": {
-    "id": "e492b138179e",
-    "title_en": "BYD’s electric kei car gets off to a strong start with over 5,000 orders in its first week",
-    "title_zh": "比亚迪的电动汽车kei在第一周就获得了5000多份订单，开局良好",
-    "url": "https://electrek.co/2026/07/30/byds-electric-kei-car-received-over-5000-orders-first-week/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T14:01:02+00:00"
-  },
-  "289ee4dc12a8": {
-    "id": "289ee4dc12a8",
-    "title_en": "China is starting to measure EV charging times in seconds, not minutes",
-    "title_zh": "中国开始以秒而不是分钟来衡量电动汽车充电时间",
-    "url": "https://electrek.co/2026/07/30/china-is-starting-to-measure-ev-charging-times-in-seconds-not-minutes/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T14:00:00+00:00"
-  },
-  "91a09e1c58aa": {
-    "id": "91a09e1c58aa",
-    "title_en": "Shell Maintains Bumper Buyback as Profit Surges",
-    "title_zh": "随着利润飙升，壳牌维持大幅回购",
-    "url": "https://oilprice.com/Energy/Energy-General/Shell-Maintains-Bumper-Buyback-as-Profit-Surges.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T14:00:00+00:00"
-  },
-  "b89021e5e7fc": {
-    "id": "b89021e5e7fc",
-    "title_en": "XPENG VLA 2.0 In Munich: Taking Global Intelligent Driving Lead",
-    "title_zh": "XPENG VLA 2.0在慕尼黑：引领全球智能驾驶",
-    "url": "https://cleantechnica.com/2026/07/30/xpeng-vla-2-0-in-munich-taking-global-intelligent-driving-lead/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T13:58:06+00:00"
-  },
-  "d40ad185f2f4": {
-    "id": "d40ad185f2f4",
-    "title_en": "Tesla hits 10 million vehicles — but its EV growth has stalled",
-    "title_zh": "特斯拉汽车销量突破1000万辆，但电动汽车增长停滞不前",
-    "url": "https://electrek.co/2026/07/30/tesla-10-millionth-vehicle-ev-growth-stalled/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T13:36:51+00:00"
-  },
-  "16cbc0e76094": {
-    "id": "16cbc0e76094",
-    "title_en": "Qatar Turns to American LNG After Iran War Cripples Ras Laffan",
-    "title_zh": "伊朗战争使拉斯·拉凡瘫痪后，卡塔尔转向美国液化天然气",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Turns-to-American-LNG-After-Iran-War-Cripples-Ras-Laffan.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T13:30:00+00:00"
-  },
-  "44a0338f7dae": {
-    "id": "44a0338f7dae",
-    "title_en": "Nautilus, TPE bring online 4-MW community solar project in Delaware",
-    "title_zh": "Nautilus和TPE在特拉华州启动了4兆瓦的社区太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/07/nautilus-tpe-bring-online-4-mw-community-solar-project-in-delaware/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T13:00:14+00:00"
-  },
-  "771383f5a1b7": {
-    "id": "771383f5a1b7",
-    "title_en": "Connecticut Green Bank signs panel supply agreement with HD Hyundai Energy Solutions",
-    "title_zh": "康涅狄格州绿色银行与HD Hyundai Energy Solutions签署面板供应协议",
-    "url": "https://www.solarpowerworldonline.com/2026/07/connecticut-green-bank-signs-panel-supply-agreement-with-hd-hyundai-energy-solutions/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T13:00:13+00:00"
-  },
-  "ebae5f76a414": {
-    "id": "ebae5f76a414",
-    "title_en": "Under pressure, Entergy looks to mitigate cost of $1.8B Texas gas plant purchase",
-    "title_zh": "在压力下，Entergy希望降低18亿美元得克萨斯州天然气厂采购的成本",
-    "url": "https://www.utilitydive.com/news/entergy-cottonwood-texas-gas-plant-meta/826565/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-30T12:53:57+00:00"
   }
 }
