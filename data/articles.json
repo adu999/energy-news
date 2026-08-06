@@ -1,4 +1,103 @@
 {
+  "5ac70826e0a2": {
+    "id": "5ac70826e0a2",
+    "title_en": "India targets 5 GW of floating PV with co-located storage",
+    "title_zh": "印度计划建设5吉瓦的浮动式光伏电站，并配备共置式储能系统",
+    "url": "https://www.pv-magazine.com/2026/08/06/india-approves-inr-5070-crore-scheme-for-5-gw-of-floating-solar-with-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T08:30:00+00:00"
+  },
+  "c3dd69fc6164": {
+    "id": "c3dd69fc6164",
+    "title_en": "Fluence books first big data centre deals, but manufacturing ramp-up delays hit revenues",
+    "title_zh": "Fluence预订了第一笔大数据中心交易，但制造业产能提升延迟影响了收入",
+    "url": "https://www.energy-storage.news/fluence-books-first-big-data-centre-deals-but-manufacturing-ramp-up-delays-hit-revenues/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T08:22:02+00:00"
+  },
+  "c487d05ac57d": {
+    "id": "c487d05ac57d",
+    "title_en": "Agrivoltaics improve grape quality in Mediterranean rainfed vineyards",
+    "title_zh": "Agrivoltaics改善地中海雨养葡萄园的葡萄质量",
+    "url": "https://www.pv-magazine.com/2026/08/06/agrivoltaics-improve-grape-quality-in-mediterranean-rainfed-vineyards/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T08:00:00+00:00"
+  },
+  "3f427dad9451": {
+    "id": "3f427dad9451",
+    "title_en": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
+    "title_zh": "随着电网延迟的增加，美国数据中心转向现场太阳能、存储、VPP",
+    "url": "https://www.pv-magazine.com/2026/08/06/transmission-logjams-and-ai-load-growth-push-data-centers-toward-on-site-solar-storage-and-vpps/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T07:30:00+00:00"
+  },
+  "8f3043911066": {
+    "id": "8f3043911066",
+    "title_en": "Trump is blocking billions of dollars of grants that would fix the grid",
+    "title_zh": "特朗普正在阻止数十亿美元的拨款来修复电网",
+    "url": "https://www.canarymedia.com/articles/politics/trump-blocking-billions-to-fix-grid",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-06T07:30:00+00:00"
+  },
+  "e9e970d5ece4": {
+    "id": "e9e970d5ece4",
+    "title_en": "Ohio steel giant aims to use Biden climate funds for polluting project",
+    "title_zh": "俄亥俄州钢铁巨头计划将拜登的气候基金用于污染项目",
+    "url": "https://www.canarymedia.com/articles/green-steel/ohio-steel-giant-climate-funds",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-06T07:30:00+00:00"
+  },
+  "2836a2442e41": {
+    "id": "2836a2442e41",
+    "title_en": "PV recycling challenges unlikely to be the same everywhere",
+    "title_zh": "光伏回收的挑战不太可能在所有地方都是一样的",
+    "url": "https://www.pv-magazine.com/2026/08/06/pv-recycling-challenges-unlikely-to-be-the-same-everywhere/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T07:00:00+00:00"
+  },
+  "f2bda412e4fd": {
+    "id": "f2bda412e4fd",
+    "title_en": "The hydrogen market is still waiting for buyers",
+    "title_zh": "氢市场仍在等待买家",
+    "url": "https://www.energymonitor.ai/analysis/hydrogen-offtake-agreements-market-buyers/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-06T07:00:00+00:00"
+  },
+  "25e1ca6cd79f": {
+    "id": "25e1ca6cd79f",
+    "title_en": "The Missing Link to VPP Success? Customer Knowledge.",
+    "title_zh": "VPP成功的缺失环节？客户知识。",
+    "url": "https://www.canarymedia.com/articles/sponsored/the-missing-link-to-vpp-success-customer-knowledge",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-06T07:00:00+00:00"
+  },
+  "20881df42928": {
+    "id": "20881df42928",
+    "title_en": "Climate Change Is Rewriting Europe’s Nuclear Cooling Assumptions",
+    "title_zh": "气候变化正在改写欧洲的核冷却假设",
+    "url": "https://cleantechnica.com/2026/08/06/climate-change-europe-nuclear-cooling-assumptions/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-06T06:50:39+00:00"
+  },
+  "ce574cee2dae": {
+    "id": "ce574cee2dae",
+    "title_en": "U.S. Diesel Exports Hit Record High as Domestic Stockpiles Slide",
+    "title_zh": "美国柴油出口创历史新高，国内库存下滑",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Exports-Hit-Record-High-as-Domestic-Stockpiles-Slide.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T06:30:00+00:00"
+  },
   "c2b125781bd4": {
     "id": "c2b125781bd4",
     "title_en": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
@@ -701,6 +800,15 @@
     "category": "风电",
     "pub_ts": "2026-08-05T10:15:00+00:00"
   },
+  "6951ae16f290": {
+    "id": "6951ae16f290",
+    "title_en": "An essential guide to wind turbine gear oil performance tests",
+    "title_zh": "风力涡轮机齿轮油性能测试的基本指南",
+    "url": "https://www.energymonitor.ai/sponsored/an-essential-guide-to-wind-turbine-gear-oil-performance-tests/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-05T10:11:53+00:00"
+  },
   "7e3bf4673321": {
     "id": "7e3bf4673321",
     "title_en": "New framework pinpoints faulty modules in utility-scale PV plants",
@@ -708,6 +816,15 @@
     "url": "https://www.pv-magazine.com/2026/08/05/new-framework-pinpoints-faulty-modules-in-utility-scale-pv-plants/",
     "source": "PV Magazine",
     "category": "太阳能",
+    "pub_ts": "2026-08-05T10:00:00+00:00"
+  },
+  "8cb3072e4242": {
+    "id": "8cb3072e4242",
+    "title_en": "Kanadevia Inova-led consortium to build $1.5bn WtE facility in Morocco",
+    "title_zh": "Kanadevia Inova领导财团在摩洛哥建造15亿美元的WtE设施",
+    "url": "https://www.energymonitor.ai/news/kanadevia-inova-build-wte-facility/",
+    "source": "Energy Monitor",
+    "category": "综合",
     "pub_ts": "2026-08-05T10:00:00+00:00"
   },
   "822c7f441922": {
@@ -808,6 +925,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-05T08:00:00+00:00"
+  },
+  "e95c4f551f58": {
+    "id": "e95c4f551f58",
+    "title_en": "GE Vernova to supply 43 wind turbines for Enfinity Global’s Fatehgarh site",
+    "title_zh": "GE Vernova将为Enfinity Global的Fatehgarh工厂供应43台风力涡轮机",
+    "url": "https://www.energymonitor.ai/news/ge-vernova-supply-wind-turbines/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-05T07:59:22+00:00"
   },
   "324bbe97e8f1": {
     "id": "324bbe97e8f1",
@@ -4372,131 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-07-30T12:53:57+00:00"
-  },
-  "f1a3b50740f8": {
-    "id": "f1a3b50740f8",
-    "title_en": "FirstEnergy data center contracts surge 50% in Q2 to 6.4 GW",
-    "title_zh": "FirstEnergy数据中心合同在第二季度激增50%，达到6.4吉瓦",
-    "url": "https://www.utilitydive.com/news/firstenergy-data-center-west-virginia-maidsville-earnings/826558/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-30T12:43:51+00:00"
-  },
-  "025530285c08": {
-    "id": "025530285c08",
-    "title_en": "Boskalis’s New Rock Installation Vessel Starts Work on Polish Offshore Wind Project",
-    "title_zh": "Boskalis的新岩石安装船开始在波兰海上风电项目上工作",
-    "url": "https://www.offshorewind.biz/2026/07/30/boskalis-new-rock-installation-vessel-starts-work-on-polish-offshore-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-30T12:41:45+00:00"
-  },
-  "f6b7448a5bb8": {
-    "id": "f6b7448a5bb8",
-    "title_en": "Türkiye adds 2.1 GW of solar in H1",
-    "title_zh": "Türkiye在上半年增加了2.1吉瓦的太阳能",
-    "url": "https://www.pv-magazine.com/2026/07/30/turkiye-adds-2-1-gw-of-solar-in-h1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T12:30:00+00:00"
-  },
-  "8401e31413db": {
-    "id": "8401e31413db",
-    "title_en": "Goldman Sachs: Diesel Crunch Is Now the Biggest Threat in Oil Markets",
-    "title_zh": "高盛：柴油机危机现在是石油市场的最大威胁",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Diesel-Crunch-Is-Now-the-Biggest-Threat-in-Oil-Markets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T12:30:00+00:00"
-  },
-  "f2afc2813a50": {
-    "id": "f2afc2813a50",
-    "title_en": "Aecon executes energy storage agreement for 1,200MWh Ontario BESS",
-    "title_zh": "Aecon签署1200MWh安大略BESS储能协议",
-    "url": "https://www.energy-storage.news/aecon-executes-energy-storage-agreement-for-1200mwh-ontario-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-30T12:27:15+00:00"
-  },
-  "5e0d97195a59": {
-    "id": "5e0d97195a59",
-    "title_en": "Hyundai Motor Group Executive Chair Euisun Chung Charts Mid-to-Long-Term Growth Strategy in Brazil",
-    "title_zh": "现代汽车集团执行主席Euisun Chung制定巴西中长期增长战略",
-    "url": "https://cleantechnica.com/2026/07/30/hyundai-motor-group-executive-chair-euisun-chung-charts-mid-to-long-term-growth-strategy-in-brazil/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T12:24:23+00:00"
-  },
-  "ffa725c0912d": {
-    "id": "ffa725c0912d",
-    "title_en": "Eolian begins construction on 1.06GWh Ohio BESS, largest system built in PJM",
-    "title_zh": "Eolian开始建造1.06GWh俄亥俄州BESS，这是PJM建造的最大系统",
-    "url": "https://www.energy-storage.news/eolian-begins-construction-on-1-06gwh-ohio-bess-largest-system-built-in-pjm/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-30T12:17:14+00:00"
-  },
-  "8b3f54ca7f93": {
-    "id": "8b3f54ca7f93",
-    "title_en": "1-GWh energy storage project to be sited on Ohio data center campus",
-    "title_zh": "1-GWh储能项目将位于俄亥俄州数据中心园区",
-    "url": "https://www.solarpowerworldonline.com/2026/07/1-gwh-energy-storage-project-to-be-sited-on-ohio-data-center-campus/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T12:13:10+00:00"
-  },
-  "03ce01c90a54": {
-    "id": "03ce01c90a54",
-    "title_en": "Plug-in port: Brazilian Port of Santos electrifies DP World terminal",
-    "title_zh": "插电式港口：巴西桑托斯港为DP World码头供电",
-    "url": "https://electrek.co/2026/07/30/plug-in-port-brazilian-port-of-santos-electrifies-dp-world-terminal/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T12:06:28+00:00"
-  },
-  "e720760ff893": {
-    "id": "e720760ff893",
-    "title_en": "Hyundai Motor Group Appoints Junghyun Kwon as Head of Autonomous Driving Development Center",
-    "title_zh": "现代汽车集团任命权俊云为自动驾驶开发中心负责人",
-    "url": "https://cleantechnica.com/2026/07/30/hyundai-motor-group-appoints-junghyun-kwon-as-head-of-autonomous-driving-development-center/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T12:03:45+00:00"
-  },
-  "43011a828eb1": {
-    "id": "43011a828eb1",
-    "title_en": "Video game subscriptions support 110-MW solar project buildout in Texas",
-    "title_zh": "视频游戏订阅支持德克萨斯州110兆瓦太阳能项目建设",
-    "url": "https://www.solarpowerworldonline.com/2026/07/video-game-subscriptions-support-110-mw-solar-project-buildout-in-texas/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T12:02:22+00:00"
-  },
-  "70d9bd1c14ce": {
-    "id": "70d9bd1c14ce",
-    "title_en": "Indonesia signals start of 100 GW solar initiative",
-    "title_zh": "印尼启动100吉瓦太阳能项目",
-    "url": "https://www.pv-magazine.com/2026/07/30/indonesia-signals-start-of-100-gw-solar-initiative/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T12:00:00+00:00"
-  },
-  "0b6746bd3cff": {
-    "id": "0b6746bd3cff",
-    "title_en": "Germany’s renewables and grids reforms slammed by industry groups",
-    "title_zh": "德国可再生能源和电网改革受到行业团体的抨击",
-    "url": "https://www.windpowermonthly.com/article/1966128/germanys-renewables-grids-reforms-slammed-industry-groups",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-07-30T11:33:48+00:00"
-  },
-  "b8e9283d52db": {
-    "id": "b8e9283d52db",
-    "title_en": "Colombia awards 270 MW of solar, 100 MW of storage in clean energy auction",
-    "title_zh": "哥伦比亚在清洁能源拍卖中授予270兆瓦太阳能和100兆瓦储能",
-    "url": "https://www.pv-magazine.com/2026/07/30/colombia-awards-270-mw-of-solar-100-mw-of-storage-in-clean-energy-auction/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T11:30:00+00:00"
   }
 }
