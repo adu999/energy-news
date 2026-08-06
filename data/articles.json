@@ -1,4 +1,247 @@
 {
+  "285b8e415cac": {
+    "id": "285b8e415cac",
+    "title_en": "BMW fast-tracks i3 production as strong demand sparks a major ramp-up",
+    "title_zh": "宝马快速跟进i3生产，强劲需求引发大幅增长",
+    "url": "https://electrek.co/2026/08/06/bmw-fast-tracks-i3-production-stronger-than-expected-demand/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-06T14:00:00+00:00"
+  },
+  "73a480c41330": {
+    "id": "73a480c41330",
+    "title_en": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
+    "title_zh": "中国在十年内增加的核电比世界其他国家加起来还多",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Added-More-Nuclear-Power-In-A-Decade-Than-The-Rest-Of-The-World-Combined.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T14:00:00+00:00"
+  },
+  "0f0d38a3df47": {
+    "id": "0f0d38a3df47",
+    "title_en": "Watch Tesla driver plea with police after FSD drove 64 mph in a 45",
+    "title_zh": "观看特斯拉司机在FSD以45英里/小时的速度驾驶64英里/小时后向警方认罪",
+    "url": "https://electrek.co/2026/08/06/tesla-driver-blames-fsd-speeding-police-stop/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-06T13:56:21+00:00"
+  },
+  "02707b63a9f7": {
+    "id": "02707b63a9f7",
+    "title_en": "BYD Just Sells Cheap EVs? Check Out This $216,000 Yangwang",
+    "title_zh": "比亚迪只卖便宜的电动汽车？看看这个216000美元的杨旺",
+    "url": "https://cleantechnica.com/2026/08/06/byd-just-sells-cheap-evs-check-out-this-216000-yangwang/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-06T13:50:12+00:00"
+  },
+  "08aca1115ec7": {
+    "id": "08aca1115ec7",
+    "title_en": "Bernhard Schulte, Pelagic Partners Win Baltica 2 CSOV Contracts",
+    "title_zh": "Pelagic Partners的Bernhard Schulte赢得了Baltica 2 CSOV合同",
+    "url": "https://www.offshorewind.biz/2026/08/06/bernhard-schulte-pelagic-partners-win-baltica-2-csov-contracts/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-06T13:47:31+00:00"
+  },
+  "8a8271f2d565": {
+    "id": "8a8271f2d565",
+    "title_en": "DOE Approves Safety Design of Deep Fission’s Underground SMR",
+    "title_zh": "美国能源部批准深裂变地下SMR的安全设计",
+    "url": "https://www.powermag.com/doe-approves-safety-design-of-deep-fissions-underground-smr/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-06T13:47:17+00:00"
+  },
+  "ec6dca6a80a4": {
+    "id": "ec6dca6a80a4",
+    "title_en": "Clearway Energy renewables & storage generation rises 16% year-on-year in Q2 2026",
+    "title_zh": "Clearway Energy可再生能源和储能发电量在2026年第二季度同比增长16%",
+    "url": "https://www.pv-tech.org/clearway-energy-renewables-storage-generation-rises-16-year-on-year-in-q2-2026/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T13:42:52+00:00"
+  },
+  "ea477127146f": {
+    "id": "ea477127146f",
+    "title_en": "We Energies breaks ground on three new Wisconsin renewables projects",
+    "title_zh": "We Energies在威斯康星州三个新的可再生能源项目上破土动工",
+    "url": "https://www.pv-tech.org/we-energies-breaks-ground-on-three-new-wisconsin-renewables-projects/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T13:30:00+00:00"
+  },
+  "f1e001266ba8": {
+    "id": "f1e001266ba8",
+    "title_en": "Gulf Shipping Grinds to a Halt Following Houthi Missile Claim",
+    "title_zh": "胡塞导弹索赔后，海湾航运陷入停顿",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Shipping-Grinds-to-a-Halt-Following-Houthi-Missile-Claim.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T13:30:00+00:00"
+  },
+  "c1816bb6b36a": {
+    "id": "c1816bb6b36a",
+    "title_en": "Oklo’s Groves Becomes Fifth DOE Pilot Reactor to Reach Criticality, First on Private Land",
+    "title_zh": "Oklo的Groves成为美国能源部第五个达到临界状态的试验反应堆，第一个在私人土地上",
+    "url": "https://www.powermag.com/oklos-groves-becomes-fifth-doe-pilot-reactor-to-reach-criticality-first-on-private-land/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-06T13:27:08+00:00"
+  },
+  "b269570e0bd7": {
+    "id": "b269570e0bd7",
+    "title_en": "EU’s Chinese inverter ban could be sign of things to come for BESS, ex-Northvolt BESS exec says",
+    "title_zh": "前Northvolt BESS高管表示，欧盟对中国逆变器的禁令可能是BESS未来发展的标志",
+    "url": "https://www.energy-storage.news/eus-chinese-inverter-ban-could-be-sign-of-things-to-come-for-bess-ex-northvolt-bess-exec-says/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T13:07:46+00:00"
+  },
+  "b5ad036ec954": {
+    "id": "b5ad036ec954",
+    "title_en": "Ford’s affordable EV pickup is named Fathom, and it will start at $28,350",
+    "title_zh": "福特价格实惠的电动皮卡名为Fathom，起价为28350美元",
+    "url": "https://electrek.co/2026/08/06/fords-affordable-ev-pickup-named-fathom-priced-from-28350/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-06T13:00:00+00:00"
+  },
+  "4639acbe2d89": {
+    "id": "4639acbe2d89",
+    "title_en": "Tesla starts Megapack 3 production with 28% more energy per unit",
+    "title_zh": "特斯拉开始生产Megapack 3，单位能量增加28%",
+    "url": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-06T12:52:24+00:00"
+  },
+  "68005e66e2e5": {
+    "id": "68005e66e2e5",
+    "title_en": "DC Circuit Court of Appeals upholds FERC plan to speed up permitting for US energy projects’ grid interconnection",
+    "title_zh": "华盛顿特区巡回上诉法院支持联邦能源管理委员会加快美国能源项目电网互联许可的计划",
+    "url": "https://www.energy-storage.news/dc-circuit-court-of-appeals-upholds-ferc-plan-to-speed-up-permitting-for-us-energy-projects-grid-interconnection/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T12:50:06+00:00"
+  },
+  "8d42e027b5db": {
+    "id": "8d42e027b5db",
+    "title_en": "Solar Landscape secures financing to speed up distributed solar PV deployment",
+    "title_zh": "Solar Landscape获得融资，加快分布式太阳能光伏部署",
+    "url": "https://www.pv-tech.org/solar-landscape-secures-financing-speeding-distributed-solar-pv-deployment/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T12:44:58+00:00"
+  },
+  "941457a72df4": {
+    "id": "941457a72df4",
+    "title_en": "PJM BESS developers’ struggles to get financing are often due to inaccurate financial modelling, enSights CEO says",
+    "title_zh": "enSights首席执行官表示，PJM BESS开发商难以获得融资往往是由于财务建模不准确",
+    "url": "https://www.energy-storage.news/pjm-bess-developers-struggles-to-get-financing-are-often-due-to-inaccurate-financial-modelling-ensights-ceo-says/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T12:36:59+00:00"
+  },
+  "89ea34aa0691": {
+    "id": "89ea34aa0691",
+    "title_en": "PV Chart of the Week: US solar cell vs module nameplate capacity imbalance",
+    "title_zh": "本周光伏图表：美国太阳能电池与组件铭牌容量不平衡",
+    "url": "https://www.pv-tech.org/pv-chart-us-solar-cell-vs-module-nameplate-capacity-imbalance/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T12:34:51+00:00"
+  },
+  "d60e14dc369f": {
+    "id": "d60e14dc369f",
+    "title_en": "Latvia’s solar capacity surpasses 1.5 GW",
+    "title_zh": "拉脱维亚太阳能装机容量超过1.5GW",
+    "url": "https://www.pv-magazine.com/2026/08/06/latvias-solar-capacity-surpasses-1-5-gw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T12:30:00+00:00"
+  },
+  "5e1fd26f8a9c": {
+    "id": "5e1fd26f8a9c",
+    "title_en": "Indian Refiners Continue West Africa Crude Buying Spree",
+    "title_zh": "印度炼油厂继续扩大西非原油购买价差",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Continue-West-Africa-Crude-Buying-Spree.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T12:30:00+00:00"
+  },
+  "98e9f1f86d2f": {
+    "id": "98e9f1f86d2f",
+    "title_en": "Nuclear startup Oklo splits its first atoms in test reactor",
+    "title_zh": "核创业公司Oklo在试验反应堆中分裂了第一个原子",
+    "url": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-06T12:13:00+00:00"
+  },
+  "cbcb12ecba71": {
+    "id": "cbcb12ecba71",
+    "title_en": "World’s first sodium-ion electric haul truck gets to work in China",
+    "title_zh": "世界上第一辆钠离子电动卡车在中国投入使用",
+    "url": "https://electrek.co/2026/08/06/worlds-first-sodium-ion-electric-haul-truck-gets-to-work-in-china/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-06T12:01:37+00:00"
+  },
+  "92cb7840f3a5": {
+    "id": "92cb7840f3a5",
+    "title_en": "Finnish push for data center flexibility",
+    "title_zh": "芬兰推动数据中心灵活性",
+    "url": "https://www.pv-magazine.com/2026/08/06/finnish-push-for-data-center-flexibility/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T12:00:00+00:00"
+  },
+  "d2161bb48a71": {
+    "id": "d2161bb48a71",
+    "title_en": "SolarEdge forecasts weaker Q3 despite 20% Q2 revenue growth",
+    "title_zh": "SolarEdge预测，尽管第二季度收入增长了20%，但第三季度将疲软",
+    "url": "https://www.pv-tech.org/solaredge-forecasts-weaker-q3-despite-20-q2-revenue-growth/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T11:57:19+00:00"
+  },
+  "b2658e1a52c7": {
+    "id": "b2658e1a52c7",
+    "title_en": "Juiced doubles down with 120-mile range e-bike on dual-battery Scrambler Hardtail",
+    "title_zh": "Juiced搭载双电池Scrambler Hardtail，续航里程达120英里",
+    "url": "https://electrek.co/2026/08/06/juiced-doubles-down-with-120-mile-range-e-bike-on-dual-battery-scrambler-hardtail/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-06T11:56:00+00:00"
+  },
+  "aafa78249f47": {
+    "id": "aafa78249f47",
+    "title_en": "Ørsted turns on 500 MWh battery project with co-located solar in Texas",
+    "title_zh": "Ørsted在得克萨斯州启动了500 MWh电池项目，与同地太阳能公司合作",
+    "url": "https://www.pv-magazine.com/2026/08/06/orsted-turns-on-500-mwh-battery-project-with-co-located-solar-in-texas/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T11:30:00+00:00"
+  },
+  "032c25031189": {
+    "id": "032c25031189",
+    "title_en": "Nigeria Eyes $50 Billion From 22 Offshore Oil and Gas Projects",
+    "title_zh": "尼日利亚从22个海上石油和天然气项目中获得500亿美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Eyes-50-Billion-From-22-Offshore-Oil-and-Gas-Projects.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T11:30:00+00:00"
+  },
+  "239a52b82382": {
+    "id": "239a52b82382",
+    "title_en": "Prysmian Buys Scottish Training Facility for Cable Jointers",
+    "title_zh": "普睿司曼收购苏格兰电缆接头培训设施",
+    "url": "https://www.offshorewind.biz/2026/08/06/prysmian-buys-scottish-training-facility-for-cable-jointers/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-06T11:25:28+00:00"
+  },
   "1aee0a3a4be5": {
     "id": "1aee0a3a4be5",
     "title_en": "Ørsted puts 500MWh Old 300 Texas BESS into operation",
@@ -43,6 +286,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-06T10:30:00+00:00"
+  },
+  "38bbcf64a227": {
+    "id": "38bbcf64a227",
+    "title_en": "Swedish offshore wind prospects ‘improving’ despite rejections over defence concerns",
+    "title_zh": "瑞典海上风电前景“改善”，尽管国防问题遭到拒绝",
+    "url": "https://www.windpowermonthly.com/article/1966689/swedish-offshore-wind-prospects-improving-despite-rejections-defence-concerns",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-08-06T09:51:10+00:00"
   },
   "dbfc1655df8c": {
     "id": "dbfc1655df8c",
@@ -142,6 +394,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-06T08:22:02+00:00"
+  },
+  "45f0d364ec55": {
+    "id": "45f0d364ec55",
+    "title_en": "Ola Electric, Axis Energy sign MoU for 20GWh of battery storage",
+    "title_zh": "Ola Electric与Axis Energy签署20GWh电池存储谅解备忘录",
+    "url": "https://www.energymonitor.ai/news/ola-electric-axis-energy-sign-mou/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-06T08:03:35+00:00"
   },
   "c487d05ac57d": {
     "id": "c487d05ac57d",
@@ -1015,6 +1276,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-05T09:00:00+00:00"
+  },
+  "fae9cf15c0c5": {
+    "id": "fae9cf15c0c5",
+    "title_en": "Q&A: Germany prepares long-term strategy for carbon removals",
+    "title_zh": "问答：德国制定碳减排长期战略",
+    "url": "https://www.cleanenergywire.org/factsheets/qa-germany-prepares-long-term-strategy-carbon-removals",
+    "source": "Clean Energy Wire",
+    "category": "政策",
+    "pub_ts": "2026-08-05T08:54:28+00:00"
   },
   "91e03ca15ae4": {
     "id": "91e03ca15ae4",
@@ -4022,6 +4292,15 @@
     "category": "太阳能",
     "pub_ts": "2026-07-31T08:30:00+00:00"
   },
+  "cb194c5f6d59": {
+    "id": "cb194c5f6d59",
+    "title_en": "IAEA, Canadian university collaborate on nuclear education",
+    "title_zh": "国际原子能机构与加拿大大学合作开展核教育",
+    "url": "https://www.world-nuclear-news.org/articles/iaea-canadian-university-collaborate-on-nuclear-education",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-07-31T08:27:21+00:00"
+  },
   "288e009deee7": {
     "id": "288e009deee7",
     "title_en": "Study shows consequences of PV-related fires are generally limited in severity",
@@ -4219,284 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-30T22:55:14+00:00"
-  },
-  "59000442c6af": {
-    "id": "59000442c6af",
-    "title_en": "Sierra Club Urges Rejection of Meta’s Attempt to Use Minor Source Loophole",
-    "title_zh": "塞拉俱乐部敦促拒绝Meta利用小源漏洞的企图",
-    "url": "https://cleantechnica.com/2026/07/30/sierra-club-urges-rejection-of-metas-attempt-to-use-minor-source-loophole/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T22:40:24+00:00"
-  },
-  "2a49a24d798f": {
-    "id": "2a49a24d798f",
-    "title_en": "Hyundai Steel’s Potential Economic Costs, Mercury Pollution & Drinking Water Threats Must Be Fully Evaluated Under Louisiana Public Trust Doctrine",
-    "title_zh": "现代钢铁的潜在经济成本、汞污染和饮用水威胁必须根据路易斯安那州公共信任原则进行全面评估",
-    "url": "https://cleantechnica.com/2026/07/30/hyundai-steels-potential-economic-costs-mercury-pollution-drinking-water-threats-must-be-fully-evaluated-under-louisiana-public-trust-doctrine/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T22:22:11+00:00"
-  },
-  "6a225efa9d05": {
-    "id": "6a225efa9d05",
-    "title_en": "Middle East Oil Shock Could Hand Upstream Sector a $495 Billion Windfall",
-    "title_zh": "中东石油危机可能给上游行业带来4950亿美元的意外之财",
-    "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Shock-Could-Hand-Upstream-Sector-a-495-Billion-Windfall.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T22:00:00+00:00"
-  },
-  "9eb10e5b6368": {
-    "id": "9eb10e5b6368",
-    "title_en": "Aalo, Crusoe Plan 2027 INL Demonstration Pairing Nuclear Power and AI Data Center Load",
-    "title_zh": "阿尔托，克鲁索2027年计划INL示范核电和人工智能数据中心负载配对",
-    "url": "https://www.powermag.com/aalo-crusoe-plan-2027-inl-demonstration-pairing-nuclear-power-and-ai-data-center-load/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-30T21:45:17+00:00"
-  },
-  "103e78ef8acb": {
-    "id": "103e78ef8acb",
-    "title_en": "Juiced Scrambler: Testing the best bang-for-your-buck moto-style e-bike",
-    "title_zh": "Juiced Scrambler：为您的电动自行车测试最佳效果",
-    "url": "https://electrek.co/2026/07/30/juiced-scrambler-testing-the-best-bang-for-your-buck-moto-style-e-bike/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T21:40:06+00:00"
-  },
-  "1da1ea25e795": {
-    "id": "1da1ea25e795",
-    "title_en": "A new Zipcar pilot pairs shared EVs with off-grid solar charging",
-    "title_zh": "一项新的Zipcar试点将共享电动汽车与离网太阳能充电相结合",
-    "url": "https://electrek.co/2026/07/30/a-new-zipcar-pilot-pairs-shared-evs-with-off-grid-solar-charging/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T21:11:38+00:00"
-  },
-  "b1c70289b450": {
-    "id": "b1c70289b450",
-    "title_en": "The Kia EV3 will go on sale soon, with production set to begin in Mexico next week",
-    "title_zh": "起亚EV3即将上市，下周将在墨西哥开始生产",
-    "url": "https://electrek.co/2026/07/30/kia-ev3-production-mexico-us/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T21:07:17+00:00"
-  },
-  "61a21d48cc6c": {
-    "id": "61a21d48cc6c",
-    "title_en": "John Kerry: Europe's Energy Crisis Is a Bigger Threat Than Any Weapon",
-    "title_zh": "约翰·克里：欧洲能源危机是比任何武器都更大的威胁",
-    "url": "https://oilprice.com/Energy/Energy-General/John-Kerry-Europes-Energy-Crisis-Is-a-Bigger-Threat-Than-Any-Weapon.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T21:00:00+00:00"
-  },
-  "f8ad3b8fa5a1": {
-    "id": "f8ad3b8fa5a1",
-    "title_en": "War Sends Saudi Oil Output Down and Revenue Up",
-    "title_zh": "战争导致沙特石油产量下降，收入上升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/War-Sends-Saudi-Oil-Output-Down-and-Revenue-Up.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T20:30:00+00:00"
-  },
-  "87711be66027": {
-    "id": "87711be66027",
-    "title_en": "Rivian (RIVN) Q2 2026 earnings: revenue up 27%, gross margins soaring",
-    "title_zh": "Rivian（RIVN）2026年第二季度收益：收入增长27%，毛利率飙升",
-    "url": "https://electrek.co/2026/07/30/rivian-rivn-q2-2026-earnings-r2-deliveries-revenue-up-27/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T20:05:15+00:00"
-  },
-  "b4fee07a8d8c": {
-    "id": "b4fee07a8d8c",
-    "title_en": "US Assists Morocco With Green Hydrogen Plan — Wait, What?",
-    "title_zh": "美国协助摩洛哥实施绿色氢计划——等等，什么？",
-    "url": "https://cleantechnica.com/2026/07/30/green-hydrogen-morocco-us-government-grant-renewable-energy/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T20:03:42+00:00"
-  },
-  "7ba3693e6684": {
-    "id": "7ba3693e6684",
-    "title_en": "Holtec Targets 2036 for 1.36-GW SMR-300 Project at Oyster Creek",
-    "title_zh": "Holtec为牡蛎溪1.36-GW SMR-300项目设定2036年目标",
-    "url": "https://www.powermag.com/holtec-targets-2036-for-1-36-gw-smr-300-project-at-oyster-creek/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-30T19:17:36+00:00"
-  },
-  "0c6ed375344f": {
-    "id": "0c6ed375344f",
-    "title_en": "Understanding NERC Impact Ratings and Compliance Timing for Generation Control Facilities",
-    "title_zh": "了解发电控制设施的NERC影响评级和合规时间",
-    "url": "https://www.powermag.com/understanding-nerc-impact-ratings-and-compliance-timing-for-generation-control-facilities/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-07-30T19:09:04+00:00"
-  },
-  "57e80edad236": {
-    "id": "57e80edad236",
-    "title_en": "Gulf Oil Exports Struggle to Recover Despite Higher Hormuz Traffic",
-    "title_zh": "尽管霍尔木兹交通量增加，海湾石油出口仍难以恢复",
-    "url": "https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T19:00:00+00:00"
-  },
-  "818edbb12bc6": {
-    "id": "818edbb12bc6",
-    "title_en": "Antora snags $550M for heat batteries to run data centers and factories",
-    "title_zh": "Antora获得5.5亿美元用于数据中心和工厂的热电池",
-    "url": "https://www.canarymedia.com/articles/climatetech-finance/antora-550m-heat-batteries",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-07-30T19:00:00+00:00"
-  },
-  "2d9151919438": {
-    "id": "2d9151919438",
-    "title_en": "Tesla’s Elon Musk is having a generational meltdown",
-    "title_zh": "特斯拉的埃隆·马斯克正在经历一代人的崩溃",
-    "url": "https://electrek.co/2026/07/30/tesla-elon-musk-2026-x-meltdown/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T18:39:56+00:00"
-  },
-  "ef0b7cec3032": {
-    "id": "ef0b7cec3032",
-    "title_en": "Pittsburgh neighborhood organization taps local talent for rooftop solar project",
-    "title_zh": "匹兹堡社区组织为屋顶太阳能项目发掘当地人才",
-    "url": "https://www.solarpowerworldonline.com/2026/07/pittsburgh-neighborhood-organization-taps-local-talent-for-rooftop-solar-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T18:19:34+00:00"
-  },
-  "0043cac1c0d9": {
-    "id": "0043cac1c0d9",
-    "title_en": "Jackery 3,584Wh and 2,048Wh HomePower power stations get exclusive $1,450 savings to new lows, Roborock, Greenworks, more",
-    "title_zh": "Jackery 3584Wh和2048Wh HomePower发电站独家节省1450美元，创下新低，Roborock、Greenworks等",
-    "url": "https://electrek.co/2026/07/30/jackery-3584wh-and-2048wh-homepower-power-stations-roborock-greenworks-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T18:00:00+00:00"
-  },
-  "c1e462f391ea": {
-    "id": "c1e462f391ea",
-    "title_en": "China’s Trade With Central Asia Surges 6.5%",
-    "title_zh": "中国与中亚贸易增长6.5%",
-    "url": "https://oilprice.com/Geopolitics/Asia/Chinas-Trade-With-Central-Asia-Surges-65.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T18:00:00+00:00"
-  },
-  "428d00071fc2": {
-    "id": "428d00071fc2",
-    "title_en": "Desperate for Fuel, Russia Looks to Kazakhstan for Refining Capacity",
-    "title_zh": "迫切需要燃料，俄罗斯寻求哈萨克斯坦的炼油能力",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Desperate-for-Fuel-Russia-Looks-to-Kazakhstan-for-Refining-Capacity.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T17:30:00+00:00"
-  },
-  "44a5ab2051a3": {
-    "id": "44a5ab2051a3",
-    "title_en": "BMW opens i3 orders months early as buyers rush in",
-    "title_zh": "宝马提前几个月开始订购i3，买家蜂拥而至",
-    "url": "https://electrek.co/2026/07/30/bmw-opens-i3-orders-months-early-demand-surges/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T17:29:25+00:00"
-  },
-  "be35cfe604f3": {
-    "id": "be35cfe604f3",
-    "title_en": "Record U.S. Refinery Runs Fail to Ease Global Fuel Crunch",
-    "title_zh": "创纪录的美国炼油厂运行未能缓解全球燃料危机",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Record-US-Refinery-Runs-Fail-to-Ease-Global-Fuel-Crunch.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T17:00:00+00:00"
-  },
-  "c047d302d3d3": {
-    "id": "c047d302d3d3",
-    "title_en": "U.S. GDP Growth Slows to 1.5% in Second Quarter, Missing Forecasts",
-    "title_zh": "美国第二季度GDP增长放缓至1.5%，低于预期",
-    "url": "https://oilprice.com/Finance/the-Economy/US-GDP-Growth-Slows-to-15-in-Second-Quarter-Missing-Forecasts.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T17:00:00+00:00"
-  },
-  "311086953625": {
-    "id": "311086953625",
-    "title_en": "Texas approves AI data center co-location next to wind farm, with curtailment caveats",
-    "title_zh": "德克萨斯州批准人工智能数据中心与风电场合用，但有限制条件",
-    "url": "https://www.utilitydive.com/news/texas-approves-ai-data-center-co-location-next-to-wind-farm-with-curtailme/826617/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-30T16:57:06+00:00"
-  },
-  "68be09cf743b": {
-    "id": "68be09cf743b",
-    "title_en": "A plug-in solar solution that utilities and lawmakers can agree on",
-    "title_zh": "公用事业和立法者可以达成一致的插入式太阳能解决方案",
-    "url": "https://www.utilitydive.com/news/the-plug-in-solar-solution-that-utilities-and-lawmakers-can-agree-on-2/826058/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-30T16:45:50+00:00"
-  },
-  "f74b47b96710": {
-    "id": "f74b47b96710",
-    "title_en": "Russia Extends Diesel and Gasoline Export Bans Into 2027",
-    "title_zh": "俄罗斯将柴油和汽油出口禁令延长至2027年",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-and-Gasoline-Export-Bans-Into-2027.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T16:30:00+00:00"
-  },
-  "c392b01cd344": {
-    "id": "c392b01cd344",
-    "title_en": "The Madness Of King Elon The First",
-    "title_zh": "伊隆国王的疯狂",
-    "url": "https://cleantechnica.com/2026/07/30/the-madness-of-king-elon-the-first/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-30T16:25:11+00:00"
-  },
-  "4621299db53b": {
-    "id": "4621299db53b",
-    "title_en": "The Genesis GV60 Magma costs $10,000 more than the Hyundai IONIQ 5 N",
-    "title_zh": "Genesis GV60 Magma比现代IONIQ 5 N贵10000美元",
-    "url": "https://electrek.co/2026/07/30/genesis-gv60-magma-costs-10k-more-than-hyundai-ioniq-5-n/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-30T16:07:48+00:00"
-  },
-  "5f25564eebc0": {
-    "id": "5f25564eebc0",
-    "title_en": "Iraq Leader’s Successful Visit to Washington Shows New Path Forward with U.S.",
-    "title_zh": "伊拉克领导人成功访问华盛顿，为美国开辟了新的前进道路。",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Iraq-Leaders-Successful-Visit-to-Washington-Shows-New-Path-Forward-with-US.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T16:00:00+00:00"
-  },
-  "79fe563cc3e1": {
-    "id": "79fe563cc3e1",
-    "title_en": "California’s carbon-pricing program generated $36.2B for climate initiatives: report",
-    "title_zh": "加州的碳定价计划为气候倡议创造了362亿美元：报告",
-    "url": "https://www.utilitydive.com/news/california-carbon-pricing-program-generated-362b-for-climate-initiatives-carb/826598/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-30T15:37:41+00:00"
-  },
-  "0d75466515bf": {
-    "id": "0d75466515bf",
-    "title_en": "Correcting climate ‘misperceptions’ may not boost climate action",
-    "title_zh": "纠正气候“误解”可能不会促进气候行动",
-    "url": "https://www.carbonbrief.org/correcting-climate-misperceptions-may-not-boost-climate-action",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-07-30T15:30:11+00:00"
   }
 }
