@@ -1,4 +1,40 @@
 {
+  "c2b125781bd4": {
+    "id": "c2b125781bd4",
+    "title_en": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
+    "title_zh": "伊朗和阿曼达成具有里程碑意义的霍尔木兹海峡管理协议",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-06T05:10:00+00:00"
+  },
+  "2f935dfe2b3c": {
+    "id": "2f935dfe2b3c",
+    "title_en": "‘States will be free to add more rigorous requirements, but not to water them down’: Australia’s Bowen warns on data centres",
+    "title_zh": "“各州将可以自由增加更严格的要求，但不会降低要求”：澳大利亚的Bowen对数据中心发出警告",
+    "url": "https://www.pv-tech.org/states-will-be-free-to-add-more-rigorous-requirements-but-not-to-water-them-down-australias-bowen-warns-on-data-centres/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T04:10:10+00:00"
+  },
+  "84f4520f162c": {
+    "id": "84f4520f162c",
+    "title_en": "Australian Vanadium, Alcoa evaluate 50-80MW vanadium flow battery for WA alumina refineries",
+    "title_zh": "澳大利亚钒公司、美国铝业公司为西澳氧化铝精炼厂评估50-80MW钒液流电池",
+    "url": "https://www.energy-storage.news/australian-vanadium-alcoa-evaluate-50-80mw-vanadium-flow-battery-for-wa-alumina-refineries/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-06T04:07:15+00:00"
+  },
+  "3517658012a1": {
+    "id": "3517658012a1",
+    "title_en": "‘We need a tangible proof point’: Panel warns delayed coal retirements are suppressing renewables investment in Australia",
+    "title_zh": "“我们需要一个切实的证据”：专家组警告称，延迟的煤炭退役正在抑制澳大利亚的可再生能源投资",
+    "url": "https://www.pv-tech.org/we-need-a-tangible-proof-point-panel-warns-delayed-coal-retirements-are-suppressing-renewables-investment-in-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-06T04:00:55+00:00"
+  },
   "2d8bca3a6e92": {
     "id": "2d8bca3a6e92",
     "title_en": "European Countries Cut Tens of Billions of Euros of Fossil Fuel Imports from Wind & Solar Power Growth",
@@ -4462,41 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-07-30T11:30:00+00:00"
-  },
-  "7da59304ec2b": {
-    "id": "7da59304ec2b",
-    "title_en": "Iran Says Two Oil Tankers Ditched Attempt to Transit Hormuz",
-    "title_zh": "伊朗称两艘油轮放弃了穿越霍尔木兹的尝试",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Two-Oil-Tankers-Ditched-Attempt-to-Transit-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-30T11:30:00+00:00"
-  },
-  "233babe6492b": {
-    "id": "233babe6492b",
-    "title_en": "Serbia signs fresh nuclear programme agreement with EDF",
-    "title_zh": "塞尔维亚与法国电力公司签署新的核计划协议",
-    "url": "https://www.world-nuclear-news.org/articles/serbia-and-france-sign-nuclear-energy-partnership-agreement",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-07-30T11:04:19+00:00"
-  },
-  "05f25c9e8f8a": {
-    "id": "05f25c9e8f8a",
-    "title_en": "Jordan installs solar-powered water heating systems at nine hospitals",
-    "title_zh": "约旦在9家医院安装太阳能热水系统",
-    "url": "https://www.pv-magazine.com/2026/07/30/jordan-installs-solar-powered-water-heating-systems-at-nine-hospitals/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-30T11:00:00+00:00"
-  },
-  "e50e5a4dfaf7": {
-    "id": "e50e5a4dfaf7",
-    "title_en": "VIDEO: Rept Battero’s overseas team on navigating the evolving landscape and requirements for Chinese OEMs",
-    "title_zh": "视频：向巴特罗的海外团队汇报如何应对中国原始设备制造商不断变化的环境和要求",
-    "url": "https://www.energy-storage.news/video-rept-batteros-overseas-team-on-navigating-the-evolving-landscape-and-requirements-for-chinese-oems/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-30T10:57:58+00:00"
   }
 }
