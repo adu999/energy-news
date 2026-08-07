@@ -1,4 +1,58 @@
 {
+  "12465d0f0cf9": {
+    "id": "12465d0f0cf9",
+    "title_en": "Gentari Australia reaches mechanical completion at 243MWp solar-plus-storage project",
+    "title_zh": "Gentari Australia的243MWp太阳能+储能项目机械完工",
+    "url": "https://www.pv-tech.org/gentari-australia-reaches-mechanical-completion-at-243mwp-solar-plus-storage-project/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T04:02:46+00:00"
+  },
+  "8b40d90053d4": {
+    "id": "8b40d90053d4",
+    "title_en": "Australia’s data centre energy rules take shape as AEMC publishes framework and NSW moves to control grid access",
+    "title_zh": "澳大利亚能源管理委员会发布框架，新南威尔士州开始控制电网接入，澳大利亚数据中心能源规则初具规模",
+    "url": "https://www.pv-tech.org/australias-data-centre-energy-rules-take-shape-as-aemc-publishes-framework-and-nsw-moves-to-control-grid-access/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T03:57:01+00:00"
+  },
+  "5746e3167765": {
+    "id": "5746e3167765",
+    "title_en": "ZEBRE submits 180MW BESS to Australia’s EPBC Act as ZEN Energy administration fails to slow pipeline",
+    "title_zh": "ZEBRE向澳大利亚EPBC法案提交了180MW BESS，因为ZEN能源管理局未能减缓管道建设",
+    "url": "https://www.energy-storage.news/zebre-submits-180mw-bess-to-australias-epbc-act-as-zen-energy-administration-fails-to-slow-pipeline/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-07T03:53:20+00:00"
+  },
+  "e69865d3ed13": {
+    "id": "e69865d3ed13",
+    "title_en": "New Zealand Electric Vehicle Market Rises from the Depths! (CHARTS)",
+    "title_zh": "新西兰电动汽车市场走出低谷！（图表）",
+    "url": "https://cleantechnica.com/2026/08/06/new-zealand-electric-vehicle-market-rises-from-the-depths-charts/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-07T03:06:41+00:00"
+  },
+  "50ebcc7db397": {
+    "id": "50ebcc7db397",
+    "title_en": "Waymo Jacks Up Lobbying In Washington, DC",
+    "title_zh": "Waymo在华盛顿特区进行游说",
+    "url": "https://cleantechnica.com/2026/08/06/waymo-jacks-up-lobbying-in-washington-dc/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-07T02:27:17+00:00"
+  },
+  "d8684a5963de": {
+    "id": "d8684a5963de",
+    "title_en": "Zoox To Start Charging Passengers Next Week",
+    "title_zh": "Zoox将于下周开始向乘客收费",
+    "url": "https://cleantechnica.com/2026/08/06/zoox-to-start-charging-passengers-next-week/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-07T01:33:34+00:00"
+  },
   "48d384040ed8": {
     "id": "48d384040ed8",
     "title_en": "Lower Oil Prices Lend Support For The Gold Rally",
@@ -573,6 +627,15 @@
     "url": "https://www.pv-magazine.com/2026/08/06/finnish-push-for-data-center-flexibility/",
     "source": "PV Magazine",
     "category": "太阳能",
+    "pub_ts": "2026-08-06T12:00:00+00:00"
+  },
+  "a6fe6ea1864c": {
+    "id": "a6fe6ea1864c",
+    "title_en": "Duke Energy to issue $10B in equity to capture gas generation growth opportunity",
+    "title_zh": "杜克能源将发行100亿美元股权以抓住天然气发电增长机会",
+    "url": "https://www.utilitydive.com/news/duke-energy-to-issue-10b-in-equity-to-capture-once-in-a-generation-gro/827039/",
+    "source": "Utility Dive",
+    "category": "电网",
     "pub_ts": "2026-08-06T12:00:00+00:00"
   },
   "d2161bb48a71": {
@@ -4435,68 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-07-31T12:18:01+00:00"
-  },
-  "8572dbccd09d": {
-    "id": "8572dbccd09d",
-    "title_en": "Solar’s share of EU electricity demand tops 20% for three consecutive months",
-    "title_zh": "太阳能在欧盟电力需求中的份额连续三个月超过20%",
-    "url": "https://www.pv-magazine.com/2026/07/31/solars-share-of-eu-electricity-demand-tops-20-for-three-consecutive-months/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-31T12:00:00+00:00"
-  },
-  "1e3417e1d32a": {
-    "id": "1e3417e1d32a",
-    "title_en": "Hormuz Uncertainty Keeps Oil Markets on Edge",
-    "title_zh": "霍尔木兹的不确定性使石油市场处于紧张状态",
-    "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Uncertainty-Keeps-Oil-Markets-on-Edge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T12:00:00+00:00"
-  },
-  "2f598681fbaa": {
-    "id": "2f598681fbaa",
-    "title_en": "The Drone Attack That Exposed Egypt’s Energy Defenses",
-    "title_zh": "无人机袭击暴露了埃及的能源防御",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Drone-Attack-That-Exposed-Egypts-Energy-Defenses.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T12:00:00+00:00"
-  },
-  "f2b72b96e77a": {
-    "id": "f2b72b96e77a",
-    "title_en": "Libya's Fragile Peace Faces a New Threat",
-    "title_zh": "利比亚脆弱的和平面临新的威胁",
-    "url": "https://oilprice.com/Energy/Energy-General/Libyas-Fragile-Peace-Faces-a-New-Threat.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T12:00:00+00:00"
-  },
-  "e95447d51331": {
-    "id": "e95447d51331",
-    "title_en": "Exelon ‘high probability’ data center load falls 40%",
-    "title_zh": "Exelon“高概率”数据中心负载下降40%",
-    "url": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-31T11:57:09+00:00"
-  },
-  "be65d69dd773": {
-    "id": "be65d69dd773",
-    "title_en": "Antora Energy closes US$550 million Series C to scale US thermal battery deployment",
-    "title_zh": "Antora Energy完成5.5亿美元的C轮融资，以扩大美国热电池的部署",
-    "url": "https://www.energy-storage.news/antora-energy-closes-us550-million-series-c-to-scale-us-thermal-battery-deployment/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-07-31T11:48:18+00:00"
-  },
-  "b410f78e8403": {
-    "id": "b410f78e8403",
-    "title_en": "Do Our Individual Behaviors Speed Up Or Inhibit Collective Climate Action?",
-    "title_zh": "我们的个人行为是加速还是抑制了集体气候行动？",
-    "url": "https://cleantechnica.com/2026/07/31/do-our-individual-behaviors-speed-up-or-inhibit-collective-climate-action/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-31T11:44:54+00:00"
   }
 }
