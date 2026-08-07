@@ -1,4 +1,130 @@
 {
+  "8a4aecef2104": {
+    "id": "8a4aecef2104",
+    "title_en": "World’s largest cattle station installs microgrid as primary power source",
+    "title_zh": "世界上最大的养牛站安装微电网作为主要电源",
+    "url": "https://www.pv-magazine.com/2026/08/07/worlds-largest-cattle-station-installs-microgrid-as-primary-power-source/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T10:00:00+00:00"
+  },
+  "9a09f48af700": {
+    "id": "9a09f48af700",
+    "title_en": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
+    "title_zh": "氢动力列车成为头条新闻。电池组被使用。",
+    "url": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-07T09:37:07+00:00"
+  },
+  "6179f0530c33": {
+    "id": "6179f0530c33",
+    "title_en": "Emerge Renewables starts up solar glass factory in India",
+    "title_zh": "Emerge Renewables在印度启动太阳能玻璃工厂",
+    "url": "https://www.pv-magazine.com/2026/08/07/emerge-renewables-starts-up-solar-glass-factory-in-india/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T09:30:00+00:00"
+  },
+  "88951a13bbbb": {
+    "id": "88951a13bbbb",
+    "title_en": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
+    "title_zh": "随着紧张局势的加剧，霍尔木兹的航运量急剧下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-07T09:30:00+00:00"
+  },
+  "65a07ccc9c3a": {
+    "id": "65a07ccc9c3a",
+    "title_en": "Solar leads Portugal’s electricity mix for the first time in July",
+    "title_zh": "太阳能在7月份首次引领葡萄牙的电力结构",
+    "url": "https://www.pv-magazine.com/2026/08/07/solar-leads-portugals-electricity-mix-for-the-first-time-in-july/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T09:00:00+00:00"
+  },
+  "f099d3930ad2": {
+    "id": "f099d3930ad2",
+    "title_en": "Wales Grants Section 36 Consent to Llŷr Floating Wind Project",
+    "title_zh": "威尔士批准第36条对Llŷr浮式风力发电项目的同意",
+    "url": "https://www.offshorewind.biz/2026/08/07/wales-grants-section-36-consent-to-llyr-floating-wind-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-07T08:49:01+00:00"
+  },
+  "4ae7fd888b9d": {
+    "id": "4ae7fd888b9d",
+    "title_en": "Global polysilicon prices hold steady as U.S. unveils Section 232 import floors",
+    "title_zh": "美国公布232条款进口下限，全球多晶硅价格保持稳定",
+    "url": "https://www.pv-magazine.com/2026/08/07/global-polysilicon-prices-hold-steady-as-u-s-unveils-section-232-import-floors/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T08:30:00+00:00"
+  },
+  "419d1213eb4d": {
+    "id": "419d1213eb4d",
+    "title_en": "China’s Crude Imports Bounce Back After Historic June Slump",
+    "title_zh": "中国原油进口在6月历史性暴跌后反弹",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-07T08:15:00+00:00"
+  },
+  "cb351743816c": {
+    "id": "cb351743816c",
+    "title_en": "Researchers warn of unexpected copper corrosion in perovskite solar cells",
+    "title_zh": "研究人员警告钙钛矿太阳能电池中铜的意外腐蚀",
+    "url": "https://www.pv-magazine.com/2026/08/07/researchers-warn-of-unexpected-copper-corrosion-in-perovskite-solar-cells/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T08:00:00+00:00"
+  },
+  "970616ab1644": {
+    "id": "970616ab1644",
+    "title_en": "Solar brings connectivity to more than 2,000 communities in the Brazilian Amazon",
+    "title_zh": "太阳能为巴西亚马逊地区的2000多个社区带来了连接",
+    "url": "https://www.pv-magazine.com/2026/08/07/solar-brings-connectivity-to-more-than-2000-communities-in-the-brazilian-amazon/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T07:30:00+00:00"
+  },
+  "790ea2712202": {
+    "id": "790ea2712202",
+    "title_en": "Trump’s DOE keeps forcing coal plants to stay open. Here’s the latest.",
+    "title_zh": "特朗普的能源部一直在迫使燃煤电厂保持开放。这是最新消息。",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-coal-plant-orders-retiring-map",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-07T07:30:00+00:00"
+  },
+  "0ba8bea0f520": {
+    "id": "0ba8bea0f520",
+    "title_en": "Spanish government awards €360 million for co-located battery storage projects",
+    "title_zh": "西班牙政府为共置电池储能项目拨款3.6亿欧元",
+    "url": "https://www.energy-storage.news/spanish-government-awards-e360-million-for-co-located-battery-storage-projects/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-07T07:28:37+00:00"
+  },
+  "23f97ee12e06": {
+    "id": "23f97ee12e06",
+    "title_en": "Array surpasses 100GW of tracker deliveries as Q2 orders reach US$2.5 billion",
+    "title_zh": "Array的跟踪器交付量超过100GW，第二季度订单达到25亿美元",
+    "url": "https://www.pv-tech.org/array-surpasses-100gw-pv-tracker-deliveries-orders-reach-us2-5-billion/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T07:21:49+00:00"
+  },
+  "398c9756e85d": {
+    "id": "398c9756e85d",
+    "title_en": "US Government Reaches USD 1.2 Billion Offshore Wind Exit Deal with RWE",
+    "title_zh": "美国政府与RWE达成12亿美元的海上风电退出协议",
+    "url": "https://www.offshorewind.biz/2026/08/07/us-government-reaches-usd-1-2-billion-offshore-wind-exit-deal-with-rwe/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-07T07:12:06+00:00"
+  },
   "3f8284625821": {
     "id": "3f8284625821",
     "title_en": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India’s utility-scale BESS market with 20GWh MoU",
@@ -4372,131 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-07-31T15:30:00+00:00"
-  },
-  "826eb1909f70": {
-    "id": "826eb1909f70",
-    "title_en": "HMP’s new $3,999 electric scooter is the affordable, street-legal commuter the US needs",
-    "title_zh": "HMP售价3999美元的新款电动滑板车是美国需要的负担得起的、合法的街头通勤者",
-    "url": "https://electrek.co/2026/07/31/hmps-new-3999-electric-scooter-is-the-affordable-street-legal-commuter-the-us-needs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-31T15:24:00+00:00"
-  },
-  "1d3495516575": {
-    "id": "1d3495516575",
-    "title_en": "Edison CEO: California utilities face credit downgrades without wildfire reforms",
-    "title_zh": "爱迪生首席执行官：加州公用事业公司在没有野火改革的情况下面临信用降级",
-    "url": "https://www.utilitydive.com/news/california-utilities-credit-downgrades-wildfire-liability-edison/826678/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-31T15:00:00+00:00"
-  },
-  "f4bed3456dc7": {
-    "id": "f4bed3456dc7",
-    "title_en": "ADNOC Makes One of the Biggest Changes to Middle East Crude Pricing in Years",
-    "title_zh": "ADNOC对中东原油价格进行了多年来最大的调整之一",
-    "url": "https://oilprice.com/Energy/Oil-Prices/ADNOC-Makes-One-of-the-Biggest-Changes-to-Middle-East-Crude-Pricing-in-Years.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T14:52:16+00:00"
-  },
-  "766047a4b884": {
-    "id": "766047a4b884",
-    "title_en": "Beyond solar: The European playbook for whole home electrification",
-    "title_zh": "超越太阳能：全屋电气化的欧洲剧本",
-    "url": "https://www.solarpowerworldonline.com/2026/07/beyond-solar-the-european-playbook-for-whole-home-electrification/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-31T14:28:09+00:00"
-  },
-  "6e6268c53031": {
-    "id": "6e6268c53031",
-    "title_en": "Three reasons your customers want a battery right now",
-    "title_zh": "客户现在想要电池的三个原因",
-    "url": "https://www.solarpowerworldonline.com/2026/07/three-reasons-your-customers-want-a-battery-right-now/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-31T14:27:25+00:00"
-  },
-  "bec38201e85e": {
-    "id": "bec38201e85e",
-    "title_en": "Hyundai IONIQ 5 spotted with a new high-tech setup and large 18″ digital screen",
-    "title_zh": "现代IONIQ 5配备了新的高科技装置和18英寸大数字屏幕",
-    "url": "https://electrek.co/2026/07/31/hyundai-ioniq-5-spotted-new-high-tech-setup-18-screen/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-31T14:16:57+00:00"
-  },
-  "204a4c9e5c8d": {
-    "id": "204a4c9e5c8d",
-    "title_en": "Report That Tesla Considering Sale of Chinese Business Reportedly Completely False",
-    "title_zh": "特斯拉考虑出售中国企业的报道完全是假的",
-    "url": "https://cleantechnica.com/2026/07/31/report-that-tesla-considering-sale-of-chinese-business-reportedly-completely-false/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-07-31T14:05:57+00:00"
-  },
-  "874150429684": {
-    "id": "874150429684",
-    "title_en": "Global Coal Consumption Hits Record Even as Coal Power Declines",
-    "title_zh": "尽管煤炭发电量下降，全球煤炭消费量仍创下历史新高",
-    "url": "https://oilprice.com/Energy/Coal/Global-Coal-Consumption-Hits-Record-Even-as-Coal-Power-Declines.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T14:00:00+00:00"
-  },
-  "defb25ffa52b": {
-    "id": "defb25ffa52b",
-    "title_en": "ADNOC Overhauls Crude Pricing Methodology",
-    "title_zh": "ADNOC改革原油定价方法",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Overhauls-Crude-Pricing-Methodology.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T13:45:00+00:00"
-  },
-  "e71d58dc4641": {
-    "id": "e71d58dc4641",
-    "title_en": "Shell Sells Cyprus Gas Stake to MOL for $720 Million",
-    "title_zh": "壳牌以7.2亿美元的价格将塞浦路斯天然气股份出售给MOL",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-Cyprus-Gas-Stake-to-MOL-for-720-Million.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T13:30:00+00:00"
-  },
-  "3b2dfe04d141": {
-    "id": "3b2dfe04d141",
-    "title_en": "Windward Offshore Takes Delivery of Third CSOV from Vard",
-    "title_zh": "Windward Offshore从Vard接收第三架CSOV",
-    "url": "https://www.offshorewind.biz/2026/07/31/windward-offshore-takes-delivery-of-third-csov-from-vard/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-31T13:02:50+00:00"
-  },
-  "3dc4e8f20d52": {
-    "id": "3dc4e8f20d52",
-    "title_en": "Anyland Rev Pro e-motos have this one weird trick…auto wheelies!",
-    "title_zh": "Anyland Rev Pro电动汽车有一个奇怪的技巧……自动轮！",
-    "url": "https://electrek.co/2026/07/31/anyland-rev-pro-e-motos-have-this-one-weird-trick-auto-wheelies/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-31T12:55:13+00:00"
-  },
-  "e2814c8623f3": {
-    "id": "e2814c8623f3",
-    "title_en": "SK Oceanplant to Build Jacket Foundation for BalWin5 Offshore Converter Platform",
-    "title_zh": "SK Oceanplant将为BalWin5海上转换平台建造导管架基础",
-    "url": "https://www.offshorewind.biz/2026/07/31/sk-oceanplant-to-build-jacket-foundation-for-balwin5-offshore-converter-platform/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-07-31T12:36:08+00:00"
-  },
-  "4dde83c4147a": {
-    "id": "4dde83c4147a",
-    "title_en": "Wheel-E Podcast: VW e-bikes, Juiced Scrambler, Anyland Auto-wheelie, more",
-    "title_zh": "Wheel-E播客：大众电动自行车、Juiced Scramber、Anyland Auto wheeley等",
-    "url": "https://electrek.co/2026/07/31/wheel-e-podcast-vw-e-bikes-juiced-scrambler-anyland-auto-wheelie-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-07-31T12:33:52+00:00"
   }
 }
