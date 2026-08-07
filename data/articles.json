@@ -1,4 +1,49 @@
 {
+  "3f8284625821": {
+    "id": "3f8284625821",
+    "title_en": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India’s utility-scale BESS market with 20GWh MoU",
+    "title_zh": "电动汽车制造商Ola Electric以20GWh的谅解备忘录将电池到电池的垂直整合引入印度公用事业规模的BESS市场",
+    "url": "https://www.energy-storage.news/ev-manufacturer-ola-electric-brings-cell-to-pack-vertical-integration-into-indias-utility-scale-bess-market-with-20gwh-mou/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-07T07:11:35+00:00"
+  },
+  "ba8a11e7701e": {
+    "id": "ba8a11e7701e",
+    "title_en": "Italian scientists unveil 121-sensor platform for agrivoltaic greenhouse monitoring",
+    "title_zh": "意大利科学家推出用于农业光伏温室监测的121个传感器平台",
+    "url": "https://www.pv-magazine.com/2026/08/07/new-121-sensor-platform-for-agrivoltaic-greenhouse-monitoring/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T07:00:00+00:00"
+  },
+  "f8b6eb150e05": {
+    "id": "f8b6eb150e05",
+    "title_en": "Russia Turns to South Korea for Fuel as Refinery Crisis Deepens",
+    "title_zh": "炼油厂危机加剧，俄罗斯转向韩国寻求燃料",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Turns-to-South-Korea-for-Fuel-as-Refinery-Crisis-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-07T07:00:00+00:00"
+  },
+  "661df45eb5dc": {
+    "id": "661df45eb5dc",
+    "title_en": "US announces tariffs, minimum import price on polysilicon imports",
+    "title_zh": "美国宣布多晶硅进口关税和最低进口价格",
+    "url": "https://www.pv-magazine.com/2026/08/07/us-announces-tariffs-minimum-import-price-on-polysilicon-imports/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-07T06:43:21+00:00"
+  },
+  "75842fa0ca76": {
+    "id": "75842fa0ca76",
+    "title_en": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
+    "title_zh": "胡塞袭击增加沙特供应风险，油价飙升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-07T05:40:20+00:00"
+  },
   "12465d0f0cf9": {
     "id": "12465d0f0cf9",
     "title_en": "Gentari Australia reaches mechanical completion at 243MWp solar-plus-storage project",
@@ -4453,50 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-07-31T12:33:52+00:00"
-  },
-  "6b14650fa612": {
-    "id": "6b14650fa612",
-    "title_en": "Xpanner unveils pile installation aid that attaches to skid steer",
-    "title_zh": "Xpanner推出附在滑移转向器上的桩安装辅助装置",
-    "url": "https://www.solarpowerworldonline.com/2026/07/xpanner-unveils-pile-installation-aid-that-attaches-to-skid-steer/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-31T12:32:42+00:00"
-  },
-  "7a691b1e80d7": {
-    "id": "7a691b1e80d7",
-    "title_en": "Xcel Energy on track for 3% retail sales growth this year, executives say",
-    "title_zh": "Xcel Energy高管表示，今年零售额有望增长3%",
-    "url": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-07-31T12:30:38+00:00"
-  },
-  "1eb73e79dd83": {
-    "id": "1eb73e79dd83",
-    "title_en": "UK solar capacity hits 22.8 GW as market prepares for plug-in launch",
-    "title_zh": "英国太阳能装机容量达到22.8GW，市场准备推出插件",
-    "url": "https://www.pv-magazine.com/2026/07/31/uk-solar-capacity-hits-22-8-gw-as-market-prepares-for-plug-in-launch/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-07-31T12:30:00+00:00"
-  },
-  "432f076c0760": {
-    "id": "432f076c0760",
-    "title_en": "Oil Prices Inch Higher as Iran Strikes U.S. Bases in Kuwait and Bahrain",
-    "title_zh": "伊朗袭击美国在科威特和巴林的基地，油价小幅上涨",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Inch-Higher-as-Iran-Strikes-US-Bases-in-Kuwait-and-Bahrain.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-07-31T12:30:00+00:00"
-  },
-  "16b149f94a01": {
-    "id": "16b149f94a01",
-    "title_en": "Origis nears 1-GW milestone on sprawling Rockhound Solar complex in Texas",
-    "title_zh": "Origis在德克萨斯州庞大的Rockhound太阳能综合体上接近1GW的里程碑",
-    "url": "https://www.solarpowerworldonline.com/2026/07/origis-nears-1-gw-milestone-on-sprawling-rockhound-solar-complex-in-texas/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-07-31T12:18:01+00:00"
   }
 }
