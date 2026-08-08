@@ -1,4 +1,22 @@
 {
+  "5699913cf2a1": {
+    "id": "5699913cf2a1",
+    "title_en": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
+    "title_zh": "为什么东南亚的清洁能源热潮可能会在开始前停滞",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Southeast-Asias-Clean-Energy-Surge-Could-Stall-Before-It-Starts.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-08T21:00:00+00:00"
+  },
+  "cae25a56b392": {
+    "id": "cae25a56b392",
+    "title_en": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
+    "title_zh": "随着霍尔木兹干扰的持续，航空公司争相购买喷气燃料",
+    "url": "https://oilprice.com/Energy/Energy-General/Airlines-Scramble-for-Jet-Fuel-as-Hormuz-Disruption-Drags-On.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-08T19:00:00+00:00"
+  },
   "501fba5089a3": {
     "id": "501fba5089a3",
     "title_en": "Berkeley Lab's New Fusion Materials Breakthrough, Explained",
@@ -4480,23 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-08-03T11:31:40+00:00"
-  },
-  "c756c321eb84": {
-    "id": "c756c321eb84",
-    "title_en": "Shell Sells European Onshore Renewables Portfolio to TotalEnergies",
-    "title_zh": "壳牌向TotalEnergies出售欧洲陆上可再生能源组合",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-European-Onshore-Renewables-Portfolio-to-TotalEnergies.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T11:30:00+00:00"
-  },
-  "10bc8d500bfe": {
-    "id": "10bc8d500bfe",
-    "title_en": "European Commission approves scheme to support 370MWh of battery storage in Slovenia",
-    "title_zh": "欧盟委员会批准在斯洛文尼亚支持370MWh电池储能的计划",
-    "url": "https://www.energy-storage.news/european-commission-approves-scheme-to-support-370mwh-of-battery-storage-in-slovenia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-03T11:23:32+00:00"
   }
 }
