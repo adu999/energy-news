@@ -1,4 +1,49 @@
 {
+  "b8df9a209925": {
+    "id": "b8df9a209925",
+    "title_en": "BYD Expands PH EV Lineup with Double Model Launch, Celebrates Sealion 6 Milestone",
+    "title_zh": "比亚迪扩大PH电动汽车阵容，推出两款车型，庆祝Sealion 6里程碑",
+    "url": "https://cleantechnica.com/2026/08/08/byd-expands-ph-ev-lineup-with-double-model-launch-celebrates-sealion-6-milestone/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T15:04:01+00:00"
+  },
+  "ea7c27697fb6": {
+    "id": "ea7c27697fb6",
+    "title_en": "Europe Bets Billions on North Africa’s Clean Energy Potential",
+    "title_zh": "欧洲投资数十亿美元开发北非的清洁能源潜力",
+    "url": "https://oilprice.com/Energy/Energy-General/Europe-Bets-Billions-on-North-Africas-Clean-Energy-Potential.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-08T15:00:00+00:00"
+  },
+  "e3bb924cf05b": {
+    "id": "e3bb924cf05b",
+    "title_en": "Sneaky safari: Thula Solutions’ electric 4×4 gets you closer to nature [video]",
+    "title_zh": "偷偷摸摸的狩猎之旅：Thula Solutions的电动4x4让你更接近自然[视频]",
+    "url": "https://electrek.co/2026/08/08/sneaky-safari-thula-solutions-electric-4x4-gets-you-closer-to-nature-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-08T14:05:17+00:00"
+  },
+  "3f5605a32986": {
+    "id": "3f5605a32986",
+    "title_en": "Heavy equipment space race heats up with new Vermeer lunar excavator [update]",
+    "title_zh": "威猛（Vermeer）新型月球挖掘机掀起重型设备太空竞赛[更新]",
+    "url": "https://electrek.co/2026/08/08/heavy-equipment-space-race-heats-up-with-new-vermeer-lunar-excavator/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-08T13:00:11+00:00"
+  },
+  "71ee9ed35b36": {
+    "id": "71ee9ed35b36",
+    "title_en": "GM is making EV charging a LOT easier",
+    "title_zh": "通用汽车正在使电动汽车充电变得更加容易",
+    "url": "https://electrek.co/2026/08/08/gm-is-making-ev-charging-a-lot-easier/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-08T13:00:00+00:00"
+  },
   "838f57d29559": {
     "id": "838f57d29559",
     "title_en": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV",
@@ -701,6 +746,15 @@
     "category": "太阳能",
     "pub_ts": "2026-08-07T10:00:00+00:00"
   },
+  "4c3672b427ef": {
+    "id": "4c3672b427ef",
+    "title_en": "ABB invests in LevelTen Energy to support clean energy procurement",
+    "title_zh": "ABB投资LevelTen Energy支持清洁能源采购",
+    "url": "https://www.energymonitor.ai/news/abb-invests-in-levelten-energy/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-07T09:54:00+00:00"
+  },
   "9a09f48af700": {
     "id": "9a09f48af700",
     "title_en": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
@@ -727,6 +781,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-07T09:30:00+00:00"
+  },
+  "4ece2067e357": {
+    "id": "4ece2067e357",
+    "title_en": "Construction starts on 420MW solar and BESS facility in Mexico",
+    "title_zh": "墨西哥420MW太阳能和BESS设施开工建设",
+    "url": "https://www.energymonitor.ai/news/construction-begins-420mw-solar-bess/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-07T09:26:43+00:00"
   },
   "65a07ccc9c3a": {
     "id": "65a07ccc9c3a",
@@ -763,6 +826,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-07T08:15:00+00:00"
+  },
+  "02ac3bc63b1b": {
+    "id": "02ac3bc63b1b",
+    "title_en": "Construction begins on Utilitas’ wind and battery project in Latvia",
+    "title_zh": "Utilitas在拉脱维亚的风能和电池项目开工",
+    "url": "https://www.energymonitor.ai/news/construction-utilitas-wind-battery-project/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-07T08:03:03+00:00"
   },
   "cb351743816c": {
     "id": "cb351743816c",
@@ -4426,77 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-03T10:30:00+00:00"
-  },
-  "365af10f7929": {
-    "id": "365af10f7929",
-    "title_en": "India’s Imports of Russian Crude Hit New High in July",
-    "title_zh": "印度7月俄罗斯原油进口创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Crude-Hit-New-High-in-July.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T10:30:00+00:00"
-  },
-  "8fa2099d1284": {
-    "id": "8fa2099d1284",
-    "title_en": "Italian Startup Testing Offshore Wind Energy Storage Technology Off Calabria",
-    "title_zh": "意大利初创公司在卡拉布里亚附近测试海上风能储存技术",
-    "url": "https://www.offshorewind.biz/2026/08/03/italian-startup-testing-offshore-wind-energy-storage-technology-off-calabria/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-03T10:17:12+00:00"
-  },
-  "e997272b5d57": {
-    "id": "e997272b5d57",
-    "title_en": "Convertus secures $96m for Canadian biofuel facility",
-    "title_zh": "Convertus为加拿大生物燃料设施获得9600万美元",
-    "url": "https://www.energymonitor.ai/news/convertus-secures-biofuel-facility/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-03T10:09:25+00:00"
-  },
-  "67f39ef6af3c": {
-    "id": "67f39ef6af3c",
-    "title_en": "Dutch researchers present power management system for PV, batteries, heat pumps, EVs",
-    "title_zh": "荷兰研究人员展示了光伏、电池、热泵、电动汽车的电源管理系统",
-    "url": "https://www.pv-magazine.com/2026/08/03/dutch-researchers-develop-power-management-system-for-pv-batteries-heat-pumps-evs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T10:00:00+00:00"
-  },
-  "3589e26ca614": {
-    "id": "3589e26ca614",
-    "title_en": "TotalEnergies to buy Shell's European onshore renewables business",
-    "title_zh": "TotalEnergies收购壳牌欧洲陆上可再生能源业务",
-    "url": "https://www.windpowermonthly.com/article/1966341/totalenergies-buy-shells-european-onshore-renewables-business",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-03T09:53:43+00:00"
-  },
-  "cec41d36159e": {
-    "id": "cec41d36159e",
-    "title_en": "Ulanqab selects developers for 4.4 GWh grid-forming storage buildout",
-    "title_zh": "乌兰察布选择开发商进行4.4 GWh并网储能建设",
-    "url": "https://www.pv-magazine.com/2026/08/03/ulanqab-selects-developers-for-4-4-gwh-grid-forming-storage-buildout/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T09:30:00+00:00"
-  },
-  "78dd9ba93aef": {
-    "id": "78dd9ba93aef",
-    "title_en": "BP Completes Sale of German Refinery as Portfolio Overhaul Accelerates",
-    "title_zh": "英国石油公司完成对德国炼油厂的出售，投资组合大修加速",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Completes-Sale-of-German-Refinery-as-Portfolio-Overhaul-Accelerates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T09:30:00+00:00"
-  },
-  "bd9e4dc6e5d7": {
-    "id": "bd9e4dc6e5d7",
-    "title_en": "Vestas appoints Shell veteran for Europe and offshore role",
-    "title_zh": "维斯塔斯任命壳牌资深人士担任欧洲和海上职位",
-    "url": "https://www.windpowermonthly.com/article/1966334/vestas-appoints-shell-veteran-europe-offshore-role",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-03T09:18:25+00:00"
   }
 }
