@@ -1,4 +1,31 @@
 {
+  "838f57d29559": {
+    "id": "838f57d29559",
+    "title_en": "Volkswagen’s new electric era begins with reveal of ID. ERA 5X SUV",
+    "title_zh": "大众汽车的新电动时代始于ID era 5X SUV的亮相",
+    "url": "https://electrek.co/2026/08/08/volkswagens-new-electric-era-begins-with-reveal-of-id-era-5x-suv/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-08T12:38:28+00:00"
+  },
+  "ae44db859579": {
+    "id": "ae44db859579",
+    "title_en": "NYC declares war on fast e-bikes, sends cease-and-desist letters to Amazon and Walmart",
+    "title_zh": "纽约市向快速电动自行车宣战，向亚马逊和沃尔玛发出停止函",
+    "url": "https://electrek.co/2026/08/08/nyc-declares-war-on-fast-e-bikes-sends-cease-and-desist-letters-to-amazon-and-walmart/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-08T11:24:00+00:00"
+  },
+  "bdba553f64c0": {
+    "id": "bdba553f64c0",
+    "title_en": "World’s Largest 12.8 GWh Battery Storage Cluster Activated in China",
+    "title_zh": "全球最大的12.8GWh电池储能集群在中国启动",
+    "url": "https://cleantechnica.com/2026/08/08/worlds-largest-12-8-gwh-battery-storage-cluster-activated-in-china/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T10:11:14+00:00"
+  },
   "d882126dca6a": {
     "id": "d882126dca6a",
     "title_en": "Huawei Scales EV Platform Deliveries As Automated Driving Partnerships Expand Across China",
@@ -4471,32 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-08-03T09:18:25+00:00"
-  },
-  "b8afd580ef45": {
-    "id": "b8afd580ef45",
-    "title_en": "How PG&E scaled home energy reports into wide-ranging energy reduction and bill savings",
-    "title_zh": "PG&E如何将家庭能源报告扩展到广泛的节能和账单节省",
-    "url": "https://www.utilitydive.com/spons/how-pge-scaled-home-energy-reports-into-wide-ranging-energy-reduction-and/826315/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-03T09:00:00+00:00"
-  },
-  "77cb02f195d1": {
-    "id": "77cb02f195d1",
-    "title_en": "Converging geopolitical and enterprise risks in energy: What leaders need to anticipate now",
-    "title_zh": "能源地缘政治和企业风险趋同：领导者现在需要预测什么",
-    "url": "https://www.utilitydive.com/spons/converging-geopolitical-and-enterprise-risks-in-energy-what-leaders-need-t/825738/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-03T09:00:00+00:00"
-  },
-  "64314909ce16": {
-    "id": "64314909ce16",
-    "title_en": "Leading the agentic grid transformation",
-    "title_zh": "引领代理网格转型",
-    "url": "https://www.utilitydive.com/spons/leading-the-agentic-grid-transformation/826181/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-03T09:00:00+00:00"
   }
 }
