@@ -1,4 +1,40 @@
 {
+  "65d83e662aad": {
+    "id": "65d83e662aad",
+    "title_en": "XPENG Set to Enter the Philippines with the Globalized Mona",
+    "title_zh": "XPENG将携全球化的Mona进入菲律宾",
+    "url": "https://cleantechnica.com/2026/08/07/xpeng-set-to-enter-the-philippines-with-the-globalized-mona/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T02:45:02+00:00"
+  },
+  "7e9a5c000f1d": {
+    "id": "7e9a5c000f1d",
+    "title_en": "R&D 100 Awards Honor 4 NLR Innovations",
+    "title_zh": "研发100奖荣誉4 NLR创新",
+    "url": "https://cleantechnica.com/2026/08/07/rd-100-awards-honor-4-nlr-innovations/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T02:26:43+00:00"
+  },
+  "aa7045b6ae3f": {
+    "id": "aa7045b6ae3f",
+    "title_en": "The Road To Green Hydrogen Is Paved With Green Deuterium",
+    "title_zh": "绿色氢之路由绿色氘铺就",
+    "url": "https://cleantechnica.com/2026/08/07/green-hydrogen-us-renewable-energy-delaware-mid-atlantic/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T02:17:14+00:00"
+  },
+  "4b6f3702fc0d": {
+    "id": "4b6f3702fc0d",
+    "title_en": "NIO Opens Battery Swapping to Firefly and Launches 5th-Generation Swapping Stations",
+    "title_zh": "NIO向Firefly开放电池更换并推出第五代更换站",
+    "url": "https://cleantechnica.com/2026/08/07/nio-opens-battery-swapping-to-firefly-and-launches-5th-generation-swapping-stations/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T01:47:33+00:00"
+  },
   "f5bae86b1d44": {
     "id": "f5bae86b1d44",
     "title_en": "Waymo CEO: Don’t Move Fast & Break Things With Physical AI",
@@ -4462,41 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-03T08:32:32+00:00"
-  },
-  "57519779e419": {
-    "id": "57519779e419",
-    "title_en": "Samsung SDI on track with US LFP cell production, expects demand to outstrip production",
-    "title_zh": "三星SDI与美国LFP电池产量同步，预计需求将超过产量",
-    "url": "https://www.energy-storage.news/samsung-sdi-on-track-with-us-lfp-cell-production-expects-demand-to-outstrip-production/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-03T08:31:51+00:00"
-  },
-  "251ef9ed3d49": {
-    "id": "251ef9ed3d49",
-    "title_en": "Peruvian researchers develop foldable solar panels for naval, mining applications",
-    "title_zh": "秘鲁研究人员为海军和采矿应用开发了可折叠太阳能电池板",
-    "url": "https://www.pv-magazine.com/2026/08/03/peruvian-researchers-develop-foldable-solar-panels-for-naval-mining-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T08:30:00+00:00"
-  },
-  "7ad1ad695ec5": {
-    "id": "7ad1ad695ec5",
-    "title_en": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal",
-    "title_zh": "随着欧佩克+完成减产逆转，科威特石油产量激增",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Oil-Production-Surges-as-OPEC-Completes-Output-Cut-Reversal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T08:30:00+00:00"
-  },
-  "fce12a754b18": {
-    "id": "fce12a754b18",
-    "title_en": "Scientists develop perovskite-organic tandem solar cell with enhanced reverse-bias stability",
-    "title_zh": "科学家开发出具有增强反向偏压稳定性的钙钛矿有机串联太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/08/03/scientists-develop-perovskite-organic-tandem-solar-cell-with-enhanced-reverse-bias-stability/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T08:00:00+00:00"
   }
 }
