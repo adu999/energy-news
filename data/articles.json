@@ -1,4 +1,67 @@
 {
+  "f5bae86b1d44": {
+    "id": "f5bae86b1d44",
+    "title_en": "Waymo CEO: Don’t Move Fast & Break Things With Physical AI",
+    "title_zh": "Waymo首席执行官：不要快速行动，用物理人工智能打破现状",
+    "url": "https://cleantechnica.com/2026/08/07/waymo-ceo-dont-move-fast-break-things-with-physical-ai/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T01:24:06+00:00"
+  },
+  "6fe90fdbece1": {
+    "id": "6fe90fdbece1",
+    "title_en": "U.S. Battery Storage Capacity Averaged 70% Growth Over The Last Three Years",
+    "title_zh": "美国电池储能容量在过去三年中平均增长了70%",
+    "url": "https://cleantechnica.com/2026/08/07/u-s-battery-storage-capacity-averaged-70-growth-over-the-last-three-years/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T00:32:31+00:00"
+  },
+  "a296dda2604f": {
+    "id": "a296dda2604f",
+    "title_en": "First Fully Electric VW ID. ERA Vehicle — ID. ERA 5X SUV",
+    "title_zh": "首款全电动大众ID.ERA汽车--ID.ERA 5X SUV",
+    "url": "https://cleantechnica.com/2026/08/07/first-fully-electric-vw-id-era-vehicle-id-era-5x-suv/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-08T00:18:01+00:00"
+  },
+  "0c6ab3d6da12": {
+    "id": "0c6ab3d6da12",
+    "title_en": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+    "title_zh": "尽管中东动荡加剧，石油交易商仍持看跌态度",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-07T23:00:00+00:00"
+  },
+  "6e251fadf60b": {
+    "id": "6e251fadf60b",
+    "title_en": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
+    "title_zh": "欧盟计划到2030年将储能容量增加两倍",
+    "url": "https://oilprice.com/Energy/Energy-General/EU-Locks-In-Plan-To-Triple-Energy-Storage-Capacity-By-2030.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-07T23:00:00+00:00"
+  },
+  "9f6f87ec82db": {
+    "id": "9f6f87ec82db",
+    "title_en": "Trump launched big new solar tariffs. Here's what it means.",
+    "title_zh": "特朗普推出了新的太阳能关税。这就是它的意思。",
+    "url": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-07T22:30:00+00:00"
+  },
+  "32d846e16548": {
+    "id": "32d846e16548",
+    "title_en": "Oh, So Trump Loves Solar Power After All?",
+    "title_zh": "哦，所以特朗普毕竟喜欢太阳能？",
+    "url": "https://cleantechnica.com/2026/08/07/solar-power-us-trade-tariffs-trump-manufacturing-polysilicon/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-07T21:53:48+00:00"
+  },
   "cca7e4ded886": {
     "id": "cca7e4ded886",
     "title_en": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-03T08:00:00+00:00"
-  },
-  "1295187c3459": {
-    "id": "1295187c3459",
-    "title_en": "Avaada secures $1.3bn in financing for 2.15GW renewable energy projects",
-    "title_zh": "Avaada为2.15GW可再生能源项目获得13亿美元融资",
-    "url": "https://www.energymonitor.ai/news/avaada-secures-1-3bn-financing/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-03T07:56:35+00:00"
-  },
-  "4a1aff7bcc20": {
-    "id": "4a1aff7bcc20",
-    "title_en": "TCL Solar to supply back-contact modules to Australian solar projects",
-    "title_zh": "TCL太阳能将为澳大利亚太阳能项目提供背接触模块",
-    "url": "https://www.pv-magazine.com/2026/08/03/tcl-to-supply-modules-for-worlds-largest-back-contact-solar-power-station/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T07:30:00+00:00"
-  },
-  "f0256129ac4a": {
-    "id": "f0256129ac4a",
-    "title_en": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
-    "title_zh": "印度采取行动拯救因电网短缺而停滞的可再生能源项目",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T07:30:00+00:00"
-  },
-  "a9435b90ecfc": {
-    "id": "a9435b90ecfc",
-    "title_en": "Illinois Solar for All is, at last, taking off",
-    "title_zh": "伊利诺伊太阳能公司终于开始腾飞",
-    "url": "https://www.canarymedia.com/articles/solar/illinois-solar-for-all",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-03T07:30:00+00:00"
-  },
-  "e13b40f4859e": {
-    "id": "e13b40f4859e",
-    "title_en": "Virginia lays groundwork to combine more solar with farming",
-    "title_zh": "弗吉尼亚州为将更多太阳能与农业相结合奠定了基础",
-    "url": "https://www.canarymedia.com/articles/food-and-farms/virginia-solar-with-farming",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-03T07:30:00+00:00"
-  },
-  "1e18c46f80df": {
-    "id": "1e18c46f80df",
-    "title_en": "North Star Secures EUR 321 Million Financing to Support Offshore Wind Fleet Expansion",
-    "title_zh": "北极星获得3.21亿欧元融资支持海上风电船队扩张",
-    "url": "https://www.offshorewind.biz/2026/08/03/north-star-secures-eur-321-million-financing-to-support-offshore-wind-fleet-expansion/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-03T07:05:20+00:00"
-  },
-  "b7b265662acb": {
-    "id": "b7b265662acb",
-    "title_en": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
-    "title_zh": "希腊液化天然气船在海上事故后安全通过霍尔木兹",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T06:30:00+00:00"
   }
 }
