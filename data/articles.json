@@ -1,4 +1,22 @@
 {
+  "fa932300db14": {
+    "id": "fa932300db14",
+    "title_en": "Survey Sunday: this is how Chinese EVs will make it to America",
+    "title_zh": "周日调查：中国电动汽车将如何进入美国",
+    "url": "https://electrek.co/2026/08/09/survey-sunday-this-is-how-chinese-evs-will-make-it-to-america/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-09T19:48:32+00:00"
+  },
+  "41d0cac56a8b": {
+    "id": "41d0cac56a8b",
+    "title_en": "What Does It Take to Reopen a Nuclear Power Plant?",
+    "title_zh": "重启核电站需要什么？",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/What-Does-It-Take-to-Reopen-a-Nuclear-Power-Plant.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-09T19:00:00+00:00"
+  },
   "b45383925113": {
     "id": "b45383925113",
     "title_en": "Pony.ai to put 100,000 autonomous electric trucks on the road by 2030 [video]",
@@ -4480,23 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-08-03T12:07:25+00:00"
-  },
-  "fc2a7e01670c": {
-    "id": "fc2a7e01670c",
-    "title_en": "Argentina’s solar train brings zero-emission travel to an ancient trade route",
-    "title_zh": "阿根廷的太阳能列车为一条古老的贸易路线带来了零排放旅行",
-    "url": "https://electrek.co/2026/08/03/argentinas-solar-train-brings-zero-emission-travel-to-an-ancient-trade-route/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-03T12:04:44+00:00"
-  },
-  "c6242442a595": {
-    "id": "c6242442a595",
-    "title_en": "Sono Motors files for insolvency, puts solar business up for sale",
-    "title_zh": "Sono Motors申请破产，将太阳能业务出售",
-    "url": "https://www.pv-magazine.com/2026/08/03/sono-motors-files-for-insolvency-puts-solar-business-up-for-sale/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T11:45:00+00:00"
   }
 }
