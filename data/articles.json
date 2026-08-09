@@ -1,4 +1,13 @@
 {
+  "9422b77911ab": {
+    "id": "9422b77911ab",
+    "title_en": "How Engineers Are Reinventing the Wind Turbine",
+    "title_zh": "工程师如何重塑风力涡轮机",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-Engineers-Are-Reinventing-the-Wind-Turbine.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-09T15:00:00+00:00"
+  },
   "f11f81b814a3": {
     "id": "f11f81b814a3",
     "title_en": "Paris now requires electric scooter riders to wear high-vis vests or face fines",
@@ -4489,14 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-08-03T11:33:56+00:00"
-  },
-  "b9775617e1e6": {
-    "id": "b9775617e1e6",
-    "title_en": "In the Thar Desert, Pakistan Proves Its Indigenous Coal Can Be a Reliable Power Resource",
-    "title_zh": "在塔尔沙漠，巴基斯坦证明其本土煤炭可以成为可靠的电力资源",
-    "url": "https://www.powermag.com/in-the-thar-desert-pakistan-proves-its-indigenous-coal-can-be-a-reliable-power-resource/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-03T11:33:26+00:00"
   }
 }
