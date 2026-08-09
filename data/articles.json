@@ -1,4 +1,13 @@
 {
+  "52168527ca92": {
+    "id": "52168527ca92",
+    "title_en": "Power Systems Have More Flexibility Plans Than Flexible Grids",
+    "title_zh": "电力系统比灵活电网有更多的灵活性计划",
+    "url": "https://cleantechnica.com/2026/08/09/grid-flexibility-plans-outpacing-delivery/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-09T06:40:17+00:00"
+  },
   "23a01def6c67": {
     "id": "23a01def6c67",
     "title_en": "One in Five Isn’t EV Leadership",
@@ -4489,14 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-08-03T11:32:55+00:00"
-  },
-  "1428dd3817df": {
-    "id": "1428dd3817df",
-    "title_en": "Seatrium’s Floating, Remote-Controlled DER Platform Sends First Electrons to Singapore’s Grid",
-    "title_zh": "Seatrium的浮动远程控制DER平台向新加坡电网发送首批电子",
-    "url": "https://www.powermag.com/seatriums-floating-remote-controlled-der-platform-sends-first-electrons-to-singapores-grid/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-03T11:32:38+00:00"
   }
 }
