@@ -1,4 +1,31 @@
 {
+  "23a01def6c67": {
+    "id": "23a01def6c67",
+    "title_en": "One in Five Isn’t EV Leadership",
+    "title_zh": "五分之一不是电动汽车领导力",
+    "url": "https://cleantechnica.com/2026/08/08/one-in-five-isnt-ev-leadership/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-09T01:24:51+00:00"
+  },
+  "ea5c1efc1478": {
+    "id": "ea5c1efc1478",
+    "title_en": "Speculations & Musings About The Ford Fathom Electric Pickup Truck",
+    "title_zh": "关于福特Fathom电动皮卡的猜测与思考",
+    "url": "https://cleantechnica.com/2026/08/08/speculations-musings-about-the-ford-fathom-electric-pickup-truck/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-09T00:15:36+00:00"
+  },
+  "1c0bd45b3308": {
+    "id": "1c0bd45b3308",
+    "title_en": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
+    "title_zh": "美国能源帮助缓冲霍尔木兹的全球供应冲击",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-08T23:00:00+00:00"
+  },
   "5699913cf2a1": {
     "id": "5699913cf2a1",
     "title_en": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
@@ -4471,32 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-08-03T11:32:38+00:00"
-  },
-  "cee7bbc87c89": {
-    "id": "cee7bbc87c89",
-    "title_en": "Speed as Strategy:  Rabigh Reinforcement Delivers 1,179 MW on an Accelerated Timeline",
-    "title_zh": "速度即战略：拉比格加固项目在加速时间表上交付1179兆瓦",
-    "url": "https://www.powermag.com/speed-as-strategy-rabigh-reinforcement-delivers-1179-mw-on-an-accelerated-timeline/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-03T11:32:22+00:00"
-  },
-  "aa86ab4c7649": {
-    "id": "aa86ab4c7649",
-    "title_en": "Timmerman Power Plant Unit 1: A Fast-Track Blueprint for Flexible Power in Texas",
-    "title_zh": "蒂默尔曼发电厂第一单元：德克萨斯州灵活电力的快速跟踪蓝图",
-    "url": "https://www.powermag.com/timmerman-power-plant-unit-1-a-fast-track-blueprint-for-flexible-power-in-texas/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-03T11:32:12+00:00"
-  },
-  "59ad13caa9d3": {
-    "id": "59ad13caa9d3",
-    "title_en": "World’s Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
-    "title_zh": "全球最大的能源贷款机构将联邦融资转向基本负荷、输电和核能",
-    "url": "https://www.powermag.com/worlds-largest-energy-lender-steers-federal-financing-toward-baseload-transmission-and-nuclear/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-03T11:31:40+00:00"
   }
 }
