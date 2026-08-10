@@ -1,4 +1,121 @@
 {
+  "fd6eaec1c53f": {
+    "id": "fd6eaec1c53f",
+    "title_en": "Advanced sodium-ion battery prototypes now approaching 200 Wh/kg",
+    "title_zh": "先进的钠离子电池原型现在接近200 Wh/kg",
+    "url": "https://www.pv-magazine.com/2026/08/10/advanced-sodium-ion-battery-prototypes-now-approaching-200-wh-kg/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T10:06:58+00:00"
+  },
+  "aa9f2eb75545": {
+    "id": "aa9f2eb75545",
+    "title_en": "Italy to allocate 10 GW of PV under new FerX incentive scheme",
+    "title_zh": "意大利将根据新的FerX激励计划分配10吉瓦的光伏发电",
+    "url": "https://www.pv-magazine.com/2026/08/10/italy-to-allocate-10-gw-of-pv-under-new-ferx-incentive-scheme/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T09:49:58+00:00"
+  },
+  "fbbdde25f2cd": {
+    "id": "fbbdde25f2cd",
+    "title_en": "PPC to acquire ABO Energy assets in Poland and Hungary",
+    "title_zh": "PPC将收购ABO Energy在波兰和匈牙利的资产",
+    "url": "https://www.energymonitor.ai/news/ppc-acquire-abo-energy-assets/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-10T09:43:29+00:00"
+  },
+  "d2c49a8edf0e": {
+    "id": "d2c49a8edf0e",
+    "title_en": "ZPMC Starts Building Second SOV for LD Armateurs, Chartered for Nordlicht Offshore Wind Farms",
+    "title_zh": "ZPMC开始为LD Armateur建造第二艘SOV，为Nordlicht海上风电场特许建造",
+    "url": "https://www.offshorewind.biz/2026/08/10/zpmc-starts-building-second-sov-for-ld-armateurs-chartered-for-nordlicht-offshore-wind-farms/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-10T09:05:37+00:00"
+  },
+  "66f5133a396c": {
+    "id": "66f5133a396c",
+    "title_en": "Building a more resilient distribution grid: improving reliability and storm recovery",
+    "title_zh": "构建更具弹性的配电网：提高可靠性和风暴恢复能力",
+    "url": "https://www.utilitydive.com/spons/building-a-more-resilient-distribution-grid-improving-reliability-and-stor/827322/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-10T09:00:00+00:00"
+  },
+  "03da2a11aee1": {
+    "id": "03da2a11aee1",
+    "title_en": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
+    "title_zh": "乌克兰无人机袭击俄罗斯炼油中心，造成12人死亡",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-10T09:00:00+00:00"
+  },
+  "3e144d51473a": {
+    "id": "3e144d51473a",
+    "title_en": "Zinc oxide UV shield cuts heterojunction solar cell degradation and boosts lifetime output by 4.8%",
+    "title_zh": "氧化锌紫外线屏蔽可减少异质结太阳能电池的退化，并将寿命输出提高4.8%",
+    "url": "https://www.pv-magazine.com/2026/08/10/zinc-oxide-uv-shield-cuts-heterojunction-solar-cell-degradation-and-boosts-lifetime-output-by-4-8/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T08:58:23+00:00"
+  },
+  "d56b7c069f67": {
+    "id": "d56b7c069f67",
+    "title_en": "Cadeler Orders Two New Wind Foundation Installation Vessels at COSCO",
+    "title_zh": "Cadeler向中远集团订购两艘新的风力基础安装船",
+    "url": "https://www.offshorewind.biz/2026/08/10/cadeler-orders-two-new-wind-foundation-installation-vessels-at-cosco/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-10T08:30:23+00:00"
+  },
+  "f8a058a4ea28": {
+    "id": "f8a058a4ea28",
+    "title_en": "South Korea selects first villages for community solar scheme",
+    "title_zh": "韩国选择第一个村庄进行社区太阳能计划",
+    "url": "https://www.pv-magazine.com/2026/08/10/south-korea-selects-first-villages-for-community-solar-scheme/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T08:29:46+00:00"
+  },
+  "69930078eda9": {
+    "id": "69930078eda9",
+    "title_en": "Serentica Renewables commissions first phase of 1GWh BESS for round-the-clock renewable energy delivery in Rajasthan, India",
+    "title_zh": "Serentica Renewables委托印度拉贾斯坦邦进行1GWh BESS的第一阶段全天候可再生能源交付",
+    "url": "https://www.energy-storage.news/serentica-renewables-commissions-first-phase-of-1gwh-bess-for-round-the-clock-renewable-energy-delivery-in-rajasthan-india/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-10T08:08:47+00:00"
+  },
+  "ead850f75870": {
+    "id": "ead850f75870",
+    "title_en": "ADNOC Gas Unveils $8.2 Billion Expansion Push",
+    "title_zh": "ADNOC Gas宣布82亿美元的扩张计划",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Unveils-82-Billion-Expansion-Push.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-10T08:00:00+00:00"
+  },
+  "df24e7893573": {
+    "id": "df24e7893573",
+    "title_en": "European transmission system operators prepare for solar eclipse",
+    "title_zh": "欧洲输电系统运营商为日食做准备",
+    "url": "https://www.pv-magazine.com/2026/08/10/european-transmission-system-operators-prepare-for-solar-eclipse/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T07:57:34+00:00"
+  },
+  "5158cfe2a86b": {
+    "id": "5158cfe2a86b",
+    "title_en": "Sembcorp gets conditional nod for 300MW power import project",
+    "title_zh": "胜科获得300MW电力进口项目的有条件批准",
+    "url": "https://www.energymonitor.ai/news/sembcorp-conditional-nod-power-project/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-10T07:49:38+00:00"
+  },
   "cf344b101795": {
     "id": "cf344b101795",
     "title_en": "France expands renewable curtailment mechanism amid negative prices, lowers threshold to 1 MW",
@@ -7,6 +124,33 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-10T07:35:43+00:00"
+  },
+  "593bc488fa76": {
+    "id": "593bc488fa76",
+    "title_en": "In North Carolina, rooftop solar is alive and well despite headwinds",
+    "title_zh": "在北卡罗来纳州，尽管面临逆风，屋顶太阳能仍然生机勃勃",
+    "url": "https://www.canarymedia.com/articles/solar/north-carolina-rooftop-solar",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-10T07:30:00+00:00"
+  },
+  "d623f66a417f": {
+    "id": "d623f66a417f",
+    "title_en": "World’s oldest cheddar-maker slashes energy bills with novel heat pumps",
+    "title_zh": "世界上最古老的切达干酪制造商通过新型热泵大幅削减能源账单",
+    "url": "https://www.canarymedia.com/articles/heat-pumps/worlds-oldest-cheddar-maker-heat-pumps",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-10T07:30:00+00:00"
+  },
+  "321c83ff2561": {
+    "id": "321c83ff2561",
+    "title_en": "Sumitomo Acquires Stake in Gwynt Glas Floating Wind Project",
+    "title_zh": "住友商事收购Gwynt Glas浮式风力发电项目的股份",
+    "url": "https://www.offshorewind.biz/2026/08/10/sumitomo-acquires-stake-in-gwynt-glas-floating-wind-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-10T07:21:32+00:00"
   },
   "40ae8925f92f": {
     "id": "40ae8925f92f",
@@ -4354,149 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-03T16:02:35+00:00"
-  },
-  "5c5cee760f93": {
-    "id": "5c5cee760f93",
-    "title_en": "Why the U.S. Can't Easily Exit the Iran Conflict",
-    "title_zh": "为什么美国不能轻易退出伊朗冲突",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Why-the-US-Cant-Easily-Exit-the-Iran-Conflict.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T16:00:00+00:00"
-  },
-  "babba521cc64": {
-    "id": "babba521cc64",
-    "title_en": "Volvo’s next electric SUV will start in the upper $40,000 range",
-    "title_zh": "沃尔沃的下一款电动SUV起价将在40000美元以上",
-    "url": "https://electrek.co/2026/08/03/volvos-next-electric-suv-will-start-in-the-upper-40000-range/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-03T15:49:39+00:00"
-  },
-  "18059bb7bbab": {
-    "id": "18059bb7bbab",
-    "title_en": "It’s Official: US Army Dives Into The EV Tank",
-    "title_zh": "官方消息：美国陆军潜入电动汽车坦克",
-    "url": "https://cleantechnica.com/2026/08/03/us-army-hybrid-ev-autonomous-war-futuristic-harbinger-rheinmetall/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-03T15:45:49+00:00"
-  },
-  "99387171a7c1": {
-    "id": "99387171a7c1",
-    "title_en": "India’s CERC proposes transmission charge relief for delayed renewable energy projects",
-    "title_zh": "印度CERC提议为延迟的可再生能源项目减免输电费用",
-    "url": "https://www.pv-tech.org/indias-cerc-proposes-transmission-charge-relief-for-delayed-renewable-energy-projects/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T15:38:33+00:00"
-  },
-  "370d2805a275": {
-    "id": "370d2805a275",
-    "title_en": "Trump's Iran Reversal Sends European Gas Prices Tumbling",
-    "title_zh": "特朗普的伊朗逆转导致欧洲天然气价格暴跌",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Iran-Reversal-Sends-European-Gas-Prices-Tumbling.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T15:30:00+00:00"
-  },
-  "7f71babdba4f": {
-    "id": "7f71babdba4f",
-    "title_en": "Seven Months After Maduro's Fall, Big Oil Still Won't Commit To Venezuela",
-    "title_zh": "马杜罗下台七个月后，大型石油公司仍未对委内瑞拉做出承诺",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Seven-Months-After-Maduros-Fall-Big-Oil-Still-Wont-Commit-To-Venezuela.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T15:00:00+00:00"
-  },
-  "30c683079b7f": {
-    "id": "30c683079b7f",
-    "title_en": "Tesla Model Y RWD 2026 Review: an entry-level trim with top-of-the-line technology",
-    "title_zh": "特斯拉Model Y RWD 2026回顾：采用顶级技术的入门级内饰",
-    "url": "https://electrek.co/2026/08/03/2026-tesla-model-y-rwd-review/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-03T14:59:43+00:00"
-  },
-  "1ef26074d4a6": {
-    "id": "1ef26074d4a6",
-    "title_en": "Tesla Supercharger shooting sparks EV charging safety debate",
-    "title_zh": "特斯拉超级充电桩枪击案引发电动汽车充电安全争论",
-    "url": "https://electrek.co/2026/08/03/evject-tesla-supercharger-shooting-emergency-disconnect/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-03T14:30:56+00:00"
-  },
-  "b3f72c8abd90": {
-    "id": "b3f72c8abd90",
-    "title_en": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
-    "title_zh": "胡塞威胁持续，黑暗油轮在曼德海峡过境激增",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T14:30:00+00:00"
-  },
-  "209558906838": {
-    "id": "209558906838",
-    "title_en": "Russian nuclear giant Rosatom to start wind farm construction in far east this year",
-    "title_zh": "俄罗斯核能巨头Rosatom今年将开始在远东地区建设风电场",
-    "url": "https://www.windpowermonthly.com/article/1966392/russian-nuclear-giant-rosatom-start-wind-farm-construction-far-east-year",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-03T14:05:31+00:00"
-  },
-  "7d22f03a6533": {
-    "id": "7d22f03a6533",
-    "title_en": "How the Iran War Will Determine Britain's Economic Growth",
-    "title_zh": "伊朗战争将如何决定英国的经济增长",
-    "url": "https://oilprice.com/Energy/Energy-General/How-the-Iran-War-Will-Determine-Britains-Economic-Growth.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T14:00:00+00:00"
-  },
-  "131ec78c80d4": {
-    "id": "131ec78c80d4",
-    "title_en": "Hyundai and Kia’s record US sales run is showing no signs of slowing down",
-    "title_zh": "现代和起亚创纪录的美国销售增长没有放缓的迹象",
-    "url": "https://electrek.co/2026/08/03/hyundai-kias-record-us-sales-run/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-03T13:58:42+00:00"
-  },
-  "8c5a1ea64d79": {
-    "id": "8c5a1ea64d79",
-    "title_en": "India approves US$532 million floating solar and storage scheme targeting 5GW deployment",
-    "title_zh": "印度批准了5.32亿美元的浮动太阳能和储能计划，目标是部署5GW",
-    "url": "https://www.pv-tech.org/india-approves-us532-million-floating-solar-and-storage-scheme-targeting-5gw-deployment/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T13:54:33+00:00"
-  },
-  "890454b3eecb": {
-    "id": "890454b3eecb",
-    "title_en": "AEP secures 13 GW of gas turbines as generation ‘central’ to growth plans",
-    "title_zh": "AEP确保13GW的燃气轮机作为增长计划的“核心”发电",
-    "url": "https://www.utilitydive.com/news/aep-secures-13-gw-of-gas-turbines-as-generation-central-to-growth-plans/826808/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-03T13:44:56+00:00"
-  },
-  "a5e0883ff550": {
-    "id": "a5e0883ff550",
-    "title_en": "Aniioki’s latest 6,000W dual-motor e-bike blurs past the line so much it’s basically an electric motorcycle",
-    "title_zh": "Aniioki最新的6000W双电机电动自行车模糊了太多，基本上是一辆电动摩托车",
-    "url": "https://electrek.co/2026/08/03/aniiokis-latest-6000w-dual-motor-e-bike-blurs-past-the-line-so-much-its-basically-an-electric-motorcycle/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-03T13:34:00+00:00"
-  },
-  "b5a95e5fdc18": {
-    "id": "b5a95e5fdc18",
-    "title_en": "Indian Oil Subsidiary CPCL Plans 280,000 Bpd Manali Refinery",
-    "title_zh": "印度石油子公司CPCL计划建设28万桶/日的马纳利炼油厂",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Subsidiary-CPCL-Plans-280000-Bpd-Manali-Refinery.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T13:30:00+00:00"
   }
 }
