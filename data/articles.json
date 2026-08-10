@@ -1,4 +1,58 @@
 {
+  "cf344b101795": {
+    "id": "cf344b101795",
+    "title_en": "France expands renewable curtailment mechanism amid negative prices, lowers threshold to 1 MW",
+    "title_zh": "法国在负价格下扩大可再生能源削减机制，将门槛降至1兆瓦",
+    "url": "https://www.pv-magazine.com/2026/08/10/france-expands-renewable-curtailment-mechanism-amid-negative-prices-lowers-threshold-to-1-mw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T07:35:43+00:00"
+  },
+  "40ae8925f92f": {
+    "id": "40ae8925f92f",
+    "title_en": "Samsung, Oak Ridge National Laboratory testing cold climate vapor compression heat pump tech",
+    "title_zh": "三星橡树岭国家实验室测试冷气候蒸汽压缩热泵技术",
+    "url": "https://www.pv-magazine.com/2026/08/10/samsung-oak-ridge-national-laboratory-testing-cold-climate-vapor-compression-heat-pump-tech/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T06:57:38+00:00"
+  },
+  "bc6bb706a368": {
+    "id": "bc6bb706a368",
+    "title_en": "New Nuclear Gets Built When Governments Run Development & Taxpayers Take The Risk",
+    "title_zh": "当政府经营发展和纳税人承担风险时，新的核能得以建造",
+    "url": "https://cleantechnica.com/2026/08/10/new-nuclear-financing-government-risk/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-10T06:41:19+00:00"
+  },
+  "cec075c0c4c3": {
+    "id": "cec075c0c4c3",
+    "title_en": "Hormuz Tensions Surge After Reports of Another Tanker Strike",
+    "title_zh": "霍尔木兹的紧张局势在另一艘油轮罢工的报道后激增",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tensions-Surge-After-Reports-of-Another-Tanker-Strike.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-10T06:30:00+00:00"
+  },
+  "e3c8a4fa787b": {
+    "id": "e3c8a4fa787b",
+    "title_en": "India’s round-the-clock renewables tender attracts lowest bid of $0.055/kWh",
+    "title_zh": "印度的全天候可再生能源招标吸引了0.055美元/千瓦时的最低出价",
+    "url": "https://www.pv-magazine.com/2026/08/10/secis-1-gw-fdre-rtc-power-tender-discovers-inr-5-25-kwh-tariff/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T06:11:03+00:00"
+  },
+  "f2dc22557932": {
+    "id": "f2dc22557932",
+    "title_en": "Oil Prices Rise as Iran Hardens Hormuz Demands",
+    "title_zh": "伊朗强化霍尔木兹要求，油价上涨",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Hardens-Hormuz-Demands.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-10T05:30:00+00:00"
+  },
   "86a172c21e3f": {
     "id": "86a172c21e3f",
     "title_en": "PV Progress across Latin America",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-03T13:30:00+00:00"
-  },
-  "f8ea3a99fd47": {
-    "id": "f8ea3a99fd47",
-    "title_en": "Concerns over lack of clarity, transparency as US bans foreign power inverters",
-    "title_zh": "对美国禁止外国电力逆变器缺乏清晰度和透明度的担忧",
-    "url": "https://www.energy-storage.news/concerns-over-lack-of-clarity-transparency-as-us-bans-foreign-power-inverters/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-03T13:06:10+00:00"
-  },
-  "dfef8f48552a": {
-    "id": "dfef8f48552a",
-    "title_en": "Q&A: Does the world need ‘carbon capture and storage’ to reach net-zero?",
-    "title_zh": "问：世界是否需要“碳捕获和储存”来实现净零排放？",
-    "url": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-08-03T13:05:33+00:00"
-  },
-  "0f2cdeb5e741": {
-    "id": "0f2cdeb5e741",
-    "title_en": "Kazakhstan’s solar capacity surpasses 1.37 GW",
-    "title_zh": "哈萨克斯坦太阳能装机容量超过1.37吉瓦",
-    "url": "https://www.pv-magazine.com/2026/08/03/kazakhstans-solar-capacity-surpasses-1-37-gw/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T12:45:00+00:00"
-  },
-  "9ceb5d1fb66b": {
-    "id": "9ceb5d1fb66b",
-    "title_en": "DTE ties rate stability to data center projects as large-load pipeline remains steady",
-    "title_zh": "DTE将速率稳定性与数据中心项目联系起来，因为大负载管道保持稳定",
-    "url": "https://www.utilitydive.com/news/dte-rate-stability-data-center-projects-large-load-pipeline/826803/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-03T12:43:44+00:00"
-  },
-  "4a4cdf4ef87e": {
-    "id": "4a4cdf4ef87e",
-    "title_en": "Engie, Legrand sign France’s first 24/7 renewable energy supply deal",
-    "title_zh": "Engie与Legrand签署法国首份全天候可再生能源供应协议",
-    "url": "https://www.pv-magazine.com/2026/08/03/engie-legrand-sign-frances-first-24-7-renewable-energy-supply-deal/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T12:30:00+00:00"
-  },
-  "770c60fd6ded": {
-    "id": "770c60fd6ded",
-    "title_en": "Australian Regulator Wants Tougher Pollution Rules for Darwin LNG Plants",
-    "title_zh": "澳大利亚监管机构希望对达尔文液化天然气厂实施更严格的污染规定",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australian-Regulator-Wants-Tougher-Pollution-Rules-for-Darwin-LNG-Plants.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-03T12:30:00+00:00"
   }
 }
