@@ -1,4 +1,31 @@
 {
+  "86a172c21e3f": {
+    "id": "86a172c21e3f",
+    "title_en": "PV Progress across Latin America",
+    "title_zh": "拉丁美洲光伏进展",
+    "url": "https://www.pv-magazine.com/2026/08/10/pv-progress-across-latin-america/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T04:00:00+00:00"
+  },
+  "7bc9a347927c": {
+    "id": "7bc9a347927c",
+    "title_en": "‘Installers want to jam power into that storage device’: Trinasolar on Australia’s battery-driven solar shift",
+    "title_zh": "“安装人员希望将电力插入该存储设备”：Trinasolar谈论澳大利亚电池驱动的太阳能转变",
+    "url": "https://www.pv-tech.org/installers-want-to-jam-power-into-that-storage-device-trinasolar-on-australias-battery-driven-solar-shift/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T02:52:14+00:00"
+  },
+  "21b2b3fc3a5c": {
+    "id": "21b2b3fc3a5c",
+    "title_en": "Australia’s AEMO needs governance overhaul as energy transition workload expands, review finds",
+    "title_zh": "审查发现，随着能源转型工作量的扩大，澳大利亚的AEMO需要进行治理改革",
+    "url": "https://www.pv-tech.org/australias-aemo-needs-governance-overhaul-as-energy-transition-workload-expands-review-finds/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-10T02:13:39+00:00"
+  },
   "91c2be77cdc9": {
     "id": "91c2be77cdc9",
     "title_en": "Why Trump’s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-03T12:30:00+00:00"
-  },
-  "0f9928cd2f33": {
-    "id": "0f9928cd2f33",
-    "title_en": "PJM files backstop auction plan at FERC to meet capacity shortfall",
-    "title_zh": "PJM向联邦能源管理委员会提交了支持拍卖计划，以弥补产能短缺",
-    "url": "https://www.utilitydive.com/news/pjm-backstop-capacity-auction-ferc-data-centers/826792/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-03T12:22:40+00:00"
-  },
-  "d4b2c3d89a3c": {
-    "id": "d4b2c3d89a3c",
-    "title_en": "Shenling releases new air-to-water heat pump series",
-    "title_zh": "神菱发布新型空气-水热泵系列",
-    "url": "https://www.pv-magazine.com/2026/08/03/shenling-releases-new-air-to-water-heat-pump-series/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T12:15:00+00:00"
-  },
-  "f02b1f9873b4": {
-    "id": "f02b1f9873b4",
-    "title_en": "Florida’s Naples Airport adds solar to new warehouse storage building",
-    "title_zh": "佛罗里达州那不勒斯机场为新的仓库存储建筑增加了太阳能",
-    "url": "https://www.solarpowerworldonline.com/2026/08/floridas-naples-airport-adds-solar-to-new-warehouse-storage-building/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-03T12:11:00+00:00"
   }
 }
