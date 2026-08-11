@@ -1,4 +1,49 @@
 {
+  "09787cda669b": {
+    "id": "09787cda669b",
+    "title_en": "Middle East War Pushes China Toward the Arctic Trade Route",
+    "title_zh": "中东战争推动中国走向北极贸易路线",
+    "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Pushes-China-Toward-the-Arctic-Trade-Route.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T21:00:00+00:00"
+  },
+  "eb943eb91f02": {
+    "id": "eb943eb91f02",
+    "title_en": "US Crude Oil Inventories See Surprise Build: API",
+    "title_zh": "美国原油库存惊人增长：API",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Surprise-Build-API.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T20:47:00+00:00"
+  },
+  "173d5804d82c": {
+    "id": "173d5804d82c",
+    "title_en": "Hyundai launches the range-topping IONIQ 9 Calligraphy Black Ink in the UK and Europe",
+    "title_zh": "现代在英国和欧洲推出顶级IONIQ 9书法黑墨",
+    "url": "https://electrek.co/2026/08/11/hyundai-launches-range-topping-ioniq-9-calligraphy-black-ink/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-11T20:39:40+00:00"
+  },
+  "54cec1cbea48": {
+    "id": "54cec1cbea48",
+    "title_en": "ACMobility Sets Up Chargers Supporting Public Transport",
+    "title_zh": "ACMobility设置支持公共交通的充电器",
+    "url": "https://cleantechnica.com/2026/08/11/acmobility-sets-up-chargers-supporting-public-transport-in-the-philippines/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-11T20:38:03+00:00"
+  },
+  "cc226f0802de": {
+    "id": "cc226f0802de",
+    "title_en": "Strait of Hormuz Traffic Sank To Just Six Vessels Monday",
+    "title_zh": "霍尔木兹海峡交通周一仅限六艘船",
+    "url": "https://oilprice.com/Energy/Energy-General/Strait-of-Hormuz-Traffic-Sank-To-Just-Six-Vessels-Monday.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T20:00:00+00:00"
+  },
   "bc343a8c7c99": {
     "id": "bc343a8c7c99",
     "title_en": "Armenia-Azerbaijan Peace Plan Stalls One Year After Washington Breakthrough",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-05T09:30:00+00:00"
-  },
-  "24f6050ff7a5": {
-    "id": "24f6050ff7a5",
-    "title_en": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
-    "title_zh": "红海袭击在也门附近击沉了悬挂印度国旗的货船",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Red-Sea-Attack-Sinks-India-Flagged-Cargo-Vessel-Off-Yemen.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-05T09:30:00+00:00"
-  },
-  "191bb09c0fa5": {
-    "id": "191bb09c0fa5",
-    "title_en": "Shell replaces 'low-carbon' chief who joined Vestas",
-    "title_zh": "壳牌接替加入维斯塔斯的“低碳”首席执行官",
-    "url": "https://www.windpowermonthly.com/article/1966581/shell-replaces-low-carbon-chief-joined-vestas",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-05T09:19:09+00:00"
-  },
-  "2c898895c932": {
-    "id": "2c898895c932",
-    "title_en": "Western OEM merger 'won't work' with EU rules – Siemens Energy CEO",
-    "title_zh": "西门子能源首席执行官表示，西方OEM合并“不符合”欧盟规则",
-    "url": "https://www.windpowermonthly.com/article/1966578/western-oem-merger-wont-work-eu-rules-%E2%80%93-siemens-energy-ceo",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-05T09:16:37+00:00"
-  },
-  "d141f845d26b": {
-    "id": "d141f845d26b",
-    "title_en": "Photovoltaics lead Spain’s electricity mix for four consecutive months",
-    "title_zh": "光伏发电连续四个月引领西班牙电力结构",
-    "url": "https://www.pv-magazine.com/2026/08/05/photovoltaics-lead-spains-electricity-mix-for-four-consecutive-months/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T09:00:00+00:00"
-  },
-  "fae9cf15c0c5": {
-    "id": "fae9cf15c0c5",
-    "title_en": "Q&A: Germany prepares long-term strategy for carbon removals",
-    "title_zh": "问答：德国制定碳减排长期战略",
-    "url": "https://www.cleanenergywire.org/factsheets/qa-germany-prepares-long-term-strategy-carbon-removals",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-08-05T08:54:28+00:00"
   }
 }
