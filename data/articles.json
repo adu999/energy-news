@@ -1,4 +1,49 @@
 {
+  "2b2e8e182fad": {
+    "id": "2b2e8e182fad",
+    "title_en": "U.S. could surpass 100 GW of annual inverter manufacturing capacity by 2027",
+    "title_zh": "到2027年，美国的逆变器年产能可能超过100吉瓦",
+    "url": "https://www.pv-magazine.com/2026/08/11/u-s-could-surpass-100-gw-of-annual-inverter-manufacturing-capacity-by-2027/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-11T07:06:27+00:00"
+  },
+  "4f82171c6cbb": {
+    "id": "4f82171c6cbb",
+    "title_en": "‘Biosolar’ design boosts rooftop PV performance by 23.25%",
+    "title_zh": "“Biosolar”设计使屋顶光伏性能提高了23.25%",
+    "url": "https://www.pv-magazine.com/2026/08/11/biosolar-design-boosts-rooftop-pv-performance-by-23-25/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-11T06:35:46+00:00"
+  },
+  "dcdf72d36d38": {
+    "id": "dcdf72d36d38",
+    "title_en": "Libya Weighs Force Majeure After Drone Attacks on Zawiya Oil Hub",
+    "title_zh": "利比亚在无人机袭击扎维亚石油中心后权衡不可抗力",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Weighs-Force-Majeure-After-Drone-Attacks-on-Zawiya-Oil-Hub.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T06:30:00+00:00"
+  },
+  "c9ae424b840a": {
+    "id": "c9ae424b840a",
+    "title_en": "SEG Solar opens 4 GW Texas module factory",
+    "title_zh": "SEG Solar在德克萨斯州开设4吉瓦组件工厂",
+    "url": "https://www.pv-magazine.com/2026/08/11/seg-solar-opens-4-gw-texas-facility-announces-plan-to-become-the-nations-largest-crystalline-silicon-module-maker/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-11T06:25:26+00:00"
+  },
+  "76456755ee59": {
+    "id": "76456755ee59",
+    "title_en": "Oil Prices Climb as U.S.-Iran Peace Hopes Fade",
+    "title_zh": "随着美伊和平希望的消退，油价攀升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-US-Iran-Peace-Hopes-Fade.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T04:39:37+00:00"
+  },
   "0eaafb7e47dd": {
     "id": "0eaafb7e47dd",
     "title_en": "Microgrids can have macro impact",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-04T13:30:00+00:00"
-  },
-  "97f27db77bc4": {
-    "id": "97f27db77bc4",
-    "title_en": "Southern Co. contracted large load rises to 17 GW",
-    "title_zh": "南方公司签约大负荷升至17GW",
-    "url": "https://www.utilitydive.com/news/southern-co-contracted-large-load-data-centers/826919/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-04T13:20:14+00:00"
-  },
-  "aa5285077b2b": {
-    "id": "aa5285077b2b",
-    "title_en": "Segway’s new MAX G3 Plus electric scooter goes farther with more power and better safety",
-    "title_zh": "赛格威新款MAX G3 Plus电动滑板车动力更强，安全性更高",
-    "url": "https://electrek.co/2026/08/04/segways-new-max-g3-plus-electric-scooter-goes-farther-with-more-power-and-better-safety/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-04T13:00:00+00:00"
-  },
-  "eb64cdd27131": {
-    "id": "eb64cdd27131",
-    "title_en": "US startup LiNova Energy hopes high-power battery tech can meet unprecedented demands of AI data centres",
-    "title_zh": "美国初创公司LiNova Energy希望高功率电池技术能够满足人工智能数据中心前所未有的需求",
-    "url": "https://www.energy-storage.news/us-startup-linova-energy-hopes-high-power-battery-tech-can-meet-unprecedented-demands-of-ai-data-centres/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-04T12:40:38+00:00"
-  },
-  "a563ed5851bb": {
-    "id": "a563ed5851bb",
-    "title_en": "Massachusetts issues RFP seeking 1,000MW of BESS",
-    "title_zh": "马萨诸塞州发布征求建议书，寻求1000MW的BESS",
-    "url": "https://www.energy-storage.news/massachusetts-issues-rfp-seeking-1000mw-of-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-04T12:32:11+00:00"
-  },
-  "45d81d89ee04": {
-    "id": "45d81d89ee04",
-    "title_en": "China draws a line under the solar price war",
-    "title_zh": "中国在太阳能价格战中划清界限",
-    "url": "https://www.pv-magazine.com/2026/08/04/china-draws-a-line-under-the-solar-price-war/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-04T12:30:00+00:00"
   }
 }
