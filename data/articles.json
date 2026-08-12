@@ -1,4 +1,76 @@
 {
+  "537e1822e82c": {
+    "id": "537e1822e82c",
+    "title_en": "Computing Facilities Can Save Big and Keep Cool by Looking Underground",
+    "title_zh": "计算设施可以通过地下看来节省开支并保持凉爽",
+    "url": "https://cleantechnica.com/2026/08/11/computing-facilities-can-save-big-and-keep-cool-by-looking-underground/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-12T01:05:57+00:00"
+  },
+  "62597bce51ba": {
+    "id": "62597bce51ba",
+    "title_en": "Kia EV3 prices and range revealed, starting at $30,000",
+    "title_zh": "起亚EV3的价格和续航里程公布，起价为30000美元",
+    "url": "https://electrek.co/2026/08/11/kia-ev3-prices-range-revealed-starting-30000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-12T01:04:07+00:00"
+  },
+  "216605eebc10": {
+    "id": "216605eebc10",
+    "title_en": "Arcfox Goes Battery Swapping with the Help of CATL",
+    "title_zh": "Arcfox在CATL的帮助下更换电池",
+    "url": "https://cleantechnica.com/2026/08/11/arcfox-goes-battery-swapping-with-the-help-of-catl/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-12T00:17:20+00:00"
+  },
+  "de4e163b6505": {
+    "id": "de4e163b6505",
+    "title_en": "Inside the U.S.–Israel–Saudi Plan to Cut Iran Out of Global Oil",
+    "title_zh": "美国-以色列-沙特计划将伊朗从全球石油中剔除",
+    "url": "https://oilprice.com/Energy/Energy-General/Inside-the-Secret-USIsraelSaudi-Plan-to-Cut-Iran-Out-of-the-Global-Oil-Suppl.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-12T00:00:00+00:00"
+  },
+  "9b91646f9059": {
+    "id": "9b91646f9059",
+    "title_en": "Alaska’s $55B LNG Mega-Project In Talks With More Buyers Ahead Of FID",
+    "title_zh": "阿拉斯加550亿美元的液化天然气大型项目在FID之前与更多买家进行谈判",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Alaskas-55B-LNG-Mega-Project-In-Talks-With-More-Buyers-Ahead-Of-FID.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T23:00:00+00:00"
+  },
+  "b6d22812c257": {
+    "id": "b6d22812c257",
+    "title_en": "Schneider Electric Canada Strengthens Commercial Leadership to Help Customers Navigate the New Energy Landscape",
+    "title_zh": "施耐德电气加拿大公司加强商业领导力，帮助客户驾驭新能源格局",
+    "url": "https://cleantechnica.com/2026/08/11/schneider-electric-canada-strengthens-commercial-leadership-to-help-customers-navigate-the-new-energy-landscape/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-11T22:38:49+00:00"
+  },
+  "728ceed15b08": {
+    "id": "728ceed15b08",
+    "title_en": "Sodium-Ion Batteries Gain Ground as Lithium Alternative",
+    "title_zh": "钠离子电池作为锂替代品越来越受欢迎",
+    "url": "https://oilprice.com/Energy/Energy-General/Sodium-Ion-Batteries-Gain-Ground-as-Lithium-Alternative.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-11T22:00:00+00:00"
+  },
+  "7fc7d376ea9c": {
+    "id": "7fc7d376ea9c",
+    "title_en": "Flock Cameras Spark Community Backlash",
+    "title_zh": "Flock摄像头引发社区反弹",
+    "url": "https://cleantechnica.com/2026/08/11/flock-cameras-spark-community-backlash/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-11T21:56:48+00:00"
+  },
   "09787cda669b": {
     "id": "09787cda669b",
     "title_en": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -4426,77 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-05T10:30:00+00:00"
-  },
-  "ff21f5547cf7": {
-    "id": "ff21f5547cf7",
-    "title_en": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
-    "title_zh": "美国采取行动将废钨和电池金属留在国内",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-05T10:30:00+00:00"
-  },
-  "ae39c3555f43": {
-    "id": "ae39c3555f43",
-    "title_en": "Aarsleff Wins EUR 495 Million Contract for Bornholm Energy Island Onshore Facilities",
-    "title_zh": "Aarsleff赢得4.95亿欧元的Bornholm Energy Island陆上设施合同",
-    "url": "https://www.offshorewind.biz/2026/08/05/aarsleff-wins-eur-495-million-contract-for-bornholm-energy-island-onshore-facilities/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-05T10:15:00+00:00"
-  },
-  "6951ae16f290": {
-    "id": "6951ae16f290",
-    "title_en": "An essential guide to wind turbine gear oil performance tests",
-    "title_zh": "风力涡轮机齿轮油性能测试的基本指南",
-    "url": "https://www.energymonitor.ai/sponsored/an-essential-guide-to-wind-turbine-gear-oil-performance-tests/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-05T10:11:53+00:00"
-  },
-  "7e3bf4673321": {
-    "id": "7e3bf4673321",
-    "title_en": "New framework pinpoints faulty modules in utility-scale PV plants",
-    "title_zh": "新框架精确定位公用事业规模光伏电站中的故障模块",
-    "url": "https://www.pv-magazine.com/2026/08/05/new-framework-pinpoints-faulty-modules-in-utility-scale-pv-plants/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T10:00:00+00:00"
-  },
-  "8cb3072e4242": {
-    "id": "8cb3072e4242",
-    "title_en": "Kanadevia Inova-led consortium to build $1.5bn WtE facility in Morocco",
-    "title_zh": "Kanadevia Inova领导财团在摩洛哥建造15亿美元的WtE设施",
-    "url": "https://www.energymonitor.ai/news/kanadevia-inova-build-wte-facility/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-05T10:00:00+00:00"
-  },
-  "822c7f441922": {
-    "id": "822c7f441922",
-    "title_en": "DYCM secures funding for 1GW module assembly plant in California",
-    "title_zh": "DYCM为加利福尼亚州的1GW模块组装厂获得资金",
-    "url": "https://www.pv-tech.org/dycm-secures-funding-for-1gw-module-assembly-plant-in-california/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T09:54:05+00:00"
-  },
-  "2d8ce441adb1": {
-    "id": "2d8ce441adb1",
-    "title_en": "UK July Roundup: Engie commissions 100MW, Fidra and Masdar FIDs, Eku buys big, consents for Aura, Starlight",
-    "title_zh": "英国7月综述：Engie委托100MW、Fidra和Masdar FID，Eku为Aura、星光购买大额许可",
-    "url": "https://www.energy-storage.news/uk-engie-commissions-100mw-fidra-masdar-fids-eku-buys-big-consents-for-aura-starlight/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-05T09:32:32+00:00"
-  },
-  "7a345b6dd570": {
-    "id": "7a345b6dd570",
-    "title_en": "The case for rethinking utility-scale PV economics",
-    "title_zh": "重新思考公用事业规模光伏经济的案例",
-    "url": "https://www.pv-magazine.com/2026/08/05/the-case-for-rethinking-utility-scale-pv-economics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T09:30:00+00:00"
   }
 }
