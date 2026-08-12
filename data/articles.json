@@ -1,4 +1,49 @@
 {
+  "500539a96f96": {
+    "id": "500539a96f96",
+    "title_en": "MIT's New Framework Aims to Tackle Nuclear Fusion's Money Problem",
+    "title_zh": "麻省理工学院的新框架旨在解决核聚变的资金问题",
+    "url": "https://oilprice.com/Energy/Energy-General/MITs-New-Framework-Aims-to-Tackle-Nuclear-Fusions-Money-Problem.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-12T21:00:00+00:00"
+  },
+  "9ebd1d3e5470": {
+    "id": "9ebd1d3e5470",
+    "title_en": "Northwest Ohio community saves land space by siting solar project on reservoir",
+    "title_zh": "俄亥俄州西北部社区通过在水库上安装太阳能项目节省了土地空间",
+    "url": "https://www.solarpowerworldonline.com/2026/08/northwest-ohio-community-saves-land-space-by-siting-solar-project-on-reservoir/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-08-12T20:17:23+00:00"
+  },
+  "cdad002c75d2": {
+    "id": "cdad002c75d2",
+    "title_en": "Refinery Attacks Deepen Global Diesel Supply Crunch",
+    "title_zh": "炼油厂袭击加剧全球柴油供应紧张",
+    "url": "https://oilprice.com/Energy/Energy-General/Refinery-Attacks-Deepen-Global-Diesel-Supply-Crunch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-12T20:00:00+00:00"
+  },
+  "17f646b3f689": {
+    "id": "17f646b3f689",
+    "title_en": "Tesla plans massive new V4 Supercharger in San Francisco",
+    "title_zh": "特斯拉计划在旧金山推出新款V4增压器",
+    "url": "https://electrek.co/2026/08/12/tesla-124-stall-v4-supercharger-san-francisco/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-12T19:28:14+00:00"
+  },
+  "74b2292ec716": {
+    "id": "74b2292ec716",
+    "title_en": "US EV prices are going back up as discounts shrink",
+    "title_zh": "随着折扣的减少，美国电动汽车价格正在回升",
+    "url": "https://electrek.co/2026/08/12/us-ev-prices-are-going-back-up-as-discounts-shrink/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-12T19:10:18+00:00"
+  },
   "def8af1dfa39": {
     "id": "def8af1dfa39",
     "title_en": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
@@ -4453,50 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-06T09:46:45+00:00"
-  },
-  "231102d79c0e": {
-    "id": "231102d79c0e",
-    "title_en": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
-    "title_zh": "阿联酋如何保持石油流经霍尔木兹",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/How-the-UAE-Has-Kept-Its-Oil-Flowing-Through-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-06T09:40:00+00:00"
-  },
-  "49e23a52bff7": {
-    "id": "49e23a52bff7",
-    "title_en": "Nordex wins ‘biggest single wind turbine deal’ in Turkey",
-    "title_zh": "Nordex在土耳其赢得“最大的单台风力涡轮机交易”",
-    "url": "https://www.windpowermonthly.com/article/1966686/nordex-wins-biggest-single-wind-turbine-deal-turkey",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-06T09:30:12+00:00"
-  },
-  "cf2b50fb5761": {
-    "id": "cf2b50fb5761",
-    "title_en": "Researchers compare PV, wind, hybrid systems for community-scale energy",
-    "title_zh": "研究人员比较了社区规模能源的光伏、风能和混合系统",
-    "url": "https://www.pv-magazine.com/2026/08/06/researchers-compare-pv-wind-hybrid-systems-for-community-scale-energy/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-06T09:30:00+00:00"
-  },
-  "3cec102aa379": {
-    "id": "3cec102aa379",
-    "title_en": "Mystery buyer for UK floating wind test site revealed",
-    "title_zh": "英国浮动风试验场神秘买家揭晓",
-    "url": "https://www.windpowermonthly.com/article/1966683/mystery-buyer-uk-floating-wind-test-site-revealed",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-06T09:17:18+00:00"
-  },
-  "d4f62870fab0": {
-    "id": "d4f62870fab0",
-    "title_en": "Serentica commissions first phase of 1GWh Bikaner BESS in India",
-    "title_zh": "Serentica在印度委托1GWh Bikaner BESS的第一阶段",
-    "url": "https://www.energymonitor.ai/news/serentica-commissions-bikaner-bess/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-06T09:10:01+00:00"
   }
 }
