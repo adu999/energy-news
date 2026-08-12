@@ -1,4 +1,31 @@
 {
+  "713f63626ac1": {
+    "id": "713f63626ac1",
+    "title_en": "Ireland’s leap of faith to power data centers",
+    "title_zh": "爱尔兰对数据中心供电的信心飞跃",
+    "url": "https://www.pv-magazine.com/2026/08/12/irelands-leap-of-faith-to-power-data-centers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-12T04:00:00+00:00"
+  },
+  "6ea36f5a2208": {
+    "id": "6ea36f5a2208",
+    "title_en": "Scaling Autonomous Freight: Inside Pony.ai’s Robotruck Business",
+    "title_zh": "扩展自动货运：Pony.ai的Robotruck业务内幕",
+    "url": "https://cleantechnica.com/2026/08/11/scaling-autonomous-freight-inside-pony-ais-robotruck-business/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-12T02:25:48+00:00"
+  },
+  "c52748f81bb6": {
+    "id": "c52748f81bb6",
+    "title_en": "The Single Largest Pollution Source In The USA Going To Be An Amazon AI Data Center",
+    "title_zh": "美国最大的单一污染源将是亚马逊人工智能数据中心",
+    "url": "https://cleantechnica.com/2026/08/11/the-single-largest-pollution-source-in-the-usa-going-to-be-an-amazon-ai-data-center/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-12T02:12:13+00:00"
+  },
   "537e1822e82c": {
     "id": "537e1822e82c",
     "title_en": "Computing Facilities Can Save Big and Keep Cool by Looking Underground",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-05T11:00:00+00:00"
-  },
-  "820b5fac1bca": {
-    "id": "820b5fac1bca",
-    "title_en": "KKR’s ContourGlobal begins construction of ‘Sun at Night’ solar-plus-storage project in Chile",
-    "title_zh": "KKR的ContourGlobal开始在智利建设“夜间阳光”太阳能+储能项目",
-    "url": "https://www.energy-storage.news/kkrs-contourglobal-begins-construction-of-sun-at-night-solar-plus-storage-project-in-chile/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-05T10:49:14+00:00"
-  },
-  "c03dfee6e14a": {
-    "id": "c03dfee6e14a",
-    "title_en": "Invinity sells 43MWh long-duration flow battery system to US Midwest rural electric cooperative",
-    "title_zh": "Invinity向美国中西部农村电力合作社出售43MWh长续航液流电池系统",
-    "url": "https://www.energy-storage.news/invinity-sells-43mwh-long-duration-flow-battery-system-to-us-midwest-rural-electric-cooperative/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-05T10:31:52+00:00"
-  },
-  "186465c25770": {
-    "id": "186465c25770",
-    "title_en": "Australia expands rooftop solar rebate scheme",
-    "title_zh": "澳大利亚扩大屋顶太阳能回扣计划",
-    "url": "https://www.pv-magazine.com/2026/08/05/expansion-of-rooftop-solar-rebate-scheme-to-unlock-australias-missing-middle/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T10:30:00+00:00"
   }
 }
