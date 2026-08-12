@@ -1,4 +1,67 @@
 {
+  "e90c87706dde": {
+    "id": "e90c87706dde",
+    "title_en": "Cadeler Acquires Foundation Installation Equipment Provider for EUR 501 Million",
+    "title_zh": "Cadeler以5.01亿欧元收购基础安装设备提供商",
+    "url": "https://www.offshorewind.biz/2026/08/12/cadeler-acquires-foundation-installation-equipment-provider-for-eur-501-million/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-12T06:47:19+00:00"
+  },
+  "bece2e839c17": {
+    "id": "bece2e839c17",
+    "title_en": "Germany’s Hydrogen Industry Is Overselling Its 6 GW Reservation Headline",
+    "title_zh": "德国氢能行业夸大了其6GW的储备头条",
+    "url": "https://cleantechnica.com/2026/08/12/germany-6-gw-hydrogen-reservations-demand/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-12T06:36:12+00:00"
+  },
+  "53f5d2a2170b": {
+    "id": "53f5d2a2170b",
+    "title_en": "European Patent Office revokes Hanwha’s long-disputed passivation patent",
+    "title_zh": "欧洲专利局撤销韩华长期争议的钝化专利",
+    "url": "https://www.pv-magazine.com/2026/08/12/european-patent-office-revokes-hanwhas-long-disputed-passivation-patent/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-12T06:24:37+00:00"
+  },
+  "dd92e907bfe6": {
+    "id": "dd92e907bfe6",
+    "title_en": "Deye launches 2.5 MW C&I storage system with 0 ms switching",
+    "title_zh": "德业推出具有0ms切换的2.5MW C&I存储系统",
+    "url": "https://www.pv-magazine.com/2026/08/12/deye-launches-2-5-mw-ci-storage-system-with-0-ms-switching/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-12T05:49:39+00:00"
+  },
+  "2d9f09549cd9": {
+    "id": "2d9f09549cd9",
+    "title_en": "Researchers near 100% silver recovery from end-of-life solar panels",
+    "title_zh": "研究人员从报废太阳能电池板中回收近100%的银",
+    "url": "https://www.pv-magazine.com/2026/08/12/researchers-near-100-silver-recovery-from-end-of-life-solar-panels/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-12T05:47:14+00:00"
+  },
+  "d37532e3af75": {
+    "id": "d37532e3af75",
+    "title_en": "Tesla files tax incentive application for $10.1 billion Texas solar cell plant",
+    "title_zh": "特斯拉为价值101亿美元的德克萨斯州太阳能电池厂提交税收激励申请",
+    "url": "https://www.pv-magazine.com/2026/08/12/tesla-files-tax-incentive-application-for-10-1-billion-texas-solar-cell-plant/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-12T05:45:48+00:00"
+  },
+  "8f45ffe9820b": {
+    "id": "8f45ffe9820b",
+    "title_en": "Russia Imports Indian Fuel as Refinery Crisis Deepens",
+    "title_zh": "炼油厂危机加剧，俄罗斯进口印度燃料",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Imports-Indian-Fuel-as-Refinery-Crisis-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-12T05:45:00+00:00"
+  },
   "713f63626ac1": {
     "id": "713f63626ac1",
     "title_en": "Ireland’s leap of faith to power data centers",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-05T12:00:00+00:00"
-  },
-  "82986b40bba2": {
-    "id": "82986b40bba2",
-    "title_en": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
-    "title_zh": "Base Power为美国住宅BESS再筹集10亿美元的D轮融资",
-    "url": "https://www.energy-storage.news/base-power-raises-another-us1-billion-in-series-d-financing-for-us-residential-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-05T11:56:06+00:00"
-  },
-  "e9ca2d8d416d": {
-    "id": "e9ca2d8d416d",
-    "title_en": "Offshore Wind Sets New UK Generation Record in 2025",
-    "title_zh": "2025年，海上风电创下英国发电量新纪录",
-    "url": "https://www.offshorewind.biz/2026/08/05/offshore-wind-sets-new-uk-generation-record-in-2025/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-05T11:45:00+00:00"
-  },
-  "c49db94203ce": {
-    "id": "c49db94203ce",
-    "title_en": "MNRE adds 12.7GW of solar module capacity to ALMM-I, total listed capacity exceeds 217GW",
-    "title_zh": "MNRE为ALMM-I增加了12.7GW的太阳能组件容量，总上市容量超过217GW",
-    "url": "https://www.pv-tech.org/mnre-adds-12-7gw-of-solar-module-capacity-to-almm-i-total-listed-capacity-exceeds-217gw/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T11:33:32+00:00"
-  },
-  "48191c515b78": {
-    "id": "48191c515b78",
-    "title_en": "Fraunhofer ISE, Source Energy develop silicon PV modules for space satellites",
-    "title_zh": "弗劳恩霍夫ISE和Source Energy为太空卫星开发硅光伏模块",
-    "url": "https://www.pv-magazine.com/2026/08/05/fraunhofer-ise-source-energy-develop-silicon-pv-modules-for-space-satellites/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T11:30:00+00:00"
-  },
-  "a35e255d0b07": {
-    "id": "a35e255d0b07",
-    "title_en": "Oil Price Rally Boosts Glencore’s First-Half Profit",
-    "title_zh": "油价上涨提振嘉能可上半年利润",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Rally-Boosts-Glencores-First-Half-Profit.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-05T11:30:00+00:00"
-  },
-  "3f8084401a8a": {
-    "id": "3f8084401a8a",
-    "title_en": "Hydrogen-iron flow batteries: How Elestor’s tech works",
-    "title_zh": "氢铁液流电池：Elestor的技术如何运作",
-    "url": "https://www.energy-storage.news/elestor-hydrogen-iron-flow-battery/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-05T11:04:35+00:00"
-  },
-  "64aeb972c3bb": {
-    "id": "64aeb972c3bb",
-    "title_en": "Sudan exempts solar systems from custom duties",
-    "title_zh": "苏丹免除太阳能系统关税",
-    "url": "https://www.pv-magazine.com/2026/08/05/sudan-exempts-solar-pv-systems-from-custom-duties/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-05T11:00:00+00:00"
   }
 }
