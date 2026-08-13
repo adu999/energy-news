@@ -1,4 +1,76 @@
 {
+  "f4ae9af51f8a": {
+    "id": "f4ae9af51f8a",
+    "title_en": "Germany’s renewables boom is making grid access the scarce asset",
+    "title_zh": "德国的可再生能源热潮使电网接入成为稀缺资产",
+    "url": "https://www.energymonitor.ai/analysis/germany-renewable-grid-access/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-13T07:00:00+00:00"
+  },
+  "944aec934178": {
+    "id": "944aec934178",
+    "title_en": "Guatemala updates regulations for distributed solar up to 5 MW",
+    "title_zh": "危地马拉更新了最高5兆瓦分布式太阳能的法规",
+    "url": "https://www.pv-magazine.com/2026/08/13/guatemala-updates-regulations-for-distributed-solar-up-to-5-mw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T06:56:03+00:00"
+  },
+  "0146a810ce7a": {
+    "id": "0146a810ce7a",
+    "title_en": "South Korean Fleet Reshuffle Creates Asia’s Largest LNG Carrier Operator",
+    "title_zh": "韩国舰队重组打造亚洲最大的液化天然气运输船运营商",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/SK-Shipping-to-Become-Asias-Largest-LNG-Carrier-Operator.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T06:50:00+00:00"
+  },
+  "8965e7573813": {
+    "id": "8965e7573813",
+    "title_en": "MRCool launches do-it-yourself monoblock heat pump without outdoor unit",
+    "title_zh": "MRCool推出无室外机的自助式整体式热泵",
+    "url": "https://www.pv-magazine.com/2026/08/13/mrcool-launches-do-it-yourself-monoblock-heat-pump-without-outdoor-unit/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T06:29:43+00:00"
+  },
+  "e5b24cd7d72d": {
+    "id": "e5b24cd7d72d",
+    "title_en": "World’s largest LFP grid-forming goes online in China",
+    "title_zh": "世界上最大的LFP电网在中国上线",
+    "url": "https://www.pv-magazine.com/2026/08/13/worlds-largest-lfp-grid-forming-goes-online-in-china/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T05:36:30+00:00"
+  },
+  "9714cb05dec2": {
+    "id": "9714cb05dec2",
+    "title_en": "Scandium doping, coating improve cycling stability of sodium-ion battery cathodes",
+    "title_zh": "钪掺杂、涂层提高钠离子电池阴极的循环稳定性",
+    "url": "https://www.pv-magazine.com/2026/08/13/scandium-doping-coating-improve-cycling-stability-of-sodium-ion-battery-cathodes/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T05:33:11+00:00"
+  },
+  "90a4caee7446": {
+    "id": "90a4caee7446",
+    "title_en": "U.S. battery storage capacity grows 70% annually over the past three years",
+    "title_zh": "过去三年，美国电池储能容量每年增长70%",
+    "url": "https://www.pv-magazine.com/2026/08/13/u-s-battery-storage-capacity-grows-70-annually-over-the-past-three-years/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T05:30:34+00:00"
+  },
+  "2b4b11bc57f3": {
+    "id": "2b4b11bc57f3",
+    "title_en": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks",
+    "title_zh": "欧佩克和国际能源署下调2026年需求前景，油价下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-OPEC-and-IEA-Slash-2026-Demand-Outlooks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T05:25:00+00:00"
+  },
   "975e7d56a48e": {
     "id": "975e7d56a48e",
     "title_en": "Solar’s infrastructure obstacle",
@@ -979,6 +1051,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-12T04:00:00+00:00"
+  },
+  "d567669efd60": {
+    "id": "d567669efd60",
+    "title_en": "Why mining’s decarbonisation challenge starts with reliable connectivity",
+    "title_zh": "为什么采矿业的脱碳挑战始于可靠的连接",
+    "url": "https://www.energymonitor.ai/sponsored/why-minings-decarbonisation-challenge-starts-with-reliable-connectivity/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-12T03:38:00+00:00"
   },
   "58d0f006bb0c": {
     "id": "58d0f006bb0c",
@@ -4417,86 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-06T13:07:46+00:00"
-  },
-  "b5ad036ec954": {
-    "id": "b5ad036ec954",
-    "title_en": "Ford’s affordable EV pickup is named Fathom, and it will start at $28,350",
-    "title_zh": "福特价格实惠的电动皮卡名为Fathom，起价为28350美元",
-    "url": "https://electrek.co/2026/08/06/fords-affordable-ev-pickup-named-fathom-priced-from-28350/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-06T13:00:00+00:00"
-  },
-  "7d1390e5bac0": {
-    "id": "7d1390e5bac0",
-    "title_en": "Texas data center pause puts 20% of US pipeline at risk of delay: BNEF",
-    "title_zh": "德克萨斯州数据中心暂停使美国20%的管道面临延误风险：BNEF",
-    "url": "https://www.utilitydive.com/news/texas-data-center-pause-puts-us-pipeline-risk-of-delay-bnef/827185/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-06T12:53:46+00:00"
-  },
-  "4639acbe2d89": {
-    "id": "4639acbe2d89",
-    "title_en": "Tesla starts Megapack 3 production with 28% more energy per unit",
-    "title_zh": "特斯拉开始生产Megapack 3，单位能量增加28%",
-    "url": "https://electrek.co/2026/08/06/tesla-megapack-3-production-starts-texas/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-06T12:52:24+00:00"
-  },
-  "68005e66e2e5": {
-    "id": "68005e66e2e5",
-    "title_en": "DC Circuit Court of Appeals upholds FERC plan to speed up permitting for US energy projects’ grid interconnection",
-    "title_zh": "华盛顿特区巡回上诉法院支持联邦能源管理委员会加快美国能源项目电网互联许可的计划",
-    "url": "https://www.energy-storage.news/dc-circuit-court-of-appeals-upholds-ferc-plan-to-speed-up-permitting-for-us-energy-projects-grid-interconnection/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-06T12:50:06+00:00"
-  },
-  "8d42e027b5db": {
-    "id": "8d42e027b5db",
-    "title_en": "Solar Landscape secures financing to speed up distributed solar PV deployment",
-    "title_zh": "Solar Landscape获得融资，加快分布式太阳能光伏部署",
-    "url": "https://www.pv-tech.org/solar-landscape-secures-financing-speeding-distributed-solar-pv-deployment/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-06T12:44:58+00:00"
-  },
-  "941457a72df4": {
-    "id": "941457a72df4",
-    "title_en": "PJM BESS developers’ struggles to get financing are often due to inaccurate financial modelling, enSights CEO says",
-    "title_zh": "enSights首席执行官表示，PJM BESS开发商难以获得融资往往是由于财务建模不准确",
-    "url": "https://www.energy-storage.news/pjm-bess-developers-struggles-to-get-financing-are-often-due-to-inaccurate-financial-modelling-ensights-ceo-says/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-06T12:36:59+00:00"
-  },
-  "89ea34aa0691": {
-    "id": "89ea34aa0691",
-    "title_en": "PV Chart of the Week: US solar cell vs module nameplate capacity imbalance",
-    "title_zh": "本周光伏图表：美国太阳能电池与组件铭牌容量不平衡",
-    "url": "https://www.pv-tech.org/pv-chart-us-solar-cell-vs-module-nameplate-capacity-imbalance/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-06T12:34:51+00:00"
-  },
-  "d60e14dc369f": {
-    "id": "d60e14dc369f",
-    "title_en": "Latvia’s solar capacity surpasses 1.5 GW",
-    "title_zh": "拉脱维亚太阳能装机容量超过1.5GW",
-    "url": "https://www.pv-magazine.com/2026/08/06/latvias-solar-capacity-surpasses-1-5-gw/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-06T12:30:00+00:00"
-  },
-  "5e1fd26f8a9c": {
-    "id": "5e1fd26f8a9c",
-    "title_en": "Indian Refiners Continue West Africa Crude Buying Spree",
-    "title_zh": "印度炼油厂继续扩大西非原油购买价差",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Continue-West-Africa-Crude-Buying-Spree.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-06T12:30:00+00:00"
   }
 }
