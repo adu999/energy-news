@@ -1,4 +1,40 @@
 {
+  "975e7d56a48e": {
+    "id": "975e7d56a48e",
+    "title_en": "Solar’s infrastructure obstacle",
+    "title_zh": "太阳能的基础设施障碍",
+    "url": "https://www.pv-magazine.com/2026/08/13/solars-infrastructure-obstacle/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T04:00:00+00:00"
+  },
+  "3469354b3b97": {
+    "id": "3469354b3b97",
+    "title_en": "Q&A: Does the World Need “Carbon Capture & Storage” to Reach Net-Zero?",
+    "title_zh": "问答：世界需要“碳捕获和储存”来实现净零排放吗？",
+    "url": "https://cleantechnica.com/2026/08/12/qa-does-the-world-need-carbon-capture-storage-to-reach-net-zero/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T02:27:26+00:00"
+  },
+  "8b8ea0b6972a": {
+    "id": "8b8ea0b6972a",
+    "title_en": "Factcheck: How Nuclear, Gas, Wind, & Solar Power Are Affected During Heatwaves",
+    "title_zh": "Factcheck：核能、天然气、风能和太阳能在热浪期间如何受到影响",
+    "url": "https://cleantechnica.com/2026/08/12/factcheck-how-nuclear-gas-wind-solar-power-are-affected-during-heatwaves/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T02:15:43+00:00"
+  },
+  "815814a576a0": {
+    "id": "815814a576a0",
+    "title_en": "Chevrolet Leaves China",
+    "title_zh": "雪佛兰离开中国",
+    "url": "https://cleantechnica.com/2026/08/12/chevrolet-leaves-china/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T02:01:34+00:00"
+  },
   "4d50573a5d28": {
     "id": "4d50573a5d28",
     "title_en": "PTC One-C Heads Toward Hawaii; Life-Threatening Floods Possible",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-06T12:30:00+00:00"
-  },
-  "98e9f1f86d2f": {
-    "id": "98e9f1f86d2f",
-    "title_en": "Nuclear startup Oklo splits its first atoms in test reactor",
-    "title_zh": "核创业公司Oklo在试验反应堆中分裂了第一个原子",
-    "url": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-06T12:13:00+00:00"
-  },
-  "cbcb12ecba71": {
-    "id": "cbcb12ecba71",
-    "title_en": "World’s first sodium-ion electric haul truck gets to work in China",
-    "title_zh": "世界上第一辆钠离子电动卡车在中国投入使用",
-    "url": "https://electrek.co/2026/08/06/worlds-first-sodium-ion-electric-haul-truck-gets-to-work-in-china/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-06T12:01:37+00:00"
-  },
-  "92cb7840f3a5": {
-    "id": "92cb7840f3a5",
-    "title_en": "Finnish push for data center flexibility",
-    "title_zh": "芬兰推动数据中心灵活性",
-    "url": "https://www.pv-magazine.com/2026/08/06/finnish-push-for-data-center-flexibility/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-06T12:00:00+00:00"
-  },
-  "a6fe6ea1864c": {
-    "id": "a6fe6ea1864c",
-    "title_en": "Duke Energy to issue $10B in equity to capture gas generation growth opportunity",
-    "title_zh": "杜克能源将发行100亿美元股权以抓住天然气发电增长机会",
-    "url": "https://www.utilitydive.com/news/duke-energy-to-issue-10b-in-equity-to-capture-once-in-a-generation-gro/827039/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-06T12:00:00+00:00"
   }
 }
