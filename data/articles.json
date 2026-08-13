@@ -1,4 +1,112 @@
 {
+  "efd531435ed8": {
+    "id": "efd531435ed8",
+    "title_en": "Ukraine Strikes Gazprom's 200,000-Bpd Salavat Refinery in the Urals",
+    "title_zh": "乌克兰袭击俄罗斯天然气工业股份公司位于乌拉尔的20万桶/日萨拉瓦特炼油厂",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Strikes-Gazproms-200000-Bpd-Salavat-Refinery-in-the-Urals.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T15:30:00+00:00"
+  },
+  "79d6753f8b85": {
+    "id": "79d6753f8b85",
+    "title_en": "Tesla defeats Sweden’s IF Metall union after 1,021-day strike",
+    "title_zh": "特斯拉在1021天罢工后击败瑞典IF Metall工会",
+    "url": "https://electrek.co/2026/08/13/tesla-defeats-sweden-if-metall-union-strike/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T15:08:04+00:00"
+  },
+  "53477f33c40b": {
+    "id": "53477f33c40b",
+    "title_en": "Hormuz Stalemate Raises Risk of $120 Oil",
+    "title_zh": "霍尔木兹僵局增加了120美元油价的风险",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Hormuz-Stalemate-Raises-Risk-of-120-Oil.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T15:00:00+00:00"
+  },
+  "1762fffd8968": {
+    "id": "1762fffd8968",
+    "title_en": "Scatec starts full commercial operations at gigawatt-scale Obelisk solar-plus-storage project",
+    "title_zh": "Scatec启动千兆瓦级方尖碑太阳能+储能项目的全面商业运营",
+    "url": "https://www.energy-storage.news/scatec-full-commercial-operations-gigawatt-scale-obelisk-solar-plus-storage-project/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-13T14:53:43+00:00"
+  },
+  "ae16af3fcd75": {
+    "id": "ae16af3fcd75",
+    "title_en": "Software-based initiative could unlock up to 20% more bulk capacity: OATI",
+    "title_zh": "基于软件的计划可以释放高达20%的批量容量：OATI",
+    "url": "https://www.utilitydive.com/news/software-based-initiative-could-unlock-up-to-20-more-bulk-capacity-oati/827806/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-13T14:51:48+00:00"
+  },
+  "27e7f92f98ca": {
+    "id": "27e7f92f98ca",
+    "title_en": "Volkswagen’s new electric camper van turns the ID. Buzz into a home on wheels",
+    "title_zh": "大众汽车的新型电动露营车将ID Buzz变成了一个有轮子的家",
+    "url": "https://electrek.co/2026/08/13/volkswagen-turning-id-buzz-into-electric-camper-van/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T14:33:09+00:00"
+  },
+  "0cf5059ccb32": {
+    "id": "0cf5059ccb32",
+    "title_en": "Romania Shuts Down Last Nuclear Reactor As Danube Hits 90-Year Low",
+    "title_zh": "罗马尼亚关闭最后一座核反应堆多瑙河创90年新低",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Shuts-Down-Last-Nuclear-Reactor-As-Danube-Hits-90-Year-Low.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T14:30:00+00:00"
+  },
+  "ec2d283eca38": {
+    "id": "ec2d283eca38",
+    "title_en": "Urban Arrow enters the longtail cargo e-bike market in US with its new Breeze",
+    "title_zh": "Urban Arrow携新款Breeze进入美国长尾货运电动自行车市场",
+    "url": "https://electrek.co/2026/08/13/urban-arrow-enters-the-longtail-cargo-e-bike-market-in-us-with-its-new-breeze/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T14:02:00+00:00"
+  },
+  "0e4696fef8c7": {
+    "id": "0e4696fef8c7",
+    "title_en": "Rivian’s 2027 R1S adds captain’s chairs, its most-requested feature",
+    "title_zh": "Rivian的2027 R1S增加了船长座椅，这是其最受欢迎的功能",
+    "url": "https://electrek.co/2026/08/13/rivian-2027-r1s-r1t-captains-chairs-new-trims-pricing/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T14:00:00+00:00"
+  },
+  "24c76dbcac08": {
+    "id": "24c76dbcac08",
+    "title_en": "America’s Authoritarian Adversaries Are Forging a New Power Bloc",
+    "title_zh": "美国的威权主义对手正在打造一个新的权力集团",
+    "url": "https://oilprice.com/Geopolitics/North-America/Americas-Authoritarian-Adversaries-Are-Forging-a-New-Power-Bloc.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T14:00:00+00:00"
+  },
+  "17beebd91666": {
+    "id": "17beebd91666",
+    "title_en": "The Hybrids Are Coming! The Hybrids Are Coming!",
+    "title_zh": "混合动力车来了！混合动力车来了！",
+    "url": "https://cleantechnica.com/2026/08/13/the-hybrids-are-coming-the-hybrids-are-coming/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T13:46:29+00:00"
+  },
+  "86552c93bb96": {
+    "id": "86552c93bb96",
+    "title_en": "Decommissioning Spending in UK North Sea Hits Record High",
+    "title_zh": "英国北海退役支出创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Decommissioning-Spending-in-UK-North-Sea-Hits-Record-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T13:30:00+00:00"
+  },
   "ab19ae5b1ab8": {
     "id": "ab19ae5b1ab8",
     "title_en": "NextEnergy UK acquires 107MW/151MWh standalone BESS portfolio in the UK",
@@ -178,6 +286,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-13T10:05:48+00:00"
+  },
+  "ca1350819dbe": {
+    "id": "ca1350819dbe",
+    "title_en": "RWE’s offshore wind earnings soar with higher generation",
+    "title_zh": "RWE的海上风电收益随着发电量的增加而飙升",
+    "url": "https://www.windpowermonthly.com/article/1967301/rwes-offshore-wind-earnings-soar-higher-generation",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-08-13T09:57:31+00:00"
   },
   "e648e0a285b2": {
     "id": "e648e0a285b2",
@@ -4381,122 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-07T03:57:01+00:00"
-  },
-  "5746e3167765": {
-    "id": "5746e3167765",
-    "title_en": "ZEBRE submits 180MW BESS to Australia’s EPBC Act as ZEN Energy administration fails to slow pipeline",
-    "title_zh": "ZEBRE向澳大利亚EPBC法案提交了180MW BESS，因为ZEN能源管理局未能减缓管道建设",
-    "url": "https://www.energy-storage.news/zebre-submits-180mw-bess-to-australias-epbc-act-as-zen-energy-administration-fails-to-slow-pipeline/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-07T03:53:20+00:00"
-  },
-  "e69865d3ed13": {
-    "id": "e69865d3ed13",
-    "title_en": "New Zealand Electric Vehicle Market Rises from the Depths! (CHARTS)",
-    "title_zh": "新西兰电动汽车市场走出低谷！（图表）",
-    "url": "https://cleantechnica.com/2026/08/06/new-zealand-electric-vehicle-market-rises-from-the-depths-charts/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-07T03:06:41+00:00"
-  },
-  "50ebcc7db397": {
-    "id": "50ebcc7db397",
-    "title_en": "Waymo Jacks Up Lobbying In Washington, DC",
-    "title_zh": "Waymo在华盛顿特区进行游说",
-    "url": "https://cleantechnica.com/2026/08/06/waymo-jacks-up-lobbying-in-washington-dc/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-07T02:27:17+00:00"
-  },
-  "d8684a5963de": {
-    "id": "d8684a5963de",
-    "title_en": "Zoox To Start Charging Passengers Next Week",
-    "title_zh": "Zoox将于下周开始向乘客收费",
-    "url": "https://cleantechnica.com/2026/08/06/zoox-to-start-charging-passengers-next-week/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-07T01:33:34+00:00"
-  },
-  "48d384040ed8": {
-    "id": "48d384040ed8",
-    "title_en": "Lower Oil Prices Lend Support For The Gold Rally",
-    "title_zh": "油价下跌为金价上涨提供支撑",
-    "url": "https://oilprice.com/Metals/Gold/Lower-Oil-Prices-Lend-Support-For-The-Gold-Rally.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T00:00:00+00:00"
-  },
-  "f37a49220d55": {
-    "id": "f37a49220d55",
-    "title_en": "Tesla is racking up speeding tickets, and YOU are on the hook",
-    "title_zh": "特斯拉正在累积超速罚单，而你却被牵连其中",
-    "url": "https://electrek.co/2026/08/06/tesla-is-racking-up-speeding-tickets-and-you-are-on-the-hook/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-06T23:35:46+00:00"
-  },
-  "9bc1fee23a07": {
-    "id": "9bc1fee23a07",
-    "title_en": "Gas Shortages and High Prices Derail Southeast Asia’s Power Buildout",
-    "title_zh": "天然气短缺和高价格阻碍了东南亚的电力建设",
-    "url": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-06T23:00:00+00:00"
-  },
-  "b312316768c7": {
-    "id": "b312316768c7",
-    "title_en": "VICTORY: Court Overturns Trump Administration’s Wind Pause",
-    "title_zh": "胜利：法院推翻特朗普政府的风暂停",
-    "url": "https://cleantechnica.com/2026/08/06/victory-court-overturns-trump-administrations-wind-pause/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-06T22:51:35+00:00"
-  },
-  "951fc86e7b20": {
-    "id": "951fc86e7b20",
-    "title_en": "Donald Trump Pays Off 5th Energy Company in Attack on Renewable Energy",
-    "title_zh": "唐纳德·特朗普向第五家能源公司支付可再生能源攻击费",
-    "url": "https://cleantechnica.com/2026/08/06/donald-trump-pays-off-5th-energy-company-in-attack-on-renewable-energy/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-06T22:46:25+00:00"
-  },
-  "e24b2582f53f": {
-    "id": "e24b2582f53f",
-    "title_en": "China Unveils Safety Standards for Autonomous Driving Systems",
-    "title_zh": "中国公布自动驾驶系统安全标准",
-    "url": "https://cleantechnica.com/2026/08/06/china-unveils-safety-standards-for-autonomous-driving-systems/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-06T22:38:29+00:00"
-  },
-  "d5159b6d3c49": {
-    "id": "d5159b6d3c49",
-    "title_en": "NYC is putting 600 new EV charging points right at the curb",
-    "title_zh": "纽约市将在路边设置600个新的电动汽车充电点",
-    "url": "https://electrek.co/2026/08/06/nyc-is-putting-600-new-ev-charging-points-right-at-the-curb/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-06T22:25:51+00:00"
-  },
-  "3e92b4687139": {
-    "id": "3e92b4687139",
-    "title_en": "Get Your Hands On The New Ford Fathom Electric Pickup Truck For Just (Checks Notes) $28,3501 MSRP",
-    "title_zh": "以283501美元的建议零售价购买新款福特Fathom电动皮卡",
-    "url": "https://cleantechnica.com/2026/08/06/ford-fathom-electric-pickup-truck-ev-affordable/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-06T22:08:16+00:00"
-  },
-  "0eb7b4e2350b": {
-    "id": "0eb7b4e2350b",
-    "title_en": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
-    "title_zh": "英国司机在战争驱动的价格飙升中助长盗窃",
-    "url": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-06T22:00:00+00:00"
   }
 }
