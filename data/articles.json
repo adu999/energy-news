@@ -1,4 +1,94 @@
 {
+  "f10da3aa0b48": {
+    "id": "f10da3aa0b48",
+    "title_en": "Kia sold over 8,000 EV2s in just 3 months",
+    "title_zh": "起亚在短短3个月内售出了8000多辆电动汽车",
+    "url": "https://electrek.co/2026/08/13/kia-sold-over-8000-ev2s-3-months/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T21:30:50+00:00"
+  },
+  "da7d7b772cdb": {
+    "id": "da7d7b772cdb",
+    "title_en": "China Races to Finish Molten-Salt Solar Plant as Stocks Whipsaw",
+    "title_zh": "中国竞相完成熔盐太阳能发电厂，股票为Whipsaw",
+    "url": "https://oilprice.com/Energy/Energy-General/China-Races-to-Finish-Molten-Salt-Solar-Plant-as-Stocks-Whipsaw.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T21:00:00+00:00"
+  },
+  "abd6df16a772": {
+    "id": "abd6df16a772",
+    "title_en": "Texas 2.5-GW Gas-Plus-Nuclear Project Proceeds to Engineering, Licensing Phase",
+    "title_zh": "德克萨斯州2.5GW天然气加核能项目进入工程设计、许可阶段",
+    "url": "https://www.powermag.com/texas-2-5-gw-gas-plus-nuclear-project-proceeds-to-engineering-licensing-phase/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-13T20:26:14+00:00"
+  },
+  "34d2790aa714": {
+    "id": "34d2790aa714",
+    "title_en": "Solar Surpasses Wind In Global Electricity Generation For The First Time",
+    "title_zh": "太阳能首次在全球发电中超越风能",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T20:00:00+00:00"
+  },
+  "63ea2f82debd": {
+    "id": "63ea2f82debd",
+    "title_en": "Kinematics expands solar tracker repowering services by acquiring RenuTrak",
+    "title_zh": "Kinematics通过收购RenuTrak扩大太阳能跟踪器重新供电服务",
+    "url": "https://www.solarpowerworldonline.com/2026/08/kinematics-expands-solar-tracker-repowering-services-by-acquiring-renutrak/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T19:53:40+00:00"
+  },
+  "bf328ec138a9": {
+    "id": "bf328ec138a9",
+    "title_en": "Ford recalls nearly 90,000 Mustang Mach-E EVs because part of the trim can fall off",
+    "title_zh": "福特召回近9万辆野马Mach-E电动汽车，因为部分装饰可能会脱落",
+    "url": "https://electrek.co/2026/08/13/ford-recalling-nearly-90000-mustang-mach-e-evs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T19:44:23+00:00"
+  },
+  "95a5ffccca20": {
+    "id": "95a5ffccca20",
+    "title_en": "Tesla pays Musk 2.5 million times more than average worker, even as profits drop",
+    "title_zh": "特斯拉支付给马斯克的工资是普通工人的250万倍，尽管利润下降",
+    "url": "https://electrek.co/2026/08/13/musk-paid-2-5m-times-more-than-average-tesla-worker-despite-dropping-profits/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T19:42:26+00:00"
+  },
+  "e27e2f7a001b": {
+    "id": "e27e2f7a001b",
+    "title_en": "Omni Brewing Company installs solar on front of Minnesota taproom",
+    "title_zh": "Omni Brewing Company在明尼苏达州的酒吧前安装太阳能",
+    "url": "https://www.solarpowerworldonline.com/2026/08/omni-brewing-company-installs-solar-on-front-of-minnesota-taproom/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-08-13T19:38:55+00:00"
+  },
+  "183e94406895": {
+    "id": "183e94406895",
+    "title_en": "U.S. Backs X-Energy Reactor With Up to $2.15 Billion",
+    "title_zh": "美国以高达21.5亿美元支持X-Energy反应堆",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Backs-X-Energy-Reactor-With-Up-to-215-Billion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T19:30:00+00:00"
+  },
+  "ac1a997525a7": {
+    "id": "ac1a997525a7",
+    "title_en": "Crack Spread Explodes, EV Sales Stabilize, And Here Comes The Mysterious Ford Fathom",
+    "title_zh": "裂缝蔓延爆炸，电动汽车销售稳定，神秘的福特父亲来了",
+    "url": "https://cleantechnica.com/2026/08/13/ford-fathom-ev-sales-pickup-truck-iran-ukraine-wars/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T19:18:51+00:00"
+  },
   "7bd1408d71f9": {
     "id": "7bd1408d71f9",
     "title_en": "Russia’s Diesel Exports Crash to Multiyear-Low amid Tight Global Market",
@@ -4408,95 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-07T11:30:00+00:00"
-  },
-  "74a6d375c10a": {
-    "id": "74a6d375c10a",
-    "title_en": "Saudi company to build 760 MW of solar, 1,077 MWh of BESS in Syria",
-    "title_zh": "沙特公司将在叙利亚建造760兆瓦的太阳能和1077兆瓦时的BESS",
-    "url": "https://www.pv-magazine.com/2026/08/07/saudi-company-to-build-760-mw-of-solar-1077-mwh-of-bess-in-syria/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T11:20:00+00:00"
-  },
-  "0aca75835278": {
-    "id": "0aca75835278",
-    "title_en": "The Hydrogen Stream: Over $1 billion in funds for projects in Spain, the Netherlands",
-    "title_zh": "氢流：为西班牙、荷兰的项目提供了超过10亿美元的资金",
-    "url": "https://www.pv-magazine.com/2026/08/07/the-hydrogen-stream-over-1-billion-in-funds-for-projects-in-spain-the-netherlands/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T11:00:00+00:00"
-  },
-  "66c92bac6c23": {
-    "id": "66c92bac6c23",
-    "title_en": "India's Crude Oil Output Falls for Third Straight Year",
-    "title_zh": "印度原油产量连续第三年下降",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Output-Falls-for-Third-Straight-Year.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T11:00:00+00:00"
-  },
-  "879d01c9dd57": {
-    "id": "879d01c9dd57",
-    "title_en": "US court orders Pentagon to lift freeze on wind permitting",
-    "title_zh": "美国法院命令五角大楼在风力允许的情况下解除冻结",
-    "url": "https://www.windpowermonthly.com/article/1966835/us-court-orders-pentagon-lift-freeze-wind-permitting",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-07T10:58:48+00:00"
-  },
-  "9eb4d4a7c03a": {
-    "id": "9eb4d4a7c03a",
-    "title_en": "ZTT Launches New Cable-Laying Vessel for Offshore Wind",
-    "title_zh": "ZTT推出新型海上风电电缆敷设船",
-    "url": "https://www.offshorewind.biz/2026/08/07/ztt-launches-cable-laying-vessel-for-offshore-wind/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-07T10:47:21+00:00"
-  },
-  "7e0a8adcead7": {
-    "id": "7e0a8adcead7",
-    "title_en": "Germany: BNetzA’s post-2029 dynamic grid fees to reward grid-friendly behaviour, but more clarity needed",
-    "title_zh": "德国：BNetzA在2029年后的动态电网收费，以奖励电网友好行为，但需要更明确",
-    "url": "https://www.energy-storage.news/germany-bnetzas-post-2029-dynamic-grid-fees-to-reward-grid-friendly-behaviour-but-more-clarity-needed/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-07T10:27:14+00:00"
-  },
-  "8a4aecef2104": {
-    "id": "8a4aecef2104",
-    "title_en": "World’s largest cattle station installs microgrid as primary power source",
-    "title_zh": "世界上最大的养牛站安装微电网作为主要电源",
-    "url": "https://www.pv-magazine.com/2026/08/07/worlds-largest-cattle-station-installs-microgrid-as-primary-power-source/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T10:00:00+00:00"
-  },
-  "4c3672b427ef": {
-    "id": "4c3672b427ef",
-    "title_en": "ABB invests in LevelTen Energy to support clean energy procurement",
-    "title_zh": "ABB投资LevelTen Energy支持清洁能源采购",
-    "url": "https://www.energymonitor.ai/news/abb-invests-in-levelten-energy/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-07T09:54:00+00:00"
-  },
-  "9a09f48af700": {
-    "id": "9a09f48af700",
-    "title_en": "Hydrogen Trains Get Headlines. Battery Trains Get Used.",
-    "title_zh": "氢动力列车成为头条新闻。电池组被使用。",
-    "url": "https://cleantechnica.com/2026/08/07/hydrogen-trains-vs-battery-trains-fleet-data/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-07T09:37:07+00:00"
-  },
-  "6179f0530c33": {
-    "id": "6179f0530c33",
-    "title_en": "Emerge Renewables starts up solar glass factory in India",
-    "title_zh": "Emerge Renewables在印度启动太阳能玻璃工厂",
-    "url": "https://www.pv-magazine.com/2026/08/07/emerge-renewables-starts-up-solar-glass-factory-in-india/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T09:30:00+00:00"
   }
 }
