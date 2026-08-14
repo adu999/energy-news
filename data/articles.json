@@ -1,4 +1,13 @@
 {
+  "88b8a6b59703": {
+    "id": "88b8a6b59703",
+    "title_en": "Off-grid in Angola",
+    "title_zh": "安哥拉离网",
+    "url": "https://www.pv-magazine.com/2026/08/14/off-grid-in-angola/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T04:00:00+00:00"
+  },
   "373f359e969e": {
     "id": "373f359e969e",
     "title_en": "Tesla Reportedly Cutting Production In China In January — Not Clear Why",
@@ -4489,14 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-07T12:22:05+00:00"
-  },
-  "440d5733fc3f": {
-    "id": "440d5733fc3f",
-    "title_en": "Apollo Power claims certification first for lightweight flexible module",
-    "title_zh": "Apollo Power首次声称其轻质柔性模块已获得认证",
-    "url": "https://www.pv-magazine.com/2026/08/07/apollo-power-claims-certification-first-for-lightweight-flexible-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:20:00+00:00"
   }
 }
