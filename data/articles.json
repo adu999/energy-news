@@ -1,4 +1,175 @@
 {
+  "a8fdc802acdd": {
+    "id": "a8fdc802acdd",
+    "title_en": "PVFarm rolls out RE STACK software for utility-scale BESS planning",
+    "title_zh": "PVFarm推出用于公用事业规模BESS规划的RE STACK软件",
+    "url": "https://www.pv-magazine.com/2026/08/14/pvfarm-rolls-out-re-stack-software-for-utility-scale-bess-planning/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T09:52:57+00:00"
+  },
+  "7a3eaaea19c9": {
+    "id": "7a3eaaea19c9",
+    "title_en": "Partial U.S. eclipse produced similar daily solar energy losses to higher-obscuration European locations",
+    "title_zh": "美国日偏食造成的每日太阳能损失与欧洲遮蔽程度较高的地区相似",
+    "url": "https://www.pv-magazine.com/2026/08/14/partial-u-s-eclipse-produced-similar-daily-solar-energy-losses-to-higher-obscurationeuropean-locations/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T09:48:56+00:00"
+  },
+  "8e74673f97e0": {
+    "id": "8e74673f97e0",
+    "title_en": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
+    "title_zh": "FEOC合规性不会在签署时结束。这就是它真正崩溃的地方",
+    "url": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T09:34:57+00:00"
+  },
+  "b4f3c3d04fed": {
+    "id": "b4f3c3d04fed",
+    "title_en": "Vikram Solar inaugurates 6 GW solar PV module factory in India",
+    "title_zh": "Vikram Solar在印度开设6吉瓦太阳能光伏组件工厂",
+    "url": "https://www.pv-magazine.com/2026/08/14/vikram-solar-inaugurates-6-gw-solar-pv-module-plant-at-gangaikondan/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T09:34:16+00:00"
+  },
+  "1e43d8f63dfa": {
+    "id": "1e43d8f63dfa",
+    "title_en": "Vance Says Cheap Oil and Gas Is Top U.S. Priority in Iran War",
+    "title_zh": "万斯说，廉价的石油和天然气是美国在伊朗战争中的首要任务",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Vance-Says-Cheap-Oil-and-Gas-Is-Top-US-Priority-in-Iran-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-14T09:20:00+00:00"
+  },
+  "e21b5560af32": {
+    "id": "e21b5560af32",
+    "title_en": "‘Multi-day’ energy storage startup Noon Energy makes 1GW US AI infrastructure deployment agreement",
+    "title_zh": "“多日”储能初创公司Noon energy达成1GW美国人工智能基础设施部署协议",
+    "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-noon-energy-makes-1gw-us-ai-infrastructure-deployment-agreement/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-14T09:06:52+00:00"
+  },
+  "d29090f926e6": {
+    "id": "d29090f926e6",
+    "title_en": "Ontario’s First Electricity Shortfall Isn’t A Capacity Shortfall",
+    "title_zh": "安大略省的首次电力短缺不是产能短缺",
+    "url": "https://cleantechnica.com/2026/08/14/ontario-electricity-demand-nuclear-renewables-storage/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T09:02:09+00:00"
+  },
+  "3ed04e4b46c3": {
+    "id": "3ed04e4b46c3",
+    "title_en": "Optimising US BESS markets: Insights from Caerus Commodities",
+    "title_zh": "优化美国BESS市场：来自Caerus Commodities的见解",
+    "url": "https://www.energy-storage.news/optimising-us-bess-markets-insights-from-caerus-commodities/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-14T08:39:46+00:00"
+  },
+  "57298ea00760": {
+    "id": "57298ea00760",
+    "title_en": "Ireland records 1,258 MW grid-scale solar generation peak ahead of eclipse",
+    "title_zh": "爱尔兰在日食前创下1258兆瓦电网规模太阳能发电峰值",
+    "url": "https://www.pv-magazine.com/2026/08/14/ireland-records-1258-mw-grid-scale-solar-generation-peak-ahead-of-eclipse/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T08:35:14+00:00"
+  },
+  "49ef37942178": {
+    "id": "49ef37942178",
+    "title_en": "XPENG Debuts L03 AI SUV Coupe in Indonesia As Vehicle Heads for the Phillippines",
+    "title_zh": "XPENG在印尼推出L03 AI SUV Coupe，进军菲律宾",
+    "url": "https://cleantechnica.com/2026/08/14/xpeng-debuts-l03-ai-suv-coupe-in-indonesia-as-vehicle-heads-for-the-phillippines/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T08:27:56+00:00"
+  },
+  "4d4d842daad0": {
+    "id": "4d4d842daad0",
+    "title_en": "Origin Energy’s 650MWh Mortlake BESS begins commercial operations in Australia",
+    "title_zh": "Origin Energy的650MWh Mortlake BESS在澳大利亚开始商业运营",
+    "url": "https://www.energy-storage.news/origin-energy-650mwh-mortlake-bess-commercial-operations-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-14T08:19:13+00:00"
+  },
+  "f2d55e3d9b26": {
+    "id": "f2d55e3d9b26",
+    "title_en": "Squadron Energy secures AU$2.7 billion refinancing to support hybrid asset growth in Australia",
+    "title_zh": "Squadron Energy获得27亿澳元的再融资，以支持澳大利亚的混合资产增长",
+    "url": "https://www.energy-storage.news/squadron-energy-au2-billion-refinancing-hybrid-asset-growth-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-14T08:17:20+00:00"
+  },
+  "f27e7be0fb9a": {
+    "id": "f27e7be0fb9a",
+    "title_en": "Edify Energy reaches financial close on 1,200MWh solar-plus-storage projects in Queensland, Australia",
+    "title_zh": "Edify Energy在澳大利亚昆士兰州完成了1200MWh太阳能+储能项目的财务结算",
+    "url": "https://www.energy-storage.news/edify-energy-financial-close-1200mwh-solar-plus-storage-queensland-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-14T08:15:02+00:00"
+  },
+  "e14d94ee653c": {
+    "id": "e14d94ee653c",
+    "title_en": "Hormuz Tanker Traffic Slumps as U.S.-Iran Standoff Drags On",
+    "title_zh": "霍尔木兹油轮运输量暴跌，因为美国与伊朗的对峙仍在继续",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-US-Iran-Standoff-Drags-On.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-14T08:15:00+00:00"
+  },
+  "6cea39dda90f": {
+    "id": "6cea39dda90f",
+    "title_en": "Ukraine specifies hours eligible for rooftop PV feed-in tariff",
+    "title_zh": "乌克兰规定了符合屋顶光伏上网电价的小时数",
+    "url": "https://www.pv-magazine.com/2026/08/14/ukraine-specifies-hours-eligible-for-rooftop-pv-feed-in-tariff/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T07:56:43+00:00"
+  },
+  "3978ad26e62d": {
+    "id": "3978ad26e62d",
+    "title_en": "Ocean Winds Selects Bilfinger for Offshore Wind Project in Poland",
+    "title_zh": "Ocean Winds选择Bilfinger用于波兰的海上风电项目",
+    "url": "https://www.offshorewind.biz/2026/08/14/ocean-winds-selects-bilfinger-for-offshore-wind-project-in-poland/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-14T07:48:11+00:00"
+  },
+  "87b0240e9c8c": {
+    "id": "87b0240e9c8c",
+    "title_en": "China wafer prices hold steady as market weighs early signs of upstream stabilization",
+    "title_zh": "中国晶圆价格保持稳定，市场权衡上游稳定的早期迹象",
+    "url": "https://www.pv-magazine.com/2026/08/14/china-wafer-prices-hold-steady-as-market-weighs-early-signs-of-upstream-stabilization/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T07:35:10+00:00"
+  },
+  "d913495a4ba9": {
+    "id": "d913495a4ba9",
+    "title_en": "Your gas car works fine. Consider an EV anyway.",
+    "title_zh": "你的汽油车运行良好。无论如何都要考虑电动汽车。",
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/gas-car-consider-an-ev",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-14T07:30:00+00:00"
+  },
+  "750a66dba16a": {
+    "id": "750a66dba16a",
+    "title_en": "Home battery installations climb despite loss of federal incentives",
+    "title_zh": "尽管失去了联邦激励措施，但家用电池安装量仍在攀升",
+    "url": "https://www.canarymedia.com/articles/energy-storage/home-battery-installations-climb",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-14T07:30:00+00:00"
+  },
   "02a7dae61c23": {
     "id": "02a7dae61c23",
     "title_en": "Russia Captures Record Share of India’s Oil Market",
@@ -681,6 +852,15 @@
     "url": "https://oilprice.com/Latest-Energy-News/World-News/High-Oil-Prices-Deliver-a-Windfall-for-Chinas-Coal-to-Chemicals-Industry.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-08-13T10:30:00+00:00"
+  },
+  "d5157d2eff5c": {
+    "id": "d5157d2eff5c",
+    "title_en": "Form Energy raises $750m to expand iron-air battery production",
+    "title_zh": "Form Energy融资7.5亿美元扩大铁空气电池生产",
+    "url": "https://www.energymonitor.ai/news/form-energy-iron-air-battery-production/",
+    "source": "Energy Monitor",
+    "category": "综合",
     "pub_ts": "2026-08-13T10:30:00+00:00"
   },
   "69af33dbdced": {
@@ -4318,185 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-07T17:14:00+00:00"
-  },
-  "992c0dc936a0": {
-    "id": "992c0dc936a0",
-    "title_en": "Details of new Smart car leaked in regulatory filing… but you can’t have it",
-    "title_zh": "新智能汽车的细节在监管文件中泄露……但你不能拥有它",
-    "url": "https://electrek.co/2026/08/07/details-of-new-smart-car-leaked-in-regulatory-filing-but-you-cant-have-it/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T16:06:27+00:00"
-  },
-  "500a9bdda8cd": {
-    "id": "500a9bdda8cd",
-    "title_en": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-    "title_zh": "伊朗是否准备永久封锁霍尔木兹海峡？",
-    "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T16:04:46+00:00"
-  },
-  "a63551cecf99": {
-    "id": "a63551cecf99",
-    "title_en": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-    "title_zh": "随着霍尔木兹风险的增加，ADNOC报告了15起船只袭击事件",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T15:45:00+00:00"
-  },
-  "bdcde78cd840": {
-    "id": "bdcde78cd840",
-    "title_en": "Subaru is spending nearly $10,000 per vehicle to sell its new EVs",
-    "title_zh": "斯巴鲁每辆车的售价接近1万美元，用于销售其新型电动汽车",
-    "url": "https://electrek.co/2026/08/07/subaru-spending-nearly-10000-per-vehicle-sell-new-evs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T15:44:30+00:00"
-  },
-  "e4755eb9c494": {
-    "id": "e4755eb9c494",
-    "title_en": "Libya Aims to Boost Oil Production to 2 Million Bpd by Early 2030s",
-    "title_zh": "利比亚计划到2030年代初将石油产量提高到200万桶/日",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Aims-to-Boost-Oil-Production-to-2-Million-Bpd-by-Early-2030s.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T15:30:00+00:00"
-  },
-  "0e7a52c70da5": {
-    "id": "0e7a52c70da5",
-    "title_en": "India plans PLI scheme for more than 10GW polysilicon capacity",
-    "title_zh": "印度计划PLI方案，多晶硅产能超过10GW",
-    "url": "https://www.pv-tech.org/india-plans-pli-scheme-for-more-than-10gw-polysilicon-capacity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T15:28:19+00:00"
-  },
-  "6f328a731ecd": {
-    "id": "6f328a731ecd",
-    "title_en": "Can Ford’s affordable new electric truck hit the sweet spot?",
-    "title_zh": "福特价格实惠的新型电动卡车能达到最佳点吗？",
-    "url": "https://www.canarymedia.com/articles/electric-vehicles/can-fords-new-electric-truck-hit-the-sweet-spot",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-07T15:12:00+00:00"
-  },
-  "7843980d188a": {
-    "id": "7843980d188a",
-    "title_en": "Tesla admits Cybertruck PCS defect, extends warranty to 8 years",
-    "title_zh": "特斯拉承认Cybertruck PCS存在缺陷，将保修期延长至8年",
-    "url": "https://electrek.co/2026/08/07/tesla-cybertruck-pcs-defect-warranty-extension/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T15:08:29+00:00"
-  },
-  "2ff077d74c15": {
-    "id": "2ff077d74c15",
-    "title_en": "The utility billing system is preventing rate and program innovation",
-    "title_zh": "公用事业计费系统阻碍了费率和程序创新",
-    "url": "https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-07T15:00:00+00:00"
-  },
-  "13330e1bb92b": {
-    "id": "13330e1bb92b",
-    "title_en": "Saudi Arabia’s $5 Oil Detour Is Expensive—and Worth It",
-    "title_zh": "沙特阿拉伯5美元的石油排毒费用高昂，值得一试",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Arabias-5-Oil-Detour-Is-Expensiveand-Worth-It.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T14:49:00+00:00"
-  },
-  "ffb7fa83c5c2": {
-    "id": "ffb7fa83c5c2",
-    "title_en": "ADNOC Buys 11 Supertankers for $1.3 Billion to Expand Export Fleet",
-    "title_zh": "ADNOC斥资13亿美元收购11艘超级油轮以扩大出口船队",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Buys-11-Supertankers-for-13-Billion-to-Expand-Export-Fleet.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T14:30:00+00:00"
-  },
-  "352eca48f448": {
-    "id": "352eca48f448",
-    "title_en": "Existing power plants are ‘bedrock’ in supplying data centers: Constellation CEO",
-    "title_zh": "Constellation首席执行官表示，现有发电厂是数据中心供电的“基石”",
-    "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-07T14:23:04+00:00"
-  },
-  "61f9a117733e": {
-    "id": "61f9a117733e",
-    "title_en": "US DOE closes US$489 million loan with Pattern Energy to support BESS, natural gas in Puerto Rico",
-    "title_zh": "美国能源部与Pattern Energy达成4.89亿美元贷款，以支持波多黎各天然气BESS",
-    "url": "https://www.energy-storage.news/us-doe-closes-us489-million-loan-with-pattern-energy-to-support-bess-natural-gas-in-puerto-rico/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-07T14:20:01+00:00"
-  },
-  "cf784c9d503f": {
-    "id": "cf784c9d503f",
-    "title_en": "Telo raises its tiny electric truck’s tow rating to 8,000 lbs",
-    "title_zh": "Telo将其小型电动卡车的牵引力提高到8000磅",
-    "url": "https://electrek.co/2026/08/07/telo-tow-rating-8000-lbs-electric-truck/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T14:06:23+00:00"
-  },
-  "e33dc1c1bb1b": {
-    "id": "e33dc1c1bb1b",
-    "title_en": "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
-    "title_zh": "随着爱国者导弹供应的减少，乌克兰面临日益严重的防空危机",
-    "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Faces-a-Growing-Air-Defense-Crisis-as-Patriot-Supplies-Dwindle.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T14:00:00+00:00"
-  },
-  "83393c6b0545": {
-    "id": "83393c6b0545",
-    "title_en": "The Kia PV5 is taking over Europe as the best-selling small electric van",
-    "title_zh": "起亚PV5正在接管欧洲，成为最畅销的小型电动货车",
-    "url": "https://electrek.co/2026/08/07/kia-pv5-europe-best-selling-small-ev-van/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T13:46:27+00:00"
-  },
-  "1c228f527262": {
-    "id": "1c228f527262",
-    "title_en": "Batch eFT.3 Review: A 28 MPH fat tire e-bike built for the streets",
-    "title_zh": "Batch eFT.3回顾：为街道打造的28英里/小时厚胎电动自行车",
-    "url": "https://electrek.co/2026/08/07/batch-eft-3-review-a-28-mph-fat-tire-e-bike-built-for-the-streets/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T13:15:00+00:00"
-  },
-  "08726de52326": {
-    "id": "08726de52326",
-    "title_en": "US manufacturers can meet inverter demand, at a premium price – Wood Mackenzie",
-    "title_zh": "美国制造商可以以高价满足逆变器需求——Wood Mackenzie",
-    "url": "https://www.pv-tech.org/us-manufacturers-can-meet-inverter-demand-at-a-premium-price-wood-mackenzie/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T13:07:03+00:00"
-  },
-  "66483e48b90d": {
-    "id": "66483e48b90d",
-    "title_en": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
-    "title_zh": "沙特阿拉伯、巴基斯坦和土耳其将签署防务协议",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T13:00:00+00:00"
-  },
-  "4326938b8d85": {
-    "id": "4326938b8d85",
-    "title_en": "How will the FCC inverter ban impact the US solar industry in the short- and long-term?",
-    "title_zh": "FCC逆变器禁令将如何在短期和长期内影响美国太阳能行业？",
-    "url": "https://www.pv-tech.org/how-will-the-fcc-inverter-ban-impact-the-us-solar-industry-in-the-short-and-long-term/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:55:34+00:00"
   }
 }
