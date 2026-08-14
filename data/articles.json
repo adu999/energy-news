@@ -1,4 +1,94 @@
 {
+  "373f359e969e": {
+    "id": "373f359e969e",
+    "title_en": "Tesla Reportedly Cutting Production In China In January — Not Clear Why",
+    "title_zh": "据报道，特斯拉1月份在中国减产——原因尚不清楚",
+    "url": "https://cleantechnica.com/2026/08/13/tesla-reportedly-cutting-production-in-china-in-january-not-clear-why/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T01:39:52+00:00"
+  },
+  "bb03a71e1fa9": {
+    "id": "bb03a71e1fa9",
+    "title_en": "Waymo Partners with Las Vegas Raiders & Allegiant Stadium",
+    "title_zh": "Waymo与拉斯维加斯突袭者队和Allegiant体育场合作",
+    "url": "https://cleantechnica.com/2026/08/13/waymo-partners-with-las-vegas-raiders-allegiant-stadium/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T00:28:47+00:00"
+  },
+  "c228acc74314": {
+    "id": "c228acc74314",
+    "title_en": "Transparency, Accountability Needed in Open AI Contract with Georgia Power",
+    "title_zh": "与佐治亚电力公司签订的开放式人工智能合同需要透明度和问责制",
+    "url": "https://cleantechnica.com/2026/08/13/transparency-accountability-needed-in-open-ai-contract-with-georgia-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T00:19:45+00:00"
+  },
+  "984e867f95da": {
+    "id": "984e867f95da",
+    "title_en": "Red Tide Near Fort George Inlet Is Another Warning Sign: Jacksonville Needs to Move Beyond Coal",
+    "title_zh": "乔治堡湾附近的赤潮是另一个警告信号：杰克逊维尔需要超越煤炭",
+    "url": "https://cleantechnica.com/2026/08/13/red-tide-near-fort-george-inlet-is-another-warning-sign-jacksonville-needs-to-move-beyond-coal/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T00:04:53+00:00"
+  },
+  "ba8d85dbf34b": {
+    "id": "ba8d85dbf34b",
+    "title_en": "Trump Is Spending Billions On The Minerals That Power EVs",
+    "title_zh": "特朗普在为电动汽车提供动力的矿物上花费了数十亿美元",
+    "url": "https://oilprice.com/Energy/Energy-General/Trump-Is-Spending-Billions-On-The-Minerals-That-Power-EVs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-14T00:00:00+00:00"
+  },
+  "c4afe4e206f8": {
+    "id": "c4afe4e206f8",
+    "title_en": "Mexico Has More Refining Capacity. So Why Are Fuel Imports Rising?",
+    "title_zh": "墨西哥拥有更大的炼油能力。那么，为什么燃料进口量在上升？",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Mexico-Has-More-Refining-Capacity-So-Why-Are-Fuel-Imports-Rising.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T23:00:00+00:00"
+  },
+  "4520edc7ca83": {
+    "id": "4520edc7ca83",
+    "title_en": "This electric aircraft fire truck hits 50 mph in under 20 seconds",
+    "title_zh": "这辆电动飞机消防车在20秒内达到50英里/小时",
+    "url": "https://electrek.co/2026/08/13/electric-aircraft-rescue-fire-truck-rosenbauer-dallas/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-13T22:33:18+00:00"
+  },
+  "b7098a116ad4": {
+    "id": "b7098a116ad4",
+    "title_en": "Back Up Your Refrigerator And Cut Electricity Costs with BLUETTI FridgePower",
+    "title_zh": "使用BLUETTI FridgePower备份您的冰箱并降低电费",
+    "url": "https://cleantechnica.com/2026/08/13/back-up-your-refrigerator-and-cut-electricity-costs-with-bluetti-fridgepower/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T22:12:45+00:00"
+  },
+  "3ac57e83f528": {
+    "id": "3ac57e83f528",
+    "title_en": "From Plastic Tops to Composting Bags — 6 Ways Italy Makes Recycling Easy",
+    "title_zh": "从塑料表层到堆肥袋——意大利让回收变得容易的6种方式",
+    "url": "https://cleantechnica.com/2026/08/13/from-plastic-tops-to-composting-bags-6-ways-italy-makes-recycling-easy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-13T22:01:54+00:00"
+  },
+  "89c1e014662d": {
+    "id": "89c1e014662d",
+    "title_en": "U.S. Power Grid Strains Under Record Electricity Demand",
+    "title_zh": "美国电网在创纪录的电力需求下紧张",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-13T22:00:00+00:00"
+  },
   "f10da3aa0b48": {
     "id": "f10da3aa0b48",
     "title_en": "Kia sold over 8,000 EV2s in just 3 months",
@@ -4408,95 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-07T12:20:00+00:00"
-  },
-  "33021b0032cb": {
-    "id": "33021b0032cb",
-    "title_en": "Heliene lays off 93 employees at Mountain Iron solar module assembly plant",
-    "title_zh": "Heliene在Mountain Iron太阳能组件组装厂解雇了93名员工",
-    "url": "https://www.pv-tech.org/heliene-lays-off-93-employees-mountain-iron-solar-module-assembly-plant/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:14:01+00:00"
-  },
-  "a2ea446f681a": {
-    "id": "a2ea446f681a",
-    "title_en": "Tickets now available for annual Solar Roots Party",
-    "title_zh": "一年一度的太阳根派对门票现已开放",
-    "url": "https://www.solarpowerworldonline.com/2026/08/tickets-now-available-for-annual-solar-roots-party/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:01:13+00:00"
-  },
-  "19db6fe63dc4": {
-    "id": "19db6fe63dc4",
-    "title_en": "High energy prices reshape Dutch solar market ahead of net-metering phaseout",
-    "title_zh": "在净计量逐步淘汰之前，高能源价格重塑了荷兰太阳能市场",
-    "url": "https://www.pv-magazine.com/2026/08/07/high-energy-prices-reshape-dutch-solar-market-ahead-of-net-metering-phaseout/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:00:00+00:00"
-  },
-  "cabcad30dd64": {
-    "id": "cabcad30dd64",
-    "title_en": "India Remains Dependent on Imports for 90% of Oil Demand",
-    "title_zh": "印度90%的石油需求仍依赖进口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Remains-Dependent-on-Imports-for-90-of-Oil-Demand.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T12:00:00+00:00"
-  },
-  "9d931b15eab7": {
-    "id": "9d931b15eab7",
-    "title_en": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
-    "title_zh": "Oncor权衡德克萨斯州数据中心冻结对近300GW负载管道的影响",
-    "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-07T12:00:00+00:00"
-  },
-  "b632e1f621da": {
-    "id": "b632e1f621da",
-    "title_en": "EOLOS Partners with Enviros to Support Offshore Wind Metocean Campaigns in Vietnam",
-    "title_zh": "EOLOS与Enviros合作，支持越南的海上风能海洋气象活动",
-    "url": "https://www.offshorewind.biz/2026/08/07/eolos-partners-with-enviros-to-support-offshore-wind-metocean-campaigns-in-vietnam/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-07T11:44:38+00:00"
-  },
-  "62d8b1bd101e": {
-    "id": "62d8b1bd101e",
-    "title_en": "Oil Prices Tumble as Traders Price In a Strait of Hormuz Breakthrough",
-    "title_zh": "随着交易商在霍尔木兹海峡突破定价，油价暴跌",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Tumble-as-Traders-Price-In-a-Strait-of-Hormuz-Breakthrough.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T11:30:00+00:00"
-  },
-  "e4ef48fbbf1b": {
-    "id": "e4ef48fbbf1b",
-    "title_en": "Gaza Ceasefire Unravels as Regional Pressure on Israel Grows",
-    "title_zh": "加沙停火协议破裂，以色列面临的地区压力增加",
-    "url": "https://oilprice.com/Energy/Energy-General/Gaza-Ceasefire-Unravels-as-Regional-Pressure-on-Israel-Grows.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T11:30:00+00:00"
-  },
-  "350a7defc87c": {
-    "id": "350a7defc87c",
-    "title_en": "Iran Is Playing for Time as Midterms Loom for Trump",
-    "title_zh": "伊朗正在为特朗普的中期选举做准备",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Is-Playing-for-Time-as-Midterms-Loom-for-Trump.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-07T11:30:00+00:00"
-  },
-  "31f91d03609e": {
-    "id": "31f91d03609e",
-    "title_en": "August eclipse to test European, US grids with solar ramps",
-    "title_zh": "8月日食测试欧洲和美国的太阳能斜坡电网",
-    "url": "https://www.pv-magazine.com/2026/08/07/august-eclipse-to-test-european-us-grids-with-solar-ramps/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T11:30:00+00:00"
   }
 }
