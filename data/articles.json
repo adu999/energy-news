@@ -1,4 +1,58 @@
 {
+  "02a7dae61c23": {
+    "id": "02a7dae61c23",
+    "title_en": "Russia Captures Record Share of India’s Oil Market",
+    "title_zh": "俄罗斯占据印度石油市场创纪录份额",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Captures-Record-Share-of-Indias-Oil-Market.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-14T07:00:00+00:00"
+  },
+  "947ca915633e": {
+    "id": "947ca915633e",
+    "title_en": "France extends tax credit for cleantech industry for 3 years",
+    "title_zh": "法国将清洁技术行业的税收抵免延长3年",
+    "url": "https://www.pv-magazine.com/2026/08/14/france-extends-tax-credit-for-cleantech-industry-for-3-years/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T06:57:50+00:00"
+  },
+  "f0481cc86db2": {
+    "id": "f0481cc86db2",
+    "title_en": "India on track for record 50 GW of solar installations in 2026",
+    "title_zh": "印度有望在2026年实现创纪录的50吉瓦太阳能装机容量",
+    "url": "https://www.pv-magazine.com/2026/08/14/india-on-track-for-record-50-gw-of-solar-installations-in-2026-as-almm-ii-drives-h1-surge/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T06:35:26+00:00"
+  },
+  "7d8fa545798c": {
+    "id": "7d8fa545798c",
+    "title_en": "Relectrify installs inverterless BESS in South Australia",
+    "title_zh": "Relectrify在南澳大利亚安装无逆变器BESS",
+    "url": "https://www.pv-magazine.com/2026/08/14/relectrify-installs-its-first-inverterless-ac1-bess-in-south-australia/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T06:30:42+00:00"
+  },
+  "901d78096303": {
+    "id": "901d78096303",
+    "title_en": "The world’s most efficient solar panel goes on sale later this year",
+    "title_zh": "世界上最高效的太阳能电池板将于今年晚些时候上市",
+    "url": "https://www.pv-magazine.com/2026/08/14/the-worlds-most-efficient-solar-panel-goes-on-sale-later-this-year/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-14T06:28:07+00:00"
+  },
+  "6c42154d3922": {
+    "id": "6c42154d3922",
+    "title_en": "Oil Prices Head for 4% Weekly Gain as U.S.-Iran Deadlock Drags On",
+    "title_zh": "美国-伊朗僵局持续，油价每周上涨4%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-4-Weekly-Gain-as-US-Iran-Deadlock-Drags-On.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-14T05:40:00+00:00"
+  },
   "88b8a6b59703": {
     "id": "88b8a6b59703",
     "title_en": "Off-grid in Angola",
@@ -7,6 +61,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-14T04:00:00+00:00"
+  },
+  "7de2d48d91da": {
+    "id": "7de2d48d91da",
+    "title_en": "Wowza — Joby Buys Defense Company For Half A Billion Dollars",
+    "title_zh": "Wowza-Joby以5亿美元收购国防公司",
+    "url": "https://cleantechnica.com/2026/08/13/wowza-joby-buys-defense-company-for-half-a-billion-dollars/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-14T03:50:10+00:00"
   },
   "373f359e969e": {
     "id": "373f359e969e",
@@ -4435,68 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-07T12:55:34+00:00"
-  },
-  "ef6ec4c9030b": {
-    "id": "ef6ec4c9030b",
-    "title_en": "Chinese polysilicon majors pledge to end loss-making sales",
-    "title_zh": "中国多晶硅巨头承诺结束亏损销售",
-    "url": "https://www.pv-magazine.com/2026/08/07/chinese-polysilicon-majors-pledge-to-end-loss-making-sales/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:55:00+00:00"
-  },
-  "16e0690ee3d4": {
-    "id": "16e0690ee3d4",
-    "title_en": "Plug-in solar: Can balcony PV replicate Europe’s success in the US?",
-    "title_zh": "插电式太阳能：阳台光伏能否复制欧洲在美国的成功？",
-    "url": "https://www.pv-tech.org/plug-in-solar-can-balcony-pv-replicate-europes-success-in-the-us/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:50:47+00:00"
-  },
-  "c4c44029d9bc": {
-    "id": "c4c44029d9bc",
-    "title_en": "Mitsubishi joins the humanoid robot race — at a 1,000 unit per month pace",
-    "title_zh": "三菱以每月1000台的速度加入人形机器人竞赛",
-    "url": "https://electrek.co/2026/08/07/mitsubishi-joins-the-humanoid-robot-race-at-a-1000-unit-per-month-pace/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-07T12:47:40+00:00"
-  },
-  "8d43f7b901da": {
-    "id": "8d43f7b901da",
-    "title_en": "Is the traditional PPA dying in Southern Africa?",
-    "title_zh": "传统的PPA在南部非洲是否正在消亡？",
-    "url": "https://www.pv-magazine.com/2026/08/07/is-the-traditional-ppa-dying-in-southern-africa/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:45:00+00:00"
-  },
-  "d8c0683bc902": {
-    "id": "d8c0683bc902",
-    "title_en": "US introduces 15% tariffs and minimum prices for polysilicon imports under Section 232",
-    "title_zh": "美国根据第232条对多晶硅进口征收15%的关税和最低价格",
-    "url": "https://www.pv-tech.org/us-introduces-15-tariffs-and-minimum-prices-for-polysilicon-imports-under-section-232/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:41:15+00:00"
-  },
-  "86b017e42bde": {
-    "id": "86b017e42bde",
-    "title_en": "Students steer solar-powered racing cars to glory in American Solar Challenge",
-    "title_zh": "学生驾驶太阳能赛车在美国太阳能挑战赛中大放异彩",
-    "url": "https://www.pv-magazine.com/2026/08/07/students-steer-solar-powered-racing-cars-to-glory-in-american-solar-challenge/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-07T12:40:00+00:00"
-  },
-  "d3817e379c90": {
-    "id": "d3817e379c90",
-    "title_en": "Encomara Prepares First Squid Floating Wind Connection System for Inshore Trials in Scotland",
-    "title_zh": "Encomara为苏格兰的近岸试验准备了第一个鱿鱼浮动风连接系统",
-    "url": "https://www.offshorewind.biz/2026/08/07/encomara-prepares-first-squid-floating-wind-connection-system-for-inshore-trials-in-scotland/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-07T12:22:05+00:00"
   }
 }
