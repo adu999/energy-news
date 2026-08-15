@@ -1,4 +1,40 @@
 {
+  "474e96c47412": {
+    "id": "474e96c47412",
+    "title_en": "Corrupt DoT head took oil money for reality TV show during oil price spike (update)",
+    "title_zh": "在油价飙升期间，腐败的DoT负责人将石油钱用于真人秀节目（更新）",
+    "url": "https://electrek.co/2026/08/15/corrupt-dot-head-takes-oil-money-to-film-reality-tv-show-during-oil-price-spike/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-15T17:00:00+00:00"
+  },
+  "796ad113a0e7": {
+    "id": "796ad113a0e7",
+    "title_en": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
+    "title_zh": "俄罗斯石油工业正在耗尽吸收更多冲击的空间",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-15T17:00:00+00:00"
+  },
+  "b778668401cc": {
+    "id": "b778668401cc",
+    "title_en": "Turning millions of Teslas and Mach-Es into V2L power stations: WETOX D2 earns world’s first Next-Gen V2X certification from SGS",
+    "title_zh": "将数百万辆特斯拉和马赫E转化为V2L发电站：WETOX D2获得SGS全球首个下一代V2X认证",
+    "url": "https://electrek.co/2026/08/15/turning-millions-teslas-mach-es-into-v2l-power-stations-wetox-d2-earns-worlds-first-next-gen-v2x-certification-sgs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-15T16:00:00+00:00"
+  },
+  "4de29d3ae310": {
+    "id": "4de29d3ae310",
+    "title_en": "Current classics: Bisimoto’s 600 hp electric Rolls-Royce SilvEV Ghost",
+    "title_zh": "当前经典：Bisimoto的600马力电动劳斯莱斯SilvEV Ghost",
+    "url": "https://electrek.co/2026/08/15/current-classics-bisimotos-600-hp-electric-rolls-royce-silvev-ghost/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-15T15:38:06+00:00"
+  },
   "b2ea1da0e4c8": {
     "id": "b2ea1da0e4c8",
     "title_en": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
@@ -4462,41 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-08-10T10:55:21+00:00"
-  },
-  "7591b409323b": {
-    "id": "7591b409323b",
-    "title_en": "Hungary’s Nuclear Power Returns as Rain Lifts Danube Water Levels",
-    "title_zh": "匈牙利的核电恢复，雨水使多瑙河水位上升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hungarys-Nuclear-Power-Returns-as-Rain-Lifts-Danube-Water-Levels.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T10:30:00+00:00"
-  },
-  "fd6eaec1c53f": {
-    "id": "fd6eaec1c53f",
-    "title_en": "Advanced sodium-ion battery prototypes now approaching 200 Wh/kg",
-    "title_zh": "先进的钠离子电池原型现在接近200 Wh/kg",
-    "url": "https://www.pv-magazine.com/2026/08/10/advanced-sodium-ion-battery-prototypes-now-approaching-200-wh-kg/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T10:06:58+00:00"
-  },
-  "290783db83ed": {
-    "id": "290783db83ed",
-    "title_en": "EnBW reveals blade break impact on He Dreiht offshore wind farm construction",
-    "title_zh": "EnBW揭示叶片断裂对He Dreiht海上风电场建设的影响",
-    "url": "https://www.windpowermonthly.com/article/1966933/enbw-reveals-blade-break-impact-dreiht-offshore-wind-farm-construction",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-10T09:54:18+00:00"
-  },
-  "aa9f2eb75545": {
-    "id": "aa9f2eb75545",
-    "title_en": "Italy to allocate 10 GW of PV under new FerX incentive scheme",
-    "title_zh": "意大利将根据新的FerX激励计划分配10吉瓦的光伏发电",
-    "url": "https://www.pv-magazine.com/2026/08/10/italy-to-allocate-10-gw-of-pv-under-new-ferx-incentive-scheme/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T09:49:58+00:00"
   }
 }
