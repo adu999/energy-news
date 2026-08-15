@@ -1,4 +1,13 @@
 {
+  "68d4c42326a7": {
+    "id": "68d4c42326a7",
+    "title_en": "VinFast’s Vietnam Sales Surge as EVs Enter a Tipping Point",
+    "title_zh": "随着电动汽车进入临界点，VinFast在越南的销量激增",
+    "url": "https://cleantechnica.com/2026/08/15/vinfasts-vietnam-sales-surge-as-evs-enter-a-tipping-point/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-15T06:59:20+00:00"
+  },
   "6a9fc780c514": {
     "id": "6a9fc780c514",
     "title_en": "China Is Making More Aluminum. Its Emissions May Still Be Peaking.",
@@ -439,6 +448,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-14T13:13:58+00:00"
+  },
+  "de1ff92e0859": {
+    "id": "de1ff92e0859",
+    "title_en": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
+    "title_zh": "联邦能源管理委员会批准TransAlta和PowerTransitions燃气发电厂交易",
+    "url": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-14T13:02:30+00:00"
   },
   "784b1d38b128": {
     "id": "784b1d38b128",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-10T08:29:46+00:00"
-  },
-  "69930078eda9": {
-    "id": "69930078eda9",
-    "title_en": "Serentica Renewables commissions first phase of 1GWh BESS for round-the-clock renewable energy delivery in Rajasthan, India",
-    "title_zh": "Serentica Renewables委托印度拉贾斯坦邦进行1GWh BESS的第一阶段全天候可再生能源交付",
-    "url": "https://www.energy-storage.news/serentica-renewables-commissions-first-phase-of-1gwh-bess-for-round-the-clock-renewable-energy-delivery-in-rajasthan-india/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-10T08:08:47+00:00"
-  },
-  "ead850f75870": {
-    "id": "ead850f75870",
-    "title_en": "ADNOC Gas Unveils $8.2 Billion Expansion Push",
-    "title_zh": "ADNOC Gas宣布82亿美元的扩张计划",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Unveils-82-Billion-Expansion-Push.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T08:00:00+00:00"
   }
 }
