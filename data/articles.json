@@ -1,4 +1,31 @@
 {
+  "1d14963e5b0c": {
+    "id": "1d14963e5b0c",
+    "title_en": "New Science Says Scrapping A Working Gas Car For An EV Is Usually Greener",
+    "title_zh": "新科学表明，将工作中的汽油车报废为电动汽车通常更环保",
+    "url": "https://cleantechnica.com/2026/08/16/scrapping-working-gas-car-for-ev-can-be-greener/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-16T11:47:02+00:00"
+  },
+  "693dbfd4bdaa": {
+    "id": "693dbfd4bdaa",
+    "title_en": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
+    "title_zh": "350吨龙王ZL230E是你能买到的最大、最坏的电池采矿钻机",
+    "url": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-16T11:15:00+00:00"
+  },
+  "e4b50accf25e": {
+    "id": "e4b50accf25e",
+    "title_en": "Op-Ed: Hiroshi Okuda–The Man Who Saved Toyota by Forcing It to Change",
+    "title_zh": "专栏：大田弘治-通过迫使丰田改变来拯救丰田的人",
+    "url": "https://cleantechnica.com/2026/08/16/op-ed-hiroshi-okuda-the-man-who-saved-toyota-by-forcing-it-to-change/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-16T09:56:43+00:00"
+  },
   "b08d59e5b6a3": {
     "id": "b08d59e5b6a3",
     "title_en": "I watched Vietnam Fall for the VinFast VF 3",
@@ -4471,32 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-10T12:15:12+00:00"
-  },
-  "71646d2278c8": {
-    "id": "71646d2278c8",
-    "title_en": "Levanta starts construction at 166MW solar-plus-storage project in the Philippines",
-    "title_zh": "Levanta在菲律宾开始建设166MW太阳能+储能项目",
-    "url": "https://www.pv-tech.org/levanta-starts-construction-166mw-solar-plus-storage-project-philippines/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T12:05:26+00:00"
-  },
-  "7fb93edb5616": {
-    "id": "7fb93edb5616",
-    "title_en": "Siemens’ gas turbine backlog nears 70 GW as company expands manufacturing",
-    "title_zh": "随着西门子扩大制造，其燃气轮机积压量接近70吉瓦",
-    "url": "https://www.utilitydive.com/news/siemens-gas-turbine-backlog-nears-70-gw-as-company-expands-manufacturing/827390/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-10T12:00:00+00:00"
-  },
-  "7eb6638a3ad8": {
-    "id": "7eb6638a3ad8",
-    "title_en": "Clemson University designs solar-integrated electric vehicle",
-    "title_zh": "克莱姆森大学设计太阳能集成电动汽车",
-    "url": "https://www.pv-magazine.com/2026/08/10/clemson-university-designs-solar-integrated-electric-vehicle/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T11:51:27+00:00"
   }
 }
