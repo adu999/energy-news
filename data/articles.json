@@ -1,4 +1,13 @@
 {
+  "1a18304b2095": {
+    "id": "1a18304b2095",
+    "title_en": "The Trillion-Dollar Problem at the Heart of the AI Boom",
+    "title_zh": "人工智能繁荣核心的万亿美元问题",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-16T15:00:00+00:00"
+  },
   "1d14963e5b0c": {
     "id": "1d14963e5b0c",
     "title_en": "New Science Says Scrapping A Working Gas Car For An EV Is Usually Greener",
@@ -4489,14 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-10T12:29:32+00:00"
-  },
-  "f0d0dbb3e5f2": {
-    "id": "f0d0dbb3e5f2",
-    "title_en": "TSSM Launches New CSOV in Vietnam",
-    "title_zh": "TSSM在越南推出新的CSOV",
-    "url": "https://www.offshorewind.biz/2026/08/10/tssm-launches-new-csov-in-vietnam/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-10T12:15:12+00:00"
   }
 }
