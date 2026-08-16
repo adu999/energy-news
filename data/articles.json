@@ -1,4 +1,13 @@
 {
+  "b08d59e5b6a3": {
+    "id": "b08d59e5b6a3",
+    "title_en": "I watched Vietnam Fall for the VinFast VF 3",
+    "title_zh": "我为VinFast VF 3观看了《越南沦陷》",
+    "url": "https://cleantechnica.com/2026/08/16/i-watched-vietnam-fall-for-the-vinfast-vf-3/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-16T05:20:42+00:00"
+  },
   "b8421ddd87e5": {
     "id": "b8421ddd87e5",
     "title_en": "New BYD Seal 06 & Qin MAX Part 2: Affordability & Value",
@@ -4489,14 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-10T11:51:27+00:00"
-  },
-  "6ba27d0c8ae3": {
-    "id": "6ba27d0c8ae3",
-    "title_en": "POLAND ROUND-UP: Orla buys 216MW solar, wind project; Enefit Polska powers PV plant",
-    "title_zh": "波兰圆桌会议：奥拉收购216MW太阳能、风能项目；Enefit Polska为光伏电站供电",
-    "url": "https://www.pv-tech.org/poland-round-up-orla-buys-216mw-solar-wind-project-enefit-polska-powers-pv-plant/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T11:49:14+00:00"
   }
 }
