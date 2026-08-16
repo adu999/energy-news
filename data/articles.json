@@ -1,4 +1,22 @@
 {
+  "fda2a85e8090": {
+    "id": "fda2a85e8090",
+    "title_en": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
+    "title_zh": "欧洲的天然气储存危机在供暖季节到来之前加剧",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-16T21:00:00+00:00"
+  },
+  "df3618583a5a": {
+    "id": "df3618583a5a",
+    "title_en": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+    "title_zh": "石油巨头从伊朗战争中获得930亿美元的意外之财",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-16T19:00:00+00:00"
+  },
   "9f45a206505a": {
     "id": "9f45a206505a",
     "title_en": "JLR’s new Freelander 8 takes off with 10,000 orders in first 48 hours",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-10T13:28:54+00:00"
-  },
-  "f60c67d052ab": {
-    "id": "f60c67d052ab",
-    "title_en": "PPL-Blackstone joint venture secures 5 GW of gas turbines for data centers in Pennsylvania",
-    "title_zh": "PPL-Blackstone合资企业为宾夕法尼亚州的数据中心获得5吉瓦的燃气轮机",
-    "url": "https://www.utilitydive.com/news/ppl-blackstone-joint-venture-secures-5-gw-of-gas-turbines-for-data-centers/827408/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-10T13:27:12+00:00"
-  },
-  "e9d4aef42f02": {
-    "id": "e9d4aef42f02",
-    "title_en": "US IPP Avantus closes billion-dollar financing for solar PV and battery storage projects",
-    "title_zh": "美国IPP Avantus为太阳能光伏和电池储能项目完成了数十亿美元的融资",
-    "url": "https://www.energy-storage.news/us-ipp-avantus-closes-billion-dollar-financing-for-solar-pv-and-battery-storage-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-10T13:18:30+00:00"
   }
 }
