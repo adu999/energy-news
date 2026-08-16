@@ -1,4 +1,31 @@
 {
+  "661450e991a6": {
+    "id": "661450e991a6",
+    "title_en": "Bombshell! Porsche To End Taycan Production",
+    "title_zh": "炸弹！保时捷终止Taycan生产",
+    "url": "https://cleantechnica.com/2026/08/15/bombshell-porsche-to-end-taycan-production/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-16T01:13:14+00:00"
+  },
+  "9ed2d9d873fa": {
+    "id": "9ed2d9d873fa",
+    "title_en": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
+    "title_zh": "电动航空不会杀死喷气燃料，但它可以先选择最佳路线",
+    "url": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-15T23:00:00+00:00"
+  },
+  "4cc387c65e9a": {
+    "id": "4cc387c65e9a",
+    "title_en": "Weekend Quick Charge: all about autonomy with Waymo and GM",
+    "title_zh": "周末快速充电：Waymo和通用汽车的自主性",
+    "url": "https://electrek.co/2026/08/15/weekend-quick-charge-all-about-autonomy-with-waymo-and-gm/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-15T21:51:52+00:00"
+  },
   "bb52562478a5": {
     "id": "bb52562478a5",
     "title_en": "Just 7% of America’s Nuclear Fuel Comes From Home",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-10T11:30:00+00:00"
-  },
-  "ce40e1d76f9f": {
-    "id": "ce40e1d76f9f",
-    "title_en": "PPC to acquire ABO Energy’s 2GW renewables pipeline in Hungary, Poland",
-    "title_zh": "PPC将收购ABO Energy在匈牙利和波兰的2GW可再生能源管道",
-    "url": "https://www.pv-tech.org/ppc-to-acquire-abo-energys-2gw-renewables-pipeline-in-hungary-poland/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T11:21:05+00:00"
-  },
-  "04a7524f3453": {
-    "id": "04a7524f3453",
-    "title_en": "Tongwei, GCL Tech, Daqo among eight polysilicon leaders to sign fair pricing pact",
-    "title_zh": "同威、协鑫科技、大全等八家多晶硅领军企业签署公平定价协议",
-    "url": "https://www.pv-tech.org/eight-chinese-polysilicon-producers-agree-pricing-pact/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T11:19:08+00:00"
-  },
-  "aabf72538fb8": {
-    "id": "aabf72538fb8",
-    "title_en": "CNOOC Puts 16 MW Floating Wind Turbine Powering Lufeng Oilfield Into Operation",
-    "title_zh": "中海油陆丰油田16兆瓦浮式风力发电机组投产",
-    "url": "https://www.offshorewind.biz/2026/08/10/cnooc-puts-16-mw-floating-wind-turbine-powering-lufeng-oilfield-into-operation/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-10T11:13:35+00:00"
   }
 }
