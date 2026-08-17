@@ -1,4 +1,58 @@
 {
+  "523a3089046d": {
+    "id": "523a3089046d",
+    "title_en": "ForeFront Power Completes Its First Erthos Solar Energy System for the City of Fresno",
+    "title_zh": "ForeFront Power为弗雷斯诺市完成了第一个Erthos太阳能系统",
+    "url": "https://cleantechnica.com/2026/08/16/forefront-power-completes-its-first-erthos-solar-energy-system-for-the-city-of-fresno/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-17T03:23:03+00:00"
+  },
+  "c004c1c66049": {
+    "id": "c004c1c66049",
+    "title_en": "How Much Windfall Profit Have Oil Companies Made in Europe?",
+    "title_zh": "欧洲石油公司获得了多少暴利？",
+    "url": "https://cleantechnica.com/2026/08/16/how-much-windfall-profit-have-oil-companies-made-in-europe/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-17T02:58:25+00:00"
+  },
+  "db14fe1d0617": {
+    "id": "db14fe1d0617",
+    "title_en": "Australia’s NSW becomes first state to detail national data centre rules with new framework",
+    "title_zh": "澳大利亚新南威尔士州成为第一个用新框架详细说明国家数据中心规则的州",
+    "url": "https://www.pv-tech.org/australias-nsw-becomes-first-state-to-detail-national-data-centre-rules-with-new-framework/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-17T02:19:28+00:00"
+  },
+  "8b9798e3c4eb": {
+    "id": "8b9798e3c4eb",
+    "title_en": "Relectrify installs first AC1 inverterless battery storage system in South Australia",
+    "title_zh": "Relectrify在南澳大利亚安装了第一个AC1无逆变器电池存储系统",
+    "url": "https://www.energy-storage.news/relectrify-installs-first-ac1-inverterless-battery-storage-system-in-south-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-17T01:35:31+00:00"
+  },
+  "6eee1573e5b3": {
+    "id": "6eee1573e5b3",
+    "title_en": "Australian Renewable Energy Agency backs UNSW research into grid-forming battery storage and system strength",
+    "title_zh": "澳大利亚可再生能源署支持新南威尔士大学对并网电池储能和系统强度的研究",
+    "url": "https://www.energy-storage.news/australian-renewable-energy-agency-backs-unsw-research-into-grid-forming-battery-storage-and-system-strength/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-17T01:24:30+00:00"
+  },
+  "00bfa882150b": {
+    "id": "00bfa882150b",
+    "title_en": "Australia’s Cheaper Home Batteries Program officially passes 500,000 installations",
+    "title_zh": "澳大利亚廉价家用电池计划正式通过50万次安装",
+    "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-officially-passes-500000-installations/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-17T01:19:21+00:00"
+  },
   "ec5a8715a3ce": {
     "id": "ec5a8715a3ce",
     "title_en": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-10T14:00:00+00:00"
-  },
-  "efb0720960ac": {
-    "id": "efb0720960ac",
-    "title_en": "Bangladesh reinstates payment guarantees to attract renewable energy investment",
-    "title_zh": "孟加拉国恢复支付担保以吸引可再生能源投资",
-    "url": "https://www.pv-magazine.com/2026/08/10/bangladesh-reinstates-payment-guarantees-to-attract-renewable-energy-investment/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T13:57:16+00:00"
-  },
-  "6278b57ae55a": {
-    "id": "6278b57ae55a",
-    "title_en": "Musk’s Terafab chip plant will run on gas, not Tesla solar",
-    "title_zh": "马斯克的Terafab芯片工厂将使用天然气，而不是特斯拉太阳能",
-    "url": "https://electrek.co/2026/08/10/musk-terafab-gas-power-not-tesla-solar/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-10T13:55:30+00:00"
-  },
-  "2f427ea6d680": {
-    "id": "2f427ea6d680",
-    "title_en": "SECI awards 1GW RTC tender at tariffs of INR 5.25-5.26/kWh",
-    "title_zh": "SECI以5.25-5.26/kWh的电价授予1GW RTC招标",
-    "url": "https://www.pv-tech.org/seci-awards-1gw-rtc-tender-at-tariffs-of-inr-5-25-5-26-kwh/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T13:50:52+00:00"
-  },
-  "d5cdf69d01d5": {
-    "id": "d5cdf69d01d5",
-    "title_en": "WoodMac: New domestic inverter manufacturing could meet US solar demand",
-    "title_zh": "WoodMac：新的国产逆变器制造可以满足美国的太阳能需求",
-    "url": "https://www.solarpowerworldonline.com/2026/08/woodmac-new-domestic-inverter-manufacturing-could-meet-us-solar-demand/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T13:38:19+00:00"
-  },
-  "b9102f8fa658": {
-    "id": "b9102f8fa658",
-    "title_en": "BYD’s kei EV already looks like a hit with over 1,000 orders in its first 2 weeks",
-    "title_zh": "比亚迪的kei电动汽车看起来已经很受欢迎，在头两周就有1000多个订单",
-    "url": "https://electrek.co/2026/08/10/byds-kei-ev-hit-1000-orders-2-weeks/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-10T13:36:08+00:00"
-  },
-  "ddd0540525e7": {
-    "id": "ddd0540525e7",
-    "title_en": "U.S. Bets $400 Million on Australian Scandium Miner to Break China's Grip",
-    "title_zh": "美国斥资4亿美元收购澳大利亚钪矿商，以打破中国的控制",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Bets-400-Million-on-Australian-Scandium-Miner-to-Break-Chinas-Grip.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T13:30:00+00:00"
   }
 }
