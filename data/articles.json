@@ -1,4 +1,139 @@
 {
+  "c10ac7a8abc8": {
+    "id": "c10ac7a8abc8",
+    "title_en": "Solinteg launches 10–30 kW three-phase hybrid inverter with 4 MPPTs, dual high-voltage battery inputs",
+    "title_zh": "Solinteg推出10–30 kW三相混合逆变器，配备4 MPPT和双高压电池输入",
+    "url": "https://www.pv-magazine.com/2026/08/17/solinteg-launches-10-30-kw-three-phase-hybrid-inverter-with-4-mppts-dual-high-voltage-battery-inputs/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-17T09:12:30+00:00"
+  },
+  "dc62a7495fbb": {
+    "id": "dc62a7495fbb",
+    "title_en": "Why AI is arriving at the most difficult moment for North America’s grid",
+    "title_zh": "为什么人工智能正处于北美电网最困难的时刻",
+    "url": "https://www.utilitydive.com/spons/why-ai-is-arriving-at-the-most-difficult-moment-for-north-americas-grid/827345/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-17T09:00:00+00:00"
+  },
+  "aa348d0639ac": {
+    "id": "aa348d0639ac",
+    "title_en": "When the capital plan outgrows engineering capacity",
+    "title_zh": "当资本计划超出工程能力时",
+    "url": "https://www.utilitydive.com/spons/when-the-capital-plan-outgrows-engineering-capacity/827763/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-17T09:00:00+00:00"
+  },
+  "18c110bea547": {
+    "id": "18c110bea547",
+    "title_en": "From grid hardening to grid intelligence: The next era of wildfire resilience",
+    "title_zh": "从电网加固到电网智能：野火恢复的下一个时代",
+    "url": "https://www.utilitydive.com/spons/from-grid-hardening-to-grid-intelligence-the-next-era-of-wildfire-resilien/827759/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-17T09:00:00+00:00"
+  },
+  "92b5a64325ad": {
+    "id": "92b5a64325ad",
+    "title_en": "Asian Refiners Seek Alternative Pickup Point for Saudi Crude",
+    "title_zh": "亚洲炼油商寻求沙特原油的替代提货点",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Alternative-Pickup-Point-for-Saudi-Crude.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-17T08:55:00+00:00"
+  },
+  "cbf9f99a1097": {
+    "id": "cbf9f99a1097",
+    "title_en": "Chinese scientists achieve record-breaking 24.0% efficieny for meter scale perovskite solar modules",
+    "title_zh": "中国科学家在米级钙钛矿太阳能模块上实现了创纪录的24.0%的效率",
+    "url": "https://www.pv-magazine.com/2026/08/17/chinese-scientists-achieve-record-breaking-24-0-efficieny-for-meter-scale-perovskite-solar-modules/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-17T08:43:52+00:00"
+  },
+  "38f7e32b3cdd": {
+    "id": "38f7e32b3cdd",
+    "title_en": "Megarevo differentiates with customer-focused microgrid solutions as it scales European operations",
+    "title_zh": "Megarevo在扩大欧洲业务的同时，以客户为中心的微电网解决方案脱颖而出",
+    "url": "https://www.energy-storage.news/megarevo-customer-focused-microgrid-solutions-scales-european-operations/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-17T08:29:37+00:00"
+  },
+  "e81e16fdd696": {
+    "id": "e81e16fdd696",
+    "title_en": "EDF offers UK customers free seven-year service, warranty on air-source heat pumps",
+    "title_zh": "EDF为英国客户提供免费七年服务，空气源热泵保修",
+    "url": "https://www.pv-magazine.com/2026/08/17/edf-offers-uk-customers-free-seven-year-service-warranty-on-air-source-heat-pumps/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-17T08:18:27+00:00"
+  },
+  "41889e7644dd": {
+    "id": "41889e7644dd",
+    "title_en": "Indian Oil Giant Secures U.S. License to Return to Venezuela",
+    "title_zh": "印度石油巨头获得美国许可返回委内瑞拉",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Oil-Giant-Secures-US-License-to-Return-to-Venezuela.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-17T07:50:00+00:00"
+  },
+  "8a8dd0e01236": {
+    "id": "8a8dd0e01236",
+    "title_en": "During heatwave, solar power supports France’s grid as nuclear output slows",
+    "title_zh": "在热浪期间，太阳能为法国电网提供支持，因为核输出放缓",
+    "url": "https://www.pv-magazine.com/2026/08/17/during-heatwave-solar-power-supports-frances-grid-as-nuclear-output-slows/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-17T07:36:28+00:00"
+  },
+  "b0e4dd6635e5": {
+    "id": "b0e4dd6635e5",
+    "title_en": "Tekmar Secures EUR 1 Million Concrete Protection Contract for ‘Major’ European Offshore Wind Project",
+    "title_zh": "Tekmar为“重大”欧洲海上风电项目获得100万欧元混凝土保护合同",
+    "url": "https://www.offshorewind.biz/2026/08/17/tekmar-secures-eur-1-million-concrete-protection-contract-for-major-european-offshore-wind-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-17T07:32:45+00:00"
+  },
+  "83fc1f28221e": {
+    "id": "83fc1f28221e",
+    "title_en": "El Salvador launches regulatory framework for solar self-consumption",
+    "title_zh": "萨尔瓦多启动太阳能自用监管框架",
+    "url": "https://www.pv-magazine.com/2026/08/17/el-salvador-launches-regulatory-framework-for-solar-self-consumption/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-17T07:30:39+00:00"
+  },
+  "a0762ba0a0fa": {
+    "id": "a0762ba0a0fa",
+    "title_en": "After a 2-year wait, will Ohio’s largest solar project get the OK?",
+    "title_zh": "经过两年的等待，俄亥俄州最大的太阳能项目会得到批准吗？",
+    "url": "https://www.canarymedia.com/articles/solar/after-a-2-year-wait-will-ohios-largest-solar-project-get-the-ok",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-17T07:30:00+00:00"
+  },
+  "8f9896761619": {
+    "id": "8f9896761619",
+    "title_en": "Boston explores sea- and river-source heat pumps for big buildings",
+    "title_zh": "波士顿探索用于大型建筑的海水和河水源热泵",
+    "url": "https://www.canarymedia.com/articles/geothermal/boston-sea-river-source-heat-pumps",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-17T07:30:00+00:00"
+  },
+  "db194891e082": {
+    "id": "db194891e082",
+    "title_en": "China’s Solar Industry Slows Down Due to Industry Pressures",
+    "title_zh": "中国太阳能行业因行业压力放缓",
+    "url": "https://cleantechnica.com/2026/08/17/chinas-solar-industry-slows-down-due-to-industry-pressures/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-17T07:01:36+00:00"
+  },
   "6b0de476f0dd": {
     "id": "6b0de476f0dd",
     "title_en": "Saatvik Solar to add 3.6 GW of cell manufacturing capacity in India",
@@ -4363,140 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-10T17:30:00+00:00"
-  },
-  "a62a8c91cd4b": {
-    "id": "a62a8c91cd4b",
-    "title_en": "Competitive transmission delivers benefits for the AI economy and customers",
-    "title_zh": "竞争性传输为人工智能经济和客户带来好处",
-    "url": "https://www.utilitydive.com/news/competitive-transmission-delivers-benefits-for-the-ai-economy-and-customers/826056/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-10T17:25:53+00:00"
-  },
-  "5c1abf378430": {
-    "id": "5c1abf378430",
-    "title_en": "Why Iran Just Replaced Its Security Chief Days After A Hardline Ultimatum",
-    "title_zh": "为什么伊朗在强硬最后通牒后几天才更换其安全主管",
-    "url": "https://oilprice.com/Geopolitics/Africa/Why-Iran-Just-Replaced-Its-Security-Chief-Days-After-A-Hardline-Ultimatum.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T17:00:00+00:00"
-  },
-  "99a36d2d7615": {
-    "id": "99a36d2d7615",
-    "title_en": "49ers’ Shanahan crashed his Tesla on Autopilot reaching for his phone",
-    "title_zh": "49人队的沙纳汉在自动驾驶仪上撞翻了他的特斯拉，伸手去拿手机",
-    "url": "https://electrek.co/2026/08/10/49ers-shanahan-tesla-autopilot-crash-phone/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-10T16:55:29+00:00"
-  },
-  "502033e83231": {
-    "id": "502033e83231",
-    "title_en": "Ford reveals Fathom EV pickup prices in the US and Canada",
-    "title_zh": "福特公布Fathom电动汽车皮卡在美国和加拿大的价格",
-    "url": "https://electrek.co/2026/08/10/ford-fathom-ev-pickup-prices-us-canada/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-10T16:53:55+00:00"
-  },
-  "9cdd4916df52": {
-    "id": "9cdd4916df52",
-    "title_en": "Fuse Touts ‘Highest’ Neutron Yield by Any Fusion Company",
-    "title_zh": "Fuse吹嘘任何聚变公司的“最高”中子产量",
-    "url": "https://www.powermag.com/fuse-touts-highest-neutron-yield-by-any-fusion-company/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-10T16:34:11+00:00"
-  },
-  "51dcaf9cbd38": {
-    "id": "51dcaf9cbd38",
-    "title_en": "Egypt and Libya Near $1 Billion Oil Pipeline Deal",
-    "title_zh": "埃及和利比亚接近10亿美元的石油管道交易",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Egypt-and-Libya-Near-1-Billion-Oil-Pipeline-Deal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T16:30:00+00:00"
-  },
-  "5554d6b8d22e": {
-    "id": "5554d6b8d22e",
-    "title_en": "3 GW Off PJM, Again: What NERC’s 2024 Investigation Already Told Us",
-    "title_zh": "PJM关闭3吉瓦：NERC 2024年的调查已经告诉我们什么",
-    "url": "https://www.powermag.com/3-gw-off-pjm-again-what-nercs-2024-investigation-already-told-us/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-10T16:18:53+00:00"
-  },
-  "7d262da4de49": {
-    "id": "7d262da4de49",
-    "title_en": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
-    "title_zh": "特朗普面临限制美国石油出口的压力越来越大",
-    "url": "https://oilprice.com/Energy/Energy-General/Trump-Faces-Growing-Pressure-to-Restrict-US-Oil-Exports.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T16:00:00+00:00"
-  },
-  "38ac970fd425": {
-    "id": "38ac970fd425",
-    "title_en": "Getting your teen a back-to-school e-bike? Don’t forget this cool-looking protective gear",
-    "title_zh": "给你的孩子买一辆返校电动自行车？别忘了这个看起来很酷的防护装备",
-    "url": "https://electrek.co/2026/08/10/getting-your-teen-a-back-to-school-e-bike-dont-forget-this-cool-looking-protective-gear/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-10T15:46:00+00:00"
-  },
-  "9d527e144a8e": {
-    "id": "9d527e144a8e",
-    "title_en": "Alarm Bells Are Sounding for the Grid: Answering Them Takes More Than Megawatts",
-    "title_zh": "电网的警铃响了：回答它们需要超过兆瓦的电力",
-    "url": "https://www.powermag.com/alarm-bells-are-sounding-for-the-grid-answering-them-takes-more-than-megawatts/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-10T15:45:47+00:00"
-  },
-  "14a32e2bfdf4": {
-    "id": "14a32e2bfdf4",
-    "title_en": "Sunrun pursues direct-sales transition amid industry headwinds",
-    "title_zh": "顺润在行业逆风中寻求直销转型",
-    "url": "https://www.utilitydive.com/news/sunrun-rooftop-solar-battery-earnings/827458/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-10T15:40:13+00:00"
-  },
-  "32721564150b": {
-    "id": "32721564150b",
-    "title_en": "Volvo’s new sedan breaks cover, but it may not be the EV we expected [Images]",
-    "title_zh": "沃尔沃的新轿车打破了封面，但它可能不是我们预期的电动汽车[图片]",
-    "url": "https://electrek.co/2026/08/10/volvos-new-sedan-breaks-cover-may-not-be-ev-images/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-10T15:34:08+00:00"
-  },
-  "841549be0fab": {
-    "id": "841549be0fab",
-    "title_en": "DFSK Launches Right-Hand Drive E5 Plus in Indonesia as Chinese automakers expand across Southeast Asia",
-    "title_zh": "随着中国汽车制造商在东南亚扩张，DFSK在印度尼西亚推出右舵驾驶E5 Plus",
-    "url": "https://cleantechnica.com/2026/08/10/dfsk-launches-right-hand-drive-e5-plus-in-indonesia-as-chinese-automakers-expand-across-southeast-asia/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-10T15:31:20+00:00"
-  },
-  "ca5174cc5e79": {
-    "id": "ca5174cc5e79",
-    "title_en": "Russia Rebuilds Nuclear Workforce at Iran’s Bushehr Plant",
-    "title_zh": "俄罗斯在伊朗布什尔核电站重建核劳动力",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Rebuilds-Nuclear-Workforce-at-Irans-Bushehr-Plant.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-10T15:30:00+00:00"
-  },
-  "a02c8d019ba4": {
-    "id": "a02c8d019ba4",
-    "title_en": "Purvah Green Power to acquire 1.4GW renewables portfolio from ReNew",
-    "title_zh": "Purvah Green Power将从ReNew收购1.4GW可再生能源组合",
-    "url": "https://www.pv-tech.org/purvah-green-power-to-acquire-1-4gw-renewables-portfolio-from-renew/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-10T15:20:25+00:00"
   }
 }
