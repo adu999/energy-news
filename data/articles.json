@@ -1,4 +1,40 @@
 {
+  "ab686fbf1aa3": {
+    "id": "ab686fbf1aa3",
+    "title_en": "AI Could Make Big Oil Even Bigger",
+    "title_zh": "人工智能可以让大型石油公司变得更大",
+    "url": "https://oilprice.com/Energy/Crude-Oil/AI-Could-Make-Big-Oil-Even-Bigger.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T21:00:00+00:00"
+  },
+  "5bb389c492be": {
+    "id": "5bb389c492be",
+    "title_en": "Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge",
+    "title_zh": "随着美国原油库存几乎没有下降，馏分油库存进一步下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Distillate-Stocks-Sink-Further-as-US-Crude-Inventories-Barely-Budge.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T20:56:48+00:00"
+  },
+  "194ee7fe3c2d": {
+    "id": "194ee7fe3c2d",
+    "title_en": "Only 7% of Global Green Hydrogen Capacity Was Finished on Schedule",
+    "title_zh": "全球仅7%的绿色氢产能按计划完成",
+    "url": "https://oilprice.com/Energy/Energy-General/Only-7-of-Global-Green-Hydrogen-Capacity-Was-Finished-on-Schedule.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T20:00:00+00:00"
+  },
+  "3d909c5f8ec2": {
+    "id": "3d909c5f8ec2",
+    "title_en": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz",
+    "title_zh": "一条日产400万桶的影子石油公路正在穿越霍尔木兹",
+    "url": "https://oilprice.com/Energy/Crude-Oil/A-4-Million-Bpd-Shadow-Oil-Highway-Is-Running-Through-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T19:00:00+00:00"
+  },
   "92171fcfa111": {
     "id": "92171fcfa111",
     "title_en": "Aramco Puts VLCCs Back Into Hormuz After Three-Week Pause",
@@ -4462,41 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-12T12:03:27+00:00"
-  },
-  "ed1d619ad84b": {
-    "id": "ed1d619ad84b",
-    "title_en": "Tesla plans US$10.1 billion vertically integrated solar cell plant in Texas",
-    "title_zh": "特斯拉计划在德克萨斯州投资101亿美元建设垂直一体化太阳能电池工厂",
-    "url": "https://www.pv-tech.org/tesla-plans-us10-1-billion-vertically-integrated-solar-cell-plant-in-texas/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T11:50:19+00:00"
-  },
-  "4a908bc2d67c": {
-    "id": "4a908bc2d67c",
-    "title_en": "UK Warns of Tighter Power Margins During Eclipse",
-    "title_zh": "英国警告称，在日食期间，权力差距将收紧",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Warns-of-Tighter-Power-Margins-During-Eclipse.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T11:39:02+00:00"
-  },
-  "b6ebf0ed59e6": {
-    "id": "b6ebf0ed59e6",
-    "title_en": "Sungrow provides BESS to Verano Energy’s 606MWh Chilean hybrid project",
-    "title_zh": "阳光电源为Verano Energy的606MWh智利混合动力项目提供BESS",
-    "url": "https://www.energy-storage.news/sungrow-provides-bess-to-verano-energys-606mwh-chilean-hybrid-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-12T11:31:49+00:00"
-  },
-  "b60c17c8808f": {
-    "id": "b60c17c8808f",
-    "title_en": "Korea’s Shinsung E&G opens 350 MW PV module production line",
-    "title_zh": "韩国Shinsung E&G开设350兆瓦光伏组件生产线",
-    "url": "https://www.pv-magazine.com/2026/08/12/koreas-shinsung-eg-opens-350-mw-pv-module-production-line/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T11:26:52+00:00"
   }
 }
