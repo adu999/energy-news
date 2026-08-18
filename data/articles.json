@@ -1,4 +1,103 @@
 {
+  "9ef22db53e54": {
+    "id": "9ef22db53e54",
+    "title_en": "Brent Tops $91 After Unidentified Projectile Hits Vessel Transiting Hormuz",
+    "title_zh": "不明弹丸击中途经霍尔木兹的船只后，布伦特原油价格突破91美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-91-After-Unidentified-Projectile-Hits-Vessel-Transiting-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T09:00:00+00:00"
+  },
+  "eaf48a45f37d": {
+    "id": "eaf48a45f37d",
+    "title_en": "Geothermal has big potential. Here’s how states can help realize it.",
+    "title_zh": "地热具有巨大的潜力。以下是各州如何帮助实现这一目标。",
+    "url": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-18T09:00:00+00:00"
+  },
+  "e14fba3b6437": {
+    "id": "e14fba3b6437",
+    "title_en": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
+    "title_zh": "随着国内库存激增，中国推动燃料出口",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Boosts-Fuel-Exports-as-Domestic-Stockpiles-Swell.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T08:05:00+00:00"
+  },
+  "b325d7adcdf5": {
+    "id": "b325d7adcdf5",
+    "title_en": "AES Andes inaugurates 510 MW solar-plus-storage complex in Chile",
+    "title_zh": "AES Andes在智利启动了510兆瓦的太阳能+储能综合体",
+    "url": "https://www.pv-magazine.com/2026/08/18/aes-andes-inaugurates-510-mw-solar-plus-storage-complex-in-chile/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T07:59:23+00:00"
+  },
+  "d42e4c86493c": {
+    "id": "d42e4c86493c",
+    "title_en": "Four Turbines to Go at US Offshore Wind Farm Set to Power Rhode Island and Connecticut",
+    "title_zh": "美国海上风电场将安装四台涡轮机，为罗德岛州和康涅狄格州供电",
+    "url": "https://www.offshorewind.biz/2026/08/18/four-turbines-to-go-at-us-offshore-wind-farm-set-to-power-rhode-island-and-connecticut/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-18T07:42:45+00:00"
+  },
+  "c04260f1efa7": {
+    "id": "c04260f1efa7",
+    "title_en": "As Europe overheats, solar module prices cool down",
+    "title_zh": "随着欧洲过热，太阳能组件价格降温",
+    "url": "https://www.pv-magazine.com/2026/08/18/as-europe-overheats-solar-module-prices-cool-down/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T07:34:13+00:00"
+  },
+  "b398745889b6": {
+    "id": "b398745889b6",
+    "title_en": "California gubernatorial candidate pledges two hours of free power a day",
+    "title_zh": "加利福尼亚州州长候选人承诺每天提供两小时的免费电力",
+    "url": "https://www.canarymedia.com/articles/politics/california-becerra-pledges-free-power",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-18T07:30:00+00:00"
+  },
+  "fb74b4462cf3": {
+    "id": "fb74b4462cf3",
+    "title_en": "Major data center bills advance in California despite industry pushback",
+    "title_zh": "尽管面临行业阻力，加利福尼亚州的主要数据中心法案仍在推进",
+    "url": "https://www.canarymedia.com/articles/data-centers/major-data-center-bills-advance-california",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-18T07:30:00+00:00"
+  },
+  "f5e97ba26377": {
+    "id": "f5e97ba26377",
+    "title_en": "Study finds two-terminal perovskite-silicon tandems may not deliver optimal performance in all geographies",
+    "title_zh": "研究发现，双端钙钛矿硅串联可能无法在所有地区提供最佳性能",
+    "url": "https://www.pv-magazine.com/2026/08/18/study-finds-two-terminal-perovskite-silicon-tandems-may-not-deliver-optimal-performance-in-all-climates/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T07:20:26+00:00"
+  },
+  "92ee1b1eb19c": {
+    "id": "92ee1b1eb19c",
+    "title_en": "Europe’s Banks Are Treating Hydrogen As A Niche, Not An Economy",
+    "title_zh": "欧洲银行将氢视为一个利基市场，而不是一个经济体",
+    "url": "https://cleantechnica.com/2026/08/18/europe-banks-hydrogen-niche-bankability/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T06:43:49+00:00"
+  },
+  "29fa1182cb06": {
+    "id": "29fa1182cb06",
+    "title_en": "Siemens Energy’s First Lightweight Offshore Substation Installed in China",
+    "title_zh": "西门子能源在中国安装的首个轻型海上变电站",
+    "url": "https://www.offshorewind.biz/2026/08/18/siemens-energys-first-lightweight-offshore-substation-installed-in-china/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-18T06:41:39+00:00"
+  },
   "8953546af0b4": {
     "id": "8953546af0b4",
     "title_en": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd",
@@ -4399,104 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-11T18:00:00+00:00"
-  },
-  "d8f49e7dd8c8": {
-    "id": "d8f49e7dd8c8",
-    "title_en": "Iran Says Hormuz Will Stay Closed Until U.S. Meets Its Conditions",
-    "title_zh": "伊朗表示，霍尔木兹将一直关闭，直到美国满足其条件",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Hormuz-Will-Stay-Closed-Until-US-Meets-Its-Conditions.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T18:00:00+00:00"
-  },
-  "af4d08f8555a": {
-    "id": "af4d08f8555a",
-    "title_en": "China sales numbers are in: EVs up while everything with an engine collapses",
-    "title_zh": "中国的销售数据如下：电动汽车销量上升，而所有有发动机的汽车都崩溃了",
-    "url": "https://electrek.co/2026/08/11/china-sales-numbers-are-in-evs-up-while-everything-with-an-engine-collapses/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T17:47:43+00:00"
-  },
-  "12224f3f1608": {
-    "id": "12224f3f1608",
-    "title_en": "AI Data Centers Are A Regional US Grid Issue, Not A Global Power Crisis",
-    "title_zh": "人工智能数据中心是美国地区电网问题，而不是全球电力危机",
-    "url": "https://cleantechnica.com/2026/08/11/ai-data-center-electricity-demand-us-grid/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-11T17:27:43+00:00"
-  },
-  "b617a5e2fae5": {
-    "id": "b617a5e2fae5",
-    "title_en": "Cadillac will hand-build a custom Escalade IQ for you, but it will cost an extra $55,000",
-    "title_zh": "凯迪拉克将为您手工打造一辆定制的凯雷德IQ，但需要额外花费55000美元",
-    "url": "https://electrek.co/2026/08/11/cadillac-hand-build-custom-escalade-iq-extra-55000/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T17:23:09+00:00"
-  },
-  "0bc80d305c0c": {
-    "id": "0bc80d305c0c",
-    "title_en": "The US infrastructure buildout needs more than capital",
-    "title_zh": "美国基础设施建设需要的不仅仅是资金",
-    "url": "https://www.utilitydive.com/news/the-us-infrastructure-buildout-needs-more-than-capital/826167/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-11T17:09:59+00:00"
-  },
-  "771dcc2fa594": {
-    "id": "771dcc2fa594",
-    "title_en": "Gold Nears Two-Month High Ahead of Wednesday's CPI Report",
-    "title_zh": "周三CPI报告公布前，金价接近两个月高点",
-    "url": "https://oilprice.com/Metals/Gold/Gold-Nears-Two-Month-High-Ahead-of-Wednesdays-CPI-Report.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T17:00:00+00:00"
-  },
-  "25ba3bee5cf0": {
-    "id": "25ba3bee5cf0",
-    "title_en": "Organic Flow Batteries Get Another Shot At Long Duration Energy Storage",
-    "title_zh": "有机液流电池再次尝试长时间储能",
-    "url": "https://cleantechnica.com/2026/08/11/energy-storage-organic-flow-battery-us-innovation-startups/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-11T16:54:43+00:00"
-  },
-  "aa3f25bfd16f": {
-    "id": "aa3f25bfd16f",
-    "title_en": "Tesla recall 20,000 Model 3/Y for headlights that are too bright",
-    "title_zh": "特斯拉召回20000辆Model 3/Y，原因是前灯太亮",
-    "url": "https://electrek.co/2026/08/11/tesla-recall-20000-model-3-y-for-headlights-that-are-too-bright/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T16:44:26+00:00"
-  },
-  "3a064dd17155": {
-    "id": "3a064dd17155",
-    "title_en": "Russian Crude Exports Drop to Lowest Since May",
-    "title_zh": "俄罗斯原油出口降至5月以来最低",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Crude-Exports-Drop-to-Lowest-Since-May.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T16:30:00+00:00"
-  },
-  "1e108d17758a": {
-    "id": "1e108d17758a",
-    "title_en": "Tesla files for $10.1B ‘Project Crystal Sun’ solar factory in Texas",
-    "title_zh": "特斯拉在德克萨斯州申请101亿美元的“水晶太阳项目”太阳能工厂",
-    "url": "https://electrek.co/2026/08/11/tesla-solar-cell-factory-texas-project-crystal-sun/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T16:14:23+00:00"
-  },
-  "2527f43d5d91": {
-    "id": "2527f43d5d91",
-    "title_en": "Pay-as-you-go batteries: ‘One weird trick’ for the distribution grid?",
-    "title_zh": "现收现付电池：配电网的“一个奇怪把戏”？",
-    "url": "https://www.utilitydive.com/news/residential-batteries-solar-base-power-palmetto/827579/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-11T16:06:41+00:00"
   }
 }
