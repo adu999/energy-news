@@ -1,4 +1,85 @@
 {
+  "8953546af0b4": {
+    "id": "8953546af0b4",
+    "title_en": "Libya Seeks Up to $40 Billion to Boost Oil Output to 2 Million Bpd",
+    "title_zh": "利比亚寻求高达400亿美元将石油产量提高到200万桶/日",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Seeks-Up-to-40-Billion-to-Boost-Oil-Output-to-2-Million-Bpd.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T06:30:00+00:00"
+  },
+  "e6883947633e": {
+    "id": "e6883947633e",
+    "title_en": "Agrivoltaics can reduce soil temperatures by more than 20 C",
+    "title_zh": "农业光伏可以将土壤温度降低20摄氏度以上",
+    "url": "https://www.pv-magazine.com/2026/08/18/agrivoltaics-can-reduce-soil-temperatures-by-more-than-20-c/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T05:30:00+00:00"
+  },
+  "aeb7375dbe48": {
+    "id": "aeb7375dbe48",
+    "title_en": "Researchers model 1,708 pathways for global PV waste recycling",
+    "title_zh": "研究人员模拟了1708条全球光伏废物回收途径",
+    "url": "https://www.pv-magazine.com/2026/08/18/researchers-model-1708-pathways-for-global-pv-waste-recycling/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T05:00:00+00:00"
+  },
+  "89c90535275d": {
+    "id": "89c90535275d",
+    "title_en": "Windlab and Squadron Energy refer 500MW solar-plus-storage site for EPBC Act approval in Australia",
+    "title_zh": "Windlab和Squadron Energy将500MW太阳能加储能场地提交澳大利亚EPBC法案批准",
+    "url": "https://www.pv-tech.org/windlab-and-squadron-energy-refer-500mw-solar-plus-storage-site-for-epbc-act-approval-in-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T04:56:49+00:00"
+  },
+  "1a13c1d41dab": {
+    "id": "1a13c1d41dab",
+    "title_en": "China’s energy storage market doubles in size for second consecutive year as price inflection point emerges",
+    "title_zh": "随着价格拐点的出现，中国储能市场规模连续第二年翻番",
+    "url": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-18T04:53:04+00:00"
+  },
+  "75ba7b936b56": {
+    "id": "75ba7b936b56",
+    "title_en": "U.S.-Iran Tensions Push Oil Prices Higher as Diesel Margins Hit Records",
+    "title_zh": "美国-伊朗紧张局势推高油价，柴油利润率创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Iran-Tensions-Push-Oil-Prices-Higher-as-Diesel-Margins-Hit-Records.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T04:35:44+00:00"
+  },
+  "d44bef960202": {
+    "id": "d44bef960202",
+    "title_en": "California advances slate of community solar, balcony solar, and virtual power plant bills",
+    "title_zh": "加州推进社区太阳能、阳台太阳能和虚拟发电厂法案",
+    "url": "https://www.pv-magazine.com/2026/08/18/california-advances-slate-of-community-solar-balcony-solar-and-virtual-power-plant-bills/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T04:30:00+00:00"
+  },
+  "f856db828aab": {
+    "id": "f856db828aab",
+    "title_en": "Proposed Grid 2.0 protocol would enable ‘connect and manage’ for both load and generation",
+    "title_zh": "拟议的Grid 2.0协议将实现负载和发电的“连接和管理”",
+    "url": "https://www.pv-magazine.com/2026/08/18/proposed-grid-2-0-protocol-would-enable-connect-and-manage-for-both-load-and-generation/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T04:15:00+00:00"
+  },
+  "c50ba271a120": {
+    "id": "c50ba271a120",
+    "title_en": "Solar’s infrastructure obstacle",
+    "title_zh": "太阳能的基础设施障碍",
+    "url": "https://www.pv-magazine.com/2026/08/18/solars-infrastructure-obstacle-2/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T04:00:00+00:00"
+  },
   "2f532c7c0b91": {
     "id": "2f532c7c0b91",
     "title_en": "To Disconnect or Not to Disconnect",
@@ -4417,86 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-08-11T16:06:41+00:00"
-  },
-  "f4237f01891e": {
-    "id": "f4237f01891e",
-    "title_en": "IEA Numbers Point to a Two-Speed Recovery in Global Fuel Prices",
-    "title_zh": "国际能源署的数据显示，全球燃料价格将以两种速度复苏",
-    "url": "https://oilprice.com/Energy/Gas-Prices/IEA-Numbers-Point-to-a-Two-Speed-Recovery-in-Global-Fuel-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T16:00:00+00:00"
-  },
-  "ec62a115f020": {
-    "id": "ec62a115f020",
-    "title_en": "Caterpillar sales surpass $20B as generators for data centers take off",
-    "title_zh": "随着数据中心发电机的腾飞，卡特彼勒的销售额超过200亿美元",
-    "url": "https://www.utilitydive.com/news/caterpillar-sales-surpass-20b-growing-data-center-demand-q2-2026/827569/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-11T15:36:00+00:00"
-  },
-  "4bbaf5e26ba4": {
-    "id": "4bbaf5e26ba4",
-    "title_en": "Kia EV3 EPA driving range revealed with up to 321 miles",
-    "title_zh": "起亚EV3 EPA续航里程高达321英里",
-    "url": "https://electrek.co/2026/08/11/kia-ev3-epa-driving-range-revealed-321-miles/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T15:34:22+00:00"
-  },
-  "9b58fb325c49": {
-    "id": "9b58fb325c49",
-    "title_en": "France's Power Prices Jump 22% as Heatwave Trims Nuclear Output",
-    "title_zh": "热浪削减核能发电量，法国电价上涨22%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Frances-Power-Prices-Jump-22-as-Heatwave-Trims-Nuclear-Output.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T15:30:00+00:00"
-  },
-  "f839273d0e5b": {
-    "id": "f839273d0e5b",
-    "title_en": "Ukraine debuts mine-resistant all-wheel drive combat electric motorcycle",
-    "title_zh": "乌克兰首次推出防雷全轮驱动战斗电动摩托车",
-    "url": "https://electrek.co/2026/08/11/ukraine-debuts-mine-resistant-all-wheel-drive-combat-electric-motorcycle/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T15:29:00+00:00"
-  },
-  "cd54307f2780": {
-    "id": "cd54307f2780",
-    "title_en": "Brent Could Hit $100 as Hormuz Crisis Flares Again",
-    "title_zh": "随着霍尔木兹危机再次爆发，布伦特原油价格可能触及100美元",
-    "url": "https://oilprice.com/Energy/Energy-General/Brent-Could-Hit-100-as-Hormuz-Crisis-Flares-Again.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T14:52:00+00:00"
-  },
-  "036890592b39": {
-    "id": "036890592b39",
-    "title_en": "Evergy has 3 GW of large loads signed and a 5-GW generation pipeline",
-    "title_zh": "Evergy已签署3吉瓦的大型负荷和5吉瓦的发电管道",
-    "url": "https://www.utilitydive.com/news/evergy-large-loads-resource-plan-earnings/827571/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-11T14:50:23+00:00"
-  },
-  "20a4715ffe0d": {
-    "id": "20a4715ffe0d",
-    "title_en": "WindEnergy Hamburg 2026: Where the Global Offshore Wind Industry Meets",
-    "title_zh": "WindEnergy Hamburg 2026：全球海上风电行业聚会之地",
-    "url": "https://www.offshorewind.biz/2026/08/11/windenergy-hamburg-2026-where-the-global-offshore-wind-industry-meets/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-11T14:38:45+00:00"
-  },
-  "3bbaa4883dba": {
-    "id": "3bbaa4883dba",
-    "title_en": "Ukraine Drone Attack Hits Major Oil Refinery Deep Inside Russia",
-    "title_zh": "乌克兰无人机袭击俄罗斯境内主要炼油厂",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Drone-Attack-Hits-Major-Oil-Refinery-Deep-Inside-Russia.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T14:30:00+00:00"
   }
 }
