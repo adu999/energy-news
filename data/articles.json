@@ -1,4 +1,103 @@
 {
+  "d1afd096e022": {
+    "id": "d1afd096e022",
+    "title_en": "Earthjustice & Sierra Club Urge FAA to Keep Ban on Commercial Supersonic Flight",
+    "title_zh": "地球正义和塞拉俱乐部敦促美国联邦航空局继续禁止商业超音速飞行",
+    "url": "https://cleantechnica.com/2026/08/17/earthjustice-sierra-club-urge-faa-to-keep-ban-on-commercial-supersonic-flight/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T00:52:04+00:00"
+  },
+  "c9a2d38626a8": {
+    "id": "c9a2d38626a8",
+    "title_en": "Q&A: What Does China’s 15th Five-Year Plan for Coal Mean for Climate Action?",
+    "title_zh": "问：中国“十五”煤炭规划对气候行动意味着什么？",
+    "url": "https://cleantechnica.com/2026/08/17/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T00:25:28+00:00"
+  },
+  "91ff558927a2": {
+    "id": "91ff558927a2",
+    "title_en": "Oil Majors Double Profits in Europe in Latest Quarter",
+    "title_zh": "欧洲石油巨头最新季度利润翻番",
+    "url": "https://cleantechnica.com/2026/08/17/oil-majors-double-profits-in-europe-in-latest-quarter/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T00:09:40+00:00"
+  },
+  "6190890d5bce": {
+    "id": "6190890d5bce",
+    "title_en": "North America’s Only Cesium Project Moves Closer to Production",
+    "title_zh": "北美唯一的铯项目接近投产",
+    "url": "https://oilprice.com/Energy/Energy-General/North-Americas-Only-Cesium-Project-Moves-Closer-to-Production.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T00:00:00+00:00"
+  },
+  "98810ff032bf": {
+    "id": "98810ff032bf",
+    "title_en": "Autonomous Electric Freight Trucks Scaling Up In Europe",
+    "title_zh": "自动驾驶电动货运卡车在欧洲扩大规模",
+    "url": "https://cleantechnica.com/2026/08/17/autonomous-electric-freight-trucks-scaling-up-in-europe/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-17T23:02:32+00:00"
+  },
+  "3695c9853a8b": {
+    "id": "3695c9853a8b",
+    "title_en": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+    "title_zh": "尽管油价上涨，美国页岩油巨头仍削减支出",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-17T23:00:00+00:00"
+  },
+  "7fefa1f765c6": {
+    "id": "7fefa1f765c6",
+    "title_en": "What I’ve Learned Owning Ebikes for 12 Years",
+    "title_zh": "拥有Ebikes 12年我学到了什么",
+    "url": "https://cleantechnica.com/2026/08/17/what-ive-learned-owning-ebikes-for-12-years/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-17T22:35:31+00:00"
+  },
+  "bb11622dd32d": {
+    "id": "bb11622dd32d",
+    "title_en": "Mesa Power Solutions Expands With $70 Million Wyoming Manufacturing Campus",
+    "title_zh": "Mesa Power Solutions斥资7000万美元扩建怀俄明州制造园区",
+    "url": "https://www.powermag.com/mesa-power-solutions-expands-with-70-million-wyoming-manufacturing-campus/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-17T22:33:24+00:00"
+  },
+  "dd6df6397fa3": {
+    "id": "dd6df6397fa3",
+    "title_en": "Chinese Cars Will Come To America Sooner Rather Than Later",
+    "title_zh": "中国汽车迟早会来美国",
+    "url": "https://cleantechnica.com/2026/08/17/chinese-cars-will-come-to-america-sooner-rather-than-later/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-17T22:06:42+00:00"
+  },
+  "788b44184a0b": {
+    "id": "788b44184a0b",
+    "title_en": "Automation Could Start Eating Into U.S. Diesel Demand",
+    "title_zh": "自动化可能开始蚕食美国的柴油需求",
+    "url": "https://oilprice.com/Energy/Energy-General/Automation-Could-Start-Eating-Into-US-Diesel-Demand.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-17T22:00:00+00:00"
+  },
+  "f9681cee550a": {
+    "id": "f9681cee550a",
+    "title_en": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
+    "title_zh": "比亚迪的电动超级跑车在速度和价格上都击败了保时捷[视频]",
+    "url": "https://electrek.co/2026/08/17/byds-electric-supercar-beats-porsche-speed-and-price-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-17T21:34:48+00:00"
+  },
   "eac164f94e8e": {
     "id": "eac164f94e8e",
     "title_en": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
@@ -4399,104 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-08-11T13:34:58+00:00"
-  },
-  "9cf782b96465": {
-    "id": "9cf782b96465",
-    "title_en": "ADNOC Issues Eighth Spot Tender Since June as UAE Ramps Up Crude Exports",
-    "title_zh": "阿联酋原油出口大幅增长，ADNOC自6月以来发布第八次现货招标",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Eighth-Spot-Tender-Since-June-as-UAE-Ramps-Up-Crude-Exports.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T13:30:00+00:00"
-  },
-  "06cf1a021e86": {
-    "id": "06cf1a021e86",
-    "title_en": "GM exits $3.5B Indiana battery plant as Samsung SDI takes full control",
-    "title_zh": "通用汽车退出价值35亿美元的印第安纳州电池厂，因为三星SDI完全控制了该厂",
-    "url": "https://electrek.co/2026/08/11/gm-sells-indiana-battery-plant-stake-samsung-sdi/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T13:12:07+00:00"
-  },
-  "4fa7c80aca9c": {
-    "id": "4fa7c80aca9c",
-    "title_en": "Energy Vault signs 1.25GW AI data centre power infrastructure agreement in Texas",
-    "title_zh": "Energy Vault在德克萨斯州签署1.25GW AI数据中心电力基础设施协议",
-    "url": "https://www.energy-storage.news/energy-vault-signs-1-25gw-ai-data-centre-power-infrastructure-agreement-in-texas/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-11T13:09:25+00:00"
-  },
-  "cfeaf70d6287": {
-    "id": "cfeaf70d6287",
-    "title_en": "SEG completes construction on 4-GW solar panel factory outside Houston",
-    "title_zh": "SEG在休斯顿郊外完成了4-GW太阳能电池板工厂的建设",
-    "url": "https://www.solarpowerworldonline.com/2026/08/seg-completes-construction-on-4-gw-solar-panel-factory-outside-houston/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T13:06:57+00:00"
-  },
-  "29676a54a905": {
-    "id": "29676a54a905",
-    "title_en": "EUROPE ROUND-UP: Encavis, OX2 move on BESS in Italy, Sunotec commissions Bulgarian battery",
-    "title_zh": "欧洲圆桌会议：恩凯维斯、OX2在意大利收购BESS，苏诺特克委托保加利亚电池",
-    "url": "https://www.energy-storage.news/europe-round-up-encavis-ox2-move-on-bess-in-italy-sunotec-commissions-bulgarian-battery/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-11T12:34:32+00:00"
-  },
-  "0e9fec1d0f29": {
-    "id": "0e9fec1d0f29",
-    "title_en": "Philippines eases rules for own-use solar systems",
-    "title_zh": "菲律宾放宽自用太阳能系统规定",
-    "url": "https://www.pv-magazine.com/2026/08/11/philippines-eases-rules-for-own-use-solar-systems/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T12:30:00+00:00"
-  },
-  "b05d09bdfe54": {
-    "id": "b05d09bdfe54",
-    "title_en": "OPEC Output Climbs Again, But Still Trails Quota Targets",
-    "title_zh": "欧佩克产量再次攀升，但仍落后于配额目标",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Output-Climbs-Again-But-Still-Trails-Quota-Targets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T12:30:00+00:00"
-  },
-  "ac724f181e8f": {
-    "id": "ac724f181e8f",
-    "title_en": "ABB to Equip Allseas’ New Offshore Converter Station Transport Vessel",
-    "title_zh": "ABB将为Allseas的新型海上换流站运输船配备设备",
-    "url": "https://www.offshorewind.biz/2026/08/11/abb-to-equip-allseas-new-offshore-converter-station-transport-vessel/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-11T12:23:05+00:00"
-  },
-  "1e6aaa6e4e63": {
-    "id": "1e6aaa6e4e63",
-    "title_en": "OnePlanet says it can get silicon above 95% purity from recycled solar panels",
-    "title_zh": "OnePlanet表示，它可以从回收的太阳能电池板中获得纯度超过95%的硅",
-    "url": "https://www.solarpowerworldonline.com/2026/08/oneplanet-says-it-can-get-silicon-above-95-purity-from-recycled-solar-panels/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T12:00:47+00:00"
-  },
-  "7f54075bc448": {
-    "id": "7f54075bc448",
-    "title_en": "European Energy secures finance at 68MW solar-plus-storage project in the UK",
-    "title_zh": "欧洲能源公司为英国68MW太阳能+储能项目获得融资",
-    "url": "https://www.pv-tech.org/european-energy-secures-uk-solar-plus-storage-project-financing/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T11:56:07+00:00"
-  },
-  "c7a8efc615f3": {
-    "id": "c7a8efc615f3",
-    "title_en": "Italy’s final FER X decree allocates 10GW to solar PV",
-    "title_zh": "意大利最终的FER X法令为太阳能光伏分配了10GW",
-    "url": "https://www.pv-tech.org/italys-final-fer-x-decree-allocates-10gw-to-solar-pv/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T11:50:24+00:00"
   }
 }
