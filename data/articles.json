@@ -1,4 +1,94 @@
 {
+  "2f532c7c0b91": {
+    "id": "2f532c7c0b91",
+    "title_en": "To Disconnect or Not to Disconnect",
+    "title_zh": "断开或不断开连接",
+    "url": "https://cleantechnica.com/2026/08/17/to-disconnect-or-not-to-disconnect/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T03:21:08+00:00"
+  },
+  "5a0d63e1038b": {
+    "id": "5a0d63e1038b",
+    "title_en": "I Traded My Tesla Model Y For A Polestar 4",
+    "title_zh": "我用特斯拉Model Y换了一辆Polestar 4",
+    "url": "https://cleantechnica.com/2026/08/17/i-traded-my-tesla-model-y-for-a-polestar-4/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T02:55:36+00:00"
+  },
+  "c647f0b42252": {
+    "id": "c647f0b42252",
+    "title_en": "Sunrun to Supply Voltus with Energy Capacity for AI Hyperscaler Agreements",
+    "title_zh": "Sunrun将为Voltus提供AI超大规模协议的能源容量",
+    "url": "https://cleantechnica.com/2026/08/17/sunrun-to-supply-voltus-with-energy-capacity-for-ai-hyperscaler-agreements/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T02:50:59+00:00"
+  },
+  "75545e152ef2": {
+    "id": "75545e152ef2",
+    "title_en": "ScottishPower Renewables & Masdar Mark Major Engineering Milestone at East Anglia THREE Windfarm",
+    "title_zh": "苏格兰电力可再生能源公司和马斯达尔马克公司在东安格利亚三号风电场的重大工程里程碑",
+    "url": "https://cleantechnica.com/2026/08/17/scottishpower-renewables-masdar-mark-major-engineering-milestone-at-east-anglia-three-windfarm/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T02:38:23+00:00"
+  },
+  "4332f837ed35": {
+    "id": "4332f837ed35",
+    "title_en": "Middle East Green Initiative Announces Participation in UNCCD COP17 to Bolster Regional Cooperation in Combating Desertification and Restoring Degraded Land",
+    "title_zh": "中东绿色倡议宣布参加《联合国防治荒漠化公约》缔约方会议第十七届会议，以加强防治荒漠化和恢复退化土地的区域合作",
+    "url": "https://cleantechnica.com/2026/08/17/middle-east-green-initiative-announces-participation-in-unccd-cop17-to-bolster-regional-cooperation-in-combating-desertification-and-restoring-degraded-land/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-18T02:12:01+00:00"
+  },
+  "a3d6dcf93829": {
+    "id": "a3d6dcf93829",
+    "title_en": "Australia commits AU$2.5 billion to power Tomago smelter with renewables",
+    "title_zh": "澳大利亚承诺投资25亿澳元，用可再生能源为托马戈冶炼厂供电",
+    "url": "https://www.pv-tech.org/australia-commits-au2-5-billion-to-power-tomago-smelter-with-renewables/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-18T02:09:16+00:00"
+  },
+  "38144682443b": {
+    "id": "38144682443b",
+    "title_en": "Tesla grows Robotaxi fleet by 50%, Einride gets a partner, and China goes BIG",
+    "title_zh": "特斯拉将Robotaxi车队增长50%，Einride获得合作伙伴，中国做大",
+    "url": "https://electrek.co/2026/08/17/tesla-grows-robotaxi-fleet-by-50-einride-gets-a-partner-and-china-goes-big/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-18T02:06:48+00:00"
+  },
+  "65d29b9a0f6d": {
+    "id": "65d29b9a0f6d",
+    "title_en": "New South Wales cuts battery storage costs by up to 40% for businesses and apartment buildings in the Australian state",
+    "title_zh": "新南威尔士州将澳大利亚州企业和公寓楼的电池存储成本降低了40%",
+    "url": "https://www.energy-storage.news/new-south-wales-cuts-battery-storage-costs-by-up-to-40-for-businesses-and-apartment-buildings-in-the-australian-state/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-18T02:05:42+00:00"
+  },
+  "97795af06508": {
+    "id": "97795af06508",
+    "title_en": "Ausgrid’s PLUS Grid Storage breaks ground on 400MWh Steel River East BESS in Australia",
+    "title_zh": "Ausgrid的PLUS电网存储在澳大利亚400MWh Steel River East BESS上破土动工",
+    "url": "https://www.energy-storage.news/ausgrids-plus-grid-storage-breaks-ground-on-400mwh-steel-river-east-bess-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-18T02:03:59+00:00"
+  },
+  "ca5b136aca63": {
+    "id": "ca5b136aca63",
+    "title_en": "Tesla’s Cybercab is about to launch — and we don’t get it",
+    "title_zh": "特斯拉的Cybercab即将推出，但我们还不明白",
+    "url": "https://electrek.co/2026/08/17/tesla-cybercab-launch-least-exciting-vehicle-ever/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-18T01:24:52+00:00"
+  },
   "d1afd096e022": {
     "id": "d1afd096e022",
     "title_en": "Earthjustice & Sierra Club Urge FAA to Keep Ban on Commercial Supersonic Flight",
@@ -4408,95 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-11T14:30:00+00:00"
-  },
-  "52d7974e9963": {
-    "id": "52d7974e9963",
-    "title_en": "Oil giant rips out gas pumps for BYD’s 1,500 kW EV chargers",
-    "title_zh": "石油巨头拆除比亚迪1500千瓦电动汽车充电器的加油泵",
-    "url": "https://electrek.co/2026/08/11/sinopec-byd-gas-station-1500-kw-flash-charging/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T14:28:35+00:00"
-  },
-  "f46d248bdcad": {
-    "id": "f46d248bdcad",
-    "title_en": "SEG Solar commissions 4GW HJT module assembly plant in Texas",
-    "title_zh": "SEG Solar在德克萨斯州委托4GW HJT组件组装厂",
-    "url": "https://www.pv-tech.org/seg-solar-commissions-4gw-hjt-module-assembly-plant-texas/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T14:20:00+00:00"
-  },
-  "94fd254db557": {
-    "id": "94fd254db557",
-    "title_en": "The 2027 Audi Q6 e-tron delivers more driving range than expected",
-    "title_zh": "2027奥迪Q6 e-tron的续航里程超出预期",
-    "url": "https://electrek.co/2026/08/11/2027-audi-q6-e-tron-delivers-more-driving-range-than-expected/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-11T14:10:53+00:00"
-  },
-  "3779a86af153": {
-    "id": "3779a86af153",
-    "title_en": "Burchda Y3 AWD — Powerful, Long-Range, All-Terrain Electric Bike",
-    "title_zh": "Burchda Y3全轮驱动——动力强劲、续航里程长、全地形电动自行车",
-    "url": "https://cleantechnica.com/2026/08/11/burchda-y3-awd-powerful-long-range-all-terrain-electric-bike/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-11T14:06:30+00:00"
-  },
-  "09d8970ad985": {
-    "id": "09d8970ad985",
-    "title_en": "Connecticut elementary school strives for environmental stewardship with solar project",
-    "title_zh": "康涅狄格州小学致力于太阳能项目的环境管理",
-    "url": "https://www.solarpowerworldonline.com/2026/08/connecticut-elementary-school-strives-for-environmental-stewardship-with-solar-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T14:06:24+00:00"
-  },
-  "627d95c253f8": {
-    "id": "627d95c253f8",
-    "title_en": "CIP reaches financial close on 420MW/150MW solar-plus-storage project in Mexico",
-    "title_zh": "CIP完成墨西哥420MW/150MW太阳能+储能项目的财务结算",
-    "url": "https://www.pv-tech.org/cip-reaches-financial-close-on-420mw-150mw-solar-plus-storage-project-in-mexico/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T14:00:51+00:00"
-  },
-  "86aa2d85c855": {
-    "id": "86aa2d85c855",
-    "title_en": "Congress Targets Putin’s Oil Lifeline With Tough New Sanctions",
-    "title_zh": "国会以严厉的新制裁瞄准普京的石油生命线",
-    "url": "https://oilprice.com/Geopolitics/Europe/Congress-Targets-Putins-Oil-Lifeline-With-Tough-New-Sanctions.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-11T14:00:00+00:00"
-  },
-  "69484a3f9d61": {
-    "id": "69484a3f9d61",
-    "title_en": "REPT BATTERO surpasses 2025 full-year results in H1 2026, launches AIDC-tailored storage systems",
-    "title_zh": "REPT BATTERO在2026年上半年超过2025年全年业绩，推出AIDC定制存储系统",
-    "url": "https://www.energy-storage.news/rept-battero-surpasses-2025-full-year-results-in-h1-2026-launches-aidc-tailored-storage-systems/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-11T13:55:02+00:00"
-  },
-  "2b9e33295751": {
-    "id": "2b9e33295751",
-    "title_en": "Arctech secures 425MW of solar tracker projects in Central Asia",
-    "title_zh": "Arctech在中亚获得425MW太阳能跟踪器项目",
-    "url": "https://www.pv-tech.org/arctech-secures-425mw-of-solar-tracker-projects-in-central-asia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T13:43:03+00:00"
-  },
-  "d8c6cb2f4ba3": {
-    "id": "d8c6cb2f4ba3",
-    "title_en": "Fly into Houston and see this unique solar carport design",
-    "title_zh": "飞到休斯顿，看看这个独特的太阳能车棚设计",
-    "url": "https://www.solarpowerworldonline.com/2026/08/fly-into-houston-and-see-this-unique-solar-carport-design/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-11T13:34:58+00:00"
   }
 }
