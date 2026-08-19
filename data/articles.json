@@ -1,4 +1,49 @@
 {
+  "c3f138ab72ef": {
+    "id": "c3f138ab72ef",
+    "title_en": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
+    "title_zh": "SLB准备重启委内瑞拉15个石油钻井平台",
+    "url": "https://oilprice.com/Energy/Energy-General/SLB-Prepares-to-Restart-15-Oil-Rigs-in-Venezuela.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T21:00:00+00:00"
+  },
+  "74f9ed6dde0e": {
+    "id": "74f9ed6dde0e",
+    "title_en": "$100 Diesel Cracks Signal a Much Tighter Oil Market Than Brent Suggests",
+    "title_zh": "100美元的柴油裂缝表明石油市场比布伦特原油所暗示的要紧张得多",
+    "url": "https://oilprice.com/Energy/Energy-General/100-Diesel-Cracks-Signal-a-Much-Tighter-Oil-Market-Than-Brent-Suggests.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T20:00:00+00:00"
+  },
+  "ba4aa56ac735": {
+    "id": "ba4aa56ac735",
+    "title_en": "As US tries to starve Cuba, solar electric garbage trikes offer a lifeline",
+    "title_zh": "当美国试图饿死古巴时，太阳能发电垃圾车提供了一条生命线",
+    "url": "https://electrek.co/2026/08/19/as-us-tries-to-starve-cuba-solar-electric-garbage-trikes-offer-a-lifeline/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-19T19:32:53+00:00"
+  },
+  "d58937ae8314": {
+    "id": "d58937ae8314",
+    "title_en": "Copper Backwardation Collapses After 20,000 Tons Hit LME Warehouses",
+    "title_zh": "2万吨铜冲击LME仓库后，铜价下跌",
+    "url": "https://oilprice.com/Metals/Commodities/Copper-Backwardation-Collapses-After-20000-Tons-Hit-LME-Warehouses.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T19:00:00+00:00"
+  },
+  "2b4035452409": {
+    "id": "2b4035452409",
+    "title_en": "Public utilities board proposes expanding New Jersey’s energy storage program",
+    "title_zh": "公用事业委员会提议扩大新泽西州的储能计划",
+    "url": "https://www.solarpowerworldonline.com/2026/08/public-utilities-board-proposes-expanding-new-jerseys-energy-storage-program/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-08-19T18:44:23+00:00"
+  },
   "0ba95000583c": {
     "id": "0ba95000583c",
     "title_en": "Portland airport can charge 20 rental EVs at once – from overhead",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-13T09:30:00+00:00"
-  },
-  "018a6c4d8090": {
-    "id": "018a6c4d8090",
-    "title_en": "BW ESS acquires 1,000MWh Yanco BESS from ACEnergy in Australia",
-    "title_zh": "BW ESS从澳大利亚ACEnergy收购1000MWh Yanco BESS",
-    "url": "https://www.energy-storage.news/bw-ess-acquires-1000mwh-yanco-bess-from-acenergy-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T09:25:36+00:00"
-  },
-  "2c6b177c9b7b": {
-    "id": "2c6b177c9b7b",
-    "title_en": "SunEnergyXT launches AC-coupled battery for existing PV systems",
-    "title_zh": "SunEnergyXT为现有光伏系统推出交流耦合电池",
-    "url": "https://www.pv-magazine.com/2026/08/13/sunenergyxt-launches-ac-coupled-battery-for-existing-pv-systems/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T09:20:09+00:00"
-  },
-  "086c99ce89f7": {
-    "id": "086c99ce89f7",
-    "title_en": "Probe launched after wind farm power line 'blamed for wildfire'",
-    "title_zh": "在风电场电力线“被指责为野火”后启动了调查",
-    "url": "https://www.windpowermonthly.com/article/1967284/probe-launched-wind-farm-power-line-blamed-wildfire",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-13T09:14:49+00:00"
-  },
-  "3e35a2c0d972": {
-    "id": "3e35a2c0d972",
-    "title_en": "Seven trends reshaping battery energy storage in 2026 and beyond",
-    "title_zh": "2026年及以后重塑电池储能的七大趋势",
-    "url": "https://www.energy-storage.news/seven-trends-reshaping-battery-energy-storage-in-2026-and-beyond/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T09:09:24+00:00"
-  },
-  "f36b864f2e4b": {
-    "id": "f36b864f2e4b",
-    "title_en": "ESS Inc highlights sodium-ion BESS deployment, reports net losses in Q2 2026 financials",
-    "title_zh": "ESS公司强调部署BESS上的钠，报告2026年第二季度财务净亏损",
-    "url": "https://www.energy-storage.news/ess-inc-q2-2026-financials-sodium-ion-bess-deployment-net-losses/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T09:01:41+00:00"
   }
 }
