@@ -1,4 +1,49 @@
 {
+  "ec1ee3af56a8": {
+    "id": "ec1ee3af56a8",
+    "title_en": "I-V screening for decommissioned PV modules",
+    "title_zh": "退役光伏组件的I-V筛查",
+    "url": "https://www.pv-magazine.com/2026/08/19/i-v-screening-for-decommissioned-pv-modules/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-19T06:15:39+00:00"
+  },
+  "7ea07049b7f9": {
+    "id": "7ea07049b7f9",
+    "title_en": "Translucent Energy launches 1.2 GW solar module factory in South Carolina",
+    "title_zh": "Translucent Energy在南卡罗来纳州推出1.2吉瓦太阳能组件工厂",
+    "url": "https://www.pv-magazine.com/2026/08/19/translucent-energy-launches-1-2-gw-solar-module-factory-in-south-carolina/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-19T05:51:21+00:00"
+  },
+  "dacbee6a9b45": {
+    "id": "dacbee6a9b45",
+    "title_en": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows",
+    "title_zh": "霍尔木兹交通放缓，油价连续第四天上涨",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-for-Fourth-Day-as-Hormuz-Traffic-Slows.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T05:40:00+00:00"
+  },
+  "b543dbadfdfd": {
+    "id": "b543dbadfdfd",
+    "title_en": "India’s model solar villages",
+    "title_zh": "印度太阳能示范村",
+    "url": "https://www.pv-magazine.com/2026/08/19/indias-model-solar-villages/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-19T04:00:00+00:00"
+  },
+  "730dc7191487": {
+    "id": "730dc7191487",
+    "title_en": "CATL’s Robin Zeng says non-zero-carbon batteries will be left behind by the times",
+    "title_zh": "CATL的Robin Zeng表示，非零碳电池将被时代抛弃",
+    "url": "https://www.energy-storage.news/catls-robin-zeng-says-non-zero-carbon-batteries-will-be-left-behind-by-the-times/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-19T03:57:37+00:00"
+  },
   "85800d8771f6": {
     "id": "85800d8771f6",
     "title_en": "Solar Power Passes 3 Terawatts!",
@@ -4453,50 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-08-12T14:50:39+00:00"
-  },
-  "cdb528f40db7": {
-    "id": "cdb528f40db7",
-    "title_en": "PV Chart of the Week: Thin-film still projected to dominate US cell production by 2027",
-    "title_zh": "本周光伏图表：预计到2027年，薄膜仍将主导美国电池生产",
-    "url": "https://www.pv-tech.org/pv-chart-of-the-week-thin-film-still-projected-to-dominate-us-cell-production-by-2027/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T14:48:07+00:00"
-  },
-  "2c8b1b839e8b": {
-    "id": "2c8b1b839e8b",
-    "title_en": "EIA Sees Massive Uptick in US Crude Oil Inventories",
-    "title_zh": "EIA看到美国原油库存大幅上升",
-    "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T14:38:18+00:00"
-  },
-  "6aaacb586631": {
-    "id": "6aaacb586631",
-    "title_en": "Ukraine Halts Oil Tanker Attacks on JD Vance Request",
-    "title_zh": "乌克兰应JD Vance请求停止油轮袭击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Halts-Oil-Tanker-Attacks-on-JD-Vance-Request.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T14:30:00+00:00"
-  },
-  "99a2fa1b8b00": {
-    "id": "99a2fa1b8b00",
-    "title_en": "LevelTen publishes hybrid index to reflect ‘clear shift’ in European PPA market towards solar-plus-storage",
-    "title_zh": "LevelTen发布混合指数，以反映欧洲PPA市场向太阳能+储能的“明显转变”",
-    "url": "https://www.pv-tech.org/levelten-publishes-hybrid-index-clear-shift-european-ppa-market-solar-plus-storage/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T14:23:53+00:00"
-  },
-  "48cb821ad513": {
-    "id": "48cb821ad513",
-    "title_en": "Ford has a new $25,000 crossover SUV coming, but will it go electric?",
-    "title_zh": "福特即将推出一款价值25000美元的跨界SUV，但它会电动化吗？",
-    "url": "https://electrek.co/2026/08/12/ford-reveals-new-25000-crossover-suv-dealers/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-12T14:18:35+00:00"
   }
 }
