@@ -1,4 +1,58 @@
 {
+  "85800d8771f6": {
+    "id": "85800d8771f6",
+    "title_en": "Solar Power Passes 3 Terawatts!",
+    "title_zh": "太阳能超过3太瓦！",
+    "url": "https://cleantechnica.com/2026/08/18/solar-power-passes-3-terawatt-marker/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T03:28:22+00:00"
+  },
+  "b867bd582955": {
+    "id": "b867bd582955",
+    "title_en": "Pony AI Plans to Deploy 1,000 Autonomous Heavy Trucks",
+    "title_zh": "Pony AI计划部署1000辆自动驾驶重型卡车",
+    "url": "https://cleantechnica.com/2026/08/18/pony-ai-plans-to-deploy-1000-autonomous-heavy-trucks/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T03:06:37+00:00"
+  },
+  "0e874b6d3e48": {
+    "id": "0e874b6d3e48",
+    "title_en": "UNSW team reaches 12.4% efficiency for CZTS solar cells by preventing copper drift during manufacturing",
+    "title_zh": "新南威尔士大学团队通过在制造过程中防止铜漂移，使CZTS太阳能电池的效率达到12.4%",
+    "url": "https://www.pv-tech.org/unsw-team-reaches-12-4-efficiency-for-czts-solar-cells-by-preventing-copper-drift-during-manufacturing/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-19T02:48:50+00:00"
+  },
+  "7f8c0ef84af4": {
+    "id": "7f8c0ef84af4",
+    "title_en": "EtaPRO deploys digital twin and predictive analytics at MGA Thermal’s 5MWh Tomago plant in Australia",
+    "title_zh": "EtaPRO在澳大利亚MGA Thermal的5MWh Tomago工厂部署了数字孪生和预测分析",
+    "url": "https://www.energy-storage.news/etapro-deploys-digital-twin-and-predictive-analytics-at-mga-thermals-5mwh-tomago-plant-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-19T02:47:13+00:00"
+  },
+  "5bb4c08baeda": {
+    "id": "5bb4c08baeda",
+    "title_en": "Sierra Club Statement on USDA Announcement to Remove Roadless Rule Protections",
+    "title_zh": "塞拉俱乐部关于美国农业部宣布取消无道路规则保护的声明",
+    "url": "https://cleantechnica.com/2026/08/18/sierra-club-statement-on-usda-announcement-to-remove-roadless-rule-protections/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T02:35:02+00:00"
+  },
+  "95b11c9e2f48": {
+    "id": "95b11c9e2f48",
+    "title_en": "Duke’s New Energy Plan for Data Centers Requires Consumer Protections Now",
+    "title_zh": "杜克大学的数据中心新能源计划现在需要消费者保护",
+    "url": "https://cleantechnica.com/2026/08/18/dukes-new-energy-plan-for-data-centers-requires-consumer-protections-now/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T02:22:21+00:00"
+  },
   "42ff0d78df8a": {
     "id": "42ff0d78df8a",
     "title_en": "Unearthing the Future: Inside NLR’s Summer Educational Programs",
@@ -4444,59 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-12T14:18:35+00:00"
-  },
-  "435462ba9d24": {
-    "id": "435462ba9d24",
-    "title_en": "Tesla FSD Hurdles in China & Secrecy in Europe",
-    "title_zh": "特斯拉FSD在中国的障碍和欧洲的保密",
-    "url": "https://cleantechnica.com/2026/08/12/tesla-fsd-hurdles-in-china-secrecy-in-europe/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-12T14:07:35+00:00"
-  },
-  "454cec65328c": {
-    "id": "454cec65328c",
-    "title_en": "Waymo has nearly 1,000 robotaxis waiting at its Arizona factory",
-    "title_zh": "Waymo在亚利桑那州的工厂有近1000台自动驾驶出租车在等待",
-    "url": "https://electrek.co/2026/08/12/waymo-ojai-robotaxis-arizona-factory/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-12T14:01:59+00:00"
-  },
-  "8f3dad400aa2": {
-    "id": "8f3dad400aa2",
-    "title_en": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
-    "title_zh": "LME铝库存降至1990年以来的最低水平",
-    "url": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T14:00:00+00:00"
-  },
-  "7d86378e4bba": {
-    "id": "7d86378e4bba",
-    "title_en": "Iran’s Leadership Reshuffle Signals a New Era of Centralized Command",
-    "title_zh": "伊朗领导层改组标志着集中指挥的新时代",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Leadership-Reshuffle-Signals-a-New-Era-of-Centralized-Command.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T14:00:00+00:00"
-  },
-  "edc40b6ddbf6": {
-    "id": "edc40b6ddbf6",
-    "title_en": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
-    "title_zh": "印度炼油厂寻求600万桶现货原油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T13:30:00+00:00"
-  },
-  "1c2d4f3ae474": {
-    "id": "1c2d4f3ae474",
-    "title_en": "Trump-Connected Greenland Energy Company Falls On Its Face",
-    "title_zh": "特朗普连接的格陵兰能源公司倒下了",
-    "url": "https://cleantechnica.com/2026/08/12/greenland-energy-trump-connection-fail-oil-drilling/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-12T13:21:55+00:00"
   }
 }
