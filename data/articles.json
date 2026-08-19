@@ -1,4 +1,103 @@
 {
+  "0ba95000583c": {
+    "id": "0ba95000583c",
+    "title_en": "Portland airport can charge 20 rental EVs at once – from overhead",
+    "title_zh": "波特兰机场可以一次收取20辆租赁电动汽车的费用",
+    "url": "https://electrek.co/2026/08/19/portland-airport-can-charge-20-rental-evs-at-once-from-overhead/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-19T18:20:26+00:00"
+  },
+  "043c5f62524b": {
+    "id": "043c5f62524b",
+    "title_en": "Heybike Hero mid-drive carbon-fiber all-terrain e-bike at exclusive new 1,049.50 low, EcoFlow power station flash sale, more",
+    "title_zh": "Heybike Hero中驱碳纤维全地形电动自行车在独家新款1049.50低档，EcoFlow电站闪购，更多",
+    "url": "https://electrek.co/2026/08/19/heybike-hero-mid-drive-e-bike-exclusive-ecoflow-power-station-flash-sale-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-19T18:00:00+00:00"
+  },
+  "dfc3a34bda88": {
+    "id": "dfc3a34bda88",
+    "title_en": "Central Asia Blackout Traced to Key Hydropower Plant",
+    "title_zh": "中亚停电追溯到重点水电站",
+    "url": "https://oilprice.com/Energy/Energy-General/Central-Asia-Blackout-Traced-to-Key-Hydropower-Plant.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T18:00:00+00:00"
+  },
+  "78b9b0c9726e": {
+    "id": "78b9b0c9726e",
+    "title_en": "VPP value proposition expands to affordability, reliability and resilience",
+    "title_zh": "VPP价值主张扩展到可负担性、可靠性和弹性",
+    "url": "https://www.utilitydive.com/news/vpp-value-proposition-expands-to-affordability-reliability-and-resilience/828293/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-19T17:31:40+00:00"
+  },
+  "3a4ec85296e7": {
+    "id": "3a4ec85296e7",
+    "title_en": "World's Largest Electric Plane Flies for 27 Minutes on $5 of Power",
+    "title_zh": "世界上最大的电动飞机以5美元的电力飞行27分钟",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Worlds-Largest-Electric-Plane-Flies-for-27-Minutes-on-5-of-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T17:30:00+00:00"
+  },
+  "c07ba5c70b27": {
+    "id": "c07ba5c70b27",
+    "title_en": "Famous US Automaker Faces The Music As Million-Dollar Vote Scheme Goes South",
+    "title_zh": "美国著名汽车制造商面临百万美元投票计划失败",
+    "url": "https://cleantechnica.com/2026/08/19/elon-musk-fraud-lawsuit-2024-elections-class-action/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T17:08:15+00:00"
+  },
+  "dd95bf42bcb3": {
+    "id": "dd95bf42bcb3",
+    "title_en": "Surprise! London’s tax on polluting cars made everyone much healthier (updated)",
+    "title_zh": "惊喜伦敦对污染汽车征税使每个人都更健康（更新）",
+    "url": "https://electrek.co/2026/08/19/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-19T17:05:00+00:00"
+  },
+  "1a7cfd9cc5fc": {
+    "id": "1a7cfd9cc5fc",
+    "title_en": "The Strongest El Niño on Record Lands on the Tightest Energy Market in Years",
+    "title_zh": "有记录以来最强烈的厄尔尼诺现象出现在多年来最紧张的能源市场上",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Strongest-El-Nio-on-Record-Lands-on-the-Tightest-Energy-Market-in-Years.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T17:00:00+00:00"
+  },
+  "56805fd31d28": {
+    "id": "56805fd31d28",
+    "title_en": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
+    "title_zh": "沙特阿美公司9月向3家欧洲炼油厂全额分配石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T16:30:00+00:00"
+  },
+  "e46effd11069": {
+    "id": "e46effd11069",
+    "title_en": "UK Inflation Jumps to 2.9% as Energy Bills Bite",
+    "title_zh": "能源账单上涨，英国通胀率飙升至2.9%",
+    "url": "https://oilprice.com/Energy/Energy-General/UK-Inflation-Jumps-to-29-as-Energy-Bills-Bite.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T16:00:00+00:00"
+  },
+  "196b7de71718": {
+    "id": "196b7de71718",
+    "title_en": "Toyo revenue up to US$261 million in H1 2026, cell and module shipments fall",
+    "title_zh": "2026年上半年，东洋收入高达2.61亿美元，电池和模块出货量下降",
+    "url": "https://www.pv-tech.org/toyo-revenue-us261-million-cell-module-shipments-fall-h1-2026/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-19T15:45:39+00:00"
+  },
   "f8fcb444405b": {
     "id": "f8fcb444405b",
     "title_en": "UAE Freezes Trade With Iran After Missiles Fall Near Its Coast",
@@ -25,6 +124,33 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-19T15:12:25+00:00"
+  },
+  "955f3bf07451": {
+    "id": "955f3bf07451",
+    "title_en": "Home buyers want more information on energy usage. Utilities can help.",
+    "title_zh": "购房者希望了解更多关于能源使用的信息。公用事业可以提供帮助。",
+    "url": "https://www.utilitydive.com/news/home-buyers-want-more-information-on-energy-usage-utilities-can-help/827014/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-19T15:00:00+00:00"
+  },
+  "b731fadd56ff": {
+    "id": "b731fadd56ff",
+    "title_en": "The Western energy market must shift as power flows evolve, say experts",
+    "title_zh": "专家表示，随着电力流动的发展，西方能源市场必须转变",
+    "url": "https://www.utilitydive.com/news/the-western-energy-market-must-shift-as-its-flows-evolve-say-experts/828263/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-19T14:56:51+00:00"
+  },
+  "5aee9506afcf": {
+    "id": "5aee9506afcf",
+    "title_en": "Pennsylvania dangles permitting carrot for data centers that bring their own power",
+    "title_zh": "宾夕法尼亚州允许数据中心自行发电",
+    "url": "https://www.utilitydive.com/news/pennsylvania-executive-order-data-centers/828261/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-19T14:56:21+00:00"
   },
   "68bea91d4645": {
     "id": "68bea91d4645",
@@ -4372,131 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-13T09:01:41+00:00"
-  },
-  "d9c6dfa2fcb7": {
-    "id": "d9c6dfa2fcb7",
-    "title_en": "Arevon Energy’s 1,200MWh California BESS begins operations",
-    "title_zh": "Arevon Energy的1200MWh加州BESS开始运营",
-    "url": "https://www.energy-storage.news/arevon-energys-1200mwh-california-bess-begins-operations/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T08:51:05+00:00"
-  },
-  "dc23e2419a83": {
-    "id": "dc23e2419a83",
-    "title_en": "Optimizing Offshore Activity: Modernizing Plate Rolling for Heavy Fabrications",
-    "title_zh": "优化海上活动：实现重型制造的板材轧制现代化",
-    "url": "https://www.offshorewind.biz/2026/08/13/optimizing-offshore-activity-modernizing-plate-rolling-for-heavy-fabrications/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-13T08:44:04+00:00"
-  },
-  "de9e7a2fa26a": {
-    "id": "de9e7a2fa26a",
-    "title_en": "PVcase adds key export option to its solar design software",
-    "title_zh": "PVcase在其太阳能设计软件中增加了关键的导出选项",
-    "url": "https://www.pv-magazine.com/2026/08/13/pvcase-adds-key-export-option-to-its-solar-design-software/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T08:35:16+00:00"
-  },
-  "796a7f0b52c5": {
-    "id": "796a7f0b52c5",
-    "title_en": "Section 232 may offer ‘limited prospects’ for US solar wafer capacity",
-    "title_zh": "第232条可能为美国太阳能晶圆产能提供“有限前景”",
-    "url": "https://www.pv-tech.org/section-232-may-offer-limited-prospects-for-us-solar-wafer-capacity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T08:30:58+00:00"
-  },
-  "0b9d82ec74ef": {
-    "id": "0b9d82ec74ef",
-    "title_en": "India Drives a Global Surge in New Coal Mine Plans",
-    "title_zh": "印度推动全球新煤矿计划激增",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Drives-a-Global-Surge-in-New-Coal-Mine-Plans.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T08:30:00+00:00"
-  },
-  "520e51623ec3": {
-    "id": "520e51623ec3",
-    "title_en": "Recurrent starts operations at Microsoft-backed 150MW Victoria PV project",
-    "title_zh": "微软支持的150MW维多利亚光伏项目定期开始运营",
-    "url": "https://www.pv-tech.org/recurrent-microsoft-ppa-150mw-victoria-solar-pv-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T08:27:29+00:00"
-  },
-  "5b104ec05e3a": {
-    "id": "5b104ec05e3a",
-    "title_en": "Brazil’s curtailment compensation offer attracts 1,539 solar and wind plant operators",
-    "title_zh": "巴西的弃电补偿方案吸引了1539家太阳能和风力发电厂运营商",
-    "url": "https://www.pv-magazine.com/2026/08/13/brazils-curtailment-compensation-offer-attracts-1539-solar-and-wind-plant-operators/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T08:15:17+00:00"
-  },
-  "863c94766949": {
-    "id": "863c94766949",
-    "title_en": "Mass-scale reuse pilot project finds 15% of second-life solar modules fail to meet safety requirements",
-    "title_zh": "大规模再利用试点项目发现，15%的二次生命太阳能组件不符合安全要求",
-    "url": "https://www.pv-magazine.com/2026/08/13/mass-scale-reuse-pilot-project-finds-15-of-second-life-solar-modules-fail-to-meet-safety-requirements/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T08:03:21+00:00"
-  },
-  "573f32b150c2": {
-    "id": "573f32b150c2",
-    "title_en": "Copenhagen Infrastructure Partners reaches commercial operations on 500MW BESS in Scotland",
-    "title_zh": "哥本哈根基础设施合作伙伴在苏格兰实现500MW BESS的商业运营",
-    "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-commercial-operations-500mw-bess-scotland/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T07:50:58+00:00"
-  },
-  "77ac5d831f16": {
-    "id": "77ac5d831f16",
-    "title_en": "Global South Utilities completes 50 MW solar, 15 MWh BESS project in Central African Republic",
-    "title_zh": "Global South Utilities在中非共和国完成了50兆瓦太阳能、15兆瓦时BESS项目",
-    "url": "https://www.pv-magazine.com/2026/08/13/global-south-utilities-completes-50-mw-solar-15-mwh-bess-project-in-central-african-republic/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T07:47:31+00:00"
-  },
-  "d778ade13123": {
-    "id": "d778ade13123",
-    "title_en": "Hillcore to build 2.6GW power complex at Fermi Matador site in US",
-    "title_zh": "Hillcore将在美国Fermi Matador工厂建造2.6GW的电力综合体",
-    "url": "https://www.energymonitor.ai/news/hillcore-to-build-2-6gw-power/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-13T07:44:08+00:00"
-  },
-  "1be513770e18": {
-    "id": "1be513770e18",
-    "title_en": "US aluminum is poised for a comeback — if it overcomes these hurdles",
-    "title_zh": "美国铝业有望卷土重来——如果它克服了这些障碍",
-    "url": "https://www.canarymedia.com/articles/clean-aluminum/us-aluminum-comeback-barriers",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-13T07:30:00+00:00"
-  },
-  "22bef79eeae0": {
-    "id": "22bef79eeae0",
-    "title_en": "Huge new turbines could let biggest UK wind farm do more with less",
-    "title_zh": "巨大的新涡轮机可以让英国最大的风电场用更少的钱做更多的事情",
-    "url": "https://www.canarymedia.com/articles/wind/huge-new-turbines-uk-wind-farm",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-13T07:30:00+00:00"
-  },
-  "a02ee47d42ac": {
-    "id": "a02ee47d42ac",
-    "title_en": "Federal ruling hands virtual power plants a win in PJM",
-    "title_zh": "联邦政府裁定虚拟发电厂在PJM中获胜",
-    "url": "https://www.canarymedia.com/articles/virtual-power-plants/federal-ruling-virtual-power-plants-pjm",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-13T07:30:00+00:00"
   }
 }
