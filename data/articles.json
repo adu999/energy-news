@@ -1,4 +1,76 @@
 {
+  "42ff0d78df8a": {
+    "id": "42ff0d78df8a",
+    "title_en": "Unearthing the Future: Inside NLR’s Summer Educational Programs",
+    "title_zh": "发掘未来：NLR暑期教育项目内幕",
+    "url": "https://cleantechnica.com/2026/08/18/unearthing-the-future-inside-nlrs-summer-educational-programs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T01:12:41+00:00"
+  },
+  "29cf26466dea": {
+    "id": "29cf26466dea",
+    "title_en": "Porsche Looks to Boost Macan EV Sales",
+    "title_zh": "保时捷希望提振Macan电动汽车销量",
+    "url": "https://cleantechnica.com/2026/08/18/porsche-looks-to-boost-macan-ev-sales/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T01:05:52+00:00"
+  },
+  "182f55c8a80a": {
+    "id": "182f55c8a80a",
+    "title_en": "A High-Tech Control with Bluetooth Display Comes to Mountain Ebikes",
+    "title_zh": "带蓝牙显示的高科技控制来到山地摩托车",
+    "url": "https://cleantechnica.com/2026/08/18/a-high-tech-control-with-bluetooth-display-comes-to-mountain-ebikes/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T00:22:18+00:00"
+  },
+  "353068e1c29b": {
+    "id": "353068e1c29b",
+    "title_en": "5 Energy Stocks Cashing In On The New Energy Crunch",
+    "title_zh": "5只能源股在新能源危机中获利",
+    "url": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-Cashing-In-On-The-New-Energy-Crunch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T00:00:00+00:00"
+  },
+  "0cdfcc09ca5a": {
+    "id": "0cdfcc09ca5a",
+    "title_en": "The U.S. Is Quietly Building a New Energy Foothold in Iraq",
+    "title_zh": "美国正在伊拉克悄悄建立新能源立足点",
+    "url": "https://oilprice.com/Energy/Natural-Gas/The-US-Is-Quietly-Building-a-New-Energy-Foothold-in-Iraq.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T23:00:00+00:00"
+  },
+  "86d7b90e5ebf": {
+    "id": "86d7b90e5ebf",
+    "title_en": "The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy",
+    "title_zh": "人工智能基础设施的新经济学：为什么税收战略现在是能源战略的一部分",
+    "url": "https://www.powermag.com/the-new-economics-of-ai-infrastructure-why-tax-strategy-is-now-part-of-energy-strategy/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-18T22:25:35+00:00"
+  },
+  "629bac76b456": {
+    "id": "629bac76b456",
+    "title_en": "The 2027 Toyota bZ is now on sale: Here’s how much it costs",
+    "title_zh": "2027款丰田bZ现已上市：价格如下",
+    "url": "https://electrek.co/2026/08/18/2027-toyota-bz-now-on-sale-how-much-it-costs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-18T22:02:52+00:00"
+  },
+  "3553579229a9": {
+    "id": "3553579229a9",
+    "title_en": "Peter Thiel Bets $76 Million on Argentina’s Vaca Muerta Shale",
+    "title_zh": "Peter Thiel投资7600万美元购买阿根廷Vaca Muerta页岩",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Peter-Thiel-Bets-76-Million-on-Argentinas-Vaca-Muerta-Shale.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-18T22:00:00+00:00"
+  },
   "ab686fbf1aa3": {
     "id": "ab686fbf1aa3",
     "title_en": "AI Could Make Big Oil Even Bigger",
@@ -4426,77 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-08-12T13:21:55+00:00"
-  },
-  "2522e254a249": {
-    "id": "2522e254a249",
-    "title_en": "France sees sharp rise in solar module recycling",
-    "title_zh": "法国太阳能组件回收率大幅上升",
-    "url": "https://www.pv-magazine.com/2026/08/12/france-sees-sharp-rise-in-solar-module-recycling/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T13:13:23+00:00"
-  },
-  "ecf482124ebe": {
-    "id": "ecf482124ebe",
-    "title_en": "PJM eyes data center, crypto reliability requirements after 3.8 GW of load trips offline",
-    "title_zh": "PJM关注数据中心，3.8GW负载离线后的加密可靠性要求",
-    "url": "https://www.utilitydive.com/news/pjm-nerc-data-center-crypto-reliability-standards/827653/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-12T13:01:39+00:00"
-  },
-  "656d3095f2d7": {
-    "id": "656d3095f2d7",
-    "title_en": "Scatec starts commercial operations at second and final phase of Obelisk solar-plus-storage project in Egypt",
-    "title_zh": "Scatec在埃及Obelisk太阳能+储能项目的第二阶段和最后阶段开始商业运营",
-    "url": "https://www.pv-tech.org/scatec-commercial-operations-second-final-phase-obelisk-solar-plus-storage-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T12:54:34+00:00"
-  },
-  "71f6c641e4d6": {
-    "id": "71f6c641e4d6",
-    "title_en": "Europe’s largest battery comes online in Scotland",
-    "title_zh": "欧洲最大的电池在苏格兰上线",
-    "url": "https://www.pv-magazine.com/2026/08/12/europes-largest-battery-comes-online-in-scotland/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T12:51:54+00:00"
-  },
-  "323e9a12ce4b": {
-    "id": "323e9a12ce4b",
-    "title_en": "Gas prices are about to go even higher. Here’s how to use an e-bike to save money",
-    "title_zh": "天然气价格即将进一步上涨。以下是如何使用电动自行车省钱",
-    "url": "https://electrek.co/2026/08/12/gas-prices-are-about-to-go-even-higher-heres-how-to-use-an-e-bike-to-save-money/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-12T12:33:00+00:00"
-  },
-  "ed527a90c98c": {
-    "id": "ed527a90c98c",
-    "title_en": "IEA: Global Oil Deficit To Hit 1.8 Million Bpd This Quarter",
-    "title_zh": "国际能源署：本季度全球石油赤字将达到180万桶/日",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Global-Oil-Deficit-To-Hit-18-Million-Bpd-This-Quarter.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-12T12:30:00+00:00"
-  },
-  "009cf63d64c8": {
-    "id": "009cf63d64c8",
-    "title_en": "Sonoma State University powers on solar carports and battery storage",
-    "title_zh": "索诺玛州立大学为太阳能车棚和电池储能供电",
-    "url": "https://www.solarpowerworldonline.com/2026/08/sonoma-state-university-powers-on-solar-carports-and-battery-storage/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-12T12:18:52+00:00"
-  },
-  "db17b375f175": {
-    "id": "db17b375f175",
-    "title_en": "Azerbaijan Designates 711.4-Square-Kilometre Area in Caspian Sea for Offshore Wind",
-    "title_zh": "阿塞拜疆指定里海711.4平方公里区域用于海上风电",
-    "url": "https://www.offshorewind.biz/2026/08/12/azerbaijan-designates-711-4-square-kilometre-area-in-caspian-sea-for-offshore-wind/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-12T12:03:27+00:00"
   }
 }
