@@ -1,4 +1,94 @@
 {
+  "2c54032fe5db": {
+    "id": "2c54032fe5db",
+    "title_en": "Has Iranian Crude Become Irrelevant to Global Oil Supply?",
+    "title_zh": "伊朗原油与全球石油供应无关吗？",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Has-Iranian-Crude-Become-Irrelevant-to-Global-Oil-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T09:30:00+00:00"
+  },
+  "5f90ad08bb09": {
+    "id": "5f90ad08bb09",
+    "title_en": "Even at 100 meters, PV makes neighbours more likely to go green",
+    "title_zh": "即使在100米处，光伏也使邻居更有可能走向绿色",
+    "url": "https://www.pv-magazine.com/2026/08/20/even-at-100-meters-pv-makes-neighbours-more-likely-to-go-green/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T09:24:58+00:00"
+  },
+  "778e384b259a": {
+    "id": "778e384b259a",
+    "title_en": "South Koreans Make Move to Cut Foreign Dependence with Domestic ROV Capability",
+    "title_zh": "韩国采取行动，利用国内ROV能力减少对外国的依赖",
+    "url": "https://www.offshorewind.biz/2026/08/20/south-koreans-make-move-to-cut-foreign-dependence-with-domestic-rov-capability/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-20T08:49:48+00:00"
+  },
+  "bd0e586b934e": {
+    "id": "bd0e586b934e",
+    "title_en": "Mexican solar installers report risks of kidnapping and extortion",
+    "title_zh": "墨西哥太阳能安装商报告绑架和勒索风险",
+    "url": "https://www.pv-magazine.com/2026/08/20/mexican-solar-installers-report-risks-of-kidnapping-and-extortion/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T08:10:59+00:00"
+  },
+  "042a727f5343": {
+    "id": "042a727f5343",
+    "title_en": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
+    "title_zh": "中东石油危机导致超级油轮价格创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T08:00:00+00:00"
+  },
+  "fe2fa1ef3d01": {
+    "id": "fe2fa1ef3d01",
+    "title_en": "PV life cycle assessment gets its most comprehensive data overhaul in more than a decade",
+    "title_zh": "光伏生命周期评估获得十多年来最全面的数据检修",
+    "url": "https://www.pv-magazine.com/2026/08/20/pv-life-cycle-assessment-gets-its-most-comprehensive-data-overhaul-in-more-than-a-decade/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T07:54:38+00:00"
+  },
+  "1fa3c394a6b4": {
+    "id": "1fa3c394a6b4",
+    "title_en": "Sif Loads Out Final Monopiles for Polish 1.4 GW Offshore Wind Project",
+    "title_zh": "Sif为波兰1.4吉瓦海上风电项目装船最终单桩",
+    "url": "https://www.offshorewind.biz/2026/08/20/sif-loads-out-final-monopiles-for-polish-1-4-gw-offshore-wind-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-20T07:34:56+00:00"
+  },
+  "54965a7beff0": {
+    "id": "54965a7beff0",
+    "title_en": "Duke Energy deals double whammy to its poorest North Carolina customers",
+    "title_zh": "杜克能源公司对其最贫穷的北卡罗来纳州客户进行了双重打击",
+    "url": "https://www.canarymedia.com/articles/utilities/duke-energy-poorest-nc-customers",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-20T07:30:00+00:00"
+  },
+  "3bcf13fd82a3": {
+    "id": "3bcf13fd82a3",
+    "title_en": "US apartment buildings have tipped toward heat pumps",
+    "title_zh": "美国公寓楼向热泵倾斜",
+    "url": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-20T07:30:00+00:00"
+  },
+  "4f05f267ec26": {
+    "id": "4f05f267ec26",
+    "title_en": "Where and how to cut back-contact TOPCon solar cells to minimize recombination losses",
+    "title_zh": "在哪里以及如何减少接触TOPCon太阳能电池，以最大限度地减少复合损失",
+    "url": "https://www.pv-magazine.com/2026/08/20/where-and-how-to-cut-back-contact-topcon-solar-cells-to-minimize-recombination-losses/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T07:01:28+00:00"
+  },
   "ebd3d4998e9c": {
     "id": "ebd3d4998e9c",
     "title_en": "Elevated Oil Prices Push Japan’s Imports to an All-Time High",
@@ -4408,95 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-13T14:53:43+00:00"
-  },
-  "71ee6eb3f20d": {
-    "id": "71ee6eb3f20d",
-    "title_en": "Romanian plant taken offline as Hungary moves to keep Paks operating",
-    "title_zh": "匈牙利采取行动保持Paks的运营，罗马尼亚工厂下线",
-    "url": "https://www.world-nuclear-news.org/articles/romanian-plant-taken-offline-as-hungary-moves-to-keep-paks-operating",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-08-13T14:51:59+00:00"
-  },
-  "ae16af3fcd75": {
-    "id": "ae16af3fcd75",
-    "title_en": "Software-based initiative could unlock up to 20% more bulk capacity: OATI",
-    "title_zh": "基于软件的计划可以释放高达20%的批量容量：OATI",
-    "url": "https://www.utilitydive.com/news/software-based-initiative-could-unlock-up-to-20-more-bulk-capacity-oati/827806/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-13T14:51:48+00:00"
-  },
-  "27e7f92f98ca": {
-    "id": "27e7f92f98ca",
-    "title_en": "Volkswagen’s new electric camper van turns the ID. Buzz into a home on wheels",
-    "title_zh": "大众汽车的新型电动露营车将ID Buzz变成了一个有轮子的家",
-    "url": "https://electrek.co/2026/08/13/volkswagen-turning-id-buzz-into-electric-camper-van/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-13T14:33:09+00:00"
-  },
-  "0cf5059ccb32": {
-    "id": "0cf5059ccb32",
-    "title_en": "Romania Shuts Down Last Nuclear Reactor As Danube Hits 90-Year Low",
-    "title_zh": "罗马尼亚关闭最后一座核反应堆多瑙河创90年新低",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Shuts-Down-Last-Nuclear-Reactor-As-Danube-Hits-90-Year-Low.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T14:30:00+00:00"
-  },
-  "ec2d283eca38": {
-    "id": "ec2d283eca38",
-    "title_en": "Urban Arrow enters the longtail cargo e-bike market in US with its new Breeze",
-    "title_zh": "Urban Arrow携新款Breeze进入美国长尾货运电动自行车市场",
-    "url": "https://electrek.co/2026/08/13/urban-arrow-enters-the-longtail-cargo-e-bike-market-in-us-with-its-new-breeze/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-13T14:02:00+00:00"
-  },
-  "0e4696fef8c7": {
-    "id": "0e4696fef8c7",
-    "title_en": "Rivian’s 2027 R1S adds captain’s chairs, its most-requested feature",
-    "title_zh": "Rivian的2027 R1S增加了船长座椅，这是其最受欢迎的功能",
-    "url": "https://electrek.co/2026/08/13/rivian-2027-r1s-r1t-captains-chairs-new-trims-pricing/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-13T14:00:00+00:00"
-  },
-  "24c76dbcac08": {
-    "id": "24c76dbcac08",
-    "title_en": "America’s Authoritarian Adversaries Are Forging a New Power Bloc",
-    "title_zh": "美国的威权主义对手正在打造一个新的权力集团",
-    "url": "https://oilprice.com/Geopolitics/North-America/Americas-Authoritarian-Adversaries-Are-Forging-a-New-Power-Bloc.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T14:00:00+00:00"
-  },
-  "17beebd91666": {
-    "id": "17beebd91666",
-    "title_en": "The Hybrids Are Coming! The Hybrids Are Coming!",
-    "title_zh": "混合动力车来了！混合动力车来了！",
-    "url": "https://cleantechnica.com/2026/08/13/the-hybrids-are-coming-the-hybrids-are-coming/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-13T13:46:29+00:00"
-  },
-  "86552c93bb96": {
-    "id": "86552c93bb96",
-    "title_en": "Decommissioning Spending in UK North Sea Hits Record High",
-    "title_zh": "英国北海退役支出创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Decommissioning-Spending-in-UK-North-Sea-Hits-Record-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T13:30:00+00:00"
-  },
-  "ab19ae5b1ab8": {
-    "id": "ab19ae5b1ab8",
-    "title_en": "NextEnergy UK acquires 107MW/151MWh standalone BESS portfolio in the UK",
-    "title_zh": "NextEnergy UK在英国收购了107MW/151MWh的独立BESS投资组合",
-    "url": "https://www.energy-storage.news/nextenergy-uk-acquires-107mw-151mwh-standalone-bess-portfolio-uk/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T13:06:29+00:00"
   }
 }
