@@ -1,4 +1,40 @@
 {
+  "0d3185ac08bc": {
+    "id": "0d3185ac08bc",
+    "title_en": "APA to build 104MWh battery storage system for Evolution Mining’s Ernest Henry operations in Australia",
+    "title_zh": "APA将为Evolution Mining在澳大利亚的Ernest Henry业务建造104MWh电池储能系统",
+    "url": "https://www.energy-storage.news/apa-to-build-104mwh-battery-storage-system-for-evolution-minings-ernest-henry-operations-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-20T03:45:53+00:00"
+  },
+  "78824a570f2b": {
+    "id": "78824a570f2b",
+    "title_en": "The Genesis GV90 takes luxury up a notch with coach doors and all [Images]",
+    "title_zh": "Genesis GV90将豪华提升到了一个新的水平，配有教练门和所有[图片]",
+    "url": "https://electrek.co/2026/08/19/genesis-gv90-luxury-coach-doors-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-20T03:00:00+00:00"
+  },
+  "c77ab6f3fb1e": {
+    "id": "c77ab6f3fb1e",
+    "title_en": "Cadillac CELESTIQ Night Test Is Inspired By The Quiet, After-hours World Where Real Performance Is Honed",
+    "title_zh": "凯迪拉克CELESTIQ夜间测试的灵感来自安静的下班后世界，在那里真正的性能得到了磨练",
+    "url": "https://cleantechnica.com/2026/08/19/cadillac-celestiq-night-test-is-inspired-by-the-quiet-after-hours-world-where-real-performance-is-honed/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-20T02:30:45+00:00"
+  },
+  "c1576859c303": {
+    "id": "c1576859c303",
+    "title_en": "NLR & North American Electric Reliability Corporation Launch Partnership To Advance North American Grid Reliability",
+    "title_zh": "NLR与北美电力可靠性公司建立合作伙伴关系，以提高北美电网的可靠性",
+    "url": "https://cleantechnica.com/2026/08/19/nlr-north-american-electric-reliability-corporation-launch-partnership-to-advance-north-american-grid-reliability/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-20T02:13:37+00:00"
+  },
   "d59902312df5": {
     "id": "d59902312df5",
     "title_en": "Translucent Solar Starts Producing Solar Panels in South Carolina",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-13T11:30:00+00:00"
-  },
-  "a418079ea613": {
-    "id": "a418079ea613",
-    "title_en": "Rivian’s long-delayed ALSO e-bike is only delayed a little bit longer",
-    "title_zh": "Rivian的ALSO电动自行车被推迟了很长时间，只是推迟了一点",
-    "url": "https://electrek.co/2026/08/13/rivians-long-delayed-also-e-bike-is-only-delayed-a-little-bit-longer/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-13T11:28:00+00:00"
-  },
-  "edc881956ab1": {
-    "id": "edc881956ab1",
-    "title_en": "EPO revokes Hanwha cell passivation patent",
-    "title_zh": "EPO撤销韩华电池钝化专利",
-    "url": "https://www.pv-tech.org/epo-revokes-hanwha-cell-passivation-patent/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T11:13:22+00:00"
-  },
-  "f7752e0300cf": {
-    "id": "f7752e0300cf",
-    "title_en": "Australia Plug-In Update July 2026",
-    "title_zh": "澳大利亚插件更新2026年7月",
-    "url": "https://cleantechnica.com/2026/08/13/australia-plug-in-update-july-2026/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-13T11:00:54+00:00"
-  },
-  "3a39863ca167": {
-    "id": "3a39863ca167",
-    "title_en": "Solar output rises during European heatwaves as extreme heat strains power grids",
-    "title_zh": "极端高温使电网紧张，欧洲热浪期间太阳能产量上升",
-    "url": "https://www.pv-tech.org/solar-output-rises-during-european-heatwaves-as-extreme-heat-strains-power-grids/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T11:00:27+00:00"
   }
 }
