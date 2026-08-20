@@ -1,4 +1,94 @@
 {
+  "d59902312df5": {
+    "id": "d59902312df5",
+    "title_en": "Translucent Solar Starts Producing Solar Panels in South Carolina",
+    "title_zh": "Translucent Solar在南卡罗来纳州开始生产太阳能电池板",
+    "url": "https://cleantechnica.com/2026/08/19/translucent-solar-starts-producing-solar-panels-in-south-carolina/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-20T00:39:41+00:00"
+  },
+  "23ca32e74e04": {
+    "id": "23ca32e74e04",
+    "title_en": "Coal Remains The Undisputed King Of Global Power",
+    "title_zh": "煤炭仍然是无可争议的全球电力之王",
+    "url": "https://oilprice.com/Energy/Coal/Coal-Remains-The-Undisputed-King-Of-Global-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T00:00:00+00:00"
+  },
+  "0c628c641e71": {
+    "id": "0c628c641e71",
+    "title_en": "Bouge RV’s Battery-Powered Portable Fridges Make Going Off Grid Easy (CleanTechnica Tested)",
+    "title_zh": "购买RV的电池供电便携式冰箱使离网变得容易（CleanTechnica测试）",
+    "url": "https://cleantechnica.com/2026/08/19/bouge-rvs-battery-powered-portable-fridges-make-going-off-grid-easy-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T23:39:03+00:00"
+  },
+  "f69e5b2c6062": {
+    "id": "f69e5b2c6062",
+    "title_en": "16 Agrivoltaic Projects on Local Farms Move Forward in New Jersey",
+    "title_zh": "新泽西州当地农场的16个农业光伏项目向前推进",
+    "url": "https://cleantechnica.com/2026/08/19/16-agrivoltaic-projects-on-local-farms-move-forward-in-new-jersey/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T23:24:05+00:00"
+  },
+  "ee073ab68746": {
+    "id": "ee073ab68746",
+    "title_en": "Hope Fades, Traders Brace for Extended Oil, LNG Squeeze",
+    "title_zh": "希望消退，交易员准备延长石油、液化天然气紧缩",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Hope-Fades-Traders-Brace-for-Extended-Oil-LNG-Squeeze.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T23:00:00+00:00"
+  },
+  "8e0c44f674e1": {
+    "id": "8e0c44f674e1",
+    "title_en": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
+    "title_zh": "AVEVA首席执行官：可持续发展承诺必须得到可衡量结果的支持",
+    "url": "https://www.powermag.com/aveva-ceo-sustainability-commitments-must-be-backed-by-measurable-results/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-19T22:59:43+00:00"
+  },
+  "dc458ee6d167": {
+    "id": "dc458ee6d167",
+    "title_en": "Can Legacy Automakers Survive Without Exports?",
+    "title_zh": "传统汽车制造商能否在没有出口的情况下生存？",
+    "url": "https://cleantechnica.com/2026/08/19/can-legacy-automakers-survive-without-exports/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T22:44:16+00:00"
+  },
+  "f6178d8f886f": {
+    "id": "f6178d8f886f",
+    "title_en": "If Toyota Sells EVs, People Will Buy Them",
+    "title_zh": "如果丰田出售电动汽车，人们就会购买",
+    "url": "https://cleantechnica.com/2026/08/19/if-toyota-sells-evs-people-will-buy-them/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-19T22:10:40+00:00"
+  },
+  "f63480f659ab": {
+    "id": "f63480f659ab",
+    "title_en": "Russia’s Fuel Crisis Hits Moscow as Rationing Spreads",
+    "title_zh": "随着配给的扩大，俄罗斯的燃料危机袭击了莫斯科",
+    "url": "https://oilprice.com/Energy/Energy-General/Russias-Fuel-Crisis-Hits-Moscow-as-Rationing-Spreads.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-19T22:00:00+00:00"
+  },
+  "7b62e77aa150": {
+    "id": "7b62e77aa150",
+    "title_en": "Wawa-branded EV chargers are expanding beyond Tesla",
+    "title_zh": "Wawa品牌的电动汽车充电器正在超越特斯拉",
+    "url": "https://electrek.co/2026/08/19/wawa-branded-ev-chargers-are-expanding-beyond-tesla/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-19T21:53:47+00:00"
+  },
   "c3f138ab72ef": {
     "id": "c3f138ab72ef",
     "title_en": "SLB Prepares to Restart 15 Oil Rigs in Venezuela",
@@ -6,6 +96,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/SLB-Prepares-to-Restart-15-Oil-Rigs-in-Venezuela.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-08-19T21:00:00+00:00"
+  },
+  "cb9fbe218fc0": {
+    "id": "cb9fbe218fc0",
+    "title_en": "In Michigan, LG opens one of America’s biggest battery cell factories",
+    "title_zh": "在密歇根州，LG开设了美国最大的电池工厂之一",
+    "url": "https://www.canarymedia.com/articles/batteries/michigan-lg-biggest-battery-cell-factory",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-08-19T21:00:00+00:00"
   },
   "74f9ed6dde0e": {
@@ -313,6 +412,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-19T13:00:00+00:00"
+  },
+  "7f1eb71843fe": {
+    "id": "7f1eb71843fe",
+    "title_en": "Expert insights: Mining more with less",
+    "title_zh": "专家见解：少花钱多挖矿",
+    "url": "https://www.energymonitor.ai/sponsored/expert-insights-mining-more-with-less/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-19T12:42:06+00:00"
   },
   "f7f54737d993": {
     "id": "f7f54737d993",
@@ -4390,113 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-13T11:00:27+00:00"
-  },
-  "a8912522db99": {
-    "id": "a8912522db99",
-    "title_en": "Solar modules with built-in buck converters could raise rooftop PV yield by up to 20% under partial shading",
-    "title_zh": "内置降压转换器的太阳能模块可以在部分遮阳条件下将屋顶光伏产量提高20%",
-    "url": "https://www.pv-magazine.com/2026/08/13/solar-modules-with-built-in-buck-converters-could-raise-rooftop-pv-yield-by-up-to-20-under-partial-shading/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T10:34:12+00:00"
-  },
-  "50140f7bdb0c": {
-    "id": "50140f7bdb0c",
-    "title_en": "High Oil Prices Deliver a Windfall for China’s Coal-to-Chemicals Industry",
-    "title_zh": "高油价为中国煤化工行业带来意外之喜",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/High-Oil-Prices-Deliver-a-Windfall-for-Chinas-Coal-to-Chemicals-Industry.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T10:30:00+00:00"
-  },
-  "d5157d2eff5c": {
-    "id": "d5157d2eff5c",
-    "title_en": "Form Energy raises $750m to expand iron-air battery production",
-    "title_zh": "Form Energy融资7.5亿美元扩大铁空气电池生产",
-    "url": "https://www.energymonitor.ai/news/form-energy-iron-air-battery-production/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-13T10:30:00+00:00"
-  },
-  "69af33dbdced": {
-    "id": "69af33dbdced",
-    "title_en": "California investigating RWE-Trump offshore wind deal",
-    "title_zh": "加州调查RWE Trump海上风电交易",
-    "url": "https://www.windpowermonthly.com/article/1967303/california-investigating-rwe-trump-offshore-wind-deal",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-13T10:16:41+00:00"
-  },
-  "c2becaad3a90": {
-    "id": "c2becaad3a90",
-    "title_en": "CNNC to procure contract for high-temperature reactor",
-    "title_zh": "中国核工业集团公司将采购高温反应堆合同",
-    "url": "https://www.world-nuclear-news.org/articles/cnnc-to-procure-contract-for-high-temperature-reactor",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-08-13T10:16:15+00:00"
-  },
-  "bcc0f5fb4e79": {
-    "id": "bcc0f5fb4e79",
-    "title_en": "Taihan’s Recently Purchased CLV Ready for First Offshore Wind Assignment",
-    "title_zh": "Taihan最近购买的CLV已准备好进行首次海上风电任务",
-    "url": "https://www.offshorewind.biz/2026/08/13/taihans-recently-purchased-clv-ready-for-first-offshore-wind-assignment/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-13T10:06:03+00:00"
-  },
-  "aa07c2d6b57d": {
-    "id": "aa07c2d6b57d",
-    "title_en": "Finland adds 478 MW of large-scale solar in H1",
-    "title_zh": "芬兰上半年新增478兆瓦大型太阳能发电",
-    "url": "https://www.pv-magazine.com/2026/08/13/finland-adds-478-mw-of-large-scale-solar-in-h1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T10:05:48+00:00"
-  },
-  "ca1350819dbe": {
-    "id": "ca1350819dbe",
-    "title_en": "RWE’s offshore wind earnings soar with higher generation",
-    "title_zh": "RWE的海上风电收益随着发电量的增加而飙升",
-    "url": "https://www.windpowermonthly.com/article/1967301/rwes-offshore-wind-earnings-soar-higher-generation",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-13T09:57:31+00:00"
-  },
-  "e648e0a285b2": {
-    "id": "e648e0a285b2",
-    "title_en": "‘A window to China’: Why energy storage firms are seeking IPOs and courting institutional investors in Hong Kong",
-    "title_zh": "“通往中国的窗口”：为什么储能公司在香港寻求IPO并吸引机构投资者",
-    "url": "https://www.energy-storage.news/a-window-to-china-why-energy-storage-firms-are-seeking-ipos-and-courting-institutional-investors-in-hong-kong/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T09:54:32+00:00"
-  },
-  "02340c95502b": {
-    "id": "02340c95502b",
-    "title_en": "Hithium to supply 421MWh BESS for GPG’s Fraser Coast project in Australia",
-    "title_zh": "Hithium将为GPG在澳大利亚的弗雷泽海岸项目提供421MWh的BESS",
-    "url": "https://www.energy-storage.news/hithium-to-supply-421mwh-bess-for-gpgs-fraser-coast-project-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-13T09:32:22+00:00"
-  },
-  "5fecb87e921a": {
-    "id": "5fecb87e921a",
-    "title_en": "Scatec completes 1 GW/200 MWh solar-plus-storage project in Egypt",
-    "title_zh": "Scatec在埃及完成1GW/200MWh太阳能+储能项目",
-    "url": "https://www.pv-magazine.com/2026/08/13/scatec-completes-1-gw-200-mwh-solar-plus-storage-project-in-egypt/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T09:31:11+00:00"
-  },
-  "6e2dbf628256": {
-    "id": "6e2dbf628256",
-    "title_en": "New Zealand Approves New Oil and Gas Production as Energy Security Concerns Grow",
-    "title_zh": "随着能源安全问题的加剧，新西兰批准了新的石油和天然气生产",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/New-Zealand-Approves-New-Oil-and-Gas-Production-as-Energy-Security-Concerns-Grow.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T09:30:00+00:00"
   }
 }
