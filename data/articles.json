@@ -1,4 +1,58 @@
 {
+  "f2d50fa50dba": {
+    "id": "f2d50fa50dba",
+    "title_en": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
+    "title_zh": "Shapiro在宾夕法尼亚州设定了具有约束力的电网要求，目标是数据中心的电力成本",
+    "url": "https://www.powermag.com/shapiro-sets-binding-grid-requirements-in-pennsylvania-targets-data-center-power-costs/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-20T21:11:56+00:00"
+  },
+  "bed17b5baaae": {
+    "id": "bed17b5baaae",
+    "title_en": "How Solar Panel Prices Fell 90 Percent In 15 Years",
+    "title_zh": "太阳能电池板价格如何在15年内下跌90%",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-Solar-Panel-Prices-Fell-90-Percent-In-15-Years.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T21:00:00+00:00"
+  },
+  "0bcbfe4dd9f8": {
+    "id": "0bcbfe4dd9f8",
+    "title_en": "Tesla confirms Semi electric truck is coming to Europe, reveal at IAA",
+    "title_zh": "特斯拉证实半电动卡车即将进入欧洲，在IAA上透露",
+    "url": "https://electrek.co/2026/08/20/tesla-semi-europe-launch-iaa-transportation/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-20T20:11:48+00:00"
+  },
+  "09a9f814907e": {
+    "id": "09a9f814907e",
+    "title_en": "Europe’s Energy Reserves Worked. The Next Test Will Be Harder",
+    "title_zh": "欧洲的能源储备发挥了作用。下一次测试会更难",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Europes-Energy-Reserves-Worked-The-Next-Test-Will-Be-Harder.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T20:00:00+00:00"
+  },
+  "ae86183c2dc1": {
+    "id": "ae86183c2dc1",
+    "title_en": "Tesla says FSD v15 is a ‘step-change,’ Optimus sells in 2027",
+    "title_zh": "特斯拉表示，FSD v15是一个“重大变革”，Optimus将于2027年上市",
+    "url": "https://electrek.co/2026/08/20/tesla-jpmorgan-fremont-fsd-v15-hw4-optimus-2027/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-20T19:37:11+00:00"
+  },
+  "2cf28d5c5488": {
+    "id": "2cf28d5c5488",
+    "title_en": "Colorado’s largest electric school bus fleet gets a 26-plug charging hub",
+    "title_zh": "科罗拉多州最大的电动校车车队获得了一个26插头的充电中心",
+    "url": "https://electrek.co/2026/08/20/colorados-largest-electric-school-bus-fleet-gets-a-26-plug-charging-hub/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-20T19:18:34+00:00"
+  },
   "6bfb6a05a2dd": {
     "id": "6bfb6a05a2dd",
     "title_en": "China Is Squeezing India Out of Russia’s Oil Trade",
@@ -4444,59 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-14T09:52:57+00:00"
-  },
-  "7a3eaaea19c9": {
-    "id": "7a3eaaea19c9",
-    "title_en": "Partial U.S. eclipse produced similar daily solar energy losses to higher-obscuration European locations",
-    "title_zh": "美国日偏食造成的每日太阳能损失与欧洲遮蔽程度较高的地区相似",
-    "url": "https://www.pv-magazine.com/2026/08/14/partial-u-s-eclipse-produced-similar-daily-solar-energy-losses-to-higher-obscurationeuropean-locations/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T09:48:56+00:00"
-  },
-  "8e74673f97e0": {
-    "id": "8e74673f97e0",
-    "title_en": "FEOC compliance doesn’t end at signing. Here’s where it actually breaks down",
-    "title_zh": "FEOC合规性不会在签署时结束。这就是它真正崩溃的地方",
-    "url": "https://www.pv-tech.org/feoc-compliance-doesnt-end-at-signing-heres-where-it-actually-breaks-down/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T09:34:57+00:00"
-  },
-  "b4f3c3d04fed": {
-    "id": "b4f3c3d04fed",
-    "title_en": "Vikram Solar inaugurates 6 GW solar PV module factory in India",
-    "title_zh": "Vikram Solar在印度开设6吉瓦太阳能光伏组件工厂",
-    "url": "https://www.pv-magazine.com/2026/08/14/vikram-solar-inaugurates-6-gw-solar-pv-module-plant-at-gangaikondan/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T09:34:16+00:00"
-  },
-  "e43dbdcb9db3": {
-    "id": "e43dbdcb9db3",
-    "title_en": "Wind power patents: Windey | Siemens Gamesa | Powerchina | LM Wind Power",
-    "title_zh": "风电专利：Windey |西门子歌美飒|中国电建| LM风电",
-    "url": "https://www.windpowermonthly.com/article/1967389/wind-power-patents-windey-siemens-gamesa-powerchina-lm-wind-power",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-14T09:28:21+00:00"
-  },
-  "1e43d8f63dfa": {
-    "id": "1e43d8f63dfa",
-    "title_en": "Vance Says Cheap Oil and Gas Is Top U.S. Priority in Iran War",
-    "title_zh": "万斯说，廉价的石油和天然气是美国在伊朗战争中的首要任务",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Vance-Says-Cheap-Oil-and-Gas-Is-Top-US-Priority-in-Iran-War.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T09:20:00+00:00"
-  },
-  "e21b5560af32": {
-    "id": "e21b5560af32",
-    "title_en": "‘Multi-day’ energy storage startup Noon Energy makes 1GW US AI infrastructure deployment agreement",
-    "title_zh": "“多日”储能初创公司Noon energy达成1GW美国人工智能基础设施部署协议",
-    "url": "https://www.energy-storage.news/multi-day-energy-storage-startup-noon-energy-makes-1gw-us-ai-infrastructure-deployment-agreement/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-14T09:06:52+00:00"
   }
 }
