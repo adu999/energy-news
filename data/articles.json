@@ -1,4 +1,103 @@
 {
+  "ebd3d4998e9c": {
+    "id": "ebd3d4998e9c",
+    "title_en": "Elevated Oil Prices Push Japan’s Imports to an All-Time High",
+    "title_zh": "油价上涨推动日本进口创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Elevated-Oil-Prices-Push-Japans-Imports-to-an-All-Time-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T06:45:00+00:00"
+  },
+  "6dae7cebeb07": {
+    "id": "6dae7cebeb07",
+    "title_en": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
+    "title_zh": "2GW高压直流输电正在成为标准。网格的其余部分则不是。",
+    "url": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-20T06:31:58+00:00"
+  },
+  "7e2460f20576": {
+    "id": "7e2460f20576",
+    "title_en": "Researchers build 9%-efficient semitransparent organic PV modules with 210 cm² aperture area",
+    "title_zh": "研究人员建造了9%效率的半透明有机光伏组件，孔径面积为210平方厘米",
+    "url": "https://www.pv-magazine.com/2026/08/20/researchers-build-9-efficient-semitransparent-organic-pv-modules-with-210-cm%c2%b2-aperture-area/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T06:03:01+00:00"
+  },
+  "f4f7a9b27a91": {
+    "id": "f4f7a9b27a91",
+    "title_en": "BYD starts sales of 4.8 kW solar kits in Brazil",
+    "title_zh": "比亚迪在巴西开始销售4.8千瓦太阳能套件",
+    "url": "https://www.pv-magazine.com/2026/08/20/byd-comienza-a-vender-kits-solares-de-48-kwp-en-233-concesionarios-en-brasil/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T05:41:18+00:00"
+  },
+  "719765d86e17": {
+    "id": "719765d86e17",
+    "title_en": "Essential system testing every solar project needs for long-term performance",
+    "title_zh": "每个太阳能项目长期性能所需的基本系统测试",
+    "url": "https://www.pv-magazine.com/2026/08/20/essential-system-testing-every-solar-project-needs-for-long-term-performance/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T05:31:48+00:00"
+  },
+  "6084fd1f0b8b": {
+    "id": "6084fd1f0b8b",
+    "title_en": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
+    "title_zh": "海湾供应线断裂，中国炼油厂抢购伊拉克石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T05:30:00+00:00"
+  },
+  "8920391e9a34": {
+    "id": "8920391e9a34",
+    "title_en": "Blocked BESS in Britain: Clearstone’s appeal fails for 150 MW site at Axminster",
+    "title_zh": "英国BESS受阻：Clearstone对Axminster 150兆瓦发电厂的上诉失败",
+    "url": "https://www.pv-magazine.com/2026/08/20/blocked-bess-in-britain-clearstones-appeal-fails-for-150-mw-site-at-axminster/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T05:00:00+00:00"
+  },
+  "6190ded5a77f": {
+    "id": "6190ded5a77f",
+    "title_en": "New materials in the frame",
+    "title_zh": "框架中的新材料",
+    "url": "https://www.pv-magazine.com/2026/08/20/new-materials-in-the-frame/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T04:00:00+00:00"
+  },
+  "95b5d4efdec3": {
+    "id": "95b5d4efdec3",
+    "title_en": "Windlab, Squadron Energy submit 500MW battery storage system for federal assessment in Queensland, Australia",
+    "title_zh": "Windlab，Squadron Energy提交500MW电池储能系统供澳大利亚昆士兰州联邦评估",
+    "url": "https://www.energy-storage.news/windlab-squadron-energy-submit-500mw-battery-storage-system-for-federal-assessment-in-queensland-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-20T03:52:43+00:00"
+  },
+  "b6fbaca909a6": {
+    "id": "b6fbaca909a6",
+    "title_en": "‘One market into many’: AER says battery storage systems are reshaping Australia’s NEM",
+    "title_zh": "“一个市场变成多个市场”：AER表示电池存储系统正在重塑澳大利亚的NEM",
+    "url": "https://www.energy-storage.news/one-market-into-many-aer-says-battery-storage-systems-are-reshaping-australias-nem/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-20T03:50:45+00:00"
+  },
+  "b826c62a74a3": {
+    "id": "b826c62a74a3",
+    "title_en": "SolarAnywhere® Supports Solar PV & Unmanned Flight!",
+    "title_zh": "SolarAnywhere®支持太阳能光伏和无人驾驶飞行！",
+    "url": "https://cleantechnica.com/2026/08/19/solaranywhere-supports-solar-pv-unmanned-flight-2/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-20T03:50:09+00:00"
+  },
   "0d3185ac08bc": {
     "id": "0d3185ac08bc",
     "title_en": "APA to build 104MWh battery storage system for Evolution Mining’s Ernest Henry operations in Australia",
@@ -4399,104 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-13T13:06:29+00:00"
-  },
-  "283c1b2ebb4f": {
-    "id": "283c1b2ebb4f",
-    "title_en": "Ford’s EV pickup is almost here, promising much more than an affordable price tag",
-    "title_zh": "福特的电动皮卡即将上市，承诺的不仅仅是价格实惠",
-    "url": "https://electrek.co/2026/08/13/fords-ev-pickup-arrives-2027-more-than-affordable-price/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-13T13:00:00+00:00"
-  },
-  "07a5fdf4d8f7": {
-    "id": "07a5fdf4d8f7",
-    "title_en": "ForeFront Power installs earth-mounted Erthos solar system in California",
-    "title_zh": "ForeFront Power在加利福尼亚州安装了地面安装的Erthos太阳能系统",
-    "url": "https://www.solarpowerworldonline.com/2026/08/forefront-power-installs-earth-mounted-erthos-solar-system-in-california/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T12:50:32+00:00"
-  },
-  "d326bd483e4b": {
-    "id": "d326bd483e4b",
-    "title_en": "Trina Solar launches typhoon-resistant PV modules rated up to 8,000 Pa",
-    "title_zh": "天合光能推出额定功率高达8000 Pa的抗台风光伏组件",
-    "url": "https://www.pv-magazine.com/2026/08/13/trina-solar-launches-typhoon-resistant-pv-modules-rated-up-to-8000-pa/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T12:50:00+00:00"
-  },
-  "e715a2d0e483": {
-    "id": "e715a2d0e483",
-    "title_en": "India Eyes Two New Sites to Expand Strategic Oil Reserves",
-    "title_zh": "印度着眼于两个新地点以扩大战略石油储备",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-Two-New-Sites-to-Expand-Strategic-Oil-Reserves.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T12:30:00+00:00"
-  },
-  "3f4d70682be1": {
-    "id": "3f4d70682be1",
-    "title_en": "QBE survey finds DC cabling and plug connections are most common causes of PV fires",
-    "title_zh": "QBE调查发现直流电缆和插头连接是光伏火灾最常见的原因",
-    "url": "https://www.pv-magazine.com/2026/08/13/qbe-survey-finds-dc-cabling-and-plug-connections-are-most-common-causes-of-pv-fires/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T12:14:35+00:00"
-  },
-  "0df8ba772e6a": {
-    "id": "0df8ba772e6a",
-    "title_en": "Comstock, OnePlanet reach testing and engineering milestones on US solar recycling lines",
-    "title_zh": "Comstock和OnePlanet在美国太阳能回收线上达到了测试和工程里程碑",
-    "url": "https://www.pv-tech.org/comstock-oneplanet-reach-testing-and-engineering-milestones-on-us-solar-recycling-lines/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T12:04:43+00:00"
-  },
-  "2039d9feca37": {
-    "id": "2039d9feca37",
-    "title_en": "Offshore Wind Project Brings 180 New Jobs to Scottish Highlands",
-    "title_zh": "海上风电项目为苏格兰高地带来180个新工作岗位",
-    "url": "https://www.offshorewind.biz/2026/08/13/offshore-wind-project-brings-180-new-jobs-to-scottish-highlands/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-13T12:03:07+00:00"
-  },
-  "b0c9db818a2b": {
-    "id": "b0c9db818a2b",
-    "title_en": "Solar project execution requires early planning and adaptability",
-    "title_zh": "太阳能项目的执行需要早期规划和适应性",
-    "url": "https://www.solarpowerworldonline.com/2026/08/solar-project-execution-requires-early-planning-and-adaptability/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T12:00:24+00:00"
-  },
-  "f9f4c9b0431f": {
-    "id": "f9f4c9b0431f",
-    "title_en": "Mitsubishi’s large-frame gas turbine backlog reaches 35 GW",
-    "title_zh": "三菱的大型燃气轮机积压量达到35GW",
-    "url": "https://www.utilitydive.com/news/mitsubishi-gas-turbine-backlog-earnings/827761/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-13T12:00:00+00:00"
-  },
-  "46b0730c6064": {
-    "id": "46b0730c6064",
-    "title_en": "Japan’s proposed shading rate for agrivoltaics is unreasonable, says think thank",
-    "title_zh": "think thank表示，日本提出的农业光伏遮阳率是不合理的",
-    "url": "https://www.pv-magazine.com/2026/08/13/japans-proposed-shading-rate-for-agrivoltaics-is-unreasonable-says-think-thank/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-13T11:54:11+00:00"
-  },
-  "c499da6555bc": {
-    "id": "c499da6555bc",
-    "title_en": "Alaska LNG Pipeline Bill Dies in Legislature, Governor Fires Back",
-    "title_zh": "阿拉斯加液化天然气管道法案在立法机构死亡，州长回击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Alaska-LNG-Pipeline-Bill-Dies-in-Legislature-Governor-Fires-Back.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-13T11:30:00+00:00"
   }
 }
