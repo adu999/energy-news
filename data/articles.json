@@ -1,4 +1,58 @@
 {
+  "1eacdca556ed": {
+    "id": "1eacdca556ed",
+    "title_en": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
+    "title_zh": "解锁世界隐藏氢储量的竞赛",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Race-to-Unlock-the-Worlds-Hidden-Hydrogen-Reserves.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T21:00:00+00:00"
+  },
+  "83f1fafdab6a": {
+    "id": "83f1fafdab6a",
+    "title_en": "Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis",
+    "title_zh": "低河流，高风险：欧洲的核冷却危机",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Low-Rivers-High-Stakes-Europes-Nuclear-Cooling-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T20:00:00+00:00"
+  },
+  "b73c25879420": {
+    "id": "b73c25879420",
+    "title_en": "Podcast: Tesla kills Solar Roof, Cybercab launch, Genesis GV90, and more",
+    "title_zh": "播客：特斯拉杀死太阳能屋顶、Cybercab发射、Genesis GV90等",
+    "url": "https://electrek.co/2026/08/21/podcast-tesla-kills-solar-roof-cybercab-launch-genesis-gv90-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-21T19:32:03+00:00"
+  },
+  "063e6b007c04": {
+    "id": "063e6b007c04",
+    "title_en": "Trump turns $500M grant for clean steel into funding for coal furnace",
+    "title_zh": "特朗普将5亿美元的清洁钢铁拨款转化为煤炉资金",
+    "url": "https://www.canarymedia.com/articles/green-steel/trump-clean-steel-grant-coal",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-21T19:30:00+00:00"
+  },
+  "dfb437924e9e": {
+    "id": "dfb437924e9e",
+    "title_en": "Hyundai starts taking orders for $17,700 Ioniq V, but you can’t have it",
+    "title_zh": "现代开始接受17700美元Ioniq V的订单，但你不能拥有它",
+    "url": "https://electrek.co/2026/08/21/hyundai-starts-taking-orders-for-17700-ioniq-v-but-you-cant-have-it/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-21T18:40:35+00:00"
+  },
+  "53c878e30c5b": {
+    "id": "53c878e30c5b",
+    "title_en": "Arevon Brings Nighthawk Energy Storage Project Online in California",
+    "title_zh": "Arevon在加利福尼亚州推出夜鹰储能项目",
+    "url": "https://www.powermag.com/arevon-brings-nighthawk-energy-storage-project-online-in-california/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-21T18:40:34+00:00"
+  },
   "c545530d7c67": {
     "id": "c545530d7c67",
     "title_en": "Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way",
@@ -475,6 +529,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-21T09:54:52+00:00"
+  },
+  "194bcef5a27d": {
+    "id": "194bcef5a27d",
+    "title_en": "Mitsubishi Electric to buy US-based PCI Energy Solutions for $1.4bn",
+    "title_zh": "三菱电机以14亿美元收购美国PCI Energy Solutions",
+    "url": "https://www.energymonitor.ai/news/mitsubishi-electric-to-buy-pci/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-21T09:53:10+00:00"
   },
   "0c7ca1ea0561": {
     "id": "0c7ca1ea0561",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-16T17:00:00+00:00"
-  },
-  "98d36dcd62a2": {
-    "id": "98d36dcd62a2",
-    "title_en": "E-quipment highlight: LiuGong 924FE electric excavator is coming to America",
-    "title_zh": "电子设备亮点：柳工924FE电动挖掘机即将登陆美国",
-    "url": "https://electrek.co/2026/08/16/e-quipment-highlight-liugong-924fe-electric-excavator-is-coming-to-america/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-16T16:11:08+00:00"
-  },
-  "64001bb3d32c": {
-    "id": "64001bb3d32c",
-    "title_en": "First Ferrari Luce EV sells for $40 million, 36x its estimate",
-    "title_zh": "首款法拉利Luce EV售价4000万美元，是其预估的36倍",
-    "url": "https://electrek.co/2026/08/16/ferrari-luce-chassis-0-sells-40-million-record/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-16T15:53:52+00:00"
-  },
-  "1a18304b2095": {
-    "id": "1a18304b2095",
-    "title_en": "The Trillion-Dollar Problem at the Heart of the AI Boom",
-    "title_zh": "人工智能繁荣核心的万亿美元问题",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-16T15:00:00+00:00"
-  },
-  "1d14963e5b0c": {
-    "id": "1d14963e5b0c",
-    "title_en": "New Science Says Scrapping A Working Gas Car For An EV Is Usually Greener",
-    "title_zh": "新科学表明，将工作中的汽油车报废为电动汽车通常更环保",
-    "url": "https://cleantechnica.com/2026/08/16/scrapping-working-gas-car-for-ev-can-be-greener/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-16T11:47:02+00:00"
-  },
-  "693dbfd4bdaa": {
-    "id": "693dbfd4bdaa",
-    "title_en": "350-ton Longking ZL230E is the biggest, baddest battery mining rig you can buy",
-    "title_zh": "350吨龙王ZL230E是你能买到的最大、最坏的电池采矿钻机",
-    "url": "https://electrek.co/2026/08/16/350-ton-longking-zl230e-is-the-biggest-baddest-battery-mining-rig-you-can-buy/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-16T11:15:00+00:00"
-  },
-  "e4b50accf25e": {
-    "id": "e4b50accf25e",
-    "title_en": "Op-Ed: Hiroshi Okuda–The Man Who Saved Toyota by Forcing It to Change",
-    "title_zh": "专栏：大田弘治-通过迫使丰田改变来拯救丰田的人",
-    "url": "https://cleantechnica.com/2026/08/16/op-ed-hiroshi-okuda-the-man-who-saved-toyota-by-forcing-it-to-change/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-16T09:56:43+00:00"
-  },
-  "b08d59e5b6a3": {
-    "id": "b08d59e5b6a3",
-    "title_en": "I watched Vietnam Fall for the VinFast VF 3",
-    "title_zh": "我为VinFast VF 3观看了《越南沦陷》",
-    "url": "https://cleantechnica.com/2026/08/16/i-watched-vietnam-fall-for-the-vinfast-vf-3/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-16T05:20:42+00:00"
   }
 }
