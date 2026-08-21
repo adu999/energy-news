@@ -1,4 +1,85 @@
 {
+  "b4ccfbb3c6fc": {
+    "id": "b4ccfbb3c6fc",
+    "title_en": "Sunrun Shifts Away from Affiliates to Direct Sales",
+    "title_zh": "Sunrun从附属公司转向直销",
+    "url": "https://cleantechnica.com/2026/08/20/sunrun-shifts-away-from-affiliates-to-direct-sales/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T00:38:41+00:00"
+  },
+  "e921642a7953": {
+    "id": "e921642a7953",
+    "title_en": "TVA Approves Gas-Powered Data Center Plan",
+    "title_zh": "TVA批准燃气数据中心计划",
+    "url": "https://cleantechnica.com/2026/08/20/tva-approves-gas-powered-data-center-plan/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T00:04:50+00:00"
+  },
+  "8fae0d75bfb8": {
+    "id": "8fae0d75bfb8",
+    "title_en": "Brazil’s New Oil Frontier Could Keep Its Boom Alive For Decades",
+    "title_zh": "巴西的新石油前沿可能会使其繁荣持续数十年",
+    "url": "https://oilprice.com/Energy/Energy-General/Brazils-New-Oil-Frontier-Could-Keep-Its-Boom-Alive-For-Decades.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T00:00:00+00:00"
+  },
+  "fc92286154de": {
+    "id": "fc92286154de",
+    "title_en": "California Solar Power Bills Move Forward to Support Balcony Solar, Community Solar, and VPPs",
+    "title_zh": "加州太阳能法案向前推进，支持阳台太阳能、社区太阳能和VPP",
+    "url": "https://cleantechnica.com/2026/08/20/california-solar-power-bills-move-forward-to-support-balcony-solar-community-solar-and-vpps/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-20T23:28:25+00:00"
+  },
+  "0be0e6bc1bd8": {
+    "id": "0be0e6bc1bd8",
+    "title_en": "Houthis Move to Gain Complete Control Over Crucial Bab el-Mandeb Oil Chokepoint",
+    "title_zh": "胡塞武装将完全控制曼德油田的关键瓶颈",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Move-to-Gain-Complete-Control-Over-Crucial-Bab-el-Mandeb-Oil-Chokepoint.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T23:00:00+00:00"
+  },
+  "efe9ec531848": {
+    "id": "efe9ec531848",
+    "title_en": "Renewables growth eases pressure in Australia’s wholesale electricity market, AER finds",
+    "title_zh": "AER发现，可再生能源的增长缓解了澳大利亚批发电力市场的压力",
+    "url": "https://www.pv-tech.org/renewables-growth-eases-pressure-in-australias-wholesale-electricity-market-aer-finds/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-20T22:49:59+00:00"
+  },
+  "24dd3cd2ab68": {
+    "id": "24dd3cd2ab68",
+    "title_en": "Are conventional BESS degradation guarantees restricting asset value?",
+    "title_zh": "传统的BESS退化保证是否限制了资产价值？",
+    "url": "https://www.energy-storage.news/are-conventional-bess-degradation-guarantees-restricting-asset-value/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-20T22:16:04+00:00"
+  },
+  "68776180aee0": {
+    "id": "68776180aee0",
+    "title_en": "Hormuz Oil Crisis Accelerates Global EV Sales",
+    "title_zh": "霍尔木兹石油危机加速全球电动汽车销售",
+    "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Oil-Crisis-Accelerates-Global-EV-Sales.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T22:00:00+00:00"
+  },
+  "b819ddcf92ec": {
+    "id": "b819ddcf92ec",
+    "title_en": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
+    "title_zh": "华盛顿放松汽油规则，因为伊朗的压力运动刺激了燃料成本",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Washington-Eases-Gasoline-Rules-as-Iran-Pressure-Campaign-Jolts-Fuel-Costs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-20T21:30:00+00:00"
+  },
   "f2d50fa50dba": {
     "id": "f2d50fa50dba",
     "title_en": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
@@ -15,6 +96,15 @@
     "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-Solar-Panel-Prices-Fell-90-Percent-In-15-Years.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-08-20T21:00:00+00:00"
+  },
+  "4ab12523bd0f": {
+    "id": "4ab12523bd0f",
+    "title_en": "PJM wants data centers to bring their own power. Pennsylvania’s on it.",
+    "title_zh": "PJM希望数据中心能够自带电源。宾夕法尼亚州在上面。",
+    "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-08-20T21:00:00+00:00"
   },
   "0bcbfe4dd9f8": {
@@ -4408,95 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-14T11:20:11+00:00"
-  },
-  "7c0de1023140": {
-    "id": "7c0de1023140",
-    "title_en": "T1 Energy reports US$250 million Q2 sales",
-    "title_zh": "T1 Energy报告第二季度销售额为2.5亿美元",
-    "url": "https://www.pv-tech.org/t1-energy-reports-us250-million-q2-sales/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T11:11:36+00:00"
-  },
-  "11e3c9a776bf": {
-    "id": "11e3c9a776bf",
-    "title_en": "KIT develops hybrid solar system with radiative cooling",
-    "title_zh": "KIT开发了具有辐射冷却的混合太阳能系统",
-    "url": "https://www.pv-magazine.com/2026/08/14/kit-develops-hybrid-solar-system-with-radiative-cooling/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T11:07:26+00:00"
-  },
-  "ad7673027e87": {
-    "id": "ad7673027e87",
-    "title_en": "Chinese PV Industry Brief: Longi plans 100 MW perovskite-silicon tandem solar cell pilot line",
-    "title_zh": "中国光伏产业简报：隆基计划100兆瓦钙钛矿硅叠层太阳能电池试点生产线",
-    "url": "https://www.pv-magazine.com/2026/08/14/chinese-pv-industry-brief-longi-plans-100-mw-perovskite-silicon-tandem-solar-cell-pilot-line/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T10:54:19+00:00"
-  },
-  "ed9dd5ddb0e4": {
-    "id": "ed9dd5ddb0e4",
-    "title_en": "What makes women join, stay and progress in Solar+?",
-    "title_zh": "是什么让女性加入、留在Solar+并取得进步？",
-    "url": "https://www.pv-magazine.com/2026/08/14/what-makes-women-join-stay-and-progress-in-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T10:42:11+00:00"
-  },
-  "09c1e59e683a": {
-    "id": "09c1e59e683a",
-    "title_en": "DEWA study assesses PV cleaning robot performance and safety",
-    "title_zh": "迪拜水电局的研究评估了光伏清洁机器人的性能和安全性",
-    "url": "https://www.pv-magazine.com/2026/08/14/dewa-study-assesses-pv-cleaning-robot-performance-and-safety/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T10:35:50+00:00"
-  },
-  "800e22f5545e": {
-    "id": "800e22f5545e",
-    "title_en": "Trump’s Gift To Coal Miners: Less Coal Jobs, More Black Lung Disease",
-    "title_zh": "特朗普给煤矿工人的礼物：更少的煤炭工作，更多的黑肺病",
-    "url": "https://cleantechnica.com/2026/08/14/coal-jobs-black-lung-disease-niosh-doge-cutbacks-elon-musk-trump/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-14T10:29:13+00:00"
-  },
-  "133b51ed61b8": {
-    "id": "133b51ed61b8",
-    "title_en": "Middle East Oil Tankers Are Going Dark for Longer",
-    "title_zh": "中东油轮的黑暗时间更长",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Tankers-Are-Going-Dark-for-Longer.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T10:25:00+00:00"
-  },
-  "1482aa256a6f": {
-    "id": "1482aa256a6f",
-    "title_en": "Scottish leader urges UK to rethink Mingyang wind factory rejection – media reports",
-    "title_zh": "苏格兰领导人敦促英国重新考虑明阳风电场的拒绝——媒体报道",
-    "url": "https://www.windpowermonthly.com/article/1967404/scottish-leader-urges-uk-rethink-mingyang-wind-factory-rejection-%E2%80%93-media-reports",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-14T10:04:13+00:00"
-  },
-  "6b6ed83553d3": {
-    "id": "6b6ed83553d3",
-    "title_en": "Noon Energy and Sabanci Renewables plan 1GW ultra-LDES project",
-    "title_zh": "Noon Energy和Sabanci Renewables计划1GW超低密度电力系统项目",
-    "url": "https://www.energymonitor.ai/news/noon-sabanci-ultra-ldes-project/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-14T09:59:15+00:00"
-  },
-  "a8fdc802acdd": {
-    "id": "a8fdc802acdd",
-    "title_en": "PVFarm rolls out RE STACK software for utility-scale BESS planning",
-    "title_zh": "PVFarm推出用于公用事业规模BESS规划的RE STACK软件",
-    "url": "https://www.pv-magazine.com/2026/08/14/pvfarm-rolls-out-re-stack-software-for-utility-scale-bess-planning/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T09:52:57+00:00"
   }
 }
