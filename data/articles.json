@@ -1,4 +1,67 @@
 {
+  "41b5d3072366": {
+    "id": "41b5d3072366",
+    "title_en": "Australia’s Beetaloo Shale Basin Is About to Start Pumping Gas",
+    "title_zh": "澳大利亚Beetaloo页岩盆地即将开始抽气",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australias-Beetaloo-Shale-Basin-Is-About-to-Start-Pumping-Gas.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T06:45:00+00:00"
+  },
+  "65001aea5333": {
+    "id": "65001aea5333",
+    "title_en": "Poland Created Hydrogen Bus Demand. Polenergia Still Walked Away From Supply.",
+    "title_zh": "波兰创造了氢公交车需求。Polenergia仍然没有供应。",
+    "url": "https://cleantechnica.com/2026/08/21/poland-hydrogen-bus-demand-polenergia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T06:39:39+00:00"
+  },
+  "beeec99fc66d": {
+    "id": "beeec99fc66d",
+    "title_en": "Air bubbles boost cooling and hydrogen production in photovoltaic-thermal system",
+    "title_zh": "气泡促进光伏热系统的冷却和氢气生产",
+    "url": "https://www.pv-magazine.com/2026/08/21/air-bubbles-boost-cooling-and-hydrogen-production-in-photovoltaic-thermal-system/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T05:49:35+00:00"
+  },
+  "1df2bfbc6f93": {
+    "id": "1df2bfbc6f93",
+    "title_en": "Bangladesh mandates solar charging for millions of electric rickshaws",
+    "title_zh": "孟加拉国强制数百万辆电动人力车使用太阳能充电",
+    "url": "https://www.pv-magazine.com/2026/08/21/bangladesh-mandates-solar-charging-for-millions-of-electric-rickshaws/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T05:41:20+00:00"
+  },
+  "6f7cb6795786": {
+    "id": "6f7cb6795786",
+    "title_en": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount",
+    "title_zh": "随着伊朗风险上升，油价将连续第二周上涨",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Straight-Weekly-Gain-as-Iran-Risks-Mount.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T05:30:00+00:00"
+  },
+  "d679f0401f5e": {
+    "id": "d679f0401f5e",
+    "title_en": "Report alleges U.S. solar recycling is mostly landfilling, offshoring in disguise",
+    "title_zh": "报告称，美国的太阳能回收主要是填埋，伪装成离岸外包",
+    "url": "https://www.pv-magazine.com/2026/08/21/bombshell-report-alleges-u-s-solar-recycling-is-mostly-landfilling-offshoring-in-disguise/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T05:04:02+00:00"
+  },
+  "4ee017156121": {
+    "id": "4ee017156121",
+    "title_en": "Solar powerhouse to storage leader",
+    "title_zh": "太阳能发电厂成为储能领导者",
+    "url": "https://www.pv-magazine.com/2026/08/21/solar-powerhouse-to-storage-leader/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T04:00:00+00:00"
+  },
   "60adbe3c46f3": {
     "id": "60adbe3c46f3",
     "title_en": "Tesla discontinues its Solar Roof tiles, not economically viable",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-14T13:30:00+00:00"
-  },
-  "7969b4f9ea8f": {
-    "id": "7969b4f9ea8f",
-    "title_en": "Mainstream Renewable Power’s 50MW C&I Ilikwa PV facility reaches commercial operation",
-    "title_zh": "主流可再生能源公司的50MW C&I Ilikwa光伏设施投入商业运营",
-    "url": "https://www.pv-tech.org/mainstream-renewable-powers-50mw-c-i-ilikwa-pv-facility-reaches-commercial-operation/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T13:21:38+00:00"
-  },
-  "f073b52c5a5f": {
-    "id": "f073b52c5a5f",
-    "title_en": "‘Data accuracy is one of the most important things’: enSights CEO on BESS economics in PJM",
-    "title_zh": "“数据准确性是最重要的事情之一”：enSight首席执行官谈PJM的BESS经济学",
-    "url": "https://www.energy-storage.news/data-accuracy-is-one-of-the-most-important-things-ensights-ceo-on-bess-economics-in-pjm/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-14T13:13:58+00:00"
-  },
-  "de1ff92e0859": {
-    "id": "de1ff92e0859",
-    "title_en": "FERC approves TransAlta, PowerTransitions gas-fired power plant deals",
-    "title_zh": "联邦能源管理委员会批准TransAlta和PowerTransitions燃气发电厂交易",
-    "url": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-14T13:02:30+00:00"
-  },
-  "784b1d38b128": {
-    "id": "784b1d38b128",
-    "title_en": "Aira EV Drives 68% of Wuling Orders at GIIAS 2026",
-    "title_zh": "Aira EV在GIIAS 2026上推动了武陵68%的订单",
-    "url": "https://cleantechnica.com/2026/08/14/aira-ev-drives-68-of-wuling-orders-at-giias-2026/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-14T12:46:14+00:00"
-  },
-  "3d19f633466d": {
-    "id": "3d19f633466d",
-    "title_en": "The Hydrogen Stream: Commissioning begins for 2.2 GW Neom H2 project in Saudi Arabia",
-    "title_zh": "氢流：沙特阿拉伯2.2吉瓦Neom H2项目开始调试",
-    "url": "https://www.pv-magazine.com/2026/08/14/the-hydrogen-stream-commissioning-begins-for-2-2-gw-neom-h2-project-in-saudi-arabia/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T12:43:37+00:00"
-  },
-  "804f1a8ddbef": {
-    "id": "804f1a8ddbef",
-    "title_en": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
-    "title_zh": "当热量成为压力测试时：极端温度对光伏系统和电池存储意味着什么",
-    "url": "https://www.pv-magazine.com/2026/08/14/when-heat-becomes-a-stress-test-what-extreme-temperatures-mean-for-photovoltaic-systems-and-battery-storage/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T12:37:02+00:00"
-  },
-  "135e1dbdb18d": {
-    "id": "135e1dbdb18d",
-    "title_en": "Wheel-E Podcast: Rivan bike coming, ‘free’ e-bikes, more",
-    "title_zh": "Wheel-E播客：Rivan自行车即将推出，“免费”电动自行车，更多",
-    "url": "https://electrek.co/2026/08/14/wheel-e-podcast-rivan-bike-coming-free-e-bikes-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-14T12:34:37+00:00"
   }
 }
