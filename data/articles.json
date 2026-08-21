@@ -1,4 +1,67 @@
 {
+  "60adbe3c46f3": {
+    "id": "60adbe3c46f3",
+    "title_en": "Tesla discontinues its Solar Roof tiles, not economically viable",
+    "title_zh": "特斯拉停止生产太阳能屋顶瓦片，在经济上不可行",
+    "url": "https://electrek.co/2026/08/20/tesla-discontinues-solar-roof-panels-only/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-21T03:44:23+00:00"
+  },
+  "130a26d5bf16": {
+    "id": "130a26d5bf16",
+    "title_en": "SA Power Networks to test emergency solar shutdown capability across South Australia",
+    "title_zh": "南澳大利亚电力网络将测试南澳大利亚州的紧急太阳能关闭能力",
+    "url": "https://www.pv-tech.org/sa-power-networks-to-test-emergency-solar-shutdown-capability-across-south-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T03:32:53+00:00"
+  },
+  "69b605b97067": {
+    "id": "69b605b97067",
+    "title_en": "Australia extends capital gains tax concession for foreign renewables investors to 2040",
+    "title_zh": "澳大利亚将外国可再生能源投资者的资本利得税优惠延长至2040年",
+    "url": "https://www.pv-tech.org/australia-extends-capital-gains-tax-concession-for-foreign-renewables-investors-to-2040/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T03:31:30+00:00"
+  },
+  "9d424462064c": {
+    "id": "9d424462064c",
+    "title_en": "Australia’s Allegro Energy partners with Jena Batteries to scale microemulsion flow battery manufacturing",
+    "title_zh": "澳大利亚Allegro Energy与Jena Batteries合作扩大微乳液液流电池制造规模",
+    "url": "https://www.energy-storage.news/australias-allegro-energy-partners-with-jena-batteries-to-scale-microemulsion-flow-battery-manufacturing/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-21T03:26:34+00:00"
+  },
+  "b6298bae427a": {
+    "id": "b6298bae427a",
+    "title_en": "Princeton Critical Minerals Raises $16M to Scale Lithium Production Technologies",
+    "title_zh": "普林斯顿关键矿物公司筹集1600万美元扩大锂生产技术规模",
+    "url": "https://cleantechnica.com/2026/08/20/princeton-critical-minerals-raises-16m-to-scale-lithium-production-technologies/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T02:31:34+00:00"
+  },
+  "32109e88fed6": {
+    "id": "32109e88fed6",
+    "title_en": "Waymo Fully Launches Robotaxi Service in Houston",
+    "title_zh": "Waymo在休斯顿全面推出Robotaxi服务",
+    "url": "https://cleantechnica.com/2026/08/20/waymo-fully-launches-robotaxi-service-in-houston/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T02:17:10+00:00"
+  },
+  "608e888bc1d2": {
+    "id": "608e888bc1d2",
+    "title_en": "Waymo — “A look under our trunk: what’s in our compute”",
+    "title_zh": "Waymo——“看看我们后备箱下面：我们的电脑里有什么”",
+    "url": "https://cleantechnica.com/2026/08/20/waymo-a-look-under-our-trunk-whats-in-our-compute/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T01:38:46+00:00"
+  },
   "b4ccfbb3c6fc": {
     "id": "b4ccfbb3c6fc",
     "title_en": "Sunrun Shifts Away from Affiliates to Direct Sales",
@@ -4435,68 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-14T12:34:37+00:00"
-  },
-  "e3a44da40103": {
-    "id": "e3a44da40103",
-    "title_en": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil",
-    "title_zh": "霍尔木兹危机促使亚洲炼油厂转向美国石油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Pushes-Asian-Refiners-Toward-US-Oil.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T12:30:00+00:00"
-  },
-  "2085fcdfe480": {
-    "id": "2085fcdfe480",
-    "title_en": "Oil Traders Reprice Hormuz Risk as Demand Outlook Deteriorates",
-    "title_zh": "随着需求前景恶化，石油交易商重新评估霍尔木兹风险",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Traders-Reprice-Hormuz-Risk-as-Demand-Outlook-Deteriorates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T12:00:00+00:00"
-  },
-  "2558e4558b1b": {
-    "id": "2558e4558b1b",
-    "title_en": "Fallout Spreads Across the Middle East as the Iran War Grinds On",
-    "title_zh": "随着伊朗战争的持续，辐射在中东蔓延",
-    "url": "https://oilprice.com/Energy/Energy-General/Fallout-Spreads-Across-the-Middle-East-as-the-Iran-War-Grinds-On.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T12:00:00+00:00"
-  },
-  "25b242c58102": {
-    "id": "25b242c58102",
-    "title_en": "Syria’s Oil Revival Is Weakening Russia’s Influence in the Country",
-    "title_zh": "叙利亚的石油复兴削弱了俄罗斯在该国的影响力",
-    "url": "https://oilprice.com/Energy/Energy-General/Syrias-Oil-Revival-Is-Weakening-Russias-Influence-in-the-Country.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T12:00:00+00:00"
-  },
-  "07e705c682bc": {
-    "id": "07e705c682bc",
-    "title_en": "Semco Maritime Sells Offshore Wind Jack-Ups to HEA Energy",
-    "title_zh": "Semco Maritime向HEA Energy出售海上风力自升式钻井平台",
-    "url": "https://www.offshorewind.biz/2026/08/14/semco-maritime-sells-offshore-wind-jack-ups-to-hea-energy/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-14T11:46:18+00:00"
-  },
-  "16a07f769b56": {
-    "id": "16a07f769b56",
-    "title_en": "Drone Strike Sparks Blaze at Key Russian Oil and Fuel Terminal",
-    "title_zh": "无人机袭击俄罗斯主要石油和燃料码头",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Sparks-Blaze-at-Key-Russian-Oil-and-Fuel-Terminal.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T11:30:00+00:00"
-  },
-  "f9e2d3f0952e": {
-    "id": "f9e2d3f0952e",
-    "title_en": "SMA Solar boosts sales and earnings in H1 2026",
-    "title_zh": "SMA Solar在2026年上半年提高了销售额和收益",
-    "url": "https://www.pv-tech.org/sma-solar-boosts-sales-and-earnings-in-h1-2026/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T11:20:11+00:00"
   }
 }
