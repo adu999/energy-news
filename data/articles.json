@@ -1,4 +1,94 @@
 {
+  "f46d65aa242c": {
+    "id": "f46d65aa242c",
+    "title_en": "Romania proceeds with first grid capacity auction",
+    "title_zh": "罗马尼亚启动首次电网容量拍卖",
+    "url": "https://www.pv-magazine.com/2026/08/21/romania-proceeds-with-first-grid-capacity-auction/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T09:30:26+00:00"
+  },
+  "513071f1f58e": {
+    "id": "513071f1f58e",
+    "title_en": "Despite record U.S. heat in July, North American irradiance remains near average",
+    "title_zh": "尽管美国7月份创纪录高温，但北美辐照度仍接近平均水平",
+    "url": "https://www.pv-magazine.com/2026/08/21/despite-record-u-s-heat-in-july-north-american-irradiance-remains-near-average/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T09:25:04+00:00"
+  },
+  "237205220137": {
+    "id": "237205220137",
+    "title_en": "Iranian Oil Supply to China Is Rapidly Drying Up",
+    "title_zh": "伊朗对中国的石油供应正在迅速枯竭",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Oil-Supply-to-China-Is-Rapidly-Drying-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T09:15:00+00:00"
+  },
+  "55217326ae0a": {
+    "id": "55217326ae0a",
+    "title_en": "Solar recycler flags certification gap, reuse market concerns",
+    "title_zh": "太阳能回收商标记认证缺口，再利用市场担忧",
+    "url": "https://www.pv-magazine.com/2026/08/21/solar-recycler-flags-certification-gap-reuse-market-concerns/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T09:09:03+00:00"
+  },
+  "693715f70d10": {
+    "id": "693715f70d10",
+    "title_en": "How to protect solar assets from wildfires",
+    "title_zh": "如何保护太阳能资产免受野火的影响",
+    "url": "https://www.pv-magazine.com/2026/08/21/how-to-protect-solar-assets-from-wildfires/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T08:18:32+00:00"
+  },
+  "565258032c3d": {
+    "id": "565258032c3d",
+    "title_en": "China’s Oil Imports Set to Rebound as Refiners Hunt for New Supply",
+    "title_zh": "随着炼油厂寻求新的供应，中国的石油进口将反弹",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-Set-to-Rebound-as-Refiners-Hunt-for-New-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T08:00:00+00:00"
+  },
+  "6d57f0d520c7": {
+    "id": "6d57f0d520c7",
+    "title_en": "Chinese Offshore Wind Foundation Manufacturer Inks MoU with Scotland’s Ardersier Port",
+    "title_zh": "中国海上风电基础制造商与苏格兰Ardersier港签署谅解备忘录",
+    "url": "https://www.offshorewind.biz/2026/08/21/chinese-offshore-wind-foundation-manufacturer-inks-mou-with-scotlands-ardersier-port/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-21T07:58:23+00:00"
+  },
+  "c458cf06b174": {
+    "id": "c458cf06b174",
+    "title_en": "EU adopts budget-flexibility guidelines for photovoltaics, heat pumps, and BESS",
+    "title_zh": "欧盟通过了光伏、热泵和BESS的预算灵活性指南",
+    "url": "https://www.pv-magazine.com/2026/08/21/eu-adopts-budget-flexibility-guidelines-for-photovoltaics-heat-pumps-and-bess/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T07:49:21+00:00"
+  },
+  "d0f304eb8011": {
+    "id": "d0f304eb8011",
+    "title_en": "China TOPCon cell prices jump on firmer upstream sentiment and rising export demand",
+    "title_zh": "中国TOPCon电池价格因上游市场信心增强和出口需求上升而上涨",
+    "url": "https://www.pv-magazine.com/2026/08/21/china-topcon-cell-prices-jump-on-firmer-upstream-sentiment-and-rising-export-demand/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-21T07:37:56+00:00"
+  },
+  "9de539cd9084": {
+    "id": "9de539cd9084",
+    "title_en": "Solar and storage still dominate US power plant construction",
+    "title_zh": "太阳能和储能仍然主导着美国的发电厂建设",
+    "url": "https://www.canarymedia.com/articles/clean-energy/solar-storage-dominate-us-power-construction",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-21T07:30:00+00:00"
+  },
   "41b5d3072366": {
     "id": "41b5d3072366",
     "title_en": "Australia’s Beetaloo Shale Basin Is About to Start Pumping Gas",
@@ -4408,95 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-08-14T14:40:05+00:00"
-  },
-  "ab9731cfb825": {
-    "id": "ab9731cfb825",
-    "title_en": "Lucid launches ‘America’s most powerful 3-row SUV’ with over 1,000 hp [Images]",
-    "title_zh": "Lucid推出“美国最强大的3排SUV”，功率超过1000马力[图片]",
-    "url": "https://electrek.co/2026/08/14/lucid-launches-americas-most-powerful-3-row-suv-1000-hp/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-14T14:36:53+00:00"
-  },
-  "499c51bc1fcc": {
-    "id": "499c51bc1fcc",
-    "title_en": "Recurrent Energy bags US$695 million for 330MW California solar project",
-    "title_zh": "Recurrent Energy为330兆瓦的加州太阳能项目筹集了6.95亿美元",
-    "url": "https://www.pv-tech.org/recurrent-energy-bags-us695-million-for-330mw-california-solar-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-14T14:30:00+00:00"
-  },
-  "ea23157e860b": {
-    "id": "ea23157e860b",
-    "title_en": "Kazakhstan Accuses Big Oil of $10.7 Billion Corruption in Kashagan Oil Project",
-    "title_zh": "哈萨克斯坦指责大型石油公司在卡沙干石油项目中腐败107亿美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Accuses-Big-Oil-of-107-Billion-Corruption-in-Kashagan-Oil-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T14:30:00+00:00"
-  },
-  "2956514e7b24": {
-    "id": "2956514e7b24",
-    "title_en": "TerraPower expands cooperation with Korean partners",
-    "title_zh": "TerraPower扩大与韩国合作伙伴的合作",
-    "url": "https://www.world-nuclear-news.org/articles/terrapower-expands-cooperation-with-korean-partners",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-08-14T14:23:58+00:00"
-  },
-  "d8c525549b8e": {
-    "id": "d8c525549b8e",
-    "title_en": "Ferrari CZ26: what if the Luce had a baby with a SF90",
-    "title_zh": "法拉利CZ26：如果卢斯有一个SF90的孩子怎么办",
-    "url": "https://electrek.co/2026/08/14/ferrari-cz26-one-off-luce-design-sf90-hybrid/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-14T14:13:01+00:00"
-  },
-  "85e45a2fa004": {
-    "id": "85e45a2fa004",
-    "title_en": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
-    "title_zh": "问：中国第十五个五年煤炭计划对气候行动意味着什么？",
-    "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-08-14T14:09:31+00:00"
-  },
-  "94fd4dc64326": {
-    "id": "94fd4dc64326",
-    "title_en": "Iran’s Economy Is Buckling Under the Weight of War",
-    "title_zh": "伊朗经济在战争的重压下摇摇欲坠",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T14:00:00+00:00"
-  },
-  "853b24f063c3": {
-    "id": "853b24f063c3",
-    "title_en": "The draconian New Jersey e-bike laws had exactly the effect everyone feared",
-    "title_zh": "新泽西州严厉的电动自行车法律产生了每个人都担心的效果",
-    "url": "https://electrek.co/2026/08/14/the-draconian-new-jersey-e-bike-laws-had-exactly-the-effect-everyone-feared/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-14T13:42:00+00:00"
-  },
-  "871cf6134595": {
-    "id": "871cf6134595",
-    "title_en": "Can Tesla’s Brand Reputation Sink Any Lower?",
-    "title_zh": "特斯拉的品牌声誉会下降吗？",
-    "url": "https://cleantechnica.com/2026/08/14/elon-musk-monument-cards-humanity-gao-report-doge/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-14T13:30:42+00:00"
-  },
-  "a835520e6c9e": {
-    "id": "a835520e6c9e",
-    "title_en": "India's Coal Demand Set to Hit 1.6 Billion Tons by 2030",
-    "title_zh": "到2030年，印度的煤炭需求将达到16亿吨",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Demand-Set-to-Hit-16-Billion-Tons-by-2030.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-14T13:30:00+00:00"
   }
 }
