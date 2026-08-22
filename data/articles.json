@@ -1,4 +1,58 @@
 {
+  "0343bf8cd3e2": {
+    "id": "0343bf8cd3e2",
+    "title_en": "ICYMI: Enbridge’s Line 5 Has Another Frac Out As Reroute Challenge And Intimidation Concerns Escalate",
+    "title_zh": "ICYMI:Enbridge的5号线再次发生故障，因为改道挑战和恐吓担忧升级",
+    "url": "https://cleantechnica.com/2026/08/21/icymi-enbridges-line-5-has-another-frac-out-as-reroute-challenge-and-intimidation-concerns-escalate/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T00:45:44+00:00"
+  },
+  "d76fd05b4b92": {
+    "id": "d76fd05b4b92",
+    "title_en": "Cleveland-Cliffs Redirects Half a Billion Dollars in Clean Steel Funding to Coal at Middletown Works",
+    "title_zh": "Cleveland Cliffs将5亿美元的清洁钢铁资金转向Middleton Works的煤炭",
+    "url": "https://cleantechnica.com/2026/08/21/cleveland-cliffs-redirects-half-a-billion-dollars-in-clean-steel-funding-to-coal-at-middletown-works/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T00:34:28+00:00"
+  },
+  "906c03574d5a": {
+    "id": "906c03574d5a",
+    "title_en": "Hyundai EV Owners Get 20% Discount On Fast Charging",
+    "title_zh": "现代电动汽车车主快速充电可享受20%的折扣",
+    "url": "https://cleantechnica.com/2026/08/21/hyundai-ev-owners-get-20-discount-on-fast-charging/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T00:24:42+00:00"
+  },
+  "b60be36cd59b": {
+    "id": "b60be36cd59b",
+    "title_en": "Bill McKibben Explores The AI Dystopia",
+    "title_zh": "Bill McKibben探索人工智能反乌托邦",
+    "url": "https://cleantechnica.com/2026/08/21/bill-mckibben-explores-the-ai-dystopia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T22:13:43+00:00"
+  },
+  "9249406150d2": {
+    "id": "9249406150d2",
+    "title_en": "The Yewt & Minivan Roadshow",
+    "title_zh": "Yewt&Minivan路演",
+    "url": "https://cleantechnica.com/2026/08/21/the-yewt-minivan-roadshow/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-21T22:03:14+00:00"
+  },
+  "cff3b8f2384b": {
+    "id": "cff3b8f2384b",
+    "title_en": "China's New Five-Year Plan Preps the Nation for Peak Oil",
+    "title_zh": "中国新五年计划为石油峰值做好准备",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Chinas-New-Five-Year-Plan-Preps-the-Nation-for-Peak-Oil.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-21T22:00:00+00:00"
+  },
   "1eacdca556ed": {
     "id": "1eacdca556ed",
     "title_en": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
@@ -4444,59 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-17T01:24:30+00:00"
-  },
-  "00bfa882150b": {
-    "id": "00bfa882150b",
-    "title_en": "Australia’s Cheaper Home Batteries Program officially passes 500,000 installations",
-    "title_zh": "澳大利亚廉价家用电池计划正式通过50万次安装",
-    "url": "https://www.energy-storage.news/australias-cheaper-home-batteries-program-officially-passes-500000-installations/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-17T01:19:21+00:00"
-  },
-  "ec5a8715a3ce": {
-    "id": "ec5a8715a3ce",
-    "title_en": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
-    "title_zh": "中东石油流量是否如美国所声称的那样反弹至1500万桶/日？",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-16T23:00:00+00:00"
-  },
-  "fda2a85e8090": {
-    "id": "fda2a85e8090",
-    "title_en": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
-    "title_zh": "欧洲的天然气储存危机在供暖季节到来之前加剧",
-    "url": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-16T21:00:00+00:00"
-  },
-  "df3618583a5a": {
-    "id": "df3618583a5a",
-    "title_en": "Oil Majors Reap $93 Billion Windfall From the Iran War",
-    "title_zh": "石油巨头从伊朗战争中获得930亿美元的意外之财",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-16T19:00:00+00:00"
-  },
-  "9f45a206505a": {
-    "id": "9f45a206505a",
-    "title_en": "JLR’s new Freelander 8 takes off with 10,000 orders in first 48 hours",
-    "title_zh": "捷豹路虎的新款路虎神行者8在头48小时内就接到了10000个订单",
-    "url": "https://electrek.co/2026/08/16/jlrs-new-freelander-8-takes-off-with-10000-orders-in-first-48-hours/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-16T17:43:56+00:00"
-  },
-  "dda7f024cfbe": {
-    "id": "dda7f024cfbe",
-    "title_en": "AI Set to Extend Fossil Fuel Dominance",
-    "title_zh": "人工智能将扩大化石燃料的主导地位",
-    "url": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-16T17:00:00+00:00"
   }
 }
