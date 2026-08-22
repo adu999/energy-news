@@ -1,4 +1,31 @@
 {
+  "154af32dac40": {
+    "id": "154af32dac40",
+    "title_en": "The ICE Meltdown Continues — July’s China EV Sales Report (44% BEV Share)",
+    "title_zh": "ICE的崩溃仍在继续——7月份中国电动汽车销售报告（44%的纯电动汽车份额）",
+    "url": "https://cleantechnica.com/2026/08/22/the-ice-meltdown-continues-julys-china-ev-sales-report-44-bev-share/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T18:08:50+00:00"
+  },
+  "3fad47ebf341": {
+    "id": "3fad47ebf341",
+    "title_en": "Every Chokepoint That Isn't Hormuz",
+    "title_zh": "不是霍尔木兹的每个窒息点",
+    "url": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-22T17:00:00+00:00"
+  },
+  "2b8631b94f5a": {
+    "id": "2b8631b94f5a",
+    "title_en": "Ed Darmanin’s Big Lap — Part 2: Sydney to Broome",
+    "title_zh": "Ed Darmanin的大圈——第二部分：悉尼到布鲁姆",
+    "url": "https://cleantechnica.com/2026/08/22/ed-darmanins-big-lap-part-2-sydney-to-broome/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T15:22:15+00:00"
+  },
   "376691d67857": {
     "id": "376691d67857",
     "title_en": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-17T06:50:25+00:00"
-  },
-  "9e04464cdc28": {
-    "id": "9e04464cdc28",
-    "title_en": "India Lets Delayed Renewable Projects Pay to Keep Grid Access",
-    "title_zh": "印度允许延迟的可再生能源项目支付费用以保持电网接入",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Lets-Delayed-Renewable-Projects-Pay-to-Keep-Grid-Access.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T06:45:00+00:00"
-  },
-  "e770770f2c57": {
-    "id": "e770770f2c57",
-    "title_en": "Section 232 minimum import prices force foreign solar to match U.S. production costs",
-    "title_zh": "第232条最低进口价格迫使外国太阳能与美国生产成本相匹配",
-    "url": "https://www.pv-magazine.com/2026/08/17/section-232-minimum-import-prices-force-foreign-solar-to-match-u-s-production-costs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T06:41:35+00:00"
-  },
-  "6cc3c74403ca": {
-    "id": "6cc3c74403ca",
-    "title_en": "Hormuz Tanker Traffic Slows to a Trickle",
-    "title_zh": "霍尔木兹油轮流量放缓至涓涓细流",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slows-to-a-Trickle.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T05:30:00+00:00"
   }
 }
