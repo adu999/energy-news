@@ -1,4 +1,22 @@
 {
+  "54ec1f0b15fb": {
+    "id": "54ec1f0b15fb",
+    "title_en": "Genesis Ushers In A New Age of Fully Electric Luxury with the Flagship GV90 SUV",
+    "title_zh": "Genesis以旗舰GV90 SUV开启全电动豪华新时代",
+    "url": "https://cleantechnica.com/2026/08/21/genesis-ushers-in-a-new-age-of-fully-electric-luxury-with-the-flagship-gv90-suv/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T02:22:18+00:00"
+  },
+  "e51120fe0430": {
+    "id": "e51120fe0430",
+    "title_en": "ENGWE Packs Extra Power Into The New M20 3.0 — CleanTechnica Tested",
+    "title_zh": "ENGWE为新款M20 3.0增添额外动力——CleanTechnica测试",
+    "url": "https://cleantechnica.com/2026/08/21/engwe-packs-extra-power-into-the-new-m20-3-0-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T01:47:47+00:00"
+  },
   "0343bf8cd3e2": {
     "id": "0343bf8cd3e2",
     "title_en": "ICYMI: Enbridge’s Line 5 Has Another Frac Out As Reroute Challenge And Intimidation Concerns Escalate",
@@ -4480,23 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-17T02:19:28+00:00"
-  },
-  "8b9798e3c4eb": {
-    "id": "8b9798e3c4eb",
-    "title_en": "Relectrify installs first AC1 inverterless battery storage system in South Australia",
-    "title_zh": "Relectrify在南澳大利亚安装了第一个AC1无逆变器电池存储系统",
-    "url": "https://www.energy-storage.news/relectrify-installs-first-ac1-inverterless-battery-storage-system-in-south-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-17T01:35:31+00:00"
-  },
-  "6eee1573e5b3": {
-    "id": "6eee1573e5b3",
-    "title_en": "Australian Renewable Energy Agency backs UNSW research into grid-forming battery storage and system strength",
-    "title_zh": "澳大利亚可再生能源署支持新南威尔士大学对并网电池储能和系统强度的研究",
-    "url": "https://www.energy-storage.news/australian-renewable-energy-agency-backs-unsw-research-into-grid-forming-battery-storage-and-system-strength/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-17T01:24:30+00:00"
   }
 }
