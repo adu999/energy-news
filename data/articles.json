@@ -1,4 +1,31 @@
 {
+  "0786279ba307": {
+    "id": "0786279ba307",
+    "title_en": "Heart Aerospace Just Flew The Aviation Transition Investors Should Be Putting Billions Into",
+    "title_zh": "Heart Aerospace刚刚逃离航空转型投资者应该投入数十亿美元",
+    "url": "https://cleantechnica.com/2026/08/22/heart-aerospace-x1-electric-aviation-transition/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T06:32:08+00:00"
+  },
+  "3fbb01093420": {
+    "id": "3fbb01093420",
+    "title_en": "AC-Coupled vs. DC-Coupled",
+    "title_zh": "交流耦合与直流耦合",
+    "url": "https://www.pv-magazine.com/2026/08/22/ac-coupled-vs-dc-coupled/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-22T04:00:00+00:00"
+  },
+  "edc7bcaf101a": {
+    "id": "edc7bcaf101a",
+    "title_en": "Who Was Right About Tesla Robotaxi Deployment in 2025?",
+    "title_zh": "谁对2025年特斯拉机器人出租车的部署是正确的？",
+    "url": "https://cleantechnica.com/2026/08/21/who-was-right-about-tesla-robotaxi-deployment-in-2025/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T03:55:58+00:00"
+  },
   "54ec1f0b15fb": {
     "id": "54ec1f0b15fb",
     "title_en": "Genesis Ushers In A New Age of Fully Electric Luxury with the Flagship GV90 SUV",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-17T04:00:00+00:00"
-  },
-  "523a3089046d": {
-    "id": "523a3089046d",
-    "title_en": "ForeFront Power Completes Its First Erthos Solar Energy System for the City of Fresno",
-    "title_zh": "ForeFront Power为弗雷斯诺市完成了第一个Erthos太阳能系统",
-    "url": "https://cleantechnica.com/2026/08/16/forefront-power-completes-its-first-erthos-solar-energy-system-for-the-city-of-fresno/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-17T03:23:03+00:00"
-  },
-  "c004c1c66049": {
-    "id": "c004c1c66049",
-    "title_en": "How Much Windfall Profit Have Oil Companies Made in Europe?",
-    "title_zh": "欧洲石油公司获得了多少暴利？",
-    "url": "https://cleantechnica.com/2026/08/16/how-much-windfall-profit-have-oil-companies-made-in-europe/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-17T02:58:25+00:00"
-  },
-  "db14fe1d0617": {
-    "id": "db14fe1d0617",
-    "title_en": "Australia’s NSW becomes first state to detail national data centre rules with new framework",
-    "title_zh": "澳大利亚新南威尔士州成为第一个用新框架详细说明国家数据中心规则的州",
-    "url": "https://www.pv-tech.org/australias-nsw-becomes-first-state-to-detail-national-data-centre-rules-with-new-framework/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T02:19:28+00:00"
   }
 }
