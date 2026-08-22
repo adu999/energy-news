@@ -1,4 +1,40 @@
 {
+  "fb3896ccd567": {
+    "id": "fb3896ccd567",
+    "title_en": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+    "title_zh": "燃气轮机短缺刚刚成为人工智能的最大制约因素",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-22T21:00:00+00:00"
+  },
+  "8f5589d1a4d0": {
+    "id": "8f5589d1a4d0",
+    "title_en": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
+    "title_zh": "对于落后的汽车制造商：停止将资金投入错误的动力系统",
+    "url": "https://cleantechnica.com/2026/08/22/for-lagging-automakers-stop-pouring-money-into-the-wrong-powertrains/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T20:49:36+00:00"
+  },
+  "f43efd4ee500": {
+    "id": "f43efd4ee500",
+    "title_en": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!",
+    "title_zh": "Starlink现在是津巴布韦用户数量最大的ISP！",
+    "url": "https://cleantechnica.com/2026/08/22/starlink-is-now-the-largest-isp-in-zimbabwe-by-subscriber-count/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T20:35:06+00:00"
+  },
+  "9e0cabe52e6c": {
+    "id": "9e0cabe52e6c",
+    "title_en": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+    "title_zh": "2026年清洁能源支出接近创纪录的1800亿美元",
+    "url": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-22T19:00:00+00:00"
+  },
   "154af32dac40": {
     "id": "154af32dac40",
     "title_en": "The ICE Meltdown Continues — July’s China EV Sales Report (44% BEV Share)",
@@ -4462,41 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-08-17T07:30:00+00:00"
-  },
-  "8f9896761619": {
-    "id": "8f9896761619",
-    "title_en": "Boston explores sea- and river-source heat pumps for big buildings",
-    "title_zh": "波士顿探索用于大型建筑的海水和河水源热泵",
-    "url": "https://www.canarymedia.com/articles/geothermal/boston-sea-river-source-heat-pumps",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-17T07:30:00+00:00"
-  },
-  "db194891e082": {
-    "id": "db194891e082",
-    "title_en": "China’s Solar Industry Slows Down Due to Industry Pressures",
-    "title_zh": "中国太阳能行业因行业压力放缓",
-    "url": "https://cleantechnica.com/2026/08/17/chinas-solar-industry-slows-down-due-to-industry-pressures/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-17T07:01:36+00:00"
-  },
-  "c3afb6d071a6": {
-    "id": "c3afb6d071a6",
-    "title_en": "How the 100-year-old LA Coliseum became one of the US's most sustainable stadiums",
-    "title_zh": "拥有100年历史的洛杉矶体育馆如何成为美国最具可持续性的体育场之一",
-    "url": "https://www.cleanenergywire.org/news/how-100-year-old-la-coliseum-became-one-uss-most-sustainable-stadiums",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-08-17T07:01:08+00:00"
-  },
-  "6b0de476f0dd": {
-    "id": "6b0de476f0dd",
-    "title_en": "Saatvik Solar to add 3.6 GW of cell manufacturing capacity in India",
-    "title_zh": "Saatvik Solar将在印度增加3.6吉瓦的电池制造能力",
-    "url": "https://www.pv-magazine.com/2026/08/17/saatvik-solar-to-add-3-6-gw-of-cell-manufacturing-capacity-in-odisha/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T06:50:25+00:00"
   }
 }
