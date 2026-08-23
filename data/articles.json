@@ -1,4 +1,31 @@
 {
+  "d28640c52a4d": {
+    "id": "d28640c52a4d",
+    "title_en": "Red States Are Killin’ It With Their Solar Factories",
+    "title_zh": "红州正在用他们的太阳能工厂扼杀它",
+    "url": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T23:47:54+00:00"
+  },
+  "a2e558e1ba36": {
+    "id": "a2e558e1ba36",
+    "title_en": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
+    "title_zh": "欧洲以最糟糕的原因躲过了莱茵河危机",
+    "url": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-22T23:00:00+00:00"
+  },
+  "36962a34eaf0": {
+    "id": "36962a34eaf0",
+    "title_en": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
+    "title_zh": "中国收紧对电动门把手的限制，迫使特斯拉召回300万辆汽车",
+    "url": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-22T22:40:43+00:00"
+  },
   "fb3896ccd567": {
     "id": "fb3896ccd567",
     "title_en": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-17T07:36:28+00:00"
-  },
-  "b0e4dd6635e5": {
-    "id": "b0e4dd6635e5",
-    "title_en": "Tekmar Secures EUR 1 Million Concrete Protection Contract for ‘Major’ European Offshore Wind Project",
-    "title_zh": "Tekmar为“重大”欧洲海上风电项目获得100万欧元混凝土保护合同",
-    "url": "https://www.offshorewind.biz/2026/08/17/tekmar-secures-eur-1-million-concrete-protection-contract-for-major-european-offshore-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-17T07:32:45+00:00"
-  },
-  "83fc1f28221e": {
-    "id": "83fc1f28221e",
-    "title_en": "El Salvador launches regulatory framework for solar self-consumption",
-    "title_zh": "萨尔瓦多启动太阳能自用监管框架",
-    "url": "https://www.pv-magazine.com/2026/08/17/el-salvador-launches-regulatory-framework-for-solar-self-consumption/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T07:30:39+00:00"
-  },
-  "a0762ba0a0fa": {
-    "id": "a0762ba0a0fa",
-    "title_en": "After a 2-year wait, will Ohio’s largest solar project get the OK?",
-    "title_zh": "经过两年的等待，俄亥俄州最大的太阳能项目会得到批准吗？",
-    "url": "https://www.canarymedia.com/articles/solar/after-a-2-year-wait-will-ohios-largest-solar-project-get-the-ok",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-17T07:30:00+00:00"
   }
 }
