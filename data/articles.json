@@ -1,4 +1,22 @@
 {
+  "cf4b085fb0de": {
+    "id": "cf4b085fb0de",
+    "title_en": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+    "title_zh": "随着人工智能重塑电网，私募股权正在绕过公用事业",
+    "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-23T18:00:00+00:00"
+  },
+  "f655d0f95255": {
+    "id": "f655d0f95255",
+    "title_en": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
+    "title_zh": "NVIDIA与Cloverleaf携手推进数据中心开发",
+    "url": "https://www.powermag.com/nvidia-cloverleaf-partnering-to-advance-data-center-development/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-23T15:25:23+00:00"
+  },
   "6e23c2b95688": {
     "id": "6e23c2b95688",
     "title_en": "Underwater Volcanoes Are Geothermal Energy’s Next Frontier",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-17T08:43:52+00:00"
-  },
-  "38f7e32b3cdd": {
-    "id": "38f7e32b3cdd",
-    "title_en": "Megarevo differentiates with customer-focused microgrid solutions as it scales European operations",
-    "title_zh": "Megarevo在扩大欧洲业务的同时，以客户为中心的微电网解决方案脱颖而出",
-    "url": "https://www.energy-storage.news/megarevo-customer-focused-microgrid-solutions-scales-european-operations/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-17T08:29:37+00:00"
-  },
-  "e81e16fdd696": {
-    "id": "e81e16fdd696",
-    "title_en": "EDF offers UK customers free seven-year service, warranty on air-source heat pumps",
-    "title_zh": "EDF为英国客户提供免费七年服务，空气源热泵保修",
-    "url": "https://www.pv-magazine.com/2026/08/17/edf-offers-uk-customers-free-seven-year-service-warranty-on-air-source-heat-pumps/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T08:18:27+00:00"
   }
 }
