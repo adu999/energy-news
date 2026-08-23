@@ -1,4 +1,13 @@
 {
+  "8b01d8089207": {
+    "id": "8b01d8089207",
+    "title_en": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
+    "title_zh": "一台氢气发生器为一艘电动船充电。为什么会有氢气？",
+    "url": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-23T06:35:44+00:00"
+  },
   "d28640c52a4d": {
     "id": "d28640c52a4d",
     "title_en": "Red States Are Killin’ It With Their Solar Factories",
@@ -4489,14 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-17T07:50:00+00:00"
-  },
-  "8a8dd0e01236": {
-    "id": "8a8dd0e01236",
-    "title_en": "During heatwave, solar power supports France’s grid as nuclear output slows",
-    "title_zh": "在热浪期间，太阳能为法国电网提供支持，因为核输出放缓",
-    "url": "https://www.pv-magazine.com/2026/08/17/during-heatwave-solar-power-supports-frances-grid-as-nuclear-output-slows/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T07:36:28+00:00"
   }
 }
