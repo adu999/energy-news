@@ -1,4 +1,130 @@
 {
+  "823fcf3bb92a": {
+    "id": "823fcf3bb92a",
+    "title_en": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
+    "title_zh": "TotalEnergies支持两条主要石油管道绕过霍尔木兹",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Backs-Two-Major-Oil-Pipelines-to-Bypass-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-24T18:27:00+00:00"
+  },
+  "b4bc2a525edc": {
+    "id": "b4bc2a525edc",
+    "title_en": "China is about to get solar cars, but they won’t work as well as you hope",
+    "title_zh": "中国即将推出太阳能汽车，但它们不会像你希望的那样好用",
+    "url": "https://electrek.co/2026/08/24/china-is-about-to-get-solar-cars-but-they-wont-work-as-well-as-you-hope/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-24T18:03:45+00:00"
+  },
+  "c52d94810c03": {
+    "id": "c52d94810c03",
+    "title_en": "Heybike Titan moto-inspired full suspension e-bike launch, EcoFlow 572Wh RIVER 3 Plus power station bundle $319, Segway, more",
+    "title_zh": "Heybike Titan moto启发的全悬挂电动自行车发布，EcoFlow 572Wh RIVER 3 Plus发电站捆绑包319美元，赛格威，更多",
+    "url": "https://electrek.co/2026/08/24/heybike-titan-moto-inspired-full-suspension-e-bike-ecoflow-572wh-river-3-plus-power-station-segway-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-24T18:00:00+00:00"
+  },
+  "6a216d42769b": {
+    "id": "6a216d42769b",
+    "title_en": "US Accuses More Than 40 Countries of Helping China Evade Tariffs",
+    "title_zh": "美国指责40多个国家帮助中国逃避关税",
+    "url": "https://oilprice.com/Geopolitics/Asia/US-Accuses-More-Than-40-Countries-of-Helping-China-Evade-Tariffs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-24T18:00:00+00:00"
+  },
+  "cf532c4ff3ca": {
+    "id": "cf532c4ff3ca",
+    "title_en": "How a Toyota dealer cut energy costs 55%, even with DC fast chargers",
+    "title_zh": "丰田经销商如何将能源成本降低55%，即使使用直流快速充电器",
+    "url": "https://electrek.co/2026/08/24/how-a-toyota-dealer-cut-energy-costs-55-percent-even-with-dc-fast-chargers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-24T17:46:18+00:00"
+  },
+  "e2f2e2efb1c4": {
+    "id": "e2f2e2efb1c4",
+    "title_en": "Coalition Urges EPA to Keep Public Participation Requirements for Air Permits",
+    "title_zh": "联盟敦促美国环保署保持空气许可证的公众参与要求",
+    "url": "https://cleantechnica.com/2026/08/24/coalition-urges-epa-to-keep-public-participation-requirements-for-air-permits/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-24T17:33:27+00:00"
+  },
+  "a4486a3b4627": {
+    "id": "a4486a3b4627",
+    "title_en": "Tesla confirms Cybercab launch coming next week",
+    "title_zh": "特斯拉确认Cybercab将于下周推出",
+    "url": "https://electrek.co/2026/08/24/tesla-cybercab-exclusive-access-robotaxi-sept-3/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-24T17:10:02+00:00"
+  },
+  "534d048a640b": {
+    "id": "534d048a640b",
+    "title_en": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
+    "title_zh": "60天和平窗口关闭，特朗普的伊朗战略可能发生重大转变",
+    "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-24T17:00:00+00:00"
+  },
+  "22dbbbfb9304": {
+    "id": "22dbbbfb9304",
+    "title_en": "Gas Stations are Changing Globally. How Has It Changed in Your Town? (Part 3: Africa)",
+    "title_zh": "加油站正在全球范围内发生变化。你的城市发生了怎样的变化？（第三部分：非洲）",
+    "url": "https://cleantechnica.com/2026/08/24/gas-stations-are-changing-globally-how-has-it-changed-in-your-town-part-3-africa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-24T16:33:40+00:00"
+  },
+  "94fe14594581": {
+    "id": "94fe14594581",
+    "title_en": "Bills rise when utilities use conflicting forecasts to drive gas and electric investment",
+    "title_zh": "当公用事业公司使用相互矛盾的预测来推动天然气和电力投资时，账单就会上涨",
+    "url": "https://www.utilitydive.com/news/how-misaligned-utility-forecasts-drive-higher-bills-and-the-new-york-legi/827025/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-24T16:28:11+00:00"
+  },
+  "5a720f46e537": {
+    "id": "5a720f46e537",
+    "title_en": "Volkswagen’s new electric SUV is not just a rebadged ID.4 [Images]",
+    "title_zh": "大众汽车的新款电动SUV不仅仅是一个重新定位的ID.4[图片]",
+    "url": "https://electrek.co/2026/08/24/volkswagens-new-electric-suv-not-rebadged-id-4-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-24T16:06:02+00:00"
+  },
+  "8aff76674a46": {
+    "id": "8aff76674a46",
+    "title_en": "Iran-Linked Cyberattack Tests Britain’s Energy Defenses",
+    "title_zh": "与伊朗有关的网络攻击考验了英国的能源防御",
+    "url": "https://oilprice.com/Energy/Energy-General/Iran-Linked-Cyberattack-Tests-Britains-Energy-Defenses.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-24T16:00:00+00:00"
+  },
+  "e7f96b953c4e": {
+    "id": "e7f96b953c4e",
+    "title_en": "PV wafer prices surge, up to 40% in weekly gain",
+    "title_zh": "光伏晶圆价格飙升，周涨幅高达40%",
+    "url": "https://www.pv-tech.org/pv-wafer-prices-surge-up-to-40-in-weekly-gain/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-24T15:53:39+00:00"
+  },
+  "8f5e2c1edf3f": {
+    "id": "8f5e2c1edf3f",
+    "title_en": "Commonwealth Fusion Systems aims to complete demonstration reactor with $1B funding round",
+    "title_zh": "英联邦聚变系统公司计划完成10亿美元的示范反应堆融资",
+    "url": "https://www.utilitydive.com/news/what-a-billion-dollar-funding-means-for-commonwealth-fusion-systems-and-its/828515/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-08-24T15:40:24+00:00"
+  },
   "4b367da0e0e5": {
     "id": "4b367da0e0e5",
     "title_en": "Eos, Wattmore link on zinc-based battery controls",
@@ -250,6 +376,15 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-24T11:46:49+00:00"
+  },
+  "f538d0dc2042": {
+    "id": "f538d0dc2042",
+    "title_en": "Hungary plans new climate law, as Paks ramps up",
+    "title_zh": "随着Paks的增加，匈牙利计划制定新的气候法",
+    "url": "https://www.world-nuclear-news.org/articles/hungary-plans-new-climate-law-as-paks-ramps-up",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-08-24T11:36:00+00:00"
   },
   "5f8a2c20ae15": {
     "id": "5f8a2c20ae15",
@@ -4363,140 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-18T01:24:52+00:00"
-  },
-  "d1afd096e022": {
-    "id": "d1afd096e022",
-    "title_en": "Earthjustice & Sierra Club Urge FAA to Keep Ban on Commercial Supersonic Flight",
-    "title_zh": "地球正义和塞拉俱乐部敦促美国联邦航空局继续禁止商业超音速飞行",
-    "url": "https://cleantechnica.com/2026/08/17/earthjustice-sierra-club-urge-faa-to-keep-ban-on-commercial-supersonic-flight/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-18T00:52:04+00:00"
-  },
-  "c9a2d38626a8": {
-    "id": "c9a2d38626a8",
-    "title_en": "Q&A: What Does China’s 15th Five-Year Plan for Coal Mean for Climate Action?",
-    "title_zh": "问：中国“十五”煤炭规划对气候行动意味着什么？",
-    "url": "https://cleantechnica.com/2026/08/17/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-18T00:25:28+00:00"
-  },
-  "91ff558927a2": {
-    "id": "91ff558927a2",
-    "title_en": "Oil Majors Double Profits in Europe in Latest Quarter",
-    "title_zh": "欧洲石油巨头最新季度利润翻番",
-    "url": "https://cleantechnica.com/2026/08/17/oil-majors-double-profits-in-europe-in-latest-quarter/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-18T00:09:40+00:00"
-  },
-  "6190890d5bce": {
-    "id": "6190890d5bce",
-    "title_en": "North America’s Only Cesium Project Moves Closer to Production",
-    "title_zh": "北美唯一的铯项目接近投产",
-    "url": "https://oilprice.com/Energy/Energy-General/North-Americas-Only-Cesium-Project-Moves-Closer-to-Production.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-18T00:00:00+00:00"
-  },
-  "98810ff032bf": {
-    "id": "98810ff032bf",
-    "title_en": "Autonomous Electric Freight Trucks Scaling Up In Europe",
-    "title_zh": "自动驾驶电动货运卡车在欧洲扩大规模",
-    "url": "https://cleantechnica.com/2026/08/17/autonomous-electric-freight-trucks-scaling-up-in-europe/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-17T23:02:32+00:00"
-  },
-  "3695c9853a8b": {
-    "id": "3695c9853a8b",
-    "title_en": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
-    "title_zh": "尽管油价上涨，美国页岩油巨头仍削减支出",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T23:00:00+00:00"
-  },
-  "7fefa1f765c6": {
-    "id": "7fefa1f765c6",
-    "title_en": "What I’ve Learned Owning Ebikes for 12 Years",
-    "title_zh": "拥有Ebikes 12年我学到了什么",
-    "url": "https://cleantechnica.com/2026/08/17/what-ive-learned-owning-ebikes-for-12-years/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-17T22:35:31+00:00"
-  },
-  "bb11622dd32d": {
-    "id": "bb11622dd32d",
-    "title_en": "Mesa Power Solutions Expands With $70 Million Wyoming Manufacturing Campus",
-    "title_zh": "Mesa Power Solutions斥资7000万美元扩建怀俄明州制造园区",
-    "url": "https://www.powermag.com/mesa-power-solutions-expands-with-70-million-wyoming-manufacturing-campus/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-17T22:33:24+00:00"
-  },
-  "dd6df6397fa3": {
-    "id": "dd6df6397fa3",
-    "title_en": "Chinese Cars Will Come To America Sooner Rather Than Later",
-    "title_zh": "中国汽车迟早会来美国",
-    "url": "https://cleantechnica.com/2026/08/17/chinese-cars-will-come-to-america-sooner-rather-than-later/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-17T22:06:42+00:00"
-  },
-  "788b44184a0b": {
-    "id": "788b44184a0b",
-    "title_en": "Automation Could Start Eating Into U.S. Diesel Demand",
-    "title_zh": "自动化可能开始蚕食美国的柴油需求",
-    "url": "https://oilprice.com/Energy/Energy-General/Automation-Could-Start-Eating-Into-US-Diesel-Demand.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T22:00:00+00:00"
-  },
-  "f9681cee550a": {
-    "id": "f9681cee550a",
-    "title_en": "BYD’s electric supercar beats Porsche on both speed and price [Video]",
-    "title_zh": "比亚迪的电动超级跑车在速度和价格上都击败了保时捷[视频]",
-    "url": "https://electrek.co/2026/08/17/byds-electric-supercar-beats-porsche-speed-and-price-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-17T21:34:48+00:00"
-  },
-  "eac164f94e8e": {
-    "id": "eac164f94e8e",
-    "title_en": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
-    "title_zh": "为什么利比亚的下一条石油管道可能会改变地缘政治格局",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Why-Libyas-Next-Oil-Pipeline-Could-Be-a-Geopolitical-Game-Changer.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T21:00:00+00:00"
-  },
-  "6c78a876a6dd": {
-    "id": "6c78a876a6dd",
-    "title_en": "Energy Dominance Requires Commitments That Last",
-    "title_zh": "能源主导需要持久的承诺",
-    "url": "https://www.powermag.com/energy-dominance-requires-commitments-that-last/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-17T20:45:59+00:00"
-  },
-  "2cf17edc5ae4": {
-    "id": "2cf17edc5ae4",
-    "title_en": "The Next Energy Crisis Could Be a Water Crisis",
-    "title_zh": "下一次能源危机可能是水危机",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T20:00:00+00:00"
-  },
-  "2dc00f3cfe7b": {
-    "id": "2dc00f3cfe7b",
-    "title_en": "Sunrun solar + storage projects could soon power AI data centers",
-    "title_zh": "Sunrun太阳能+储能项目可能很快为人工智能数据中心供电",
-    "url": "https://www.solarpowerworldonline.com/2026/08/sunrun-solar-storage-projects-could-soon-power-ai-data-centers/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T19:31:01+00:00"
   }
 }
