@@ -1,4 +1,67 @@
 {
+  "b9e4eabc3b7c": {
+    "id": "b9e4eabc3b7c",
+    "title_en": "European PPA prices rise 2.3% in July",
+    "title_zh": "7月份欧洲购电协议价格上涨2.3%",
+    "url": "https://www.pv-magazine.com/2026/08/24/european-ppa-prices-rise-2-3-in-july/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-24T06:51:10+00:00"
+  },
+  "b2689210a43c": {
+    "id": "b2689210a43c",
+    "title_en": "Korean scientists unveil 10 kW chemical adsorption heat pump prototype",
+    "title_zh": "韩国科学家公布10千瓦化学吸附热泵原型",
+    "url": "https://www.pv-magazine.com/2026/08/24/korean-scientists-unveil-10-kw-chemical-adsorption-heat-pump-prototype/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-24T06:42:40+00:00"
+  },
+  "182e22beedc9": {
+    "id": "182e22beedc9",
+    "title_en": "Canada Needs Industrial Policy That Lets The Market Say No",
+    "title_zh": "加拿大需要让市场说不的产业政策",
+    "url": "https://cleantechnica.com/2026/08/24/canada-industrial-policy-markets-say-no/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-24T06:31:21+00:00"
+  },
+  "321c97e90109": {
+    "id": "321c97e90109",
+    "title_en": "Hormuz Tanker Traffic Slumps as U.S. and Iran Trade Threats",
+    "title_zh": "由于美国和伊朗的贸易威胁，霍尔木兹油轮的运输量大幅下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-US-and-Iran-Trade-Threats.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-24T06:00:00+00:00"
+  },
+  "e50514759ac3": {
+    "id": "e50514759ac3",
+    "title_en": "India hits $0.068/kWh tariff in 4-hour peak renewable power tender",
+    "title_zh": "印度在4小时峰值可再生能源招标中达到0.068美元/千瓦时的电价",
+    "url": "https://www.pv-magazine.com/2026/08/24/seci-discovers-inr-5-99-kwh-tariff-for-4-hour-peak-renewable-power/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-24T05:50:46+00:00"
+  },
+  "e495aea6d4ed": {
+    "id": "e495aea6d4ed",
+    "title_en": "Quinbrook advances plans for polysilicon factory in Australia",
+    "title_zh": "Quinbrook推进澳大利亚多晶硅工厂计划",
+    "url": "https://www.pv-magazine.com/2026/08/24/quinbrook-advances-plans-for-polysilicon-production-plant/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-24T05:36:39+00:00"
+  },
+  "0c3b06ea4534": {
+    "id": "0c3b06ea4534",
+    "title_en": "US updates foreign inverter ban to include wired devices",
+    "title_zh": "美国更新外国逆变器禁令，将有线设备纳入其中",
+    "url": "https://www.pv-magazine.com/2026/08/24/fcc-updates-foreign-inverter-ban-to-include-wired-devices-adds-45x-safe-harbor/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-24T05:33:55+00:00"
+  },
   "66259953706e": {
     "id": "66259953706e",
     "title_en": "Oil Prices Slide 2% as Markets Brace for Bessent’s ‘Economic D-Day’",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-17T10:19:30+00:00"
-  },
-  "40973ca484f6": {
-    "id": "40973ca484f6",
-    "title_en": "Brookfield, La Caisse complete Boralex acquisition",
-    "title_zh": "布鲁克菲尔德，La Caisse完成对Boralex的收购",
-    "url": "https://www.pv-tech.org/brookfield-la-caisse-complete-boralex-acquisition/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T10:13:56+00:00"
-  },
-  "2a78aadc11f6": {
-    "id": "2a78aadc11f6",
-    "title_en": "All Foundations In at East Anglia Three",
-    "title_zh": "东安格利亚三号的所有基础",
-    "url": "https://www.offshorewind.biz/2026/08/17/all-foundations-in-at-east-anglia-three/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-17T10:13:44+00:00"
-  },
-  "ed0c54af7bff": {
-    "id": "ed0c54af7bff",
-    "title_en": "Norway accelerates floating wind subsidy review",
-    "title_zh": "挪威加快浮动风电补贴审查",
-    "url": "https://www.windpowermonthly.com/article/1967526/norway-accelerates-floating-wind-subsidy-review",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-17T10:11:17+00:00"
-  },
-  "6b5457081e8a": {
-    "id": "6b5457081e8a",
-    "title_en": "Econergy signs financing agreements for 150MW solar-plus-storage project in Romania",
-    "title_zh": "Econergy签署罗马尼亚150MW太阳能+储能项目融资协议",
-    "url": "https://www.energy-storage.news/econergy-signs-financing-agreements-for-150mw-solar-plus-storage-project-in-romania/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-17T10:11:00+00:00"
-  },
-  "de680502056e": {
-    "id": "de680502056e",
-    "title_en": "Fluence and German utility LEAG begin construction of second large-scale BESS project under partnership",
-    "title_zh": "Fluence和德国公用事业公司LEAG开始合作建设第二个大型BESS项目",
-    "url": "https://www.energy-storage.news/fluence-and-german-utility-leag-begin-construction-of-second-large-scale-bess-project-under-partnership/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-17T10:00:27+00:00"
-  },
-  "312e68632514": {
-    "id": "312e68632514",
-    "title_en": "India’s Chief Economic Adviser Calls for Return of E10 Petrol",
-    "title_zh": "印度首席经济顾问呼吁归还E10汽油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Chief-Economic-Adviser-Calls-for-Return-of-E10-Petrol.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-17T10:00:00+00:00"
-  },
-  "268dde624fbe": {
-    "id": "268dde624fbe",
-    "title_en": "China’s polysilicon market halts as industry enters wait-and-see phase for price rebalancing",
-    "title_zh": "随着行业进入价格再平衡的观望阶段，中国多晶硅市场停止",
-    "url": "https://www.pv-tech.org/china-polysilicon-prices-wait-and-see/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T09:56:41+00:00"
   }
 }
