@@ -1,4 +1,22 @@
 {
+  "66259953706e": {
+    "id": "66259953706e",
+    "title_en": "Oil Prices Slide 2% as Markets Brace for Bessent’s ‘Economic D-Day’",
+    "title_zh": "油价下跌2%，市场为贝森特的“经济D日”做准备",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-2-as-Markets-Brace-for-Bessents-Economic-D-Day.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-24T02:18:19+00:00"
+  },
+  "903e716f77e7": {
+    "id": "903e716f77e7",
+    "title_en": "Quinbrook taps GE Vernova and CATL for the third stage of Australia’s largest battery storage system",
+    "title_zh": "Quinbrook与GE Vernova和CATL合作开发澳大利亚最大电池储能系统的第三阶段",
+    "url": "https://www.energy-storage.news/quinbrook-taps-ge-vernova-and-catl-for-the-third-stage-of-australias-largest-battery-storage-system/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-24T01:27:43+00:00"
+  },
   "e75ed6f67360": {
     "id": "e75ed6f67360",
     "title_en": "Diesel Crisis Threatens to Outlast the Middle East War",
@@ -4480,23 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-08-17T09:56:41+00:00"
-  },
-  "77681fbd02e4": {
-    "id": "77681fbd02e4",
-    "title_en": "South Korea signs MoU for 320MW green hydrogen complex",
-    "title_zh": "韩国签署320MW绿色氢综合体谅解备忘录",
-    "url": "https://www.energymonitor.ai/news/south-korea-mou-green-hydrogen/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-17T09:38:44+00:00"
-  },
-  "c10ac7a8abc8": {
-    "id": "c10ac7a8abc8",
-    "title_en": "Solinteg launches 10–30 kW three-phase hybrid inverter with 4 MPPTs, dual high-voltage battery inputs",
-    "title_zh": "Solinteg推出10–30 kW三相混合逆变器，配备4 MPPT和双高压电池输入",
-    "url": "https://www.pv-magazine.com/2026/08/17/solinteg-launches-10-30-kw-three-phase-hybrid-inverter-with-4-mppts-dual-high-voltage-battery-inputs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-17T09:12:30+00:00"
   }
 }
