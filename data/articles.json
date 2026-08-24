@@ -1,4 +1,22 @@
 {
+  "e75ed6f67360": {
+    "id": "e75ed6f67360",
+    "title_en": "Diesel Crisis Threatens to Outlast the Middle East War",
+    "title_zh": "柴油机危机威胁要宣布中东战争结束",
+    "url": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-23T23:00:00+00:00"
+  },
+  "90b1f9a50809": {
+    "id": "90b1f9a50809",
+    "title_en": "BYD Da Han Claims Global Flagship Status",
+    "title_zh": "比亚迪大汉宣布全球旗舰地位",
+    "url": "https://cleantechnica.com/2026/08/23/byd-da-han-claims-global-flagship-status/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-23T21:34:33+00:00"
+  },
   "45f95eccc055": {
     "id": "45f95eccc055",
     "title_en": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-17T09:12:30+00:00"
-  },
-  "dc62a7495fbb": {
-    "id": "dc62a7495fbb",
-    "title_en": "Why AI is arriving at the most difficult moment for North America’s grid",
-    "title_zh": "为什么人工智能正处于北美电网最困难的时刻",
-    "url": "https://www.utilitydive.com/spons/why-ai-is-arriving-at-the-most-difficult-moment-for-north-americas-grid/827345/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-17T09:00:00+00:00"
-  },
-  "aa348d0639ac": {
-    "id": "aa348d0639ac",
-    "title_en": "When the capital plan outgrows engineering capacity",
-    "title_zh": "当资本计划超出工程能力时",
-    "url": "https://www.utilitydive.com/spons/when-the-capital-plan-outgrows-engineering-capacity/827763/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-17T09:00:00+00:00"
   }
 }
