@@ -1,4 +1,139 @@
 {
+  "344c755e6814": {
+    "id": "344c755e6814",
+    "title_en": "Fraunhofer ISE develops semi-transparent organic solar PV modules with a 9.26% conversion efficiency",
+    "title_zh": "Fraunhofer ISE开发了转换效率为9.26%的半透明有机太阳能光伏组件",
+    "url": "https://www.pv-tech.org/fraunhofer-ise-semi-transparent-organic-solar-pv-modules-9-26-conversion-efficiency/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T09:27:30+00:00"
+  },
+  "b1f62509dfe1": {
+    "id": "b1f62509dfe1",
+    "title_en": "Ørsted Awards Baltica 2 Helicopter Medevac Contract",
+    "title_zh": "Ørsted授予Baltica 2直升机医疗后送合同",
+    "url": "https://www.offshorewind.biz/2026/08/25/orsted-awards-baltica-2-helicopter-medevac-contract/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-25T09:11:00+00:00"
+  },
+  "31dc81b14b79": {
+    "id": "31dc81b14b79",
+    "title_en": "Oman seeks consultants for renewable energy feasibility study",
+    "title_zh": "阿曼寻求可再生能源可行性研究顾问",
+    "url": "https://www.pv-magazine.com/2026/08/25/oman-seeks-consultants-for-renewable-energy-feasibility-study/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T09:08:38+00:00"
+  },
+  "aa2179a225f3": {
+    "id": "aa2179a225f3",
+    "title_en": "Greece introduces new spatial planning rules for PV",
+    "title_zh": "希腊出台新的光伏空间规划规则",
+    "url": "https://www.pv-magazine.com/2026/08/25/greece-introduces-new-spatial-planning-rules-for-pv/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T09:01:11+00:00"
+  },
+  "5f64172da988": {
+    "id": "5f64172da988",
+    "title_en": "AZO-based HJT solar cells more vulnerable to damp-heat-induced degradation, study finds",
+    "title_zh": "研究发现，基于AZO的HJT太阳能电池更容易受到湿热引起的退化",
+    "url": "https://www.pv-magazine.com/2026/08/25/azo-based-hjt-solar-cells-more-vulnerable-to-damp-heat-induced-degradation-study-finds/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T08:50:52+00:00"
+  },
+  "73028ed0807f": {
+    "id": "73028ed0807f",
+    "title_en": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
+    "title_zh": "尽管9月进口量下降，日本仍推迟释放新的石油储备",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Holds-Off-on-New-Oil-Reserve-Release-Despite-September-Import-Drop.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-25T08:30:00+00:00"
+  },
+  "30df17780f63": {
+    "id": "30df17780f63",
+    "title_en": "UK government launches £28 million Ultra-Long Duration Energy Storage Challenge",
+    "title_zh": "英国政府启动2800万英镑的超长时间储能挑战赛",
+    "url": "https://www.energy-storage.news/uk-government-launches-28-million-ultra-long-duration-energy-storage-challenge/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-25T08:09:32+00:00"
+  },
+  "70a747bfd6dc": {
+    "id": "70a747bfd6dc",
+    "title_en": "Australia’s battery storage contracts shift from ‘physical tolls’ toward commoditised products",
+    "title_zh": "澳大利亚的电池存储合同从“实物收费”转向商品化产品",
+    "url": "https://www.energy-storage.news/australias-battery-storage-contracts-shift-from-physical-tolls-toward-commoditised-products/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-25T08:07:39+00:00"
+  },
+  "a7f60f34b17f": {
+    "id": "a7f60f34b17f",
+    "title_en": "MacGregor Secures DNV Certification for Floating-to-Floating Personnel Transfers",
+    "title_zh": "麦格雷戈获得DNV浮式人员转移认证",
+    "url": "https://www.offshorewind.biz/2026/08/25/macgregor-secures-dnv-certification-for-floating-to-floating-personnel-transfers/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-08-25T07:57:24+00:00"
+  },
+  "038696096b90": {
+    "id": "038696096b90",
+    "title_en": "New temperature model improves floating PV performance predictions",
+    "title_zh": "新的温度模型改进了浮动光伏性能预测",
+    "url": "https://www.pv-magazine.com/2026/08/25/new-temperature-model-improves-floating-pv-performance-predictions/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T07:48:10+00:00"
+  },
+  "3f3e7833ea87": {
+    "id": "3f3e7833ea87",
+    "title_en": "TCL Electronics weighs spinoff of $2.7 billion PV business",
+    "title_zh": "TCL电子剥离27亿美元光伏业务",
+    "url": "https://www.pv-magazine.com/2026/08/25/tcl-electronics-weighs-spin-off-of-2-7-billion-pv-business/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T07:36:23+00:00"
+  },
+  "a03582884fc0": {
+    "id": "a03582884fc0",
+    "title_en": "JPMorgan and Santander Lead $15 Billion Financing Push for Argentina LNG",
+    "title_zh": "摩根大通和桑坦德银行牵头为阿根廷液化天然气融资150亿美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/JPMorgan-and-Santander-Lead-15-Billion-Financing-Push-for-Argentina-LNG.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-25T07:30:00+00:00"
+  },
+  "1f218ab5e035": {
+    "id": "1f218ab5e035",
+    "title_en": "As Ohio grapples with fake comments on clean energy, some want crackdown",
+    "title_zh": "随着俄亥俄州努力应对有关清洁能源的虚假评论，一些人希望进行打击",
+    "url": "https://www.canarymedia.com/articles/clean-energy/ohio-fake-comments-clean-energy",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-25T07:30:00+00:00"
+  },
+  "d3c4f15664a4": {
+    "id": "d3c4f15664a4",
+    "title_en": "Solar delivers as Europe’s power plants struggle amid heat and drought",
+    "title_zh": "欧洲发电厂在高温和干旱中苦苦挣扎，太阳能发电成功",
+    "url": "https://www.canarymedia.com/articles/solar/solar-delivers-europe-heat-drought",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-08-25T07:30:00+00:00"
+  },
+  "71e663602d7c": {
+    "id": "71e663602d7c",
+    "title_en": "Semi-transparent PV reduces greenhouse temperatures by up to 5 C",
+    "title_zh": "半透明光伏将温室温度降低高达5摄氏度",
+    "url": "https://www.pv-magazine.com/2026/08/25/la-fotovoltaica-semitransparente-reduce-hasta-cinco-grados-la-temperatura-en-invernaderos-segun-la-uja/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T07:01:34+00:00"
+  },
   "b9ed26691c89": {
     "id": "b9ed26691c89",
     "title_en": "UK approves 400 MW solar project with 600 MW co-located battery",
@@ -4363,140 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-18T11:19:34+00:00"
-  },
-  "f0b8d94e76a3": {
-    "id": "f0b8d94e76a3",
-    "title_en": "Startup Heron Power to build 40GW power conversion manufacturing facility in California",
-    "title_zh": "创业公司Heron Power将在加利福尼亚州建造40GW的电力转换制造工厂",
-    "url": "https://www.energy-storage.news/startup-heron-power-to-build-40gw-power-conversion-manufacturing-facility-in-california/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-18T11:13:19+00:00"
-  },
-  "b5f63402eee2": {
-    "id": "b5f63402eee2",
-    "title_en": "German offshore wind body warns of ‘substantial risk’ in CfD plans",
-    "title_zh": "德国海上风电机构警告CfD计划存在“重大风险”",
-    "url": "https://www.windpowermonthly.com/article/1967678/german-offshore-wind-body-warns-substantial-risk-cfd-plans",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-18T11:08:32+00:00"
-  },
-  "ce82f3ce3de9": {
-    "id": "ce82f3ce3de9",
-    "title_en": "UNSW researchers build 12.6%-efficient kesterite solar cell with lower open-circuit voltage losses",
-    "title_zh": "新南威尔士大学的研究人员建造了12.6%效率的锡石太阳能电池，具有较低的开路电压损失",
-    "url": "https://www.pv-magazine.com/2026/08/18/unsw-researchers-build-12-6-efficient-kesterite-solar-cell-with-lower-open-circuit-voltage-losses/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-18T11:02:18+00:00"
-  },
-  "b3fbaeb53537": {
-    "id": "b3fbaeb53537",
-    "title_en": "Iron-air US LDES startup Form Energy secures US$750 million Series G financing",
-    "title_zh": "Iron air美国LDES初创公司Form Energy获得7.5亿美元的G轮融资",
-    "url": "https://www.energy-storage.news/iron-air-us-ldes-startup-form-energy-secures-us750-million-series-g-financing/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-18T11:01:16+00:00"
-  },
-  "cbcabb1150fe": {
-    "id": "cbcabb1150fe",
-    "title_en": "Sunrun signs VPP ‘bring your own capacity’ deal with Voltus for data centres in PJM, MISO",
-    "title_zh": "Sunrun与Voltus签署VPP“自带容量”协议，为MISO PJM的数据中心提供服务",
-    "url": "https://www.pv-tech.org/sunrun-signs-vpp-bring-your-own-capacity-deal-with-voltus-for-data-centres-in-pjm-miso/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-18T10:52:36+00:00"
-  },
-  "32ae096510ac": {
-    "id": "32ae096510ac",
-    "title_en": "What 4th generation LFP batteries mean for BESS",
-    "title_zh": "第四代LFP电池对BESS意味着什么",
-    "url": "https://www.energy-storage.news/what-4th-generation-lfp-batteries-mean-for-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-18T10:49:53+00:00"
-  },
-  "a11a4a982c81": {
-    "id": "a11a4a982c81",
-    "title_en": "Solar remains Latvia’s largest electricity source in July",
-    "title_zh": "太阳能仍然是拉脱维亚7月份最大的电力来源",
-    "url": "https://www.pv-magazine.com/2026/08/18/solar-remains-latvias-largest-electricity-source-in-july/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-18T10:36:15+00:00"
-  },
-  "fa13efdc1baa": {
-    "id": "fa13efdc1baa",
-    "title_en": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
-    "title_zh": "胡塞声称沙特阿美炼油厂在两周内第三次遭到袭击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Third-Attack-on-Saudi-Aramco-Refinery-in-Two-Weeks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-18T10:30:00+00:00"
-  },
-  "45276a16d936": {
-    "id": "45276a16d936",
-    "title_en": "Huawei unveils DC ESS solution and 800-ampere liquid-cooled charging to overcome grid capacity constraints",
-    "title_zh": "华为推出直流ESS解决方案和800安培液冷充电，以克服电网容量限制",
-    "url": "https://www.energy-storage.news/huawei-dc-ess-solution-800-ampere-liquid-cooled-charging-overcome-grid-capacity-constraints/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-18T10:29:01+00:00"
-  },
-  "5d367836e76a": {
-    "id": "5d367836e76a",
-    "title_en": "Hornsea 3 Battery Energy Storage to Start Operations Next Year, Ørsted Selects Arenko’s Platform to Operate BESS",
-    "title_zh": "Hornsea 3电池储能将于明年开始运营，Ørsted选择Arenko的平台运营BESS",
-    "url": "https://www.offshorewind.biz/2026/08/18/hornsea-3-battery-energy-storage-to-start-operations-next-year-orsted-selects-arenkos-platform-to-operate-bess/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-18T10:18:14+00:00"
-  },
-  "579afe9298ce": {
-    "id": "579afe9298ce",
-    "title_en": "Yet Another US Automaker Rushes Into EV Gap Left By Tesla",
-    "title_zh": "又一家美国汽车制造商冲进特斯拉留下的电动汽车缺口",
-    "url": "https://cleantechnica.com/2026/08/18/evs-class-3-trucks-us-market-startups-tesla-competition/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-18T10:00:26+00:00"
-  },
-  "cf9c4d5e1838": {
-    "id": "cf9c4d5e1838",
-    "title_en": "WestWind Energy secures approval for 122MW Normanville wind farm",
-    "title_zh": "WestWind Energy获得122兆瓦Normanville风电场的批准",
-    "url": "https://www.energymonitor.ai/news/westwind-secures-approval-normanville-farm/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-18T09:56:09+00:00"
-  },
-  "ae7d009ca036": {
-    "id": "ae7d009ca036",
-    "title_en": "Wind sector threatens legal action over 'disastrous' plans in Germany",
-    "title_zh": "风电行业威胁对德国的“灾难性”计划采取法律行动",
-    "url": "https://www.windpowermonthly.com/article/1967661/wind-sector-threatens-legal-action-disastrous-plans-germany",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-18T09:47:19+00:00"
-  },
-  "811afee9c17b": {
-    "id": "811afee9c17b",
-    "title_en": "Türkiye to Hold First Offshore Wind Tender in Early 2027",
-    "title_zh": "Türkiye将于2027年初举行首次海上风电招标",
-    "url": "https://www.offshorewind.biz/2026/08/18/turkiye-to-hold-first-offshore-wind-tender-in-early-2027/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-18T09:14:24+00:00"
-  },
-  "9ef22db53e54": {
-    "id": "9ef22db53e54",
-    "title_en": "Brent Tops $91 After Unidentified Projectile Hits Vessel Transiting Hormuz",
-    "title_zh": "不明弹丸击中途经霍尔木兹的船只后，布伦特原油价格突破91美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-91-After-Unidentified-Projectile-Hits-Vessel-Transiting-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-18T09:00:00+00:00"
   }
 }
