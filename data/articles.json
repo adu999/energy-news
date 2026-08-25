@@ -1,4 +1,31 @@
 {
+  "fab9a13bea6c": {
+    "id": "fab9a13bea6c",
+    "title_en": "Massachusetts Is Taking Steps to Lower Energy Costs. Let’s Get the Details Right.",
+    "title_zh": "马萨诸塞州正在采取措施降低能源成本。让我们把细节弄清楚。",
+    "url": "https://cleantechnica.com/2026/08/24/massachusetts-is-taking-steps-to-lower-energy-costs-lets-get-the-details-right/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-25T03:12:21+00:00"
+  },
+  "a361b6b836c0": {
+    "id": "a361b6b836c0",
+    "title_en": "When Do You Trade In Your EV For A New One?",
+    "title_zh": "你什么时候用电动汽车换新的？",
+    "url": "https://cleantechnica.com/2026/08/24/when-do-you-trade-in-your-ev-for-a-new-one/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-25T02:49:45+00:00"
+  },
+  "cda3c671bc17": {
+    "id": "cda3c671bc17",
+    "title_en": "Making This Fossil Fuel Crisis Europe’s Last One",
+    "title_zh": "使这场化石燃料危机成为欧洲的最后一场危机",
+    "url": "https://cleantechnica.com/2026/08/24/making-this-fossil-fuel-crisis-europes-last-one/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-25T01:49:16+00:00"
+  },
   "4d19c23102b2": {
     "id": "4d19c23102b2",
     "title_en": "Sierra Club Condemns Trump-Appointed TVA Approval of Massive Illinois Coal Mining Expansion",
@@ -4471,32 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-08-18T07:30:00+00:00"
-  },
-  "f5e97ba26377": {
-    "id": "f5e97ba26377",
-    "title_en": "Study finds two-terminal perovskite-silicon tandems may not deliver optimal performance in all geographies",
-    "title_zh": "研究发现，双端钙钛矿硅串联可能无法在所有地区提供最佳性能",
-    "url": "https://www.pv-magazine.com/2026/08/18/study-finds-two-terminal-perovskite-silicon-tandems-may-not-deliver-optimal-performance-in-all-climates/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-18T07:20:26+00:00"
-  },
-  "92ee1b1eb19c": {
-    "id": "92ee1b1eb19c",
-    "title_en": "Europe’s Banks Are Treating Hydrogen As A Niche, Not An Economy",
-    "title_zh": "欧洲银行将氢视为一个利基市场，而不是一个经济体",
-    "url": "https://cleantechnica.com/2026/08/18/europe-banks-hydrogen-niche-bankability/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-18T06:43:49+00:00"
-  },
-  "29fa1182cb06": {
-    "id": "29fa1182cb06",
-    "title_en": "Siemens Energy’s First Lightweight Offshore Substation Installed in China",
-    "title_zh": "西门子能源在中国安装的首个轻型海上变电站",
-    "url": "https://www.offshorewind.biz/2026/08/18/siemens-energys-first-lightweight-offshore-substation-installed-in-china/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-18T06:41:39+00:00"
   }
 }
