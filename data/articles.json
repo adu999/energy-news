@@ -1,4 +1,67 @@
 {
+  "b9ed26691c89": {
+    "id": "b9ed26691c89",
+    "title_en": "UK approves 400 MW solar project with 600 MW co-located battery",
+    "title_zh": "英国批准400兆瓦太阳能项目，配备600兆瓦共置电池",
+    "url": "https://www.pv-magazine.com/2026/08/25/uk-approves-400-mw-solar-project-with-600-mw-co-located-battery/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T06:31:07+00:00"
+  },
+  "5aa0d2e54b7f": {
+    "id": "5aa0d2e54b7f",
+    "title_en": "Saudi Arabia awards $1.16 billion for 8 GWh of battery storage",
+    "title_zh": "沙特阿拉伯奖励11.6亿美元用于8GWh的电池储能",
+    "url": "https://www.pv-magazine.com/2026/08/25/saudi-arabia-awards-1-16-billion-for-8-gwh-of-battery-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T06:28:06+00:00"
+  },
+  "15acb05c7f11": {
+    "id": "15acb05c7f11",
+    "title_en": "Iran Threatens Retaliation as U.S. Widens Sanctions",
+    "title_zh": "伊朗威胁报复美国扩大制裁",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Threatens-Retaliation-as-US-Widens-Sanctions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-25T06:00:00+00:00"
+  },
+  "7cde83b96e3b": {
+    "id": "7cde83b96e3b",
+    "title_en": "Battery storage investors ‘feeling the pinch’ as arbitrage spreads narrow across Australia’s NEM",
+    "title_zh": "电池储能投资者“感受到压力”，因为澳大利亚NEM的套利价差收窄",
+    "url": "https://www.energy-storage.news/battery-storage-investors-feeling-the-pinch-as-arbitrage-spreads-narrow-across-australias-nem/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-08-25T05:21:37+00:00"
+  },
+  "3f3070c99213": {
+    "id": "3f3070c99213",
+    "title_en": "40 GW project pipeline has Australia’s energy transition on track",
+    "title_zh": "40吉瓦项目管道使澳大利亚的能源转型步入正轨",
+    "url": "https://www.pv-magazine.com/2026/08/25/40-gw-project-pipeline-has-australias-energy-transition-on-track/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T04:52:18+00:00"
+  },
+  "17d042262d50": {
+    "id": "17d042262d50",
+    "title_en": "Enphase enters commercial battery storage market, announces IQ Battery C80",
+    "title_zh": "Enphase进入商用电池存储市场，宣布推出IQ battery C80",
+    "url": "https://www.pv-magazine.com/2026/08/25/enphase-enters-commercial-battery-storage-market-announces-iq-battery-c80/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T04:49:15+00:00"
+  },
+  "7ee8b639ca83": {
+    "id": "7ee8b639ca83",
+    "title_en": "Brazil’s plan for a battery supply chain",
+    "title_zh": "巴西的电池供应链计划",
+    "url": "https://www.pv-magazine.com/2026/08/25/brazils-plan-for-a-battery-supply-chain/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-25T04:00:00+00:00"
+  },
   "fab9a13bea6c": {
     "id": "fab9a13bea6c",
     "title_en": "Massachusetts Is Taking Steps to Lower Energy Costs. Let’s Get the Details Right.",
@@ -628,6 +691,15 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-08-24T10:45:02+00:00"
+  },
+  "986b86796f0d": {
+    "id": "986b86796f0d",
+    "title_en": "Van Oord installs all 111 monopiles for Baltica 2 wind farm",
+    "title_zh": "凡诺德为波罗的海2号风电场安装了全部111个单桩",
+    "url": "https://www.energymonitor.ai/news/van-oord-111-monopiles-baltica-2/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-24T10:18:13+00:00"
   },
   "f0d1ac8ecf2a": {
     "id": "f0d1ac8ecf2a",
@@ -4426,77 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-18T09:00:00+00:00"
-  },
-  "eaf48a45f37d": {
-    "id": "eaf48a45f37d",
-    "title_en": "Geothermal has big potential. Here’s how states can help realize it.",
-    "title_zh": "地热具有巨大的潜力。以下是各州如何帮助实现这一目标。",
-    "url": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-18T09:00:00+00:00"
-  },
-  "e14fba3b6437": {
-    "id": "e14fba3b6437",
-    "title_en": "China Boosts Fuel Exports as Domestic Stockpiles Swell",
-    "title_zh": "随着国内库存激增，中国推动燃料出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Boosts-Fuel-Exports-as-Domestic-Stockpiles-Swell.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-18T08:05:00+00:00"
-  },
-  "8377a1ee2471": {
-    "id": "8377a1ee2471",
-    "title_en": "Dimension Energy raises $857m for US distributed solar portfolio",
-    "title_zh": "Dimension Energy为美国分布式太阳能投资组合融资8.57亿美元",
-    "url": "https://www.energymonitor.ai/news/dimension-energy-raises-857m/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-18T08:04:09+00:00"
-  },
-  "b325d7adcdf5": {
-    "id": "b325d7adcdf5",
-    "title_en": "AES Andes inaugurates 510 MW solar-plus-storage complex in Chile",
-    "title_zh": "AES Andes在智利启动了510兆瓦的太阳能+储能综合体",
-    "url": "https://www.pv-magazine.com/2026/08/18/aes-andes-inaugurates-510-mw-solar-plus-storage-complex-in-chile/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-18T07:59:23+00:00"
-  },
-  "d42e4c86493c": {
-    "id": "d42e4c86493c",
-    "title_en": "Four Turbines to Go at US Offshore Wind Farm Set to Power Rhode Island and Connecticut",
-    "title_zh": "美国海上风电场将安装四台涡轮机，为罗德岛州和康涅狄格州供电",
-    "url": "https://www.offshorewind.biz/2026/08/18/four-turbines-to-go-at-us-offshore-wind-farm-set-to-power-rhode-island-and-connecticut/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-18T07:42:45+00:00"
-  },
-  "c04260f1efa7": {
-    "id": "c04260f1efa7",
-    "title_en": "As Europe overheats, solar module prices cool down",
-    "title_zh": "随着欧洲过热，太阳能组件价格降温",
-    "url": "https://www.pv-magazine.com/2026/08/18/as-europe-overheats-solar-module-prices-cool-down/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-18T07:34:13+00:00"
-  },
-  "b398745889b6": {
-    "id": "b398745889b6",
-    "title_en": "California gubernatorial candidate pledges two hours of free power a day",
-    "title_zh": "加利福尼亚州州长候选人承诺每天提供两小时的免费电力",
-    "url": "https://www.canarymedia.com/articles/politics/california-becerra-pledges-free-power",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-18T07:30:00+00:00"
-  },
-  "fb74b4462cf3": {
-    "id": "fb74b4462cf3",
-    "title_en": "Major data center bills advance in California despite industry pushback",
-    "title_zh": "尽管面临行业阻力，加利福尼亚州的主要数据中心法案仍在推进",
-    "url": "https://www.canarymedia.com/articles/data-centers/major-data-center-bills-advance-california",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-18T07:30:00+00:00"
   }
 }
