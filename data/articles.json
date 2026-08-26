@@ -1,4 +1,67 @@
 {
+  "e9a16c45e57e": {
+    "id": "e9a16c45e57e",
+    "title_en": "MRCool releases inverter heat pump for recreational vehicles",
+    "title_zh": "MRCool为休闲车推出变频热泵",
+    "url": "https://www.pv-magazine.com/2026/08/26/mrcool-releases-inverter-heat-pump-for-recreational-vehicles/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-26T06:46:29+00:00"
+  },
+  "6dce03fccf27": {
+    "id": "6dce03fccf27",
+    "title_en": "Oil Prices Fall as Iran-Oman Talks Fuel Hopes of Strait Reopening",
+    "title_zh": "伊朗-阿曼谈判引发海峡重新开放的希望，油价下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Iran-Oman-Talks-Fuel-Hopes-of-Strait-Reopening.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-26T06:30:00+00:00"
+  },
+  "c837a715e250": {
+    "id": "c837a715e250",
+    "title_en": "Brazilian water tank maker presents new floating PV solution",
+    "title_zh": "巴西水箱制造商推出新型浮动光伏解决方案",
+    "url": "https://www.pv-magazine.com/2026/08/26/brazilian-water-tank-maker-presents-new-floating-pv-solution/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-26T06:19:57+00:00"
+  },
+  "7864dc76629b": {
+    "id": "7864dc76629b",
+    "title_en": "Australia seeks 1.8 GW of renewable energy generation in new CIS tender",
+    "title_zh": "澳大利亚在新的独联体招标中寻求1.8吉瓦的可再生能源发电",
+    "url": "https://www.pv-magazine.com/2026/08/26/wa-seeks-1-8-gw-of-renewable-energy-generation-in-new-cis-tender/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-26T05:45:09+00:00"
+  },
+  "458bdc51d30e": {
+    "id": "458bdc51d30e",
+    "title_en": "A 1995 Dodge Ram Shows What US EV Policy Keeps Missing",
+    "title_zh": "1995年道奇公羊展示了美国电动汽车政策一直缺失的东西",
+    "url": "https://cleantechnica.com/2026/08/26/1995-dodge-ram-ev-scrappage-incentives/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T05:17:03+00:00"
+  },
+  "41fc104e1291": {
+    "id": "41fc104e1291",
+    "title_en": "Argentina’s next era",
+    "title_zh": "阿根廷的下一个时代",
+    "url": "https://www.pv-magazine.com/2026/08/26/argentinas-next-era/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-26T04:00:00+00:00"
+  },
+  "6ac8ebc428c4": {
+    "id": "6ac8ebc428c4",
+    "title_en": "Kia EV3 To Give Americans A Cheap Electric Car Option",
+    "title_zh": "起亚EV3将为美国人提供廉价的电动汽车选择",
+    "url": "https://cleantechnica.com/2026/08/25/kia-ev3-to-give-americans-a-cheap-electric-car-option/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T03:50:09+00:00"
+  },
   "a2ec5f0472b6": {
     "id": "a2ec5f0472b6",
     "title_en": "‘Up to six months faster’: DC-coupling expedites hybrid solar-plus-storage grid connection approvals in Australia",
@@ -4435,68 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-08-19T10:18:49+00:00"
-  },
-  "300f6e373a76": {
-    "id": "300f6e373a76",
-    "title_en": "Analysis: Spanish wind repowering gets battery boost",
-    "title_zh": "分析：西班牙风力发电得到电池充电",
-    "url": "https://www.windpowermonthly.com/article/1967796/analysis-spanish-wind-repowering-gets-battery-boost",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-19T10:03:03+00:00"
-  },
-  "2728c8ed6d05": {
-    "id": "2728c8ed6d05",
-    "title_en": "Strait of Hormuz Shipping Slows After Vessel Attack",
-    "title_zh": "霍尔木兹海峡船只袭击后航运放缓",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Slows-After-Vessel-Attack.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-19T09:30:00+00:00"
-  },
-  "98c3e954a4ea": {
-    "id": "98c3e954a4ea",
-    "title_en": "Germany awards over 2.1GW of utility PV in latest oversubscribed tender",
-    "title_zh": "德国在最新超额认购招标中授予超过2.1GW的公用事业光伏",
-    "url": "https://www.pv-tech.org/germany-awards-over-2-1gw-of-utility-pv-in-latest-oversubscribed-tender/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-19T09:19:25+00:00"
-  },
-  "b239011ec6ad": {
-    "id": "b239011ec6ad",
-    "title_en": "Copenhagen Infrastructure Partners closes US$3 billion energy fund targeting ‘high-growth, middle-income markets’",
-    "title_zh": "哥本哈根基础设施合作伙伴关闭了30亿美元的能源基金，目标是“高增长、中等收入市场”",
-    "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-closes-us3-billion-energy-fund-targeting-high-growth-middle-income-markets/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-19T09:10:13+00:00"
-  },
-  "a7f57d5d5b9a": {
-    "id": "a7f57d5d5b9a",
-    "title_en": "Pakistan’s net billing reform sheds light on deeper power sector issues",
-    "title_zh": "巴基斯坦的净计费改革揭示了更深层次的电力部门问题",
-    "url": "https://www.pv-magazine.com/2026/08/19/pakistans-net-billing-reform-sheds-light-on-deeper-power-sector-issues/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-19T08:56:06+00:00"
-  },
-  "3f3fa235a646": {
-    "id": "3f3fa235a646",
-    "title_en": "Maxeon lawsuits against Canadian Solar cell patents dismissed with prejudice",
-    "title_zh": "Maxeon对加拿大太阳能电池专利的诉讼被驳回",
-    "url": "https://www.pv-tech.org/maxeon-lawsuits-canadian-solar-cell-patents-dismissed-with-prejudice/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-19T08:54:55+00:00"
-  },
-  "bef40b68bdc8": {
-    "id": "bef40b68bdc8",
-    "title_en": "Türkiye’s PV module manufacturing capacity tops 13.2 GW",
-    "title_zh": "土耳其光伏组件产能突破13.2吉瓦",
-    "url": "https://www.pv-magazine.com/2026/08/19/turkiyes-pv-module-manufacturing-capacity-tops-13-2-gw/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-19T08:35:55+00:00"
   }
 }
