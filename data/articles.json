@@ -1,4 +1,157 @@
 {
+  "abee2e45c49f": {
+    "id": "abee2e45c49f",
+    "title_en": "Xiaomi Launches Global EV Website",
+    "title_zh": "小米推出全球电动汽车网站",
+    "url": "https://cleantechnica.com/2026/08/26/xiaomi-launches-global-ev-website/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-27T00:17:52+00:00"
+  },
+  "cd6f72ec322a": {
+    "id": "cd6f72ec322a",
+    "title_en": "Global Oil Security Looks Shakier as Conflicts Hit 45 Million Bpd of Supply",
+    "title_zh": "全球石油安全看起来更加不稳定，因为冲突影响了4500万桶/日的供应",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-Oil-Security-Looks-Shakier-as-Conflicts-Hit-45-Million-Bpd-of-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-27T00:00:00+00:00"
+  },
+  "8a491bbc5125": {
+    "id": "8a491bbc5125",
+    "title_en": "10 AI Lessons from Driving 200+ Million Fully Autonomous Miles",
+    "title_zh": "驾驶2亿多全自动里程的10个人工智能教训",
+    "url": "https://cleantechnica.com/2026/08/26/10-ai-lessons-from-driving-200-million-fully-autonomous-miles/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T23:08:14+00:00"
+  },
+  "1c8ea42866f1": {
+    "id": "1c8ea42866f1",
+    "title_en": "MIT Uses AI to Challenge a Century-Old Process for Mass Ammonia Production",
+    "title_zh": "麻省理工学院利用人工智能挑战一个有百年历史的大规模氨生产工艺",
+    "url": "https://oilprice.com/Energy/Energy-General/MIT-Uses-AI-to-Challenge-a-Century-Old-Process-for-Mass-Ammonia-Production.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-26T23:00:00+00:00"
+  },
+  "10079529a387": {
+    "id": "10079529a387",
+    "title_en": "Gary, Indiana is a warning: energy independence has gotten personal",
+    "title_zh": "印第安纳州的加里是一个警告：能源独立已经成为个人问题",
+    "url": "https://electrek.co/2026/08/26/gary-indiana-is-a-warning-energy-independence-has-gotten-personal/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-26T22:59:38+00:00"
+  },
+  "da76b2310b65": {
+    "id": "da76b2310b65",
+    "title_en": "What Tesla “Full Self Driving” V14 Still Can’t Do",
+    "title_zh": "特斯拉“全自动驾驶”V14仍不能做到什么",
+    "url": "https://cleantechnica.com/2026/08/26/what-tesla-full-self-driving-v14-still-cant-do/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T22:49:08+00:00"
+  },
+  "deb3ff056bf3": {
+    "id": "deb3ff056bf3",
+    "title_en": "Range Rover’s next EV breaks cover, and it’s not an SUV [Images]",
+    "title_zh": "路虎揽胜的下一代电动汽车打破了封面，它不是SUV[图片]",
+    "url": "https://electrek.co/2026/08/26/range-rovers-next-ev-breaks-cover-not-an-suv-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-26T22:13:51+00:00"
+  },
+  "836356b3c058": {
+    "id": "836356b3c058",
+    "title_en": "Delaware Governor Signs First-of-its-Kind Bill to Power Data Centers with Clean Energy",
+    "title_zh": "特拉华州州长签署了首个用清洁能源为数据中心供电的法案",
+    "url": "https://cleantechnica.com/2026/08/26/delaware-governor-signs-first-of-its-kind-bill-to-power-data-centers-with-clean-energy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T22:01:11+00:00"
+  },
+  "937133fff3be": {
+    "id": "937133fff3be",
+    "title_en": "Equinor Targets 27% International Production Growth by 2030",
+    "title_zh": "Equinor的目标是到2030年国际产量增长27%",
+    "url": "https://oilprice.com/Energy/Energy-General/Equinor-Targets-27-International-Production-Growth-by-2030.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-26T22:00:00+00:00"
+  },
+  "ecdc6d3aa392": {
+    "id": "ecdc6d3aa392",
+    "title_en": "Chemical Spill at Duke Energy Plant in Florida Highlights Risks of Fossil Fuel Infrastructure",
+    "title_zh": "佛罗里达州杜克能源厂化学品泄漏凸显化石燃料基础设施的风险",
+    "url": "https://cleantechnica.com/2026/08/26/chemical-spill-at-duke-energy-plant-in-florida-highlights-risks-of-fossil-fuel-infrastructure/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T21:55:20+00:00"
+  },
+  "9c7e657893d6": {
+    "id": "9c7e657893d6",
+    "title_en": "Plug-in solar panels now legal in the UK",
+    "title_zh": "插电式太阳能电池板现在在英国合法",
+    "url": "https://www.pv-magazine.com/2026/08/26/plug-in-solar-panels-now-legal-in-the-uk/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-26T21:30:00+00:00"
+  },
+  "fd03527153ab": {
+    "id": "fd03527153ab",
+    "title_en": "Sodium-Ion Batteries For The Win!",
+    "title_zh": "钠离子电池赢！",
+    "url": "https://cleantechnica.com/2026/08/26/sodium-ion-batteries-for-the-win/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-26T21:29:27+00:00"
+  },
+  "7fb10caeda81": {
+    "id": "7fb10caeda81",
+    "title_en": "Octopus Boss Warns UK Is Too Exposed to Global Gas Prices",
+    "title_zh": "Octopus Boss警告英国对全球天然气价格过于敏感",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Octopus-Boss-Warns-UK-Is-Too-Exposed-to-Global-Gas-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-26T21:00:00+00:00"
+  },
+  "837d3c7f2a12": {
+    "id": "837d3c7f2a12",
+    "title_en": "U.S. Army Mobilizes $2.2B Janus Program to Deploy More Than 20 Commercial Microreactors",
+    "title_zh": "美国陆军动员22亿美元的Janus计划部署20多个商用微反应堆",
+    "url": "https://www.powermag.com/u-s-army-mobilizes-2-2b-janus-program-to-deploy-more-than-20-commercial-microreactors/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-08-26T20:32:59+00:00"
+  },
+  "11cbc2381810": {
+    "id": "11cbc2381810",
+    "title_en": "Genesis is no longer a dark horse in the luxury space, and the GV90 proves it",
+    "title_zh": "Genesis不再是奢侈品领域的黑马，GV90证明了这一点",
+    "url": "https://electrek.co/2026/08/26/genesis-dark-horse-luxury-gv90-proves-it/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-26T20:30:04+00:00"
+  },
+  "593a63c10979": {
+    "id": "593a63c10979",
+    "title_en": "Aramco Finds a New Way to Keep Saudi Crude Flowing to China",
+    "title_zh": "沙特阿美公司找到了一种新的方式来保持沙特原油流入中国",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Aramco-Finds-a-New-Way-to-Keep-Saudi-Crude-Flowing-to-China.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-26T20:00:00+00:00"
+  },
+  "4961a24d7ee8": {
+    "id": "4961a24d7ee8",
+    "title_en": "CNOOC Posts Record Profit as China Pumps More Oil at Home",
+    "title_zh": "中海油公布创纪录利润，因中国在国内开采更多石油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/CNOOC-Posts-Record-Profit-as-China-Pumps-More-Oil-at-Home.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-26T19:45:00+00:00"
+  },
   "8ba4888fd622": {
     "id": "8ba4888fd622",
     "title_en": "Hull Street Acquires Two PJM-Based Power Stations from Rockland Capital",
@@ -4345,158 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-20T08:49:48+00:00"
-  },
-  "bd0e586b934e": {
-    "id": "bd0e586b934e",
-    "title_en": "Mexican solar installers report risks of kidnapping and extortion",
-    "title_zh": "墨西哥太阳能安装商报告绑架和勒索风险",
-    "url": "https://www.pv-magazine.com/2026/08/20/mexican-solar-installers-report-risks-of-kidnapping-and-extortion/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T08:10:59+00:00"
-  },
-  "042a727f5343": {
-    "id": "042a727f5343",
-    "title_en": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
-    "title_zh": "中东石油危机导致超级油轮价格创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-20T08:00:00+00:00"
-  },
-  "7941c3191213": {
-    "id": "7941c3191213",
-    "title_en": "Ørsted plans 2GW Dadu 2 offshore wind project in Taiwan",
-    "title_zh": "Örsted计划在台湾建设2GW Dadu 2海上风电项目",
-    "url": "https://www.energymonitor.ai/news/orsted-plans-dadu-2/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-20T07:55:25+00:00"
-  },
-  "fe2fa1ef3d01": {
-    "id": "fe2fa1ef3d01",
-    "title_en": "PV life cycle assessment gets its most comprehensive data overhaul in more than a decade",
-    "title_zh": "光伏生命周期评估获得十多年来最全面的数据检修",
-    "url": "https://www.pv-magazine.com/2026/08/20/pv-life-cycle-assessment-gets-its-most-comprehensive-data-overhaul-in-more-than-a-decade/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T07:54:38+00:00"
-  },
-  "1fa3c394a6b4": {
-    "id": "1fa3c394a6b4",
-    "title_en": "Sif Loads Out Final Monopiles for Polish 1.4 GW Offshore Wind Project",
-    "title_zh": "Sif为波兰1.4吉瓦海上风电项目装船最终单桩",
-    "url": "https://www.offshorewind.biz/2026/08/20/sif-loads-out-final-monopiles-for-polish-1-4-gw-offshore-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-20T07:34:56+00:00"
-  },
-  "54965a7beff0": {
-    "id": "54965a7beff0",
-    "title_en": "Duke Energy deals double whammy to its poorest North Carolina customers",
-    "title_zh": "杜克能源公司对其最贫穷的北卡罗来纳州客户进行了双重打击",
-    "url": "https://www.canarymedia.com/articles/utilities/duke-energy-poorest-nc-customers",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-20T07:30:00+00:00"
-  },
-  "3bcf13fd82a3": {
-    "id": "3bcf13fd82a3",
-    "title_en": "US apartment buildings have tipped toward heat pumps",
-    "title_zh": "美国公寓楼向热泵倾斜",
-    "url": "https://www.canarymedia.com/articles/heat-pumps/most-new-apartment-buildings-have-heat-pumps",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-20T07:30:00+00:00"
-  },
-  "4f05f267ec26": {
-    "id": "4f05f267ec26",
-    "title_en": "Where and how to cut back-contact TOPCon solar cells to minimize recombination losses",
-    "title_zh": "在哪里以及如何减少接触TOPCon太阳能电池，以最大限度地减少复合损失",
-    "url": "https://www.pv-magazine.com/2026/08/20/where-and-how-to-cut-back-contact-topcon-solar-cells-to-minimize-recombination-losses/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T07:01:28+00:00"
-  },
-  "ebd3d4998e9c": {
-    "id": "ebd3d4998e9c",
-    "title_en": "Elevated Oil Prices Push Japan’s Imports to an All-Time High",
-    "title_zh": "油价上涨推动日本进口创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Elevated-Oil-Prices-Push-Japans-Imports-to-an-All-Time-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-20T06:45:00+00:00"
-  },
-  "6dae7cebeb07": {
-    "id": "6dae7cebeb07",
-    "title_en": "2 GW HVDC Is Becoming Standard. The Rest Of The Grid Isn’t.",
-    "title_zh": "2GW高压直流输电正在成为标准。网格的其余部分则不是。",
-    "url": "https://cleantechnica.com/2026/08/20/2-gw-hvdc-standard-grid-controls/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-20T06:31:58+00:00"
-  },
-  "7e2460f20576": {
-    "id": "7e2460f20576",
-    "title_en": "Researchers build 9%-efficient semitransparent organic PV modules with 210 cm² aperture area",
-    "title_zh": "研究人员建造了9%效率的半透明有机光伏组件，孔径面积为210平方厘米",
-    "url": "https://www.pv-magazine.com/2026/08/20/researchers-build-9-efficient-semitransparent-organic-pv-modules-with-210-cm%c2%b2-aperture-area/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T06:03:01+00:00"
-  },
-  "f4f7a9b27a91": {
-    "id": "f4f7a9b27a91",
-    "title_en": "BYD starts sales of 4.8 kW solar kits in Brazil",
-    "title_zh": "比亚迪在巴西开始销售4.8千瓦太阳能套件",
-    "url": "https://www.pv-magazine.com/2026/08/20/byd-comienza-a-vender-kits-solares-de-48-kwp-en-233-concesionarios-en-brasil/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T05:41:18+00:00"
-  },
-  "719765d86e17": {
-    "id": "719765d86e17",
-    "title_en": "Essential system testing every solar project needs for long-term performance",
-    "title_zh": "每个太阳能项目长期性能所需的基本系统测试",
-    "url": "https://www.pv-magazine.com/2026/08/20/essential-system-testing-every-solar-project-needs-for-long-term-performance/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T05:31:48+00:00"
-  },
-  "6084fd1f0b8b": {
-    "id": "6084fd1f0b8b",
-    "title_en": "Chinese Refiners Snap Up Iraqi Oil as Gulf Supply Routes Fracture",
-    "title_zh": "海湾供应线断裂，中国炼油厂抢购伊拉克石油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Refiners-Snap-Up-Iraqi-Oil-as-Gulf-Supply-Routes-Fracture.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-20T05:30:00+00:00"
-  },
-  "8920391e9a34": {
-    "id": "8920391e9a34",
-    "title_en": "Blocked BESS in Britain: Clearstone’s appeal fails for 150 MW site at Axminster",
-    "title_zh": "英国BESS受阻：Clearstone对Axminster 150兆瓦发电厂的上诉失败",
-    "url": "https://www.pv-magazine.com/2026/08/20/blocked-bess-in-britain-clearstones-appeal-fails-for-150-mw-site-at-axminster/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T05:00:00+00:00"
-  },
-  "6190ded5a77f": {
-    "id": "6190ded5a77f",
-    "title_en": "New materials in the frame",
-    "title_zh": "框架中的新材料",
-    "url": "https://www.pv-magazine.com/2026/08/20/new-materials-in-the-frame/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-20T04:00:00+00:00"
-  },
-  "483bb6d35079": {
-    "id": "483bb6d35079",
-    "title_en": "Asahi Kasei Develops Novel Lithium Pre-doping Technology to Raise Energy Density and Lower Cost of Silicon-rich Lithium-ion Batteries",
-    "title_zh": "旭化成开发新型锂预掺杂技术，提高富硅锂离子电池的能量密度，降低成本",
-    "url": "https://cleantechnica.com/2026/08/19/asahi-kasei-develops-novel-lithium-pre-doping-technology-to-raise-energy-density-and-lower-cost-of-silicon-rich-lithium-ion-batteries/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-20T03:55:39+00:00"
   }
 }
