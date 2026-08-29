@@ -1,4 +1,58 @@
 {
+  "c4447a30867f": {
+    "id": "c4447a30867f",
+    "title_en": "Europe EV Sales Report: BEVs Reach 26% Market Share!",
+    "title_zh": "欧洲电动汽车销售报告：纯电动汽车市场份额达到26%！",
+    "url": "https://cleantechnica.com/2026/08/29/europe-ev-sales-report-bevs-reach-26-market-share/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-29T17:57:49+00:00"
+  },
+  "375943c6b435": {
+    "id": "375943c6b435",
+    "title_en": "America’s Electricity Boom Is Outrunning Its Power Grid",
+    "title_zh": "美国的电力繁荣正在超越其电网",
+    "url": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-29T17:00:00+00:00"
+  },
+  "7a9bdc68c372": {
+    "id": "7a9bdc68c372",
+    "title_en": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
+    "title_zh": "666年3月13日，美国电力公司",
+    "url": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-29T16:08:01+00:00"
+  },
+  "d9adb1cdc92d": {
+    "id": "d9adb1cdc92d",
+    "title_en": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil",
+    "title_zh": "美国关注18世纪扣押和出售伊朗石油的法律",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Eyes-18th-Century-Law-to-Seize-and-Sell-Iranian-Oil.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-29T16:00:00+00:00"
+  },
+  "406b14ca4814": {
+    "id": "406b14ca4814",
+    "title_en": "MediaEd Insights: Food as Ecomedia Literacy",
+    "title_zh": "MediaEd见解：食物即生态媒体素养",
+    "url": "https://cleantechnica.com/2026/08/29/mediaed-insights-food-as-ecomedia-literacy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-29T15:48:38+00:00"
+  },
+  "39c86ddf3208": {
+    "id": "39c86ddf3208",
+    "title_en": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+    "title_zh": "石油资源丰富的阿塞拜疆在清洁能源热潮上下了大赌注",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-29T15:00:00+00:00"
+  },
   "7f7c5e1fab08": {
     "id": "7f7c5e1fab08",
     "title_en": "MacGregor says demand for its electric cranes is BOOMING in 2026",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-23T18:00:00+00:00"
-  },
-  "f655d0f95255": {
-    "id": "f655d0f95255",
-    "title_en": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
-    "title_zh": "NVIDIA与Cloverleaf携手推进数据中心开发",
-    "url": "https://www.powermag.com/nvidia-cloverleaf-partnering-to-advance-data-center-development/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-08-23T15:25:23+00:00"
-  },
-  "6e23c2b95688": {
-    "id": "6e23c2b95688",
-    "title_en": "Underwater Volcanoes Are Geothermal Energy’s Next Frontier",
-    "title_zh": "水下火山是地热能的下一个前沿",
-    "url": "https://oilprice.com/Energy/Energy-General/Underwater-Volcanoes-Are-Geothermal-Energys-Next-Frontier.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-23T15:00:00+00:00"
-  },
-  "1bfb404091fe": {
-    "id": "1bfb404091fe",
-    "title_en": "Tesla Semi Moves Into Europe & Gets Largest Order To Date",
-    "title_zh": "特斯拉Semi进军欧洲并获得迄今为止最大订单",
-    "url": "https://cleantechnica.com/2026/08/23/tesla-semi-moves-into-europe-gets-largest-order-to-date/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-23T13:42:13+00:00"
-  },
-  "8b01d8089207": {
-    "id": "8b01d8089207",
-    "title_en": "A Hydrogen Generator Charged An Electric Ship. Why Was Hydrogen There?",
-    "title_zh": "一台氢气发生器为一艘电动船充电。为什么会有氢气？",
-    "url": "https://cleantechnica.com/2026/08/23/hydrogen-ship-charging-tilbury-battery-test/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-23T06:35:44+00:00"
-  },
-  "d28640c52a4d": {
-    "id": "d28640c52a4d",
-    "title_en": "Red States Are Killin’ It With Their Solar Factories",
-    "title_zh": "红州正在用他们的太阳能工厂扼杀它",
-    "url": "https://cleantechnica.com/2026/08/22/solar-factory-microgrids-ev-charging-startup-translucent-energy/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-22T23:47:54+00:00"
-  },
-  "a2e558e1ba36": {
-    "id": "a2e558e1ba36",
-    "title_en": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
-    "title_zh": "欧洲以最糟糕的原因躲过了莱茵河危机",
-    "url": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-22T23:00:00+00:00"
   }
 }
