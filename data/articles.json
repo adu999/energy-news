@@ -1,4 +1,40 @@
 {
+  "7f7c5e1fab08": {
+    "id": "7f7c5e1fab08",
+    "title_en": "MacGregor says demand for its electric cranes is BOOMING in 2026",
+    "title_zh": "麦格雷戈表示，2026年电动起重机的需求将激增",
+    "url": "https://electrek.co/2026/08/29/macgregor-says-demand-for-its-electric-cranes-is-booming-in-2026/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-29T14:10:09+00:00"
+  },
+  "3006593fcce1": {
+    "id": "3006593fcce1",
+    "title_en": "Robot delivery dog dumps hot steaming packages on your doorstep [video]",
+    "title_zh": "机器人送货犬将热气腾腾的包裹倾倒在你家门口[视频]",
+    "url": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-29T13:19:10+00:00"
+  },
+  "3523e749423e": {
+    "id": "3523e749423e",
+    "title_en": "Illinois just made 40 mph e-bikes street legal – but there’s a huge catch",
+    "title_zh": "伊利诺伊州刚刚将时速40英里的电动自行车合法化，但有一个巨大的陷阱",
+    "url": "https://electrek.co/2026/08/29/illinois-just-made-40-mph-e-bikes-street-legal-but-theres-a-huge-catch/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-29T11:54:31+00:00"
+  },
+  "543fb65af97c": {
+    "id": "543fb65af97c",
+    "title_en": "US Army Aims To Capture Energy From “The Environment”",
+    "title_zh": "美国陆军旨在从“环境”中获取能源",
+    "url": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-29T11:39:19+00:00"
+  },
   "f035d58d5efc": {
     "id": "f035d58d5efc",
     "title_en": "Methane Thermolysis Has A Carbon Market Problem",
@@ -25,6 +61,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-29T04:00:00+00:00"
+  },
+  "794e1eb15084": {
+    "id": "794e1eb15084",
+    "title_en": "Vycarb Successfully Stores Low-Purity CO2 In Seawater",
+    "title_zh": "Vycarb成功将低纯度二氧化碳储存在海水中",
+    "url": "https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-29T03:57:39+00:00"
   },
   "3e46f7127265": {
     "id": "3e46f7127265",
@@ -493,6 +538,15 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-08-28T10:51:44+00:00"
+  },
+  "56725cef5ece": {
+    "id": "56725cef5ece",
+    "title_en": "Calix selects Perdaman as hydrogen partner for Zesty Green Iron project",
+    "title_zh": "Calix选择Perdaman作为Zesty Green Iron项目的氢气合作伙伴",
+    "url": "https://www.energymonitor.ai/news/calix-selects-perdaman-hydrogen-partner/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-08-28T10:45:05+00:00"
   },
   "4d4070e6a011": {
     "id": "4d4070e6a011",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-22T23:00:00+00:00"
-  },
-  "36962a34eaf0": {
-    "id": "36962a34eaf0",
-    "title_en": "China Tightens Restrictions On Electric Door Handles, Forcing Tesla To Recall 3 Million Vehicles",
-    "title_zh": "中国收紧对电动门把手的限制，迫使特斯拉召回300万辆汽车",
-    "url": "https://cleantechnica.com/2026/08/22/china-tightens-restrictions-on-electric-door-handles-forcing-tesla-to-recall-3-million-vehicles/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-22T22:40:43+00:00"
-  },
-  "fb3896ccd567": {
-    "id": "fb3896ccd567",
-    "title_en": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-    "title_zh": "燃气轮机短缺刚刚成为人工智能的最大制约因素",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-22T21:00:00+00:00"
-  },
-  "8f5589d1a4d0": {
-    "id": "8f5589d1a4d0",
-    "title_en": "For Lagging Automakers: Stop Pouring Money Into The Wrong Powertrains",
-    "title_zh": "对于落后的汽车制造商：停止将资金投入错误的动力系统",
-    "url": "https://cleantechnica.com/2026/08/22/for-lagging-automakers-stop-pouring-money-into-the-wrong-powertrains/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-22T20:49:36+00:00"
-  },
-  "f43efd4ee500": {
-    "id": "f43efd4ee500",
-    "title_en": "Starlink Is Now The Largest ISP In Zimbabwe By Subscriber Count!",
-    "title_zh": "Starlink现在是津巴布韦用户数量最大的ISP！",
-    "url": "https://cleantechnica.com/2026/08/22/starlink-is-now-the-largest-isp-in-zimbabwe-by-subscriber-count/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-22T20:35:06+00:00"
-  },
-  "9e0cabe52e6c": {
-    "id": "9e0cabe52e6c",
-    "title_en": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
-    "title_zh": "2026年清洁能源支出接近创纪录的1800亿美元",
-    "url": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-22T19:00:00+00:00"
-  },
-  "154af32dac40": {
-    "id": "154af32dac40",
-    "title_en": "The ICE Meltdown Continues — July’s China EV Sales Report (44% BEV Share)",
-    "title_zh": "ICE的崩溃仍在继续——7月份中国电动汽车销售报告（44%的纯电动汽车份额）",
-    "url": "https://cleantechnica.com/2026/08/22/the-ice-meltdown-continues-julys-china-ev-sales-report-44-bev-share/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-22T18:08:50+00:00"
   }
 }
