@@ -1,4 +1,40 @@
 {
+  "6c97720f4182": {
+    "id": "6c97720f4182",
+    "title_en": "Iran War Adds $330 Billion to Global Energy Import Bill",
+    "title_zh": "伊朗战争使全球能源进口法案增加3300亿美元",
+    "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Adds-330-Billion-to-Global-Energy-Import-Bill.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-29T23:00:00+00:00"
+  },
+  "2c4359a9398a": {
+    "id": "2c4359a9398a",
+    "title_en": "Solar Has Crossed a Critical Economic Tipping Point",
+    "title_zh": "太阳能已经跨越了一个关键的经济转折点",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Crossed-a-Critical-Economic-Tipping-Point.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-29T21:00:00+00:00"
+  },
+  "edc4af437f39": {
+    "id": "edc4af437f39",
+    "title_en": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
+    "title_zh": "墨西哥的绿色能源推动终于获得了动力",
+    "url": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-29T19:00:00+00:00"
+  },
+  "de4fb3132dc1": {
+    "id": "de4fb3132dc1",
+    "title_en": "Most “Park Outside” Warnings Involve Vehicles With Internal Combustion Engines",
+    "title_zh": "大多数“停在外面”警告涉及内燃机车辆",
+    "url": "https://cleantechnica.com/2026/08/29/most-park-outside-warnings-involve-vehicles-with-internal-combustion-engines/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-08-29T18:08:44+00:00"
+  },
   "c4447a30867f": {
     "id": "c4447a30867f",
     "title_en": "Europe EV Sales Report: BEVs Reach 26% Market Share!",
@@ -4462,41 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-08-23T21:34:33+00:00"
-  },
-  "45f95eccc055": {
-    "id": "45f95eccc055",
-    "title_en": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
-    "title_zh": "Pemex和Petrobras在墨西哥近海的高风险高回报钻井上下了大赌注",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Pemex-and-Petrobras-Bet-Big-on-High-Risk-High-Reward-Drilling-Off-Mexico.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-23T21:00:00+00:00"
-  },
-  "ebdcdecd5422": {
-    "id": "ebdcdecd5422",
-    "title_en": "In The American Southwest, The Water Crisis Threatens Existential Harm To Millions",
-    "title_zh": "在美国西南部，水危机威胁着数百万人的生存",
-    "url": "https://cleantechnica.com/2026/08/23/in-the-american-southwest-the-water-crisis-threatens-existential-harm-to-millions/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-23T20:12:27+00:00"
-  },
-  "7e6e42bb26a1": {
-    "id": "7e6e42bb26a1",
-    "title_en": "Super El Niño Threatens Food, Water and Trade Worldwide",
-    "title_zh": "超级厄尔尼诺现象威胁全球粮食、水和贸易",
-    "url": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-23T19:00:00+00:00"
-  },
-  "cf4b085fb0de": {
-    "id": "cf4b085fb0de",
-    "title_en": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
-    "title_zh": "随着人工智能重塑电网，私募股权正在绕过公用事业",
-    "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-23T18:00:00+00:00"
   }
 }
