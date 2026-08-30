@@ -1,4 +1,40 @@
 {
+  "555df18c60f5": {
+    "id": "555df18c60f5",
+    "title_en": "UBS Says a Major Commodity Upcycle Is Taking Shape",
+    "title_zh": "瑞银表示，大宗商品价格正在形成一个主要的上涨周期",
+    "url": "https://oilprice.com/Metals/Commodities/UBS-Says-a-Major-Commodity-Upcycle-Is-Taking-Shape.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-30T19:00:00+00:00"
+  },
+  "19c13ff78324": {
+    "id": "19c13ff78324",
+    "title_en": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
+    "title_zh": "周日调查：福特Fathom会抢走Slate Auto的风头吗？",
+    "url": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-30T17:43:59+00:00"
+  },
+  "1ec77694484b": {
+    "id": "1ec77694484b",
+    "title_en": "Amazon’s massive 2026 Labor Day sale now live! Thousands of deals: Apple, Android, TVs, tech under $100, more from under $5",
+    "title_zh": "亚马逊2026年劳动节大甩卖现已上线！数千笔交易：苹果、安卓、电视、100美元以下的科技，5美元以下的更多",
+    "url": "https://9to5toys.com/2026/08/30/amazon-2026-labor-day-now-live/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-30T17:21:38+00:00"
+  },
+  "45a9c07a3ed2": {
+    "id": "45a9c07a3ed2",
+    "title_en": "Data Centers Are Driving a New U.S. Natural Gas Buildout",
+    "title_zh": "数据中心正在推动美国新的天然气建设",
+    "url": "https://oilprice.com/Energy/Energy-General/Data-Centers-Are-Driving-a-New-US-Natural-Gas-Buildout.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-30T17:00:00+00:00"
+  },
   "daec74135659": {
     "id": "daec74135659",
     "title_en": "Hyundai Bets Big On Extended-Range Electric Vehicles",
@@ -4462,41 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-24T08:00:14+00:00"
-  },
-  "e68ade127cc6": {
-    "id": "e68ade127cc6",
-    "title_en": "All Foundations In Place for World’s First Artificial Energy Island",
-    "title_zh": "世界上第一个人工能源岛的所有基础都已到位",
-    "url": "https://www.offshorewind.biz/2026/08/24/all-foundations-in-place-for-worlds-first-artificial-energy-island/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-24T07:35:09+00:00"
-  },
-  "72dafa90ce13": {
-    "id": "72dafa90ce13",
-    "title_en": "Arizona is having a grid battery growth spurt. Will that last?",
-    "title_zh": "亚利桑那州正在经历电网电池的快速增长。这会持续下去吗？",
-    "url": "https://www.canarymedia.com/articles/batteries/arizona-grid-battery-growth",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-24T07:30:00+00:00"
-  },
-  "d94128b91be1": {
-    "id": "d94128b91be1",
-    "title_en": "PJM has finally greenlit a lot of new clean power. Can it get built?",
-    "title_zh": "PJM终于批准了许多新的清洁能源。它能被建造吗？",
-    "url": "https://www.canarymedia.com/articles/energy-markets/pjm-greenlit-new-clean-power",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-24T07:30:00+00:00"
-  },
-  "6e647e52ab5b": {
-    "id": "6e647e52ab5b",
-    "title_en": "Exxon Eyes Shell’s $8 Billion U.S. Chemicals Business",
-    "title_zh": "埃克森美孚关注壳牌80亿美元的美国化学品业务",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Eyes-Shells-8-Billion-US-Chemicals-Business.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-24T07:15:00+00:00"
   }
 }
