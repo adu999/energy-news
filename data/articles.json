@@ -1,4 +1,31 @@
 {
+  "2bc903468c76": {
+    "id": "2bc903468c76",
+    "title_en": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases",
+    "title_zh": "美国陆军将斥资22亿美元在军事基地建造核微反应堆",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Army-To-Spend-22B-On-Nuclear-Microreactors-At-Military-Bases.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-30T23:00:00+00:00"
+  },
+  "260d899de78b": {
+    "id": "260d899de78b",
+    "title_en": "‘Soap Cocktails’ Help U.S. Shale Boost Oil Production",
+    "title_zh": "“肥皂鸡尾酒”助力美国页岩油增产",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Soap-Cocktails-Help-US-Shale-Boost-Oil-Production.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-30T21:00:00+00:00"
+  },
+  "7245de58d5e7": {
+    "id": "7245de58d5e7",
+    "title_en": "Lucid’s ‘fire risk’ recall was for LED lights & already fixed by a July software update",
+    "title_zh": "Lucid的“火灾风险”召回是针对LED灯的，并已在7月份的软件更新中得到修复",
+    "url": "https://electrek.co/2026/08/30/lucids-fire-risk-recall-was-for-led-lights-already-fixed-by-a-july-software-update/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-08-30T20:56:53+00:00"
+  },
   "555df18c60f5": {
     "id": "555df18c60f5",
     "title_en": "UBS Says a Major Commodity Upcycle Is Taking Shape",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-24T08:30:00+00:00"
-  },
-  "dd5f398d49bc": {
-    "id": "dd5f398d49bc",
-    "title_en": "What does latest ruling on offshore permit mean for US sector?",
-    "title_zh": "关于离岸许可的最新裁决对美国行业意味着什么？",
-    "url": "https://www.windpowermonthly.com/article/1968106/does-latest-ruling-offshore-permit-mean-us-sector",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-24T08:29:21+00:00"
-  },
-  "5abd4952d340": {
-    "id": "5abd4952d340",
-    "title_en": "Invinity confirms EPC contract award for 2.1GWh ‘landmark’ flow battery in Switzerland",
-    "title_zh": "Invinity确认在瑞士授予2.1GWh“里程碑式”液流电池EPC合同",
-    "url": "https://www.energy-storage.news/invinity-confirms-epc-contract-award-for-2-1gwh-landmark-flow-battery-in-switzerland/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-24T08:23:24+00:00"
-  },
-  "155c92ad9c56": {
-    "id": "155c92ad9c56",
-    "title_en": "Italy’s CNR presents bifacial PV tile based on spectral splitting",
-    "title_zh": "意大利CNR推出基于光谱分裂的双面光伏瓦片",
-    "url": "https://www.pv-magazine.com/2026/08/24/italys-cnr-presents-bifacial-pv-tile-based-on-spectral-splitting/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-24T08:00:14+00:00"
   }
 }
