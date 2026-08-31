@@ -1,4 +1,22 @@
 {
+  "a8dd2dfe6ef6": {
+    "id": "a8dd2dfe6ef6",
+    "title_en": "Buried junction box defects",
+    "title_zh": "埋地接线盒缺陷",
+    "url": "https://www.pv-magazine.com/2026/08/31/buried-junction-box-defects/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-08-31T04:00:00+00:00"
+  },
+  "2effe9b2374c": {
+    "id": "2effe9b2374c",
+    "title_en": "Oil Prices Surge as U.S. and Iran Exchange Strikes",
+    "title_zh": "美国和伊朗交易所罢工导致油价飙升",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-08-31T02:30:06+00:00"
+  },
   "2bc903468c76": {
     "id": "2bc903468c76",
     "title_en": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases",
@@ -4480,23 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-08-24T09:00:00+00:00"
-  },
-  "d003b053798f": {
-    "id": "d003b053798f",
-    "title_en": "Two years at 5,200 meters: POWEROAD BESS proven in extreme altitude",
-    "title_zh": "5200米两年：POWEROAD BESS在极端高度得到验证",
-    "url": "https://www.pv-magazine.com/2026/08/24/two-years-at-5200-meters-poweroad-bess-proven-in-extreme-altitude/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-24T09:00:00+00:00"
-  },
-  "a709ecdb2ed9": {
-    "id": "a709ecdb2ed9",
-    "title_en": "Iran Unveils Huge New Gas Discovery Amid U.S. Economic Pressure",
-    "title_zh": "伊朗在美国经济压力下公布了巨大的新天然气发现",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Unveils-Huge-New-Gas-Discovery-Amid-US-Economic-Pressure.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-24T08:30:00+00:00"
   }
 }
