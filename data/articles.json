@@ -1,4 +1,265 @@
 {
+  "435b4e474fc9": {
+    "id": "435b4e474fc9",
+    "title_en": "How Can A Podcast Help Us To Distinguish Social Change? A MediaEd Insights Collaboration",
+    "title_zh": "播客如何帮助我们区分社会变革？MediaEd Insights合作",
+    "url": "https://cleantechnica.com/2026/09/02/how-can-a-podcast-help-us-to-distinguish-social-change-a-mediaed-insights-collaboration/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T10:34:12+00:00"
+  },
+  "e5f86b8ac76c": {
+    "id": "e5f86b8ac76c",
+    "title_en": "Engineering Companies to Develop ‘Shipyard-Ready’ Installation Vessel Design for 20–30 MW Wind Turbines",
+    "title_zh": "工程公司为20-30MW风力发电机开发“船厂就绪”安装船设计",
+    "url": "https://www.offshorewind.biz/2026/09/02/engineering-companies-to-develop-shipyard-ready-installation-vessel-design-for-20-30-mw-wind-turbines/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-02T10:02:03+00:00"
+  },
+  "cb2ec375c397": {
+    "id": "cb2ec375c397",
+    "title_en": "Midsummer ditches plans for 200MW Swedish CIGS facility",
+    "title_zh": "200MW瑞典CIGS设施的仲夏沟渠计划",
+    "url": "https://www.pv-tech.org/midsummer-ditches-plans-for-200mw-swedish-cigs-facility/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T09:47:19+00:00"
+  },
+  "17e8251575eb": {
+    "id": "17e8251575eb",
+    "title_en": "Diesel Cracks Hit Record Highs as Global Fuel Squeeze Deepens",
+    "title_zh": "随着全球燃料紧缩加剧，柴油机裂纹创下历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Diesel-Cracks-Hit-Record-Highs-as-Global-Fuel-Squeeze-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T09:45:00+00:00"
+  },
+  "fb55be5fbc5b": {
+    "id": "fb55be5fbc5b",
+    "title_en": "EU solar delivers savings of more than €30 billion since start of Iran conflict – SPE",
+    "title_zh": "自伊朗冲突开始以来，欧盟太阳能节省了300多亿欧元-SPE",
+    "url": "https://www.pv-tech.org/eu-solar-delivers-savings-more-than-e30-billion-start-iran-conflict/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T09:43:29+00:00"
+  },
+  "32115d32fb34": {
+    "id": "32115d32fb34",
+    "title_en": "Hydrostor secures grid connection for 200 MW/1,600 MWh compressed air storage project in Australia",
+    "title_zh": "Hydrostor为澳大利亚200 MW/1600 MWh压缩空气储存项目确保电网连接",
+    "url": "https://www.pv-magazine.com/2026/09/02/hydrostor-secures-grid-connection-for-200-mw-1600-mwh-compressed-air-storage-project-in-australia/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T09:28:40+00:00"
+  },
+  "bc05bb30154e": {
+    "id": "bc05bb30154e",
+    "title_en": "BW ESS starts building 515MWh Italy BESS; buys 675MWh projects in Spain",
+    "title_zh": "BW ESS开始建造515MWh意大利BESS；在西班牙购买675MWh项目",
+    "url": "https://www.energy-storage.news/bw-ess-starts-building-515mwh-italy-bess-buys-675mwh-projects-in-spain/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-02T09:23:30+00:00"
+  },
+  "ec5e709328df": {
+    "id": "ec5e709328df",
+    "title_en": "Solar seasonal storage system achieves 4.1 heat pump COP in greenhouse heating",
+    "title_zh": "太阳能季节性储能系统在温室供暖中实现4.1热泵COP",
+    "url": "https://www.pv-magazine.com/2026/09/02/solar-seasonal-storage-system-achieves-4-1-heat-pump-cop-in-greenhouse-heating/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T08:48:03+00:00"
+  },
+  "e359c84529ec": {
+    "id": "e359c84529ec",
+    "title_en": "Pakistan Rejects Costly LNG Cargo as Blackout Risk Deepens",
+    "title_zh": "巴基斯坦拒绝昂贵的液化天然气货物，因为停电风险加剧",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Rejects-Costly-LNG-Cargo-as-Blackout-Risk-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T08:30:00+00:00"
+  },
+  "425b68eb3599": {
+    "id": "425b68eb3599",
+    "title_en": "California Moves to Sue Trump Administration, RWE Over Deal to Cancel Floating Wind Project",
+    "title_zh": "加州起诉特朗普政府，RWE取消浮动风电项目",
+    "url": "https://www.offshorewind.biz/2026/09/02/california-moves-to-sue-trump-administration-rwe-over-deal-to-cancel-floating-wind-project/",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-02T08:11:32+00:00"
+  },
+  "4d87e04ae262": {
+    "id": "4d87e04ae262",
+    "title_en": "New materials in the frame",
+    "title_zh": "框架中的新材料",
+    "url": "https://www.pv-magazine.com/2026/09/02/new-materials-in-the-frame/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T08:00:00+00:00"
+  },
+  "631167cf9171": {
+    "id": "631167cf9171",
+    "title_en": "Italy gives national strategic interest designation to Sardinia data centre with hybrid energy storage hub",
+    "title_zh": "意大利将国家战略利益指定为撒丁岛数据中心与混合能源存储中心",
+    "url": "https://www.energy-storage.news/italy-gives-national-strategic-interest-designation-to-sardinia-data-centre-with-hybrid-energy-storage-hub/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-02T07:54:15+00:00"
+  },
+  "14575b57b3d5": {
+    "id": "14575b57b3d5",
+    "title_en": "How to reduce abrasion damage to PV module antisoiling coatings during robotic cleaning",
+    "title_zh": "如何减少机器人清洁过程中光伏组件防污涂层的磨损",
+    "url": "https://www.pv-magazine.com/2026/09/02/how-to-reduce-abrasion-damage-to-pv-module-antisoiling-coatings-during-robotic-cleaning/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T07:51:06+00:00"
+  },
+  "a85aee634d28": {
+    "id": "a85aee634d28",
+    "title_en": "‘UK should clarify reasoning behind Chinese wind restrictions’ – Jonathan Cole",
+    "title_zh": "“英国应该澄清中国风电限制背后的原因”-乔纳森·科尔",
+    "url": "https://www.windpowermonthly.com/article/1968885/uk-clarify-reasoning-behind-chinese-wind-restrictions-%E2%80%93-jonathan-cole",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-09-02T07:46:00+00:00"
+  },
+  "687a8fa86e1d": {
+    "id": "687a8fa86e1d",
+    "title_en": "Eswatini, Namibia open rooftop solar application portals",
+    "title_zh": "纳米比亚斯威士兰开放屋顶太阳能应用门户",
+    "url": "https://www.pv-magazine.com/2026/09/02/eswatini-namibia-open-rooftop-solar-application-portals/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T07:36:44+00:00"
+  },
+  "d6ba2f4682f4": {
+    "id": "d6ba2f4682f4",
+    "title_en": "Wind energy benefits North Dakota. So why has the state soured on it?",
+    "title_zh": "风能使北达科他州受益。那么，为什么国家对此感到不满呢？",
+    "url": "https://www.canarymedia.com/articles/wind/wind-energy-north-dakota-benefits",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-02T07:30:00+00:00"
+  },
+  "cf8aaf6b27c9": {
+    "id": "cf8aaf6b27c9",
+    "title_en": "Hormuz Shipping Slumps as U.S.-Iran Strikes Rattle Oil Markets",
+    "title_zh": "霍尔木兹航运暴跌，美国-伊朗打击动荡的石油市场",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Slumps-as-US-Iran-Strikes-Rattle-Oil-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T07:15:00+00:00"
+  },
+  "2ea796277f7b": {
+    "id": "2ea796277f7b",
+    "title_en": "Perovskite solar cell based on seed crystals achieves 23.51% efficiency",
+    "title_zh": "基于晶种的钙钛矿太阳能电池的效率达到23.51%",
+    "url": "https://www.pv-magazine.com/2026/09/02/perovskite-solar-cell-based-on-seed-crystals-achieves-23-51-efficiency/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T07:14:19+00:00"
+  },
+  "79034a57101e": {
+    "id": "79034a57101e",
+    "title_en": "Africa’s Solar Boom Is Showing Up On Rooftops Before It Shows Up In The Statistics",
+    "title_zh": "非洲的太阳能热潮在统计数据出现之前就出现在屋顶上",
+    "url": "https://cleantechnica.com/2026/09/02/africa-solar-boom-hidden-official-statistics/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T06:23:08+00:00"
+  },
+  "4c3890214b39": {
+    "id": "4c3890214b39",
+    "title_en": "Bangladesh introduces $0.086/kWh tariff for net-metered rooftop solar",
+    "title_zh": "孟加拉国推出0.086美元/千瓦时的屋顶太阳能净计量电价",
+    "url": "https://www.pv-magazine.com/2026/09/02/bangladesh-introduces-0-086-kwh-tariff-for-net-metered-rooftop-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T06:08:56+00:00"
+  },
+  "e6e41396af8f": {
+    "id": "e6e41396af8f",
+    "title_en": "U.S. Energy Secretary Says Venezuela Could More Than Double Oil Production",
+    "title_zh": "美国能源部长表示，委内瑞拉的石油产量可能增加一倍以上",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Energy-Secretary-Says-Venezuela-Could-More-Than-Double-Oil-Production.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T06:00:00+00:00"
+  },
+  "3f696be7caf0": {
+    "id": "3f696be7caf0",
+    "title_en": "Korean researchers achieve world-record 26.7% efficiency for sub-1 cm² perovskite-CIGS tandem solar cell",
+    "title_zh": "韩国研究人员实现了低于1平方厘米钙钛矿CIGS叠层太阳能电池26.7%的效率世界纪录",
+    "url": "https://www.pv-magazine.com/2026/09/02/korean-researchers-achieve-world-record-26-7-efficiency-for-sub-1-cm%c2%b2-perovskite-cigs-tandem-solar-cell/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T05:46:19+00:00"
+  },
+  "2bd6ed9188cf": {
+    "id": "2bd6ed9188cf",
+    "title_en": "Rooftop solar meets 99.9% of South Australia electricity demand",
+    "title_zh": "屋顶太阳能满足南澳大利亚99.9%的电力需求",
+    "url": "https://www.pv-magazine.com/2026/09/02/rooftop-solar-meets-99-9-of-sa-electricity-demand/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T05:09:00+00:00"
+  },
+  "7e60531eca42": {
+    "id": "7e60531eca42",
+    "title_en": "New Jersey legalizes plug-in solar up to 1,200 W",
+    "title_zh": "新泽西州将高达1200 W的插电式太阳能合法化",
+    "url": "https://www.pv-magazine.com/2026/09/02/new-jersey-legalizes-plug-in-solar-up-to-1200-w/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-02T05:06:27+00:00"
+  },
+  "85f5113b96ca": {
+    "id": "85f5113b96ca",
+    "title_en": "ARENA marks 100th community battery installed, funds three new projects across Australia",
+    "title_zh": "ARENA标志着澳大利亚安装了100个社区电池，资助了澳大利亚的三个新项目",
+    "url": "https://www.energy-storage.news/arena-marks-100th-community-battery-installed-funds-three-new-projects-across-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-02T04:32:32+00:00"
+  },
+  "b87ff9255cd9": {
+    "id": "b87ff9255cd9",
+    "title_en": "Oil Prices Rally as U.S. Targets Iranian Tankers in New Escalation",
+    "title_zh": "油价上涨，美国在新的升级中瞄准伊朗油轮",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-as-US-Targets-Iranian-Tankers-in-New-Escalation.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T03:53:42+00:00"
+  },
+  "059f3e1bd459": {
+    "id": "059f3e1bd459",
+    "title_en": "REPORT: U.S. Adds 20 GWh of Energy Storage Capacity in Q2, Largest Quarter on Record",
+    "title_zh": "报告：美国第二季度新增20 GWh储能容量，创历史新高",
+    "url": "https://cleantechnica.com/2026/09/01/report-u-s-adds-20-gwh-of-energy-storage-capacity-in-q2-largest-quarter-on-record/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T03:45:37+00:00"
+  },
+  "4e83581949d0": {
+    "id": "4e83581949d0",
+    "title_en": "Solar & Storage Are Saving Schools Millions. See How These 6 Are Using the Extra Budget Space.",
+    "title_zh": "太阳能和储能为学校节省了数百万美元。请参阅这6人如何使用额外预算空间。",
+    "url": "https://cleantechnica.com/2026/09/01/solar-storage-are-saving-schools-millions-see-how-these-6-are-using-the-extra-budget-space/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T03:38:10+00:00"
+  },
+  "6e49d5c44f6d": {
+    "id": "6e49d5c44f6d",
+    "title_en": "The Zoox Safety Case Framework",
+    "title_zh": "Zoox安全案例框架",
+    "url": "https://cleantechnica.com/2026/09/01/the-zoox-safety-case-framework/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T03:20:48+00:00"
+  },
   "6b454032112e": {
     "id": "6b454032112e",
     "title_en": "Waymo Invites Riders in 3 New Cities! Now In 14",
@@ -4237,266 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-08-26T13:06:20+00:00"
-  },
-  "3083e61d41d0": {
-    "id": "3083e61d41d0",
-    "title_en": "Tandem PV nets DOE grant to accelerate perovskite technology roll-out",
-    "title_zh": "Tandem PV获得美国能源部拨款，以加速钙钛矿技术的推广",
-    "url": "https://www.pv-tech.org/tandem-pv-doe-grant-commercialisation-perovskite/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T13:02:19+00:00"
-  },
-  "d72d48fd8180": {
-    "id": "d72d48fd8180",
-    "title_en": "Six steps to help reduce white etching cracks in wind turbine gearboxes",
-    "title_zh": "六个步骤有助于减少风力涡轮机齿轮箱中的白色蚀刻裂纹",
-    "url": "https://www.energymonitor.ai/sponsored/six-steps-to-help-reduce-white-etching-cracks-in-wind-turbine-gearboxes/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-26T12:57:25+00:00"
-  },
-  "3e192d10d223": {
-    "id": "3e192d10d223",
-    "title_en": "Spain to require data centers to source 80% of electricity from renewables",
-    "title_zh": "西班牙要求数据中心80%的电力来自可再生能源",
-    "url": "https://www.pv-magazine.com/2026/08/26/espana-exigira-a-los-centros-de-datos-un-80-de-renovables-adicionales-y-datos-bajo-control-europeo/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T12:55:31+00:00"
-  },
-  "d64d7ab92e75": {
-    "id": "d64d7ab92e75",
-    "title_en": "India’s Russian Oil Imports Slide From Record High as Supply Tightens",
-    "title_zh": "随着供应紧张，印度的俄罗斯石油进口量从历史最高水平下滑",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Russian-Oil-Imports-Slide-From-Record-High-as-Supply-Tightens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-26T12:30:00+00:00"
-  },
-  "7f67834f6132": {
-    "id": "7f67834f6132",
-    "title_en": "German Federal Maritime and Hydrographic Agency Opens Offshore Wind Survey Tender",
-    "title_zh": "德国联邦海事和水文局启动海上风力测量招标",
-    "url": "https://www.offshorewind.biz/2026/08/26/german-federal-maritime-and-hydrographic-agency-opens-offshore-wind-survey-tender/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-26T12:28:24+00:00"
-  },
-  "1f523043b898": {
-    "id": "1f523043b898",
-    "title_en": "AI optimizer to trade Baltic hybrid solar-storage assets",
-    "title_zh": "人工智能优化器交易波罗的海混合太阳能储能资产",
-    "url": "https://www.pv-magazine.com/2026/08/26/ai-optimizer-to-trade-baltic-hybrid-solar-storage-assets/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T12:28:17+00:00"
-  },
-  "19bceeb26120": {
-    "id": "19bceeb26120",
-    "title_en": "English soccer club Southampton FC offers two-for-one solar panels",
-    "title_zh": "英国南安普顿足球俱乐部提供二合一太阳能电池板",
-    "url": "https://www.pv-magazine.com/2026/08/26/english-soccer-club-southampton-fc-offers-two-for-one-solar-panels/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T12:23:37+00:00"
-  },
-  "c128a5ab9c7c": {
-    "id": "c128a5ab9c7c",
-    "title_en": "California sends balcony solar bill to governor for signature",
-    "title_zh": "加州将阳台太阳能法案提交州长签字",
-    "url": "https://www.solarpowerworldonline.com/2026/08/california-sends-balcony-solar-bill-to-governor-for-signature/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T12:22:23+00:00"
-  },
-  "1815315e5d58": {
-    "id": "1815315e5d58",
-    "title_en": "Ecoprogetti upgrades PV module line in South Africa",
-    "title_zh": "Ecoprogetti升级南非光伏组件生产线",
-    "url": "https://www.pv-magazine.com/2026/08/26/ecoprogetti-upgrades-pv-module-line-in-south-africa/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T12:21:52+00:00"
-  },
-  "1d432f3b8999": {
-    "id": "1d432f3b8999",
-    "title_en": "California Assembly approves balcony solar bill, awaits Senate and Governor Newsom",
-    "title_zh": "加利福尼亚州议会批准阳台太阳能法案，等待参议院和州长纽瑟姆",
-    "url": "https://www.pv-tech.org/california-assembly-approves-balcony-solar-bill-awaits-senate-and-governor-newsom/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T12:07:48+00:00"
-  },
-  "b2a2ccf00502": {
-    "id": "b2a2ccf00502",
-    "title_en": "India’s hits 288GW renewables capacity, with 56% solar",
-    "title_zh": "印度可再生能源容量达到288GW，其中56%为太阳能",
-    "url": "https://www.pv-tech.org/indias-hits-288gw-renewables-capacity-with-56-solar/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T11:46:49+00:00"
-  },
-  "93ac387c6a3b": {
-    "id": "93ac387c6a3b",
-    "title_en": "India hits 288GW renewables capacity, with 56% solar",
-    "title_zh": "印度可再生能源容量达到288GW，其中56%为太阳能",
-    "url": "https://www.pv-tech.org/india-hits-288gw-renewables-capacity-with-56-solar/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T11:46:49+00:00"
-  },
-  "1e4ed9eb3edc": {
-    "id": "1e4ed9eb3edc",
-    "title_en": "New electric Flyer promises 15 minute service from Chicago to O’Hare",
-    "title_zh": "新型电动Flyer承诺从芝加哥到奥黑尔的15分钟服务",
-    "url": "https://electrek.co/2026/08/26/new-electric-flyer-promises-15-minute-service-from-chicago-to-ohare/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-26T11:46:46+00:00"
-  },
-  "784e0ea64db8": {
-    "id": "784e0ea64db8",
-    "title_en": "US IPPs Swift Current, Avantus raise US$1 billion+ for clean energy projects",
-    "title_zh": "美国独立发电商Swift Current和Avantus为清洁能源项目筹集了超过10亿美元",
-    "url": "https://www.energy-storage.news/us-ipps-swift-current-avantus-raise-us1-billion-for-clean-energy-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-26T11:28:13+00:00"
-  },
-  "c84c42665683": {
-    "id": "c84c42665683",
-    "title_en": "WElink Energy Portugal 2, owner of Portugal’s largest solar PV project, enters administration",
-    "title_zh": "葡萄牙最大太阳能光伏项目的所有者WElink Energy Portugal 2进入管理层",
-    "url": "https://www.pv-tech.org/welink-energy-portugal-2-enters-administration/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T11:26:01+00:00"
-  },
-  "fbad1bc981d5": {
-    "id": "fbad1bc981d5",
-    "title_en": "US TECH ROUNDUP: Software tie-ins and technology partnerships, gas-BESS hybrids bring speed-to-power",
-    "title_zh": "美国TECH ROUNDUP：软件结合和技术合作，天然气BESS混合动力车为动力带来速度",
-    "url": "https://www.energy-storage.news/us-tech-roundup-software-tie-ins-and-technology-partnerships-gas-bess-hybrids-bring-speed-to-power/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-26T11:05:49+00:00"
-  },
-  "82f37c558b25": {
-    "id": "82f37c558b25",
-    "title_en": "Endesa tests voltage control system to integrate more low-voltage self-consumption",
-    "title_zh": "Endesa测试电压控制系统，以集成更多低压自耗",
-    "url": "https://www.pv-magazine.com/2026/08/26/endesa-tests-voltage-control-system-to-integrate-more-low-voltage-self-consumption/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T11:03:00+00:00"
-  },
-  "662c21705788": {
-    "id": "662c21705788",
-    "title_en": "Sodium-ion batteries are ready for world domination",
-    "title_zh": "钠离子电池已准备好统治世界",
-    "url": "https://www.solarpowerworldonline.com/2026/08/sodium-ion-batteries-are-ready-for-world-domination/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T11:00:21+00:00"
-  },
-  "ef4754dd9a0a": {
-    "id": "ef4754dd9a0a",
-    "title_en": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
-    "title_zh": "卡塔尔因液化天然气出口暴跌96%而损失240亿美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Loses-24-Billion-as-LNG-Exports-Collapse-96.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-26T11:00:00+00:00"
-  },
-  "6dd911b906c2": {
-    "id": "6dd911b906c2",
-    "title_en": "Ford Energy’s grid-scale BESS product: an analysis",
-    "title_zh": "福特能源的电网级BESS产品：分析",
-    "url": "https://www.energy-storage.news/ford-energys-grid-scale-bess-product-an-analysis/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-26T10:33:08+00:00"
-  },
-  "430c421c8f67": {
-    "id": "430c421c8f67",
-    "title_en": "Senvion India gets funding boost for ‘strategic priorities'",
-    "title_zh": "Senvion India获得“战略优先事项”的资金支持",
-    "url": "https://www.windpowermonthly.com/article/1968380/senvion-india-gets-funding-boost-strategic-priorities",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-26T10:31:02+00:00"
-  },
-  "41e2e5ab6835": {
-    "id": "41e2e5ab6835",
-    "title_en": "Germany BESS ROUNDUP: Alpiq buys from Eco Stor, CATL-backed CNTE supplies units, Terralayr’s Vattenfall toll online",
-    "title_zh": "德国BESS ROUNDUP：Alpiq从Eco-Stor、CATL支持的CNTE供应部门、Terralayr的Vattenfall在线收费站购买",
-    "url": "https://www.energy-storage.news/germany-bess-roundup-alpiq-buys-from-eco-stor-catl-backed-cnte-supplies-units-terralayrs-vattenfall-toll-online/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-26T10:26:17+00:00"
-  },
-  "fde3433c2cbd": {
-    "id": "fde3433c2cbd",
-    "title_en": "Saudi Power Procurement Company awards 2GW/8GWh of battery storage contracts",
-    "title_zh": "沙特电力采购公司授予2GW/8GWh电池储能合同",
-    "url": "https://www.energy-storage.news/saudi-power-procurement-company-awards-2gw-8gwh-battery-storage-contracts/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-26T10:16:12+00:00"
-  },
-  "7232abe0e6f5": {
-    "id": "7232abe0e6f5",
-    "title_en": "ArcLight commits US$1 billion to new US transmission platform",
-    "title_zh": "ArcLight承诺向美国新的传输平台投资10亿美元",
-    "url": "https://www.pv-tech.org/arclight-commits-us1-billion-to-new-us-transmission-platform/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T10:05:30+00:00"
-  },
-  "5e94bb2181dd": {
-    "id": "5e94bb2181dd",
-    "title_en": "Taiwan Moves to Terminate Contract for 700 MW Offshore Wind Project",
-    "title_zh": "台湾终止700兆瓦海上风电项目合同",
-    "url": "https://www.offshorewind.biz/2026/08/26/taiwan-moves-to-terminate-contract-for-700-mw-offshore-wind-project/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-26T09:58:35+00:00"
-  },
-  "8f6b63291792": {
-    "id": "8f6b63291792",
-    "title_en": "Hinen launches 13.68 kWh residential energy storage system",
-    "title_zh": "Hinen推出13.68千瓦时的住宅储能系统",
-    "url": "https://www.pv-magazine.com/2026/08/26/hinen-launches-13-68-kwh-residential-energy-storage-system/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T09:55:55+00:00"
-  },
-  "98e89a307177": {
-    "id": "98e89a307177",
-    "title_en": "Goldwind profit surges in first half of 2026",
-    "title_zh": "金风2026年上半年利润激增",
-    "url": "https://www.windpowermonthly.com/article/1968369/goldwind-profit-surges-first-half-2026",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-08-26T09:39:17+00:00"
-  },
-  "ac129c357e3d": {
-    "id": "ac129c357e3d",
-    "title_en": "SLB named reservoir partner on Havstjerne CO₂ storage project",
-    "title_zh": "SLB被任命为Havstjerne CO的储层合作伙伴₂ 存储项目",
-    "url": "https://www.energymonitor.ai/news/slb-reservoir-partner-havstjerne/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-26T09:35:44+00:00"
-  },
-  "24d0b4483968": {
-    "id": "24d0b4483968",
-    "title_en": "Hormuz Traffic Remains Depressed as Iran and Oman Weigh Temporary Corridor",
-    "title_zh": "伊朗和阿曼权衡临时走廊，霍尔木兹交通仍然低迷",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Traffic-Remains-Depressed-as-Iran-and-Oman-Weigh-Temporary-Corridor.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-26T09:30:00+00:00"
   }
 }
