@@ -1,4 +1,85 @@
 {
+  "6b454032112e": {
+    "id": "6b454032112e",
+    "title_en": "Waymo Invites Riders in 3 New Cities! Now In 14",
+    "title_zh": "Waymo在3个新城市邀请乘客！现在14",
+    "url": "https://cleantechnica.com/2026/09/01/waymo-invites-riders-in-3-new-cities/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T02:17:04+00:00"
+  },
+  "b2a19e214467": {
+    "id": "b2a19e214467",
+    "title_en": "NIO Sales Increase 14.5% Year Over Year",
+    "title_zh": "蔚来汽车销量同比增长14.5%",
+    "url": "https://cleantechnica.com/2026/09/01/nio-sales-increase-14-5-year-over-year/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T01:44:33+00:00"
+  },
+  "f9ce81d63e18": {
+    "id": "f9ce81d63e18",
+    "title_en": "E-quipment highlight: iPad-sized 70 kW electric PTO by Windrose",
+    "title_zh": "电子设备亮点：Windrose的iPad大小的70千瓦电动PTO",
+    "url": "https://electrek.co/2026/09/01/e-quipment-highlight-ipad-sized-70-kw-electric-pto-by-windrose/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-02T00:50:08+00:00"
+  },
+  "b93c17263813": {
+    "id": "b93c17263813",
+    "title_en": "XPENG Sales Up 4% in August",
+    "title_zh": "XPENG 8月份销售额增长4%",
+    "url": "https://cleantechnica.com/2026/09/01/xpeng-sales-up-4-in-august/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-02T00:35:57+00:00"
+  },
+  "5a3b5892b876": {
+    "id": "5a3b5892b876",
+    "title_en": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
+    "title_zh": "沙特阿拉伯计划在投资核电时释放100万桶/日",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Saudi-Arabia-Plans-To-Free-1-Mbd-As-it-Invests-in-Nuclear-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T00:00:00+00:00"
+  },
+  "72cc85e22c36": {
+    "id": "72cc85e22c36",
+    "title_en": "California VPP bills await Governor Newsom signature, Octopus Energy closes investment in DERs flex platform Uplight",
+    "title_zh": "加州VPP法案等待州长Newsom签署，Octopus Energy完成对DERs flex平台Uplight的投资",
+    "url": "https://www.energy-storage.news/california-vpp-bills-await-governor-newsom-signature-octopus-energy-closes-investment-in-ders-flex-platform-uplight/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-01T23:51:12+00:00"
+  },
+  "8c47cd1c3014": {
+    "id": "8c47cd1c3014",
+    "title_en": "Sierra Club Urges Texas Senate to Mandate Better Water Reporting and Planning for Data Centers & Power Plants",
+    "title_zh": "塞拉俱乐部敦促得克萨斯州参议院为数据中心和发电厂制定更好的水资源报告和规划",
+    "url": "https://cleantechnica.com/2026/09/01/sierra-club-urges-texas-senate-to-mandate-better-water-reporting-and-planning-for-data-centers-power-plants/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-01T23:48:19+00:00"
+  },
+  "084d6acbab18": {
+    "id": "084d6acbab18",
+    "title_en": "California advances bill enabling remote inspections of residential solar and storage systems",
+    "title_zh": "加利福尼亚州推进法案，允许对住宅太阳能和储能系统进行远程检查",
+    "url": "https://www.pv-tech.org/california-advances-bill-remote-inspections-residential-solar-storage/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-01T23:47:20+00:00"
+  },
+  "d38d187aa540": {
+    "id": "d38d187aa540",
+    "title_en": "Appeal Halts Public Lands Data Center in Nevada Before Construction Begins",
+    "title_zh": "上诉要求内华达州公共土地数据中心在施工开始前停止运营",
+    "url": "https://cleantechnica.com/2026/09/01/appeal-halts-public-lands-data-center-in-nevada-before-construction-begins/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-01T23:42:20+00:00"
+  },
   "cec15a4f6448": {
     "id": "cec15a4f6448",
     "title_en": "Major U.S. Oil Port Selected for Nuclear Power Project",
@@ -4417,86 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-26T09:30:00+00:00"
-  },
-  "9502450a6b83": {
-    "id": "9502450a6b83",
-    "title_en": "Indonesia aims for 100 GW solar target by 2029",
-    "title_zh": "印尼计划到2029年实现100吉瓦的太阳能目标",
-    "url": "https://www.pv-magazine.com/2026/08/26/indonesia-aims-for-100-gw-solar-target-by-2029/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T08:49:15+00:00"
-  },
-  "380e2ac7523a": {
-    "id": "380e2ac7523a",
-    "title_en": "Japan to Unveil New Oil Diversification Strategy",
-    "title_zh": "日本将推出新的石油多元化战略",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-to-Unveil-New-Oil-Diversification-Strategy.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-26T08:30:00+00:00"
-  },
-  "d3c8658a8cb7": {
-    "id": "d3c8658a8cb7",
-    "title_en": "Ireland’s sixth renewables auction puts solar to the test under new NZIA rules",
-    "title_zh": "爱尔兰第六次可再生能源拍卖将太阳能置于新西兰新规定的考验之下",
-    "url": "https://www.pv-magazine.com/2026/08/26/irelands-sixth-renewables-auction-puts-solar-to-the-test-under-new-nzia-rules/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T08:16:59+00:00"
-  },
-  "a4fbc22ffc13": {
-    "id": "a4fbc22ffc13",
-    "title_en": "TEPCO Starts EIA Process for New Choshi Offshore Wind Farm as Japan Plans Re-Tendering Project Sites Dropped by Mitsubishi",
-    "title_zh": "东京电力公司启动新长志海上风电场的环境影响评估程序，因为日本计划重新招标三菱放弃的项目现场",
-    "url": "https://www.offshorewind.biz/2026/08/26/tepco-starts-eia-process-for-new-choshi-offshore-wind-farm-as-japan-plans-re-tendering-project-sites-dropped-by-mitsubishi/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-26T08:13:04+00:00"
-  },
-  "f77c79711181": {
-    "id": "f77c79711181",
-    "title_en": "New subcell current metrology for perovskite-silicon tandem solar cells",
-    "title_zh": "钙钛矿硅叠层太阳能电池的新型子电池电流计量",
-    "url": "https://www.pv-magazine.com/2026/08/26/new-subcell-current-metrology-for-perovskite-silicon-tandem-solar-cells/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T08:04:20+00:00"
-  },
-  "38b1e32a978b": {
-    "id": "38b1e32a978b",
-    "title_en": "Renewable Energy Investments Show One Booming Sector",
-    "title_zh": "可再生能源投资显示一个蓬勃发展的行业",
-    "url": "https://about.bnef.com/insights/clean-energy/renewable-energy-investments-show-one-booming-sector/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-08-26T08:00:44+00:00"
-  },
-  "7e1df40feb42": {
-    "id": "7e1df40feb42",
-    "title_en": "High gas prices, lower solar output drive up European electricity costs",
-    "title_zh": "高昂的天然气价格和较低的太阳能产量推高了欧洲的电力成本",
-    "url": "https://www.pv-magazine.com/2026/08/26/high-gas-prices-lower-solar-output-drive-up-european-electricity-costs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-26T07:41:13+00:00"
-  },
-  "2b0952c2f315": {
-    "id": "2b0952c2f315",
-    "title_en": "Australia advances clean power in WA with 1.8GW CIS tender",
-    "title_zh": "澳大利亚通过1.8GW CIS招标在西澳推进清洁能源",
-    "url": "https://www.energymonitor.ai/news/australia-advances-clean-power-cis/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-26T07:32:14+00:00"
-  },
-  "94e807ef8fdf": {
-    "id": "94e807ef8fdf",
-    "title_en": "Iran’s Tanker Blacklist Raises New Risks for Gulf Oil",
-    "title_zh": "伊朗的油轮黑名单增加了海湾石油的新风险",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Irans-Tanker-Blacklist-Raises-New-Risks-for-Gulf-Oil.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-26T07:30:00+00:00"
   }
 }
