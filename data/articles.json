@@ -1,4 +1,49 @@
 {
+  "c0ec8dbb2832": {
+    "id": "c0ec8dbb2832",
+    "title_en": "U.S. SPR Depletion Threatens Further Oil Price Volatility",
+    "title_zh": "美国SPR耗尽威胁油价进一步波动",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-SPR-Depletion-Threatens-Further-Oil-Price-Volatility.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T23:00:00+00:00"
+  },
+  "da390de3557b": {
+    "id": "da390de3557b",
+    "title_en": "White Hydrogen Drilling Push Gains Momentum Across Three Continents",
+    "title_zh": "白氢钻探在三大洲获得动力",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/White-Hydrogen-Drilling-Push-Gains-Momentum-Across-Three-Continents.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T22:00:00+00:00"
+  },
+  "9dee94ab1e64": {
+    "id": "9dee94ab1e64",
+    "title_en": "$41M could bring 40 new EV fast-charging sites to Minnesota",
+    "title_zh": "4100万美元将为明尼苏达州带来40个新的电动汽车快速充电站",
+    "url": "https://electrek.co/2026/09/02/41-million-could-bring-40-new-ev-fast-charging-sites-to-minnesota/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-02T21:32:56+00:00"
+  },
+  "6a42005d6611": {
+    "id": "6a42005d6611",
+    "title_en": "Hyundai opens IONIQ 3 EV orders, starting at about $30,000",
+    "title_zh": "现代开始订购IONIQ 3电动汽车，起价约为30000美元",
+    "url": "https://electrek.co/2026/09/02/hyundai-opens-ioniq-3-ev-orders-starting-30000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-02T21:03:28+00:00"
+  },
+  "21888dcbadd6": {
+    "id": "21888dcbadd6",
+    "title_en": "Superhot Geothermal Just Got A $180 Million Vote Of Confidence",
+    "title_zh": "Superhot Geothermal刚刚获得1.8亿美元的信任投票",
+    "url": "https://oilprice.com/Energy/Energy-General/Superhot-Geothermal-Just-Got-A-180-Million-Vote-Of-Confidence.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-02T21:00:00+00:00"
+  },
   "555dcde741e9": {
     "id": "555dcde741e9",
     "title_en": "Kia launches the EV4 GT in Canada, bringing more power and attitude",
@@ -7,6 +52,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-02T20:25:41+00:00"
+  },
+  "2f771be24961": {
+    "id": "2f771be24961",
+    "title_en": "Clean energy super PAC looks to take down a Democratic governor",
+    "title_zh": "清洁能源超级政治行动委员会希望罢免民主党州长",
+    "url": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-02T20:02:00+00:00"
   },
   "71e9874274b4": {
     "id": "71e9874274b4",
@@ -4444,59 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-08-27T07:31:25+00:00"
-  },
-  "7c622448666c": {
-    "id": "7c622448666c",
-    "title_en": "Oil Prices Fall as Qatar Pushes New Hormuz Talks",
-    "title_zh": "卡塔尔推动新的霍尔木兹会谈，油价下跌",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Qatar-Pushes-New-Hormuz-Talks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-27T07:30:00+00:00"
-  },
-  "b2d631f6d415": {
-    "id": "b2d631f6d415",
-    "title_en": "New York’s grid is struggling to handle the heat",
-    "title_zh": "纽约电网正在努力应对高温",
-    "url": "https://www.canarymedia.com/articles/clean-energy/new-york-power-grid-struggle-heat-summer",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-27T07:30:00+00:00"
-  },
-  "de32a3cc5c9a": {
-    "id": "de32a3cc5c9a",
-    "title_en": "Heat-pump water heaters just keep getting better",
-    "title_zh": "热泵热水器越来越好",
-    "url": "https://www.canarymedia.com/articles/heat-pumps/heat-pump-water-heaters-get-better",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-27T07:30:00+00:00"
-  },
-  "4f1e1879941a": {
-    "id": "4f1e1879941a",
-    "title_en": "TotalEnergies Buys Walney Offshore Wind Power",
-    "title_zh": "TotalEnergies收购沃尔尼海上风电",
-    "url": "https://www.offshorewind.biz/2026/08/27/totalenergies-buys-walney-offshore-wind-power/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-27T07:18:21+00:00"
-  },
-  "d0a7eb25a571": {
-    "id": "d0a7eb25a571",
-    "title_en": "Another Tanker Struck as Hormuz Shipping Crisis Deepens",
-    "title_zh": "霍尔木兹航运危机加剧，另一艘油轮发生碰撞",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Another-Tanker-Struck-as-Hormuz-Shipping-Crisis-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-27T06:30:00+00:00"
-  },
-  "f099c2588a60": {
-    "id": "f099c2588a60",
-    "title_en": "VSL PowerHive launches 261 kWh liquid-cooled BESS for C&I applications",
-    "title_zh": "VSL PowerHive推出261千瓦时液冷BESS，用于C&I应用",
-    "url": "https://www.pv-magazine.com/2026/08/27/vsl-powerhive-launches-261-kwh-liquid-cooled-bess-for-ci-segment/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-27T06:16:54+00:00"
   }
 }
