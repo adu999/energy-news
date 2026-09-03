@@ -1,4 +1,67 @@
 {
+  "b59bd77393e3": {
+    "id": "b59bd77393e3",
+    "title_en": "Why Oil Majors Don’t Want to Build New U.S. Refineries",
+    "title_zh": "为什么石油巨头不想在美国建造新的炼油厂",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Why-Oil-Majors-Dont-Want-to-Build-New-US-Refineries.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-03T23:00:00+00:00"
+  },
+  "633de9bb08c0": {
+    "id": "633de9bb08c0",
+    "title_en": "Environmental Groups Join Scattergood Hydrogen Retrofit Lawsuit",
+    "title_zh": "环保组织加入Scattergood氢气改造诉讼",
+    "url": "https://cleantechnica.com/2026/09/03/environmental-groups-join-scattergood-hydrogen-retrofit-lawsuit/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-03T22:36:43+00:00"
+  },
+  "7da67022568a": {
+    "id": "7da67022568a",
+    "title_en": "Federal Judge Blocks Trump EPA’s Efforts to Attack Clean Air Waivers",
+    "title_zh": "联邦法官阻止特朗普环保局攻击清洁空气豁免的努力",
+    "url": "https://cleantechnica.com/2026/09/03/federal-judge-blocks-trump-epas-efforts-to-attack-clean-air-waivers/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-03T22:17:59+00:00"
+  },
+  "29b7226e9747": {
+    "id": "29b7226e9747",
+    "title_en": "IONNA knocks nearly 50% off EV fast charging for Labor Day",
+    "title_zh": "IONNA在劳动节取消了近50%的电动汽车快速充电",
+    "url": "https://electrek.co/2026/09/03/ionna-knocks-nearly-50-off-ev-fast-charging-for-labor-day/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-03T22:06:09+00:00"
+  },
+  "db0ad275b3a8": {
+    "id": "db0ad275b3a8",
+    "title_en": "AI Data Center Boom Pushes U.S. Power Equipment to the Breaking Point",
+    "title_zh": "人工智能数据中心的繁荣将美国电力设备推向了崩溃点",
+    "url": "https://oilprice.com/Energy/Energy-General/AI-Data-Center-Boom-Pushes-US-Power-Equipment-to-the-Breaking-Point.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-03T22:00:00+00:00"
+  },
+  "94f4180baf4c": {
+    "id": "94f4180baf4c",
+    "title_en": "VW to cut 100k jobs and may stop building EVs at 4 plants",
+    "title_zh": "大众将裁员10万人，并可能停止在4家工厂生产电动汽车",
+    "url": "https://electrek.co/2026/09/03/vw-to-cut-100k-jobs-and-may-stop-building-evs-at-4-plants/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-03T21:18:35+00:00"
+  },
+  "d35c16e923ee": {
+    "id": "d35c16e923ee",
+    "title_en": "Kia’s bigger PV7 electric van caught in action, making the PV5 seem small",
+    "title_zh": "起亚更大的PV7电动货车投入使用，使PV5看起来很小",
+    "url": "https://electrek.co/2026/09/03/kias-bigger-pv7-ev-van-spotted-making-pv5-seem-small/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-03T21:07:12+00:00"
+  },
   "705ba9b15463": {
     "id": "705ba9b15463",
     "title_en": "Modern Regulation for a New Nuclear Era",
@@ -842,6 +905,15 @@
     "title_zh": "欧洲可再生能源的扩张正在将价值转向灵活性",
     "url": "https://www.energymonitor.ai/analysis/europes-renewables-expansion-is-shifting-value-towards-flexibility/",
     "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-03T07:00:00+00:00"
+  },
+  "a8e578ae2416": {
+    "id": "a8e578ae2416",
+    "title_en": "Where does balcony solar stand in your state?",
+    "title_zh": "你们州的阳台太阳能站在哪里？",
+    "url": "https://www.canarymedia.com/articles/solar/states-passing-balcony-solar-laws",
+    "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-09-03T07:00:00+00:00"
   },
@@ -4426,77 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-28T12:30:00+00:00"
-  },
-  "680220f0c9e0": {
-    "id": "680220f0c9e0",
-    "title_en": "The Iran War Has Handed Russia a Strategic Opening in Europe",
-    "title_zh": "伊朗战争为俄罗斯在欧洲提供了战略机遇",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Handed-Russia-a-Strategic-Opening-in-Europe.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-28T12:30:00+00:00"
-  },
-  "711799dd31ba": {
-    "id": "711799dd31ba",
-    "title_en": "Oil Selloff Outruns Reality in Hormuz",
-    "title_zh": "霍尔木兹的石油抛售打破了现实",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Selloff-Outruns-Reality-in-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-28T12:30:00+00:00"
-  },
-  "48854b69a628": {
-    "id": "48854b69a628",
-    "title_en": "Canadian Solar Q2 PV module shipments fall 60% YoY, nearing levels last seen in Q2 2020",
-    "title_zh": "加拿大太阳能第二季度光伏组件出货量同比下降60%，接近2020年第二季度的水平",
-    "url": "https://www.pv-tech.org/canadian-solar-q2-pv-module-shipments-fall-60-yoy-nearing-levels-last-seen-in-q2-2020/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-28T12:03:20+00:00"
-  },
-  "2d8530c3a31e": {
-    "id": "2d8530c3a31e",
-    "title_en": "Pakistan’s Five Refineries Set for $6 Billion Upgrade Push",
-    "title_zh": "巴基斯坦五家炼油厂将斥资60亿美元进行升级",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Five-Refineries-Set-for-6-Billion-Upgrade-Push.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-28T12:00:00+00:00"
-  },
-  "87b886795e6d": {
-    "id": "87b886795e6d",
-    "title_en": "Ontario airport set to spend $5.5 million on electric ground support equipment",
-    "title_zh": "安大略省机场将斥资550万美元购买电动地面支持设备",
-    "url": "https://electrek.co/2026/08/28/ontario-airport-set-to-spend-5-5-million-on-electric-ground-support-equipment/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-28T11:41:42+00:00"
-  },
-  "e3058c0ee440": {
-    "id": "e3058c0ee440",
-    "title_en": "Wood Mackenzie raises Latin America storage forecast to 34 GW by 2035",
-    "title_zh": "Wood Mackenzie将到2035年拉丁美洲的储能预测提高到34吉瓦",
-    "url": "https://www.pv-magazine.com/2026/08/28/wood-mackenzie-raises-latin-america-storage-forecast-to-34-gw-by-2035/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-28T11:18:00+00:00"
-  },
-  "9fb4a2532aa9": {
-    "id": "9fb4a2532aa9",
-    "title_en": "Energy Storage Awards 2026: One week left to enter the industry-leading celebration of excellence",
-    "title_zh": "2026年储能奖：距离行业领先的卓越庆典还有一周时间",
-    "url": "https://www.energy-storage.news/energy-storage-awards-2026-one-week-left-to-enter-the-industry-leading-celebration-of-excellence/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-28T11:03:56+00:00"
-  },
-  "d880baec945a": {
-    "id": "d880baec945a",
-    "title_en": "Seaway Alfa Lift to Start Installing Inch Cape Jacket Pin Piles, Cadeler’s Wind Mover to Begin Turbine Installation in November",
-    "title_zh": "Seaway Alfa Lift将开始安装英寸角导管架销钉桩，Cadeler的风力发电机将于11月开始安装涡轮机",
-    "url": "https://www.offshorewind.biz/2026/08/28/seaway-alfa-lift-to-start-installing-inch-cape-jacket-pin-piles-cadelers-wind-mover-to-begin-turbine-installation-in-november/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-28T10:51:44+00:00"
   }
 }
