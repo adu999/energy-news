@@ -1,4 +1,157 @@
 {
+  "28c80bd2070a": {
+    "id": "28c80bd2070a",
+    "title_en": "The Jeep Wagoneer and Ram 1500 extended-range EVs face another delay",
+    "title_zh": "Jeep Wagoneer和Ram 1500增程式电动汽车再次面临延期",
+    "url": "https://electrek.co/2026/09/04/jeep-wagoneer-rams-extended-range-ev-face-another-delay/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T19:51:31+00:00"
+  },
+  "22380f08dfef": {
+    "id": "22380f08dfef",
+    "title_en": "Podcast: Tesla has another Cyberflop, lots of cheap Ford electric pickups, VW in trouble, and more",
+    "title_zh": "播客：特斯拉再次遭遇Cyberflop，大量廉价的福特电动皮卡，大众陷入困境，等等",
+    "url": "https://electrek.co/2026/09/04/podcast-tesla-has-another-cyberflop-lots-of-cheap-ford-electric-pickups-vw-in-trouble-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T19:30:31+00:00"
+  },
+  "401e49f88827": {
+    "id": "401e49f88827",
+    "title_en": "Hydrogen Kept Failing The Test — And Getting Another Test",
+    "title_zh": "氢气一直未能通过测试，并再次接受测试",
+    "url": "https://cleantechnica.com/2026/09/04/hydrogen-projects-kept-getting-another-chance/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-04T19:22:46+00:00"
+  },
+  "5e446b9b4c33": {
+    "id": "5e446b9b4c33",
+    "title_en": "Uber just launched the UK’s first autonomous rides in London",
+    "title_zh": "优步刚刚在伦敦推出了英国首个自动驾驶汽车",
+    "url": "https://electrek.co/2026/09/04/uber-just-launched-the-uks-first-autonomous-rides-in-london/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T19:21:20+00:00"
+  },
+  "a1b0925cdd61": {
+    "id": "a1b0925cdd61",
+    "title_en": "Tesla’s new rare-earth-free EV motor is a big deal, but not THAT big a deal",
+    "title_zh": "特斯拉的新型无稀土电动汽车发动机是一件大事，但没那么大",
+    "url": "https://electrek.co/2026/09/04/teslas-new-rare-earth-free-ev-motor-is-a-big-deal-but-not-that-big-a-deal/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T19:00:06+00:00"
+  },
+  "c968605e7cde": {
+    "id": "c968605e7cde",
+    "title_en": "ENGWE E26 3.0 full suspension all-terrain e-bike launch deal, Navee Labor Day e-scooter sale, Tenways Wayfarer e-bike $877 off, more",
+    "title_zh": "ENGWE E26 3.0全悬挂全地形电动自行车发布交易，Navee劳动节电动滑板车销售，Tenways Wayfarer电动自行车$877折扣，更多",
+    "url": "https://electrek.co/2026/09/04/engwe-e26-3-0-all-terrain-e-bike-navee-labor-day-tenways-wayfarer-e-bike-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T18:00:00+00:00"
+  },
+  "2b39a42889f9": {
+    "id": "2b39a42889f9",
+    "title_en": "Ukraine Pushes Congress for Russia Sanctions Before Election Recess",
+    "title_zh": "乌克兰在选举休会前敦促国会制裁俄罗斯",
+    "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Pushes-Congress-for-Russia-Sanctions-Before-Election-Recess.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T18:00:00+00:00"
+  },
+  "42514c79a0f8": {
+    "id": "42514c79a0f8",
+    "title_en": "Hyundai opens orders for its new electric van, starting at about $66,500",
+    "title_zh": "现代开始订购其新款电动面包车，起价约为66500美元",
+    "url": "https://electrek.co/2026/09/04/hyundai-opens-orders-new-ev-van-starting-about-66500/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T17:58:47+00:00"
+  },
+  "f479537d86f6": {
+    "id": "f479537d86f6",
+    "title_en": "Citadel Eyes U.S. Shale as Oil Trading Moves Closer to the Wellhead",
+    "title_zh": "随着石油交易接近井口，Citadel关注美国页岩油",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Citadel-Eyes-US-Shale-as-Oil-Trading-Moves-Closer-to-the-Wellhead.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T17:30:00+00:00"
+  },
+  "cd833f1a05fd": {
+    "id": "cd833f1a05fd",
+    "title_en": "U.S. Oil Rig Count Rises as Gas Rig Activity Declines",
+    "title_zh": "美国石油钻井平台数量增加，天然气钻井平台活动减少",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Rig-Count-Rises-as-Gas-Rig-Activity-Declines.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T17:25:00+00:00"
+  },
+  "80bef1db278f": {
+    "id": "80bef1db278f",
+    "title_en": "Utility-scale solar has no effect on nearby residential property values, Indiana research finds",
+    "title_zh": "印第安纳州的研究发现，公用事业规模的太阳能对附近的住宅物业价值没有影响",
+    "url": "https://www.solarpowerworldonline.com/2026/09/utility-scale-solar-has-no-effect-on-nearby-residential-property-values-indiana-research-finds/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T17:00:10+00:00"
+  },
+  "0193497a6730": {
+    "id": "0193497a6730",
+    "title_en": "Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC",
+    "title_zh": "俄罗斯石油公司首席执行官：中国称石油市场为枪击事件，而非欧佩克",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Rosneft-CEO-China-Calls-The-Shots-in-Oil-Markets-Not-OPEC.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T16:30:00+00:00"
+  },
+  "4736e9940fa2": {
+    "id": "4736e9940fa2",
+    "title_en": "Mitsubishi Continues Bet on PHEV Muscle as Outlander Makes Philippine Return",
+    "title_zh": "三菱继续押注PHEV肌肉，因为Outlander让菲律宾回归",
+    "url": "https://cleantechnica.com/2026/09/04/mitsubishi-continues-bet-on-phev-muscle-as-outlander-makes-philippine-return/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-04T16:28:37+00:00"
+  },
+  "fab9e9eb9168": {
+    "id": "fab9e9eb9168",
+    "title_en": "Record Diesel Prices Push Brent Toward $95",
+    "title_zh": "创纪录的柴油价格推动布伦特原油价格逼近95美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Record-Diesel-Prices-Push-Brent-Toward-95.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T16:27:00+00:00"
+  },
+  "6a7fa2d372eb": {
+    "id": "6a7fa2d372eb",
+    "title_en": "BYD launches its ‘biggest-ever’ sales event in the UK with discounts on PHEVs and EVs",
+    "title_zh": "比亚迪在英国推出“有史以来最大”的销售活动，为PHEV和EV提供折扣",
+    "url": "https://electrek.co/2026/09/04/byd-launches-biggest-sales-event-uk-phevs-evs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T16:12:56+00:00"
+  },
+  "e2f60744aa38": {
+    "id": "e2f60744aa38",
+    "title_en": "Rivian rolls out RivianOS 2, unifying software across R1 and R2",
+    "title_zh": "Rivian推出RivianOS 2，统一R1和R2的软件",
+    "url": "https://electrek.co/2026/09/04/rivian-rivianos-2-software-update-r1-r2/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T16:05:16+00:00"
+  },
+  "e042e1a5f151": {
+    "id": "e042e1a5f151",
+    "title_en": "Turkmenistan Moves to Tackle Major Methane Leaks",
+    "title_zh": "土库曼斯坦采取行动解决重大甲烷泄漏问题",
+    "url": "https://oilprice.com/Energy/Energy-General/Turkmenistan-Moves-to-Tackle-Major-Methane-Leaks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T16:00:00+00:00"
+  },
   "b92c756283ba": {
     "id": "b92c756283ba",
     "title_en": "Macfox X1S e-bike review: More mini-moto than bicycle, yet still street legal",
@@ -4345,158 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-08-31T09:00:00+00:00"
-  },
-  "1ae24347823b": {
-    "id": "1ae24347823b",
-    "title_en": "The rules of data center development are evolving. Is your strategy?",
-    "title_zh": "数据中心发展的规则正在演变。这是你的策略吗？",
-    "url": "https://www.utilitydive.com/spons/the-rules-of-data-center-development-are-evolving-is-your-strategy-1/828795/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-31T09:00:00+00:00"
-  },
-  "917b58212b42": {
-    "id": "917b58212b42",
-    "title_en": "Journey Ahead: JA Roadshow 2026 to spotlight integrated energy solutions",
-    "title_zh": "前进之路：JA 2026路演聚焦综合能源解决方案",
-    "url": "https://www.pv-magazine.com/2026/08/31/journey-ahead-ja-roadshow-2026-to-spotlight-integrated-energy-solutions/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T09:00:00+00:00"
-  },
-  "2502c946a930": {
-    "id": "2502c946a930",
-    "title_en": "Jacket for TenneT’s IJmuiden Ver Beta Platform Starts Taking Shape",
-    "title_zh": "TenneT IJmuiden Ver Beta平台的夹克开始成形",
-    "url": "https://www.offshorewind.biz/2026/08/31/jacket-for-tennets-ijmuiden-ver-beta-platform-starts-taking-shape/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-31T08:40:08+00:00"
-  },
-  "36badab895ce": {
-    "id": "36badab895ce",
-    "title_en": "Asian Refiners Turn to Argentina as Iran War Disrupts Oil Supply",
-    "title_zh": "伊朗战争扰乱石油供应，亚洲炼油厂转向阿根廷",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Turn-to-Argentina-as-Iran-War-Disrupts-Oil-Supply.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T08:35:35+00:00"
-  },
-  "ce07cef7f1f6": {
-    "id": "ce07cef7f1f6",
-    "title_en": "Hydrogen Gets Far More Attention Than Its Deployment Justifies",
-    "title_zh": "氢气受到的关注远远超过其部署的合理性",
-    "url": "https://cleantechnica.com/2026/08/31/hydrogen-gets-far-more-attention-than-its-deployment-justifies/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-31T08:25:17+00:00"
-  },
-  "440015bdeaf9": {
-    "id": "440015bdeaf9",
-    "title_en": "Denmark adds 337 MW of solar in H1",
-    "title_zh": "丹麦上半年新增337兆瓦太阳能",
-    "url": "https://www.pv-magazine.com/2026/08/31/denmark-adds-337-mw-of-solar-in-h1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T08:23:26+00:00"
-  },
-  "bca85727e4b2": {
-    "id": "bca85727e4b2",
-    "title_en": "US PV manufacturing: how much capacity will actually be online by 2030?",
-    "title_zh": "美国光伏制造业：到2030年，实际上将有多少产能上线？",
-    "url": "https://www.pv-tech.org/us-pv-manufacturing-how-much-capacity-will-actually-be-online-by-2030/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T07:34:59+00:00"
-  },
-  "da1a3b8dfd95": {
-    "id": "da1a3b8dfd95",
-    "title_en": "Gary power outage underscores stakes of Solar for All cancellation",
-    "title_zh": "加里停电凸显了取消全民太阳能计划的利害关系",
-    "url": "https://www.canarymedia.com/articles/climate-crisis/gary-power-outage-solar-for-all",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-31T07:30:00+00:00"
-  },
-  "430766d19997": {
-    "id": "430766d19997",
-    "title_en": "Virginia to cut rooftop solar costs with nation-first bulk-buy program",
-    "title_zh": "弗吉尼亚州将通过全国首个批量购买计划削减屋顶太阳能成本",
-    "url": "https://www.canarymedia.com/articles/solar/virginia-rooftop-solar-bulk-buy-program",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-08-31T07:30:00+00:00"
-  },
-  "618e772aef35": {
-    "id": "618e772aef35",
-    "title_en": "913 MW German Offshore Wind Farm Commissioned",
-    "title_zh": "913兆瓦德国海上风电场投产",
-    "url": "https://www.offshorewind.biz/2026/08/31/913-mw-german-offshore-wind-farm-commissioned/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-31T06:51:35+00:00"
-  },
-  "19405291b8b9": {
-    "id": "19405291b8b9",
-    "title_en": "Goldman Sachs Sees Diesel Refining Margins Soaring to $63 a Barrel",
-    "title_zh": "高盛预计柴油精炼利润率将飙升至每桶63美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Sees-Diesel-Refining-Margins-Soaring-to-63-a-Barrel.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T06:45:00+00:00"
-  },
-  "90fa7a7b1497": {
-    "id": "90fa7a7b1497",
-    "title_en": "Brazil’s Intersolar SA 2026 highlights storage momentum amid solar slowdown",
-    "title_zh": "巴西的Intersolar SA 2026在太阳能增长放缓的情况下凸显了储能势头",
-    "url": "https://www.pv-magazine.com/2026/08/31/intersolar-2026-armazenamento-traz-novo-animo-para-o-setor-em-ano-de-desaceleracao-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T06:20:30+00:00"
-  },
-  "d1a039f46b53": {
-    "id": "d1a039f46b53",
-    "title_en": "Shell sells Sonnen to Tiven",
-    "title_zh": "壳牌将Sonnen出售给Tiven",
-    "url": "https://www.pv-magazine.com/2026/08/31/shell-verkauft-sonnen-an-tiven/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T06:09:24+00:00"
-  },
-  "690132eef762": {
-    "id": "690132eef762",
-    "title_en": "ClearVue announces coating breakthrough for energy-generating solar glass",
-    "title_zh": "ClearVue宣布在太阳能玻璃涂层方面取得突破",
-    "url": "https://www.pv-magazine.com/2026/08/31/clearvue-announces-coating-breakthrough-for-energy-generating-solar-glass/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T05:37:18+00:00"
-  },
-  "2e300ab7869d": {
-    "id": "2e300ab7869d",
-    "title_en": "Trump Says Venezuelan Oil Will Refill U.S. Strategic Petroleum Reserve",
-    "title_zh": "特朗普称委内瑞拉石油将补充美国战略石油储备",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-Venezuelan-Oil-Will-Refill-US-Strategic-Petroleum-Reserve.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T05:35:00+00:00"
-  },
-  "75b44ea38c27": {
-    "id": "75b44ea38c27",
-    "title_en": "Copenhagen Infrastructure Partners acquires 104MW grid-forming BESS project from Windlab in Australia",
-    "title_zh": "哥本哈根基础设施合作伙伴从澳大利亚Windlab收购了104MW并网BESS项目",
-    "url": "https://www.energy-storage.news/copenhagen-infrastructure-partners-acquires-104mw-grid-forming-bess-project-from-windlab-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-31T05:33:45+00:00"
-  },
-  "b4d61ee39db2": {
-    "id": "b4d61ee39db2",
-    "title_en": "‘You’re buying a liability’: panel warns developers on buying ageing battery storage assets in Australia",
-    "title_zh": "“你买的是负债”：专家组警告开发商不要在澳大利亚购买老化的电池存储资产",
-    "url": "https://www.energy-storage.news/youre-buying-a-liability-panel-warns-developers-on-buying-ageing-battery-storage-assets-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-31T05:30:53+00:00"
   }
 }
