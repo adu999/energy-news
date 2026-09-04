@@ -1,4 +1,49 @@
 {
+  "b666b33015b5": {
+    "id": "b666b33015b5",
+    "title_en": "How The U.S. Fell Behind China On Nuclear Power",
+    "title_zh": "美国在核能问题上如何落后于中国",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T22:00:00+00:00"
+  },
+  "d4f5c5c1e61f": {
+    "id": "d4f5c5c1e61f",
+    "title_en": "All press is good press, right? Cybercab event leaves more questions than answers",
+    "title_zh": "所有的新闻都是好新闻，对吧？Cybercab活动留下的问题多于答案",
+    "url": "https://electrek.co/2026/09/04/all-press-is-good-press-right-cybercab-event-leaves-more-questions-than-answers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T21:51:56+00:00"
+  },
+  "b96c0c6778da": {
+    "id": "b96c0c6778da",
+    "title_en": "Will We Control AI—or Will AI Control Us?",
+    "title_zh": "我们会控制人工智能，还是人工智能会控制我们？",
+    "url": "https://oilprice.com/Energy/Energy-General/Artificial-Intelligence-Is-It-Good-Bad-or-a-Game-Changer.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T21:00:00+00:00"
+  },
+  "2116c9677f24": {
+    "id": "2116c9677f24",
+    "title_en": "BYD’s most affordable EV is about to get a ‘big’ sibling",
+    "title_zh": "比亚迪最实惠的电动汽车即将迎来“大”兄弟",
+    "url": "https://electrek.co/2026/09/04/byds-most-affordable-ev-big-sibling/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T20:59:32+00:00"
+  },
+  "a60091f85d50": {
+    "id": "a60091f85d50",
+    "title_en": "BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve",
+    "title_zh": "BLM在阿拉斯加石油储备区快速获得石油许可",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Moves-to-Fast-Track-Oil-Permits-in-Alaska-Petroleum-Reserve.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T20:30:00+00:00"
+  },
   "28c80bd2070a": {
     "id": "28c80bd2070a",
     "title_en": "The Jeep Wagoneer and Ram 1500 extended-range EVs face another delay",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-31T11:00:00+00:00"
-  },
-  "8124de87cd74": {
-    "id": "8124de87cd74",
-    "title_en": "Chinese PV Industry Brief: Another 5 major solar manufacturers announce H1 losses",
-    "title_zh": "中国光伏产业简报：又有5家主要太阳能制造商宣布上半年亏损",
-    "url": "https://www.pv-magazine.com/2026/08/31/chinese-pv-industry-brief-another-5-major-solar-manufacturers-announce-h1-losses/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T10:30:35+00:00"
-  },
-  "71e3321466b4": {
-    "id": "71e3321466b4",
-    "title_en": "Half of Turbines Up at Nordseecluster A",
-    "title_zh": "Nordsee集群A的一半涡轮机",
-    "url": "https://www.offshorewind.biz/2026/08/31/half-of-turbines-up-at-nordseecluster-a/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-31T10:18:57+00:00"
-  },
-  "e8655aebcf21": {
-    "id": "e8655aebcf21",
-    "title_en": "Lithium Miners Cash In as Battery Storage Demand Surges",
-    "title_zh": "随着电池储能需求激增，锂矿商获利颇丰",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Lithium-Miners-Cash-In-as-Battery-Storage-Demand-Surges.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T09:50:00+00:00"
-  },
-  "816c8201d876": {
-    "id": "816c8201d876",
-    "title_en": "Acta Marine’s New CSOV Begins Charter at Sofia Offshore Wind Farm",
-    "title_zh": "Acta Marine的新CSOV在索菲亚海上风电场开始包机",
-    "url": "https://www.offshorewind.biz/2026/08/31/acta-marines-new-csov-begins-charter-at-sofia-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-31T09:37:45+00:00"
-  },
-  "1fc7645401a5": {
-    "id": "1fc7645401a5",
-    "title_en": "Property risk in natural resources: The shift from severity to duration",
-    "title_zh": "自然资源中的财产风险：从严重性到持续性的转变",
-    "url": "https://www.utilitydive.com/spons/property-risk-in-natural-resources-the-shift-from-severity-to-duration/828467/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-31T09:00:00+00:00"
   }
 }
