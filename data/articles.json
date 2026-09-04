@@ -1,4 +1,67 @@
 {
+  "8284367f34ff": {
+    "id": "8284367f34ff",
+    "title_en": "Victoria’s SEC connects 119MW solar-plus-storage site to the grid in Australia",
+    "title_zh": "维多利亚州的SEC将119MW的太阳能+储能电站连接到澳大利亚的电网",
+    "url": "https://www.pv-tech.org/victorias-sec-connects-119mw-solar-plus-storage-site-to-the-grid-in-australia/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T03:14:36+00:00"
+  },
+  "5c8c9b122e3f": {
+    "id": "5c8c9b122e3f",
+    "title_en": "EU Heavy-Duty Vehicle Transition Needs Renewed Political Momentum",
+    "title_zh": "欧盟重型汽车转型需要新的政治动力",
+    "url": "https://cleantechnica.com/2026/09/03/eu-heavy-duty-vehicle-transition-needs-renewed-political-momentum/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-04T02:40:57+00:00"
+  },
+  "30e4a5af1aba": {
+    "id": "30e4a5af1aba",
+    "title_en": "The Coming Tsunami Of Wave Energy Is Still Coming",
+    "title_zh": "即将到来的波浪能海啸仍在到来",
+    "url": "https://cleantechnica.com/2026/09/03/wave-energy-us-pacwave-renewables-us-policy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-04T02:32:13+00:00"
+  },
+  "dde2ab761b24": {
+    "id": "dde2ab761b24",
+    "title_en": "Powering Sovereignty",
+    "title_zh": "赋予主权权力",
+    "url": "https://cleantechnica.com/2026/09/03/powering-sovereignty/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-04T02:30:29+00:00"
+  },
+  "189f7c56f34e": {
+    "id": "189f7c56f34e",
+    "title_en": "Tesla opens search for Cybercab fleet sales, but FSD owners are still left out",
+    "title_zh": "特斯拉开始搜索Cybercab车队销售，但FSD车主仍被排除在外",
+    "url": "https://electrek.co/2026/09/03/tesla-opens-search-for-cybercab-fleet-sales-but-fsd-owners-are-still-left-out/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T01:05:58+00:00"
+  },
+  "f1d4e060a0b0": {
+    "id": "f1d4e060a0b0",
+    "title_en": "U.S.-Venezuela Oil Deal Threatens China’s Oil-Backed Loans",
+    "title_zh": "美委石油协议威胁中国石油贷款",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Venezuela-Oil-Deal-Threatens-Chinas-Oil-Backed-Loans.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T00:00:00+00:00"
+  },
+  "3b513bf37b13": {
+    "id": "3b513bf37b13",
+    "title_en": "U.S. Renewable Deployment Hits Record High Despite Trump",
+    "title_zh": "尽管特朗普上台，美国可再生能源部署仍创历史新高",
+    "url": "https://cleantechnica.com/2026/09/03/u-s-renewable-deployment-hits-record-high-despite-trump/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-03T23:30:53+00:00"
+  },
   "b59bd77393e3": {
     "id": "b59bd77393e3",
     "title_en": "Why Oil Majors Don’t Want to Build New U.S. Refineries",
@@ -4435,68 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-28T13:08:33+00:00"
-  },
-  "a2666c350879": {
-    "id": "a2666c350879",
-    "title_en": "Importing solar modules to US ‘no longer makes sense’ under Section 232 – Intertek CEA",
-    "title_zh": "根据《Intertek CEA》第232条，向美国进口太阳能组件“不再有意义”",
-    "url": "https://www.pv-tech.org/importing-solar-modules-to-us-no-longer-makes-sense-under-section-232-intertek-cea/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-28T13:04:44+00:00"
-  },
-  "b597b0d28f9c": {
-    "id": "b597b0d28f9c",
-    "title_en": "Wheel-E Podcast: Powerful Bafangs, cops on Sur-Rons, Qronge, more",
-    "title_zh": "Wheel-E播客：强大的Bafangs，Sur Rons上的警察，Qronge，更多",
-    "url": "https://electrek.co/2026/08/28/wheel-e-podcast-powerful-bafangs-cops-on-sur-rons-qronge-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-28T12:57:48+00:00"
-  },
-  "d2b2de904af1": {
-    "id": "d2b2de904af1",
-    "title_en": "BESS Industry Buzz: hot takes, analysis and unofficial news from across the sector",
-    "title_zh": "BESS行业动态：来自整个行业的热门报道、分析和非官方新闻",
-    "url": "https://www.energy-storage.news/bess-industry-buzz-hot-takes-analysis-and-unofficial-news-from-across-the-sector/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-28T12:55:54+00:00"
-  },
-  "c158e25ba890": {
-    "id": "c158e25ba890",
-    "title_en": "Qronge X1 Spark L Review: Does a $1,299 Sur-Ron Light Bee alternative cut the right corners?",
-    "title_zh": "Qronge X1 Spark L评测：售价1299美元的Sur Ron Light Bee替代品是否合适？",
-    "url": "https://electrek.co/2026/08/28/qronge-x1-spark-l-review-does-a-1299-sur-ron-light-bee-alternative-cut-the-right-corners/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-28T12:52:59+00:00"
-  },
-  "6682717eaeeb": {
-    "id": "6682717eaeeb",
-    "title_en": "MARS Energy to acquire Citadel Roofing & Solar",
-    "title_zh": "MARS Energy将收购Citadel Roofing&Solar",
-    "url": "https://www.solarpowerworldonline.com/2026/08/mars-energy-to-acquire-citadel-roofing-solar/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-28T12:41:21+00:00"
-  },
-  "951e956e39b4": {
-    "id": "951e956e39b4",
-    "title_en": "Federal authorities disrupt China-backed hacking operation targeting US critical infrastructure",
-    "title_zh": "联邦当局扰乱了中国支持的针对美国关键基础设施的黑客行动",
-    "url": "https://www.utilitydive.com/news/federal-authorities-disrupt-china-hacking-US-critical-infrastructure/829094/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-28T12:33:36+00:00"
-  },
-  "33934ee5fa92": {
-    "id": "33934ee5fa92",
-    "title_en": "Hormuz Shipping Remains Subdued Despite Apparent Reopening",
-    "title_zh": "尽管霍尔木兹航运明显重新开放，但仍表现疲软",
-    "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Shipping-Remains-Subdued-Despite-Apparent-Reopening.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-28T12:30:00+00:00"
   }
 }
