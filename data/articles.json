@@ -1,4 +1,346 @@
 {
+  "b92c756283ba": {
+    "id": "b92c756283ba",
+    "title_en": "Macfox X1S e-bike review: More mini-moto than bicycle, yet still street legal",
+    "title_zh": "Macfox X1S e-bike review: More mini-moto than bicycle, yet still street legal",
+    "url": "https://electrek.co/2026/09/04/macfox-x1s-e-bike-review-more-mini-moto-than-bicycle-yet-still-street-legal/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T15:37:48+00:00"
+  },
+  "34257f5560c6": {
+    "id": "34257f5560c6",
+    "title_en": "China Rare Earth Firms Freeze U.S. Exports Weeks Before Xi-Trump Summit",
+    "title_zh": "China Rare Earth Firms Freeze U.S. Exports Weeks Before Xi-Trump Summit",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Rare-Earth-Firms-Freeze-US-Exports-Weeks-Before-Xi-Trump-Summit.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T15:30:00+00:00"
+  },
+  "ad0254ff1772": {
+    "id": "ad0254ff1772",
+    "title_en": "Digital public infrastructure and the future of renewable energy: insights from India Energy Stack",
+    "title_zh": "数字公共基础设施和可再生能源的未来：来自印度能源堆栈的见解",
+    "url": "https://www.pv-tech.org/digital-public-infrastructure-and-the-future-of-renewable-energy-insights-from-india-energy-stack/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T15:26:22+00:00"
+  },
+  "17b781104b59": {
+    "id": "17b781104b59",
+    "title_en": "South Korea to double 2027 budget for farm solar, agrivoltaics",
+    "title_zh": "韩国将在2027年将农场太阳能和农业光伏的预算翻一番",
+    "url": "https://www.pv-magazine.com/2026/09/04/south-korea-to-double-2027-budget-for-farm-solar-agrivoltaics/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T15:15:00+00:00"
+  },
+  "e7d7b9534028": {
+    "id": "e7d7b9534028",
+    "title_en": "Inox Solar Americas signs 767MW US module supply agreement",
+    "title_zh": "Inox Solar Americas签署767MW美国组件供应协议",
+    "url": "https://www.pv-tech.org/inox-solar-americas-signs-767mw-us-module-supply-agreement/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T15:11:41+00:00"
+  },
+  "663a9985cc0c": {
+    "id": "663a9985cc0c",
+    "title_en": "Utilities eye small modular nuclear reactors for reliability as hyperscalers drive demand",
+    "title_zh": "随着超大规模反应堆推动需求，公用事业公司着眼于小型模块化核反应堆的可靠性",
+    "url": "https://www.utilitydive.com/news/utilities-eye-small-modular-nuclear-reactors-for-reliability-as-hyperscaler/829681/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-04T14:43:52+00:00"
+  },
+  "cf7f4a8e5fe5": {
+    "id": "cf7f4a8e5fe5",
+    "title_en": "India Plans Mandatory Battery Storage at Solar and Wind Projects",
+    "title_zh": "India Plans Mandatory Battery Storage at Solar and Wind Projects",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Plans-Mandatory-Battery-Storage-at-Solar-and-Wind-Projects.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T14:30:00+00:00"
+  },
+  "c8f8013809ec": {
+    "id": "c8f8013809ec",
+    "title_en": "German c-Si R&D is ‘essential’ for European solar PV industry, says ISC Konstanz",
+    "title_zh": "ISC Konstanz表示，德国c-Si研发对欧洲太阳能光伏产业“至关重要”",
+    "url": "https://www.pv-tech.org/german-c-si-rd-is-essential-for-european-solar-pv-industry-says-isc-konstanz/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T14:24:28+00:00"
+  },
+  "04737dea1eb6": {
+    "id": "04737dea1eb6",
+    "title_en": "Defender’s smaller off-road EV spotted testing ahead of its debut",
+    "title_zh": "Defender’s smaller off-road EV spotted testing ahead of its debut",
+    "url": "https://electrek.co/2026/09/04/defenders-smaller-off-road-ev-spotted-testing/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T14:22:51+00:00"
+  },
+  "ed177d8bc175": {
+    "id": "ed177d8bc175",
+    "title_en": "Africa’s hidden solar boom revealed",
+    "title_zh": "非洲隐藏的太阳能热潮被揭露",
+    "url": "https://www.pv-tech.org/africas-hidden-solar-boom-revealed/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T14:04:50+00:00"
+  },
+  "a02f2bf9db43": {
+    "id": "a02f2bf9db43",
+    "title_en": "Solar’s infrastructure obstacle",
+    "title_zh": "太阳能的基础设施障碍",
+    "url": "https://www.pv-magazine.com/2026/09/04/solars-infrastructure-obstacle-2/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T14:00:00+00:00"
+  },
+  "7bc859622e1c": {
+    "id": "7bc859622e1c",
+    "title_en": "Britain Faces a North Sea Crossroads as Jackdaw and Rosebank Await Approval",
+    "title_zh": "Britain Faces a North Sea Crossroads as Jackdaw and Rosebank Await Approval",
+    "url": "https://oilprice.com/Energy/Energy-General/Britain-Faces-a-North-Sea-Crossroads-as-Jackdaw-and-Rosebank-Await-Approval.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T14:00:00+00:00"
+  },
+  "2a391830bad1": {
+    "id": "2a391830bad1",
+    "title_en": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
+    "title_zh": "Tesla Full Self-Driving can now take over manual driving to avoid a collision",
+    "url": "https://electrek.co/2026/09/04/tesla-fsd-active-safety-collision-avoidance/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T13:56:18+00:00"
+  },
+  "e5bad3532d58": {
+    "id": "e5bad3532d58",
+    "title_en": "Why agrivoltaics have yet to take off in Switzerland",
+    "title_zh": "为什么农业光伏尚未在瑞士起飞",
+    "url": "https://www.pv-magazine.com/2026/09/04/why-agrivoltaics-have-yet-to-take-off-in-switzerland/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T13:30:47+00:00"
+  },
+  "c2d7cf408fa3": {
+    "id": "c2d7cf408fa3",
+    "title_en": "Iran Says It's Found Ways to Dodge U.S. Oil Blockade",
+    "title_zh": "Iran Says It's Found Ways to Dodge U.S. Oil Blockade",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Its-Found-Ways-to-Dodge-US-Oil-Blockade.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T13:30:00+00:00"
+  },
+  "9de646bba5bf": {
+    "id": "9de646bba5bf",
+    "title_en": "Equinor’s East Point Energy begins operations at 200MWh Texas BESS",
+    "title_zh": "Equinor的East Point Energy开始在200MWh的德克萨斯州BESS运营",
+    "url": "https://www.energy-storage.news/equinors-east-point-energy-begins-operations-at-200mwh-texas-bess/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-04T13:19:36+00:00"
+  },
+  "88eb9eb8bc33": {
+    "id": "88eb9eb8bc33",
+    "title_en": "The Hydrogen Stream: Posco, BHP advance hydrogen reduction ironmaking technology",
+    "title_zh": "氢流：浦项制铁、必和必拓推进氢还原炼铁技术",
+    "url": "https://www.pv-magazine.com/2026/09/04/the-hydrogen-stream-posco-bhp-advance-hydrogen-reduction-ironmaking-technology/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T13:15:00+00:00"
+  },
+  "06bcad25f171": {
+    "id": "06bcad25f171",
+    "title_en": "Young Oysters Deployed on Two North Sea Cable Crossings",
+    "title_zh": "Young Oysters Deployed on Two North Sea Cable Crossings",
+    "url": "https://offshorewind.biz/2026/09/04/young-oysters-deployed-on-two-north-sea-cable-crossings",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-04T13:11:32+00:00"
+  },
+  "aab658c45b5a": {
+    "id": "aab658c45b5a",
+    "title_en": "India’s CEA proposes mandatory storage for new solar, wind projects from 2027",
+    "title_zh": "印度中央能源局提议从2027年开始强制储存新的太阳能、风能项目",
+    "url": "https://www.pv-tech.org/indias-cea-proposes-mandatory-storage-for-new-solar-wind-projects-from-2027/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T13:09:22+00:00"
+  },
+  "f3409960a8e6": {
+    "id": "f3409960a8e6",
+    "title_en": "Alliance for Automotive Innovation begs Congress to stop automotive innovation",
+    "title_zh": "Alliance for Automotive Innovation begs Congress to stop automotive innovation",
+    "url": "https://electrek.co/2026/09/04/alliance-for-automotive-innovation-begs-congress-to-stop-automotive-innovation/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T13:00:00+00:00"
+  },
+  "9fef93fe8d93": {
+    "id": "9fef93fe8d93",
+    "title_en": "Tesla Cybercab is already under NHTSA investigation after launch",
+    "title_zh": "Tesla Cybercab is already under NHTSA investigation after launch",
+    "url": "https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-04T12:46:21+00:00"
+  },
+  "c071e4d0f62a": {
+    "id": "c071e4d0f62a",
+    "title_en": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
+    "title_zh": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Put-Venezuelas-Oil-Back-in-the-Spotlight.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T12:30:00+00:00"
+  },
+  "6e275a39127c": {
+    "id": "6e275a39127c",
+    "title_en": "How Much Oil Is Really Getting Through the Strait of Hormuz?",
+    "title_zh": "How Much Oil Is Really Getting Through the Strait of Hormuz?",
+    "url": "https://oilprice.com/Energy/Energy-General/How-Much-Oil-Is-Really-Getting-Through-the-Strait-of-Hormuz.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T12:30:00+00:00"
+  },
+  "878e6fa83f5b": {
+    "id": "878e6fa83f5b",
+    "title_en": "WTI Back Above $91 as War Premium Returns",
+    "title_zh": "随着战争保费的回归，WTI价格回升至91美元以上",
+    "url": "https://oilprice.com/Energy/Energy-General/WTI-Back-Above-91-as-War-Premium-Returns.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T12:30:00+00:00"
+  },
+  "8efec74f8ae3": {
+    "id": "8efec74f8ae3",
+    "title_en": "Europe Gas Prices Head for Fourth Straight Weekly Gain",
+    "title_zh": "欧洲天然气价格连续第四周上涨",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Head-for-Fourth-Straight-Weekly-Gain.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T12:30:00+00:00"
+  },
+  "801e1f31d754": {
+    "id": "801e1f31d754",
+    "title_en": "TÜV Rheinland validates 4 kWh generation in Aptera’s solar electric vehicle",
+    "title_zh": "德国莱茵TÜV在Aptera的太阳能电动汽车上验证了4千瓦时的发电量",
+    "url": "https://www.pv-magazine.com/2026/09/04/tuv-rheinland-validates-4-kwh-generation-in-apteras-solar-electric-vehicle/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T12:19:09+00:00"
+  },
+  "813c9783c13f": {
+    "id": "813c9783c13f",
+    "title_en": "Flex to purchase inverter brand EPC Power for $4.4 billion",
+    "title_zh": "Flex以44亿美元收购逆变器品牌EPC Power",
+    "url": "https://www.solarpowerworldonline.com/2026/09/flex-to-purchase-inverter-brand-epc-power-for-4-4-billion/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T12:02:58+00:00"
+  },
+  "ac785d107657": {
+    "id": "ac785d107657",
+    "title_en": "BLUETTI Launches New Energy Solutions for Work, Home and Life on the Move at IFA 2026",
+    "title_zh": "BLUETTI在IFA 2026上推出工作、家庭和移动生活的新能源解决方案",
+    "url": "https://www.energy-storage.news/bluetti-launches-new-energy-solutions-for-work-home-and-life-on-the-move-at-ifa-2026/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-04T12:01:40+00:00"
+  },
+  "413fcd0519df": {
+    "id": "413fcd0519df",
+    "title_en": "Solar is now bigger than coal in China — and yet still way behind",
+    "title_zh": "太阳能现在在中国比煤炭还大，但仍然远远落后",
+    "url": "https://www.canarymedia.com/articles/solar/did-solar-beat-coal-china",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-04T12:00:00+00:00"
+  },
+  "58b52d7c87c7": {
+    "id": "58b52d7c87c7",
+    "title_en": "A circular future for renewables",
+    "title_zh": "可再生能源的循环未来",
+    "url": "https://www.pv-magazine.com/2026/09/04/a-circular-future-for-renewables/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T11:53:37+00:00"
+  },
+  "2a58c1d3d362": {
+    "id": "2a58c1d3d362",
+    "title_en": "Pacifico Energy Unveils EUR 860+ Million Investment in Two Offshore Wind Projects in South Korea",
+    "title_zh": "Pacifico Energy Unveils EUR 860+ Million Investment in Two Offshore Wind Projects in South Korea",
+    "url": "https://offshorewind.biz/2026/09/04/pacifico-energy-unveils-eur-860-million-investment-in-two-offshore-wind-projects-in-south-korea",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-04T11:48:30+00:00"
+  },
+  "fd7f7c62524b": {
+    "id": "fd7f7c62524b",
+    "title_en": "New energy products emerge in Southern Africa’s renewables market",
+    "title_zh": "南部非洲可再生能源市场出现新能源产品",
+    "url": "https://www.pv-magazine.com/2026/09/04/new-products-emerge-in-southern-africas-renewables-market/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T11:30:00+00:00"
+  },
+  "4f2d82e05e2a": {
+    "id": "4f2d82e05e2a",
+    "title_en": "Analysis: UK solar power hits record high over summer 2026",
+    "title_zh": "分析：英国太阳能发电量在2026年夏季创下历史新高",
+    "url": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-09-04T11:21:35+00:00"
+  },
+  "aba6783e9048": {
+    "id": "aba6783e9048",
+    "title_en": "Alpitronic unveils 1 MW EV charging system",
+    "title_zh": "Alpitronic推出1兆瓦电动汽车充电系统",
+    "url": "https://www.pv-magazine.com/2026/09/04/alpitronic-unveils-1-mw-ev-charging-system/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T11:15:17+00:00"
+  },
+  "96c5178349c4": {
+    "id": "96c5178349c4",
+    "title_en": "BESS Industry Buzz: German grid attack, revenue cannibilisation, CATL’s price cut, sodium-ion’s ramp-up and more",
+    "title_zh": "BESS行业热议：德国电网攻击、收入可能化、CATL降价、钠离子产能提升等等",
+    "url": "https://www.energy-storage.news/bess-industry-buzz-german-grid-attack-revenue-cannibilisation-catls-price-cut-sodium-ions-ramp-up-and-more/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-04T11:14:49+00:00"
+  },
+  "c8bc4f71f10a": {
+    "id": "c8bc4f71f10a",
+    "title_en": "‘Do not wait until you feel completely ready’",
+    "title_zh": "“不要等到你觉得完全准备好了”",
+    "url": "https://www.pv-magazine.com/2026/09/04/do-not-wait-until-you-feel-completely-ready/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T11:13:29+00:00"
+  },
+  "7b07d4ed589b": {
+    "id": "7b07d4ed589b",
+    "title_en": "El Niño transition and a subtropical shift reshape Asia’s summer solar resource",
+    "title_zh": "厄尔尼诺转变和亚热带转变重塑亚洲夏季太阳能资源",
+    "url": "https://www.pv-magazine.com/2026/09/04/el-nino-transition-and-a-subtropical-shift-reshape-asias-summer-solar-resource/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-04T11:01:00+00:00"
+  },
+  "17f50e4ba953": {
+    "id": "17f50e4ba953",
+    "title_en": "U.S. Diesel Prices Hit All-Time High as Global Fuel Squeeze Deepens",
+    "title_zh": "随着全球燃料紧缩加剧，美国柴油价格创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-Prices-Hit-All-Time-High-as-Global-Fuel-Squeeze-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-04T10:50:00+00:00"
+  },
   "d5799248fb55": {
     "id": "d5799248fb55",
     "title_en": "How this summer’s heat and drought impacted crops in Europe – in six charts",
@@ -8,6 +350,15 @@
     "category": "政策",
     "pub_ts": "2026-09-04T10:45:44+00:00"
   },
+  "7cc52cb2dadc": {
+    "id": "7cc52cb2dadc",
+    "title_en": "ORLEN and partners launch Baltic Energy Initiative",
+    "title_zh": "ORLEN及其合作伙伴启动波罗的海能源倡议",
+    "url": "https://www.energymonitor.ai/news/orlen-launch-baltic-energy-initiative/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-04T10:15:22+00:00"
+  },
   "908d70ca64e1": {
     "id": "908d70ca64e1",
     "title_en": "TEXAS SOLAR ROUNDUP: OCI Energy, Areva break ground on 347MW PV project, Sunraycer closes solar-plus-storage financing",
@@ -16,6 +367,15 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-09-04T09:55:47+00:00"
+  },
+  "00d9254cdf13": {
+    "id": "00d9254cdf13",
+    "title_en": "Wyoming approves 650MW Laramie Range wind project",
+    "title_zh": "Wyoming approves 650MW Laramie Range wind project",
+    "url": "https://www.windpowermonthly.com/article/1969161/wyoming-approves-650mw-laramie-range-wind-project",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-09-04T09:55:34+00:00"
   },
   "c5f926051540": {
     "id": "c5f926051540",
@@ -142,6 +502,15 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-09-04T07:54:17+00:00"
+  },
+  "fe4a12635145": {
+    "id": "fe4a12635145",
+    "title_en": "New podcast: Jonathan Cole on bridging the gap between fixed-bottom and floating offshore wind",
+    "title_zh": "New podcast: Jonathan Cole on bridging the gap between fixed-bottom and floating offshore wind",
+    "url": "https://www.windpowermonthly.com/article/1969144/new-podcast-jonathan-cole-bridging-gap-fixed-bottom-floating-offshore-wind",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-09-04T07:47:17+00:00"
   },
   "049c908bbf1f": {
     "id": "049c908bbf1f",
@@ -1034,6 +1403,15 @@
     "category": "风电",
     "pub_ts": "2026-09-03T10:37:12+00:00"
   },
+  "eb7d6789e695": {
+    "id": "eb7d6789e695",
+    "title_en": "German cabinet approves offshore wind auction reform plan",
+    "title_zh": "German cabinet approves offshore wind auction reform plan",
+    "url": "https://www.windpowermonthly.com/article/1969050/german-cabinet-approves-offshore-wind-auction-reform-plan",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-09-03T10:37:12+00:00"
+  },
   "8aed1b5d2cb6": {
     "id": "8aed1b5d2cb6",
     "title_en": "All Foundations In Place at Bałtyk 2 & 3",
@@ -1273,6 +1651,15 @@
     "title_en": "UK Oil & Gas Player, Floating Wind Developer to Explore Electrification Opportunities in North Sea",
     "title_zh": "英国石油天然气公司、浮式风电开发商将探索北海的电气化机会",
     "url": "https://offshorewind.biz/2026/09/03/uk-oil-gas-player-floating-wind-developer-to-explore-electrification-opportunities-in-north-sea",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-03T06:55:14+00:00"
+  },
+  "d53bba376d85": {
+    "id": "d53bba376d85",
+    "title_en": "UK Oil & Gas Player, Floating Wind Developer to Explore Electrification Opportunities in North Sea",
+    "title_zh": "UK Oil & Gas Player, Floating Wind Developer to Explore Electrification Opportunities in North Sea",
+    "url": "https://offshorewind.biz/2026/09/03/uk-oil-and-gas-player-floating-wind-developer-to-explore-electrification-opportunities-in-north-sea",
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-09-03T06:55:14+00:00"
@@ -4111,392 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-08-31T05:30:53+00:00"
-  },
-  "d2f726ff2166": {
-    "id": "d2f726ff2166",
-    "title_en": "ARENA commits AU$105.6 million to next wave of solar research in Australia",
-    "title_zh": "ARENA承诺为澳大利亚下一波太阳能研究提供1.056亿澳元",
-    "url": "https://www.pv-tech.org/arena-commits-au105-6-million-to-next-wave-of-solar-research-in-australia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T05:18:27+00:00"
-  },
-  "cd7d3fb33742": {
-    "id": "cd7d3fb33742",
-    "title_en": "‘Australia is a market made for batteries’: Wärtsilä strategy lead on volatility and the business case for energy storage",
-    "title_zh": "“澳大利亚是一个电池市场”：瓦锡兰在波动性和储能商业案例方面的战略领先",
-    "url": "https://www.energy-storage.news/australia-is-a-market-made-for-batteries-wartsila-strategy-lead-on-volatility-and-the-business-case-for-energy-storage/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-31T05:12:34+00:00"
-  },
-  "a8dd2dfe6ef6": {
-    "id": "a8dd2dfe6ef6",
-    "title_en": "Buried junction box defects",
-    "title_zh": "埋地接线盒缺陷",
-    "url": "https://www.pv-magazine.com/2026/08/31/buried-junction-box-defects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T04:00:00+00:00"
-  },
-  "2effe9b2374c": {
-    "id": "2effe9b2374c",
-    "title_en": "Oil Prices Surge as U.S. and Iran Exchange Strikes",
-    "title_zh": "美国和伊朗交易所罢工导致油价飙升",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Surge-as-US-and-Iran-Exchange-Strikes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T02:30:06+00:00"
-  },
-  "2bc903468c76": {
-    "id": "2bc903468c76",
-    "title_en": "U.S. Army To Spend $2.2B On Nuclear Microreactors At Military Bases",
-    "title_zh": "美国陆军将斥资22亿美元在军事基地建造核微反应堆",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Army-To-Spend-22B-On-Nuclear-Microreactors-At-Military-Bases.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-30T23:00:00+00:00"
-  },
-  "260d899de78b": {
-    "id": "260d899de78b",
-    "title_en": "‘Soap Cocktails’ Help U.S. Shale Boost Oil Production",
-    "title_zh": "“肥皂鸡尾酒”助力美国页岩油增产",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Soap-Cocktails-Help-US-Shale-Boost-Oil-Production.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-30T21:00:00+00:00"
-  },
-  "7245de58d5e7": {
-    "id": "7245de58d5e7",
-    "title_en": "Lucid’s ‘fire risk’ recall was for LED lights & already fixed by a July software update",
-    "title_zh": "Lucid的“火灾风险”召回是针对LED灯的，并已在7月份的软件更新中得到修复",
-    "url": "https://electrek.co/2026/08/30/lucids-fire-risk-recall-was-for-led-lights-already-fixed-by-a-july-software-update/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-30T20:56:53+00:00"
-  },
-  "555df18c60f5": {
-    "id": "555df18c60f5",
-    "title_en": "UBS Says a Major Commodity Upcycle Is Taking Shape",
-    "title_zh": "瑞银表示，大宗商品价格正在形成一个主要的上涨周期",
-    "url": "https://oilprice.com/Metals/Commodities/UBS-Says-a-Major-Commodity-Upcycle-Is-Taking-Shape.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-30T19:00:00+00:00"
-  },
-  "19c13ff78324": {
-    "id": "19c13ff78324",
-    "title_en": "Survey Sunday: will the Ford Fathom steal Slate Auto’s thunder?",
-    "title_zh": "周日调查：福特Fathom会抢走Slate Auto的风头吗？",
-    "url": "https://electrek.co/2026/08/30/survey-sunday-will-the-ford-fathom-steal-slate-autos-thunder/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-30T17:43:59+00:00"
-  },
-  "1ec77694484b": {
-    "id": "1ec77694484b",
-    "title_en": "Amazon’s massive 2026 Labor Day sale now live! Thousands of deals: Apple, Android, TVs, tech under $100, more from under $5",
-    "title_zh": "亚马逊2026年劳动节大甩卖现已上线！数千笔交易：苹果、安卓、电视、100美元以下的科技，5美元以下的更多",
-    "url": "https://9to5toys.com/2026/08/30/amazon-2026-labor-day-now-live/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-30T17:21:38+00:00"
-  },
-  "45a9c07a3ed2": {
-    "id": "45a9c07a3ed2",
-    "title_en": "Data Centers Are Driving a New U.S. Natural Gas Buildout",
-    "title_zh": "数据中心正在推动美国新的天然气建设",
-    "url": "https://oilprice.com/Energy/Energy-General/Data-Centers-Are-Driving-a-New-US-Natural-Gas-Buildout.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-30T17:00:00+00:00"
-  },
-  "daec74135659": {
-    "id": "daec74135659",
-    "title_en": "Hyundai Bets Big On Extended-Range Electric Vehicles",
-    "title_zh": "现代汽车大举投资增程式电动汽车",
-    "url": "https://cleantechnica.com/2026/08/30/hyundai-bets-big-on-extended-range-electric-vehicles/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T15:46:32+00:00"
-  },
-  "09865929f9a0": {
-    "id": "09865929f9a0",
-    "title_en": "Online Army Draws Attention To Elon Musk And The Nepal Flood Disaster",
-    "title_zh": "网络军队引起了人们对埃隆·马斯克和尼泊尔洪灾的关注",
-    "url": "https://cleantechnica.com/2026/08/30/elon-musk-nepal-flood-disaster-doge-budget-cuts/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T15:43:53+00:00"
-  },
-  "a0841f730381": {
-    "id": "a0841f730381",
-    "title_en": "Saudi Arabia Backs Turkey’s Rapid Renewable Energy Buildout",
-    "title_zh": "沙特阿拉伯支持土耳其快速发展可再生能源",
-    "url": "https://oilprice.com/Energy/Energy-General/Saudi-Arabia-Backs-Turkeys-Rapid-Renewable-Energy-Buildout.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-30T15:00:00+00:00"
-  },
-  "8db8cf566314": {
-    "id": "8db8cf566314",
-    "title_en": "XPENG Drives Physical AI To Next Level",
-    "title_zh": "XPENG将物理AI推向新的水平",
-    "url": "https://cleantechnica.com/2026/08/30/xpeng-drives-physical-ai-to-next-level/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T14:57:42+00:00"
-  },
-  "9df0c00ef999": {
-    "id": "9df0c00ef999",
-    "title_en": "Stranded Asset, What Happens When A Gas Car Becomes Worth Less Than Zero As Transportation?",
-    "title_zh": "搁浅资产，当一辆汽油车作为运输工具的价值低于零时会发生什么？",
-    "url": "https://cleantechnica.com/2026/08/30/stranded-asset-what-happens-when-a-gas-car-becomes-worth-less-than-zero-as-transportation/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T14:34:04+00:00"
-  },
-  "1d939c1c1d54": {
-    "id": "1d939c1c1d54",
-    "title_en": "Op-Ed: The World Lost A Stealth Eco-Monarch with the Passing of King Harald V",
-    "title_zh": "专栏：随着哈拉尔五世国王的去世，世界失去了一位隐形的生态君主",
-    "url": "https://cleantechnica.com/2026/08/30/op-ed-the-world-lost-a-stealth-eco-monarch-with-the-passing-of-king-harald-v/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T14:09:48+00:00"
-  },
-  "2d621bd1336b": {
-    "id": "2d621bd1336b",
-    "title_en": "Slate will offer a high roof cargo version of its compact pickup – and you can buy it!",
-    "title_zh": "Slate将提供其紧凑型皮卡的高顶载货版，您可以购买！",
-    "url": "https://electrek.co/2026/08/30/report-slate-will-offer-a-high-roof-cargo-version-of-its-compact-pickup/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-30T13:38:25+00:00"
-  },
-  "07788981ad18": {
-    "id": "07788981ad18",
-    "title_en": "E-quipment highlight: Tiger electric baggage tug hauls 30 TONS [video]",
-    "title_zh": "电子设备亮点：虎牌电动行李拖轮拖运30吨[视频]",
-    "url": "https://electrek.co/2026/08/30/e-quipment-highlight-tiger-electric-baggage-tug-hauls-30-tons-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-30T13:00:18+00:00"
-  },
-  "aebc61afe3e9": {
-    "id": "aebc61afe3e9",
-    "title_en": "Bentley Launches Its Very First — No, Second — No, Third — Electric Car",
-    "title_zh": "宾利推出首款电动汽车",
-    "url": "https://cleantechnica.com/2026/08/30/electric-car-torcal-suv-luxury-bentley-us-evs/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T12:54:50+00:00"
-  },
-  "37ae7c1c75e1": {
-    "id": "37ae7c1c75e1",
-    "title_en": "Poland’s Coal Problem Has Changed",
-    "title_zh": "波兰的煤炭问题已经改变",
-    "url": "https://cleantechnica.com/2026/08/30/poland-coal-capacity-transition/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T07:05:33+00:00"
-  },
-  "47f35465bf05": {
-    "id": "47f35465bf05",
-    "title_en": "Top Selling Electric Vehicles in the World — 27% EV Share in July!",
-    "title_zh": "全球最畅销的电动汽车——7月份电动汽车市场份额为27%！",
-    "url": "https://cleantechnica.com/2026/08/29/top-selling-electric-vehicles-in-the-world-27-ev-share-in-july/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-30T03:35:34+00:00"
-  },
-  "6c97720f4182": {
-    "id": "6c97720f4182",
-    "title_en": "Iran War Adds $330 Billion to Global Energy Import Bill",
-    "title_zh": "伊朗战争使全球能源进口法案增加3300亿美元",
-    "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Adds-330-Billion-to-Global-Energy-Import-Bill.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-29T23:00:00+00:00"
-  },
-  "2c4359a9398a": {
-    "id": "2c4359a9398a",
-    "title_en": "Solar Has Crossed a Critical Economic Tipping Point",
-    "title_zh": "太阳能已经跨越了一个关键的经济转折点",
-    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Crossed-a-Critical-Economic-Tipping-Point.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-29T21:00:00+00:00"
-  },
-  "edc4af437f39": {
-    "id": "edc4af437f39",
-    "title_en": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
-    "title_zh": "墨西哥的绿色能源推动终于获得了动力",
-    "url": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-29T19:00:00+00:00"
-  },
-  "de4fb3132dc1": {
-    "id": "de4fb3132dc1",
-    "title_en": "Most “Park Outside” Warnings Involve Vehicles With Internal Combustion Engines",
-    "title_zh": "大多数“停在外面”警告涉及内燃机车辆",
-    "url": "https://cleantechnica.com/2026/08/29/most-park-outside-warnings-involve-vehicles-with-internal-combustion-engines/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T18:08:44+00:00"
-  },
-  "c4447a30867f": {
-    "id": "c4447a30867f",
-    "title_en": "Europe EV Sales Report: BEVs Reach 26% Market Share!",
-    "title_zh": "欧洲电动汽车销售报告：纯电动汽车市场份额达到26%！",
-    "url": "https://cleantechnica.com/2026/08/29/europe-ev-sales-report-bevs-reach-26-market-share/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T17:57:49+00:00"
-  },
-  "375943c6b435": {
-    "id": "375943c6b435",
-    "title_en": "America’s Electricity Boom Is Outrunning Its Power Grid",
-    "title_zh": "美国的电力繁荣正在超越其电网",
-    "url": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-29T17:00:00+00:00"
-  },
-  "7a9bdc68c372": {
-    "id": "7a9bdc68c372",
-    "title_en": "666 – il marchio della Spiaggia Lucciola Elettrica con un ricarico del 13 percento",
-    "title_zh": "666年3月13日，美国电力公司",
-    "url": "https://electrek.co/2026/08/29/666-il-marchio-della-spiaggia-lucciola-elettrica-con-un-ricarico-del-13-percento/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-29T16:08:01+00:00"
-  },
-  "d9adb1cdc92d": {
-    "id": "d9adb1cdc92d",
-    "title_en": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil",
-    "title_zh": "美国关注18世纪扣押和出售伊朗石油的法律",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Eyes-18th-Century-Law-to-Seize-and-Sell-Iranian-Oil.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-29T16:00:00+00:00"
-  },
-  "406b14ca4814": {
-    "id": "406b14ca4814",
-    "title_en": "MediaEd Insights: Food as Ecomedia Literacy",
-    "title_zh": "MediaEd见解：食物即生态媒体素养",
-    "url": "https://cleantechnica.com/2026/08/29/mediaed-insights-food-as-ecomedia-literacy/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T15:48:38+00:00"
-  },
-  "39c86ddf3208": {
-    "id": "39c86ddf3208",
-    "title_en": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
-    "title_zh": "石油资源丰富的阿塞拜疆在清洁能源热潮上下了大赌注",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-29T15:00:00+00:00"
-  },
-  "7f7c5e1fab08": {
-    "id": "7f7c5e1fab08",
-    "title_en": "MacGregor says demand for its electric cranes is BOOMING in 2026",
-    "title_zh": "麦格雷戈表示，2026年电动起重机的需求将激增",
-    "url": "https://electrek.co/2026/08/29/macgregor-says-demand-for-its-electric-cranes-is-booming-in-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-29T14:10:09+00:00"
-  },
-  "3006593fcce1": {
-    "id": "3006593fcce1",
-    "title_en": "Robot delivery dog dumps hot steaming packages on your doorstep [video]",
-    "title_zh": "机器人送货犬将热气腾腾的包裹倾倒在你家门口[视频]",
-    "url": "https://electrek.co/2026/08/29/robot-delivery-dog-dumps-hot-steaming-packages-on-your-doorstep-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-29T13:19:10+00:00"
-  },
-  "3523e749423e": {
-    "id": "3523e749423e",
-    "title_en": "Illinois just made 40 mph e-bikes street legal – but there’s a huge catch",
-    "title_zh": "伊利诺伊州刚刚将时速40英里的电动自行车合法化，但有一个巨大的陷阱",
-    "url": "https://electrek.co/2026/08/29/illinois-just-made-40-mph-e-bikes-street-legal-but-theres-a-huge-catch/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-29T11:54:31+00:00"
-  },
-  "543fb65af97c": {
-    "id": "543fb65af97c",
-    "title_en": "US Army Aims To Capture Energy From “The Environment”",
-    "title_zh": "美国陆军旨在从“环境”中获取能源",
-    "url": "https://cleantechnica.com/2026/08/29/microgrid-us-army-energy-storage-solar/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T11:39:19+00:00"
-  },
-  "f035d58d5efc": {
-    "id": "f035d58d5efc",
-    "title_en": "Methane Thermolysis Has A Carbon Market Problem",
-    "title_zh": "甲烷热解存在碳市场问题",
-    "url": "https://cleantechnica.com/2026/08/29/methane-thermolysis-carbon-market-problem/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T06:36:18+00:00"
-  },
-  "2e7d0f57f30a": {
-    "id": "2e7d0f57f30a",
-    "title_en": "Vycarb Successfully Stores Low-Purity CO2 In Seawater",
-    "title_zh": "Vycarb成功将低纯度二氧化碳储存在海水中",
-    "url": "https://cleantechnica.com/2026/08/29/vycarb-successfully-stores-low-purity-co2-in-seawater/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T04:16:39+00:00"
-  },
-  "ef8027be48c2": {
-    "id": "ef8027be48c2",
-    "title_en": "Chile’s hybrid heroics",
-    "title_zh": "智利的混合英雄",
-    "url": "https://www.pv-magazine.com/2026/08/29/chiles-hybrid-heroics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-29T04:00:00+00:00"
-  },
-  "794e1eb15084": {
-    "id": "794e1eb15084",
-    "title_en": "Vycarb Successfully Stores Low-Purity CO2 In Seawater",
-    "title_zh": "Vycarb成功将低纯度二氧化碳储存在海水中",
-    "url": "https://cleantechnica.com/2026/08/28/vycarb-successfully-stores-low-purity-co2-in-seawater/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T03:57:39+00:00"
-  },
-  "3e46f7127265": {
-    "id": "3e46f7127265",
-    "title_en": "The Real Electric Aviation Revolution Is Being Strangled To Enrich Don Jr. & Other Trump Associates",
-    "title_zh": "真正的电动航空革命正被扼杀，以丰富小唐和其他特朗普同事",
-    "url": "https://cleantechnica.com/2026/08/28/the-real-electric-aviation-revolution-is-being-strangled-to-enrich-don-jr-other-trump-associates/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T01:56:45+00:00"
-  },
-  "9fe23c89a398": {
-    "id": "9fe23c89a398",
-    "title_en": "California Sues Trump Over Ridiculous Wind Power Cancellations",
-    "title_zh": "加州起诉特朗普取消风力发电计划",
-    "url": "https://cleantechnica.com/2026/08/28/california-sues-trump-over-ridiculous-wind-power-cancellations/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-29T01:03:28+00:00"
-  },
-  "dd0657f02a97": {
-    "id": "dd0657f02a97",
-    "title_en": "Multisensor Data Fusion Optimizes Traffic Flow & Intersection Safety, Delivering Cost & Time Savings",
-    "title_zh": "多传感器数据融合优化交通流量和交叉口安全，节省成本和时间",
-    "url": "https://cleantechnica.com/2026/08/28/multisensor-data-fusion-optimizes-traffic-flow-intersection-safety-delivering-cost-time-savings/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-28T23:44:24+00:00"
   }
 }
