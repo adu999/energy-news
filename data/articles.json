@@ -1,4 +1,49 @@
 {
+  "4559ce1247cb": {
+    "id": "4559ce1247cb",
+    "title_en": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year",
+    "title_zh": "这个养牛场每年将粪便转化为120万MMBtu的天然气",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Nebraska-Cattle-Feedlot-Turns-Manure-Into-12-Million-MMBtu-of-Natural-Gas-a-Yea.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-05T17:00:00+00:00"
+  },
+  "baf7191ec37d": {
+    "id": "baf7191ec37d",
+    "title_en": "10 Facts About The Tesla Cybercab",
+    "title_zh": "关于特斯拉Cybercab的10个事实",
+    "url": "https://cleantechnica.com/2026/09/05/10-facts-about-the-tesla-cybercab/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T16:18:19+00:00"
+  },
+  "8f22fa7d6ba5": {
+    "id": "8f22fa7d6ba5",
+    "title_en": "Answering random Redditor’s questions with professional backup: home solar edition",
+    "title_zh": "用专业备份回答随机Reddit用户的问题：家庭太阳能版",
+    "url": "https://electrek.co/2026/09/05/answering-random-redditors-questions-with-professional-backup-home-solar-edition/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-05T15:06:47+00:00"
+  },
+  "aba4f2f37374": {
+    "id": "aba4f2f37374",
+    "title_en": "Renewable Energy And Storage Solve Massive Grid Problem In US",
+    "title_zh": "可再生能源和储能解决美国大规模电网问题",
+    "url": "https://cleantechnica.com/2026/09/05/renewable-energy-virtual-power-plants-us-texas-octopus/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T15:04:15+00:00"
+  },
+  "825325b0c297": {
+    "id": "825325b0c297",
+    "title_en": "Green Bonds Hit Record High Despite Persistent Challenges",
+    "title_zh": "尽管面临持续挑战，绿色债券仍创下历史新高",
+    "url": "https://oilprice.com/Energy/Energy-General/Green-Bonds-Hit-Record-High-Despite-Persistent-Challenges.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-05T15:00:00+00:00"
+  },
   "04e911994b12": {
     "id": "04e911994b12",
     "title_en": "Detroit Hyundai dealer wants $400 to charge your car",
@@ -4453,50 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-31T14:23:34+00:00"
-  },
-  "8dfff501ba66": {
-    "id": "8dfff501ba66",
-    "title_en": "Global solar O&M market reaches 348 GW as consolidation accelerates",
-    "title_zh": "随着整合的加速，全球太阳能运维市场达到348吉瓦",
-    "url": "https://www.pv-magazine.com/2026/08/31/el-mercado-mundial-de-om-solar-alcanza-348-gw-y-acelera-su-concentracion/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T14:21:53+00:00"
-  },
-  "75ef4f263eea": {
-    "id": "75ef4f263eea",
-    "title_en": "California Legislature passes string of pro-solar bills",
-    "title_zh": "加利福尼亚州立法机构通过了一系列支持太阳能的法案",
-    "url": "https://www.solarpowerworldonline.com/2026/08/california-legislature-passes-string-of-pro-solar-bills/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T14:09:48+00:00"
-  },
-  "70445e63a68c": {
-    "id": "70445e63a68c",
-    "title_en": "Kia confirms PV7 debut and previews the larger electric van for the first time [Video]",
-    "title_zh": "起亚确认PV7首次亮相，并首次预览更大的电动货车[视频]",
-    "url": "https://electrek.co/2026/08/31/kia-confirms-pv7-debut-previews-larger-ev-van-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T14:05:29+00:00"
-  },
-  "83ce0c403c03": {
-    "id": "83ce0c403c03",
-    "title_en": "Trump cites ‘unusual and extraordinary threat’ in executive order banning inverter, BESS & transformer imports",
-    "title_zh": "特朗普在禁止进口逆变器、BESS和变压器的行政命令中引用了“非同寻常的威胁”",
-    "url": "https://www.energy-storage.news/trump-cites-unusual-and-extraordinary-threat-in-executive-order-banning-inverter-bess-transformer-imports/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-31T13:55:45+00:00"
-  },
-  "4bf81e1bf0c2": {
-    "id": "4bf81e1bf0c2",
-    "title_en": "U.S. startup exceeds 10% solar-to-hydrogen efficiency with 100 cm² module",
-    "title_zh": "美国初创公司使用100平方厘米的模块，太阳能到氢气的效率超过10%",
-    "url": "https://www.pv-magazine.com/2026/08/31/u-s-startup-exceeds-10-solar-to-hydrogen-efficiency-with-100-cm%c2%b2-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T13:54:18+00:00"
   }
 }
