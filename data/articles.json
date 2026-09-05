@@ -1,4 +1,22 @@
 {
+  "e285def2a2f4": {
+    "id": "e285def2a2f4",
+    "title_en": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+    "title_zh": "美国正大力投资新一代小型核反应堆",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-05T19:00:00+00:00"
+  },
+  "f2035d1ec4b0": {
+    "id": "f2035d1ec4b0",
+    "title_en": "Is Owning A Plug-in Hybrid Like Kissing Your Sister?",
+    "title_zh": "拥有插电式混合动力车就像亲吻你的妹妹吗？",
+    "url": "https://cleantechnica.com/2026/09/05/is-owning-a-plug-in-hybrid-like-kissing-your-sister/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T18:31:23+00:00"
+  },
   "4559ce1247cb": {
     "id": "4559ce1247cb",
     "title_en": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year",
@@ -564,6 +582,15 @@
     "url": "https://electrek.co/2026/09/04/tesla-cybercab-nhtsa-investigation-fmvss-certification/",
     "source": "Electrek",
     "category": "EV",
+    "pub_ts": "2026-09-04T12:46:21+00:00"
+  },
+  "5e9f4125d534": {
+    "id": "5e9f4125d534",
+    "title_en": "Supporters hopeful as DOE, EPA finalize Energy Star transition plan",
+    "title_zh": "支持者希望美国能源部和美国环保署最终确定能源之星过渡计划",
+    "url": "https://www.utilitydive.com/news/supporters-hopeful-as-doe-and-epa-finalize-energy-star-transition-plan/829701/",
+    "source": "Utility Dive",
+    "category": "电网",
     "pub_ts": "2026-09-04T12:46:21+00:00"
   },
   "c071e4d0f62a": {
@@ -4471,32 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-08-31T14:46:51+00:00"
-  },
-  "81e4dbe6cca0": {
-    "id": "81e4dbe6cca0",
-    "title_en": "California sues Trump administration over offshore wind ‘extortion racket’",
-    "title_zh": "加州起诉特朗普政府海上风电“敲诈勒索”",
-    "url": "https://www.utilitydive.com/news/california-sues-trump-admin-offshore-wind-extortion-racket/829176/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-31T14:38:56+00:00"
-  },
-  "6bce2bbbee15": {
-    "id": "6bce2bbbee15",
-    "title_en": "Austrian startup offers hybrid PV-wind system for off-grid applications",
-    "title_zh": "奥地利初创公司为离网应用提供混合光伏风力系统",
-    "url": "https://www.pv-magazine.com/2026/08/31/austrian-startup-offers-hybrid-pv-wind-system-for-off-grid-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T14:35:49+00:00"
-  },
-  "ef443fbd2fba": {
-    "id": "ef443fbd2fba",
-    "title_en": "I traded my electric motorcycle for a gasoline bike on vacation. It was pretty shocking",
-    "title_zh": "度假时，我用电动摩托车换了一辆汽油自行车。这太令人震惊了",
-    "url": "https://electrek.co/2026/08/31/i-traded-my-electric-motorcycle-for-a-gasoline-bike-on-vacation-it-was-pretty-shocking/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T14:23:34+00:00"
   }
 }
