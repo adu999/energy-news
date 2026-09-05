@@ -1,4 +1,31 @@
 {
+  "04e911994b12": {
+    "id": "04e911994b12",
+    "title_en": "Detroit Hyundai dealer wants $400 to charge your car",
+    "title_zh": "底特律现代汽车经销商想给你的车充电400美元",
+    "url": "https://electrek.co/2026/09/05/when-public-charging-stations-arent-so-public-and-why-it-matters/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-05T14:20:00+00:00"
+  },
+  "4933b3e879a6": {
+    "id": "4933b3e879a6",
+    "title_en": "E-quipment highlight: BLUETTI Pioneer 5000 E-Generator",
+    "title_zh": "电子设备亮点：BLUETTI Pioneer 5000电动发电机",
+    "url": "https://electrek.co/2026/09/05/e-quipment-highlight-bluetti-pioneer-5000-e-generator/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-05T14:02:14+00:00"
+  },
+  "f815f8152cb7": {
+    "id": "f815f8152cb7",
+    "title_en": "IFA Berlin Recap Part 1: Diverse Approaches To Sustainability",
+    "title_zh": "IFA柏林回顾第1部分：可持续发展的多样化方法",
+    "url": "https://cleantechnica.com/2026/09/05/ifa-berlin-recap-part-1-diverse-approaches-to-sustainability/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T11:08:03+00:00"
+  },
   "83b6e5a337aa": {
     "id": "83b6e5a337aa",
     "title_en": "Hydrogen Learning Curves Are Counting The Wrong Doublings",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-31T13:54:18+00:00"
-  },
-  "068078b861dc": {
-    "id": "068078b861dc",
-    "title_en": "As US grid reliability risks mount, distributed BESS offer localised solutions for resilient supply",
-    "title_zh": "随着美国电网可靠性风险的增加，分布式BESS为弹性供电提供了本地化的解决方案",
-    "url": "https://www.energy-storage.news/as-us-grid-reliability-risks-mount-distributed-bess-offer-localised-solutions-for-resilient-supply/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-31T13:46:38+00:00"
-  },
-  "66c9410f9167": {
-    "id": "66c9410f9167",
-    "title_en": "California Files Lawsuit Against Trump Administration, Golden State Wind Developer Over Cancelled Lease",
-    "title_zh": "加州起诉特朗普政府，金州风能开发商取消租约",
-    "url": "https://www.offshorewind.biz/2026/08/31/california-files-lawsuit-against-trump-administration-golden-state-wind-developer-over-cancelled-lease/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-31T13:23:45+00:00"
-  },
-  "8dcd2eddf62d": {
-    "id": "8dcd2eddf62d",
-    "title_en": "PJM drops Oklo advanced nuclear project from interconnection study cycle",
-    "title_zh": "PJM从互联研究周期中退出Oklo先进核项目",
-    "url": "https://www.utilitydive.com/news/pjm-oklo-advanced-nuclear-ferc-interconnection/829150/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-31T13:20:51+00:00"
   }
 }
