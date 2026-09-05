@@ -1,4 +1,76 @@
 {
+  "2ac13101ff4b": {
+    "id": "2ac13101ff4b",
+    "title_en": "Global Maritime Decarbonisation Stalls Despite the Accelerating Impact of Climate Change",
+    "title_zh": "尽管气候变化的影响日益加剧，全球海洋脱碳仍停滞不前",
+    "url": "https://cleantechnica.com/2026/09/04/global-maritime-decarbonisation-stalls-despite-the-accelerating-impact-of-climate-change/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T03:05:50+00:00"
+  },
+  "5e82b9856025": {
+    "id": "5e82b9856025",
+    "title_en": "EU CRM Centre: How to Secure Critical Minerals",
+    "title_zh": "欧盟CRM中心：如何保护关键矿产",
+    "url": "https://cleantechnica.com/2026/09/04/eu-crm-centre-how-to-secure-critical-minerals/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T02:58:20+00:00"
+  },
+  "38e40cd3acf7": {
+    "id": "38e40cd3acf7",
+    "title_en": "Glencore reaches new milestone at all-electric Sudbury copper mine",
+    "title_zh": "嘉能可在萨德伯里全电动铜矿达到新的里程碑",
+    "url": "https://electrek.co/2026/09/04/glencore-reaches-new-depth-milestone-at-its-all-electric-nickel-mine/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-05T02:20:12+00:00"
+  },
+  "369e249cd509": {
+    "id": "369e249cd509",
+    "title_en": "Donut Lab Reveals Amazing Performance Tests",
+    "title_zh": "甜甜圈实验室揭示了惊人的性能测试",
+    "url": "https://cleantechnica.com/2026/09/04/donut-lab-reveals-amazing-performance-tests/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T02:07:11+00:00"
+  },
+  "000be003c190": {
+    "id": "000be003c190",
+    "title_en": "University at Buffalo adds electric buses to Stampede Fleet",
+    "title_zh": "布法罗大学为Stampede车队增加了电动公交车",
+    "url": "https://electrek.co/2026/09/04/university-at-buffalo-adds-electric-buses-to-stampede-fleet/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-05T01:01:14+00:00"
+  },
+  "c90fbdd14761": {
+    "id": "c90fbdd14761",
+    "title_en": "Geely’s BEV Sales Grow 29% in August",
+    "title_zh": "吉利8月份纯电动汽车销量增长29%",
+    "url": "https://cleantechnica.com/2026/09/04/geelys-bev-sales-grow-29-in-august/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T00:11:16+00:00"
+  },
+  "16ef411c4432": {
+    "id": "16ef411c4432",
+    "title_en": "Hyundai Motor Group Partners with Oman to Drive Green Mobility Transition under Oman Vision 2040",
+    "title_zh": "现代汽车集团与阿曼合作，根据阿曼2040年愿景推动绿色出行转型",
+    "url": "https://cleantechnica.com/2026/09/04/hyundai-motor-group-partners-with-oman-to-drive-green-mobility-transition-under-oman-vision-2040/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T00:10:18+00:00"
+  },
+  "3c658fcfb734": {
+    "id": "3c658fcfb734",
+    "title_en": "Hyundai Motor & KOICA Launch “Hyundai-KOICA NextGen” to Train Ghana’s Future Automotive Talent",
+    "title_zh": "现代汽车和韩国国际协力团推出“现代韩国NextGen”，培训加纳未来的汽车人才",
+    "url": "https://cleantechnica.com/2026/09/04/hyundai-motor-koica-launch-hyundai-koica-nextgen-to-train-ghanas-future-automotive-talent/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-04T23:23:18+00:00"
+  },
   "b666b33015b5": {
     "id": "b666b33015b5",
     "title_en": "How The U.S. Fell Behind China On Nuclear Power",
@@ -4426,77 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-08-31T12:18:28+00:00"
-  },
-  "3d12c0b59edb": {
-    "id": "3d12c0b59edb",
-    "title_en": "California Senate passes industry-backed community solar bill",
-    "title_zh": "加州参议院通过行业支持的社区太阳能法案",
-    "url": "https://www.solarpowerworldonline.com/2026/08/california-senate-passes-industry-backed-community-solar-bill/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T11:47:57+00:00"
-  },
-  "968f80d90431": {
-    "id": "968f80d90431",
-    "title_en": "TenneT Names Contractor for Annual Dutch Offshore Cable Integrity Surveys",
-    "title_zh": "TenneT为荷兰年度海上电缆完整性调查指定承包商",
-    "url": "https://www.offshorewind.biz/2026/08/31/tennet-names-contractor-for-annual-dutch-offshore-cable-integrity-surveys/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-08-31T11:46:29+00:00"
-  },
-  "86587fcc6fc5": {
-    "id": "86587fcc6fc5",
-    "title_en": "ePointZero to buy 90% stake in Azura Power",
-    "title_zh": "ePointZero将收购Azura Power 90%的股份",
-    "url": "https://www.energymonitor.ai/news/epointzero-to-buy-90-stake-azura-power/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-08-31T11:45:09+00:00"
-  },
-  "e400b9f04a6c": {
-    "id": "e400b9f04a6c",
-    "title_en": "Climate action fairness a sore spot in German regional votes",
-    "title_zh": "气候行动公平性是德国地区投票的痛点",
-    "url": "https://www.cleanenergywire.org/news/climate-action-fairness-sore-spot-german-regional-votes",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-08-31T11:44:32+00:00"
-  },
-  "bcfa82e556ee": {
-    "id": "bcfa82e556ee",
-    "title_en": "Solar panel trends of tomorrow affect recycling today",
-    "title_zh": "明天的太阳能电池板趋势影响今天的回收",
-    "url": "https://www.solarpowerworldonline.com/2026/08/solar-panel-trends-of-tomorrow-affect-recycling-today/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T11:15:15+00:00"
-  },
-  "35fdf73bd77f": {
-    "id": "35fdf73bd77f",
-    "title_en": "CATL targets opportunities in Brazil’s capacity reserve auction, as regulator receives nearly 300GW of bids",
-    "title_zh": "CATL瞄准巴西产能储备拍卖的机会，因为监管机构收到了近300GW的投标",
-    "url": "https://www.energy-storage.news/catl-targets-opportunities-in-brazils-capacity-reserve-auction-as-regulator-receives-nearly-300gw-of-bids/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-08-31T11:07:10+00:00"
-  },
-  "9a69462f4175": {
-    "id": "9a69462f4175",
-    "title_en": "India adds 6.6 GW of rooftop solar in H1",
-    "title_zh": "印度上半年新增6.6吉瓦屋顶太阳能",
-    "url": "https://www.pv-magazine.com/2026/08/31/india-adds-6-6-gw-of-rooftop-solar-in-h1-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T11:01:46+00:00"
-  },
-  "c9b572bf5682": {
-    "id": "c9b572bf5682",
-    "title_en": "Iran Says Supertanker Hit by Mines in Strait of Hormuz",
-    "title_zh": "伊朗称超级油轮在霍尔木兹海峡被地雷击中",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Supertanker-Hit-by-Mines-in-Strait-of-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T11:00:00+00:00"
   }
 }
