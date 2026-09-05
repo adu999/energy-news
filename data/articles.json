@@ -1,4 +1,40 @@
 {
+  "83b6e5a337aa": {
+    "id": "83b6e5a337aa",
+    "title_en": "Hydrogen Learning Curves Are Counting The Wrong Doublings",
+    "title_zh": "氢学习曲线计算错误的翻倍",
+    "url": "https://cleantechnica.com/2026/09/05/electrolyzer-learning-rates-plant-scale/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T06:29:42+00:00"
+  },
+  "59a0c7e3acf8": {
+    "id": "59a0c7e3acf8",
+    "title_en": "Ireland’s leap of faith to power data centers",
+    "title_zh": "爱尔兰对数据中心供电的信心飞跃",
+    "url": "https://www.pv-magazine.com/2026/09/05/irelands-leap-of-faith-to-power-data-centers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-05T04:00:00+00:00"
+  },
+  "86b4556fe23e": {
+    "id": "86b4556fe23e",
+    "title_en": "Musk Congratulates Tesla Australia — August EV Sales Update",
+    "title_zh": "马斯克祝贺特斯拉澳大利亚-8月电动汽车销售更新",
+    "url": "https://cleantechnica.com/2026/09/04/musk-congratulates-tesla-australia-august-ev-sales-update/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T03:57:34+00:00"
+  },
+  "b6024b4e0639": {
+    "id": "b6024b4e0639",
+    "title_en": "Elevated Crack Spreads & Crude Oil Prices Contribute to Higher Prices at the Pump",
+    "title_zh": "裂缝扩大和原油价格导致加油站价格上涨",
+    "url": "https://cleantechnica.com/2026/09/04/elevated-crack-spreads-crude-oil-prices-contribute-to-higher-prices-at-the-pump/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-05T03:55:58+00:00"
+  },
   "2ac13101ff4b": {
     "id": "2ac13101ff4b",
     "title_en": "Global Maritime Decarbonisation Stalls Despite the Accelerating Impact of Climate Change",
@@ -4462,41 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-08-31T13:20:51+00:00"
-  },
-  "3b05512ef410": {
-    "id": "3b05512ef410",
-    "title_en": "Stakeholders square off over proposed DOE appliance program changes",
-    "title_zh": "利益相关者就拟议的DOE设备计划变更达成一致",
-    "url": "https://www.utilitydive.com/news/stakeholders-square-off-over-proposed-doe-appliance-program-changes/829155/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-08-31T13:18:03+00:00"
-  },
-  "db7ecdcf9ad4": {
-    "id": "db7ecdcf9ad4",
-    "title_en": "Pssst, Hey There Elon Musk! Twitter Is Coming Back",
-    "title_zh": "嘿，埃隆·马斯克！推特回来了",
-    "url": "https://cleantechnica.com/2026/08/31/elon-musk-twitter-x-operation-bluebird-trademark/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-08-31T13:02:57+00:00"
-  },
-  "ce5cf939d170": {
-    "id": "ce5cf939d170",
-    "title_en": "China's LNG Imports Set to Drop 18% in August as Prices Soar",
-    "title_zh": "随着价格飙升，中国8月份液化天然气进口量将下降18%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-LNG-Imports-Set-to-Drop-18-in-August-as-Prices-Soar.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T12:30:00+00:00"
-  },
-  "989599780ba7": {
-    "id": "989599780ba7",
-    "title_en": "Storing renewables with firebrick thermal batteries",
-    "title_zh": "用耐火砖热电池储存可再生能源",
-    "url": "https://www.pv-magazine.com/2026/08/31/storing-renewables-with-firebrick-thermal-batteries/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T12:18:28+00:00"
   }
 }
