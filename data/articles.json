@@ -1,4 +1,49 @@
 {
+  "80a049e76b11": {
+    "id": "80a049e76b11",
+    "title_en": "SANY delivered 200 electric haul trucks, 600 EV wheel loaders – LAST MONTH",
+    "title_zh": "三一重工上个月交付了200辆电动拖运卡车和600辆电动轮式装载机",
+    "url": "https://electrek.co/2026/09/06/sany-delivered-200-electric-haul-trucks-600-ev-wheel-loaders-last-month/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-06T22:07:12+00:00"
+  },
+  "7537a134ba23": {
+    "id": "7537a134ba23",
+    "title_en": "Most Critical Minerals Aren’t Going to the Energy Transition",
+    "title_zh": "大多数关键矿物不会用于能源转型",
+    "url": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-06T22:00:00+00:00"
+  },
+  "c60b9b282314": {
+    "id": "c60b9b282314",
+    "title_en": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
+    "title_zh": "石油巨头在劳资纠纷中寻求更大的议价能力",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Seek-Bigger-Bargaining-Power-in-Labor-Disputes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-06T21:00:00+00:00"
+  },
+  "89aaba87a620": {
+    "id": "89aaba87a620",
+    "title_en": "Survey Sunday: will Cybercab transform mobility, or be just another car?",
+    "title_zh": "周日调查：Cybercab会改变出行方式，还是只是另一辆车？",
+    "url": "https://electrek.co/2026/09/06/survey-sunday-will-cybercab-transform-mobility-or-be-just-another-car/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-06T20:46:40+00:00"
+  },
+  "1c15307adc29": {
+    "id": "1c15307adc29",
+    "title_en": "Tesla Cybercab Rollout Being Investigated",
+    "title_zh": "特斯拉推出Cybercab正在接受调查",
+    "url": "https://cleantechnica.com/2026/09/06/tesla-cybercab-rollout-being-investigated/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-06T20:44:59+00:00"
+  },
   "afec53638bd0": {
     "id": "afec53638bd0",
     "title_en": "High Fuel Prices Are Powering an Electric Motorcycle Boom",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-31T18:30:00+00:00"
-  },
-  "9d0729614615": {
-    "id": "9d0729614615",
-    "title_en": "Segway ZT3 Pro e-scooter $850, Anker SOLIX 2,010Wh power station $549 off, EGO Nexus 2x battery bundle rare discount, more",
-    "title_zh": "Segway ZT3 Pro电动滑板车850美元，Anker SOLIX 2010Wh发电站549美元折扣，EGO Nexus 2x电池包罕见折扣，更多",
-    "url": "https://electrek.co/2026/08/31/segway-zt3-pro-e-scooter-anker-solix-2010wh-power-station-ego-nexus-2x-battery-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T18:00:00+00:00"
-  },
-  "15bba1c427c1": {
-    "id": "15bba1c427c1",
-    "title_en": "Russian Oil Is No Longer India’s Easy Bargain",
-    "title_zh": "俄罗斯石油不再是印度的轻松交易",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Russian-Oil-Is-No-Longer-Indias-Easy-Bargain.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T18:00:00+00:00"
-  },
-  "04737aa8a442": {
-    "id": "04737aa8a442",
-    "title_en": "SLB Makes $3.4 Billion Bet on AI Data Center Boom",
-    "title_zh": "SLB在人工智能数据中心热潮上押注34亿美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/SLB-Makes-34-Billion-Bet-on-AI-Data-Center-Boom.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T17:30:00+00:00"
-  },
-  "beecb1fdac3d": {
-    "id": "beecb1fdac3d",
-    "title_en": "BYD’s new luxury electric SUV has a range of over 1,000 km and huge screens",
-    "title_zh": "比亚迪新款豪华电动SUV续航里程超过1000公里，屏幕巨大",
-    "url": "https://electrek.co/2026/08/31/byds-new-luxury-suv-has-1000-km-range-big-screens/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T17:17:49+00:00"
-  },
-  "67472ea76354": {
-    "id": "67472ea76354",
-    "title_en": "Conflict and Climate Are Driving Food Prices Higher",
-    "title_zh": "冲突和气候正在推高粮食价格",
-    "url": "https://oilprice.com/Energy/Energy-General/Conflict-and-Climate-Are-Driving-Food-Prices-Higher.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T17:00:00+00:00"
   }
 }
