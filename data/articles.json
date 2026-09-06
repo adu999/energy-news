@@ -1,4 +1,40 @@
 {
+  "afec53638bd0": {
+    "id": "afec53638bd0",
+    "title_en": "High Fuel Prices Are Powering an Electric Motorcycle Boom",
+    "title_zh": "高油价推动电动摩托车热潮",
+    "url": "https://oilprice.com/Energy/Energy-General/High-Fuel-Prices-Are-Powering-an-Electric-Motorcycle-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-06T19:00:00+00:00"
+  },
+  "f6ad3d4584be": {
+    "id": "f6ad3d4584be",
+    "title_en": "Zoox Begins Robotaxi Testing in Houston",
+    "title_zh": "Zoox开始在休斯顿进行机器人出租车测试",
+    "url": "https://cleantechnica.com/2026/09/06/zoox-begins-robotaxi-testing-in-houston/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-06T18:54:38+00:00"
+  },
+  "f919ca6c496c": {
+    "id": "f919ca6c496c",
+    "title_en": "US Lobby’s $1.1 Trillion Freight Rail Electrification Study Intentionally Asked The Wrong Question",
+    "title_zh": "美国游说团耗资1.1万亿美元的货运铁路电气化研究故意提出了错误的问题",
+    "url": "https://cleantechnica.com/2026/09/06/freight-rail-electrification-study-wrong-question/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-06T18:42:22+00:00"
+  },
+  "c8cc764cd02b": {
+    "id": "c8cc764cd02b",
+    "title_en": "Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment",
+    "title_zh": "哥伦比亚采取行动撤销水力压裂禁令，着眼于40亿美元的新石油投资",
+    "url": "https://oilprice.com/Energy/Energy-General/Colombia-Moves-to-Reverse-Fracking-Ban-Eyes-4-Billion-in-New-Oil-Investment.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-06T17:00:00+00:00"
+  },
   "ffe1fac075d0": {
     "id": "ffe1fac075d0",
     "title_en": "Oil-Rich Oman Bets Big on Renewable Energy",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-08-31T17:00:00+00:00"
-  },
-  "29bcbe5bf8db": {
-    "id": "29bcbe5bf8db",
-    "title_en": "Tesla FSD can soon avoid potholes, says Elon Musk who said exactly that in 2019",
-    "title_zh": "埃隆·马斯克在2019年曾说过，特斯拉FSD很快就能避开坑洼",
-    "url": "https://electrek.co/2026/08/31/tesla-fsd-can-soon-avoid-potholes-says-elon-musk-who-said-exactly-that-in-2019/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T16:53:40+00:00"
-  },
-  "120bc47b59d1": {
-    "id": "120bc47b59d1",
-    "title_en": "Europe Gas Prices Jump 5% to Highest Level Since 2023",
-    "title_zh": "欧洲天然气价格上涨5%，达到2023年以来的最高水平",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Jump-5-to-Highest-Level-Since-2023.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T16:30:00+00:00"
-  },
-  "28abd2464f3d": {
-    "id": "28abd2464f3d",
-    "title_en": "Toyota succumbs and now plans to build a new EV in China first",
-    "title_zh": "丰田屈服，现在计划首先在中国制造一辆新的电动汽车",
-    "url": "https://electrek.co/2026/08/31/toyota-succumbs-plans-to-build-new-ev-china-first/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T16:17:04+00:00"
-  },
-  "851bf752f68c": {
-    "id": "851bf752f68c",
-    "title_en": "Iran Weakened but Defiant After 6 Months of War",
-    "title_zh": "伊朗在6个月的战争后变得软弱但反抗",
-    "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Weakened-but-Defiant-After-6-Months-of-War.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T16:00:00+00:00"
   }
 }
