@@ -1,4 +1,13 @@
 {
+  "e96b77970c9a": {
+    "id": "e96b77970c9a",
+    "title_en": "Iran War Forces a Rewrite of Global Oil Trade Routes",
+    "title_zh": "伊朗战争迫使全球石油贸易路线重写",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-05T23:00:00+00:00"
+  },
   "7ea0c19d470a": {
     "id": "7ea0c19d470a",
     "title_en": "Japan, South Korea and the U.S. Forge a New Nuclear Alliance",
@@ -4489,14 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-31T15:23:31+00:00"
-  },
-  "52504f3b33f0": {
-    "id": "52504f3b33f0",
-    "title_en": "LG Energy Solution secures American supply of lithium carbonate",
-    "title_zh": "LG能源解决方案确保美国碳酸锂供应",
-    "url": "https://www.solarpowerworldonline.com/2026/08/lg-energy-solutions-secures-american-supply-of-lithium-carbonate/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-08-31T14:58:26+00:00"
   }
 }
