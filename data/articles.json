@@ -1,4 +1,40 @@
 {
+  "29cfd88fbf0e": {
+    "id": "29cfd88fbf0e",
+    "title_en": "BloombergNEF’s South Africa Transition Factbook: Power-Market Reform and Private Investments Drive Energy Transition",
+    "title_zh": "BloombergNEF南非转型概况：电力市场改革和私人投资推动能源转型",
+    "url": "https://about.bnef.com/insights/clean-energy/bloombergnefs-south-africa-transition-factbook-power-market-reform-and-private-investments-drive-energy-transition/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-09-07T03:01:54+00:00"
+  },
+  "877ca2c4338b": {
+    "id": "877ca2c4338b",
+    "title_en": "East And West Coasts Throw Electric Truck Shade At White House",
+    "title_zh": "东西海岸向白宫投掷电动卡车遮阳帘",
+    "url": "https://cleantechnica.com/2026/09/06/electric-trucks-clean-ports-us-epa-california-canada-mexico/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-07T01:56:44+00:00"
+  },
+  "8d8b11ecc02c": {
+    "id": "8d8b11ecc02c",
+    "title_en": "Another Chinese EV myth busted as GAC, Geely, and Leapmotor ace Euro NCAP",
+    "title_zh": "另一个中国电动汽车神话破灭，广汽、吉利和Leapmotor成为欧洲NCAP冠军",
+    "url": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-07T00:54:26+00:00"
+  },
+  "ceb4f2e7a8ea": {
+    "id": "ceb4f2e7a8ea",
+    "title_en": "Russia Is Redrawing Its Energy Map Through the Arctic",
+    "title_zh": "俄罗斯正在重新绘制其北极能源地图",
+    "url": "https://oilprice.com/Energy/Energy-General/Russia-Is-Redrawing-Its-Energy-Map-Through-the-Arctic.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-06T23:00:00+00:00"
+  },
   "80a049e76b11": {
     "id": "80a049e76b11",
     "title_en": "SANY delivered 200 electric haul trucks, 600 EV wheel loaders – LAST MONTH",
@@ -4462,41 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-08-31T19:30:42+00:00"
-  },
-  "91700cf26b59": {
-    "id": "91700cf26b59",
-    "title_en": "Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals",
-    "title_zh": "雪佛龙、印度石油天然气公司和通用电气Vernova即将达成委内瑞拉能源交易",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-ONGC-and-GE-Vernova-Near-Final-Venezuela-Energy-Deals.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T19:30:00+00:00"
-  },
-  "e53e13571f69": {
-    "id": "e53e13571f69",
-    "title_en": "Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders",
-    "title_zh": "特朗普与委内瑞拉的“历史性协议”并没有愚弄石油交易商",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Trumps-Historic-Deal-With-Venezuela-Isnt-Fooling-Oil-Traders.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T19:00:00+00:00"
-  },
-  "0d7247550920": {
-    "id": "0d7247550920",
-    "title_en": "Tesla driver who died when his car stopped on highway was using FSD/Autopilot",
-    "title_zh": "特斯拉司机在高速公路上停车时死亡，他正在使用FSD/Autopilot",
-    "url": "https://electrek.co/2026/08/31/tesla-driver-assist-model-3-stopped-i4-fatal/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-08-31T18:54:43+00:00"
-  },
-  "a5a9995152c0": {
-    "id": "a5a9995152c0",
-    "title_en": "BP Adds 80 MMcf/d to Egypt’s Gas Supply Two Years Ahead of Schedule",
-    "title_zh": "英国石油公司提前两年为埃及增加8000万立方英尺/天的天然气供应",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Adds-80-MMcfd-to-Egypts-Gas-Supply-Two-Years-Ahead-of-Schedule.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-08-31T18:30:00+00:00"
   }
 }
