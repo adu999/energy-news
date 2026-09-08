@@ -1,4 +1,67 @@
 {
+  "9979f31d9f33": {
+    "id": "9979f31d9f33",
+    "title_en": "XPeng starts IRON humanoid robot production as Tesla Optimus stalls",
+    "title_zh": "XPeng开始生产IRON人形机器人，特斯拉Optimus停滞不前",
+    "url": "https://electrek.co/2026/09/07/xpeng-iron-humanoid-robot-production-line/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-08T02:40:34+00:00"
+  },
+  "0cad403910ff": {
+    "id": "0cad403910ff",
+    "title_en": "Germany’s Power Grid Could Be NATO’s Weakest Link",
+    "title_zh": "德国电网可能是北约最薄弱的环节",
+    "url": "https://oilprice.com/Energy/Energy-General/Germanys-Power-Grid-Could-Be-NATOs-Weakest-Link.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-08T00:00:00+00:00"
+  },
+  "bb47de43d4a5": {
+    "id": "bb47de43d4a5",
+    "title_en": "New York’s Nuclear Comeback Is Gathering Steam",
+    "title_zh": "纽约的核复苏正在积聚动力",
+    "url": "https://oilprice.com/Energy/Energy-General/New-Yorks-Nuclear-Comeback-Is-Gathering-Steam.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-07T23:00:00+00:00"
+  },
+  "bef0e9244fae": {
+    "id": "bef0e9244fae",
+    "title_en": "Can U.S. High-Voltage Grid Equipment Supply Keep Pace With 765-kV Expansion and Data Center Demand?",
+    "title_zh": "美国高压电网设备供应能否跟上765 kV扩建和数据中心需求？",
+    "url": "https://www.powermag.com/can-u-s-high-voltage-grid-equipment-supply-keep-pace-with-765-kv-expansion-and-data-center-demand/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-09-07T22:53:07+00:00"
+  },
+  "dbb9942340ee": {
+    "id": "dbb9942340ee",
+    "title_en": "XPENG Brings Physical AI To IFA Berlin",
+    "title_zh": "XPENG为柏林IFA带来物理人工智能",
+    "url": "https://cleantechnica.com/2026/09/07/xpeng-brings-physical-ai-to-ifa-berlin/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-07T22:07:45+00:00"
+  },
+  "c2c39e6c54b3": {
+    "id": "c2c39e6c54b3",
+    "title_en": "China’s clean energy surge is starting to squeeze out coal",
+    "title_zh": "中国清洁能源的激增开始挤压煤炭",
+    "url": "https://electrek.co/2026/09/07/chinas-clean-energy-surge-is-starting-to-squeeze-out-coal/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-07T22:00:00+00:00"
+  },
+  "112bc097b52a": {
+    "id": "112bc097b52a",
+    "title_en": "Washington’s Venezuela Oil Deal Is About Much More Than Crude",
+    "title_zh": "华盛顿与委内瑞拉的石油协议涉及的远不止原油",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Washingtons-Venezuela-Oil-Deal-Is-About-Much-More-Than-Crude.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-07T22:00:00+00:00"
+  },
   "e106ca823b5d": {
     "id": "e106ca823b5d",
     "title_en": "Rosneft Ships First Crude From $157 Billion Vostok Oil Project",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-01T13:48:13+00:00"
-  },
-  "0d51eee437b9": {
-    "id": "0d51eee437b9",
-    "title_en": "World’s largest solar-storage microgrid goes online in Saudi Arabia",
-    "title_zh": "世界上最大的太阳能储能微电网在沙特阿拉伯上线",
-    "url": "https://www.pv-magazine.com/2026/09/01/worlds-largest-solar-storage-microgrid-goes-online-in-saudi-arabia/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-01T13:39:43+00:00"
-  },
-  "07b2780b2b0b": {
-    "id": "07b2780b2b0b",
-    "title_en": "Solar Power Leaps Key Cost Barrier As Coal And Gas Sidelined (Shocker!)",
-    "title_zh": "随着煤炭和天然气被搁置，太阳能突破了关键的成本壁垒（令人震惊！）",
-    "url": "https://cleantechnica.com/2026/09/01/solar-power-cost-distributed-aligned-climate-capital-fund-us/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-01T13:39:30+00:00"
-  },
-  "4f0a42e4b4c9": {
-    "id": "4f0a42e4b4c9",
-    "title_en": "Russia Doubles Dark Fleet to Ship LNG to Asia",
-    "title_zh": "俄罗斯加倍黑暗舰队向亚洲运送液化天然气",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Doubles-Dark-Fleet-to-Ship-LNG-to-Asia.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-01T13:30:00+00:00"
-  },
-  "d5008b5059c6": {
-    "id": "d5008b5059c6",
-    "title_en": "Waaree to upgrade former Meyer Burger solar panel plant in Arizona",
-    "title_zh": "Waaree将升级亚利桑那州的前Meyer Burger太阳能电池板工厂",
-    "url": "https://www.solarpowerworldonline.com/2026/09/waaree-to-upgrade-former-meyer-burger-solar-panel-plant-in-arizona/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-01T13:10:01+00:00"
-  },
-  "1bece41b9051": {
-    "id": "1bece41b9051",
-    "title_en": "Clivet launches VRF air-to-air heat pumps with inverter-free PV integration",
-    "title_zh": "Clivet推出无逆变器光伏集成VRF空气-空气热泵",
-    "url": "https://www.pv-magazine.com/2026/09/01/clivet-launches-vrf-air-to-air-heat-pumps-with-inverter-free-pv-integration/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-01T13:04:48+00:00"
-  },
-  "ff95ae2829c7": {
-    "id": "ff95ae2829c7",
-    "title_en": "EWE Seeks Helicopter Transport Services for Riffgat Offshore Wind Farm",
-    "title_zh": "EWE为Riffgat海上风电场寻求直升机运输服务",
-    "url": "https://www.offshorewind.biz/2026/09/01/ewe-seeks-helicopter-transport-services-for-riffgat-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-01T13:00:00+00:00"
-  },
-  "77dc4225f690": {
-    "id": "77dc4225f690",
-    "title_en": "Tracking the fatal Tesla Autopilot and FSD crashes hidden in its data",
-    "title_zh": "追踪隐藏在其数据中的致命特斯拉自动驾驶仪和FSD事故",
-    "url": "https://electrek.co/2026/09/01/tesla-autopilot-fsd-crashes-hidden-data/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-01T12:40:56+00:00"
   }
 }
