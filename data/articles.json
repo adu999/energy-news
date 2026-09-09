@@ -1,4 +1,49 @@
 {
+  "9430c5a450f4": {
+    "id": "9430c5a450f4",
+    "title_en": "ARRAY Technologies opens its largest factory in New Mexico",
+    "title_zh": "ARRAY Technologies在新墨西哥州开设了其最大的工厂",
+    "url": "https://www.solarpowerworldonline.com/2026/09/array-technologies-opens-its-largest-factory-in-new-mexico/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-09-09T22:00:51+00:00"
+  },
+  "ff65fb42215e": {
+    "id": "ff65fb42215e",
+    "title_en": "The Commodity Bull Market Just Entered a Dangerous New Phase",
+    "title_zh": "大宗商品牛市刚刚进入危险的新阶段",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Commodity-Bull-Market-Just-Entered-a-Dangerous-New-Phase.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-09T22:00:00+00:00"
+  },
+  "b04df94bbda1": {
+    "id": "b04df94bbda1",
+    "title_en": "Toyota is recalling 10,000 electric C-HR SUVs",
+    "title_zh": "丰田召回10000辆C-HR电动SUV",
+    "url": "https://electrek.co/2026/09/09/toyota-recalling-10000-electric-c-hr-suvs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-09T21:06:35+00:00"
+  },
+  "e73364bf8058": {
+    "id": "e73364bf8058",
+    "title_en": "U.S. Crude Stocks Edge Lower as Oil Tops $100",
+    "title_zh": "美国原油库存小幅下跌，油价突破100美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Stocks-Edge-Lower-as-Oil-Tops-100.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-09T21:02:17+00:00"
+  },
+  "6a176b1462d6": {
+    "id": "6a176b1462d6",
+    "title_en": "Negative Power Prices Are Piling Up Across Europe",
+    "title_zh": "负电价正在欧洲各地堆积",
+    "url": "https://oilprice.com/Energy/Energy-General/Negative-Power-Prices-Are-Piling-Up-Across-Europe.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-09T21:00:00+00:00"
+  },
   "7b9a5707703c": {
     "id": "7b9a5707703c",
     "title_en": "The Genesis GV90 transforms into a private luxury theater with a pop-up 24.6″ display",
@@ -4453,50 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-09-03T10:11:20+00:00"
-  },
-  "6ba0fd0d5a2e": {
-    "id": "6ba0fd0d5a2e",
-    "title_en": "This new anti-theft device can keep your e-bike protected for up to a year straight",
-    "title_zh": "这种新的防盗装置可以连续一年保护您的电动自行车",
-    "url": "https://electrek.co/2026/09/03/this-new-anti-theft-device-can-keep-your-e-bike-protected-for-up-to-a-year-straight/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-03T09:48:50+00:00"
-  },
-  "451fd8c9f69f": {
-    "id": "451fd8c9f69f",
-    "title_en": "Europe’s Low Gas Stocks Set Stage for Winter LNG Battle",
-    "title_zh": "欧洲的低天然气库存为冬季液化天然气之战奠定了基础",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Low-Gas-Stocks-Set-Stage-for-Winter-LNG-Battle.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-03T09:45:00+00:00"
-  },
-  "33e2ae69bc3d": {
-    "id": "33e2ae69bc3d",
-    "title_en": "Ford wants to sell 100,000 Fathoms in the $30k EV truck’s first year",
-    "title_zh": "福特希望在3万美元电动卡车的第一年销售10万辆Fathoms",
-    "url": "https://electrek.co/2026/09/03/ford-wants-to-sell-100000-fathoms-in-the-30k-ev-trucks-first-year/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-03T09:30:04+00:00"
-  },
-  "cff6c0dc7a14": {
-    "id": "cff6c0dc7a14",
-    "title_en": "European wind industry veteran joins Mingyang",
-    "title_zh": "欧洲风电行业资深人士加盟明阳",
-    "url": "https://www.windpowermonthly.com/article/1969028/european-wind-industry-veteran-joins-mingyang",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-03T09:27:40+00:00"
-  },
-  "0faac4e022c3": {
-    "id": "0faac4e022c3",
-    "title_en": "Skyven Technologies’ industrial heat pump achieves COP of 8.0",
-    "title_zh": "Skyven Technologies的工业热泵实现了8.0的COP",
-    "url": "https://www.pv-magazine.com/2026/09/03/skyven-technologies-industrial-heat-pump-achieves-cop-of-8-0/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T09:26:05+00:00"
   }
 }
