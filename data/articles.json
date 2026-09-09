@@ -1,4 +1,67 @@
 {
+  "8f29d589aba5": {
+    "id": "8f29d589aba5",
+    "title_en": "Court Rules TVA’s Decision to Build Kingston Gas Plant Broke the Law",
+    "title_zh": "法院裁定TVA建造金斯顿天然气厂的决定违法",
+    "url": "https://cleantechnica.com/2026/09/08/court-rules-tvas-decision-to-build-kingston-gas-plant-broke-the-law/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-09T02:09:51+00:00"
+  },
+  "ffd173bc3a9b": {
+    "id": "ffd173bc3a9b",
+    "title_en": "Greater Transport Electrification Could Cut Europe’s Import Dependency By Nearly A Quarter By 2040",
+    "title_zh": "到2040年，更大的交通电气化可能会使欧洲的进口依赖减少近四分之一",
+    "url": "https://cleantechnica.com/2026/09/08/greater-transport-electrification-could-cut-europes-import-dependency-by-nearly-a-quarter-by-2040/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-09T02:02:22+00:00"
+  },
+  "9a23ef6d9a77": {
+    "id": "9a23ef6d9a77",
+    "title_en": "Hyundai Motor Wins Three Honors at 2026 What Car? Electric Car Awards",
+    "title_zh": "现代汽车在2026年赢得三项荣誉什么车？电动汽车奖",
+    "url": "https://cleantechnica.com/2026/09/08/hyundai-motor-wins-three-honors-at-2026-what-car-electric-car-awards/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-09T01:33:52+00:00"
+  },
+  "7b068ef8ac02": {
+    "id": "7b068ef8ac02",
+    "title_en": "Hyundai Fights Childhood Cancer — But How Much Does It Really?",
+    "title_zh": "现代汽车对抗儿童癌症-但它真的有多大？",
+    "url": "https://cleantechnica.com/2026/09/08/hyundai-fights-childhood-cancer-but-how-much-does-it-really/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-09T00:43:07+00:00"
+  },
+  "a87ab0d6c7e4": {
+    "id": "a87ab0d6c7e4",
+    "title_en": "Hyundai Tries To Win Over More Europeans By Sponsoring UEFA Champions League",
+    "title_zh": "现代试图通过赞助欧洲冠军联赛来赢得更多的欧洲人",
+    "url": "https://cleantechnica.com/2026/09/08/hyundai-tries-to-win-over-more-europeans-by-sponsoring-uefa-champions-league/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-09T00:28:19+00:00"
+  },
+  "927ace830f84": {
+    "id": "927ace830f84",
+    "title_en": "Iran’s Oil Exports Collapse as Hormuz Standoff Drags On",
+    "title_zh": "霍尔木兹对峙持续，伊朗石油出口崩溃",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Irans-Oil-Exports-Collapse-as-Hormuz-Standoff-Drags-On.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-09T00:00:00+00:00"
+  },
+  "80a2614bac29": {
+    "id": "80a2614bac29",
+    "title_en": "Australia Promotes “Digital Duty Of Care” Legislation",
+    "title_zh": "澳大利亚推动“数字谨慎义务”立法",
+    "url": "https://cleantechnica.com/2026/09/08/australia-promotes-digital-duty-of-care-legislation/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-08T23:38:36+00:00"
+  },
   "ae0726f0cc77": {
     "id": "ae0726f0cc77",
     "title_en": "Hedge Funds Pile Into Fuels as U.S. Supply Squeeze Deepens",
@@ -4435,68 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-09-02T13:29:09+00:00"
-  },
-  "b40caa7d16c1": {
-    "id": "b40caa7d16c1",
-    "title_en": "347-MW solar project breaks ground near Houston",
-    "title_zh": "347兆瓦太阳能项目在休斯顿附近破土动工",
-    "url": "https://www.solarpowerworldonline.com/2026/09/347-mw-solar-project-breaks-ground-near-houston/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-02T13:05:55+00:00"
-  },
-  "c870fc1731a5": {
-    "id": "c870fc1731a5",
-    "title_en": "Sungrow’s battery storage revenue tops PV business, H1 shipments hit 25GWh",
-    "title_zh": "阳光电池储能收入位居光伏业务榜首，上半年出货量达到25GWh",
-    "url": "https://www.energy-storage.news/sungrows-battery-storage-revenue-tops-pv-business-h1-shipments-hit-25gwh/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-02T13:02:40+00:00"
-  },
-  "f7789cee29c4": {
-    "id": "f7789cee29c4",
-    "title_en": "Tesla’s new Model Y L is having suspension problems in China",
-    "title_zh": "特斯拉新款Model Y L在中国出现悬架问题",
-    "url": "https://electrek.co/2026/09/02/teslas-new-model-y-l-is-having-big-suspension-problems-in-china/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-02T13:00:00+00:00"
-  },
-  "a7d527f21841": {
-    "id": "a7d527f21841",
-    "title_en": "Donut Lab hits 409 Wh/kg in battery lab test, but credibility is gone",
-    "title_zh": "Donut Lab在电池实验室测试中达到409 Wh/kg，但可信度已不复存在",
-    "url": "https://electrek.co/2026/09/02/donut-lab-409-whkg-battery-test-no-production-ev/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-02T12:46:08+00:00"
-  },
-  "be88273562a4": {
-    "id": "be88273562a4",
-    "title_en": "What happens to a ready-to-build solar project if a wildfire hits the site?",
-    "title_zh": "如果野火袭击现场，一个现成的太阳能项目会发生什么？",
-    "url": "https://www.pv-magazine.com/2026/09/02/que-ocurre-con-un-proyecto-fotovoltaico-rtb-si-un-incendio-forestal-afecta-a-los-terrenos/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-02T12:34:00+00:00"
-  },
-  "db22e76b9b66": {
-    "id": "db22e76b9b66",
-    "title_en": "Kazakhstan to Double Oil Refining Capacity by 2040",
-    "title_zh": "哈萨克斯坦计划到2040年将炼油能力提高一倍",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-to-Double-Oil-Refining-Capacity-by-2040.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-02T12:30:00+00:00"
-  },
-  "6f7f0704e3a7": {
-    "id": "6f7f0704e3a7",
-    "title_en": "ONE Nuclear Energy executes LOI for 2.88GWh BESS and gas plant co-located with Louisiana data centre",
-    "title_zh": "ONE核能为2.88GWh BESS和与路易斯安那州数据中心合用的天然气厂执行意向书",
-    "url": "https://www.energy-storage.news/one-nuclear-energy-executes-loi-for-2-88gwh-bess-and-gas-plant-co-located-with-louisiana-data-centre/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-02T12:16:19+00:00"
   }
 }
