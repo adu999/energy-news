@@ -1,4 +1,265 @@
 {
+  "6e970d44b54f": {
+    "id": "6e970d44b54f",
+    "title_en": "UK aviation emissions to be 50% higher than thought by 2050, government admits",
+    "title_zh": "英国政府承认，到2050年，英国航空排放量将比预期高出50%",
+    "url": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-09-10T10:42:50+00:00"
+  },
+  "5d6f241d4a43": {
+    "id": "5d6f241d4a43",
+    "title_en": "Nordic ROUNDUP: Flower, Volvo and Delta Capacity launch BESS projects",
+    "title_zh": "北欧ROUNDUP：Flower、沃尔沃和Delta Capacity推出BESS项目",
+    "url": "https://www.energy-storage.news/nordic-roundup-flower-volvo-and-delta-capacity-launch-bess-projects/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-10T10:32:08+00:00"
+  },
+  "7281b7977f27": {
+    "id": "7281b7977f27",
+    "title_en": "Enerparc’s sister company Pvwerk announces self-administered reconstruction",
+    "title_zh": "Enerparc的姊妹公司Pvwerk宣布自行重建",
+    "url": "https://www.pv-tech.org/enerparcs-sister-company-pvwerk-announces-self-administered-reconstruction/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T10:30:14+00:00"
+  },
+  "6027a7478b01": {
+    "id": "6027a7478b01",
+    "title_en": "Oil Tanker Rates Hit Record Highs as Middle East Shipping Risks Soar",
+    "title_zh": "中东航运风险飙升，油轮运价创历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tanker-Rates-Hit-Record-Highs-as-Middle-East-Shipping-Risks-Soar.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-10T10:30:00+00:00"
+  },
+  "c1cf6ff6f3f6": {
+    "id": "c1cf6ff6f3f6",
+    "title_en": "Merchant BESS switched on at operational solar site in Romania",
+    "title_zh": "罗马尼亚运营中的太阳能发电厂启动了Merchant BESS",
+    "url": "https://www.pv-magazine.com/2026/09/10/merchant-bess-switched-on-at-operational-solar-site-in-romania/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T10:09:34+00:00"
+  },
+  "1aa2399160ac": {
+    "id": "1aa2399160ac",
+    "title_en": "Suriname tenders solar-storage minigrids",
+    "title_zh": "苏里南招标太阳能储能微型电网",
+    "url": "https://www.pv-magazine.com/2026/09/10/suriname-tenders-solar-storage-minigrids/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T09:56:09+00:00"
+  },
+  "ad162e22be3b": {
+    "id": "ad162e22be3b",
+    "title_en": "Two-step process turns end-of-life PV backsheets into supercapacitor electrodes",
+    "title_zh": "两步法将报废的光伏背板变成超级电容器电极",
+    "url": "https://www.pv-magazine.com/2026/09/10/two-step-process-turns-end-of-life-pv-backsheets-into-supercapacitor-electrodes/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T09:48:27+00:00"
+  },
+  "0a54490639b0": {
+    "id": "0a54490639b0",
+    "title_en": "India Calls for Bigger Biofuel Push as Oil Prices Soar",
+    "title_zh": "随着油价飙升，印度呼吁加大生物燃料的推动力度",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Calls-for-Bigger-Biofuel-Push-as-Oil-Prices-Soar.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-10T09:30:00+00:00"
+  },
+  "7d38bbeeeb40": {
+    "id": "7d38bbeeeb40",
+    "title_en": "Longi, Soochow University unveil 34.0% perovskite-silicon tandem solar cell based on dual-anchored interfacial design",
+    "title_zh": "东吴大学龙基推出基于双锚界面设计的34.0%钙钛矿硅叠层太阳能电池",
+    "url": "https://www.pv-magazine.com/2026/09/10/longi-soochow-university-unveil-34-0-perovskite-silicon-tandem-solar-cell-based-on-dual-anchored-interfacial-design/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T09:27:23+00:00"
+  },
+  "0e5451d17d71": {
+    "id": "0e5451d17d71",
+    "title_en": "Ore Energy’s iron-air technology: LDES applications, trade-offs, deployments and next-gen cells",
+    "title_zh": "Ore Energy的铁空气技术：LDES应用、权衡、部署和下一代电池",
+    "url": "https://www.energy-storage.news/ore-energys-iron-air-technology-ldes-applications-trade-offs-deployments-and-next-gen-cells/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-10T09:17:46+00:00"
+  },
+  "7c6e6d3c3ba1": {
+    "id": "7c6e6d3c3ba1",
+    "title_en": "Global Clean Investment Falls 17% as China Pullback Takes Its Toll",
+    "title_zh": "全球清洁投资下降17%，因中国退出造成损失",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Clean-Investment-Falls-17-as-China-Pullback-Takes-Its-Toll.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-10T08:15:00+00:00"
+  },
+  "6a755242bb6b": {
+    "id": "6a755242bb6b",
+    "title_en": "South Korea sets up committee to rebuild domestic solar manufacturing",
+    "title_zh": "韩国成立委员会重建国内太阳能制造业",
+    "url": "https://www.pv-magazine.com/2026/09/10/south-korea-launches-committee-to-rebuild-domestic-solar-manufacturing/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T08:01:00+00:00"
+  },
+  "c2d7b46018c9": {
+    "id": "c2d7b46018c9",
+    "title_en": "India’s largest utility NTPC and Global Energy Alliance for People and Planet pilot sodium-ion battery storage",
+    "title_zh": "印度最大的公用事业公司NTPC和全球人类与地球能源联盟试点钠离子电池储能",
+    "url": "https://www.energy-storage.news/indias-largest-utility-ntpc-and-global-energy-alliance-for-people-and-planet-pilot-sodium-ion-battery-storage/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-10T07:37:15+00:00"
+  },
+  "05660800f30b": {
+    "id": "05660800f30b",
+    "title_en": "Coal-to-solar project lands a rare clean-energy win in Ohio",
+    "title_zh": "煤制太阳能项目在俄亥俄州取得了罕见的清洁能源胜利",
+    "url": "https://www.canarymedia.com/articles/solar/coal-to-solar-project-win-ohio",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-10T07:30:00+00:00"
+  },
+  "df39052d0e0e": {
+    "id": "df39052d0e0e",
+    "title_en": "Trump emergency order casts uncertainty over grid battery growth",
+    "title_zh": "特朗普的紧急命令给电网电池增长带来了不确定性",
+    "url": "https://www.canarymedia.com/articles/batteries/trump-emergency-order-grid-battery-growth",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-10T07:30:00+00:00"
+  },
+  "4c8d7ce4d9cf": {
+    "id": "4c8d7ce4d9cf",
+    "title_en": "Dig Energy completes first project with novel geothermal drilling tech",
+    "title_zh": "Dig Energy完成首个采用新型地热钻井技术的项目",
+    "url": "https://www.canarymedia.com/articles/geothermal/dig-energy-novel-geothermal-drilling-tech",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-10T07:30:00+00:00"
+  },
+  "d02be62d4d90": {
+    "id": "d02be62d4d90",
+    "title_en": "WattPower introduces 506 kW grid-forming inverter for utility-scale solar",
+    "title_zh": "WattPower推出506 kW并网逆变器，用于公用事业规模的太阳能",
+    "url": "https://www.pv-magazine.com/2026/09/10/wattpower-introduces-506-kw-grid-forming-inverter-for-utility-scale-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T07:29:51+00:00"
+  },
+  "a21f35cba1bc": {
+    "id": "a21f35cba1bc",
+    "title_en": "Thailand paves the way for 10 GW of rooftop solar",
+    "title_zh": "泰国为10吉瓦屋顶太阳能铺平道路",
+    "url": "https://www.pv-magazine.com/2026/09/10/thailand-paves-the-way-for-10-gw-of-rooftop-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T07:11:31+00:00"
+  },
+  "a4334844136b": {
+    "id": "a4334844136b",
+    "title_en": "Australia Softens Gas Reservation Rule for LNG Exporters",
+    "title_zh": "澳大利亚放宽液化天然气出口商的天然气储备规定",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Softens-Gas-Reservation-Rule-for-LNG-Exporters.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-10T07:00:00+00:00"
+  },
+  "d532cdbfc189": {
+    "id": "d532cdbfc189",
+    "title_en": "Enerparc’s sister company Pvwerk files for restructuring under self-administration",
+    "title_zh": "Enerparc的姊妹公司Pvwerk在自我管理下申请重组",
+    "url": "https://www.pv-magazine.com/2026/09/10/enerparcs-sister-company-pvwerk-files-for-restructuring-under-self-administration/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T06:26:43+00:00"
+  },
+  "b4142770ddd8": {
+    "id": "b4142770ddd8",
+    "title_en": "Colombia’s new government puts $1.35 billion solar program for low-income households under review",
+    "title_zh": "哥伦比亚新政府正在审查13.5亿美元的低收入家庭太阳能项目",
+    "url": "https://www.pv-magazine.com/2026/09/10/colombias-new-government-puts-1-35-billion-solar-program-for-low-income-households-under-review/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T06:02:49+00:00"
+  },
+  "3415119763dd": {
+    "id": "3415119763dd",
+    "title_en": "Solar and wind curtailment on the rise in Chile",
+    "title_zh": "智利太阳能和风能弃风量呈上升趋势",
+    "url": "https://www.pv-magazine.com/2026/09/10/solar-and-wind-curtailment-on-the-rise-in-chile/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T05:49:39+00:00"
+  },
+  "2923251d64b5": {
+    "id": "2923251d64b5",
+    "title_en": "Oil Holds Above $100 as U.S.-Iran Tanker War Escalates",
+    "title_zh": "随着美伊油轮战争升级，油价保持在100美元以上",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Holds-Above-100-as-US-Iran-Tanker-War-Escalates.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-10T05:35:00+00:00"
+  },
+  "0b755beda7ca": {
+    "id": "0b755beda7ca",
+    "title_en": "US solar can now power 50M homes – and red states led the boom",
+    "title_zh": "美国太阳能现在可以为5000万户家庭供电，红色州引领了这一繁荣",
+    "url": "https://electrek.co/2026/09/09/483577/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-10T04:01:00+00:00"
+  },
+  "3fd8893d9c3f": {
+    "id": "3fd8893d9c3f",
+    "title_en": "Almost Dead Silence on Electric Vehicles from Automakers in USA",
+    "title_zh": "美国汽车制造商对电动汽车几乎完全沉默",
+    "url": "https://cleantechnica.com/2026/09/09/almost-dead-silence-on-electric-vehicles-from-automakers-in-usa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-10T03:54:26+00:00"
+  },
+  "5c5144ba5f12": {
+    "id": "5c5144ba5f12",
+    "title_en": "Australia: Akaysha Energy’s Waratah Super Battery tests full SIPS obligation as 850MW output recorded",
+    "title_zh": "澳大利亚：Akaysha Energy的Waratah超级电池测试了完整的SIPS义务，记录了850MW的输出",
+    "url": "https://www.energy-storage.news/australia-akaysha-energys-waratah-super-battery-tests-full-sips-obligation-as-850mw-output-recorded/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-10T03:44:26+00:00"
+  },
+  "1a04938fb6f5": {
+    "id": "1a04938fb6f5",
+    "title_en": "ICC Sydney in Australia to host ‘largest CBD solar array in the Southern Hemisphere’",
+    "title_zh": "澳大利亚悉尼ICC将举办“南半球最大的CBD太阳能电池阵列”",
+    "url": "https://www.pv-tech.org/icc-sydney-in-australia-to-host-largest-cbd-solar-array-in-the-southern-hemisphere/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-10T03:41:45+00:00"
+  },
+  "031c1adbb1e1": {
+    "id": "031c1adbb1e1",
+    "title_en": "Ready-to-build projects become ‘laughing stock’ as venture-capital-style returns disappear in Australia",
+    "title_zh": "随着风险投资式的回报在澳大利亚消失，准备建设的项目成为“笑柄”",
+    "url": "https://www.energy-storage.news/ready-to-build-projects-become-laughing-stock-as-venture-capital-style-returns-disappear-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-10T03:37:43+00:00"
+  },
+  "086d32f817d2": {
+    "id": "086d32f817d2",
+    "title_en": "Research Suggests Auto Loans Should Account for Vehicle Efficiency",
+    "title_zh": "研究表明，汽车贷款应考虑车辆效率",
+    "url": "https://cleantechnica.com/2026/09/09/research-suggests-auto-loans-should-account-for-vehicle-efficiency/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-10T03:36:28+00:00"
+  },
   "df9818a87615": {
     "id": "df9818a87615",
     "title_en": "Activists from Across Indiana Demand State Leadership Reject Bailouts for Expensive Coal",
@@ -727,6 +988,15 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-09-09T07:30:00+00:00"
+  },
+  "41a9f3d3b357": {
+    "id": "41a9f3d3b357",
+    "title_en": "Suniva raises $835m to build new solar cell plant in South Carolina, US",
+    "title_zh": "Suniva筹集8.35亿美元在美国南卡罗来纳州建造新的太阳能电池厂",
+    "url": "https://www.energymonitor.ai/news/suniva-raises-835m-build-plant/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-09T07:27:02+00:00"
   },
   "b8b993722342": {
     "id": "b8b993722342",
@@ -4228,275 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-03T14:16:21+00:00"
-  },
-  "b5bda192609d": {
-    "id": "b5bda192609d",
-    "title_en": "Santee Cooper partners with Google in shift toward AI-driven forecasting",
-    "title_zh": "Santee Cooper与谷歌合作，转向人工智能驱动的预测",
-    "url": "https://www.utilitydive.com/news/santee-cooper-partners-with-google-in-shift-toward-ai-driven-forecasting/829564/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-03T14:10:01+00:00"
-  },
-  "6a6d4ec94245": {
-    "id": "6a6d4ec94245",
-    "title_en": "Electric Car Batteries Hold Up Really Well — These Are “The Best”",
-    "title_zh": "电动汽车电池性能很好——这些是“最好的”",
-    "url": "https://cleantechnica.com/2026/09/03/electric-car-batteries-hold-up-really-well-these-are-the-best/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-03T14:09:04+00:00"
-  },
-  "4a363e5d8b65": {
-    "id": "4a363e5d8b65",
-    "title_en": "Three Questions Every Utility Should Ask About Advanced Reactors",
-    "title_zh": "关于先进反应堆，每个公用事业公司都应该问的三个问题",
-    "url": "https://www.powermag.com/three-questions-every-utility-should-ask-about-advanced-reactors/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-09-03T14:05:02+00:00"
-  },
-  "d19e9e3e5095": {
-    "id": "d19e9e3e5095",
-    "title_en": "Cratering oil use in China shows the death spiral that could end oil",
-    "title_zh": "中国火山口石油使用显示了可能终结石油的死亡螺旋",
-    "url": "https://electrek.co/2026/09/03/cratering-oil-use-in-china-shows-the-death-spiral-that-could-end-oil/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-03T14:00:00+00:00"
-  },
-  "61e306317a05": {
-    "id": "61e306317a05",
-    "title_en": "EU Vows Tougher Russia Measures After Leipzig Drone Attack",
-    "title_zh": "莱比锡无人机袭击后，欧盟承诺对俄罗斯采取更强硬的措施",
-    "url": "https://oilprice.com/Geopolitics/Europe/EU-Vows-Tougher-Russia-Measures-After-Leipzig-Drone-Attack.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-03T14:00:00+00:00"
-  },
-  "9251b6a3fab2": {
-    "id": "9251b6a3fab2",
-    "title_en": "PV Progress across Latin America",
-    "title_zh": "拉丁美洲光伏进展",
-    "url": "https://www.pv-magazine.com/2026/09/03/pv-progress-across-latin-america/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T14:00:00+00:00"
-  },
-  "cb7fab7a5df5": {
-    "id": "cb7fab7a5df5",
-    "title_en": "China’s solar capacity hits 1.28 TW, accounts for 31.5% of total power capacity",
-    "title_zh": "中国太阳能发电量达到1.28TW，占总发电量的31.5%",
-    "url": "https://www.pv-magazine.com/2026/09/03/chinas-solar-capacity-hits-1-28-tw-accounts-for-31-5-of-total-power-capacity/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T13:58:32+00:00"
-  },
-  "8347f169715e": {
-    "id": "8347f169715e",
-    "title_en": "Scaling U.S. solar manufacturing — what can be learned from SEG Solar?",
-    "title_zh": "扩大美国太阳能制造业规模——从SEG solar可以学到什么？",
-    "url": "https://www.solarpowerworldonline.com/2026/09/scaling-u-s-solar-manufacturing-what-can-be-learned-from-seg-solar/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T13:48:09+00:00"
-  },
-  "c798ac76880e": {
-    "id": "c798ac76880e",
-    "title_en": "Hormuz Disruptions Could Drag Into Next Year, Japanese Tanker Giant Warns",
-    "title_zh": "日本油轮巨头警告称，霍尔木兹油轮的中断可能会持续到明年",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Disruptions-Could-Drag-Into-Next-Year-Japanese-Tanker-Giant-Warns.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-03T13:00:00+00:00"
-  },
-  "83008040a3e9": {
-    "id": "83008040a3e9",
-    "title_en": "Energy Management Goes Beyond Monitoring to Decision-Making",
-    "title_zh": "能源管理超越监控，走向决策",
-    "url": "https://www.powermag.com/energy-management-goes-beyond-monitoring-to-decision-making/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-09-03T12:47:55+00:00"
-  },
-  "a3fceb89e5c6": {
-    "id": "a3fceb89e5c6",
-    "title_en": "Studsvik Selects GE Vernova Hitachi, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
-    "title_zh": "Studsvik选择GE Vernova Hitachi、三星C&T进行1.2-GW瑞典BWRX-300项目",
-    "url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-09-03T12:34:51+00:00"
-  },
-  "d6ff0c7b20c4": {
-    "id": "d6ff0c7b20c4",
-    "title_en": "EVs outsell petrol in Australia for the first time, led by China",
-    "title_zh": "以中国为首的电动汽车在澳大利亚的销量首次超过汽油",
-    "url": "https://electrek.co/2026/09/03/australia-ev-sales-outsell-petrol-august-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-03T12:33:57+00:00"
-  },
-  "7dbee310a814": {
-    "id": "7dbee310a814",
-    "title_en": "Washington solar project includes wildlife corridors and mix of pollinator-friendly plants",
-    "title_zh": "华盛顿太阳能项目包括野生动物走廊和授粉友好植物的混合",
-    "url": "https://www.solarpowerworldonline.com/2026/09/washington-solar-project-includes-wildlife-corridors-and-mix-of-pollinator-friendly-plants/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T12:17:26+00:00"
-  },
-  "9eb72df13824": {
-    "id": "9eb72df13824",
-    "title_en": "Solar reaches new power generation highs in Portugal in August",
-    "title_zh": "葡萄牙8月太阳能发电量创历史新高",
-    "url": "https://www.pv-magazine.com/2026/09/03/solar-reaches-new-power-highs-in-portugal-in-august/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T12:02:30+00:00"
-  },
-  "c639eaf12fd6": {
-    "id": "c639eaf12fd6",
-    "title_en": "Vehicle emissions fight score update: California 2 – Trump 0",
-    "title_zh": "车辆排放斗争得分更新：加利福尼亚2–特朗普0",
-    "url": "https://electrek.co/2026/09/03/court-overrules-epas-illegal-attempt-to-block-californias-clean-air-standards/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-03T12:00:00+00:00"
-  },
-  "ab2c0cb6242e": {
-    "id": "ab2c0cb6242e",
-    "title_en": "Iraq Hikes Oil Exports via Hormuz in Boon for Asian Refiners",
-    "title_zh": "伊拉克通过布恩的霍尔木兹为亚洲炼油厂增加石油出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Hikes-Oil-Exports-via-Hormuz-in-Boon-for-Asian-Refiners.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-03T12:00:00+00:00"
-  },
-  "3ee3b62861de": {
-    "id": "3ee3b62861de",
-    "title_en": "Inertia in Germany is ‘first bankable long-term revenue stream,’ could boost battery storage IRR by 1-2pp",
-    "title_zh": "德国的惯性是“第一个可盈利的长期收入来源”，可以将电池储能内部收益率提高1-2pp",
-    "url": "https://www.energy-storage.news/inertia-in-germany-is-first-bankable-long-term-revenue-stream-could-boost-battery-storage-irr-by-1-2pp/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-03T11:52:27+00:00"
-  },
-  "47ee83119488": {
-    "id": "47ee83119488",
-    "title_en": "Our Food System Is In Trouble, And It’s Time To Change The Language We Use To Describe It",
-    "title_zh": "我们的食物系统出了问题，是时候改变我们用来描述它的语言了",
-    "url": "https://cleantechnica.com/2026/09/03/our-food-system-is-in-trouble-and-its-time-to-change-the-language-we-use-to-describe-it/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-03T11:50:29+00:00"
-  },
-  "e5b2e3c69095": {
-    "id": "e5b2e3c69095",
-    "title_en": "Part 4: The cell technology race shaping the US PV manufacturing boom",
-    "title_zh": "第四部分：电池技术竞赛塑造了美国光伏制造业的繁荣",
-    "url": "https://www.pv-tech.org/us-pv-manufacturing-solar-cell-module-technology/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T11:42:12+00:00"
-  },
-  "0c755bf70107": {
-    "id": "0c755bf70107",
-    "title_en": "Scientists turn end-of-life PV silicon into high-value silicon nitride",
-    "title_zh": "科学家将报废光伏硅转化为高价值氮化硅",
-    "url": "https://www.pv-magazine.com/2026/09/03/scientists-turn-end-of-life-pv-silicon-into-high-value-silicon-nitride/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T11:35:00+00:00"
-  },
-  "19f721df0713": {
-    "id": "19f721df0713",
-    "title_en": "Equinor to Deploy Cable Monitoring Tech at 9-Year-Old Offshore Wind Farm",
-    "title_zh": "Equinor将在9年历史的海上风电场部署电缆监测技术",
-    "url": "https://www.offshorewind.biz/2026/09/03/equinor-to-deploy-cable-monitoring-tech-at-9-year-old-offshore-wind-farm/",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-03T11:35:00+00:00"
-  },
-  "85ed450b860b": {
-    "id": "85ed450b860b",
-    "title_en": "Equinor to Deploy Cable Monitoring Tech at 9-Year-Old Offshore Wind Farm",
-    "title_zh": "Equinor将在9年历史的海上风电场部署电缆监测技术",
-    "url": "https://offshorewind.biz/2026/09/03/equinor-to-deploy-cable-monitoring-tech-at-9-year-old-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-03T11:35:00+00:00"
-  },
-  "06ef48c6ae05": {
-    "id": "06ef48c6ae05",
-    "title_en": "Alight, Autoliv inaugurate 101MWp Eurajoki solar park in Finland",
-    "title_zh": "奥托立夫在芬兰为101MWp Eurajoki太阳能园区揭幕",
-    "url": "https://www.pv-tech.org/alight-autoliv-inaugurate-101mwp-eurajoki-solar-park-in-finland/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T11:34:15+00:00"
-  },
-  "ea1e8e760660": {
-    "id": "ea1e8e760660",
-    "title_en": "Regulatory hurdles persist in Norway’s battery market",
-    "title_zh": "挪威电池市场的监管障碍依然存在",
-    "url": "https://www.pv-magazine.com/2026/09/03/regulatory-hurdles-persist-in-norways-battery-market/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T11:28:29+00:00"
-  },
-  "c9905211441c": {
-    "id": "c9905211441c",
-    "title_en": "Engie starts up 251MW BESS projects in Chile, Grenergy sells fourth phase of Atacama solar-plus-storage complex",
-    "title_zh": "Engie在智利启动了251MW的BESS项目，Grenergy出售了阿塔卡马太阳能加储能综合体的第四期",
-    "url": "https://www.energy-storage.news/engie-starts-up-251mw-bess-projects-in-chile-grenergy-sells-fourth-phase-of-atacama-solar-plus-storage-complex/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-03T11:26:29+00:00"
-  },
-  "58869abfecd4": {
-    "id": "58869abfecd4",
-    "title_en": "Bulgaria now ‘the most battery-intensive energy market in the world’",
-    "title_zh": "保加利亚现在是“世界上电池最密集的能源市场”",
-    "url": "https://www.energy-storage.news/bulgaria-now-the-most-battery-intensive-energy-market-in-the-world/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-03T11:24:32+00:00"
-  },
-  "c166b15dea02": {
-    "id": "c166b15dea02",
-    "title_en": "Google partners with MN8 Energy and Eos on West Virginia solar-plus-LDES project",
-    "title_zh": "谷歌与MN8 Energy和Eos合作开展西弗吉尼亚州太阳能+LDES项目",
-    "url": "https://www.energy-storage.news/google-partners-with-mn8-energy-and-eos-on-west-virginia-solar-plus-ldes-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-03T11:23:24+00:00"
-  },
-  "31656e1b1848": {
-    "id": "31656e1b1848",
-    "title_en": "Could Canada Get Fresh BYDs, Rather Than Leftovers?",
-    "title_zh": "加拿大能得到新鲜的BYD，而不是剩菜吗？",
-    "url": "https://cleantechnica.com/2026/09/03/could-canada-get-fresh-byds-rather-than-leftovers/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-03T11:18:24+00:00"
-  },
-  "10b37648a2aa": {
-    "id": "10b37648a2aa",
-    "title_en": "UAE to hit 35% clean energy by 2031, bets on 24/7 solar-plus-storage",
-    "title_zh": "阿联酋到2031年将实现35%的清洁能源，押注24/7太阳能+储能",
-    "url": "https://www.pv-tech.org/uae-to-hit-35-clean-energy-by-2031-bets-on-24-7-solar-plus-storage/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T11:02:18+00:00"
-  },
-  "e577ac9ac1f7": {
-    "id": "e577ac9ac1f7",
-    "title_en": "Chinese inverter and BESS makers stress compliance as US restrictions widen",
-    "title_zh": "随着美国限制的扩大，中国逆变器和BESS制造商强调合规性",
-    "url": "https://www.pv-magazine.com/2026/09/03/chinese-inverter-and-bess-makers-stress-compliance-as-us-restrictions-widen/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-03T11:00:49+00:00"
   }
 }
