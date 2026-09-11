@@ -1,4 +1,85 @@
 {
+  "f17a513c78da": {
+    "id": "f17a513c78da",
+    "title_en": "MN Power Ordered to Continue Investigating Alternatives to New Gas Plant",
+    "title_zh": "MN电力公司被要求继续研究新天然气厂的替代方案",
+    "url": "https://cleantechnica.com/2026/09/10/mn-power-ordered-to-continue-investigating-alternatives-to-new-gas-plant/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-11T02:35:50+00:00"
+  },
+  "040471947255": {
+    "id": "040471947255",
+    "title_en": "TVA Sued for Violating Federal Clean Air Act at Its Cumberland Fossil Plant",
+    "title_zh": "TVA因其坎伯兰化石工厂违反联邦清洁空气法而被起诉",
+    "url": "https://cleantechnica.com/2026/09/10/tva-sued-for-violating-federal-clean-air-act-at-its-cumberland-fossil-plant/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-11T02:23:44+00:00"
+  },
+  "774b18a1e06f": {
+    "id": "774b18a1e06f",
+    "title_en": "Installed Solar Power Now Enough For 50 Million US Homes",
+    "title_zh": "安装的太阳能现在足以满足5000万美国家庭的需求",
+    "url": "https://cleantechnica.com/2026/09/10/solar-power-now-enough-for-50-million-us-homes/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-11T02:08:18+00:00"
+  },
+  "f0c645098f2c": {
+    "id": "f0c645098f2c",
+    "title_en": "New, 50-ton Volvo EC500 Electric excavator never needs charging",
+    "title_zh": "全新50吨沃尔沃EC500电动挖掘机无需充电",
+    "url": "https://electrek.co/2026/09/10/new-50-ton-volvo-ec500-electric-excavator-never-needs-charging/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-11T00:46:14+00:00"
+  },
+  "8ab7513df6bf": {
+    "id": "8ab7513df6bf",
+    "title_en": "California’s Landmark Tire Efficiency Standards Are a Win for Consumers, Climate, and Public Health",
+    "title_zh": "加州具有里程碑意义的轮胎效率标准对消费者、气候和公共卫生来说是一场胜利",
+    "url": "https://cleantechnica.com/2026/09/10/californias-landmark-tire-efficiency-standards-are-a-win-for-consumers-climate-and-public-health/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-11T00:26:48+00:00"
+  },
+  "f6b344322a1e": {
+    "id": "f6b344322a1e",
+    "title_en": "AI Boom to Boost Southeast Asia’s LNG Demand",
+    "title_zh": "人工智能热潮将提振东南亚液化天然气需求",
+    "url": "https://oilprice.com/Energy/Natural-Gas/AI-Boom-to-Boost-Southeast-Asias-LNG-Demand.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-11T00:00:00+00:00"
+  },
+  "81a930722a8d": {
+    "id": "81a930722a8d",
+    "title_en": "Volvo Updates the XC40 & EX40 with Longer Range and Updated Aesthetics",
+    "title_zh": "沃尔沃为XC40和EX40更新了续航里程和美学",
+    "url": "https://cleantechnica.com/2026/09/10/volvo-updates-the-xc40-ex40-with-longer-range-and-updated-aesthetics/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-10T23:59:07+00:00"
+  },
+  "727548645dd2": {
+    "id": "727548645dd2",
+    "title_en": "EV sales are booming in Europe – and plunging in North America",
+    "title_zh": "电动汽车销售在欧洲蓬勃发展，在北美暴跌",
+    "url": "https://electrek.co/2026/09/10/ev-sales-are-booming-in-europe-and-plunging-in-north-america/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-10T23:01:00+00:00"
+  },
+  "700fedb1bde2": {
+    "id": "700fedb1bde2",
+    "title_en": "Why The United States’ Belated Critical Minerals Gambit Won’t Stop China",
+    "title_zh": "为什么美国迟到的关键矿产不会阻止中国",
+    "url": "https://oilprice.com/Metals/Commodities/Why-The-United-States-Belated-Critical-Minerals-Gambit-Wont-Stop-China.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-10T23:00:00+00:00"
+  },
   "2f8eaa1f1c0d": {
     "id": "2f8eaa1f1c0d",
     "title_en": "RGGI Is Funding Lower Household Bills as Data Centers Spike Prices",
@@ -139,6 +220,15 @@
     "title_en": "Global Gas Turbine Manufacturing Outlook: Crunch, for Now",
     "title_zh": "全球燃气轮机制造业展望：目前形势严峻",
     "url": "https://about.bnef.com/insights/finance/global-gas-turbine-manufacturing-outlook-crunch-for-now/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-09-10T18:10:31+00:00"
+  },
+  "4369b8ade722": {
+    "id": "4369b8ade722",
+    "title_en": "Global Gas Turbine Manufacturing Outlook: Crunch, for Now",
+    "title_zh": "全球燃气轮机制造业展望：目前形势严峻",
+    "url": "https://about.bnef.com/insights/industry-and-buildings/global-gas-turbine-manufacturing-outlook-crunch-for-now/",
     "source": "Bloomberg NEF",
     "category": "综合",
     "pub_ts": "2026-09-10T18:10:31+00:00"
@@ -4408,95 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-09-04T09:41:32+00:00"
-  },
-  "30129e2384f1": {
-    "id": "30129e2384f1",
-    "title_en": "Part 5: US solar manufacturing outlook to 2030 and what comes next",
-    "title_zh": "第五部分：2030年美国太阳能制造业展望及未来",
-    "url": "https://www.pv-tech.org/us-pv-manufacturing-outlook-2030-and-beyond/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-04T09:38:05+00:00"
-  },
-  "67bdad0b6254": {
-    "id": "67bdad0b6254",
-    "title_en": "Optimizing PV-driven heat pump operation for homes with poor thermal insulation",
-    "title_zh": "优化隔热性能差的家庭的光伏驱动热泵运行",
-    "url": "https://www.pv-magazine.com/2026/09/04/optimizing-pv-driven-heat-pump-operation-for-homes-with-poor-thermal-insulation/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-04T09:27:51+00:00"
-  },
-  "474ceac6444f": {
-    "id": "474ceac6444f",
-    "title_en": "Goldman Sachs Alternatives, Cleanhill Partners sell PCS manufacturer EPC Power for US$4.4 billion",
-    "title_zh": "高盛另类投资公司Cleanhill Partners以44亿美元的价格出售PCS制造商EPC Power",
-    "url": "https://www.energy-storage.news/goldman-sachs-alternatives-cleanhill-partners-sell-pcs-manufacturer-epc-power-for-us4-4-billion/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-04T09:25:30+00:00"
-  },
-  "d7669353b763": {
-    "id": "d7669353b763",
-    "title_en": "France updates list of certified low-carbon photovoltaic modules",
-    "title_zh": "法国更新低碳光伏组件认证名单",
-    "url": "https://www.pv-magazine.com/2026/09/04/france-updates-list-of-certified-low-carbon-photovoltaic-modules/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-04T09:07:44+00:00"
-  },
-  "212b7a753a32": {
-    "id": "212b7a753a32",
-    "title_en": "Vertical rooftop PV arrives in Ireland",
-    "title_zh": "垂直屋顶光伏抵达爱尔兰",
-    "url": "https://www.pv-magazine.com/2026/09/04/vertical-rooftop-pv-arrives-in-ireland/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-04T08:55:24+00:00"
-  },
-  "e712cbd23412": {
-    "id": "e712cbd23412",
-    "title_en": "Fourth Vard-Built CSOV Joins Windward Offshore Fleet",
-    "title_zh": "第四艘Vard建造的CSOV加入向风海上舰队",
-    "url": "https://offshorewind.biz/2026/09/04/fourth-vard-built-csov-joins-windward-offshore-fleet",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-04T08:54:03+00:00"
-  },
-  "799408675170": {
-    "id": "799408675170",
-    "title_en": "Australia continues heavy investment in solar research",
-    "title_zh": "澳大利亚继续大力投资太阳能研究",
-    "url": "https://www.pv-magazine.com/2026/09/04/unsw-researchers-secure-64-8-million-in-funding-for-12-separate-solar-projects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-04T08:48:55+00:00"
-  },
-  "b40be80b99af": {
-    "id": "b40be80b99af",
-    "title_en": "Round up: Offshore wind projects reach milestones in Europe and Asia",
-    "title_zh": "综述：海上风电项目在欧洲和亚洲达到里程碑",
-    "url": "https://www.windpowermonthly.com/article/1969148/round-up-offshore-wind-projects-reach-milestones-europe-asia",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-04T08:31:34+00:00"
-  },
-  "5508655a767c": {
-    "id": "5508655a767c",
-    "title_en": "Chinese PV Industry Brief: Inverter manufacturers post mixed H1 results as storage gains ground",
-    "title_zh": "中国光伏行业简报：逆变器制造商公布上半年业绩喜忧参半，储能增长",
-    "url": "https://www.pv-magazine.com/2026/09/04/chinese-pv-industry-brief-inverter-manufacturers-post-mixed-h1-results-as-storage-gains-ground/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-04T08:30:48+00:00"
-  },
-  "7d7a5df863a8": {
-    "id": "7d7a5df863a8",
-    "title_en": "UK Poised to Approve Jackdaw Gas Field as Energy Costs Soar",
-    "title_zh": "英国准备批准寒鸦气田，因为能源成本飙升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Poised-to-Approve-Jackdaw-Gas-Field-as-Energy-Costs-Soar.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-04T08:15:00+00:00"
   }
 }
