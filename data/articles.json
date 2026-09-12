@@ -1,4 +1,49 @@
 {
+  "4f3496cabf85": {
+    "id": "4f3496cabf85",
+    "title_en": "Aberdeen Paid £556k Per Hydrogen Bus. Five Years Later, First Bus Is Paying £30k",
+    "title_zh": "阿伯丁为每辆氢燃料巴士支付了55.6万英镑。五年后，First Bus支付了3万英镑",
+    "url": "https://cleantechnica.com/2026/09/11/aberdeen-hydrogen-buses-30000-residual-value/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T01:07:42+00:00"
+  },
+  "7a3bf567fd10": {
+    "id": "7a3bf567fd10",
+    "title_en": "Finance Beyond the COP: How India Is Rebuilding the Case for Global Climate Finance",
+    "title_zh": "COP之外的融资：印度如何重建全球气候融资案例",
+    "url": "https://cleantechnica.com/2026/09/11/finance-beyond-the-cop-how-india-is-rebuilding-the-case-for-global-climate-finance/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T01:03:50+00:00"
+  },
+  "b44ae28a221c": {
+    "id": "b44ae28a221c",
+    "title_en": "New Kind Of Surfer Is Riding Waves — And Producing Power",
+    "title_zh": "新型冲浪者乘风破浪——发电",
+    "url": "https://cleantechnica.com/2026/09/11/new-kind-of-surfer-is-riding-waves-and-producing-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T00:34:01+00:00"
+  },
+  "b49a569e471a": {
+    "id": "b49a569e471a",
+    "title_en": "Amazon puts 50 Mercedes-Benz eActros electric semi trucks to work in Germany",
+    "title_zh": "亚马逊让50辆梅赛德斯-奔驰eActros电动半挂车在德国投入使用",
+    "url": "https://electrek.co/2026/09/11/amazon-puts-50-mercedes-benz-eactros-electric-semi-trucks-to-work-in-germany/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-12T00:33:03+00:00"
+  },
+  "db3437abdb09": {
+    "id": "db3437abdb09",
+    "title_en": "CAT puts century-old train tech to work in new, heavier electric drive dozer",
+    "title_zh": "CAT将百年历史的列车技术应用于新型重型电动推土机",
+    "url": "https://electrek.co/2026/09/11/cat-puts-century-old-train-tech-to-work-in-new-heavier-electric-drive-dozer/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-11T23:52:03+00:00"
+  },
   "2669918c95a4": {
     "id": "2669918c95a4",
     "title_en": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
@@ -223,6 +268,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-09-11T16:36:24+00:00"
+  },
+  "512081689b9b": {
+    "id": "512081689b9b",
+    "title_en": "Japan’s Energy Transition Enters New Phase Shaped by Rising Electricity Demand and Energy Security Needs, Per BloombergNEF’s New Energy Outlook 2026: Japan",
+    "title_zh": "根据BloombergNEF的《2026年新能源展望》，日本的能源转型进入了由不断增长的电力需求和能源安全需求塑造的新阶段：日本",
+    "url": "https://about.bnef.com/insights/clean-energy/japans-energy-transition-enters-new-phase-shaped-by-rising-electricity-demand-and-energy-security-needs-per-bloombergnefs-new-energy-outlook-2026-japan/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-09-11T16:08:54+00:00"
   },
   "177fa3db004a": {
     "id": "177fa3db004a",
@@ -4444,59 +4498,5 @@
     "source": "Bloomberg NEF",
     "category": "综合",
     "pub_ts": "2026-09-07T03:01:54+00:00"
-  },
-  "877ca2c4338b": {
-    "id": "877ca2c4338b",
-    "title_en": "East And West Coasts Throw Electric Truck Shade At White House",
-    "title_zh": "东西海岸向白宫投掷电动卡车遮阳帘",
-    "url": "https://cleantechnica.com/2026/09/06/electric-trucks-clean-ports-us-epa-california-canada-mexico/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-07T01:56:44+00:00"
-  },
-  "8d8b11ecc02c": {
-    "id": "8d8b11ecc02c",
-    "title_en": "Another Chinese EV myth busted as GAC, Geely, and Leapmotor ace Euro NCAP",
-    "title_zh": "另一个中国电动汽车神话破灭，广汽、吉利和Leapmotor成为欧洲NCAP冠军",
-    "url": "https://electrek.co/2026/09/06/another-chinese-ev-myth-busted-as-gac-geely-and-leapmotor-ace-euro-ncap/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-07T00:54:26+00:00"
-  },
-  "ceb4f2e7a8ea": {
-    "id": "ceb4f2e7a8ea",
-    "title_en": "Russia Is Redrawing Its Energy Map Through the Arctic",
-    "title_zh": "俄罗斯正在重新绘制其北极能源地图",
-    "url": "https://oilprice.com/Energy/Energy-General/Russia-Is-Redrawing-Its-Energy-Map-Through-the-Arctic.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-06T23:00:00+00:00"
-  },
-  "80a049e76b11": {
-    "id": "80a049e76b11",
-    "title_en": "SANY delivered 200 electric haul trucks, 600 EV wheel loaders – LAST MONTH",
-    "title_zh": "三一重工上个月交付了200辆电动拖运卡车和600辆电动轮式装载机",
-    "url": "https://electrek.co/2026/09/06/sany-delivered-200-electric-haul-trucks-600-ev-wheel-loaders-last-month/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-06T22:07:12+00:00"
-  },
-  "7537a134ba23": {
-    "id": "7537a134ba23",
-    "title_en": "Most Critical Minerals Aren’t Going to the Energy Transition",
-    "title_zh": "大多数关键矿物不会用于能源转型",
-    "url": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-06T22:00:00+00:00"
-  },
-  "c60b9b282314": {
-    "id": "c60b9b282314",
-    "title_en": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
-    "title_zh": "石油巨头在劳资纠纷中寻求更大的议价能力",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Seek-Bigger-Bargaining-Power-in-Labor-Disputes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-06T21:00:00+00:00"
   }
 }
