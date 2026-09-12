@@ -1,4 +1,67 @@
 {
+  "050903c8bc81": {
+    "id": "050903c8bc81",
+    "title_en": "US District Court Strips Away Insane JH Campbell Fake Emergency Order",
+    "title_zh": "美国地方法院剥夺了疯狂的JH Campbell虚假紧急令",
+    "url": "https://cleantechnica.com/2026/09/12/us-district-court-strips-away-insane-jh-campbell-fake-emergency-order/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T19:41:36+00:00"
+  },
+  "0e6220b100aa": {
+    "id": "0e6220b100aa",
+    "title_en": "Tesla teases new Roadster reveal for October 1: ‘Go for launch’",
+    "title_zh": "特斯拉将于10月1日发布新款Roadster：“开始发布”",
+    "url": "https://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-12T19:15:44+00:00"
+  },
+  "f5f014e6a32b": {
+    "id": "f5f014e6a32b",
+    "title_en": "The Race to Solve Nuclear Energy’s Biggest Problem",
+    "title_zh": "解决核能最大问题的竞赛",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-12T19:00:00+00:00"
+  },
+  "e1cd7a43025c": {
+    "id": "e1cd7a43025c",
+    "title_en": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
+    "title_zh": "去年，比亚迪收购了世界上最大的汽车运输公司——他们刚刚又订购了10辆",
+    "url": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-12T17:07:36+00:00"
+  },
+  "9db5c72e27e0": {
+    "id": "9db5c72e27e0",
+    "title_en": "Iran’s Security Crackdown Runs Into Resistance From Within",
+    "title_zh": "伊朗的安全镇压遭遇内部阻力",
+    "url": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-12T17:00:00+00:00"
+  },
+  "3aef841f8524": {
+    "id": "3aef841f8524",
+    "title_en": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
+    "title_zh": "电子设备亮点：CASE TL100EV可在任何地方销毁物品[视频]",
+    "url": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-12T15:46:32+00:00"
+  },
+  "e3c414ecbcec": {
+    "id": "e3c414ecbcec",
+    "title_en": "Integrating Starlink LEO Infrastructure with Zimbabwe’s Terrestrial Fibre Networks",
+    "title_zh": "将Starlink LEO基础设施与津巴布韦的地面光纤网络集成",
+    "url": "https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T15:23:13+00:00"
+  },
   "44e511e3f235": {
     "id": "44e511e3f235",
     "title_en": "Why More Homes Are Switching From Gas to Heat Pumps",
@@ -6,6 +69,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/Why-More-Homes-Are-Switching-From-Gas-to-Heat-Pumps.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-09-12T15:00:00+00:00"
+  },
+  "0ec15e292a35": {
+    "id": "0ec15e292a35",
+    "title_en": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
+    "title_zh": "这款2000W的电动滑板车时速可达34英里，Electrek阅读器可节省5%",
+    "url": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
+    "source": "Electrek",
+    "category": "EV",
     "pub_ts": "2026-09-12T15:00:00+00:00"
   },
   "bf529ea1a720": {
@@ -4426,77 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-09-07T09:49:25+00:00"
-  },
-  "cab5d14b8764": {
-    "id": "cab5d14b8764",
-    "title_en": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise",
-    "title_zh": "高盛警告称，随着航运风险上升，油价可能触及120美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-Oil-Could-Hit-120-as-Shipping-Risks-Rise.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-07T09:30:00+00:00"
-  },
-  "449cad2a50c4": {
-    "id": "449cad2a50c4",
-    "title_en": "Enersense to manage O&M services for 101MW Eurajoki Solar Park",
-    "title_zh": "Enersense将管理101MW Eurajoki太阳能园区的运维服务",
-    "url": "https://www.energymonitor.ai/news/enersense-om-eurajoki-solar-park/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-07T09:17:53+00:00"
-  },
-  "4011111e6503": {
-    "id": "4011111e6503",
-    "title_en": "Switzerland has 1,860 active local electricity communities",
-    "title_zh": "瑞士有1860个活跃的地方电力社区",
-    "url": "https://www.pv-magazine.com/2026/09/07/switzerland-now-has-1860-active-local-electricity-communities/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T09:14:53+00:00"
-  },
-  "1783f3820cf5": {
-    "id": "1783f3820cf5",
-    "title_en": "Q&A: What does the far-right state election win mean for Germany’s energy transition?",
-    "title_zh": "问：极右翼国家选举胜利对德国能源转型意味着什么？",
-    "url": "https://www.cleanenergywire.org/factsheets/qa-what-does-far-right-state-election-win-mean-germanys-energy-transition",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-09-07T08:41:21+00:00"
-  },
-  "eacfbd370025": {
-    "id": "eacfbd370025",
-    "title_en": "Qatar Moves Six LNG Tankers Toward Gulf as Export Restart Looms",
-    "title_zh": "卡塔尔将六艘液化天然气油轮运往海湾，因为出口重启迫在眉睫",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Moves-Six-LNG-Tankers-Toward-Gulf-as-Export-Restart-Looms.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-07T08:30:00+00:00"
-  },
-  "1e332efe9c8d": {
-    "id": "1e332efe9c8d",
-    "title_en": "Massachusetts Invests USD 4.2 Million to Boost Offshore Wind Workforce and Research",
-    "title_zh": "马萨诸塞州投资420万美元促进海上风电劳动力和研究",
-    "url": "https://offshorewind.biz/2026/09/07/massachusetts-invests-usd-42-million-to-boost-offshore-wind-workforce-and-research",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-07T08:25:59+00:00"
-  },
-  "f73ecebf94c6": {
-    "id": "f73ecebf94c6",
-    "title_en": "Comoros inaugurates three solar projects",
-    "title_zh": "科摩罗启动三个太阳能项目",
-    "url": "https://www.pv-magazine.com/2026/09/07/comoros-inaugurates-three-solar-projects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T07:57:57+00:00"
-  },
-  "4a1230eb0a03": {
-    "id": "4a1230eb0a03",
-    "title_en": "EPC Renewables, Cobra to deploy 142 MW/240 MWh solar-plus-storage project in Fiji",
-    "title_zh": "EPC可再生能源公司Cobra将在斐济部署142 MW/240 MWh的太阳能+储能项目",
-    "url": "https://www.pv-magazine.com/2026/09/07/epc-renewables-cobra-to-deploy-142-mw-240-mwh-solar-plus-storage-project-in-fiji/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T07:42:12+00:00"
   }
 }
