@@ -1,4 +1,58 @@
 {
+  "44e511e3f235": {
+    "id": "44e511e3f235",
+    "title_en": "Why More Homes Are Switching From Gas to Heat Pumps",
+    "title_zh": "为什么越来越多的家庭从燃气转向热泵",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-More-Homes-Are-Switching-From-Gas-to-Heat-Pumps.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-12T15:00:00+00:00"
+  },
+  "bf529ea1a720": {
+    "id": "bf529ea1a720",
+    "title_en": "New fleet of battery electric trains promises faster, more reliable UK travel",
+    "title_zh": "新的电池电动列车车队有望实现更快、更可靠的英国旅行",
+    "url": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-12T14:50:51+00:00"
+  },
+  "05b5cb2caeae": {
+    "id": "05b5cb2caeae",
+    "title_en": "Electric cars and solar are the hedge against this out-of-control energy crisis",
+    "title_zh": "电动汽车和太阳能是应对这场失控的能源危机的保障",
+    "url": "https://electrek.co/2026/09/12/evs-solar-v2h-hedge-energy-crisis/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-12T14:17:32+00:00"
+  },
+  "3d7edb30d161": {
+    "id": "3d7edb30d161",
+    "title_en": "Dense-Fluid Pumped Hydro Works. Scaling It Is The Problem.",
+    "title_zh": "稠密流体泵送水力发电厂。缩放是问题所在。",
+    "url": "https://cleantechnica.com/2026/09/12/dense-fluid-pumped-hydro-duration-scaling/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T13:32:45+00:00"
+  },
+  "71af4c02168e": {
+    "id": "71af4c02168e",
+    "title_en": "VinFast PH Opens More Dealers Nearing 60 Dealer Total Before Year Ends",
+    "title_zh": "VinFast PH在年底前开设了更多经销商，经销商总数接近60家",
+    "url": "https://cleantechnica.com/2026/09/12/vinfast-ph-opens-more-dealers-nearing-60-dealer-total-before-year-ends/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T11:49:43+00:00"
+  },
+  "f291eacf4194": {
+    "id": "f291eacf4194",
+    "title_en": "Philippine University-Developed Electric Tricycles Ready for Commercial Production",
+    "title_zh": "菲律宾大学开发出可投入商业生产的电动三轮车",
+    "url": "https://cleantechnica.com/2026/09/12/philippine-university-developed-electric-tricycles-ready-for-commercial-production/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T10:13:45+00:00"
+  },
   "7857fa211f41": {
     "id": "7857fa211f41",
     "title_en": "CarbonPH Coalition Charts Roadmap for Philippine Forest Carbon in ASEAN",
@@ -61,6 +115,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-09-12T03:50:33+00:00"
+  },
+  "72152b3bc5e8": {
+    "id": "72152b3bc5e8",
+    "title_en": "Government Clown Just Can’t Quit Coal Power",
+    "title_zh": "政府小丑就是不能退出煤电",
+    "url": "https://cleantechnica.com/2026/09/11/government-clown-just-cant-quit-coal-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-12T02:32:28+00:00"
   },
   "4f3496cabf85": {
     "id": "4f3496cabf85",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-07T07:42:12+00:00"
-  },
-  "78d5541471c9": {
-    "id": "78d5541471c9",
-    "title_en": "India’s TNPGCL commissions unit one of Udangudi thermal plant",
-    "title_zh": "印度TNPGCL委托Udangudi热电厂的一个单位",
-    "url": "https://www.energymonitor.ai/news/tnpgcl-commissions-unit-1-udangudi-thermal-plant/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-07T07:37:20+00:00"
-  },
-  "994fc250ca05": {
-    "id": "994fc250ca05",
-    "title_en": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-    "title_zh": "日立推出具有太阳能友好关税控制的二氧化碳热泵热水器",
-    "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T07:34:26+00:00"
-  },
-  "aacde914a7b9": {
-    "id": "aacde914a7b9",
-    "title_en": "South Korea Eyes $22.3 Billion Texas Gas Plant to Power AI Data Centers",
-    "title_zh": "韩国计划斥资223亿美元建设得克萨斯州天然气厂，为人工智能数据中心供电",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Eyes-223-Billion-Texas-Gas-Plant-to-Power-AI-Data-Centers.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-07T07:15:00+00:00"
-  },
-  "f013b2f1b858": {
-    "id": "f013b2f1b858",
-    "title_en": "Europe’s electrification target needs 50GW of new nuclear capacity",
-    "title_zh": "欧洲的电气化目标需要50GW的新核电容量",
-    "url": "https://www.energymonitor.ai/comment/europe-nuclear-capacity/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-07T07:00:00+00:00"
-  },
-  "a469531e8ba0": {
-    "id": "a469531e8ba0",
-    "title_en": "Macquarie-backed Blueleaf Energy and Universal Peak close financing on Malaysia tender-winning BESS project",
-    "title_zh": "麦格理支持Blueleaf Energy和Universal Peak完成马来西亚中标BESS项目的融资",
-    "url": "https://www.energy-storage.news/macquarie-backed-blueleaf-energy-and-universal-peak-close-financing-on-malaysia-tender-winning-bess-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-07T06:53:54+00:00"
-  },
-  "559096f9a3d5": {
-    "id": "559096f9a3d5",
-    "title_en": "Optimized semi-transparent PV greenhouse design increases energy output by 20.1%",
-    "title_zh": "优化的半透明光伏温室设计使能源产量提高了20.1%",
-    "url": "https://www.pv-magazine.com/2026/09/07/optimized-semi-transparent-pv-greenhouse-design-increases-energy-output-by-20-1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T06:08:38+00:00"
-  },
-  "38e20c57c4c7": {
-    "id": "38e20c57c4c7",
-    "title_en": "Shipping Fuel Shortage Looms as Refiners Prioritize Diesel",
-    "title_zh": "炼油厂优先考虑柴油，航运燃料短缺迫在眉睫",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Fuel-Shortage-Looms-as-Refiners-Prioritize-Diesel.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-07T05:50:00+00:00"
   }
 }
