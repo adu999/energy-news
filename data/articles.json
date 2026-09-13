@@ -1,4 +1,40 @@
 {
+  "0b9a571b6086": {
+    "id": "0b9a571b6086",
+    "title_en": "UK Wind Power Hits Record High as Energy Security Risks Mount",
+    "title_zh": "随着能源安全风险的增加，英国风力发电创下历史新高",
+    "url": "https://oilprice.com/Energy/Energy-General/UK-Wind-Power-Hits-Record-High-as-Energy-Security-Risks-Mount.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-13T15:00:00+00:00"
+  },
+  "5bec87fa36de": {
+    "id": "5bec87fa36de",
+    "title_en": "ARES’ Nevada Demonstrator Shows Why Rail Gravity Storage Is A Train Wreck",
+    "title_zh": "ARES的内华达州演示者展示了为什么铁路重力储存是火车失事",
+    "url": "https://cleantechnica.com/2026/09/13/rail-gravity-storage-a-train-wreck/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-13T14:28:54+00:00"
+  },
+  "fa4da8c77bb4": {
+    "id": "fa4da8c77bb4",
+    "title_en": "AI May Be on Verge of Causing Internet Chaos, Economic Catastrophe — Warning from Top AI CEO",
+    "title_zh": "人工智能可能即将引发互联网混乱、经济灾难——来自顶级人工智能首席执行官的警告",
+    "url": "https://cleantechnica.com/2026/09/13/ai-may-be-on-verge-of-causing-internet-chaos-economic-catastrophe-warning-from-top-ai-ceo/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-13T13:28:49+00:00"
+  },
+  "af0d56b5164a": {
+    "id": "af0d56b5164a",
+    "title_en": "Turn Off The Lights: Birds Are Migrating",
+    "title_zh": "关灯：鸟类正在迁徙",
+    "url": "https://cleantechnica.com/2026/09/13/turn-off-the-lights-birds-are-migrating/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-13T12:27:17+00:00"
+  },
   "2e78b07ee6ac": {
     "id": "2e78b07ee6ac",
     "title_en": "Rush To Promote Unsupervised Tesla FSD Videos Raises More Questions",
@@ -4462,41 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-07T11:25:08+00:00"
-  },
-  "a97d55a156f1": {
-    "id": "a97d55a156f1",
-    "title_en": "A Productivity Strategy For Europe Starts With Cheap Electricity",
-    "title_zh": "欧洲的生产力战略始于廉价电力",
-    "url": "https://cleantechnica.com/2026/09/07/cheap-electricity-europe-productivity/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-07T11:21:53+00:00"
-  },
-  "dd6f16d36606": {
-    "id": "dd6f16d36606",
-    "title_en": "Spotting new opportunities in the solar value chain",
-    "title_zh": "发现太阳能价值链中的新机遇",
-    "url": "https://www.pv-tech.org/mappes-solar-value-chain-bottlenecks-opportunities/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T11:15:37+00:00"
-  },
-  "3ac31a1e552c": {
-    "id": "3ac31a1e552c",
-    "title_en": "Industrialisation, Productivity and Global Competition: What's Next for Blade Manufacturing?",
-    "title_zh": "工业化、生产力和全球竞争：叶片制造的下一步是什么？",
-    "url": "https://offshorewind.biz/2026/09/07/industrialisation-productivity-and-global-competition-whats-next-for-blade-manufacturing",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-07T11:00:00+00:00"
-  },
-  "e8820246be35": {
-    "id": "e8820246be35",
-    "title_en": "India’s Crude Oil Benchmark Tops $100 as Middle East War Escalates",
-    "title_zh": "中东战争升级，印度原油基准突破100美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Benchmark-Tops-100-as-Middle-East-War-Escalates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-07T11:00:00+00:00"
   }
 }
