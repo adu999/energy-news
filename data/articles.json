@@ -665,6 +665,15 @@
     "category": "油气",
     "pub_ts": "2026-09-11T14:00:00+00:00"
   },
+  "f9e65b8bf8e9": {
+    "id": "f9e65b8bf8e9",
+    "title_en": "Europe’s policies shape offshore wind as renewable power frontier, says GlobalData",
+    "title_zh": "GlobalData表示，欧洲的政策将海上风电塑造为可再生能源的前沿",
+    "url": "https://www.energymonitor.ai/analyst-comment/europe-policies-offshore-wind-as-renewable-power/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-11T13:55:12+00:00"
+  },
   "59cf37a72c4c": {
     "id": "59cf37a72c4c",
     "title_en": "BLUETTI Launches New Energy Solutions for Work, Home, & Life on the Move at IFA 2026",
@@ -4489,14 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-07T11:00:00+00:00"
-  },
-  "1e790e8b2418": {
-    "id": "1e790e8b2418",
-    "title_en": "Pakistan’s regulator approves mandatory energy storage component for renewables auction",
-    "title_zh": "巴基斯坦监管机构批准可再生能源拍卖的强制性储能组件",
-    "url": "https://www.energy-storage.news/pakistan-regulator-approves-mandatory-energy-storage-component-renewables-auction/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-07T10:56:23+00:00"
   }
 }
