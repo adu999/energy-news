@@ -1,4 +1,13 @@
 {
+  "c08c9ee2db74": {
+    "id": "c08c9ee2db74",
+    "title_en": "Further Oil Price Spikes Could Rekindle Recession Fears",
+    "title_zh": "油价进一步飙升可能会重新引发对经济衰退的担忧",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-13T21:00:00+00:00"
+  },
   "b30fe70f9bc2": {
     "id": "b30fe70f9bc2",
     "title_en": "Commerce confirms dumping of solar cells from India, Indonesia and Laos into US market",
@@ -4489,14 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-07T12:08:47+00:00"
-  },
-  "5e92ccb39186": {
-    "id": "5e92ccb39186",
-    "title_en": "India tenders 700 MW of solar capacity for C&I offtake",
-    "title_zh": "印度为C&I承购提供700兆瓦的太阳能容量",
-    "url": "https://www.pv-magazine.com/2026/09/07/seci-tenders-700-mw-of-solar-capacity-for-ci-offtake/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T12:00:03+00:00"
   }
 }
