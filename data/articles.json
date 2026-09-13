@@ -1,4 +1,22 @@
 {
+  "2e78b07ee6ac": {
+    "id": "2e78b07ee6ac",
+    "title_en": "Rush To Promote Unsupervised Tesla FSD Videos Raises More Questions",
+    "title_zh": "急于推广无人监督的特斯拉FSD视频引发了更多问题",
+    "url": "https://cleantechnica.com/2026/09/12/tesla-unsupervised-fsd-full-self-driving-videos/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-13T01:39:13+00:00"
+  },
+  "667b48ee5e66": {
+    "id": "667b48ee5e66",
+    "title_en": "Oil Industry Braces for Years-Long Iran War",
+    "title_zh": "石油工业为长达数年的伊朗战争做好准备",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-12T23:00:00+00:00"
+  },
   "f7f87bde0a83": {
     "id": "f7f87bde0a83",
     "title_en": "IFA Berlin Recap Part 2: More Diverse Sustainability Approaches",
@@ -4480,23 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-09-07T10:56:23+00:00"
-  },
-  "0133a5edbec7": {
-    "id": "0133a5edbec7",
-    "title_en": "Mongolia completes first renewable energy auction",
-    "title_zh": "蒙古完成首次可再生能源拍卖",
-    "url": "https://www.pv-magazine.com/2026/09/07/mongolia-completes-first-renewable-energy-auction/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T10:33:29+00:00"
-  },
-  "6581657e64b8": {
-    "id": "6581657e64b8",
-    "title_en": "Tunisia allocates 455 MW of PV in sixth licensing round",
-    "title_zh": "突尼斯在第六轮许可证发放中分配了455兆瓦的光伏发电",
-    "url": "https://www.pv-magazine.com/2026/09/07/tunisia-allocates-455-mw-of-pv-in-sixth-licensing-round/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T10:22:32+00:00"
   }
 }
