@@ -1,4 +1,31 @@
 {
+  "697ddf8999cf": {
+    "id": "697ddf8999cf",
+    "title_en": "EPA plans to raise your energy costs by $120B on Monday",
+    "title_zh": "美国环保署计划周一将您的能源成本提高1200亿美元",
+    "url": "https://electrek.co/2026/09/13/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-14T03:31:47+00:00"
+  },
+  "a577b7e1e851": {
+    "id": "a577b7e1e851",
+    "title_en": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
+    "title_zh": "中东袭击事件持续，外交陷入僵局，油价飙升",
+    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Middle-East-Attacks-Continue-and-Diplomacy-Stumbles.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-14T02:39:17+00:00"
+  },
+  "ae99003662e6": {
+    "id": "ae99003662e6",
+    "title_en": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
+    "title_zh": "渣打银行警告称，油价现在正为更剧烈、更频繁的飙升而打造",
+    "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-13T23:00:00+00:00"
+  },
   "c08c9ee2db74": {
     "id": "c08c9ee2db74",
     "title_en": "Further Oil Price Spikes Could Rekindle Recession Fears",
@@ -4471,32 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-09-07T12:25:11+00:00"
-  },
-  "056b3e1fd088": {
-    "id": "056b3e1fd088",
-    "title_en": "Google, Tesla, Sunrun, and PG&E partner on new California virtual power plant programme",
-    "title_zh": "谷歌、特斯拉、Sunrun和PG&E合作开展新的加州虚拟发电厂项目",
-    "url": "https://www.energy-storage.news/google-tesla-sunrun-and-pge-partner-on-new-california-virtual-power-plant-programme/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-07T12:17:19+00:00"
-  },
-  "e1977370e00f": {
-    "id": "e1977370e00f",
-    "title_en": "Windey crashes to H1 loss despite revenue increase",
-    "title_zh": "尽管收入增加，Windey仍在上半年亏损",
-    "url": "https://www.windpowermonthly.com/article/1969324/windey-crashes-h1-loss-despite-revenue-increase",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-07T12:14:02+00:00"
-  },
-  "068045d9eb9d": {
-    "id": "068045d9eb9d",
-    "title_en": "Vietnam lays early policy groundwork to aggregate rooftop PV, storage, and EVs into VPPs",
-    "title_zh": "越南为将屋顶光伏、储能和电动汽车整合为VPP奠定了早期政策基础",
-    "url": "https://www.pv-magazine.com/2026/09/07/vietnam-lays-early-policy-groundwork-to-aggregate-rooftop-pv-storage-and-evs-into-vpps/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-07T12:08:47+00:00"
   }
 }
