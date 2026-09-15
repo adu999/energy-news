@@ -1,4 +1,85 @@
 {
+  "af1d5306685e": {
+    "id": "af1d5306685e",
+    "title_en": "Trina Storage to supply 562MWh BESS for Frontier Energy solar-plus-storage project in Western Australia",
+    "title_zh": "天合光能将为西澳大利亚州的Frontier Energy太阳能+储能项目提供562MWh的BESS",
+    "url": "https://www.energy-storage.news/trina-storage-to-supply-562mwh-bess-for-frontier-energy-solar-plus-storage-project-in-western-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-15T03:44:50+00:00"
+  },
+  "d9229851ab59": {
+    "id": "d9229851ab59",
+    "title_en": "ESEM and Market Making Obligation move closer to law as Australia opens draft legislation consultation",
+    "title_zh": "ESEM和做市义务更接近法律，因为澳大利亚开始立法草案咨询",
+    "url": "https://www.energy-storage.news/esem-and-market-making-obligation-move-closer-to-law-as-australia-opens-draft-legislation-consultation/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-15T03:37:36+00:00"
+  },
+  "a6a2015908ca": {
+    "id": "a6a2015908ca",
+    "title_en": "JET Charge Helps The Fleet Transition",
+    "title_zh": "喷气充电有助于舰队转型",
+    "url": "https://cleantechnica.com/2026/09/14/jet-charge-helps-the-fleet-transition/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-15T02:50:26+00:00"
+  },
+  "4f9559b3e0b8": {
+    "id": "4f9559b3e0b8",
+    "title_en": "Waymo Readying to Launch Robotaxis in Japan",
+    "title_zh": "Waymo准备在日本推出机器人出租车",
+    "url": "https://cleantechnica.com/2026/09/14/waymo-readying-to-launch-robotaxis-in-japan/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-15T02:10:21+00:00"
+  },
+  "619d768eee53": {
+    "id": "619d768eee53",
+    "title_en": "Trump Habitat Rollback Takes Effect As Sierra Club and Conservation Partners Sue",
+    "title_zh": "特朗普栖息地回滚生效，塞拉俱乐部和保护合作伙伴起诉",
+    "url": "https://cleantechnica.com/2026/09/14/trump-habitat-rollback-takes-effect-as-sierra-club-and-conservation-partners-sue/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-15T01:02:15+00:00"
+  },
+  "39ebe19ece16": {
+    "id": "39ebe19ece16",
+    "title_en": "Trump Moves to Strip EPA of Authority to Limit Power Plant Carbon Pollution",
+    "title_zh": "特朗普采取行动剥夺美国环保署限制发电厂碳污染的权力",
+    "url": "https://cleantechnica.com/2026/09/14/trump-moves-to-strip-epa-of-authority-to-limit-power-plant-carbon-pollution/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-15T00:25:19+00:00"
+  },
+  "eb244c4f3592": {
+    "id": "eb244c4f3592",
+    "title_en": "Volkswagen Unveils Ridiculously Efficient “Mission Efficiency” — But Why?",
+    "title_zh": "大众汽车推出了荒谬高效的“任务效率”——但为什么呢？",
+    "url": "https://cleantechnica.com/2026/09/14/volkswagen-unveils-ridiculously-efficient-mission-efficiency-but-why/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-15T00:18:56+00:00"
+  },
+  "29ef92a0fa92": {
+    "id": "29ef92a0fa92",
+    "title_en": "Wealthy Investors Flock To Oil & Gas Assets Amid Energy Crisis",
+    "title_zh": "在能源危机中，富裕投资者涌向石油和天然气资产",
+    "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-15T00:00:00+00:00"
+  },
+  "99166c355234": {
+    "id": "99166c355234",
+    "title_en": "EPA just raised health costs by $2.8T, will kill thousands per year  (upd.)",
+    "title_zh": "美国环保署刚刚将医疗费用提高了2.8万亿美元，每年将导致数千人死亡",
+    "url": "https://electrek.co/2026/09/14/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-14T23:50:00+00:00"
+  },
   "da1cf86d2eca": {
     "id": "da1cf86d2eca",
     "title_en": "$100 Oil Puts Central Banks Back on Inflation Alert",
@@ -4417,86 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-08T12:00:00+00:00"
-  },
-  "f0bce1479289": {
-    "id": "f0bce1479289",
-    "title_en": "Gulf Producers Find Workarounds As Hormuz Tensions Persist",
-    "title_zh": "霍尔木兹紧张局势持续，海湾产油国找到了解决办法",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Gulf-Producers-Find-Workarounds-As-Hormuz-Tensions-Persist.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-08T12:00:00+00:00"
-  },
-  "730b03e697b6": {
-    "id": "730b03e697b6",
-    "title_en": "ACWA Power starts commercial operations at 340MW off-grid solar-plus-storage project",
-    "title_zh": "ACWA Power启动340MW离网太阳能+储能项目的商业运营",
-    "url": "https://www.pv-tech.org/acwa-power-starts-commercial-operations-340mw-off-grid-solar-plus-storage-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-08T11:52:03+00:00"
-  },
-  "fdef9ebfba87": {
-    "id": "fdef9ebfba87",
-    "title_en": "HiNa Battery scales Korean sodium-ion partnership from 15 MWh to 10 GWh",
-    "title_zh": "HiNa Battery将韩国钠离子合作伙伴关系从15 MWh扩大到10 GWh",
-    "url": "https://www.pv-magazine.com/2026/09/08/hina-battery-scales-korean-sodium-ion-partnership-from-15-mwh-to-10-gwh/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-08T11:44:56+00:00"
-  },
-  "4b58e631013e": {
-    "id": "4b58e631013e",
-    "title_en": "North Macedonia’s BESS market begins to develop",
-    "title_zh": "北马其顿的BESS市场开始发展",
-    "url": "https://www.pv-magazine.com/2026/09/08/north-macedonias-bess-market-begins-to-develop/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-08T11:15:04+00:00"
-  },
-  "fa405105ecbc": {
-    "id": "fa405105ecbc",
-    "title_en": "PJM targets data centre demand with 6GW backstop auction; BESS expected to have competitive edge",
-    "title_zh": "PJM通过6GW后备拍卖瞄准数据中心需求；BESS有望具有竞争优势",
-    "url": "https://www.energy-storage.news/pjm-targets-data-centre-demand-with-6gw-backstop-auction-bess-expected-to-have-competitive-edge/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-08T11:01:36+00:00"
-  },
-  "639f4dff5b0d": {
-    "id": "639f4dff5b0d",
-    "title_en": "Vitol CEO: Global Fuel Markets Are \"Tight and Inflexible\"",
-    "title_zh": "维多首席执行官：全球燃料市场“紧缩且不灵活”",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Vitol-CEO-Global-Fuel-Markets-Are-Pretty-Tight-and-Inflexible.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-08T11:00:00+00:00"
-  },
-  "0a093afe7c4e": {
-    "id": "0a093afe7c4e",
-    "title_en": "Qualitas Energy buys Cero Generation’s 5.8GW European renewables business",
-    "title_zh": "Qualitas Energy收购Cero Generation的5.8GW欧洲可再生能源业务",
-    "url": "https://www.pv-tech.org/qualitas-energy-buys-cero-generations-5-8gw-european-renewables-business/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-08T10:53:21+00:00"
-  },
-  "f4dd1fe3e09a": {
-    "id": "f4dd1fe3e09a",
-    "title_en": "Solarworld Energy, Rays Power form JV for 2.4GW solar cell plant",
-    "title_zh": "Solarworld Energy与Rays Power组建合资企业，建设2.4GW太阳能电池厂",
-    "url": "https://www.pv-tech.org/solarworld-energy-rays-power-form-jv-for-2-4gw-solar-cell-plant/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-08T10:51:20+00:00"
-  },
-  "0e1ba3cc8434": {
-    "id": "0e1ba3cc8434",
-    "title_en": "‘It looks like there could be an undersupply of the highest efficiency’",
-    "title_zh": "“看起来最高效率的产品可能供应不足”",
-    "url": "https://www.pv-magazine.com/2026/09/08/it-looks-like-there-could-be-an-undersupply-of-the-highest-efficiency/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-08T10:45:15+00:00"
   }
 }
