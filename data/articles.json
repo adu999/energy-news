@@ -1,4 +1,22 @@
 {
+  "57ab213ebbf0": {
+    "id": "57ab213ebbf0",
+    "title_en": "Saudi Pipeline Outage Hits an Oil Market Running Out of Buffers",
+    "title_zh": "沙特管道停运导致石油市场缓冲不足",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Hits-an-Oil-Market-Running-Out-of-Buffers.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-16T00:00:00+00:00"
+  },
+  "de300b442ca9": {
+    "id": "de300b442ca9",
+    "title_en": "Volvo Upgrades the XC60 & XC90 Plug-in Hybrids with Significantly More Fully Electric Range",
+    "title_zh": "沃尔沃升级XC60和XC90插电式混合动力车，使其全电动续航里程显著增加",
+    "url": "https://cleantechnica.com/2026/09/15/volvo-upgrades-the-xc60-xc90-plug-in-hybrids-with-significantly-more-fully-electric-range/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-15T23:39:03+00:00"
+  },
   "f2c0342cbb5d": {
     "id": "f2c0342cbb5d",
     "title_en": "Over 110 Groups to Congress: Don’t Criminalize Protest in Pipeline Safety Bill",
@@ -4480,23 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-09-09T13:28:57+00:00"
-  },
-  "77526c3fd6eb": {
-    "id": "77526c3fd6eb",
-    "title_en": "New electrode design increases battery energy density by up to 15%",
-    "title_zh": "新的电极设计将电池能量密度提高了15%",
-    "url": "https://www.pv-magazine.com/2026/09/09/new-electrode-design-increases-battery-energy-density-by-up-to-15/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-09T12:58:38+00:00"
-  },
-  "82267311dd82": {
-    "id": "82267311dd82",
-    "title_en": "Morgan Stanley: Oil Traders Are ‘More Precise’ With Risk as Wars Drag On",
-    "title_zh": "摩根士丹利：随着战争的拖延，石油交易员对风险“更加精确”",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Oil-Traders-Are-More-Precise-With-Risk-as-Wars-Drag-On.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-09T12:30:00+00:00"
   }
 }
