@@ -1,4 +1,58 @@
 {
+  "8dabc367ed4a": {
+    "id": "8dabc367ed4a",
+    "title_en": "Building Waymo’s Risk & Insurance Foundation in Europe with Allianz Partners",
+    "title_zh": "与安联合作伙伴在欧洲建立Waymo的风险和保险基金会",
+    "url": "https://cleantechnica.com/2026/09/16/building-waymos-risk-insurance-foundation-in-europe-with-allianz-partners/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-17T03:40:49+00:00"
+  },
+  "1949888ac42a": {
+    "id": "1949888ac42a",
+    "title_en": "Trump Administration Further Guts Endangered Species Act Implementation With Two New Rules",
+    "title_zh": "特朗普政府通过两项新规定进一步实施《濒危物种法》",
+    "url": "https://cleantechnica.com/2026/09/16/trump-administration-further-guts-endangered-species-act-implementation-with-two-new-rules-2/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-17T02:39:49+00:00"
+  },
+  "82ccf421ef0a": {
+    "id": "82ccf421ef0a",
+    "title_en": "Sierra Club Strongly Opposes Bill to Give Legal Immunity to Fossil Fuel Companies",
+    "title_zh": "塞拉俱乐部强烈反对给予化石燃料公司法律豁免权的法案",
+    "url": "https://cleantechnica.com/2026/09/16/sierra-club-strongly-opposes-bill-to-give-legal-immunity-to-fossil-fuel-companies/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-17T02:18:39+00:00"
+  },
+  "fc52acd45c87": {
+    "id": "fc52acd45c87",
+    "title_en": "Solar Energy Industries Association to Combine with Coalition for Community Solar Access, Strengthening Advocacy for Entire Solar & Storage Industry Across the Country",
+    "title_zh": "太阳能行业协会将与社区太阳能接入联盟联合，加强全国太阳能和储能行业的宣传",
+    "url": "https://cleantechnica.com/2026/09/16/solar-energy-industries-association-to-combine-with-coalition-for-community-solar-access-strengthening-advocacy-for-entire-solar-storage-industry-across-the-country/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-17T02:11:49+00:00"
+  },
+  "169a641597fa": {
+    "id": "169a641597fa",
+    "title_en": "Reckless Expansion Plans Blow Past European Airports Carbon Limits",
+    "title_zh": "鲁莽的扩建计划突破了欧洲机场的碳排放限制",
+    "url": "https://cleantechnica.com/2026/09/16/reckless-expansion-plans-blow-past-european-airports-carbon-limits/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-17T01:23:43+00:00"
+  },
+  "d8efcc91c295": {
+    "id": "d8efcc91c295",
+    "title_en": "StanChart Sees Higher Oil Floor as Hormuz Crisis Spreads to Saudi Export Routes",
+    "title_zh": "渣打银行认为，随着霍尔木兹危机蔓延到沙特出口路线，油价底部将更高",
+    "url": "https://oilprice.com/Energy/Crude-Oil/StanChart-Sees-Higher-Oil-Floor-as-Hormuz-Crisis-Spreads-to-Saudi-Export-Routes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-17T00:00:00+00:00"
+  },
   "e582d44d3a15": {
     "id": "e582d44d3a15",
     "title_en": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
@@ -4444,59 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-10T14:00:00+00:00"
-  },
-  "a01e240bd963": {
-    "id": "a01e240bd963",
-    "title_en": "Russia Strikes Moldova Border as Ukraine Hits Black Sea Port",
-    "title_zh": "俄罗斯袭击摩尔多瓦边境，乌克兰袭击黑海港口",
-    "url": "https://oilprice.com/Geopolitics/Europe/Russia-Strikes-Moldova-Border-as-Ukraine-Hits-Black-Sea-Port.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-10T14:00:00+00:00"
-  },
-  "42b60d213e25": {
-    "id": "42b60d213e25",
-    "title_en": "What the 2026 ETS Review Means for Transport",
-    "title_zh": "2026年ETS审查对交通意味着什么",
-    "url": "https://cleantechnica.com/2026/09/10/what-the-2026-ets-review-means-for-transport/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-10T13:52:05+00:00"
-  },
-  "a4ed2e84b2d8": {
-    "id": "a4ed2e84b2d8",
-    "title_en": "HSBC Raises 2026 Brent Forecast to $90 as Hormuz Crisis Drags On",
-    "title_zh": "随着霍尔木兹危机的持续，汇丰银行将2026年布伦特原油预测上调至90美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/HSBC-Raises-2026-Brent-Forecast-to-90-as-Hormuz-Crisis-Drags-On.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-10T13:30:00+00:00"
-  },
-  "4eac1aa9e833": {
-    "id": "4eac1aa9e833",
-    "title_en": "SOL Components issued patent for mounting rail used on solar trackers",
-    "title_zh": "SOL Components为太阳能跟踪器上使用的安装轨道颁发了专利",
-    "url": "https://www.solarpowerworldonline.com/2026/09/sol-components-issued-patent-for-mounting-rail-used-on-solar-trackers/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-10T13:10:09+00:00"
-  },
-  "50193905a788": {
-    "id": "50193905a788",
-    "title_en": "Nanrobot LS7+ review: This 70 mph electric scooter is absolutely insane",
-    "title_zh": "Nanrobot LS7+评测：这款时速70英里的电动滑板车简直疯了",
-    "url": "https://electrek.co/2026/09/10/nanrobot-ls7-review-this-70-mph-electric-scooter-is-absolutely-insane/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-10T13:01:20+00:00"
-  },
-  "f1bc2f6c2d0b": {
-    "id": "f1bc2f6c2d0b",
-    "title_en": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
-    "title_zh": "客座文章：从夏季到秋季和春季，极端高温是如何“蔓延”的",
-    "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-09-10T13:00:00+00:00"
   }
 }
