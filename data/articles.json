@@ -1,4 +1,94 @@
 {
+  "3609c0f1964a": {
+    "id": "3609c0f1964a",
+    "title_en": "Discounts on Kia EV9 Give It Ridiculous Price",
+    "title_zh": "起亚EV9的折扣使其价格荒谬",
+    "url": "https://cleantechnica.com/2026/09/17/discounts-on-kia-ev9-give-it-ridiculous-price/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-18T03:24:10+00:00"
+  },
+  "cc90fd73e5fe": {
+    "id": "cc90fd73e5fe",
+    "title_en": "Driven to Serve: How Taylor Searcy Turned Navy Service into Clean Energy Strategy at GM",
+    "title_zh": "驱动服务：Taylor Seancy如何将海军服务转变为通用汽车的清洁能源战略",
+    "url": "https://cleantechnica.com/2026/09/17/driven-to-serve-how-taylor-searcy-turned-navy-service-into-clean-energy-strategy-at-gm/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-18T02:41:07+00:00"
+  },
+  "e95a434199d8": {
+    "id": "e95a434199d8",
+    "title_en": "The Bronx will be breathing a little easier with new Volvo VNR Electric [update]",
+    "title_zh": "新款沃尔沃VNR Electric将使布朗克斯区的呼吸更轻松[更新]",
+    "url": "https://electrek.co/2026/09/17/the-bronx-will-be-breathing-a-little-easier-with-new-volvo-vnr-electric/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-18T01:00:00+00:00"
+  },
+  "2fee1102637e": {
+    "id": "2fee1102637e",
+    "title_en": "ReFuelEU’s First Year Shows the Mandate Works",
+    "title_zh": "ReFuelEU的第一年表明授权有效",
+    "url": "https://cleantechnica.com/2026/09/17/refueleus-first-year-shows-the-mandate-works/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-18T00:40:03+00:00"
+  },
+  "77f9f1f4e617": {
+    "id": "77f9f1f4e617",
+    "title_en": "BYD Planning 4 Factories in Europe",
+    "title_zh": "比亚迪计划在欧洲设立4家工厂",
+    "url": "https://cleantechnica.com/2026/09/17/byd-planning-4-factories-in-europe/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-18T00:28:37+00:00"
+  },
+  "db99d8a7603d": {
+    "id": "db99d8a7603d",
+    "title_en": "Australia’s NSW firming tender delivers 3GWh of battery storage as all Round 2 projects go operational",
+    "title_zh": "澳大利亚新南威尔士州的确定招标提供了3GWh的电池储能，因为所有第二轮项目都投入运行",
+    "url": "https://www.energy-storage.news/australias-nsw-firming-tender-delivers-3gwh-of-battery-storage-as-all-round-2-projects-go-operational/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-18T00:25:42+00:00"
+  },
+  "f37c0c73dd24": {
+    "id": "f37c0c73dd24",
+    "title_en": "Anza Power acquires 205MWac construction-ready solar plants from Helios Energy in New Zealand",
+    "title_zh": "Anza Power从新西兰的Helios Energy收购了205MWac的可施工太阳能发电厂",
+    "url": "https://www.pv-tech.org/anza-power-acquires-205mwac-construction-ready-solar-plants-from-helios-energy-in-new-zealand/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T00:20:28+00:00"
+  },
+  "57699cf16709": {
+    "id": "57699cf16709",
+    "title_en": "What Yemen Really Means to the U.S.-Iran War",
+    "title_zh": "也门对美伊战争的真正意义",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/What-Yemen-Really-Means-to-the-US-Iran-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T00:00:00+00:00"
+  },
+  "f779509d0de5": {
+    "id": "f779509d0de5",
+    "title_en": "Saudi Pipeline Outage Could Deepen the Global Fuel Crunch",
+    "title_zh": "沙特管道停运可能加剧全球燃料危机",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Outage-Could-Deepen-the-Global-Fuel-Crunch.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-17T23:00:00+00:00"
+  },
+  "80301f192c04": {
+    "id": "80301f192c04",
+    "title_en": "Turkey Bets $108 Billion on Wind and Solar While Expanding Oil and Gas",
+    "title_zh": "土耳其投资1080亿美元发展风能和太阳能，同时扩大石油和天然气",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Turkey-Bets-108-Billion-on-Wind-and-Solar-While-Expanding-Oil-and-Gas.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-17T22:00:00+00:00"
+  },
   "f6367a36a8ec": {
     "id": "f6367a36a8ec",
     "title_en": "Inside the DOE's $16 Million Bet on Critical Minerals Talent",
@@ -6,6 +96,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/Inside-the-DOEs-16-Million-Bet-on-Critical-Minerals-Talent.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-09-17T21:00:00+00:00"
+  },
+  "3e6ed6448dd0": {
+    "id": "3e6ed6448dd0",
+    "title_en": "Mazama Energy raises $135M for superhot geothermal at Oregon volcano",
+    "title_zh": "Mazama Energy为俄勒冈州火山的超高温地热项目融资1.35亿美元",
+    "url": "https://www.canarymedia.com/articles/geothermal/mazama-energy-raises-135m-oregon-geothermal",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-09-17T21:00:00+00:00"
   },
   "75f493b428ff": {
@@ -4399,104 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-09-11T12:48:14+00:00"
-  },
-  "5f5b24151e38": {
-    "id": "5f5b24151e38",
-    "title_en": "Geely TT launches at $19,100 — half the price of a Tesla",
-    "title_zh": "吉利TT以19100美元的价格推出，是特斯拉价格的一半",
-    "url": "https://electrek.co/2026/09/11/geely-tt-electric-sedan-launch-price-xiaomi-su7/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-11T12:40:51+00:00"
-  },
-  "8a64c719aaee": {
-    "id": "8a64c719aaee",
-    "title_en": "Lebanon issues new provisions for solar up to 1.5 MW",
-    "title_zh": "黎巴嫩发布1.5兆瓦太阳能新规定",
-    "url": "https://www.pv-magazine.com/2026/09/11/lebanon-issues-new-provisions-for-solar-up-to-1-5-mw/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T12:32:12+00:00"
-  },
-  "04572c81cd3b": {
-    "id": "04572c81cd3b",
-    "title_en": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat",
-    "title_zh": "沙特石油路线受到威胁，胡塞武装在曼德卜推进",
-    "url": "https://oilprice.com/Energy/Energy-General/Houthis-Advance-on-Bab-al-Mandeb-as-Saudi-Oil-Route-Comes-Under-Threat.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T12:30:00+00:00"
-  },
-  "e04c31e249dd": {
-    "id": "e04c31e249dd",
-    "title_en": "Vostok Oil: One Tanker, Four Trillion Rubles",
-    "title_zh": "沃斯托克石油：一艘油轮，四万亿卢布",
-    "url": "https://oilprice.com/Energy/Energy-General/Vostok-Oil-One-Tanker-Four-Trillion-Rubles.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T12:30:00+00:00"
-  },
-  "6bbee25ad28c": {
-    "id": "6bbee25ad28c",
-    "title_en": "WTI Breaks $100 as Middle East Supply Crisis Deepens",
-    "title_zh": "随着中东供应危机的加剧，WTI突破100美元",
-    "url": "https://oilprice.com/Energy/Energy-General/WTI-Breaks-100-as-Middle-East-Supply-Crisis-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T12:30:00+00:00"
-  },
-  "97df52288787": {
-    "id": "97df52288787",
-    "title_en": "Energy Aspects: Oil Market Has Reached an \"Inflection Point\"",
-    "title_zh": "能源方面：石油市场已达到“拐点”",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Energy-Aspects-Oil-Market-Has-Reached-an-Inflection-Point.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T12:30:00+00:00"
-  },
-  "f0401c66c2a7": {
-    "id": "f0401c66c2a7",
-    "title_en": "Gennaker Offshore Wind Farm Reaches Financial Close",
-    "title_zh": "Gennaker海上风电场完成融资",
-    "url": "https://offshorewind.biz/2026/09/11/gennaker-offshore-wind-farm-reaches-financial-close",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-11T12:21:12+00:00"
-  },
-  "063409a69d6c": {
-    "id": "063409a69d6c",
-    "title_en": "Enel buys 625MW US solar portfolio from Excelsior Energy Capital",
-    "title_zh": "Enel从Excelsior Energy Capital收购625MW美国太阳能投资组合",
-    "url": "https://www.pv-tech.org/enel-buys-625mw-us-solar-portfolio-from-excelsior-energy-capital/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T12:10:09+00:00"
-  },
-  "22781dc89dd6": {
-    "id": "22781dc89dd6",
-    "title_en": "Tips from China's 56-month nuclear construction schedule",
-    "title_zh": "中国56个月核电建设进度提示",
-    "url": "https://www.world-nuclear-news.org/articles/tips-from-china-for-56-month-nuclear-construction-schedule",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-09-11T11:57:11+00:00"
-  },
-  "786a0fb5f457": {
-    "id": "786a0fb5f457",
-    "title_en": "Array Technologies triples its U.S. manufacturing footprint",
-    "title_zh": "Array Technologies将其在美国的制造足迹扩大了两倍",
-    "url": "https://www.pv-magazine.com/2026/09/11/array-technologies-triples-its-u-s-manufacturing-footprint/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T11:37:33+00:00"
-  },
-  "d7a773af8c2a": {
-    "id": "d7a773af8c2a",
-    "title_en": "Solarize Africa: The case of Madagascar",
-    "title_zh": "非洲太阳能化：马达加斯加案例",
-    "url": "https://www.pv-magazine.com/2026/09/11/solarize-africa-the-case-of-madagascar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T11:33:47+00:00"
   }
 }
