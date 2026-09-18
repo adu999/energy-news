@@ -1,4 +1,157 @@
 {
+  "ab6d2f8f2cb5": {
+    "id": "ab6d2f8f2cb5",
+    "title_en": "Podcast: Tesla Roadster gets a date, VW XL1 comes back electric, BYD’s new Tesla fighter, and more",
+    "title_zh": "播客：特斯拉跑车获得日期，大众XL1回归电动，比亚迪的新特斯拉战斗机等等",
+    "url": "https://electrek.co/2026/09/18/podcast-tesla-roadster-gets-a-date-vw-xl1-comes-back-electric-byds-new-tesla-fighter-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-18T19:36:33+00:00"
+  },
+  "0380f02dbc67": {
+    "id": "0380f02dbc67",
+    "title_en": "Want to get off gas? Learn how at Drive Electric Month events across the US",
+    "title_zh": "想停止加油吗？了解美国各地的Drive Electric Month活动",
+    "url": "https://electrek.co/2026/09/18/learn-how-to-save-money-on-gas-at-us-drive-electric-month-events-all-month/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-18T19:00:00+00:00"
+  },
+  "8e243df539e0": {
+    "id": "8e243df539e0",
+    "title_en": "Trump's EPA decimated climate rules for power plants. What now?",
+    "title_zh": "特朗普的环保局摧毁了发电厂的气候规则。现在怎么办？",
+    "url": "https://www.canarymedia.com/articles/emissions-reduction/trumps-epa-gut-climate-rules-power-plants-what-now",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-18T19:00:00+00:00"
+  },
+  "9b18cbe2aae3": {
+    "id": "9b18cbe2aae3",
+    "title_en": "Hyundai warns the US may be next in line for a wave of cheaper Chinese EVs",
+    "title_zh": "现代汽车警告称，美国可能是中国电动汽车降价浪潮的下一个目标",
+    "url": "https://electrek.co/2026/09/18/hyundai-warns-us-wave-cheaper-chinese-evs/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-18T18:10:04+00:00"
+  },
+  "b9c2c3ea4bbc": {
+    "id": "b9c2c3ea4bbc",
+    "title_en": "Anker SOLIX E10 system sale starts from exclusive $3,799 low, Heybike ALPHA mid-drive e-bike $1,099 low, EcoFlow, more",
+    "title_zh": "Anker SOLIX E10系统起价独家低3799美元，Heybike ALPHA中驱电动自行车低1099美元，EcoFlow，更多",
+    "url": "https://electrek.co/2026/09/18/anker-solix-e10-system-exclusive-heybike-alpha-mid-drive-e-bike-ecoflow-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-18T18:00:00+00:00"
+  },
+  "3753ab08d054": {
+    "id": "3753ab08d054",
+    "title_en": "Kazakhstan Turns to Russian Gas as Domestic Demand Surges",
+    "title_zh": "随着国内需求激增，哈萨克斯坦转向俄罗斯天然气",
+    "url": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Turns-to-Russian-Gas-as-Domestic-Demand-Surges.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T18:00:00+00:00"
+  },
+  "65da27c4874f": {
+    "id": "65da27c4874f",
+    "title_en": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
+    "title_zh": "随着海湾出口激增，沙特阿拉伯切断了欧洲10月原油供应",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T17:30:00+00:00"
+  },
+  "136b95ceaac7": {
+    "id": "136b95ceaac7",
+    "title_en": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
+    "title_zh": "美国石油和天然气钻井平台数量因价格强劲而下降",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Rig-Count-Creeps-Up-With-Strong-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T17:18:56+00:00"
+  },
+  "03ea65ab6a59": {
+    "id": "03ea65ab6a59",
+    "title_en": "The Overlooked Renewable Energy Resource: Why Construction Waste Should Be Part of America’s Energy Strategy",
+    "title_zh": "被忽视的可再生能源：为什么建筑垃圾应该成为美国能源战略的一部分",
+    "url": "https://www.powermag.com/the-overlooked-renewable-energy-resource-why-construction-waste-should-be-part-of-americas-energy-strategy/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-09-18T17:16:13+00:00"
+  },
+  "77d58611fd8d": {
+    "id": "77d58611fd8d",
+    "title_en": "Beyond the Grease Gun: Turning Lubrication Into a Strategic Reliability Advantage",
+    "title_zh": "超越油枪：将润滑转化为战略可靠性优势",
+    "url": "https://www.powermag.com/beyond-the-grease-gun-turning-lubrication-into-a-strategic-reliability-advantage/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-09-18T17:02:52+00:00"
+  },
+  "30700ec4a20b": {
+    "id": "30700ec4a20b",
+    "title_en": "Low-Carbon Bank Financing Tops $1 Trillion, Nears Fossil Fuels",
+    "title_zh": "低碳银行融资超过1万亿美元，接近化石燃料",
+    "url": "https://about.bnef.com/insights/clean-energy/low-carbon-bank-financing-tops-1-trillion-nears-fossil-fuels/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-09-18T16:47:57+00:00"
+  },
+  "52c3279da9b6": {
+    "id": "52c3279da9b6",
+    "title_en": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
+    "title_zh": "TotalEnergies和贝莱德签署18亿美元收购非洲石油和天然气资产的协议",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-and-BlackRock-Sign-18B-Deal-for-African-Oil-and-Gas-Assets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T16:30:00+00:00"
+  },
+  "70174c31a848": {
+    "id": "70174c31a848",
+    "title_en": "Driving the Hydrogen Economy:  How a Custom Non-Return Valve Advances  Fuel Cell Development in Material Handling",
+    "title_zh": "推动氢经济：定制止回阀如何推动燃料电池在物料搬运方面的发展",
+    "url": "https://www.powermag.com/driving-the-hydrogen-economy-how-a-custom-non-return-valve-advances-fuel-cell-development-in-material-handling/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-09-18T16:22:36+00:00"
+  },
+  "deccc916f8fb": {
+    "id": "deccc916f8fb",
+    "title_en": "BMW begins iX3 deliveries early in the US as demand surges",
+    "title_zh": "随着需求激增，宝马在美国提前开始交付iX3",
+    "url": "https://electrek.co/2026/09/18/bmw-begins-ix3-deliveries-early-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-18T16:19:42+00:00"
+  },
+  "0b97195bed8a": {
+    "id": "0b97195bed8a",
+    "title_en": "Saudi Export Pivot Sends Brent Below $105",
+    "title_zh": "沙特出口转向导致布伦特原油跌破105美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Export-Pivot-Sends-Brent-Below-105.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T16:15:00+00:00"
+  },
+  "b2ebe0fb0aaf": {
+    "id": "b2ebe0fb0aaf",
+    "title_en": "Texas records suggest OCI is bringing Elite Solar to Mission Solar Energy manufacturing site",
+    "title_zh": "德克萨斯州的记录显示，OCI将Elite Solar带到Mission太阳能制造厂",
+    "url": "https://www.solarpowerworldonline.com/2026/09/texas-records-suggest-oci-is-bringing-elite-solar-to-mission-solar-energy-manufacturing-site/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T16:03:04+00:00"
+  },
+  "db4bd10f12b5": {
+    "id": "db4bd10f12b5",
+    "title_en": "Russia’s $118 Billion Arctic Oil Bet Pushes Ahead Despite Sanctions",
+    "title_zh": "俄罗斯1180亿美元的北极石油投资不顾制裁继续推进",
+    "url": "https://oilprice.com/Energy/Energy-General/Russias-118-Billion-Arctic-Oil-Bet-Pushes-Ahead-Despite-Sanctions.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T16:00:00+00:00"
+  },
   "fa63983d9ee1": {
     "id": "fa63983d9ee1",
     "title_en": "XPeng shops its self-driving tech to automakers — Tesla found no takers",
@@ -16,6 +169,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-18T15:30:00+00:00"
+  },
+  "78e0620510c9": {
+    "id": "78e0620510c9",
+    "title_en": "Major US offshore wind farm installs its last turbine",
+    "title_zh": "美国主要海上风电场安装了最后一台涡轮机",
+    "url": "https://www.canarymedia.com/articles/offshore-wind/revolution-installs-last-turbine-despite-trump",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-18T15:23:00+00:00"
   },
   "60b294b0b8a9": {
     "id": "60b294b0b8a9",
@@ -133,6 +295,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-18T13:00:00+00:00"
+  },
+  "3e98ac9f9971": {
+    "id": "3e98ac9f9971",
+    "title_en": "Hitachi to double US production of small and medium-sized power transformers",
+    "title_zh": "日立将美国中小型电力变压器产量翻一番",
+    "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-18T12:42:36+00:00"
   },
   "cd7959a16958": {
     "id": "cd7959a16958",
@@ -2573,6 +2744,15 @@
     "category": "EV",
     "pub_ts": "2026-09-15T17:49:45+00:00"
   },
+  "512081689b9b": {
+    "id": "512081689b9b",
+    "title_en": "Japan’s Energy Transition Enters New Phase Shaped by Rising Electricity Demand and Energy Security Needs per BloombergNEF’s New Energy Outlook 2026",
+    "title_zh": "根据BloombergNEF的《2026年新能源展望》，日本的能源转型进入了由电力需求和能源安全需求上升所塑造的新阶段",
+    "url": "https://about.bnef.com/insights/clean-energy/japans-energy-transition-enters-new-phase-shaped-by-rising-electricity-demand-and-energy-security-needs-per-bloombergnefs-new-energy-outlook-2026-japan/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-09-15T17:30:54+00:00"
+  },
   "c24fc52c9f18": {
     "id": "c24fc52c9f18",
     "title_en": "US Energy Secretary: Saudi Pipeline Could Be Back in Service Within Days",
@@ -4318,185 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-12T23:00:00+00:00"
-  },
-  "f7f87bde0a83": {
-    "id": "f7f87bde0a83",
-    "title_en": "IFA Berlin Recap Part 2: More Diverse Sustainability Approaches",
-    "title_zh": "IFA柏林回顾第二部分：更多样化的可持续发展方法",
-    "url": "https://cleantechnica.com/2026/09/12/ifa-berlin-recap-part-2-more-diverse-sustainability-approaches/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T21:16:36+00:00"
-  },
-  "604975a98a8f": {
-    "id": "604975a98a8f",
-    "title_en": "Stolen Electricity is Powering Illegal Crypto Farms Across the Globe",
-    "title_zh": "被盗电力为全球非法加密货币农场供电",
-    "url": "https://oilprice.com/Energy/Energy-General/Stolen-Electricity-is-Powering-Illegal-Crypto-Farms-Across-the-Globe.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-12T21:00:00+00:00"
-  },
-  "050903c8bc81": {
-    "id": "050903c8bc81",
-    "title_en": "US District Court Strips Away Insane JH Campbell Fake Emergency Order",
-    "title_zh": "美国地方法院剥夺了疯狂的JH Campbell虚假紧急令",
-    "url": "https://cleantechnica.com/2026/09/12/us-district-court-strips-away-insane-jh-campbell-fake-emergency-order/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T19:41:36+00:00"
-  },
-  "0e6220b100aa": {
-    "id": "0e6220b100aa",
-    "title_en": "Tesla teases new Roadster reveal for October 1: ‘Go for launch’",
-    "title_zh": "特斯拉将于10月1日发布新款Roadster：“开始发布”",
-    "url": "https://electrek.co/2026/09/12/tesla-roadster-october-1-reveal-teaser/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-12T19:15:44+00:00"
-  },
-  "f5f014e6a32b": {
-    "id": "f5f014e6a32b",
-    "title_en": "The Race to Solve Nuclear Energy’s Biggest Problem",
-    "title_zh": "解决核能最大问题的竞赛",
-    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Solve-Nuclear-Energys-Biggest-Problem.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-12T19:00:00+00:00"
-  },
-  "e1cd7a43025c": {
-    "id": "e1cd7a43025c",
-    "title_en": "Last year, BYD bought the world’s largest car carrier – they just ordered 10 more",
-    "title_zh": "去年，比亚迪收购了世界上最大的汽车运输公司——他们刚刚又订购了10辆",
-    "url": "https://electrek.co/2026/09/12/last-year-byd-bought-the-worlds-largest-car-carrier-they-just-ordered-10-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-12T17:07:36+00:00"
-  },
-  "9db5c72e27e0": {
-    "id": "9db5c72e27e0",
-    "title_en": "Iran’s Security Crackdown Runs Into Resistance From Within",
-    "title_zh": "伊朗的安全镇压遭遇内部阻力",
-    "url": "https://oilprice.com/Energy/Energy-General/Irans-Security-Crackdown-Runs-Into-Resistance-From-Within.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-12T17:00:00+00:00"
-  },
-  "3aef841f8524": {
-    "id": "3aef841f8524",
-    "title_en": "E-quipment highlight: wreck stuff anywhere with CASE TL100EV [video]",
-    "title_zh": "电子设备亮点：CASE TL100EV可在任何地方销毁物品[视频]",
-    "url": "https://electrek.co/2026/09/12/e-quipment-highlight-wreck-stuff-anywhere-with-case-tl100ev-video/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-12T15:46:32+00:00"
-  },
-  "e3c414ecbcec": {
-    "id": "e3c414ecbcec",
-    "title_en": "Integrating Starlink LEO Infrastructure with Zimbabwe’s Terrestrial Fibre Networks",
-    "title_zh": "将Starlink LEO基础设施与津巴布韦的地面光纤网络集成",
-    "url": "https://cleantechnica.com/2026/09/12/integrating-starlink-leo-infrastructure-with-zimbabwes-terrestrial-fibre-networks/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T15:23:13+00:00"
-  },
-  "44e511e3f235": {
-    "id": "44e511e3f235",
-    "title_en": "Why More Homes Are Switching From Gas to Heat Pumps",
-    "title_zh": "为什么越来越多的家庭从燃气转向热泵",
-    "url": "https://oilprice.com/Energy/Energy-General/Why-More-Homes-Are-Switching-From-Gas-to-Heat-Pumps.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-12T15:00:00+00:00"
-  },
-  "0ec15e292a35": {
-    "id": "0ec15e292a35",
-    "title_en": "This 2,000W electric scooter hits 34 mph – and Electrek readers save 5%",
-    "title_zh": "这款2000W的电动滑板车时速可达34英里，Electrek阅读器可节省5%",
-    "url": "https://electrek.co/2026/09/12/this-2000w-electric-scooter-hits-34-mph-and-electrek-readers-save-5/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-12T15:00:00+00:00"
-  },
-  "bf529ea1a720": {
-    "id": "bf529ea1a720",
-    "title_en": "New fleet of battery electric trains promises faster, more reliable UK travel",
-    "title_zh": "新的电池电动列车车队有望实现更快、更可靠的英国旅行",
-    "url": "https://electrek.co/2026/09/12/new-fleet-of-battery-electric-trains-promises-faster-more-reliable-uk-travel/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-12T14:50:51+00:00"
-  },
-  "05b5cb2caeae": {
-    "id": "05b5cb2caeae",
-    "title_en": "Electric cars and solar are the hedge against this out-of-control energy crisis",
-    "title_zh": "电动汽车和太阳能是应对这场失控的能源危机的保障",
-    "url": "https://electrek.co/2026/09/12/evs-solar-v2h-hedge-energy-crisis/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-12T14:17:32+00:00"
-  },
-  "3d7edb30d161": {
-    "id": "3d7edb30d161",
-    "title_en": "Dense-Fluid Pumped Hydro Works. Scaling It Is The Problem.",
-    "title_zh": "稠密流体泵送水力发电厂。缩放是问题所在。",
-    "url": "https://cleantechnica.com/2026/09/12/dense-fluid-pumped-hydro-duration-scaling/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T13:32:45+00:00"
-  },
-  "71af4c02168e": {
-    "id": "71af4c02168e",
-    "title_en": "VinFast PH Opens More Dealers Nearing 60 Dealer Total Before Year Ends",
-    "title_zh": "VinFast PH在年底前开设了更多经销商，经销商总数接近60家",
-    "url": "https://cleantechnica.com/2026/09/12/vinfast-ph-opens-more-dealers-nearing-60-dealer-total-before-year-ends/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T11:49:43+00:00"
-  },
-  "f291eacf4194": {
-    "id": "f291eacf4194",
-    "title_en": "Philippine University-Developed Electric Tricycles Ready for Commercial Production",
-    "title_zh": "菲律宾大学开发出可投入商业生产的电动三轮车",
-    "url": "https://cleantechnica.com/2026/09/12/philippine-university-developed-electric-tricycles-ready-for-commercial-production/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T10:13:45+00:00"
-  },
-  "7857fa211f41": {
-    "id": "7857fa211f41",
-    "title_en": "CarbonPH Coalition Charts Roadmap for Philippine Forest Carbon in ASEAN",
-    "title_zh": "CarbonPH联盟制定东盟菲律宾森林碳路线图",
-    "url": "https://cleantechnica.com/2026/09/12/carbonph-coalition-charts-roadmap-for-philippine-forest-carbon-in-asean/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T09:56:29+00:00"
-  },
-  "2d7a4666e0a2": {
-    "id": "2d7a4666e0a2",
-    "title_en": "MG Motors Philippines Launches New EV",
-    "title_zh": "MG Motors菲律宾推出新款电动汽车",
-    "url": "https://cleantechnica.com/2026/09/12/mg-motors-philippines-launches-new-ev/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-12T09:40:06+00:00"
-  },
-  "08a1e2f5ff18": {
-    "id": "08a1e2f5ff18",
-    "title_en": "The race for space solar",
-    "title_zh": "太空太阳能竞赛",
-    "url": "https://www.pv-magazine.com/2026/09/12/the-race-for-space-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-12T09:00:00+00:00"
-  },
-  "9c3105ce1fb9": {
-    "id": "9c3105ce1fb9",
-    "title_en": "U.S. DOE seeks ‘mass, radiation tolerance, and durability’ in space solar cell manufacturing",
-    "title_zh": "美国能源部寻求太空太阳能电池制造的“质量、辐射耐受性和耐用性”",
-    "url": "https://www.pv-magazine.com/2026/09/12/doe-seeks-mass-radiation-tolerance-and-durability-in-space-solar-cell-manufacturing/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-12T08:30:00+00:00"
   }
 }
