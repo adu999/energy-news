@@ -1,4 +1,229 @@
 {
+  "64b0a30d438c": {
+    "id": "64b0a30d438c",
+    "title_en": "Italian inverter manufacturer Santerno set to resume production",
+    "title_zh": "意大利逆变器制造商Santerno将恢复生产",
+    "url": "https://www.pv-magazine.com/2026/09/18/italian-inverter-manufacturer-santerno-set-to-resume-production/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T10:36:34+00:00"
+  },
+  "21d37ac4f4b9": {
+    "id": "21d37ac4f4b9",
+    "title_en": "India’s Clean Energy Boom Halts Coal Power Growth",
+    "title_zh": "印度清洁能源热潮阻碍煤电增长",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Clean-Energy-Boom-Halts-Coal-Power-Growth.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T10:30:00+00:00"
+  },
+  "b66bb8859288": {
+    "id": "b66bb8859288",
+    "title_en": "Actis creates Mexican renewables platform targeting 2GW portfolio",
+    "title_zh": "Actis创建了针对2GW投资组合的墨西哥可再生能源平台",
+    "url": "https://www.pv-tech.org/actis-creates-mexican-renewables-platform-targeting-2gw-portfolio/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T10:22:55+00:00"
+  },
+  "648fd6c2635c": {
+    "id": "648fd6c2635c",
+    "title_en": "Germany’s 960 MW He Dreiht Offshore Wind Farm Inaugurated",
+    "title_zh": "德国960兆瓦He Dreiht海上风电场落成",
+    "url": "https://offshorewind.biz/2026/09/18/germanys-960-mw-he-dreiht-offshore-wind-farm-inaugurated",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-18T10:20:44+00:00"
+  },
+  "2c9a9a7ba66e": {
+    "id": "2c9a9a7ba66e",
+    "title_en": "Grew Solar, Caelux to produce perovskite-silicon tandem modules in India",
+    "title_zh": "Grew Solar和Caelux将在印度生产钙钛矿硅叠层组件",
+    "url": "https://www.pv-magazine.com/2026/09/18/grew-solar-caelux-to-produce-perovskite-silicon-tandem-modules-in-india/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T10:03:59+00:00"
+  },
+  "8d954f368d4b": {
+    "id": "8d954f368d4b",
+    "title_en": "US International Development Finance Corporation supports Ukraine BESS portfolio",
+    "title_zh": "美国国际开发金融公司支持乌克兰BESS投资组合",
+    "url": "https://www.energy-storage.news/us-international-development-finance-corporation-supports-ukraine-bess-portfolio/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-18T09:59:47+00:00"
+  },
+  "8da76f4046bb": {
+    "id": "8da76f4046bb",
+    "title_en": "Construction begins on 2 GW green hydrogen plant in Spain",
+    "title_zh": "西班牙2吉瓦绿色氢气厂开工建设",
+    "url": "https://www.pv-magazine.com/2026/09/18/construction-begins-on-2-gw-green-hydrogen-plant-in-spain/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T09:59:22+00:00"
+  },
+  "f11a8dbd8f8b": {
+    "id": "f11a8dbd8f8b",
+    "title_en": "Azerbaijan inaugurates 100 MW solar project",
+    "title_zh": "阿塞拜疆启动100兆瓦太阳能项目",
+    "url": "https://www.pv-magazine.com/2026/09/18/azerbaijan-inaugurates-100-mw-solar-project/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T09:40:38+00:00"
+  },
+  "0667285a1c51": {
+    "id": "0667285a1c51",
+    "title_en": "Shower wastewater heat pump achieves year-round COP of up to 4.1",
+    "title_zh": "淋浴废水热泵全年COP高达4.1",
+    "url": "https://www.pv-magazine.com/2026/09/18/shower-wastewater-heat-pump-achieves-year-round-cop-of-up-to-4-1/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T09:36:50+00:00"
+  },
+  "9099e8146738": {
+    "id": "9099e8146738",
+    "title_en": "Hormuz Tanker Traffic Slumps as Saudi Arabia Scrambles for New Oil Routes",
+    "title_zh": "沙特阿拉伯争抢新的石油航线，霍尔木兹油轮交通量暴跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slumps-as-Saudi-Arabia-Scrambles-for-New-Oil-Routes.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T09:30:00+00:00"
+  },
+  "723de6a3403f": {
+    "id": "723de6a3403f",
+    "title_en": "China TOPCon solar cell prices fall for third week as export buying fades and wafer costs ease",
+    "title_zh": "中国TOPCon太阳能电池价格连续第三周下跌，出口购买减少，晶圆成本下降",
+    "url": "https://www.pv-magazine.com/2026/09/18/china-topcon-solar-cell-prices-fall-for-third-week-as-export-buying-fades-and-wafer-costs-ease/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T09:26:17+00:00"
+  },
+  "c25130892f2e": {
+    "id": "c25130892f2e",
+    "title_en": "PV Chart of the Week: Module shipments to China expected to fall in 2026",
+    "title_zh": "本周光伏图表：预计2026年中国光伏组件出货量将下降",
+    "url": "https://www.pv-tech.org/pv-chart-of-the-week-module-shipments-china-expected-fall-2026/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T09:21:57+00:00"
+  },
+  "44bef575e6d6": {
+    "id": "44bef575e6d6",
+    "title_en": "200th Vestas V236-15.0 MW Wind Turbine Installed Offshore",
+    "title_zh": "第200台维斯塔斯V236-15.0兆瓦风力发电机安装在海上",
+    "url": "https://offshorewind.biz/2026/09/18/200th-vestas-v236-150-mw-wind-turbine-installed-offshore",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-18T08:33:03+00:00"
+  },
+  "a7de8ffe0b80": {
+    "id": "a7de8ffe0b80",
+    "title_en": "China’s Fuel Exports Surge as Global Diesel Shortage Deepens",
+    "title_zh": "随着全球柴油短缺加剧，中国燃料出口激增",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Fuel-Exports-Surge-as-Global-Diesel-Shortage-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T08:30:00+00:00"
+  },
+  "5d36cb22c836": {
+    "id": "5d36cb22c836",
+    "title_en": "SMA opens 60 GW inverter factory for high-power applications in Germany",
+    "title_zh": "SMA在德国开设60吉瓦逆变器工厂，用于大功率应用",
+    "url": "https://www.pv-magazine.com/2026/09/18/2026-09-18-sma-opens-60-gw-factory-in-germany-for-high-power-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T08:17:51+00:00"
+  },
+  "0c7f4960dcad": {
+    "id": "0c7f4960dcad",
+    "title_en": "EnergyPathways collaborates with Hycamite on Barrow hydrogen project",
+    "title_zh": "EnergyPathways与Hycamite合作开展巴罗氢气项目",
+    "url": "https://www.energymonitor.ai/news/energypathways-hycamite-barrow-hydrogen-project/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-18T08:17:50+00:00"
+  },
+  "3c74d451e88f": {
+    "id": "3c74d451e88f",
+    "title_en": "After 30 years in hot-arid climate, Arco solar modules still deliver about half their original power",
+    "title_zh": "在炎热干旱的气候中生活了30年后，Arco太阳能模块仍能提供约一半的原始电力",
+    "url": "https://www.pv-magazine.com/2026/09/18/after-30-years-in-hot-arid-climate-arco-solar-modules-still-deliver-about-half-their-original-power/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T07:31:07+00:00"
+  },
+  "84f38ae66a2d": {
+    "id": "84f38ae66a2d",
+    "title_en": "The Iran war pushed countries toward clean energy — and coal",
+    "title_zh": "伊朗战争促使各国转向清洁能源和煤炭",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/the-iran-war-pushed-countries-toward-clean-energy-and-coal",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-18T07:30:00+00:00"
+  },
+  "91018b86f939": {
+    "id": "91018b86f939",
+    "title_en": "Neptun Werft-Smulders Joint Venture Secures Second 2 GW Converter Platform Contract from 50Hertz",
+    "title_zh": "Neptun Werft Smulders合资企业从50Hertz获得第二个2GW变流器平台合同",
+    "url": "https://offshorewind.biz/2026/09/18/neptun-werft-smulders-joint-venture-secures-second-2-gw-converter-platform-contract-from-50hertz",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-18T07:20:31+00:00"
+  },
+  "f3a5fb08b321": {
+    "id": "f3a5fb08b321",
+    "title_en": "China Pushes Coal Miners to Lift Supply as Prices Climb",
+    "title_zh": "随着价格攀升，中国敦促煤矿商增加供应",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Pushes-Coal-Miners-to-Lift-Supply-as-Prices-Climb.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T07:15:00+00:00"
+  },
+  "96fa9ff5f301": {
+    "id": "96fa9ff5f301",
+    "title_en": "Bangladesh cuts solar equipment import taxes to 1%",
+    "title_zh": "孟加拉国将太阳能设备进口税降至1%",
+    "url": "https://www.pv-magazine.com/2026/09/18/bangladesh-cuts-solar-equipment-import-taxes-to-1/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T06:22:59+00:00"
+  },
+  "63874b95de34": {
+    "id": "63874b95de34",
+    "title_en": "Australian grid operator trials C&I rooftop solar initiative to share energy benefits with renters",
+    "title_zh": "澳大利亚电网运营商试行C&I屋顶太阳能计划，与租户分享能源收益",
+    "url": "https://www.pv-magazine.com/2026/09/18/ausgrid-trials-ci-rooftop-solar-initiative-to-share-energy-benefits-with-renters/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-18T06:08:24+00:00"
+  },
+  "df2252f8d8f7": {
+    "id": "df2252f8d8f7",
+    "title_en": "Oil Prices Head for Weekly Loss as Saudi Export Fears Ease",
+    "title_zh": "随着沙特出口担忧的缓解，油价将每周下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Weekly-Loss-as-Saudi-Export-Fears-Ease.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-18T05:30:00+00:00"
+  },
+  "a2a10c6a049a": {
+    "id": "a2a10c6a049a",
+    "title_en": "PacWave Opens—A Giant Leap for Marine Energy",
+    "title_zh": "PacWave开放——海洋能源的巨大飞跃",
+    "url": "https://cleantechnica.com/2026/09/17/pacwave-opens-a-giant-leap-for-marine-energy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-18T03:58:11+00:00"
+  },
+  "0c03c986b626": {
+    "id": "0c03c986b626",
+    "title_en": "NLR Campus To Host US Department of Energy Geothermal Center of Excellence",
+    "title_zh": "NLR校区将主办美国能源部地热卓越中心",
+    "url": "https://cleantechnica.com/2026/09/17/nlr-campus-to-host-us-department-of-energy-geothermal-center-of-excellence/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-18T03:57:32+00:00"
+  },
   "3609c0f1964a": {
     "id": "3609c0f1964a",
     "title_en": "Discounts on Kia EV9 Give It Ridiculous Price",
@@ -1393,6 +1618,15 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-09-16T12:22:32+00:00"
+  },
+  "53819213c471": {
+    "id": "53819213c471",
+    "title_en": "Wind turbine lifespan management: Achieving reliability in extreme conditions",
+    "title_zh": "风力涡轮机寿命管理：在极端条件下实现可靠性",
+    "url": "https://www.energymonitor.ai/sponsored/wind-turbine-lifespan-management-achieving-reliability-in-extreme-conditions/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-16T12:13:49+00:00"
   },
   "99036f9310d7": {
     "id": "99036f9310d7",
@@ -4264,239 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-09-11T15:47:00+00:00"
-  },
-  "ff92069d6e01": {
-    "id": "ff92069d6e01",
-    "title_en": "Tesla reveals European Semi specs: 550 km range, 800 kW charging",
-    "title_zh": "特斯拉公布欧洲Semi规格：550公里续航里程，800千瓦充电",
-    "url": "https://electrek.co/2026/09/11/tesla-european-semi-specs-550-km-800-kw/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-11T15:43:33+00:00"
-  },
-  "69d4d7ee8e34": {
-    "id": "69d4d7ee8e34",
-    "title_en": "IEA Sees 5.7 Million Bpd Oil Supply Plunge as Gulf Recovery Slips to 2027",
-    "title_zh": "国际能源署预计，随着海湾地区复苏推迟到2027年，石油供应量将下降570万桶/日",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Sees-57-Million-Bpd-Oil-Supply-Plunge-as-Gulf-Recovery-Slips-to-2027.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T15:30:00+00:00"
-  },
-  "63855d0a73f0": {
-    "id": "63855d0a73f0",
-    "title_en": "Solar Power Beats Coal And Gas With BOTH Hands Tied Behind Its Back",
-    "title_zh": "太阳能击败煤炭和天然气，双手被绑在背后",
-    "url": "https://cleantechnica.com/2026/09/11/solar-power-us-energy-policy-pacs-elections-2026/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-11T15:26:43+00:00"
-  },
-  "5311ee18e93b": {
-    "id": "5311ee18e93b",
-    "title_en": "Premier Energies, RCT India plan 12GWh BESS manufacturing facility in Telangana",
-    "title_zh": "Premier Energies和RCT India计划在特伦甘纳建立12GWh BESS制造工厂",
-    "url": "https://www.energy-storage.news/premier-energies-rct-india-plan-12gwh-bess-manufacturing-facility-in-telangana/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-11T15:22:59+00:00"
-  },
-  "bdf00cd41945": {
-    "id": "bdf00cd41945",
-    "title_en": "Pennsylvania PUC to consider ratemaking, ROE and curtailment as data centers grow",
-    "title_zh": "宾夕法尼亚州公用事业委员会将考虑随着数据中心的增长而制定费率、净资产收益率和削减",
-    "url": "https://www.utilitydive.com/news/pennsylvania-puc-to-consider-rates-and-curtailment-as-data-centers-grow/830174/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-11T14:57:52+00:00"
-  },
-  "bb087a4a0428": {
-    "id": "bb087a4a0428",
-    "title_en": "Why Enerparc insolvency is a warning sign for European solar’s new reality",
-    "title_zh": "为什么Enerparc破产是欧洲太阳能新现实的警告信号",
-    "url": "https://www.pv-tech.org/enerparc-insolvency-faultlines-european-downstream-solar-business/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T14:42:30+00:00"
-  },
-  "6a572bc88872": {
-    "id": "6a572bc88872",
-    "title_en": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
-    "title_zh": "伊朗瞄准美国在海湾地区的资产后，阿联酋重新考虑5千兆瓦的人工智能园区",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Rethinks-5-Gigawatt-AI-Campus-After-Iran-Targets-US-Assets-in-Gulf.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T14:30:00+00:00"
-  },
-  "190ca81be37c": {
-    "id": "190ca81be37c",
-    "title_en": "Kia deploys 200 PV5 electric vans for mail delivery",
-    "title_zh": "起亚部署200辆PV5电动货车用于邮件投递",
-    "url": "https://electrek.co/2026/09/11/kia-deploys-200-pv5-electric-vans-mail-delivery/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-11T14:11:00+00:00"
-  },
-  "ba768252fb08": {
-    "id": "ba768252fb08",
-    "title_en": "‘First of its kind’ solar critical material recovery centre planned in Texas",
-    "title_zh": "德克萨斯州计划建立“首创”太阳能关键材料回收中心",
-    "url": "https://www.pv-tech.org/first-of-its-kind-solar-critical-material-recovery-centre-planned-in-texas/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T14:09:21+00:00"
-  },
-  "a5d2d93ebd6f": {
-    "id": "a5d2d93ebd6f",
-    "title_en": "Lynk & Co Chooses Volvo Cars As Exclusive European Distributor",
-    "title_zh": "Lynk&Co选择沃尔沃汽车作为欧洲独家经销商",
-    "url": "https://cleantechnica.com/2026/09/11/lynk-co-chooses-volvo-cars-as-exclusive-european-distributor/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-11T14:07:29+00:00"
-  },
-  "92f00fe06a76": {
-    "id": "92f00fe06a76",
-    "title_en": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
-    "title_zh": "厄尔尼诺现象：印尼2026年的火灾排放量“有望”达到本世纪的记录",
-    "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-09-11T14:06:49+00:00"
-  },
-  "13eb51a43be7": {
-    "id": "13eb51a43be7",
-    "title_en": "Latvenergo expands Baltic battery storage, solar push alongside wind deals",
-    "title_zh": "Latvenergo扩大波罗的海电池储能，推动太阳能与风能交易",
-    "url": "https://www.pv-magazine.com/2026/09/11/latvenergo-to-expand-solar-and-battery-storage-push-alongside-wind-acquisitions-in-the-baltics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T14:00:00+00:00"
-  },
-  "8c6babf0e8fc": {
-    "id": "8c6babf0e8fc",
-    "title_en": "Debunking the Viral Claim That America Has Only 14 Days of Oil Left",
-    "title_zh": "揭穿美国只剩下14天石油的病毒性说法",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Debunking-the-Viral-Claim-That-America-Has-Only-14-Days-of-Oil-Left.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T14:00:00+00:00"
-  },
-  "f9e65b8bf8e9": {
-    "id": "f9e65b8bf8e9",
-    "title_en": "Europe’s policies shape offshore wind as renewable power frontier, says GlobalData",
-    "title_zh": "GlobalData表示，欧洲的政策将海上风电塑造为可再生能源的前沿",
-    "url": "https://www.energymonitor.ai/analyst-comment/europe-policies-offshore-wind-as-renewable-power/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-11T13:55:12+00:00"
-  },
-  "59cf37a72c4c": {
-    "id": "59cf37a72c4c",
-    "title_en": "BLUETTI Launches New Energy Solutions for Work, Home, & Life on the Move at IFA 2026",
-    "title_zh": "BLUETTI在IFA 2026上推出适用于工作、家庭和移动生活的新能源解决方案",
-    "url": "https://cleantechnica.com/2026/09/11/bluetti-launches-new-energy-solutions-for-work-home-life-on-the-move-at-ifa-2026/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-11T13:49:33+00:00"
-  },
-  "2e1987895e84": {
-    "id": "2e1987895e84",
-    "title_en": "PV Chart of the Week: HJT module production growing the fastest in the US",
-    "title_zh": "本周光伏图表：HJT组件产量在美国增长最快",
-    "url": "https://www.pv-tech.org/pv-chart-of-the-week-hjt-module-production-growing-the-fastest-us/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T13:44:09+00:00"
-  },
-  "a0ef8b18f8a6": {
-    "id": "a0ef8b18f8a6",
-    "title_en": "‘Workhorse’ PERC technology to drive Suniva’s scaling up of US solar cell production",
-    "title_zh": "“Workhorse”PERC技术推动Suniva扩大美国太阳能电池生产",
-    "url": "https://www.pv-tech.org/workhorse-perc-technology-drive-sunivas-scaling-up-us-solar-cell-production/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T13:33:54+00:00"
-  },
-  "c780c01d4db6": {
-    "id": "c780c01d4db6",
-    "title_en": "Metlen agrees to sell 165MW/725MWh Chile solar-plus-storage project",
-    "title_zh": "Metlen同意出售165MW/725MWh智利太阳能+储能项目",
-    "url": "https://www.energy-storage.news/metlen-agrees-to-sell-165mw-725mwh-chile-solar-plus-storage-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-11T13:33:35+00:00"
-  },
-  "f0e3edee1368": {
-    "id": "f0e3edee1368",
-    "title_en": "UK Business Calls For Scrapping Taxes on Electricity Bills",
-    "title_zh": "英国企业呼吁取消电费税",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Business-Calls-For-Scrapping-Taxes-on-Electricity-Bills.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T13:30:00+00:00"
-  },
-  "53726bcc2947": {
-    "id": "53726bcc2947",
-    "title_en": "Deep Fission completes borehole demonstration",
-    "title_zh": "Deep Fission完成钻孔演示",
-    "url": "https://www.world-nuclear-news.org/articles/deep-fission-completes-borehole-demonstration",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-09-11T13:28:20+00:00"
-  },
-  "e30273edeb8d": {
-    "id": "e30273edeb8d",
-    "title_en": "Axpo and energieUri commission Switzerland’s largest operational BESS facility",
-    "title_zh": "Axpo和energieUri委托瑞士最大的BESS设施运营",
-    "url": "https://www.energy-storage.news/axpo-and-energieuri-commission-switzerlands-largest-operational-bess-facility/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-11T13:28:02+00:00"
-  },
-  "3864ac6671d6": {
-    "id": "3864ac6671d6",
-    "title_en": "Jeff Currie Sees $5 Gasoline Before Midterms",
-    "title_zh": "Jeff Currie在中期选举前看到5美元的汽油",
-    "url": "https://oilprice.com/Energy/Energy-General/Jeff-Currie-Sees-5-Gasoline-Before-Midterms.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-11T13:16:00+00:00"
-  },
-  "3d4258b601c3": {
-    "id": "3d4258b601c3",
-    "title_en": "BESS Industry Buzz: Beijing’s manufacturing ban, ‘responsible’ data centre policy, LDES economics and more",
-    "title_zh": "BESS行业热议：北京的制造业禁令、“负责任”的数据中心政策、LDES经济等",
-    "url": "https://www.energy-storage.news/bess-industry-buzz-beijings-manufacturing-ban-responsible-data-centre-policy-ldes-economics-and-more/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-11T13:07:15+00:00"
-  },
-  "aad6b98e3afb": {
-    "id": "aad6b98e3afb",
-    "title_en": "Delaware advances 16 MW of community solar projects",
-    "title_zh": "特拉华州推进16兆瓦的社区太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/09/delaware-advances-16-mw-of-community-solar-projects/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-11T13:00:15+00:00"
-  },
-  "02a54c4d391c": {
-    "id": "02a54c4d391c",
-    "title_en": "Wheel-E Podcast: ALSO e-bike delays, Nomadix e-moto, $900 for 45mph?, more",
-    "title_zh": "Wheel-E播客：还有电动自行车延误，Nomadix电动摩托车，45英里/小时900美元？，more",
-    "url": "https://electrek.co/2026/09/11/wheel-e-podcast-also-e-bike-delays-nomadix-e-moto-900-for-45mph-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-11T12:49:10+00:00"
-  },
-  "21381edc5c36": {
-    "id": "21381edc5c36",
-    "title_en": "Unplanned power plant outages fall sharply during 2025/26 winter storms: FERC-NERC report",
-    "title_zh": "2025/26年冬季风暴期间，计划外发电厂停运大幅下降：联邦能源管理委员会-尼日利亚国家能源监管委员会报告",
-    "url": "https://www.utilitydive.com/news/unplanned-power-plant-outages-winter-weather-ferc-nerc/830141/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-11T12:48:14+00:00"
   }
 }
