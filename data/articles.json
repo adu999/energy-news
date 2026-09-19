@@ -1,4 +1,58 @@
 {
+  "698f65bc58ac": {
+    "id": "698f65bc58ac",
+    "title_en": "UK regulator plans BESS fees to cut grid connection queue",
+    "title_zh": "英国监管机构计划收取BESS费用以减少电网连接队列",
+    "url": "https://www.pv-magazine.com/2026/09/19/uk-regulator-plans-bess-fees-to-cut-grid-connection-queue/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-19T09:00:00+00:00"
+  },
+  "ea16e826259d": {
+    "id": "ea16e826259d",
+    "title_en": "Tesla’s $10.1 billion Texas solar gigafactory clears key tax hurdle",
+    "title_zh": "特斯拉101亿美元的德克萨斯州太阳能超级工厂清除了关键的税收障碍",
+    "url": "https://www.pv-magazine.com/2026/09/19/teslas-10-1-billion-texas-solar-gigafactory-clears-key-tax-hurdle/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-19T08:00:00+00:00"
+  },
+  "72d0dfd6198f": {
+    "id": "72d0dfd6198f",
+    "title_en": "Solar module imports drop 48% in Brazil in H1",
+    "title_zh": "巴西上半年太阳能组件进口下降48%",
+    "url": "https://www.pv-magazine.com/2026/09/19/solar-module-imports-drop-48-in-brazil-in-h1/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-19T07:30:00+00:00"
+  },
+  "686d57af44a4": {
+    "id": "686d57af44a4",
+    "title_en": "German grid operator dispute limits battery use at new solar-storage hybrid plant",
+    "title_zh": "德国电网运营商争议限制新太阳能储能混合动力发电厂的电池使用",
+    "url": "https://www.pv-magazine.com/2026/09/19/german-grid-operator-dispute-limits-battery-use-at-new-solar-storage-hybrid-plant/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-19T07:00:00+00:00"
+  },
+  "87af80ad3203": {
+    "id": "87af80ad3203",
+    "title_en": "Green hydrogen’s growing share in chemical production",
+    "title_zh": "绿色氢在化工生产中的份额越来越大",
+    "url": "https://www.pv-magazine.com/2026/09/19/green-hydrogens-growing-share-in-chemical-production/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-19T04:00:00+00:00"
+  },
+  "e156fd239bb4": {
+    "id": "e156fd239bb4",
+    "title_en": "The Day My Swifty Died … And I Had To Go Electric With The MG4 EV Urban",
+    "title_zh": "我的Swifty去世的那天……我不得不用MG4 EV Urban电动汽车",
+    "url": "https://cleantechnica.com/2026/09/18/the-day-my-swifty-died-and-i-had-to-go-electric-with-the-mg4-ev-urban/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T03:57:08+00:00"
+  },
   "947a5343b919": {
     "id": "947a5343b919",
     "title_en": "EV Chargers in the Tourist Regions of Queensland",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-14T05:37:04+00:00"
-  },
-  "6422d46e2c94": {
-    "id": "6422d46e2c94",
-    "title_en": "Lava Blue commissions Australia’s first grid NAS battery as ZEBRE sees 360MWh BESS waved through EPBC Act",
-    "title_zh": "Lava Blue委托澳大利亚首个电网NAS电池，因为ZEBRE看到360MWh BESS通过EPBC法案",
-    "url": "https://www.energy-storage.news/lava-blue-commissions-australias-first-grid-nas-battery-as-zebre-sees-360mwh-bess-waved-through-epbc-act/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-14T05:02:06+00:00"
-  },
-  "6e348efb477c": {
-    "id": "6e348efb477c",
-    "title_en": "‘Not to the detriment of the market’: Eku Energy on Australia’s Capacity Investment Scheme",
-    "title_zh": "“不损害市场”：Eku Energy谈澳大利亚的产能投资计划",
-    "url": "https://www.energy-storage.news/not-to-the-detriment-of-the-market-eku-energy-on-australias-capacity-investment-scheme/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-14T04:54:30+00:00"
-  },
-  "0c21c970ea3d": {
-    "id": "0c21c970ea3d",
-    "title_en": "Another Reason To Love EVs: Costco Is Rationing Motor Oil",
-    "title_zh": "喜欢电动汽车的另一个原因：好市多正在定量供应机油",
-    "url": "https://cleantechnica.com/2026/09/14/costco-rationing-motor-oil-evs-iran-war-trump/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-14T04:15:03+00:00"
-  },
-  "6efbdfe94f6b": {
-    "id": "6efbdfe94f6b",
-    "title_en": "Spacebound silicon",
-    "title_zh": "空间束缚硅",
-    "url": "https://www.pv-magazine.com/2026/09/14/spacebound-silicon/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T04:00:00+00:00"
-  },
-  "697ddf8999cf": {
-    "id": "697ddf8999cf",
-    "title_en": "EPA plans to raise your energy costs by $120B on Monday",
-    "title_zh": "美国环保署计划周一将您的能源成本提高1200亿美元",
-    "url": "https://electrek.co/2026/09/13/epa-plans-to-raise-your-energy-costs-by-120b-on-monday/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-14T03:31:47+00:00"
-  },
-  "a577b7e1e851": {
-    "id": "a577b7e1e851",
-    "title_en": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles",
-    "title_zh": "中东袭击事件持续，外交陷入僵局，油价飙升",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Surge-as-Middle-East-Attacks-Continue-and-Diplomacy-Stumbles.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-14T02:39:17+00:00"
   }
 }
