@@ -1,4 +1,67 @@
 {
+  "6d426160d27f": {
+    "id": "6d426160d27f",
+    "title_en": "Jaecoo J5 — Value-for-Money Sales Wonder in Australia",
+    "title_zh": "Jaecoo J5——澳大利亚性价比销售奇迹",
+    "url": "https://cleantechnica.com/2026/09/19/jaecoo-j5-value-for-money-sales-wonder-in-australia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T15:13:34+00:00"
+  },
+  "2a6781d35b55": {
+    "id": "2a6781d35b55",
+    "title_en": "Climate XChange is giving away more EVs than ever before in its 11th Annual EV Raffle",
+    "title_zh": "Climate XChange在其第11届年度电动汽车抽奖活动中赠送了比以往任何时候都多的电动汽车",
+    "url": "https://electrek.co/2026/09/19/climate-xchange-is-giving-away-more-evs-than-ever-before-in-its-11th-annual-ev-raffle/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-19T15:00:00+00:00"
+  },
+  "2639bf9d5a0a": {
+    "id": "2639bf9d5a0a",
+    "title_en": "UN Warns World Must Prepare for Life Beyond 1.5°C",
+    "title_zh": "联合国警告世界必须为1.5°C以上的生命做好准备",
+    "url": "https://oilprice.com/The-Environment/Global-Warming/UN-Warns-World-Must-Prepare-for-Life-Beyond-15C.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-19T15:00:00+00:00"
+  },
+  "0a03ffea2792": {
+    "id": "0a03ffea2792",
+    "title_en": "China’s Electric Aviation Advantage Is A Transport System, Not A Prototype",
+    "title_zh": "中国的电动航空优势是运输系统，而不是原型",
+    "url": "https://cleantechnica.com/2026/09/19/china-electric-aviation-transport-system/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T14:25:28+00:00"
+  },
+  "7eb72972c897": {
+    "id": "7eb72972c897",
+    "title_en": "An EV Is Not The Same As A Conventional Car. Who Knew?",
+    "title_zh": "电动汽车与传统汽车不同。谁知道？",
+    "url": "https://cleantechnica.com/2026/09/19/an-ev-is-not-the-same-as-a-conventional-car-who-knew/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T14:24:29+00:00"
+  },
+  "88e675adc03a": {
+    "id": "88e675adc03a",
+    "title_en": "E-quipment highlight: 4,400 hp Wabtec FLXDrive electric locomotive [update]",
+    "title_zh": "电子设备亮点：4400马力西屋制动FLXDrive电力机车[更新]",
+    "url": "https://electrek.co/2026/09/19/e-quipment-highlight-4400-hp-wabtec-flxdrive-electric-locomotive/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-19T14:00:00+00:00"
+  },
+  "a56603927178": {
+    "id": "a56603927178",
+    "title_en": "Swaptopus inches towards reality as CATL reveals new semi truck battery",
+    "title_zh": "CATL推出新的半卡车电池，让人们朝着现实迈进",
+    "url": "https://electrek.co/2026/09/19/swaptopus-inches-towards-reality-as-catl-reveals-new-semi-truck-battery/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-19T13:08:21+00:00"
+  },
   "698f65bc58ac": {
     "id": "698f65bc58ac",
     "title_en": "UK regulator plans BESS fees to cut grid connection queue",
@@ -4435,68 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-14T07:37:27+00:00"
-  },
-  "9a9fcf3d7b07": {
-    "id": "9a9fcf3d7b07",
-    "title_en": "Noria Energy launches single-axis tracker for floating solar applications",
-    "title_zh": "Noria Energy推出用于浮动太阳能应用的单轴跟踪器",
-    "url": "https://www.pv-magazine.com/2026/09/14/noria-energy-launches-single-axis-tracker-for-floating-solar-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T07:33:18+00:00"
-  },
-  "790ea2712202": {
-    "id": "790ea2712202",
-    "title_en": "Trump’s DOE keeps forcing coal plants to stay open. Here’s the latest.",
-    "title_zh": "特朗普的能源部一直在迫使燃煤电厂保持开放。这是最新消息。",
-    "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-coal-plant-orders-retiring-map",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-09-14T07:30:00+00:00"
-  },
-  "0a8c4b157969": {
-    "id": "0a8c4b157969",
-    "title_en": "Masdar, Luxcara Eye EUR 5 Billion Offshore Wind, Battery Storage Partnership",
-    "title_zh": "马斯达尔，卢克斯卡拉眼50亿欧元海上风能，电池存储合作伙伴关系",
-    "url": "https://offshorewind.biz/2026/09/14/masdar-luxcara-eye-eur-5-billion-offshore-wind-battery-storage-partnership",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-14T07:12:49+00:00"
-  },
-  "2e7f4d62ef13": {
-    "id": "2e7f4d62ef13",
-    "title_en": "Oman Energy Minister Says Middle East Needs to Diversify LNG Export Routes",
-    "title_zh": "阿曼能源部长表示，中东需要多样化液化天然气出口路线",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Energy-Minister-Says-Middle-East-Needs-to-Diversify-LNG-Export-Routes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-14T07:00:00+00:00"
-  },
-  "7c6d75d6be90": {
-    "id": "7c6d75d6be90",
-    "title_en": "Revealed: England’s June 2026 heatwave sparked record demand for ambulances",
-    "title_zh": "英国2026年6月的热浪引发了对救护车的创纪录需求",
-    "url": "https://www.carbonbrief.org/revealed-englands-june-2026-heatwave-sparked-record-demand-for-ambulances",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-09-14T07:00:00+00:00"
-  },
-  "284a4f811947": {
-    "id": "284a4f811947",
-    "title_en": "U.S. government finalizes trade duties on solar imports from India, Indonesia, and Laos",
-    "title_zh": "美国政府最终确定对从印度、印度尼西亚和老挝进口的太阳能征收贸易关税",
-    "url": "https://www.pv-magazine.com/2026/09/14/department-of-commerce-finalizes-trade-duties-on-solar-imports-from-india-indonesia-and-laos/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T06:22:22+00:00"
-  },
-  "f3c0762c65af": {
-    "id": "f3c0762c65af",
-    "title_en": "Brent Hits $108 as Saudi Pipeline Shutdown Deepens Supply Fears",
-    "title_zh": "布伦特原油触及108美元，沙特管道关闭加剧供应担忧",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Hits-108-as-Saudi-Pipeline-Shutdown-Deepens-Supply-Fears.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-14T05:37:04+00:00"
   }
 }
