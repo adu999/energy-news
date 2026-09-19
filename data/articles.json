@@ -1,4 +1,58 @@
 {
+  "947a5343b919": {
+    "id": "947a5343b919",
+    "title_en": "EV Chargers in the Tourist Regions of Queensland",
+    "title_zh": "昆士兰旅游区的电动汽车充电器",
+    "url": "https://cleantechnica.com/2026/09/18/ev-chargers-in-the-tourist-regions-of-queensland/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T02:48:45+00:00"
+  },
+  "55ad6deae618": {
+    "id": "55ad6deae618",
+    "title_en": "It’s finally here: Porsche puts wireless EV charging into production [video]",
+    "title_zh": "它终于来了：保时捷将无线电动汽车充电投入生产[视频]",
+    "url": "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-19T01:26:44+00:00"
+  },
+  "b6ec95fa92ce": {
+    "id": "b6ec95fa92ce",
+    "title_en": "New self-loading tech for bulk cargo vessels cuts freight emissions in HALF",
+    "title_zh": "散货船的新自装技术减少了半成品油的货运排放",
+    "url": "https://electrek.co/2026/09/18/new-self-loading-tech-for-bulk-cargo-vessels-cuts-freight-emissions-in-half/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-19T00:50:47+00:00"
+  },
+  "645d431a172c": {
+    "id": "645d431a172c",
+    "title_en": "Where Marine Energy Meets Hybrid Power Systems, This Laboratory De-Risks Integration",
+    "title_zh": "在海洋能源与混合动力系统相遇的地方，该实验室降低了集成风险",
+    "url": "https://cleantechnica.com/2026/09/18/where-marine-energy-meets-hybrid-power-systems-this-laboratory-de-risks-integration/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T00:36:15+00:00"
+  },
+  "f3a1fe265101": {
+    "id": "f3a1fe265101",
+    "title_en": "Design the Future of Campus Energy in the Energy District Cup",
+    "title_zh": "在能源区杯上设计校园能源的未来",
+    "url": "https://cleantechnica.com/2026/09/18/design-the-future-of-campus-energy-in-the-energy-district-cup/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T00:22:13+00:00"
+  },
+  "7910962bb521": {
+    "id": "7910962bb521",
+    "title_en": "I Don’t Care What Anyone Says, I Love This Fiat Topolino!",
+    "title_zh": "我不在乎别人怎么说，我喜欢这辆菲亚特Topolino！",
+    "url": "https://cleantechnica.com/2026/09/18/i-dont-care-what-anyone-says-i-love-this-fiat-topolino/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T00:01:56+00:00"
+  },
   "fffa4a245005": {
     "id": "fffa4a245005",
     "title_en": "Sierra Club Applauds Governor Abigail Spanberger’s Data Center Executive Order and Policy Framework Release",
@@ -4444,59 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-14T02:39:17+00:00"
-  },
-  "ae99003662e6": {
-    "id": "ae99003662e6",
-    "title_en": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-    "title_zh": "渣打银行警告称，油价现在正为更剧烈、更频繁的飙升而打造",
-    "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-13T23:00:00+00:00"
-  },
-  "c08c9ee2db74": {
-    "id": "c08c9ee2db74",
-    "title_en": "Further Oil Price Spikes Could Rekindle Recession Fears",
-    "title_zh": "油价进一步飙升可能会重新引发对经济衰退的担忧",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Further-Oil-Price-Spikes-Could-Rekindle-Recession-Fears.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-13T21:00:00+00:00"
-  },
-  "b30fe70f9bc2": {
-    "id": "b30fe70f9bc2",
-    "title_en": "Commerce confirms dumping of solar cells from India, Indonesia and Laos into US market",
-    "title_zh": "商务部证实印度、印度尼西亚和老挝向美国市场倾销太阳能电池",
-    "url": "https://www.solarpowerworldonline.com/2026/09/commerce-confirms-dumping-of-solar-cells-from-india-indonesia-and-laos-into-us-market/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-13T20:19:16+00:00"
-  },
-  "507b1148c1ef": {
-    "id": "507b1148c1ef",
-    "title_en": "U.S. Dams Could Unlock 15.2 Terawatt-Hours of Untapped Hydropower",
-    "title_zh": "美国大坝可能释放15.2兆瓦时的未开发水电",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Dams-Could-Unlock-152-Terawatt-Hours-of-Untapped-Hydropower.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-13T19:00:00+00:00"
-  },
-  "e4e9a03d8dcf": {
-    "id": "e4e9a03d8dcf",
-    "title_en": "Trump’s Geothermal Energy Time Bomb Is About To Explode",
-    "title_zh": "特朗普的地热能定时炸弹即将爆炸",
-    "url": "https://cleantechnica.com/2026/09/13/geothermal-energy-threatens-us-coal-industry/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-13T18:06:31+00:00"
-  },
-  "2013ff7e0e2a": {
-    "id": "2013ff7e0e2a",
-    "title_en": "Zürich Airport deploys L4 autonomous shuttle – WITHOUT a human monitor",
-    "title_zh": "苏黎世机场部署L4自动穿梭机——无需人工监控",
-    "url": "https://electrek.co/2026/09/13/zurich-airport-deploys-l4-autonomous-shuttle-without-a-human-monitor/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-13T17:44:27+00:00"
   }
 }
