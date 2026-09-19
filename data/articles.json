@@ -1,4 +1,40 @@
 {
+  "0f8fe4a7f056": {
+    "id": "0f8fe4a7f056",
+    "title_en": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
+    "title_zh": "英国面临1500亿英镑的电网大修，以推动可再生能源热潮",
+    "url": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-19T19:00:00+00:00"
+  },
+  "a61cd135a2e7": {
+    "id": "a61cd135a2e7",
+    "title_en": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+    "title_zh": "随着小型反应堆最终起飞，国际原子能机构将核电预测提高了两倍",
+    "url": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-19T17:00:00+00:00"
+  },
+  "01a612d6912f": {
+    "id": "01a612d6912f",
+    "title_en": "Canada Haunts Trump With New Offshore Wind Project",
+    "title_zh": "加拿大以新的海上风电项目困扰特朗普",
+    "url": "https://cleantechnica.com/2026/09/19/offshore-wind-west-us-canada-energy-policy-trump-fear/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-19T16:53:14+00:00"
+  },
+  "032a7cca89e2": {
+    "id": "032a7cca89e2",
+    "title_en": "Here’s all the dumb oil wars that electric cars have nothing to do with",
+    "title_zh": "以下是电动汽车与之无关的所有愚蠢的石油战争",
+    "url": "https://electrek.co/2026/09/19/heres-all-the-dumb-oil-wars-that-electric-cars-have-nothing-to-do-with/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-19T16:30:00+00:00"
+  },
   "6d426160d27f": {
     "id": "6d426160d27f",
     "title_en": "Jaecoo J5 — Value-for-Money Sales Wonder in Australia",
@@ -4462,41 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-09-14T08:04:53+00:00"
-  },
-  "fbbe951c1456": {
-    "id": "fbbe951c1456",
-    "title_en": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
-    "title_zh": "油价飙升使美联储有望在9月加息",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-Prices-Put-Fed-on-Track-for-September-Rate-Hike.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-14T08:00:00+00:00"
-  },
-  "9fba9a987a6c": {
-    "id": "9fba9a987a6c",
-    "title_en": "Trina signs 1GWh MoU to help developer meet ‘unique technical and delivery requirements’ of Japan’s battery storage market",
-    "title_zh": "天合光能签署1GWh谅解备忘录，帮助开发商满足日本电池储能市场的“独特技术和交付要求”",
-    "url": "https://www.energy-storage.news/trina-signs-1gwh-mou-to-help-developer-meet-unique-technical-and-delivery-requirements-of-japans-battery-storage-market/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-14T07:47:27+00:00"
-  },
-  "e21b623df44f": {
-    "id": "e21b623df44f",
-    "title_en": "Armenia opens tender for small-scale PV systems",
-    "title_zh": "亚美尼亚开始招标小型光伏系统",
-    "url": "https://www.pv-magazine.com/2026/09/14/armenia-opens-tender-for-small-scale-pv-systems/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T07:45:28+00:00"
-  },
-  "d4db54a01c68": {
-    "id": "d4db54a01c68",
-    "title_en": "Georgia Tech, Bert Thin Films build 24.3%-efficient copper-contacted TOPCon solar cell via LECO",
-    "title_zh": "佐治亚理工学院Bert薄膜公司通过LECO构建了24.3%效率的铜接触TOPCon太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/09/14/georgia-tech-bert-thin-films-build-24-3-efficient-copper-contacted-topcon-solar-cell-via-leco/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T07:37:27+00:00"
   }
 }
