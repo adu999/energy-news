@@ -1,4 +1,31 @@
 {
+  "61d9e8468ed9": {
+    "id": "61d9e8468ed9",
+    "title_en": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+    "title_zh": "尽管大幅削减开支，但大型石油公司的产量仍在飙升",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-20T23:00:00+00:00"
+  },
+  "9f7f15651fc0": {
+    "id": "9f7f15651fc0",
+    "title_en": "EV Sales At 32% — No, Make That 38%! — By 2030",
+    "title_zh": "电动汽车销量达到32%——不，达到38%！--到2030年",
+    "url": "https://cleantechnica.com/2026/09/20/ev-sales-us-trump-vehicle-electrification-harvard-study/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-20T22:11:47+00:00"
+  },
+  "6318b28acaff": {
+    "id": "6318b28acaff",
+    "title_en": "Montana Anti-Citizens United Bill Is A Form Of Soft Secession",
+    "title_zh": "蒙大拿州反公民联合法案是一种软分裂形式",
+    "url": "https://cleantechnica.com/2026/09/20/montana-anti-citizens-united-bill-is-a-form-of-soft-secession/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-20T21:00:28+00:00"
+  },
   "67fd10d30c61": {
     "id": "67fd10d30c61",
     "title_en": "Hormuz Crisis to Push Global Coal Demand to Record High",
@@ -4471,32 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-09-14T11:00:00+00:00"
-  },
-  "a2b4ff4b5741": {
-    "id": "a2b4ff4b5741",
-    "title_en": "UGL to provide EPC services at APA Group’s Queensland solar-plus-storage project",
-    "title_zh": "UGL将为APA集团的昆士兰太阳能+储能项目提供EPC服务",
-    "url": "https://www.pv-tech.org/ugl-provide-epc-services-apa-groups-queensland-solar-plus-storage-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T10:48:05+00:00"
-  },
-  "3b9684c31ac8": {
-    "id": "3b9684c31ac8",
-    "title_en": "UK parliament launches inquiry into risks of low wind",
-    "title_zh": "英国议会启动低风风险调查",
-    "url": "https://www.windpowermonthly.com/article/1969872/uk-parliament-launches-inquiry-risks-low-wind",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-14T10:39:04+00:00"
-  },
-  "15e0db6df14e": {
-    "id": "15e0db6df14e",
-    "title_en": "CrossBoundary Energy powers up 233MW solar-plus-storage site at DRC copper mine",
-    "title_zh": "CrossBoundary Energy为刚果民主共和国铜矿的233MW太阳能加储能电站供电",
-    "url": "https://www.pv-tech.org/crossboundary-energy-powers-up-233mw-solar-plus-storage-site-at-drc-copper-mine/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T10:30:59+00:00"
   }
 }
