@@ -1,4 +1,49 @@
 {
+  "c93e00d969a1": {
+    "id": "c93e00d969a1",
+    "title_en": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
+    "title_zh": "纽约750亿美元的气候责任法面临不确定的未来",
+    "url": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-20T15:00:00+00:00"
+  },
+  "394a1a8104f1": {
+    "id": "394a1a8104f1",
+    "title_en": "Ziroth is Wrong: Donut Lab’s Battery Is Not NMC",
+    "title_zh": "Ziroth错了：甜甜圈实验室的电池不是NMC",
+    "url": "https://cleantechnica.com/2026/09/20/ziroth-is-wrong-donut-labs-battery-is-not-nmc/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-20T14:41:53+00:00"
+  },
+  "43bb49863b46": {
+    "id": "43bb49863b46",
+    "title_en": "Cadillac’s go-fast electric SUV arrives makes its way Down Under",
+    "title_zh": "凯迪拉克的快速电动SUV抵达澳大利亚",
+    "url": "https://electrek.co/2026/09/20/cadillacs-go-fast-electric-suv-arrives-makes-its-way-down-under/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-20T13:46:43+00:00"
+  },
+  "58346ecac871": {
+    "id": "58346ecac871",
+    "title_en": "As diesel hits $10/gal., rumors swirl that stations are running out",
+    "title_zh": "随着柴油价格达到每加仑10美元，有传言称加油站即将耗尽",
+    "url": "https://electrek.co/2026/09/20/as-diesel-hits-10-gal-rumors-swirl-that-stations-are-running-out/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-20T13:06:10+00:00"
+  },
+  "0af913df67bd": {
+    "id": "0af913df67bd",
+    "title_en": "From 10-97% SOC in 9 minutes: Sunwoda joins the flash charging race",
+    "title_zh": "9分钟内从10-97%SOC开始：Sunwoda加入闪光充电竞赛",
+    "url": "https://electrek.co/2026/09/20/from-10-97-soc-in-9-minutes-sunwoda-joins-the-flash-charging-race/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-20T11:55:09+00:00"
+  },
   "3ccd3d023a1c": {
     "id": "3ccd3d023a1c",
     "title_en": "SONDORS’ forgotten 3-wheeled electric car just showed up for sale on eBay",
@@ -4453,50 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-14T09:57:02+00:00"
-  },
-  "6ae8e177157d": {
-    "id": "6ae8e177157d",
-    "title_en": "RWE, Masdar Team Up for 2027 German Offshore Wind Auctions",
-    "title_zh": "RWE与马斯达尔联手参与2027年德国海上风电拍卖",
-    "url": "https://offshorewind.biz/2026/09/14/rwe-masdar-team-up-for-2027-german-offshore-wind-auctions",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-14T09:46:43+00:00"
-  },
-  "ad9ef979fdf7": {
-    "id": "ad9ef979fdf7",
-    "title_en": "India adds 8.2 GWh of new BESS capacity in H1",
-    "title_zh": "印度上半年新增8.2GWh BESS产能",
-    "url": "https://www.pv-magazine.com/2026/09/14/india-adds-8-2-gwh-of-new-bess-capacity-in-h1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T09:25:09+00:00"
-  },
-  "e2af3b559839": {
-    "id": "e2af3b559839",
-    "title_en": "Middle East Oil Routes Under Pressure as Hormuz Traffic Tumbles",
-    "title_zh": "霍尔木兹交通瘫痪，中东石油路线面临压力",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Routes-Under-Pressure-as-Hormuz-Traffic-Tumbles.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-14T09:15:00+00:00"
-  },
-  "8cc155539839": {
-    "id": "8cc155539839",
-    "title_en": "Turning utility customer affordability into action",
-    "title_zh": "将公用事业客户的负担能力转化为行动",
-    "url": "https://www.utilitydive.com/spons/turning-utility-customer-affordability-into-action/829519/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-14T09:00:00+00:00"
-  },
-  "abc88b7a92bb": {
-    "id": "abc88b7a92bb",
-    "title_en": "The hidden cost of utility customer vulnerability",
-    "title_zh": "公用事业客户脆弱性的隐性成本",
-    "url": "https://www.utilitydive.com/spons/the-hidden-cost-of-utility-customer-vulnerability/829737/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-14T09:00:00+00:00"
   }
 }
