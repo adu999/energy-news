@@ -1,4 +1,49 @@
 {
+  "67fd10d30c61": {
+    "id": "67fd10d30c61",
+    "title_en": "Hormuz Crisis to Push Global Coal Demand to Record High",
+    "title_zh": "霍尔木兹危机推动全球煤炭需求创历史新高",
+    "url": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-20T19:00:00+00:00"
+  },
+  "bea0b0a32bd0": {
+    "id": "bea0b0a32bd0",
+    "title_en": "China Is Doing About 30 Times More Agricultural Drone Work Than The U.S.",
+    "title_zh": "中国的农业无人机工作比美国多30倍。",
+    "url": "https://cleantechnica.com/2026/09/20/china-agricultural-drones-30-times-us/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-20T17:31:58+00:00"
+  },
+  "564f0e3742d1": {
+    "id": "564f0e3742d1",
+    "title_en": "Tesla reopens $50,000 Roadster reservations ahead of October 1 unveil",
+    "title_zh": "特斯拉在10月1日公布之前重新开放5万美元的Roadster预订",
+    "url": "https://electrek.co/2026/09/20/tesla-reopens-50000-roadster-reservations-october-1-unveil/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-20T17:31:30+00:00"
+  },
+  "aee00ef6e9d6": {
+    "id": "aee00ef6e9d6",
+    "title_en": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+    "title_zh": "分析人士称，到2035年，中国将主导全球核能",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Will-Dominate-Global-Nuclear-Energy-Through-2035-Analyst-Says.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-20T17:00:00+00:00"
+  },
+  "67dd0a745381": {
+    "id": "67dd0a745381",
+    "title_en": "Streisand Effect Goes to Work on New Elon Musk Documentary",
+    "title_zh": "史翠珊效应在埃隆·马斯克的新纪录片中发挥作用",
+    "url": "https://cleantechnica.com/2026/09/20/elon-musk-movie-publicity-streisand-effect-us-elections/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-20T16:10:18+00:00"
+  },
   "c93e00d969a1": {
     "id": "c93e00d969a1",
     "title_en": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
@@ -4453,50 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-09-14T10:30:59+00:00"
-  },
-  "305240eefc67": {
-    "id": "305240eefc67",
-    "title_en": "Asian Refiners Seek Answers After Saudi Pipeline Shutdown",
-    "title_zh": "沙特管道关闭后，亚洲炼油厂寻求答案",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Answers-After-Saudi-Pipeline-Shutdown.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-14T10:30:00+00:00"
-  },
-  "187fbccd3502": {
-    "id": "187fbccd3502",
-    "title_en": "Spanish government seeks 937MW renewables and energy storage in Teruel",
-    "title_zh": "西班牙政府在特鲁埃尔寻求937MW的可再生能源和储能",
-    "url": "https://www.pv-tech.org/spanish-government-seeks-937mw-renewables-and-energy-storage-in-teruel/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T10:16:17+00:00"
-  },
-  "f712a1f83b51": {
-    "id": "f712a1f83b51",
-    "title_en": "An Idaho county banned renewables. It’s having second thoughts.",
-    "title_zh": "爱达荷州的一个县禁止使用可再生能源。它正在重新考虑。",
-    "url": "https://www.canarymedia.com/articles/clean-energy/idaho-county-may-reverse-renewables-solar-ban",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-09-14T10:00:00+00:00"
-  },
-  "08a51e066a4f": {
-    "id": "08a51e066a4f",
-    "title_en": "Masdar, clean energy investor Luxcara form €5 billion partnership for Germany BESS and wind projects",
-    "title_zh": "Masdar，清洁能源投资者Luxcara为德国BESS和风能项目建立了50亿欧元的合作伙伴关系",
-    "url": "https://www.energy-storage.news/masdar-luxcara-eur5-billion-partnership-germany-bess-wind-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-14T09:58:25+00:00"
-  },
-  "13e7aecf4602": {
-    "id": "13e7aecf4602",
-    "title_en": "Australia to introduce technical code for consumer energy resources",
-    "title_zh": "澳大利亚将引入消费能源技术规范",
-    "url": "https://www.pv-magazine.com/2026/09/14/australia-to-introduce-technical-code-for-consumer-energy-resources/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-14T09:57:02+00:00"
   }
 }
