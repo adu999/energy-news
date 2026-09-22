@@ -1,4 +1,94 @@
 {
+  "a55605c52f5a": {
+    "id": "a55605c52f5a",
+    "title_en": "BMW’s new iX3 gets an early loyalty discount",
+    "title_zh": "宝马新款iX3提前获得忠诚度折扣",
+    "url": "https://electrek.co/2026/09/22/bmws-new-ix3-early-loyalty-discount/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-22T20:52:56+00:00"
+  },
+  "a05111ca3364": {
+    "id": "a05111ca3364",
+    "title_en": "Norway’s Liquids Output Rebounds by Nearly 100,000 Bpd—but Still Trails 2025",
+    "title_zh": "挪威的液体产量反弹近10万桶/日，但仍落后于2025年",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Liquids-Output-Rebounds-by-Nearly-100000-Bpdbut-Still-Trails-2025.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T20:00:00+00:00"
+  },
+  "050056f35384": {
+    "id": "050056f35384",
+    "title_en": "Tesla Semi wins 2,500-truck order, doubling US electric Class 8 fleet",
+    "title_zh": "特斯拉Semi赢得2500辆卡车订单，使美国8级电动车队翻了一番",
+    "url": "https://electrek.co/2026/09/22/tesla-semi-2500-truck-order-zet-scale-largest-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-22T19:56:06+00:00"
+  },
+  "2241e2e37213": {
+    "id": "2241e2e37213",
+    "title_en": "The U.S. Has More Leverage in Iraq Than It Thinks",
+    "title_zh": "美国在伊拉克的影响力比它想象的要大",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/The-US-Has-More-Leverage-in-Iraq-Than-It-Thinks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T19:00:00+00:00"
+  },
+  "3b37706773a0": {
+    "id": "3b37706773a0",
+    "title_en": "Toyota’s popular $15,000 Chinese EV spotted testing overseas in RHD [Images]",
+    "title_zh": "丰田广受欢迎的1.5万美元中国电动汽车在海外进行RHD测试[图片]",
+    "url": "https://electrek.co/2026/09/22/toyotas-15000-chinese-ev-spotted-overseas-rhd-images/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-22T18:10:14+00:00"
+  },
+  "5213764bf9c2": {
+    "id": "5213764bf9c2",
+    "title_en": "Jackery Early Access Prime Day Sale drops 3,584Wh HomePower 3600 Pro Max to $1,799, Lectric e-bikes up to $804 off, more",
+    "title_zh": "Jackery Early Access Prime Day特卖将3584Wh HomePower 3600 Pro Max降至1799美元，Lectric电动自行车最高可减804美元，更多",
+    "url": "https://electrek.co/2026/09/22/jackery-early-access-prime-day-sale-3584wh-homepower-3600-pro-max-lectric-e-bikes-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-22T18:00:00+00:00"
+  },
+  "a14d8de40cd3": {
+    "id": "a14d8de40cd3",
+    "title_en": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project",
+    "title_zh": "核安全将美国带入俄罗斯的乌兹别克斯坦能源项目",
+    "url": "https://oilprice.com/Energy/Energy-General/Nuclear-Safety-Brings-America-Into-Russias-Uzbek-Energy-Project.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T18:00:00+00:00"
+  },
+  "4e4227de5635": {
+    "id": "4e4227de5635",
+    "title_en": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives",
+    "title_zh": "印度俄罗斯石油进口下滑，炼油商寻求替代品",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Russian-Oil-Imports-Slide-as-Refiners-Hunt-for-Alternatives.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T17:30:00+00:00"
+  },
+  "e8b2844e1e9f": {
+    "id": "e8b2844e1e9f",
+    "title_en": "Beijing Tightens Rare Earth Flow Ahead Of Washington Summit With Trump",
+    "title_zh": "北京在与特朗普举行华盛顿峰会之前收紧稀土流动",
+    "url": "https://oilprice.com/Metals/Commodities/Beijing-Tightens-Rare-Earth-Flow-Ahead-Of-Washington-Summit-With-Trump.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T17:00:00+00:00"
+  },
+  "d8f7ef360073": {
+    "id": "d8f7ef360073",
+    "title_en": "Lower energy costs, community benefits drive 30% battery growth rate: RMI",
+    "title_zh": "更低的能源成本，社区利益推动30%的电池增长率：RMI",
+    "url": "https://www.utilitydive.com/news/lower-energy-costs-community-benefits-drive-30-battery-growth-rate-rmi/831039/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-22T16:39:18+00:00"
+  },
   "a9419f564d70": {
     "id": "a9419f564d70",
     "title_en": "Volkswagen’s new EVs are so popular that the company is now cutting ICE shifts",
@@ -107,6 +197,15 @@
     "category": "综合",
     "pub_ts": "2026-09-22T14:56:59+00:00"
   },
+  "41234d06714f": {
+    "id": "41234d06714f",
+    "title_en": "California tightens oversight of data center energy use, grid costs",
+    "title_zh": "加州加强对数据中心能源使用和电网成本的监管",
+    "url": "https://www.utilitydive.com/news/california-tightens-oversight-of-data-center-energy-use-grid-costs/831037/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-22T14:53:40+00:00"
+  },
   "279457274400": {
     "id": "279457274400",
     "title_en": "Mercedes-Benz signs deal to put Wayve AI Driver in cars within 2 years",
@@ -188,6 +287,15 @@
     "category": "EV",
     "pub_ts": "2026-09-22T14:26:44+00:00"
   },
+  "4a149db8d990": {
+    "id": "4a149db8d990",
+    "title_en": "North Carolina regulators deny Duke Energy gas turbine request over ‘staggering’ cost, uncertain need",
+    "title_zh": "北卡罗来纳州监管机构以“惊人”的成本和不确定的需求否认杜克能源公司的燃气轮机请求",
+    "url": "https://www.utilitydive.com/news/north-carolina-regulators-deny-dukes-gas-turbine-request-over-staggering/831015/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-22T14:24:38+00:00"
+  },
   "71ededcad1f1": {
     "id": "71ededcad1f1",
     "title_en": "PureSky Energy builds Illinois community solar project for low-income residents",
@@ -214,6 +322,15 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-09-22T14:10:22+00:00"
+  },
+  "de909713afe1": {
+    "id": "de909713afe1",
+    "title_en": "Other New England states back Maine’s RTO adder complaint",
+    "title_zh": "其他新英格兰州支持缅因州的RTO加法器投诉",
+    "url": "https://www.utilitydive.com/news/new-england-maine-rto-adder-complaint-ferc/830999/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-22T14:04:27+00:00"
   },
   "231405aeb12b": {
     "id": "231405aeb12b",
@@ -4381,122 +4498,5 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-09-16T10:44:36+00:00"
-  },
-  "844fbd80225f": {
-    "id": "844fbd80225f",
-    "title_en": "Six Ways India Is Redefining Energy Risk: Dispatch From the BNEF Summit New Delhi 2026",
-    "title_zh": "印度重新定义能源风险的六种方式：2026年新德里BNEF峰会简报",
-    "url": "https://about.bnef.com/insights/clean-energy/six-ways-india-is-redefining-energy-risk-dispatch-from-the-bnef-summit-new-delhi-2026/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-09-16T10:43:30+00:00"
-  },
-  "7f73abb464c2": {
-    "id": "7f73abb464c2",
-    "title_en": "Zelestra, Salzgitter Flachstahl sign German solar-plus-storage PPA to power steelmaking",
-    "title_zh": "Zelestra和Salzgitter Flachstahl签署德国太阳能+储能PPA，为炼钢提供动力",
-    "url": "https://www.energy-storage.news/zelestra-salzgitter-flachstahl-german-solar-plus-storage-ppa-steelmaking/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-16T10:30:52+00:00"
-  },
-  "0f7a6e4bd7cf": {
-    "id": "0f7a6e4bd7cf",
-    "title_en": "First Solar to withdraw Section 337 complaint on TOPCon IP, continues US District Court lawsuits",
-    "title_zh": "First Solar撤回对TOPCon IP的337条款投诉，继续美国地方法院诉讼",
-    "url": "https://www.pv-tech.org/first-solar-to-withdraw-section-337-complaint-on-topcon-ip-continues-us-district-court-lawsuits/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T10:30:47+00:00"
-  },
-  "d62e2b370207": {
-    "id": "d62e2b370207",
-    "title_en": "Saudi Arabia Pivots to Spot Oil Sales After Key Pipeline Goes Offline",
-    "title_zh": "沙特在关键管道停运后转向现货石油销售",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pivots-to-Spot-Oil-Sales-After-Key-Pipeline-Goes-Offline.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T10:30:00+00:00"
-  },
-  "918f74886cdf": {
-    "id": "918f74886cdf",
-    "title_en": "First Turbine Up at Vietnam's 128 MW Nearshore Wind Farm",
-    "title_zh": "越南128兆瓦近岸风电场的第一台涡轮机",
-    "url": "https://offshorewind.biz/2026/09/16/first-turbine-up-at-vietnams-128-mw-nearshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-16T09:45:59+00:00"
-  },
-  "ccd6781b2c65": {
-    "id": "ccd6781b2c65",
-    "title_en": "Novva to acquire 3.17GW of Argentine renewable assets from ABO Energy",
-    "title_zh": "Novva将从ABO Energy收购3.17GW的阿根廷可再生能源资产",
-    "url": "https://www.energymonitor.ai/news/novva-to-acquire-assets-abo-energy/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-16T09:45:02+00:00"
-  },
-  "bab5026c7835": {
-    "id": "bab5026c7835",
-    "title_en": "ExxonMobil secures regulatory approval for Rose CCS project in Texas",
-    "title_zh": "埃克森美孚获得德克萨斯州Rose CCS项目的监管批准",
-    "url": "https://www.energymonitor.ai/news/exxonmobil-regulatory-approval-rose-ccs/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-16T09:32:35+00:00"
-  },
-  "71ddd6c7ecca": {
-    "id": "71ddd6c7ecca",
-    "title_en": "From grid code to grid connection: what makes a grid-forming BESS work in the real world?",
-    "title_zh": "从网格代码到网格连接：是什么让网格形成的BESS在现实世界中工作？",
-    "url": "https://www.energy-storage.news/from-grid-code-to-grid-connection-what-makes-a-grid-forming-bess-work-in-the-real-world/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-16T09:31:07+00:00"
-  },
-  "641d72a31d7f": {
-    "id": "641d72a31d7f",
-    "title_en": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
-    "title_zh": "沙特管道关闭后，日本炼油厂争相购买阿曼原油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Rush-for-Oman-Crude-After-Saudi-Pipeline-Shutdown.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T09:30:00+00:00"
-  },
-  "c403e491cb60": {
-    "id": "c403e491cb60",
-    "title_en": "BYD launches 62 MWh GC Block for gigawatt-scale battery storage plants",
-    "title_zh": "比亚迪推出62 MWh GC Block，用于千兆瓦级电池储能厂",
-    "url": "https://www.pv-magazine.com/2026/09/16/byd-launches-62-mwh-gc-block-for-gigawatt-scale-battery-storage-plants/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T09:26:25+00:00"
-  },
-  "ea009f7f611c": {
-    "id": "ea009f7f611c",
-    "title_en": "Zambia inks PPA for 500 MW solar project",
-    "title_zh": "赞比亚签署500兆瓦太阳能项目购电协议",
-    "url": "https://www.pv-magazine.com/2026/09/16/zambia-inks-ppa-for-500-mw-solar-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T09:12:42+00:00"
-  },
-  "59b4f0bb316e": {
-    "id": "59b4f0bb316e",
-    "title_en": "Western Balkans' largest wind hub inaugurated",
-    "title_zh": "西巴尔干地区最大的风电枢纽落成",
-    "url": "https://www.windpowermonthly.com/article/1970135/western-balkans-largest-wind-hub-inaugurated",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-16T08:56:58+00:00"
-  },
-  "c0f64adb0f44": {
-    "id": "c0f64adb0f44",
-    "title_en": "Ørsted and Enel Green Power chiefs to lead WindEurope",
-    "title_zh": "Ørsted和Enel Green Power首席执行官将领导WindEurope",
-    "url": "https://www.windpowermonthly.com/article/1970136/orsted-enel-green-power-chiefs-lead-windeurope",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-16T08:56:38+00:00"
   }
 }
