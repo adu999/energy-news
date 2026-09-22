@@ -1,4 +1,67 @@
 {
+  "2d68ca94be5c": {
+    "id": "2d68ca94be5c",
+    "title_en": "Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure",
+    "title_zh": "特朗普提议提供50亿美元资金重建海湾能源基础设施",
+    "url": "https://oilprice.com/Energy/Energy-General/Trump-Proposes-5-Billion-Fund-to-Rebuild-Gulf-Energy-Infrastructure.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T23:00:00+00:00"
+  },
+  "65776928cb19": {
+    "id": "65776928cb19",
+    "title_en": "Is China’s Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock",
+    "title_zh": "中国的秘密力量优势是否即将引发美国人工智能股票89%的暴跌",
+    "url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T22:00:00+00:00"
+  },
+  "e883d4c7c0bd": {
+    "id": "e883d4c7c0bd",
+    "title_en": "Rivian R3 will be ‘materially’ cheaper than R2, and R4 goes even lower",
+    "title_zh": "Rivian R3将比R2“实质上”便宜，R4甚至更低",
+    "url": "https://electrek.co/2026/09/22/rivian-r3-materially-cheaper-than-r2-r4-lower/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-22T21:30:59+00:00"
+  },
+  "f1dc41ba9e4f": {
+    "id": "f1dc41ba9e4f",
+    "title_en": "Electric Porsche Boxster spotted plugged in at Tesla Supercharger in California",
+    "title_zh": "电动保时捷Boxster被发现插在加利福尼亚州的特斯拉增压器上",
+    "url": "https://electrek.co/2026/09/22/electric-porsche-boxster-spotted-plugged-in-at-tesla-supercharger-in-california/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-22T21:16:18+00:00"
+  },
+  "503688ddc3d9": {
+    "id": "503688ddc3d9",
+    "title_en": "US Gasoline, Distillate Inventories Continue to Fall as Crude Stocks Hold",
+    "title_zh": "由于原油库存保持不变，美国汽油和馏分油库存继续下降",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Distillate-Inventories-Continue-to-Fall-as-Crude-Stocks-Hold.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T21:08:45+00:00"
+  },
+  "5c741d986bfa": {
+    "id": "5c741d986bfa",
+    "title_en": "Global Energy Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
+    "title_zh": "随着发展中国家的发展，到2060年全球能源需求将增长60%",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Demand-Set-to-Jump-60-by-2060-as-Developing-Nations-Power-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T21:00:00+00:00"
+  },
+  "bdbc23e40e12": {
+    "id": "bdbc23e40e12",
+    "title_en": "Nissan Rogue Hybrid — Look, Ma, No Plug!",
+    "title_zh": "日产流氓混合动力车——看，马，没插电！",
+    "url": "https://cleantechnica.com/2026/09/22/nissan-rogue-hybrid-look-ma-no-plug/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T20:56:44+00:00"
+  },
   "a55605c52f5a": {
     "id": "a55605c52f5a",
     "title_en": "BMW’s new iX3 gets an early loyalty discount",
@@ -4435,68 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-09-16T11:53:28+00:00"
-  },
-  "f429b89727c7": {
-    "id": "f429b89727c7",
-    "title_en": "Masdar to expand solar PV and energy storage development in Azerbaijan",
-    "title_zh": "马斯达尔将扩大阿塞拜疆的太阳能光伏和储能开发",
-    "url": "https://www.pv-tech.org/masdar-to-expand-solar-pv-and-energy-storage-development-in-azerbaijan/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T11:51:36+00:00"
-  },
-  "96d4d786b5db": {
-    "id": "96d4d786b5db",
-    "title_en": "California BESS projects have grid interconnection cost advantage over other US markets, developer says",
-    "title_zh": "开发商表示，加州BESS项目比其他美国市场具有电网互联成本优势",
-    "url": "https://www.energy-storage.news/california-bess-projects-have-grid-interconnection-cost-advantage-over-other-us-markets-developer-says/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-16T11:49:20+00:00"
-  },
-  "5ec1d7ac2421": {
-    "id": "5ec1d7ac2421",
-    "title_en": "85-MW solar tracker project comes online in Oklahoma",
-    "title_zh": "俄克拉荷马州85兆瓦太阳能跟踪器项目上线",
-    "url": "https://www.solarpowerworldonline.com/2026/09/85-mw-solar-tracker-project-comes-online-in-oklahoma/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T11:46:51+00:00"
-  },
-  "b0c821df6b2b": {
-    "id": "b0c821df6b2b",
-    "title_en": "US funding for Thai SMR feasibility study",
-    "title_zh": "美国资助泰国SMR可行性研究",
-    "url": "https://www.world-nuclear-news.org/articles/us-funding-for-thai-smr-feasibility-study",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-09-16T11:46:12+00:00"
-  },
-  "82b1bba0445f": {
-    "id": "82b1bba0445f",
-    "title_en": "Japan’s Top LNG Buyer to Sell Excess Gas in Global Markets",
-    "title_zh": "日本最大液化天然气买家将在全球市场出售多余天然气",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Top-LNG-Buyer-to-Sell-Excess-Gas-in-Global-Markets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T11:30:00+00:00"
-  },
-  "aa60d1db78d8": {
-    "id": "aa60d1db78d8",
-    "title_en": "Guinea plans solar, storage procurement program",
-    "title_zh": "几内亚计划太阳能、储能采购计划",
-    "url": "https://www.pv-magazine.com/2026/09/16/guinea-plans-solar-storage-procurement-program/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T11:00:18+00:00"
-  },
-  "71cb6aad95ac": {
-    "id": "71cb6aad95ac",
-    "title_en": "Von der Leyen ‘doubles down’ on EU's renewables drive",
-    "title_zh": "冯德莱恩“加倍努力”推动欧盟的可再生能源发展",
-    "url": "https://www.windpowermonthly.com/article/1970153/von-der-leyen-doubles-down-eus-renewables-drive",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-16T10:44:36+00:00"
   }
 }
