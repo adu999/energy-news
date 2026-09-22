@@ -1,4 +1,67 @@
 {
+  "ed2197bb92f1": {
+    "id": "ed2197bb92f1",
+    "title_en": "Tesla Racism Trial Launches",
+    "title_zh": "特斯拉种族主义审判启动",
+    "url": "https://cleantechnica.com/2026/09/21/tesla-racism-trial-launches/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T03:16:44+00:00"
+  },
+  "6fb62f0dea4a": {
+    "id": "6fb62f0dea4a",
+    "title_en": "Saudia Arabia Launches New Ceer EVs To Compete Against Tesla In It Own Backyard",
+    "title_zh": "沙特阿拉伯推出新的Ceer电动汽车，在自家后院与特斯拉竞争",
+    "url": "https://cleantechnica.com/2026/09/21/ceer-saudi-arabia-evs-exobot-domestic-manufacturing/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T03:15:06+00:00"
+  },
+  "4d6b0ed262ae": {
+    "id": "4d6b0ed262ae",
+    "title_en": "Norway’s Bastø Electric Shows What Five Years of Ferry Electrification Looks Like",
+    "title_zh": "挪威巴斯托电力公司展示了五年渡轮电气化的样子",
+    "url": "https://cleantechnica.com/2026/09/21/norways-basto-electric-shows-what-five-years-of-ferry-electrification-looks-like/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T02:47:22+00:00"
+  },
+  "2e7147179729": {
+    "id": "2e7147179729",
+    "title_en": "Donald Trump Loses in Court, Solar Energy Funds to be Reinstated",
+    "title_zh": "唐纳德·特朗普在法庭上败诉，太阳能基金将恢复",
+    "url": "https://cleantechnica.com/2026/09/21/donald-trump-loses-in-court-solar-energy-funds-to-be-reinstated/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T00:48:02+00:00"
+  },
+  "42cd26df0bbd": {
+    "id": "42cd26df0bbd",
+    "title_en": "After Court Rules Against Coal Orders in Michigan, Trump Administration Renews Illegal Operation Extension in Indiana for a Fourth Time",
+    "title_zh": "在密歇根州法院对煤炭订单作出裁决后，特朗普政府第四次延长印第安纳州的非法运营期限",
+    "url": "https://cleantechnica.com/2026/09/21/after-court-rules-against-coal-orders-in-michigan-trump-administration-renews-illegal-operation-extension-in-indiana-for-a-fourth-time/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T00:44:59+00:00"
+  },
+  "3a14b901e66d": {
+    "id": "3a14b901e66d",
+    "title_en": "Tackling Contrails Could Avoid 10 Years of Aviation-Related Climate Warming — New Research",
+    "title_zh": "解决飞机尾迹问题可以避免10年的航空相关气候变暖——新研究",
+    "url": "https://cleantechnica.com/2026/09/21/tackling-contrails-could-avoid-10-years-of-aviation-related-climate-warming-new-research/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-22T00:16:19+00:00"
+  },
+  "738929a33253": {
+    "id": "738929a33253",
+    "title_en": "Qatar’s LNG Loss Revives Projects From Argentina to Timor-Leste",
+    "title_zh": "卡塔尔的液化天然气损失恢复了从阿根廷到东帝汶的项目",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Qatars-LNG-Loss-Revives-Projects-From-Argentina-to-Timor-Leste.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-22T00:00:00+00:00"
+  },
   "8e4efb75d572": {
     "id": "8e4efb75d572",
     "title_en": "Google, Georgia Power Have Deal to Support Nuclear Power Plant Uprates",
@@ -4435,68 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-15T13:33:09+00:00"
-  },
-  "bd3772a5f3dd": {
-    "id": "bd3772a5f3dd",
-    "title_en": "China’s Yuan Crude Oil Futures Jump to Record High",
-    "title_zh": "中国人民币原油期货价格创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Yuan-Crude-Oil-Futures-Jump-to-Record-High.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-15T13:30:00+00:00"
-  },
-  "e96477886180": {
-    "id": "e96477886180",
-    "title_en": "This Brooklyn startup will put nearly 700 EV plugs on NYC curbs",
-    "title_zh": "这家布鲁克林初创公司将在纽约市的路缘上安装近700个电动汽车插头",
-    "url": "https://electrek.co/2026/09/15/this-brooklyn-startup-will-put-nearly-700-ev-plugs-on-nyc-streets/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-15T13:10:00+00:00"
-  },
-  "33d7b25d2530": {
-    "id": "33d7b25d2530",
-    "title_en": "Segway’s new 28 MPH MUXI Pro cargo e-bike gets automatic shifting and regen braking",
-    "title_zh": "Segway的新款28英里/小时MUXI Pro货运电动自行车实现了自动换档和再生制动",
-    "url": "https://electrek.co/2026/09/15/segways-new-28-mph-muxi-pro-cargo-e-bike-gets-automatic-shifting-and-regen-braking/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-15T13:00:00+00:00"
-  },
-  "2a78541d2fb5": {
-    "id": "2a78541d2fb5",
-    "title_en": "Scania Launches 720-KM Battery Electric Truck, Hydrogen Stakeholders Double Down",
-    "title_zh": "斯堪尼亚推出720-KM电池电动卡车，氢能利益相关者加倍努力",
-    "url": "https://cleantechnica.com/2026/09/15/electric-trucks-battery-fuel-cell-hydrogen-tesla-scania-volvo-daimler-toyot/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-15T12:44:52+00:00"
-  },
-  "9259b4aa7a75": {
-    "id": "9259b4aa7a75",
-    "title_en": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries",
-    "title_zh": "无人机袭击使俄罗斯一半的顶级柴油炼油厂瘫痪",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strikes-Cripple-Half-of-Russias-Top-Diesel-Refineries.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-15T12:30:00+00:00"
-  },
-  "217cf313ca39": {
-    "id": "217cf313ca39",
-    "title_en": "The value of solar PV in Northern regions is widely underestimated",
-    "title_zh": "北方地区太阳能光伏的价值被普遍低估",
-    "url": "https://www.pv-magazine.com/2026/09/15/the-value-of-solar-pv-in-northern-regions-is-widely-underestimated/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-15T12:26:40+00:00"
-  },
-  "70ef4481d3fc": {
-    "id": "70ef4481d3fc",
-    "title_en": "EIB Backs Lithuanian Port's Offshore Wind Upgrade",
-    "title_zh": "欧洲投资银行支持立陶宛港口海上风电升级",
-    "url": "https://offshorewind.biz/2026/09/15/eib-backs-lithuanian-ports-offshore-wind-upgrade",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-15T12:26:16+00:00"
   }
 }
