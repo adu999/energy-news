@@ -1,4 +1,283 @@
 {
+  "d84431a5ecfc": {
+    "id": "d84431a5ecfc",
+    "title_en": "South Korea tenders 6.6 GWh of six-hour storage under 15-year contracts",
+    "title_zh": "韩国根据15年合同招标6.6 GWh的6小时储能",
+    "url": "https://www.pv-magazine.com/2026/09/23/south-korea-tenders-6-6-gwh-of-six-hour-storage-under-15-year-contracts/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T10:34:27+00:00"
+  },
+  "b263af15601b": {
+    "id": "b263af15601b",
+    "title_en": "Modified consumer camera can measure solar cell open-circuit voltage",
+    "title_zh": "改进的消费类摄像头可以测量太阳能电池的开路电压",
+    "url": "https://www.pv-magazine.com/2026/09/23/modified-consumer-camera-can-measure-solar-cell-open-circuit-voltage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T10:30:17+00:00"
+  },
+  "5b71dfa7bdc9": {
+    "id": "5b71dfa7bdc9",
+    "title_en": "Comstock starts 24/7 operations at Nevada solar panel recycling facility",
+    "title_zh": "Comstock在内华达州太阳能电池板回收设施开始全天候运营",
+    "url": "https://www.pv-tech.org/comstock-starts-24-7-operations-at-nevada-solar-panel-recycling-facility/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T10:24:48+00:00"
+  },
+  "7b98b9e8a072": {
+    "id": "7b98b9e8a072",
+    "title_en": "Compressed air energy storage (CAES): yet to deliver on promises, can A-CAES go one step further?",
+    "title_zh": "压缩空气储能（CAES）：尚未兑现承诺，A-CAES能否更进一步？",
+    "url": "https://www.energy-storage.news/compressed-air-energy-storage-caes-yet-to-deliver-on-promises-can-a-caes-go-one-step-further/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-23T10:23:09+00:00"
+  },
+  "05f932213aed": {
+    "id": "05f932213aed",
+    "title_en": "CATL to supply 918MWh Romania BESS, another 500MWh of projects progress elsewhere in CEE",
+    "title_zh": "CATL将为罗马尼亚BESS提供918MWh的电力，中欧和东欧其他地区也有500MWh的项目进展",
+    "url": "https://www.energy-storage.news/catl-supply-918mwh-romania-bess-another-500mwh-projects-progress-elsewhere-in-cee/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-23T10:21:46+00:00"
+  },
+  "c55f63fd1abd": {
+    "id": "c55f63fd1abd",
+    "title_en": "Sleipnir Installs Second Hornsea 3 Offshore Substation",
+    "title_zh": "Sleipnir安装第二座Hornsea 3海上变电站",
+    "url": "https://offshorewind.biz/2026/09/23/sleipnir-installs-second-hornsea-3-offshore-substation",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-23T10:11:20+00:00"
+  },
+  "ce6121948521": {
+    "id": "ce6121948521",
+    "title_en": "Oil Set for Longest Losing Streak Since August 2025",
+    "title_zh": "油价将创下2025年8月以来最长跌幅",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Set-for-Longest-Losing-Streak-Since-August-2025.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T10:00:00+00:00"
+  },
+  "1d7280cac3ca": {
+    "id": "1d7280cac3ca",
+    "title_en": "SMT Energy and CAI agree to $268m equity deal",
+    "title_zh": "SMT Energy与CAI达成2.68亿美元股权交易",
+    "url": "https://www.energymonitor.ai/news/smt-energy-cai-equity-deal/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-09-23T09:51:35+00:00"
+  },
+  "c5635f348e99": {
+    "id": "c5635f348e99",
+    "title_en": "ACEN relinquishes Philippine solar projects over land, access issues",
+    "title_zh": "ACEN因土地和准入问题放弃菲律宾太阳能项目",
+    "url": "https://www.pv-magazine.com/2026/09/23/acen-relinquishes-philippine-solar-projects-over-land-access-issues/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T09:30:00+00:00"
+  },
+  "0ff5f2a6455f": {
+    "id": "0ff5f2a6455f",
+    "title_en": "Canadian province announces PV panel recycling fee",
+    "title_zh": "加拿大省宣布光伏板回收费",
+    "url": "https://www.pv-magazine.com/2026/09/23/canadian-province-announces-pv-panel-recycling-fee/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T09:27:25+00:00"
+  },
+  "59665fc4f2e3": {
+    "id": "59665fc4f2e3",
+    "title_en": "Negative electricity prices could favor thermal storage over industrial heat pumps",
+    "title_zh": "负电价可能有利于储热而非工业热泵",
+    "url": "https://www.pv-magazine.com/2026/09/23/negative-electricity-prices-could-favor-thermal-storage-over-industrial-heat-pumps/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T09:16:09+00:00"
+  },
+  "381b73fe6d33": {
+    "id": "381b73fe6d33",
+    "title_en": "New York, California Launch New Lawsuits Over Trump Administration's Offshore Wind Lease Buyouts",
+    "title_zh": "加利福尼亚州纽约市就特朗普政府的海上风电租赁收购提起新诉讼",
+    "url": "https://offshorewind.biz/2026/09/23/new-york-california-launch-new-lawsuits-over-trump-administrations-offshore-wind-lease-buyouts",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-23T09:15:20+00:00"
+  },
+  "5e776db5fc55": {
+    "id": "5e776db5fc55",
+    "title_en": "Sungrow brings PowerHarbor to Benelux homes for more value, less complexity",
+    "title_zh": "阳光电源将PowerHarbor引入比荷卢家庭，以获得更多价值，降低复杂性",
+    "url": "https://www.pv-magazine.com/2026/09/23/sungrow-brings-powerharbor-to-benelux-homes-for-more-value-less-complexity/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T09:00:00+00:00"
+  },
+  "4979aac8c890": {
+    "id": "4979aac8c890",
+    "title_en": "$100 Brent Keeping China's Oil Buying in Check, Goldman Says",
+    "title_zh": "高盛表示，100美元布伦特原油价格抑制了中国的石油购买",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/100-Brent-Keeping-Chinas-Oil-Buying-in-Check-Goldman-Says.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T09:00:00+00:00"
+  },
+  "12cf1e4b7cc0": {
+    "id": "12cf1e4b7cc0",
+    "title_en": "Australia’s first grid-connected sodium-sulfur battery goes online",
+    "title_zh": "澳大利亚首个并网钠硫电池上线",
+    "url": "https://www.pv-magazine.com/2026/09/23/australias-first-grid-connected-sodium-sulfur-battery-goes-online/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T08:31:43+00:00"
+  },
+  "fbf7b3a991f7": {
+    "id": "fbf7b3a991f7",
+    "title_en": "Siltrax launches 2–6 kW air-cooled fuel cell system for off-grid applications",
+    "title_zh": "Siltrax为离网应用推出2-6kW风冷燃料电池系统",
+    "url": "https://www.pv-magazine.com/2026/09/23/siltrax-launches-2-6-kw-air-cooled-fuel-cell-system-for-off-grid-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T08:22:42+00:00"
+  },
+  "6f08ace559bc": {
+    "id": "6f08ace559bc",
+    "title_en": "Australia’s Victoria requires new data centres to bring their own renewable energy and storage",
+    "title_zh": "澳大利亚维多利亚州要求新的数据中心自带可再生能源和存储",
+    "url": "https://www.energy-storage.news/australias-victoria-requires-new-data-centres-to-bring-their-own-renewable-energy-and-storage/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-23T08:21:48+00:00"
+  },
+  "24f74f808704": {
+    "id": "24f74f808704",
+    "title_en": "Albania moves closer to renewable energy communities",
+    "title_zh": "阿尔巴尼亚向可再生能源社区迈进",
+    "url": "https://www.pv-magazine.com/2026/09/23/albania-moves-closer-to-renewable-energy-communities/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T08:12:48+00:00"
+  },
+  "00c3d9612029": {
+    "id": "00c3d9612029",
+    "title_en": "Abu Dhabi lifts 2035 solar target to 35 GW, sets 15 GW storage goal",
+    "title_zh": "阿布扎比将2035年的太阳能目标提高到35吉瓦，设定了15吉瓦的储能目标",
+    "url": "https://www.pv-magazine.com/2026/09/23/abu-dhabi-lifts-2035-solar-target-to-35-gw-sets-15-gw-storage-goal/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T08:07:46+00:00"
+  },
+  "cd6895194f4e": {
+    "id": "cd6895194f4e",
+    "title_en": "Michigan Judge Tosses State's Antitrust Suit Against Big Oil",
+    "title_zh": "密歇根州法官驳回了该州对大型石油公司的反垄断诉讼",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Michigan-Judge-Tosses-States-Antitrust-Suit-Against-Big-Oil.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T08:00:00+00:00"
+  },
+  "01998061ea36": {
+    "id": "01998061ea36",
+    "title_en": "Price of US solar module imports up more than 40% since Section 232 tariffs",
+    "title_zh": "自232条款关税以来，美国太阳能组件进口价格上涨超过40%",
+    "url": "https://www.pv-tech.org/price-solar-modules-imported-us-up-more-than-40-section-232/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T07:34:03+00:00"
+  },
+  "3a29f0d66d95": {
+    "id": "3a29f0d66d95",
+    "title_en": "'We cannot keep going to these conferences and not talk factual buildout' – Vestas CEO",
+    "title_zh": "“我们不能继续参加这些会议，而不谈论事实上的建设”-维斯塔斯首席执行官",
+    "url": "https://www.windpowermonthly.com/article/1970681/we-cannot-keep-going-conferences-not-talk-factual-buildout-%E2%80%93-vestas-ceo",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-09-23T07:33:59+00:00"
+  },
+  "9f01147d82a8": {
+    "id": "9f01147d82a8",
+    "title_en": "With federal funding windfall, X-energy advances small nuclear reactor",
+    "title_zh": "在联邦资金的意外之财下，X-energy推进了小型核反应堆的发展",
+    "url": "https://www.canarymedia.com/articles/nuclear/federal-funding-x-energy-small-nuclear-reactor",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-23T07:30:00+00:00"
+  },
+  "426ea1a529b8": {
+    "id": "426ea1a529b8",
+    "title_en": "A new fleet of electric school buses hits New York City streets",
+    "title_zh": "一队新的电动校车驶上纽约市街头",
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/electric-school-buses-new-york-city",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-23T07:30:00+00:00"
+  },
+  "3f0145cf3e7d": {
+    "id": "3f0145cf3e7d",
+    "title_en": "NSW consults on Australia’s first mandatory solar module recycling scheme",
+    "title_zh": "新南威尔士州就澳大利亚首个强制性太阳能模块回收计划进行咨询",
+    "url": "https://www.pv-tech.org/nsw-consults-on-australias-first-mandatory-solar-module-recycling-scheme/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-23T07:27:05+00:00"
+  },
+  "bd2c59f3308a": {
+    "id": "bd2c59f3308a",
+    "title_en": "German Maritime Lighting Company Wins Contract for Four 2 GW Offshore Platforms",
+    "title_zh": "德国海事照明公司赢得四个2GW海上平台合同",
+    "url": "https://offshorewind.biz/2026/09/23/german-maritime-lighting-company-wins-contract-for-four-2-gw-offshore-platforms",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-09-23T07:17:20+00:00"
+  },
+  "2f09f4fde66f": {
+    "id": "2f09f4fde66f",
+    "title_en": "South Korea Aims to Cut Middle East Crude Reliance to 50% by 2035",
+    "title_zh": "韩国计划到2035年将中东原油依赖率降至50%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Aims-to-Cut-Middle-East-Crude-Reliance-to-50-by-2035.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T06:29:00+00:00"
+  },
+  "378aebfc3e8c": {
+    "id": "378aebfc3e8c",
+    "title_en": "Trump Backs Diesel Export Ban as Prices Hit Record Highs",
+    "title_zh": "特朗普支持柴油出口禁令，因为价格创下历史新高",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Backs-Diesel-Export-Ban-as-Prices-Hit-Record-Highs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T05:35:19+00:00"
+  },
+  "8aca5390f96e": {
+    "id": "8aca5390f96e",
+    "title_en": "BYD Launches Major 44-Metric Ton Electric Truck in IAA Transport",
+    "title_zh": "比亚迪在IAA运输中推出44公吨电动卡车",
+    "url": "https://cleantechnica.com/2026/09/23/byd-launches-major-44-metric-ton-electric-truck-in-iaa-transport/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T05:17:16+00:00"
+  },
+  "05b600544024": {
+    "id": "05b600544024",
+    "title_en": "Investment Grows for Storage, Renewable Energy Projects in Chile",
+    "title_zh": "智利储能和可再生能源项目投资增长",
+    "url": "https://www.powermag.com/investment-grows-for-storage-renewable-energy-projects-in-chile/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-09-23T04:00:00+00:00"
+  },
+  "2c5caa4fbf47": {
+    "id": "2c5caa4fbf47",
+    "title_en": "Autonomy, Meet Autonomous — Waymo Teen Accounts in Nashville",
+    "title_zh": "自主，遇见自主——纳什维尔Waymo青少年账户",
+    "url": "https://cleantechnica.com/2026/09/22/autonomy-meet-autonomous-waymo-teen-accounts-in-nashville/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T03:34:51+00:00"
+  },
   "f6120ac0ad33": {
     "id": "f6120ac0ad33",
     "title_en": "Waymo: Introducing Transit Rewards",
@@ -574,6 +853,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-22T12:11:57+00:00"
+  },
+  "9b6bb9466668": {
+    "id": "9b6bb9466668",
+    "title_en": "Windenergy Hamburg: This year is a reminder that renewables are the 'cheapest solution for society'",
+    "title_zh": "汉堡风能：今年提醒我们，可再生能源是“社会最便宜的解决方案”",
+    "url": "https://www.windpowermonthly.com/article/1970607/windenergy-hamburg-year-reminder-renewables-cheapest-solution-society",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-09-22T12:06:47+00:00"
   },
   "18bf850bcc9e": {
     "id": "18bf850bcc9e",
@@ -3716,6 +4004,15 @@
     "category": "综合",
     "pub_ts": "2026-09-17T09:55:19+00:00"
   },
+  "ed7d17200730": {
+    "id": "ed7d17200730",
+    "title_en": "Smolensk's planned new units get environmental approval",
+    "title_zh": "斯摩棱斯克计划中的新机组获得环境批准",
+    "url": "https://www.world-nuclear-news.org/articles/smolensks-planned-new-units-get-environmental-approval",
+    "source": "World Nuclear News",
+    "category": "核能",
+    "pub_ts": "2026-09-17T09:52:41+00:00"
+  },
   "9aae0c22a9be": {
     "id": "9aae0c22a9be",
     "title_en": "EEW SPC to Supply TP-Less Monopiles for First Phase of CIP and Vattenfall’s Zeevonk Project",
@@ -4201,302 +4498,5 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-09-16T16:50:49+00:00"
-  },
-  "76fed6f3e420": {
-    "id": "76fed6f3e420",
-    "title_en": "AI Is Climate Tech’s Newest Hype Layer — The Commercial Problems Are Older",
-    "title_zh": "人工智能是气候技术最新的炒作层——商业问题更古老",
-    "url": "https://cleantechnica.com/2026/09/16/ai-is-climate-techs-newest-hype-layer/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T16:44:07+00:00"
-  },
-  "390f823f6419": {
-    "id": "390f823f6419",
-    "title_en": "Energy Shock Puts Bank of England Under Pressure to Raise Rates",
-    "title_zh": "能源冲击使英格兰银行面临加息压力",
-    "url": "https://oilprice.com/Energy/Energy-General/Energy-Shock-Puts-Bank-of-England-Under-Pressure-to-Raise-Rates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T16:00:00+00:00"
-  },
-  "2b68f6244463": {
-    "id": "2b68f6244463",
-    "title_en": "Good News, Bad News From IAA Transportation Show In Germany",
-    "title_zh": "德国IAA运输展的好消息和坏消息",
-    "url": "https://cleantechnica.com/2026/09/16/good-news-bad-news-from-iaa-transportation-show-in-germany/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T15:54:44+00:00"
-  },
-  "c3a1c8d75184": {
-    "id": "c3a1c8d75184",
-    "title_en": "Blue Energy submits first construction application to NRC",
-    "title_zh": "蓝色能源向NRC提交首份施工申请",
-    "url": "https://www.world-nuclear-news.org/articles/blue-energy-submits-first-construction-application-to-nrc",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-09-16T15:43:32+00:00"
-  },
-  "74cdae2df014": {
-    "id": "74cdae2df014",
-    "title_en": "Russia Extends Diesel Export Ban Through October",
-    "title_zh": "俄罗斯将柴油出口禁令延长至10月",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Extends-Diesel-Export-Ban-Through-October.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T15:30:00+00:00"
-  },
-  "d24ecdba0bad": {
-    "id": "d24ecdba0bad",
-    "title_en": "Climavision offers expanded weather forecasting to data centers",
-    "title_zh": "Climavision为数据中心提供扩展的天气预报",
-    "url": "https://www.utilitydive.com/news/climavision-offers-expanded-weather-forecasting-to-data-centers/830057/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-16T15:09:06+00:00"
-  },
-  "f861d15014aa": {
-    "id": "f861d15014aa",
-    "title_en": "Tesla’s new ‘Accordion’ Supercharger could speed up its slow buildout",
-    "title_zh": "特斯拉的新“According”增压器可能会加快其缓慢的建设速度",
-    "url": "https://electrek.co/2026/09/16/tesla-accordion-supercharger-deployment/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-16T14:56:06+00:00"
-  },
-  "2fbc127aafd6": {
-    "id": "2fbc127aafd6",
-    "title_en": "Volkswagen’s new electric hot hatch delivers more power than the Golf GTI [Images]",
-    "title_zh": "大众汽车的新型电动热舱比高尔夫GTI提供更多动力[图片]",
-    "url": "https://electrek.co/2026/09/16/vws-new-ev-hot-hatch-more-power-than-golf-gti-images/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-16T14:49:30+00:00"
-  },
-  "f74dedf32228": {
-    "id": "f74dedf32228",
-    "title_en": "Poland’s solar pipeline hits 40.6 GW",
-    "title_zh": "波兰的太阳能管道达到40.6吉瓦",
-    "url": "https://www.pv-magazine.com/2026/09/16/polands-solar-pipeline-hits-40-6-gw/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T14:45:00+00:00"
-  },
-  "b992f1a5ce95": {
-    "id": "b992f1a5ce95",
-    "title_en": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens",
-    "title_zh": "随着燃料需求疲软，美国石油库存小幅下降",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Edge-Lower-as-Fuel-Demand-Softens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T14:41:00+00:00"
-  },
-  "d91c34dfa88c": {
-    "id": "d91c34dfa88c",
-    "title_en": "Utility costs could put pressure on cities’ finances, S&P experts warn",
-    "title_zh": "标普专家警告称，公用事业成本可能会给城市财政带来压力",
-    "url": "https://www.utilitydive.com/news/rising-utility-costs-could-put-pressure-on-cities-finances-sp-experts-wa/830557/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-16T14:33:14+00:00"
-  },
-  "56709a6c3151": {
-    "id": "56709a6c3151",
-    "title_en": "TTF Gas Hits $92.95 as Gulf Tensions Weigh on Energy Markets",
-    "title_zh": "海湾紧张局势对能源市场造成压力，TTF天然气价格达到92.95美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/TTF-Gas-Hits-9295-as-Gulf-Tensions-Weigh-on-Energy-Markets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T14:30:00+00:00"
-  },
-  "2bd38ca4ee50": {
-    "id": "2bd38ca4ee50",
-    "title_en": "Ørsted Opens EUR 26+ Million Tender for Birds & Bats Monitoring at Polish Offshore Wind Farms",
-    "title_zh": "Ørsted为波兰海上风电场的鸟类和蝙蝠监测项目招标2600多万欧元",
-    "url": "https://offshorewind.biz/2026/09/16/orsted-opens-eur-26-million-tender-for-birds-and-bats-monitoring-at-polish-offshore-wind-farms",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-16T14:14:55+00:00"
-  },
-  "68ae911fd247": {
-    "id": "68ae911fd247",
-    "title_en": "600 More Curbside EV Charging Stations For New York City",
-    "title_zh": "纽约市新增600个路边电动汽车充电站",
-    "url": "https://cleantechnica.com/2026/09/16/curbside-ev-charging-new-york-city-news/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T14:09:21+00:00"
-  },
-  "e32bca28895d": {
-    "id": "e32bca28895d",
-    "title_en": "Europe’s Electric Backbone",
-    "title_zh": "欧洲的电力支柱",
-    "url": "https://cleantechnica.com/2026/09/16/europes-electric-backbone/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T14:07:50+00:00"
-  },
-  "4fff609f620f": {
-    "id": "4fff609f620f",
-    "title_en": "Why Allowing “e-HEFA” to Count Towards the ReFuelEU e-SAF Mandate Would Be a Strategic Mistake",
-    "title_zh": "为什么允许“e-HEFA”计入欧盟e-SAF授权将是一个战略错误",
-    "url": "https://cleantechnica.com/2026/09/16/why-allowing-e-hefa-to-count-towards-the-refueleu-e-saf-mandate-would-be-a-strategic-mistake/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T14:02:10+00:00"
-  },
-  "4ef51dc93c8d": {
-    "id": "4ef51dc93c8d",
-    "title_en": "Sweeping Russia-Iran Sanctions Bill Advances Toward House Vote",
-    "title_zh": "全面的俄罗斯-伊朗制裁法案向众议院投票迈进",
-    "url": "https://oilprice.com/Geopolitics/Europe/Sweeping-Russia-Iran-Sanctions-Bill-Advances-Toward-House-Vote.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T14:00:00+00:00"
-  },
-  "a8dfd0ed2b68": {
-    "id": "a8dfd0ed2b68",
-    "title_en": "Safeguarding the Integrity of EU Synthetic Fuels Targets under ReFuelEU Aviation & FuelEU Maritime",
-    "title_zh": "在ReFuelEU航空和FuelEU海事下维护欧盟合成燃料目标的完整性",
-    "url": "https://cleantechnica.com/2026/09/16/safeguarding-the-integrity-of-eu-synthetic-fuels-targets-under-refueleu-aviation-fueleu-maritime/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T13:53:52+00:00"
-  },
-  "dcb5a2fe3b0d": {
-    "id": "dcb5a2fe3b0d",
-    "title_en": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
-    "title_zh": "分析：在霍尔木兹危机期间，全球化石燃料排放量将在2026年下降",
-    "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-09-16T13:34:02+00:00"
-  },
-  "bb63e35360c6": {
-    "id": "bb63e35360c6",
-    "title_en": "State-led planning could advance clean energy in deregulated markets: report",
-    "title_zh": "国家主导的规划可以在放松管制的市场中推进清洁能源：报告",
-    "url": "https://www.utilitydive.com/news/state-led-planning-could-advance-clean-energy-in-deregulated-markets-repor/830529/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-16T13:33:25+00:00"
-  },
-  "94f31174a753": {
-    "id": "94f31174a753",
-    "title_en": "ActionAid Report Argues For Cancelling Debt In Climate-Vulnerable Countries",
-    "title_zh": "援助行动组织报告主张取消气候脆弱国家的债务",
-    "url": "https://cleantechnica.com/2026/09/16/actionaid-report-argues-for-cancelling-debt-in-climate-vulnerable-countries/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T13:33:13+00:00"
-  },
-  "73b6f6ca8d9f": {
-    "id": "73b6f6ca8d9f",
-    "title_en": "Germany Weighs Market Incentives to Boost Record Low Gas Storage Level",
-    "title_zh": "德国权衡市场激励措施以提高创纪录的低天然气储存水平",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Weighs-Market-Incentives-to-Boost-Record-Low-Gas-Storage-Level.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T13:30:00+00:00"
-  },
-  "2a8e16a32994": {
-    "id": "2a8e16a32994",
-    "title_en": "SEG Solar starts commercial-scale HJT solar panel production in Houston",
-    "title_zh": "SEG Solar在休斯顿开始商业规模的HJT太阳能电池板生产",
-    "url": "https://www.solarpowerworldonline.com/2026/09/seg-solar-starts-commercial-scale-hjt-solar-panel-production-in-houston/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T13:29:58+00:00"
-  },
-  "3d3b16444bc5": {
-    "id": "3d3b16444bc5",
-    "title_en": "‘Sodium-ion still very much on the fringe’: German market sources on technology and procurement",
-    "title_zh": "“钠离子仍然处于边缘地位”：德国市场技术和采购消息来源",
-    "url": "https://www.energy-storage.news/sodium-ion-still-very-much-on-the-fringe-german-market-sources-on-technology-and-procurement/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-16T13:16:27+00:00"
-  },
-  "7c5b2578123c": {
-    "id": "7c5b2578123c",
-    "title_en": "World Premiere of the All-New Electric ID.3 GTI: Most Powerful Model in 5 Decades of GTI History",
-    "title_zh": "全新电动ID.3 GTI全球首发：GTI 50年历史上最强大的车型",
-    "url": "https://cleantechnica.com/2026/09/16/world-premiere-of-the-all-new-electric-id-3-gti-most-powerful-model-in-five-decades-of-gti-history/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-16T13:14:35+00:00"
-  },
-  "e79785ebb692": {
-    "id": "e79785ebb692",
-    "title_en": "GRID Alternatives returns to its 1st solar project 20 years later",
-    "title_zh": "20年后，GRID Alternatives重返其首个太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/09/grid-alternatives-returns-to-its-1st-solar-project-20-years-later/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T13:07:42+00:00"
-  },
-  "b563a8b2b838": {
-    "id": "b563a8b2b838",
-    "title_en": "Companies from different solar segments form alliance supporting small-scale PV",
-    "title_zh": "来自不同太阳能领域的公司结成联盟，支持小型光伏",
-    "url": "https://www.solarpowerworldonline.com/2026/09/companies-from-different-solar-segments-form-alliance-supporting-small-scale-pv/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T13:00:55+00:00"
-  },
-  "ef04ddde4596": {
-    "id": "ef04ddde4596",
-    "title_en": "The next perovskite challenge isn’t efficiency — it’s repeatable manufacturing",
-    "title_zh": "下一个钙钛矿挑战不是效率，而是可重复制造",
-    "url": "https://www.solarpowerworldonline.com/2026/09/the-next-perovskite-challenge-isnt-efficiency-its-repeatable-manufacturing/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T13:00:09+00:00"
-  },
-  "278ec091b6a4": {
-    "id": "278ec091b6a4",
-    "title_en": "Investment tax credit glut gives corporate buyers more leverage, report says",
-    "title_zh": "报告称，投资税收抵免过剩为企业买家提供了更多杠杆",
-    "url": "https://www.utilitydive.com/news/investment-tax-credit-glut-gives-corporate-buyers-more-leverage/830267/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-16T13:00:00+00:00"
-  },
-  "65eb7d25117a": {
-    "id": "65eb7d25117a",
-    "title_en": "SEIA is absorbing the Coalition for Community Solar Access",
-    "title_zh": "SEIA正在吸收社区太阳能接入联盟",
-    "url": "https://www.solarpowerworldonline.com/2026/09/seia-is-absorbing-the-coalition-for-community-solar-access/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T12:49:27+00:00"
-  },
-  "e3e2a6783070": {
-    "id": "e3e2a6783070",
-    "title_en": "Utilities, schools see growing value in electric buses for virtual power plants",
-    "title_zh": "公用事业公司和学校认为电动公交车在虚拟发电厂中的价值越来越大",
-    "url": "https://www.utilitydive.com/news/utilities-school-districts-see-growing-value-in-electric-buses-for-vpp/830499/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-16T12:42:38+00:00"
-  },
-  "20fcf140b409": {
-    "id": "20fcf140b409",
-    "title_en": "Norway hits 1 GW solar milestone",
-    "title_zh": "挪威达到1GW太阳能里程碑",
-    "url": "https://www.pv-magazine.com/2026/09/16/norway-passes-1-gw-solar-milestone/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T12:34:24+00:00"
-  },
-  "c5af74a537e5": {
-    "id": "c5af74a537e5",
-    "title_en": "Rivian’s ALSO e-bikes are finally hitting the road – but not for frustrated customers",
-    "title_zh": "Rivian的ALSO电动自行车终于上路了，但不是为了沮丧的顾客",
-    "url": "https://electrek.co/2026/09/16/rivians-also-e-bikes-are-finally-hitting-the-road-but-not-for-frustrated-customers/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-16T12:33:00+00:00"
   }
 }
