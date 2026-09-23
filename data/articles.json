@@ -1,4 +1,58 @@
 {
+  "f6120ac0ad33": {
+    "id": "f6120ac0ad33",
+    "title_en": "Waymo: Introducing Transit Rewards",
+    "title_zh": "Waymo：推出过境奖励",
+    "url": "https://cleantechnica.com/2026/09/22/waymo-introducing-transit-rewards/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T03:19:07+00:00"
+  },
+  "ec601d1effb8": {
+    "id": "ec601d1effb8",
+    "title_en": "A Continent Squeezed",
+    "title_zh": "被挤压的大陆",
+    "url": "https://cleantechnica.com/2026/09/22/a-continent-squeezed/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T03:07:54+00:00"
+  },
+  "d861de075541": {
+    "id": "d861de075541",
+    "title_en": "Hyundai Motor Continues Award Streak With IONIQ 6 N’s German Car of the Year Success",
+    "title_zh": "现代汽车凭借IONIQ 6 N的德国年度汽车成功继续获奖",
+    "url": "https://cleantechnica.com/2026/09/22/hyundai-motor-continues-award-streak-with-ioniq-6-ns-german-car-of-the-year-success/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T02:08:47+00:00"
+  },
+  "effea8353c9a": {
+    "id": "effea8353c9a",
+    "title_en": "German Car of the Year 2026 Award for the All-New Electric ID. Polo",
+    "title_zh": "2026年度德国汽车奖：全新电动ID Polo",
+    "url": "https://cleantechnica.com/2026/09/22/german-car-of-the-year-2026-award-for-the-all-new-electric-id-polo/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T00:43:26+00:00"
+  },
+  "75edb8db512a": {
+    "id": "75edb8db512a",
+    "title_en": "Europe Paying €200 Million A Day Diesel Premium, Report Shows",
+    "title_zh": "报告显示，欧洲每天支付2亿欧元的柴油溢价",
+    "url": "https://cleantechnica.com/2026/09/22/europe-paying-e200-million-a-day-diesel-premium-report-shows/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T00:36:03+00:00"
+  },
+  "40f1b4a9c38d": {
+    "id": "40f1b4a9c38d",
+    "title_en": "Washington Needs This LNG Deal More Than Beijing Does",
+    "title_zh": "华盛顿比北京更需要这项液化天然气协议",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Washington-Needs-This-LNG-Deal-More-Than-Beijing-Does.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T00:00:00+00:00"
+  },
   "2d68ca94be5c": {
     "id": "2d68ca94be5c",
     "title_en": "Trump Proposes $5 Billion Fund to Rebuild Gulf Energy Infrastructure",
@@ -4444,59 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-16T12:33:00+00:00"
-  },
-  "c3dbe458f72f": {
-    "id": "c3dbe458f72f",
-    "title_en": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers",
-    "title_zh": "美国调查德克萨斯州油轮涉嫌网络攻击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Investigates-Suspected-Cyber-Attacks-on-Texas-Bound-Tankers.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-16T12:30:00+00:00"
-  },
-  "5114caedcb6f": {
-    "id": "5114caedcb6f",
-    "title_en": "‘A really hard problem’: Gridmatic CCO on the challenges of BESS revenue forecasting, the role of AI and load co-location",
-    "title_zh": "“一个非常困难的问题”：Gridmatic CCO关于BESS收入预测的挑战、人工智能的作用和负载协同定位",
-    "url": "https://www.energy-storage.news/a-really-hard-problem-gridmatic-cco-on-the-challenges-of-bess-revenue-forecasting-the-role-of-ai-and-load-co-location/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-16T12:22:32+00:00"
-  },
-  "53819213c471": {
-    "id": "53819213c471",
-    "title_en": "Wind turbine lifespan management: Achieving reliability in extreme conditions",
-    "title_zh": "风力涡轮机寿命管理：在极端条件下实现可靠性",
-    "url": "https://www.energymonitor.ai/sponsored/wind-turbine-lifespan-management-achieving-reliability-in-extreme-conditions/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-16T12:13:49+00:00"
-  },
-  "99036f9310d7": {
-    "id": "99036f9310d7",
-    "title_en": "Over 90% of solar professionals report growing project deployment pipeline in latest PVcase report",
-    "title_zh": "在最新的PVcase报告中，超过90%的太阳能专业人士报告称项目部署管道正在增长",
-    "url": "https://www.pv-tech.org/over-90-solar-professionals-report-growing-project-deployment-pipeline-pvcase-report/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T12:05:50+00:00"
-  },
-  "ae038c65c13b": {
-    "id": "ae038c65c13b",
-    "title_en": "Saatvik secures 600MW SECI PV module supply",
-    "title_zh": "Saatvik获得600MW SECI光伏组件供应",
-    "url": "https://www.pv-tech.org/saatvik-secures-600mw-seci-pv-module-supply/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T11:54:27+00:00"
-  },
-  "43919c1a47b9": {
-    "id": "43919c1a47b9",
-    "title_en": "First Solar ends Sec. 337 investigation into competitors allegedly infringing on TOPCon patent",
-    "title_zh": "First Solar结束对涉嫌侵犯TOPCon专利的竞争对手的337调查",
-    "url": "https://www.solarpowerworldonline.com/2026/09/first-solar-ends-sec-337-investigation-into-competitors-allegedly-infringing-on-topcon-patent/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-16T11:53:28+00:00"
   }
 }
