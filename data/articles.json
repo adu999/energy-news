@@ -1,4 +1,85 @@
 {
+  "0dd976bb5b24": {
+    "id": "0dd976bb5b24",
+    "title_en": "Developers Valent, Akaysha advance 550MW of NEM-connected BESS in Victoria, Australia",
+    "title_zh": "开发商Valent，Akaysha在澳大利亚维多利亚州推进了550MW的NEM连接BESS",
+    "url": "https://www.energy-storage.news/developers-valent-akaysha-advance-550mw-of-nem-connected-bess-in-victoria-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-24T03:20:07+00:00"
+  },
+  "573c0f3c7cd2": {
+    "id": "573c0f3c7cd2",
+    "title_en": "POWER Digest [October 2026]",
+    "title_zh": "《电力文摘》[2026年10月]",
+    "url": "https://www.powermag.com/power-digest-october-2026/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-09-24T02:38:36+00:00"
+  },
+  "578ab4b4ba9c": {
+    "id": "578ab4b4ba9c",
+    "title_en": "The Juiced Bikes Scrambler — CleanTechnica Tested",
+    "title_zh": "榨汁自行车炒车机——CleanTechnica测试",
+    "url": "https://cleantechnica.com/2026/09/23/the-juiced-bikes-scrambler-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-24T01:14:37+00:00"
+  },
+  "d1ba80d50512": {
+    "id": "d1ba80d50512",
+    "title_en": "New National Sierra Club Report Spotlights We Energies Failing the Clean Energy Transition Amid Data Center Surge",
+    "title_zh": "新的国家塞拉俱乐部报告指出，在数据中心激增的情况下，我们的能源未能实现清洁能源转型",
+    "url": "https://cleantechnica.com/2026/09/23/new-national-sierra-club-report-spotlights-we-energies-failing-the-clean-energy-transition-amid-data-center-surge/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-24T00:02:07+00:00"
+  },
+  "3ca59afe93eb": {
+    "id": "3ca59afe93eb",
+    "title_en": "NEW REPORT: Mississippi Power Failing to Lower Costs & Pollution",
+    "title_zh": "新报道：密西西比州电力公司未能降低成本和污染",
+    "url": "https://cleantechnica.com/2026/09/23/new-report-mississippi-power-failing-to-lower-costs-pollution/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T23:34:18+00:00"
+  },
+  "3c9a0e80102b": {
+    "id": "3c9a0e80102b",
+    "title_en": "NEW REPORT: NW Natural’s Biomethane Boondoggle Finds SB 98 Is Greenwashing Fossil Gas, Driving Pollution, and Failing Oregon’s Climate Goals",
+    "title_zh": "新报道：NW Natural的生物甲烷Boondoggle发现SB 98正在使化石气体变绿，造成污染，并未能实现俄勒冈州的气候目标",
+    "url": "https://cleantechnica.com/2026/09/23/new-report-nw-naturals-biomethane-boondoggle-finds-sb-98-is-greenwashing-fossil-gas-driving-pollution-and-failing-oregons-climate-goals/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-23T23:28:46+00:00"
+  },
+  "b3cecfd5a4a1": {
+    "id": "b3cecfd5a4a1",
+    "title_en": "Canada’s Oil Patch On Track For Biggest M&A Wave In A Decade",
+    "title_zh": "加拿大石油板块有望迎来十年来最大规模的并购浪潮",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Canadas-Oil-Patch-On-Track-For-Biggest-MA-Wave-In-A-Decade.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T23:00:00+00:00"
+  },
+  "b2591804bea9": {
+    "id": "b2591804bea9",
+    "title_en": "White House Rules Out Diesel Export Ban as Prices Surge Above $6.50",
+    "title_zh": "白宫排除柴油出口禁令，因价格飙升至6.50美元以上",
+    "url": "https://oilprice.com/Energy/Energy-General/White-House-Rules-Out-Diesel-Export-Ban-as-Prices-Surge-Above-650.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-23T22:00:00+00:00"
+  },
+  "d6fbf804b53c": {
+    "id": "d6fbf804b53c",
+    "title_en": "BMW fast-tracks the new i3, with reservations now opening next week",
+    "title_zh": "宝马快速跟进新款i3，预订将于下周开放",
+    "url": "https://electrek.co/2026/09/23/bmw-fast-tracks-new-i3-reservations-opening-next-week/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-23T21:16:42+00:00"
+  },
   "25bc8aee4325": {
     "id": "25bc8aee4325",
     "title_en": "China's Newest Power Plant Swaps Steam for Supercritical CO2",
@@ -475,6 +556,15 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-09-23T11:53:22+00:00"
+  },
+  "5fd7dd621eb7": {
+    "id": "5fd7dd621eb7",
+    "title_en": "Efforts to curb data center speculation gain ground across the US",
+    "title_zh": "遏制数据中心投机的努力在美国各地取得了进展",
+    "url": "https://www.utilitydive.com/news/efforts-to-curb-data-center-speculation-gain-ground-across-the-us/830495/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-23T11:50:24+00:00"
   },
   "5124e0c7a03a": {
     "id": "5124e0c7a03a",
@@ -4408,95 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-17T13:22:08+00:00"
-  },
-  "f2f9eeb0ee0d": {
-    "id": "f2f9eeb0ee0d",
-    "title_en": "First Data from ‘Most Ecological Offshore Wind Farm’ Made Publicly Available",
-    "title_zh": "“最生态的海上风电场”的首批数据公开",
-    "url": "https://offshorewind.biz/2026/09/17/first-data-from-most-ecological-offshore-wind-farm-made-publicly-available",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-17T13:11:39+00:00"
-  },
-  "0fc688ed6f01": {
-    "id": "0fc688ed6f01",
-    "title_en": "Lucid and Bolt to deploy 25,000 autonomous EVs across Europe",
-    "title_zh": "Lucid和Bolt将在欧洲部署25000辆自动驾驶电动汽车",
-    "url": "https://electrek.co/2026/09/17/lucid-bolt-25000-autonomous-evs-europe/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-17T12:56:46+00:00"
-  },
-  "fdde3993eb41": {
-    "id": "fdde3993eb41",
-    "title_en": "New Life For EV Charging Stations Trump Tried To Kill",
-    "title_zh": "特朗普试图扼杀电动汽车充电站的新生活",
-    "url": "https://cleantechnica.com/2026/09/17/ev-charging-stations-public-nevi-funds-trump/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-17T12:51:13+00:00"
-  },
-  "c1ecc7caa7c4": {
-    "id": "c1ecc7caa7c4",
-    "title_en": "Taiwan adds carbon-footprint requirement to high-efficiency PV module standard",
-    "title_zh": "台湾增加碳足迹要求高效率光伏组件标准",
-    "url": "https://www.pv-magazine.com/2026/09/17/taiwan-adds-carbon-footprint-requirement-to-high-efficiency-pv-module-standard/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-17T12:45:00+00:00"
-  },
-  "db8705d7b149": {
-    "id": "db8705d7b149",
-    "title_en": "First Solar drops TOPCon patent complaint",
-    "title_zh": "First Solar撤销TOPCon专利投诉",
-    "url": "https://www.pv-magazine.com/2026/09/17/first-solar-drops-topcon-patent-complaint/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-17T12:35:03+00:00"
-  },
-  "e9969a0a285e": {
-    "id": "e9969a0a285e",
-    "title_en": "Europe's Biggest Independent Solar Operator Just Went Bankrupt",
-    "title_zh": "欧洲最大的独立太阳能运营商刚刚破产",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Biggest-Independent-Solar-Operator-Just-Went-Bankrupt.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-17T12:30:00+00:00"
-  },
-  "5686b257aa20": {
-    "id": "5686b257aa20",
-    "title_en": "Bangladesh launches $123 million rooftop solar fund",
-    "title_zh": "孟加拉国启动1.23亿美元屋顶太阳能基金",
-    "url": "https://www.pv-magazine.com/2026/09/17/bangladesh-launches-123-million-rooftop-solar-fund/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-17T12:21:07+00:00"
-  },
-  "01e8dd2abff3": {
-    "id": "01e8dd2abff3",
-    "title_en": "South Korea’s new agrivoltaics law sets 30-year permit ceiling",
-    "title_zh": "韩国新的农业光伏法设定了30年的许可上限",
-    "url": "https://www.pv-magazine.com/2026/09/17/south-koreas-new-agrivoltaics-law-sets-30-year-permit-ceiling/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-17T12:15:00+00:00"
-  },
-  "f93e252ecdc9": {
-    "id": "f93e252ecdc9",
-    "title_en": "Contracted revenue key to California BESS financing as merchant market weakens, esVolta CEO explains",
-    "title_zh": "esVolta首席执行官解释说，随着商业市场疲软，合同收入是加州BESS融资的关键",
-    "url": "https://www.energy-storage.news/contracted-revenue-key-to-california-bess-financing-as-merchant-market-weakens-esvolta-ceo-explains/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-17T12:09:09+00:00"
-  },
-  "6b224d11f6db": {
-    "id": "6b224d11f6db",
-    "title_en": "Commissioning delays and technical gaps plague battery storage handovers, industry experts warn",
-    "title_zh": "行业专家警告称，调试延误和技术差距困扰着电池存储交接",
-    "url": "https://www.energy-storage.news/commissioning-delays-and-technical-gaps-plague-battery-storage-handovers-industry-experts-warn/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-17T12:06:25+00:00"
   }
 }
