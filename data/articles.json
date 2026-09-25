@@ -1,4 +1,121 @@
 {
+  "5587d7dc54c1": {
+    "id": "5587d7dc54c1",
+    "title_en": "ESR to acquire Aquila Clean Energy APAC in Asia-Pacific renewables and energy storage consolidation",
+    "title_zh": "ESR将收购Aquila Clean Energy APAC在亚太地区的可再生能源和能源存储整合",
+    "url": "https://www.energy-storage.news/esr-to-acquire-aquila-clean-energy-apac-in-asia-pacific-renewables-and-energy-storage-consolidation/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-25T03:22:16+00:00"
+  },
+  "26918ef30ed2": {
+    "id": "26918ef30ed2",
+    "title_en": "AEMO connects record 9.1GW of renewables and storage to Australia’s NEM in FY26, warns reliability depends on timely investment",
+    "title_zh": "AEMO在FY26将创纪录的9.1GW可再生能源和储能连接到澳大利亚的NEM，警告可靠性取决于及时投资",
+    "url": "https://www.energy-storage.news/aemo-connects-record-9-1gw-of-renewables-and-storage-to-australias-nem-in-fy26-warns-reliability-depends-on-timely-investment/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-09-25T03:20:34+00:00"
+  },
+  "d73a7a3233a0": {
+    "id": "d73a7a3233a0",
+    "title_en": "Fighting coastal corrosion",
+    "title_zh": "对抗海岸腐蚀",
+    "url": "https://www.pv-magazine.com/2026/09/25/fighting-coastal-corrosion-2/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-25T03:00:00+00:00"
+  },
+  "ea3898ad5ccf": {
+    "id": "ea3898ad5ccf",
+    "title_en": "How to Become Clean Energy Evangelist",
+    "title_zh": "如何成为清洁能源的传播者",
+    "url": "https://cleantechnica.com/2026/09/24/how-to-become-clean-energy-evangelist/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-25T02:46:56+00:00"
+  },
+  "d90c5c2ee47f": {
+    "id": "d90c5c2ee47f",
+    "title_en": "Uruguay EV Sales Report: Sales Soar in August as Market Share Reaches 56%!",
+    "title_zh": "乌拉圭电动汽车销售报告：8月份销量飙升，市场份额达到56%！",
+    "url": "https://cleantechnica.com/2026/09/24/uruguay-ev-sales-report-sales-soar-in-august-as-market-share-reaches-56/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-25T00:43:06+00:00"
+  },
+  "20a03aa2941d": {
+    "id": "20a03aa2941d",
+    "title_en": "Taiga Launches OS-5 Software, Bringing Industry-First Geofencing Its Electric Fleet",
+    "title_zh": "Taiga推出OS-5软件，为其电动车队带来行业首创的地理围栏",
+    "url": "https://cleantechnica.com/2026/09/24/taiga-launches-os-5-software-bringing-industry-first-geofencing-its-electric-fleet/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-25T00:19:47+00:00"
+  },
+  "e085f281d297": {
+    "id": "e085f281d297",
+    "title_en": "Utah Advocates Call for Air Agency to Hold Strong on Coal Plant Shutdown Date in Latest Regional Haze Plan",
+    "title_zh": "犹他州倡导者呼吁美国航空管理局在最新的区域雾霾计划中坚持关闭燃煤电厂的日期",
+    "url": "https://cleantechnica.com/2026/09/24/utah-advocates-call-for-air-agency-to-hold-strong-on-coal-plant-shutdown-date-in-latest-regional-haze-plan/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-25T00:01:37+00:00"
+  },
+  "db85353c255e": {
+    "id": "db85353c255e",
+    "title_en": "5 Energy Stocks Positioned for a Prolonged Iran War",
+    "title_zh": "5只能源股为旷日持久的伊朗战争做好准备",
+    "url": "https://oilprice.com/Energy/Crude-Oil/5-Energy-Stocks-Positioned-for-a-Prolonged-Iran-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-25T00:00:00+00:00"
+  },
+  "a145f512d2c4": {
+    "id": "a145f512d2c4",
+    "title_en": "LA Metro Secures 220 New Battery-Electric Transit Buses",
+    "title_zh": "洛杉矶地铁获得220辆新的电池电动公交车",
+    "url": "https://cleantechnica.com/2026/09/24/la-metro-secures-220-new-battery-electric-transit-buses/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-24T23:51:37+00:00"
+  },
+  "d26b25faadd5": {
+    "id": "d26b25faadd5",
+    "title_en": "Soaring Freight Costs Make Japan’s Crude Imports the World’s Most Expensive",
+    "title_zh": "运费飙升使日本原油进口成为世界上最昂贵的",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Soaring-Freight-Costs-Make-Japans-Crude-Imports-the-Worlds-Most-Expensive.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-24T23:00:00+00:00"
+  },
+  "085d6443d459": {
+    "id": "085d6443d459",
+    "title_en": "Sierra Club Welcomes NYC Comptroller’s $5B Private-Market Climate Investment Proposal",
+    "title_zh": "塞拉俱乐部欢迎纽约市审计长提出的50亿美元私人市场气候投资提案",
+    "url": "https://cleantechnica.com/2026/09/24/sierra-club-welcomes-nyc-comptrollers-5b-private-market-climate-investment-proposal/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-24T22:59:37+00:00"
+  },
+  "9d2c4960ee11": {
+    "id": "9d2c4960ee11",
+    "title_en": "Why a U.S. Diesel Export Ban Won’t Lower Fuel Prices",
+    "title_zh": "为什么美国柴油出口禁令不会降低燃料价格",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-a-US-Diesel-Export-Ban-Wont-Lower-Fuel-Prices.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-24T22:00:00+00:00"
+  },
+  "d13910738acc": {
+    "id": "d13910738acc",
+    "title_en": "Advanced grid tech gets a $1.9B DOE boost",
+    "title_zh": "先进的电网技术获得了19亿美元的能源部支持",
+    "url": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-09-24T21:30:00+00:00"
+  },
   "e760e5871e90": {
     "id": "e760e5871e90",
     "title_en": "Can the World Hit 35% Electrification by 2035?",
@@ -4381,122 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-18T13:39:22+00:00"
-  },
-  "b7e9467f4d75": {
-    "id": "b7e9467f4d75",
-    "title_en": "GameChange commissions 283MWp tracker system at South Africa solar project",
-    "title_zh": "GameChange在南非太阳能项目中委托283MWp跟踪系统",
-    "url": "https://www.pv-tech.org/gamechange-commissions-283mwp-tracker-system-at-south-africa-solar-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-18T13:36:10+00:00"
-  },
-  "7cca61c59290": {
-    "id": "7cca61c59290",
-    "title_en": "US Gets New Offshore Wind Farm as All Turbines Installed at 704 MW Revolution Wind",
-    "title_zh": "美国获得新的海上风电场，因为所有涡轮机都安装在704兆瓦的Revolution Wind上",
-    "url": "https://offshorewind.biz/2026/09/18/us-gets-new-offshore-wind-farm-as-all-turbines-installed-at-704-mw-revolution-wind",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-18T13:25:49+00:00"
-  },
-  "d37f9c218caa": {
-    "id": "d37f9c218caa",
-    "title_en": "M&A due diligence for solar and storage in the new AI era",
-    "title_zh": "新人工智能时代太阳能和储能的并购尽职调查",
-    "url": "https://www.pv-tech.org/ma-solar-storage-diligence-artificial-intelligence-euclid/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-18T13:18:27+00:00"
-  },
-  "86c3188c5cfc": {
-    "id": "86c3188c5cfc",
-    "title_en": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
-    "title_zh": "行业机构表示，日本炼油厂有足够的原油维持到11月",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Refiners-Have-Enough-Crude-to-Last-Through-November-Industry-Body-Says.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-18T13:00:00+00:00"
-  },
-  "3e98ac9f9971": {
-    "id": "3e98ac9f9971",
-    "title_en": "Hitachi to double US production of small and medium-sized power transformers",
-    "title_zh": "日立将美国中小型电力变压器产量翻一番",
-    "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-18T12:42:36+00:00"
-  },
-  "cd7959a16958": {
-    "id": "cd7959a16958",
-    "title_en": "US ROUNDUP: Eos draws US$87 million DOE loan, FlexGen-Lightshift expand to 16 projects, Georgia Power energises 128MW facility",
-    "title_zh": "美国ROUNDUP：Eos获得美国能源部8700万美元贷款，FlexGen Lightshift扩展到16个项目，佐治亚电力公司为128MW设施供电",
-    "url": "https://www.energy-storage.news/us-roundup-eos-draws-us87-million-doe-loan-flexgen-lightshift-expand-to-16-projects-georgia-power-energises-128mw-facility/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-18T12:36:43+00:00"
-  },
-  "6f934fa90854": {
-    "id": "6f934fa90854",
-    "title_en": "Jupiter Power closes US$1.4 billion financing for 10 US BESS projects totalling 3.8GWh",
-    "title_zh": "Jupiter Power为10个美国BESS项目完成了14亿美元的融资，总计3.8GWh",
-    "url": "https://www.energy-storage.news/jupiter-power-closes-us1-4-billion-financing-for-10-us-bess-projects-totalling-3-8gwh/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-18T12:36:40+00:00"
-  },
-  "3d49b50e8228": {
-    "id": "3d49b50e8228",
-    "title_en": "EVE Energy signs 206 GWh battery framework with US storage supplier Fluence",
-    "title_zh": "亿纬锂能与美国储能供应商Fluence签署206GWh电池框架协议",
-    "url": "https://www.pv-magazine.com/2026/09/18/eve-energy-signs-206-gwh-battery-framework-with-us-storage-supplier-fluence/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-18T12:32:42+00:00"
-  },
-  "75a3e3d2fddc": {
-    "id": "75a3e3d2fddc",
-    "title_en": "The Hydrogen Stream: Singapore researchers present artificial leaf for H2 production from contaminated seawater",
-    "title_zh": "氢流：新加坡研究人员展示了从受污染海水中生产氢气的人造叶子",
-    "url": "https://www.pv-magazine.com/2026/09/18/the-hydrogen-stream-singapore-researchers-present-artificial-leaf-for-h2-production-from-contaminated-seawater/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-18T12:30:12+00:00"
-  },
-  "a89f4d54fe21": {
-    "id": "a89f4d54fe21",
-    "title_en": "WTI Retreats as Saudi Oil Workaround Eases Supply Fears",
-    "title_zh": "沙特石油规避措施缓解供应担忧，WTI油价回落",
-    "url": "https://oilprice.com/Energy/Energy-General/WTI-Retreats-as-Saudi-Oil-Workaround-Eases-Supply-Fears.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-18T12:30:00+00:00"
-  },
-  "49d1d5d8b00b": {
-    "id": "49d1d5d8b00b",
-    "title_en": "Trump Advances More Than $27 Billion in Saudi and Israeli Arms Deals",
-    "title_zh": "特朗普在沙特和以色列的武器交易中推进了超过270亿美元",
-    "url": "https://oilprice.com/Energy/Energy-General/Trump-Advances-More-Than-27-Billion-in-Saudi-and-Israeli-Arms-Deals.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-18T12:30:00+00:00"
-  },
-  "51de05d07d5b": {
-    "id": "51de05d07d5b",
-    "title_en": "The Race to Build a World Beyond Hormuz",
-    "title_zh": "建立超越霍尔木兹世界的竞赛",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Race-to-Build-a-World-Beyond-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-18T12:30:00+00:00"
-  },
-  "11b11184fc8b": {
-    "id": "11b11184fc8b",
-    "title_en": "French agrivoltaic trials cut water loss, lift maize yields by 19.6%",
-    "title_zh": "法国农业光伏试验减少了水分损失，玉米产量提高了19.6%",
-    "url": "https://www.pv-magazine.com/2026/09/18/french-agrivoltaic-trials-cut-water-loss-lift-maize-yields-by-19-6/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-18T12:15:42+00:00"
   }
 }
