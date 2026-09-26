@@ -1,4 +1,49 @@
 {
+  "efb840309634": {
+    "id": "efb840309634",
+    "title_en": "E-quipment highlight: EGO POWER+ Leaf Vacuum and Mulcher",
+    "title_zh": "电子设备亮点：EGO POWER+叶片真空和覆盖机",
+    "url": "https://electrek.co/2026/09/26/e-quipment-highlight-ego-power-leaf-vacuum-and-mulcher/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-26T20:38:14+00:00"
+  },
+  "b3413bc05d5c": {
+    "id": "b3413bc05d5c",
+    "title_en": "Brazil's Energy Mix Goes Green Even As Oil Production Climbs",
+    "title_zh": "尽管石油产量攀升，巴西的能源结构仍走向绿色",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Brazils-Energy-Mix-Goes-Green-Even-As-Oil-Production-Climbs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-26T19:00:00+00:00"
+  },
+  "da56e8af5ddd": {
+    "id": "da56e8af5ddd",
+    "title_en": "New Kempower charging deal powers up Canadian port operations",
+    "title_zh": "新的Kempower充电协议为加拿大港口运营提供动力",
+    "url": "https://electrek.co/2026/09/26/new-kempower-charging-deal-powers-up-canadian-port-operations/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-26T18:21:58+00:00"
+  },
+  "cc1942cd7bb3": {
+    "id": "cc1942cd7bb3",
+    "title_en": "OceanX Made Downwind Floating Wind Worth Another Look",
+    "title_zh": "OceanX让顺风漂浮风值得一看",
+    "url": "https://cleantechnica.com/2026/09/26/oceanx-downwind-floating-wind/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-26T17:58:55+00:00"
+  },
+  "5b5eaef6991f": {
+    "id": "5b5eaef6991f",
+    "title_en": "Calls to Overhaul the UN Security Council Gain New Momentum",
+    "title_zh": "改革联合国安理会的呼声获得新的动力",
+    "url": "https://oilprice.com/Geopolitics/International/Calls-to-Overhaul-the-UN-Security-Council-Gain-New-Momentum.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-26T17:00:00+00:00"
+  },
   "ffe177992181": {
     "id": "ffe177992181",
     "title_en": "The Geothermal Energy Wild Card Is Getting Wilder",
@@ -4453,50 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-09-21T11:34:32+00:00"
-  },
-  "1ccb9ddfb7e3": {
-    "id": "1ccb9ddfb7e3",
-    "title_en": "Norway's Arctic Oil Pitch Falls Flat in Brussels",
-    "title_zh": "挪威北极石油沥青在布鲁塞尔持平",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Norways-Arctic-Oil-Pitch-Falls-Flat-in-Brussels.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-21T11:30:00+00:00"
-  },
-  "4d8c1e18a4ee": {
-    "id": "4d8c1e18a4ee",
-    "title_en": "Dong Fang Offshore Takes Delivery of First Newbuild SOV, Adds New Vessel Order with Vard",
-    "title_zh": "东方海洋交付首艘新造船SOV，增加Vard新船订单",
-    "url": "https://offshorewind.biz/2026/09/21/dong-fang-offshore-takes-delivery-of-first-newbuild-sov-adds-new-vessel-order-with-vard",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-21T11:08:01+00:00"
-  },
-  "2f80cc502327": {
-    "id": "2f80cc502327",
-    "title_en": "Merz's CDU suffers historic loss in state elections, fuel tax relief fails to move voters",
-    "title_zh": "Merz的基民盟在州选举中遭受历史性损失，燃油税减免未能打动选民",
-    "url": "https://www.cleanenergywire.org/news/merzs-cdu-suffers-historic-loss-state-elections-fuel-tax-relief-fails-move-voters",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-09-21T10:58:35+00:00"
-  },
-  "d4d2882faa1e": {
-    "id": "d4d2882faa1e",
-    "title_en": "Finland proposes priority system for grid connections",
-    "title_zh": "芬兰提出电网连接优先制度",
-    "url": "https://www.pv-magazine.com/2026/09/21/finland-proposes-priority-system-for-grid-connections/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T10:55:01+00:00"
-  },
-  "0532078f915c": {
-    "id": "0532078f915c",
-    "title_en": "Poland market shifting to ‘selective, capital-disciplined phase where execution quality matters’",
-    "title_zh": "波兰市场转向“选择性、资本纪律性阶段，执行质量很重要”",
-    "url": "https://www.energy-storage.news/poland-market-shifting-to-selective-capital-disciplined-phase-where-execution-quality-matters/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-21T10:50:12+00:00"
   }
 }
