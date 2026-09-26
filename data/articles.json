@@ -1,4 +1,58 @@
 {
+  "d58f16676ae3": {
+    "id": "d58f16676ae3",
+    "title_en": "Donut Battery Vindicated: Element Analysis Proves Battery Not Lithium Or Sodium",
+    "title_zh": "甜甜圈电池被证实：元素分析证明电池不是锂或钠",
+    "url": "https://cleantechnica.com/2026/09/25/donut-battery-vindicated-element-analysis-proves-battery-not-lithium-or-sodium/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-26T02:52:53+00:00"
+  },
+  "d4cef9556c49": {
+    "id": "d4cef9556c49",
+    "title_en": "Mazda 6e — Japanese Carmakers Fight Back in Australia",
+    "title_zh": "马自达6e——日本汽车制造商在澳大利亚反击",
+    "url": "https://cleantechnica.com/2026/09/25/mazda-6e-japanese-carmakers-fight-back-in-australia/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-26T01:23:49+00:00"
+  },
+  "3f29c5384786": {
+    "id": "3f29c5384786",
+    "title_en": "Sierra Club’s Utility Report Card Shows NV Energy’s Sierra Pacific Power Company Receives Lowest Grade Yet",
+    "title_zh": "Sierra Club的公用事业报告卡显示，NV Energy的Sierra Pacific电力公司获得了迄今为止最低的评级",
+    "url": "https://cleantechnica.com/2026/09/25/sierra-clubs-utility-report-card-shows-nv-energys-sierra-pacific-power-company-receives-lowest-grade-yet/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-26T00:18:02+00:00"
+  },
+  "39a9e7e5b443": {
+    "id": "39a9e7e5b443",
+    "title_en": "Groups Sue TVA Over Clean Air Act Violations at Kingston Site",
+    "title_zh": "团体起诉TVA在金斯顿网站违反《清洁空气法》",
+    "url": "https://cleantechnica.com/2026/09/25/groups-sue-tva-over-clean-air-act-violations-at-kingston-site/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-25T23:44:32+00:00"
+  },
+  "c60ba949c85b": {
+    "id": "c60ba949c85b",
+    "title_en": "XPENG Launches in the Philippines With Six EV Variants",
+    "title_zh": "XPENG在菲律宾推出六款电动汽车",
+    "url": "https://cleantechnica.com/2026/09/25/xpeng-launches-in-the-philippines-with-six-ev-variants/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-25T23:30:54+00:00"
+  },
+  "460d185a8e24": {
+    "id": "460d185a8e24",
+    "title_en": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
+    "title_zh": "尼日利亚加入国际能源署原油产量创六年新高",
+    "url": "https://oilprice.com/Energy/Energy-General/Nigeria-Joins-IEA-As-Crude-Output-Hits-Six-Year-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-25T22:00:00+00:00"
+  },
   "605aad34951b": {
     "id": "605aad34951b",
     "title_en": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
@@ -4444,59 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-21T09:20:11+00:00"
-  },
-  "4d23485bb528": {
-    "id": "4d23485bb528",
-    "title_en": "Read, reroute, recalibrate: the playbook for fleets that can’t wait out the weather",
-    "title_zh": "阅读、重新路由、重新校准：不能等待天气结束的舰队的剧本",
-    "url": "https://www.utilitydive.com/spons/read-reroute-recalibrate-the-playbook-for-fleets-that-cant-wait-out-the/830191/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-21T09:00:00+00:00"
-  },
-  "83eb9ebecf93": {
-    "id": "83eb9ebecf93",
-    "title_en": "Blaze Equipment expands east with new Baltimore location and launches online ordering nationwide",
-    "title_zh": "Blaze Equipment向东扩张，在巴尔的摩开设新工厂，并在全国范围内推出在线订购",
-    "url": "https://www.utilitydive.com/spons/blaze-equipment-expands-east-with-new-baltimore-location-and-launches-onlin/830415/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-21T09:00:00+00:00"
-  },
-  "5ef2f7f54dc4": {
-    "id": "5ef2f7f54dc4",
-    "title_en": "How grid-forming and AI technologies are helping overcome barriers to renewable growth",
-    "title_zh": "电网形成和人工智能技术如何帮助克服可再生能源增长的障碍",
-    "url": "https://www.pv-magazine.com/2026/09/21/how-grid-forming-and-ai-technologies-are-helping-overcome-barriers-to-renewable-growth/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T09:00:00+00:00"
-  },
-  "ffda241bfb9c": {
-    "id": "ffda241bfb9c",
-    "title_en": "Linuo Ritter launches 24-32 kW propane heat pumps for commercial, large residential buildings",
-    "title_zh": "力诺立达为商业、大型住宅楼推出24-32kW丙烷热泵",
-    "url": "https://www.pv-magazine.com/2026/09/21/linuo-ritter-launches-24-32-kw-propane-heat-pumps-for-commercial-large-residential-buildings/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T08:51:46+00:00"
-  },
-  "448d5c5b9ff2": {
-    "id": "448d5c5b9ff2",
-    "title_en": "RWE Takes FID on 400 MW Battery Storage to Support Dutch OranjeWind Offshore Wind Farm",
-    "title_zh": "RWE对400兆瓦电池储能进行FID，以支持荷兰OranjeWind海上风电场",
-    "url": "https://offshorewind.biz/2026/09/21/rwe-takes-fid-on-400-mw-battery-storage-to-support-dutch-oranjewind-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-21T08:50:34+00:00"
-  },
-  "d794a8cbaec5": {
-    "id": "d794a8cbaec5",
-    "title_en": "Poland to subsidise renewable energy projects for farmers",
-    "title_zh": "波兰将为农民的可再生能源项目提供补贴",
-    "url": "https://www.pv-magazine.com/2026/09/21/poland-to-subsidise-renewable-energy-projects-for-farmers/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T08:44:12+00:00"
   }
 }
