@@ -1,4 +1,58 @@
 {
+  "4586cb62e8cb": {
+    "id": "4586cb62e8cb",
+    "title_en": "Solar, Wind, Battery Storage, And Politics — It’s Complicated",
+    "title_zh": "太阳能、风能、电池储能和政治——这很复杂",
+    "url": "https://cleantechnica.com/2026/09/27/solar-wind-battery-storage-and-politics-its-complicated/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T20:43:24+00:00"
+  },
+  "2ecdffbf6e83": {
+    "id": "2ecdffbf6e83",
+    "title_en": "Survey Sunday: When self driving cars crash, who gets the blame?",
+    "title_zh": "周日调查：当自动驾驶汽车发生碰撞时，谁该受到指责？",
+    "url": "https://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-27T19:24:30+00:00"
+  },
+  "3f08e05d7db1": {
+    "id": "3f08e05d7db1",
+    "title_en": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+    "title_zh": "下一次全球能源危机不会只来自一个方向",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-27T19:00:00+00:00"
+  },
+  "ce7c7ef4674c": {
+    "id": "ce7c7ef4674c",
+    "title_en": "The Case For Buying A Used EV Just Got Loads Better",
+    "title_zh": "购买二手电动汽车的理由刚刚变得更好",
+    "url": "https://cleantechnica.com/2026/09/27/used-evs-more-reliable-high-mileage-new-study-uk-data/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T17:26:34+00:00"
+  },
+  "fb4bedc45dec": {
+    "id": "fb4bedc45dec",
+    "title_en": "The AI Data Center Boom Faces a New Reality Check",
+    "title_zh": "人工智能数据中心热潮面临新的现实检验",
+    "url": "https://oilprice.com/Energy/Energy-General/The-AI-Data-Center-Boom-Faces-a-New-Reality-Check.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-27T17:00:00+00:00"
+  },
+  "549e845d0fdf": {
+    "id": "549e845d0fdf",
+    "title_en": "Mazda adds LiDAR to CX-6e, rolls out “self driving” tech in China",
+    "title_zh": "马自达在CX-6e上增加激光雷达，在中国推出“自动驾驶”技术",
+    "url": "https://electrek.co/2026/09/27/mazda-adds-lidar-to-cx-6e-rolls-out-self-driving-tech-in-china/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-27T16:40:43+00:00"
+  },
   "96b6e388ad8e": {
     "id": "96b6e388ad8e",
     "title_en": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
@@ -4444,59 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-21T13:12:30+00:00"
-  },
-  "c8853c99396f": {
-    "id": "c8853c99396f",
-    "title_en": "Newsom vetoes bill to create California PUC inspector general",
-    "title_zh": "纽瑟姆否决了设立加州PUC监察长的法案",
-    "url": "https://www.utilitydive.com/news/newsom-vetoes-california-puc-bill/830864/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-21T13:07:57+00:00"
-  },
-  "733f60da7eeb": {
-    "id": "733f60da7eeb",
-    "title_en": "Tesla and Sunrun’s virtual power plant dispatch record 580 MW to California grid",
-    "title_zh": "特斯拉和Sunrun的虚拟发电厂向加州电网调度580兆瓦的记录",
-    "url": "https://electrek.co/2026/09/21/sunrun-tesla-580-mw-california-grid-record/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-21T13:03:03+00:00"
-  },
-  "8698f60201da": {
-    "id": "8698f60201da",
-    "title_en": "How the Energy Transition Could Reshape Companies’ Cashflows",
-    "title_zh": "能源转型如何重塑企业现金流",
-    "url": "https://about.bnef.com/insights/clean-energy/how-the-energy-transition-could-reshape-companies-cashflows/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-09-21T12:58:08+00:00"
-  },
-  "18aa8ff58465": {
-    "id": "18aa8ff58465",
-    "title_en": "U.S. solar module production reaches historic 100 GW landmark",
-    "title_zh": "美国太阳能组件产量达到历史性的100吉瓦里程碑",
-    "url": "https://www.pv-magazine.com/2026/09/21/u-s-solar-module-production-reaches-historic-100-gw-landmark/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T12:58:00+00:00"
-  },
-  "e38dbd81d835": {
-    "id": "e38dbd81d835",
-    "title_en": "Malaysia sets fixed grid charge, 10-year contracts for corporate solar",
-    "title_zh": "马来西亚为企业太阳能设定固定电网收费，为期10年的合同",
-    "url": "https://www.pv-magazine.com/2026/09/21/malaysia-sets-fixed-grid-charge-10-year-contracts-for-corporate-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T12:57:00+00:00"
-  },
-  "04912cf0fa7a": {
-    "id": "04912cf0fa7a",
-    "title_en": "New York regulators approve 90-mile transmission line",
-    "title_zh": "纽约监管机构批准90英里输电线路",
-    "url": "https://www.utilitydive.com/news/new-york-psc-propel-transmission-line/830866/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-21T12:55:13+00:00"
   }
 }
