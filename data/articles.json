@@ -1,4 +1,22 @@
 {
+  "999f9d491bcc": {
+    "id": "999f9d491bcc",
+    "title_en": "Elon Musk A No-Show At Tesla Semi Event Because …",
+    "title_zh": "埃隆·马斯克（Elon Musk）未出席特斯拉半赛事，因为…",
+    "url": "https://cleantechnica.com/2026/09/26/tesla-semi-truck-elon-musk-lawsuit-documentary-white-house-dinner/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T00:52:34+00:00"
+  },
+  "fe62d14bee77": {
+    "id": "fe62d14bee77",
+    "title_en": "Think gas prices are too low? Don’t fret, Trump plans to raise them Monday",
+    "title_zh": "你觉得油价太低了吗？别担心，特朗普计划周一提高利率",
+    "url": "https://electrek.co/2026/09/26/republicans-are-about-to-announce-an-effort-to-raise-your-fuel-costs-by-45/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-26T23:55:00+00:00"
+  },
   "7cc547da7d39": {
     "id": "7cc547da7d39",
     "title_en": "Global Gas Squeeze Could Last Through Next Summer",
@@ -1366,6 +1384,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-24T15:50:13+00:00"
+  },
+  "411c59eeaf10": {
+    "id": "411c59eeaf10",
+    "title_en": "States sue Trump administration, developers over offshore wind lease buyouts",
+    "title_zh": "各州就海上风电租赁收购起诉特朗普政府和开发商",
+    "url": "https://www.utilitydive.com/news/states-sue-trump-administration-developers-over-offshore-wind-lease-buyout/831279/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-09-24T15:45:02+00:00"
   },
   "41e1d46f9173": {
     "id": "41e1d46f9173",
@@ -4471,32 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-09-21T12:13:42+00:00"
-  },
-  "53682c399156": {
-    "id": "53682c399156",
-    "title_en": "Asia likely to account for entire global phenol capacity additions by 2030",
-    "title_zh": "到2030年，亚洲可能占全球苯酚产能增加的全部",
-    "url": "https://www.energymonitor.ai/analyst-comment/asia-global-phenol-capacity-additions-by-2030/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-21T12:10:54+00:00"
-  },
-  "87f55aa19db9": {
-    "id": "87f55aa19db9",
-    "title_en": "ABL to Support Marine Operations at Gennaker Offshore Wind Farm",
-    "title_zh": "ABL将支持Gennaker海上风电场的海上作业",
-    "url": "https://offshorewind.biz/2026/09/21/abl-to-support-marine-operations-at-gennaker-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-21T12:07:34+00:00"
-  },
-  "f320594e70e5": {
-    "id": "f320594e70e5",
-    "title_en": "European AUDI buyers could be facing a lawsuit from … Audi",
-    "title_zh": "欧洲奥迪买家可能面临奥迪的诉讼",
-    "url": "https://electrek.co/2026/09/21/european-audi-buyers-could-be-facing-a-lawsuit-from-audi/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-21T11:54:16+00:00"
   }
 }
