@@ -1,4 +1,22 @@
 {
+  "656b27019b80": {
+    "id": "656b27019b80",
+    "title_en": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
+    "title_zh": "CATL在IAA运输展上推出TECTRANS II电池平台",
+    "url": "https://cleantechnica.com/2026/09/27/catl-unveils-tectrans-ii-battery-platform-with-1000-kilometer-range-for-commercial-vehicles/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T08:46:28+00:00"
+  },
+  "e1211ad8e6be": {
+    "id": "e1211ad8e6be",
+    "title_en": "Volvo’s Electric Trucks Win International Truck of the Year 2027 at IAA",
+    "title_zh": "沃尔沃电动卡车在IAA上荣获2027年度国际卡车奖",
+    "url": "https://cleantechnica.com/2026/09/27/volvos-electric-truck-range-wins-international-truck-of-the-year-2027-at-iaa/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T08:34:52+00:00"
+  },
   "999f9d491bcc": {
     "id": "999f9d491bcc",
     "title_en": "Elon Musk A No-Show At Tesla Semi Event Because …",
@@ -4480,23 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-09-21T12:17:02+00:00"
-  },
-  "c6d467128d37": {
-    "id": "c6d467128d37",
-    "title_en": "Google-backed pilot demonstrates hourly carbon accounting for US BESS using granular certificates",
-    "title_zh": "谷歌支持的试点项目使用细粒度证书演示了美国BESS的每小时碳核算",
-    "url": "https://www.energy-storage.news/google-backed-pilot-demonstrates-hourly-carbon-accounting-for-us-bess-using-granular-certificates/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-21T12:16:38+00:00"
-  },
-  "7ac6e47b8691": {
-    "id": "7ac6e47b8691",
-    "title_en": "US energy storage industry targets 225GW/1TWh deployment by end of 2032, according to Energy Storage Coalition",
-    "title_zh": "据储能联盟称，美国储能行业的目标是到2032年底部署225GW/1TWh",
-    "url": "https://www.energy-storage.news/us-energy-storage-industry-targets-225gw-1twh-deployment-by-end-of-2032-according-to-energy-storage-coalition/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-21T12:13:42+00:00"
   }
 }
