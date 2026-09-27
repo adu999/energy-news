@@ -1,4 +1,31 @@
 {
+  "3431e54486e3": {
+    "id": "3431e54486e3",
+    "title_en": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+    "title_zh": "委内瑞拉的石油复苏可能花费超过1000亿美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-27T23:00:00+00:00"
+  },
+  "8a3e2718f772": {
+    "id": "8a3e2718f772",
+    "title_en": "Australia connects record 9.1GW of renewables and storage as NEM pipeline reaches 75.4GW",
+    "title_zh": "澳大利亚连接创纪录的9.1GW可再生能源和储能，NEM管道达到75.4GW",
+    "url": "https://www.pv-tech.org/australia-connects-record-9-1gw-of-renewables-and-storage-as-nem-pipeline-reaches-75-4gw/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-09-27T22:29:42+00:00"
+  },
+  "d8413fc076ee": {
+    "id": "d8413fc076ee",
+    "title_en": "Space Squeeze Forces Solar Developers To Get Creative",
+    "title_zh": "空间挤压迫使太阳能开发商发挥创造力",
+    "url": "https://cleantechnica.com/2026/09/27/community-solar-power-plants-tight-spaces-high-density/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T21:07:02+00:00"
+  },
   "4586cb62e8cb": {
     "id": "4586cb62e8cb",
     "title_en": "Solar, Wind, Battery Storage, And Politics — It’s Complicated",
@@ -4471,32 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-09-21T13:47:54+00:00"
-  },
-  "0c166089f2db": {
-    "id": "0c166089f2db",
-    "title_en": "Ampelmann Completes Cargo Drone Campaign at Triton Knoll Offshore Wind Farm",
-    "title_zh": "Ampelmann在Triton Knoll海上风电场完成货运无人机活动",
-    "url": "https://offshorewind.biz/2026/09/21/ampelmann-completes-cargo-drone-campaign-at-triton-knoll-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-21T13:45:22+00:00"
-  },
-  "3159efc65f26": {
-    "id": "3159efc65f26",
-    "title_en": "NorthStar Clean Energy powers on 120-MW Michigan solar project",
-    "title_zh": "北极星清洁能源为密歇根州120兆瓦太阳能项目供电",
-    "url": "https://www.solarpowerworldonline.com/2026/09/northstar-clean-energy-powers-on-michigan-solar-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T13:19:25+00:00"
-  },
-  "04511821570c": {
-    "id": "04511821570c",
-    "title_en": "Corsica Sole switches on 150 kW electrolyzer at 12 MW solar plant",
-    "title_zh": "Corsica Sole在12兆瓦太阳能发电厂启动150千瓦电解槽",
-    "url": "https://www.pv-magazine.com/2026/09/21/corsica-sole-switches-on-150-kw-electrolyzer-at-12-mw-solar-plant/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T13:12:30+00:00"
   }
 }
