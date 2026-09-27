@@ -1,4 +1,49 @@
 {
+  "96b6e388ad8e": {
+    "id": "96b6e388ad8e",
+    "title_en": "Charge up your Christmas tree with this Hallmark Keepsake Daytona Scat Pack",
+    "title_zh": "用这款Hallmark Keepsake Daytona Scat Pack为您的圣诞树充电",
+    "url": "https://electrek.co/2026/09/27/charge-up-your-christmas-tree-with-this-hallmark-keepsake-daytona-scat-pack/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-27T16:09:19+00:00"
+  },
+  "2bac019052a9": {
+    "id": "2bac019052a9",
+    "title_en": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2",
+    "title_zh": "美国环保署发电厂回滚将增加1.23亿吨二氧化碳",
+    "url": "https://oilprice.com/Energy/Energy-General/EPA-Power-Plant-Rollback-To-Add-123-Million-More-Tons-of-CO2.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-27T15:00:00+00:00"
+  },
+  "e1a3d7160fa4": {
+    "id": "e1a3d7160fa4",
+    "title_en": "Ports Need More Capital As Their Bulk Cargo Base Shrinks",
+    "title_zh": "港口需要更多资金，因为其散货基础萎缩",
+    "url": "https://cleantechnica.com/2026/09/27/ports-capital-shrinking-bulk-cargo/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T14:26:04+00:00"
+  },
+  "55cf68322ce9": {
+    "id": "55cf68322ce9",
+    "title_en": "The SsangYong CCR-1: An Early Korean EV Experiment",
+    "title_zh": "双龙CCR-1：韩国早期电动汽车实验",
+    "url": "https://cleantechnica.com/2026/09/27/the-ssangyong-ccr-1-an-early-korean-ev-experiment/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T14:02:01+00:00"
+  },
+  "388cf8825d1b": {
+    "id": "388cf8825d1b",
+    "title_en": "The Philippines’ Electric Vehicle Push Cannot Afford to Ignore ASEAN",
+    "title_zh": "菲律宾推动电动汽车发展不能忽视东盟",
+    "url": "https://cleantechnica.com/2026/09/27/the-philippines-electric-vehicle-push-cannot-afford-to-ignore-asean/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-27T13:59:45+00:00"
+  },
   "656b27019b80": {
     "id": "656b27019b80",
     "title_en": "CATL Unveils TECTRANS II Battery Platform at IAA Transport Show",
@@ -4453,50 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-09-21T12:55:13+00:00"
-  },
-  "09545683b0d9": {
-    "id": "09545683b0d9",
-    "title_en": "Chinese scientists build 33.3%-efficient perovskite-silicon tandem solar cell processed in ambient air",
-    "title_zh": "中国科学家在环境空气中制造了33.3%效率的钙钛矿硅叠层太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/09/21/chinese-scientists-build-33-3-efficient-perovskite-silicon-tandem-solar-cell-processed-in-ambient-air/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T12:52:40+00:00"
-  },
-  "536da7e3a3b0": {
-    "id": "536da7e3a3b0",
-    "title_en": "Canada trade tribunal rescinds order on Chinese solar modules, laminates",
-    "title_zh": "加拿大贸易法庭撤销对中国太阳能组件、层压板的命令",
-    "url": "https://www.pv-magazine.com/2026/09/21/canada-trade-tribunal-rescinds-order-on-chinese-solar-modules-laminates/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T12:25:00+00:00"
-  },
-  "5f77d857b39f": {
-    "id": "5f77d857b39f",
-    "title_en": "Madison Energy launches 1GW DER community initiative",
-    "title_zh": "麦迪逊能源启动1GW DER社区倡议",
-    "url": "https://www.pv-tech.org/madison-energy-launches-1gw-der-community-initiative/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T12:20:02+00:00"
-  },
-  "a53ec0a85f06": {
-    "id": "a53ec0a85f06",
-    "title_en": "ACOUSTISCAN: Acoustic Partial Discharge Monitoring Strengthens Offshore Wind Reliability",
-    "title_zh": "ACOUSTISCAN：声学局部放电监测增强海上风电可靠性",
-    "url": "https://offshorewind.biz/2026/09/21/acoustiscan-acoustic-partial-discharge-monitoring-strengthens-offshore-wind-reliability",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-21T12:18:31+00:00"
-  },
-  "4a6f5572700f": {
-    "id": "4a6f5572700f",
-    "title_en": "Trump-appointed judge restores $7 billion Solar for All program",
-    "title_zh": "特朗普任命的法官恢复了70亿美元的全民太阳能计划",
-    "url": "https://www.solarpowerworldonline.com/2026/09/trump-appointed-judge-restores-7-billion-solar-for-all-program/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-21T12:17:02+00:00"
   }
 }
