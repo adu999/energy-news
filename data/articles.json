@@ -1,4 +1,112 @@
 {
+  "9cc113cd6b28": {
+    "id": "9cc113cd6b28",
+    "title_en": "Peeling back the layers",
+    "title_zh": "剥开各层",
+    "url": "https://www.pv-magazine.com/2026/09/29/peeling-back-the-layers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-09-29T04:00:00+00:00"
+  },
+  "29b152aa2f15": {
+    "id": "29b152aa2f15",
+    "title_en": "Geely Gets 30% of NIO Power",
+    "title_zh": "吉利获得蔚来动力30%股权",
+    "url": "https://cleantechnica.com/2026/09/28/geely-gets-30-of-nio-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-29T02:59:00+00:00"
+  },
+  "0c1416ecee60": {
+    "id": "0c1416ecee60",
+    "title_en": "Trump Administration Finalizes Rule that Makes Cars Less Fuel Efficient",
+    "title_zh": "特朗普政府最终确定了降低汽车燃油效率的规定",
+    "url": "https://cleantechnica.com/2026/09/28/trump-administration-finalizes-rule-that-makes-cars-less-fuel-efficient/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-29T02:32:45+00:00"
+  },
+  "1ba386232213": {
+    "id": "1ba386232213",
+    "title_en": "Global Gas Tug of War Is Brewing for Winter",
+    "title_zh": "全球天然气战争正在酝酿冬季",
+    "url": "https://about.bnef.com/insights/commodities/global-gas-tug-of-war-is-brewing-for-winter/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-09-29T01:35:09+00:00"
+  },
+  "a57950c7436e": {
+    "id": "a57950c7436e",
+    "title_en": "Are Electric Trucks Cheaper To Operate Than Diesel?",
+    "title_zh": "电动卡车比柴油车便宜吗？",
+    "url": "https://cleantechnica.com/2026/09/28/are-electric-trucks-cheaper-to-operate-than-diesel/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-29T00:28:39+00:00"
+  },
+  "44113b1c6eaa": {
+    "id": "44113b1c6eaa",
+    "title_en": "Tesla’s two week notice, Volvo’s autonomous milestone, and fun with LEGO",
+    "title_zh": "特斯拉的两周通知，沃尔沃的自动驾驶里程碑，与乐高的乐趣",
+    "url": "https://electrek.co/2026/09/28/teslas-two-week-notice-volvos-autonomous-milestone-and-fun-with-lego/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-29T00:20:13+00:00"
+  },
+  "3f2b7b01a607": {
+    "id": "3f2b7b01a607",
+    "title_en": "Unlock Public EV Charging Price Transparency & Competition",
+    "title_zh": "解锁公共电动汽车充电价格透明度和竞争",
+    "url": "https://cleantechnica.com/2026/09/28/unlock-public-ev-charging-price-transparency-competition/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-29T00:09:53+00:00"
+  },
+  "b7005a1274d6": {
+    "id": "b7005a1274d6",
+    "title_en": "Hormuz Rerouting Doubles Cape Traffic Without Delivering a Windfall",
+    "title_zh": "霍尔木兹改道使开普省的交通量翻倍，而不会带来意外",
+    "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Rerouting-Doubles-Cape-Traffic-Without-Delivering-a-Windfall.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-29T00:00:00+00:00"
+  },
+  "ef7a5b06aa98": {
+    "id": "ef7a5b06aa98",
+    "title_en": "Why Blocking U.S. Diesel Exports Could Make Fuel More Expensive",
+    "title_zh": "为什么阻止美国柴油出口会使燃料更贵",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Blocking-US-Diesel-Exports-Could-Make-Fuel-More-Expensive.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-28T23:00:00+00:00"
+  },
+  "b96047091f90": {
+    "id": "b96047091f90",
+    "title_en": "SOLARLAP — Around Australia on Green Power",
+    "title_zh": "SOLARLAP——澳大利亚各地绿色能源",
+    "url": "https://cleantechnica.com/2026/09/28/solarlap-around-australia-on-green-power/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-09-28T22:55:47+00:00"
+  },
+  "13814a09d0ee": {
+    "id": "13814a09d0ee",
+    "title_en": "US clean energy jobs fell for the first time since the pandemic",
+    "title_zh": "美国清洁能源工作岗位自疫情以来首次下降",
+    "url": "https://electrek.co/2026/09/28/us-clean-energy-jobs-fell-for-the-first-time-since-the-pandemic/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-09-28T22:15:15+00:00"
+  },
+  "f31912778312": {
+    "id": "f31912778312",
+    "title_en": "Standard Chartered: Record CTA Long Bets Are Capping Oil's Upside",
+    "title_zh": "渣打银行：创纪录的CTA多头押注正在限制石油的上涨",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Record-CTA-Long-Bets-Are-Capping-Oils-Upside.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-09-28T22:00:00+00:00"
+  },
   "4e1c7d075c91": {
     "id": "4e1c7d075c91",
     "title_en": "How AI Could Upend the Secretive World of Fuel Trading",
@@ -6,6 +114,15 @@
     "url": "https://oilprice.com/Energy/Energy-General/How-AI-Could-Upend-the-Secretive-World-of-Fuel-Trading.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-09-28T21:00:00+00:00"
+  },
+  "f4e68e467ef7": {
+    "id": "f4e68e467ef7",
+    "title_en": "Will New York's 1GW storage contracts finally break the state's big battery impasse?",
+    "title_zh": "纽约1GW的储能合同最终会打破该州的大电池僵局吗？",
+    "url": "https://www.canarymedia.com/articles/batteries/new-york-torage-contracts-big-battery",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-09-28T21:00:00+00:00"
   },
   "dbfeff1075cb": {
@@ -4381,122 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-22T12:30:00+00:00"
-  },
-  "565a3ac29ec9": {
-    "id": "565a3ac29ec9",
-    "title_en": "No future quarterly declines predicted for US energy storage installation market",
-    "title_zh": "预计美国储能安装市场未来不会出现季度下滑",
-    "url": "https://www.solarpowerworldonline.com/2026/09/no-future-quarterly-declines-predicted-for-us-energy-storage-installation-market/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-22T12:27:05+00:00"
-  },
-  "06e1635a4403": {
-    "id": "06e1635a4403",
-    "title_en": "Cost-effective pathways for hybrid heat pump retrofits",
-    "title_zh": "混合式热泵改造的成本效益途径",
-    "url": "https://www.pv-magazine.com/2026/09/22/cost-effective-pathways-for-hybrid-heat-pump-retrofits/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-22T12:26:33+00:00"
-  },
-  "b6c69a21acbe": {
-    "id": "b6c69a21acbe",
-    "title_en": "Tests show cement-bonded particle board can reduce flame spread in rooftop PV systems",
-    "title_zh": "测试表明，水泥结合的刨花板可以减少屋顶光伏系统中的火焰蔓延",
-    "url": "https://www.pv-magazine.com/2026/09/22/tests-show-cement-bonded-particle-board-can-reduce-fire-risk-in-rooftop-pv-systems/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-22T12:11:57+00:00"
-  },
-  "9b6bb9466668": {
-    "id": "9b6bb9466668",
-    "title_en": "Windenergy Hamburg: This year is a reminder that renewables are the 'cheapest solution for society'",
-    "title_zh": "汉堡风能：今年提醒我们，可再生能源是“社会最便宜的解决方案”",
-    "url": "https://www.windpowermonthly.com/article/1970607/windenergy-hamburg-year-reminder-renewables-cheapest-solution-society",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-22T12:06:47+00:00"
-  },
-  "18bf850bcc9e": {
-    "id": "18bf850bcc9e",
-    "title_en": "Massive UK study finds high-mileage electric cars more durable than petrol",
-    "title_zh": "英国大规模研究发现高里程电动汽车比汽油更耐用",
-    "url": "https://electrek.co/2026/09/22/massive-uk-study-finds-high-mileage-electric-cars-more-durable-than-petrol/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-22T12:00:00+00:00"
-  },
-  "00f5d4c6639b": {
-    "id": "00f5d4c6639b",
-    "title_en": "Njord Survey Inks Three-Year Agreement with RWE",
-    "title_zh": "Njord Survey与RWE签订三年协议",
-    "url": "https://offshorewind.biz/2026/09/22/njord-survey-inks-three-year-agreement-with-rwe",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-22T11:57:50+00:00"
-  },
-  "020ac9cfcf43": {
-    "id": "020ac9cfcf43",
-    "title_en": "Oil Tumbles 3% as Iran Floats Hormuz Reopening Within a Week",
-    "title_zh": "伊朗霍尔木兹浮动区一周内重新开放，油价暴跌3%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tumbles-3-as-Iran-Floats-Hormuz-Reopening-Within-a-Week.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-22T11:57:00+00:00"
-  },
-  "14581a3bed46": {
-    "id": "14581a3bed46",
-    "title_en": "ING: Supply-Side Risks Stay Elevated Even as Oil Prices Pull Back",
-    "title_zh": "ING：即使油价回落，供应侧风险依然居高不下",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/ING-Supply-Side-Risks-Stay-Elevated-Even-as-Oil-Prices-Pull-Back.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-22T11:30:00+00:00"
-  },
-  "20f22818a5ed": {
-    "id": "20f22818a5ed",
-    "title_en": "21GWh BESS deployed globally in August: One-fifth in Saudi Arabia, European activity soars",
-    "title_zh": "8月全球部署21GWh BESS：沙特阿拉伯五分之一，欧洲活动激增",
-    "url": "https://www.energy-storage.news/21gwh-bess-deployed-globally-august-one-fifth-saudi-arabia-european-activity-soars/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-22T11:09:59+00:00"
-  },
-  "aedfaeee63ab": {
-    "id": "aedfaeee63ab",
-    "title_en": "Sunrun and Tesla deliver record 580MW to California grid amid heatwave",
-    "title_zh": "Sunrun和特斯拉在热浪中向加州电网交付了创纪录的580MW电力",
-    "url": "https://www.energy-storage.news/sunrun-and-tesla-deliver-record-580mw-to-california-grid-amid-heatwave/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-22T10:57:58+00:00"
-  },
-  "0b2c093f66d4": {
-    "id": "0b2c093f66d4",
-    "title_en": "Cameroon plans two large-scale PV plants",
-    "title_zh": "喀麦隆计划建设两座大型光伏电站",
-    "url": "https://www.pv-magazine.com/2026/09/22/cameroon-plans-two-large-scale-pv-plants/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-22T10:55:08+00:00"
-  },
-  "31df2c3906db": {
-    "id": "31df2c3906db",
-    "title_en": "PG&E selects six new California microgrids for US$30 million investment, Massachusetts awards US$40 million across 36 BESS projects",
-    "title_zh": "PG&E选择了6个新的加州微电网，投资3000万美元，马萨诸塞州在36个BESS项目中拨款4000万美元",
-    "url": "https://www.energy-storage.news/pge-selects-six-new-california-microgrids-for-us30-million-investment-massachusetts-awards-us40-million-across-36-bess-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-22T10:53:35+00:00"
-  },
-  "f1ed302bd689": {
-    "id": "f1ed302bd689",
-    "title_en": "RWE and Giga Storage move to construction on gigawatt-hour Netherlands and Belgium batteries",
-    "title_zh": "RWE和Giga Storage开始建设千兆瓦时荷兰和比利时电池",
-    "url": "https://www.energy-storage.news/rwe-and-giga-storage-move-to-construction-on-gigawatt-hour-netherlands-and-belgium-batteries/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-22T10:52:25+00:00"
   }
 }
