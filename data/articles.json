@@ -1,4 +1,121 @@
 {
+  "22de72f328cb": {
+    "id": "22de72f328cb",
+    "title_en": "European Businesses in the Transport Sector Call for EU to Maintain Stability & Ambition on Decarbonising Heavy-Duty Vehicles (HDVs)",
+    "title_zh": "运输业的欧洲企业呼吁欧盟保持重型车辆脱碳的稳定性和雄心",
+    "url": "https://cleantechnica.com/2026/10/01/european-businesses-in-the-transport-sector-call-for-eu-to-maintain-stability-ambition-on-decarbonising-heavy-duty-vehicles-hdvs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-02T00:24:54+00:00"
+  },
+  "66f40bde26e5": {
+    "id": "66f40bde26e5",
+    "title_en": "Grid Connection at European Ports & Airports: Solutions to Accelerate Transport Electrification",
+    "title_zh": "欧洲港口和机场的电网连接：加速交通电气化的解决方案",
+    "url": "https://cleantechnica.com/2026/10/01/grid-connection-at-european-ports-airports-solutions-to-accelerate-transport-electrification/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-02T00:08:50+00:00"
+  },
+  "9d71e23bd2ca": {
+    "id": "9d71e23bd2ca",
+    "title_en": "5 Energy ETFs That Have Soared in 2026",
+    "title_zh": "2026年飙升的5只能源ETF",
+    "url": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-02T00:00:00+00:00"
+  },
+  "fba48666cd94": {
+    "id": "fba48666cd94",
+    "title_en": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
+    "title_zh": "特斯拉在致命的增压器枪击案后推出了插电后开车的能力",
+    "url": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-01T23:28:32+00:00"
+  },
+  "49089e0b8fcf": {
+    "id": "49089e0b8fcf",
+    "title_en": "China Targets Solid-State Battery Dominance by 2030",
+    "title_zh": "中国计划到2030年实现固态电池主导地位",
+    "url": "https://oilprice.com/Energy/Energy-General/China-Targets-Solid-State-Battery-Dominance-by-2030.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-01T23:00:00+00:00"
+  },
+  "c6f08d726c29": {
+    "id": "c6f08d726c29",
+    "title_en": "Power Demand Is Surging Faster Than Grids Can Keep Up",
+    "title_zh": "电力需求的激增速度超过了电网的承受能力",
+    "url": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-01T22:00:00+00:00"
+  },
+  "2ee530d01829": {
+    "id": "2ee530d01829",
+    "title_en": "The USDA just made it way harder for farmers to get grants for solar",
+    "title_zh": "美国农业部只是让农民更难获得太阳能补助金",
+    "url": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-01T22:00:00+00:00"
+  },
+  "b8637526cbb0": {
+    "id": "b8637526cbb0",
+    "title_en": "Global Oil Refining Outlook",
+    "title_zh": "全球炼油展望",
+    "url": "https://about.bnef.com/insights/finance/global-oil-refining-outlook/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-10-01T21:20:17+00:00"
+  },
+  "da303702570e": {
+    "id": "da303702570e",
+    "title_en": "California gives the green light to balcony solar",
+    "title_zh": "加州批准阳台太阳能",
+    "url": "https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-01T21:04:23+00:00"
+  },
+  "9a81e1e533e2": {
+    "id": "9a81e1e533e2",
+    "title_en": "The Hyundai IONIQ 5 is still in the EV sales mix, with 31,000+ sold in 2026",
+    "title_zh": "现代IONIQ 5仍在电动汽车销售组合中，2026年销量超过31000辆",
+    "url": "https://electrek.co/2026/10/01/hyundai-ioniq-5-still-in-ev-sales-mix-31000-sold/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-01T21:02:46+00:00"
+  },
+  "1066f48018aa": {
+    "id": "1066f48018aa",
+    "title_en": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
+    "title_zh": "委内瑞拉石油出口下降9%，货运成本下降",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-01T21:00:00+00:00"
+  },
+  "00c550277fdc": {
+    "id": "00c550277fdc",
+    "title_en": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
+    "title_zh": "随着全球柴油危机加剧，中国停止10月燃料出口",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-01T20:40:00+00:00"
+  },
+  "c113256bb271": {
+    "id": "c113256bb271",
+    "title_en": "How Data Center-Driven Load Growth Is Reshaping the Renewable Energy Market",
+    "title_zh": "数据中心驱动的负载增长如何重塑可再生能源市场",
+    "url": "https://www.powermag.com/how-data-center-driven-load-growth-is-reshaping-the-renewable-energy-market/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-10-01T20:12:43+00:00"
+  },
   "6a8f077fec88": {
     "id": "6a8f077fec88",
     "title_en": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
@@ -286,6 +403,24 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-01T14:00:00+00:00"
+  },
+  "618a555d97b8": {
+    "id": "618a555d97b8",
+    "title_en": "NYPA to own 51% of 240-MW solar project with EDF",
+    "title_zh": "NYPA将与EDF共同持有240兆瓦太阳能项目51%的股份",
+    "url": "https://www.utilitydive.com/news/nypa-240-mw-solar-project-edf-rich-road/831878/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-10-01T13:57:20+00:00"
+  },
+  "7f5c97bd4670": {
+    "id": "7f5c97bd4670",
+    "title_en": "Senate permitting bill would expand federal role in transmission siting",
+    "title_zh": "参议院许可法案将扩大联邦在输电线路选址中的作用",
+    "url": "https://www.utilitydive.com/news/senate-permitting-bill-would-expand-federal-role-in-electric-transmission-s/831886/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-10-01T13:55:34+00:00"
   },
   "e14e5cb3ab62": {
     "id": "e14e5cb3ab62",
@@ -682,6 +817,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-01T07:00:00+00:00"
+  },
+  "5601d0c41623": {
+    "id": "5601d0c41623",
+    "title_en": "Solar for All grantees seek damages from EPA over ‘devastating’ cuts",
+    "title_zh": "太阳能为所有受让人寻求美国环保署对“毁灭性”削减的损害赔偿",
+    "url": "https://www.utilitydive.com/news/solar-for-all-funding-ep-court-uncertainty/831144/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-10-01T06:00:00+00:00"
   },
   "7f2ed3c9ac72": {
     "id": "7f2ed3c9ac72",
@@ -4354,149 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-09-25T12:54:41+00:00"
-  },
-  "7bedea2d6b39": {
-    "id": "7bedea2d6b39",
-    "title_en": "Solar panel wiring basics: How to wire solar panels",
-    "title_zh": "太阳能电池板布线基础：如何布线太阳能电池板",
-    "url": "https://www.solarpowerworldonline.com/2026/09/solar-panel-wiring-basics-how-to-wire-solar-panels/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T12:54:24+00:00"
-  },
-  "053b9753faec": {
-    "id": "053b9753faec",
-    "title_en": "Chinese PV Industry Brief: Growatt raises inverter, battery prices by up to 10%",
-    "title_zh": "中国光伏产业简报：Growatt提高逆变器，电池价格高达10%",
-    "url": "https://www.pv-magazine.com/2026/09/25/chinese-pv-industry-brief-growatt-raises-inverter-battery-prices-by-up-to-10/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T12:46:26+00:00"
-  },
-  "7b8483b95b0a": {
-    "id": "7b8483b95b0a",
-    "title_en": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-    "title_zh": "南极冬季达到第三低峰值，低海冰持续存在",
-    "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-09-25T12:45:39+00:00"
-  },
-  "988f2861586b": {
-    "id": "988f2861586b",
-    "title_en": "Envision Energy Presents 16.7 MW Offshore Wind Turbine in Germany",
-    "title_zh": "远景能源在德国推出16.7兆瓦海上风力发电机",
-    "url": "https://offshorewind.biz/2026/09/25/envision-energy-presents-167-mw-offshore-wind-turbine-in-germany",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-25T12:42:44+00:00"
-  },
-  "7262ee6e2c87": {
-    "id": "7262ee6e2c87",
-    "title_en": "EWS reports 14% higher winter wheat yield at Austrian agrivoltaic site",
-    "title_zh": "EWS报告称，奥地利农业光伏基地的冬小麦产量提高了14%",
-    "url": "https://www.pv-magazine.com/2026/09/25/ews-reports-14-higher-winter-wheat-yield-at-austrian-agrivoltaic-site/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T12:40:15+00:00"
-  },
-  "0a57215ee85d": {
-    "id": "0a57215ee85d",
-    "title_en": "Wheel-E Podcast: South Park e-bikes, Honda eMTB, more",
-    "title_zh": "Wheel-E播客：南方公园电动自行车、本田eMTB等",
-    "url": "https://electrek.co/2026/09/25/wheel-e-podcast-south-park-e-bikes-honda-emtb-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-25T12:37:55+00:00"
-  },
-  "8c93e30eec8f": {
-    "id": "8c93e30eec8f",
-    "title_en": "Otovo adds InCharge Energy’s EV maintenance skills to service offering",
-    "title_zh": "Otovo将InCharge Energy的电动汽车维护技能添加到服务中",
-    "url": "https://www.solarpowerworldonline.com/2026/09/otovo-adds-incharge-energys-ev-maintenance-skills-to-service-offering/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T12:33:53+00:00"
-  },
-  "3b5ab82b6f89": {
-    "id": "3b5ab82b6f89",
-    "title_en": "Tesla Semi finally enters volume production, 7 years behind schedule",
-    "title_zh": "特斯拉Semi终于进入批量生产，比计划晚了7年",
-    "url": "https://electrek.co/2026/09/25/tesla-semi-volume-production-launch-nevada-factory/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-25T12:31:37+00:00"
-  },
-  "a0376d967f41": {
-    "id": "a0376d967f41",
-    "title_en": "BESS Industry Buzz: Owner vs trader returns, market saturation, more Northvolt M&A, alt technologies’ differing fortunes",
-    "title_zh": "BESS行业热议：所有者与交易者回报、市场饱和、更多的Northvolt并购、另类技术的不同命运",
-    "url": "https://www.energy-storage.news/bess-industry-buzz-owner-vs-trader-returns-market-saturation-more-northvolt-ma-alt-technologies-differing-fortunes/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-25T12:21:32+00:00"
-  },
-  "0276227343a5": {
-    "id": "0276227343a5",
-    "title_en": "Solar panel waste silver turned into catalyst for carbon monoxide production",
-    "title_zh": "太阳能电池板废银转化为一氧化碳生产催化剂",
-    "url": "https://www.pv-magazine.com/2026/09/25/solar-panel-waste-silver-turned-into-catalyst-for-carbon-monoxide-production/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T12:02:54+00:00"
-  },
-  "b30447ae305b": {
-    "id": "b30447ae305b",
-    "title_en": "Offshore Wind Farm Featuring 18 MW Turbines Goes Online in China",
-    "title_zh": "拥有18兆瓦涡轮机的海上风电场在中国上线",
-    "url": "https://offshorewind.biz/2026/09/25/offshore-wind-farm-featuring-18-mw-turbines-goes-online-in-china",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-25T11:55:25+00:00"
-  },
-  "f9104c011550": {
-    "id": "f9104c011550",
-    "title_en": "ESR buys Aquila Clean Energy APAC to support data centre business",
-    "title_zh": "ESR收购Aquila Clean Energy APAC以支持数据中心业务",
-    "url": "https://www.pv-tech.org/esr-buys-aquila-clean-energy-apac-to-support-data-centre-business/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T11:51:34+00:00"
-  },
-  "4e2532f0626f": {
-    "id": "4e2532f0626f",
-    "title_en": "Inclusive leadership: turning diverse perspectives into innovation and impact",
-    "title_zh": "包容性领导力：将多元视角转化为创新和影响",
-    "url": "https://www.pv-magazine.com/2026/09/25/inclusive-leadership-turning-diverse-perspectives-into-innovation-and-impact/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T11:43:46+00:00"
-  },
-  "3d57ed188763": {
-    "id": "3d57ed188763",
-    "title_en": "The Hydrogen Stream: Germany, Austria and Luxembourg launch €2.12 billion program for sustainable aviation fuel",
-    "title_zh": "氢流：德国、奥地利和卢森堡启动21.2亿欧元的可持续航空燃料计划",
-    "url": "https://www.pv-magazine.com/2026/09/25/the-hydrogen-stream-germany-austria-and-luxembourg-launch-e2-12-billion-program-for-sustainable-aviation-fuel/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T11:40:12+00:00"
-  },
-  "c232541e0024": {
-    "id": "c232541e0024",
-    "title_en": "Websol secures land for 4GW solar cell, module manufacturing plant in West Bengal",
-    "title_zh": "Websol在西孟加拉邦为4GW太阳能电池模块制造厂获得土地",
-    "url": "https://www.pv-tech.org/websol-secures-land-for-4gw-solar-cell-module-manufacturing-plant-in-west-bengal/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T11:27:18+00:00"
-  },
-  "f3f5ce6ac74a": {
-    "id": "f3f5ce6ac74a",
-    "title_en": "India adds 50.6 GW of solar module and 9.7 GW of cell manufacturing capacity in 1H",
-    "title_zh": "印度上半年新增50.6吉瓦太阳能组件和9.7吉瓦电池产能",
-    "url": "https://www.pv-magazine.com/2026/09/25/india-added-50-6-gw-of-solar-module-and-9-7-gw-of-cell-manufacturing-capacity-in-1h-2026-says-mercom/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-25T11:24:57+00:00"
   }
 }
