@@ -1,4 +1,49 @@
 {
+  "4bd85f804720": {
+    "id": "4bd85f804720",
+    "title_en": "Latin America Could Double Its Onshore Wind Capacity by 2035",
+    "title_zh": "到2035年，拉丁美洲的陆上风电容量可能会翻一番",
+    "url": "https://oilprice.com/Energy/Energy-General/Latin-America-Could-Double-Its-Onshore-Wind-Capacity-by-2035.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-03T15:00:00+00:00"
+  },
+  "cc00f85e4702": {
+    "id": "cc00f85e4702",
+    "title_en": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
+    "title_zh": "马斯克解释了为什么特斯拉Robotaxi不在夜间运行，而激光雷达就是答案",
+    "url": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-03T14:36:59+00:00"
+  },
+  "21e1ec77613a": {
+    "id": "21e1ec77613a",
+    "title_en": "I tried taking the budget-priced Ride1Up Roadster V3 e-bike off-roading. Here’s what happened next",
+    "title_zh": "我试着把价格实惠的Ride1Up Roadster V3电动自行车停在公路上。接下来发生了什么",
+    "url": "https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-03T13:26:52+00:00"
+  },
+  "8e695359a291": {
+    "id": "8e695359a291",
+    "title_en": "FedEx believes $300M electric truck spend will save them $800M in diesel",
+    "title_zh": "联邦快递认为，3亿美元的电动卡车支出将为他们节省8亿美元的柴油",
+    "url": "https://electrek.co/2026/10/03/fedex-believes-300m-electric-truck-spend-will-save-them-800m-in-diesel/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-03T12:54:10+00:00"
+  },
+  "d16d60f0c735": {
+    "id": "d16d60f0c735",
+    "title_en": "Watt’s up, doc? Huddig hybrid loader gets a big battery boost [video]",
+    "title_zh": "瓦特起床了吗，医生？Huddig混合动力装载机电池电量大幅提升[视频]",
+    "url": "https://electrek.co/2026/10/03/watts-up-doc-huddig-hybrid-loader-gets-a-big-battery-boost-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-03T11:58:43+00:00"
+  },
   "ea8478f06517": {
     "id": "ea8478f06517",
     "title_en": "Battery storage paired with 37% of new U.S. residential solar systems in 2025",
@@ -4453,50 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-09-28T05:37:00+00:00"
-  },
-  "999e302a7a30": {
-    "id": "999e302a7a30",
-    "title_en": "Australia’s NSW trials property-level and community battery models to extend solar benefits",
-    "title_zh": "澳大利亚新南威尔士州试行物业级和社区电池模型，以扩大太阳能效益",
-    "url": "https://www.energy-storage.news/australias-nsw-trials-property-level-and-community-battery-models-to-extend-solar-benefits/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-28T04:56:36+00:00"
-  },
-  "96aacce19c29": {
-    "id": "96aacce19c29",
-    "title_en": "Australia’s most powerful battery storage system officially completed",
-    "title_zh": "澳大利亚最强大的电池储能系统正式完工",
-    "url": "https://www.energy-storage.news/australias-most-powerful-battery-storage-system-officially-completed/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-28T04:54:57+00:00"
-  },
-  "54a897bd2bc3": {
-    "id": "54a897bd2bc3",
-    "title_en": "Australia’s NSW grants development consent for 200MWh battery storage system",
-    "title_zh": "澳大利亚新南威尔士州批准200MWh电池储能系统的开发许可",
-    "url": "https://www.energy-storage.news/australias-nsw-grants-development-consent-for-200mwh-battery-storage-system/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-28T04:51:58+00:00"
-  },
-  "7473e6252eee": {
-    "id": "7473e6252eee",
-    "title_en": "Tone-Deaf Trillionaire Launches $200,000 Electric Car Into Sour US Market",
-    "title_zh": "Tone Deaf Trillionaire向美国市场推出价值20万美元的电动汽车",
-    "url": "https://cleantechnica.com/2026/09/28/tesla-roadster-electric-sports-car-expensive-aspirational-elections2026/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-28T04:39:38+00:00"
-  },
-  "a6898b617547": {
-    "id": "a6898b617547",
-    "title_en": "XPENG VLA 2.0 vs. Tesla FSD in Amsterdam — Part 1: XPENG L03",
-    "title_zh": "XPENG VLA 2.0与特斯拉FSD在阿姆斯特丹的比赛——第一部分：XPENG L03",
-    "url": "https://cleantechnica.com/2026/09/28/xpeng-vla-2-0-vs-tesla-fsd-in-amsterdam-part-1-xpeng-l03/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-28T04:27:45+00:00"
   }
 }
