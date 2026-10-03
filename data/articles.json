@@ -1,4 +1,49 @@
 {
+  "62f64fad18cc": {
+    "id": "62f64fad18cc",
+    "title_en": "Middle market momentum",
+    "title_zh": "中端市场势头",
+    "url": "https://www.pv-magazine.com/2026/10/03/middle-market-momentum/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-03T04:00:00+00:00"
+  },
+  "e864276b39b4": {
+    "id": "e864276b39b4",
+    "title_en": "Coalition Sues Trump Administration Over Rule Making Cars Less Fuel Efficient",
+    "title_zh": "联盟起诉特朗普政府关于降低汽车燃油效率的规定",
+    "url": "https://cleantechnica.com/2026/10/02/coalition-sues-trump-administration-over-rule-making-cars-less-fuel-efficient/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-03T00:34:33+00:00"
+  },
+  "3ef38667fe29": {
+    "id": "3ef38667fe29",
+    "title_en": "APS Wants to Resuscitate Four Corners Coal Plant Already Slated for Closure",
+    "title_zh": "APS希望重振已经计划关闭的四角煤电厂",
+    "url": "https://cleantechnica.com/2026/10/02/aps-wants-to-resuscitate-four-corners-coal-plant-already-slated-for-closure/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-03T00:24:25+00:00"
+  },
+  "28a46c84256a": {
+    "id": "28a46c84256a",
+    "title_en": "Sierra Club Statement on FERC Decision Rejecting Centralia Coal Plant Cost-Recovery Plan",
+    "title_zh": "塞拉俱乐部就联邦能源管理委员会拒绝Centralia燃煤电厂成本回收计划的决定发表声明",
+    "url": "https://cleantechnica.com/2026/10/02/sierra-club-statement-on-ferc-decision-rejecting-centralia-coal-plant-cost-recovery-plan/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-03T00:14:50+00:00"
+  },
+  "01b3250f595b": {
+    "id": "01b3250f595b",
+    "title_en": "SEIA Statement on Governor Newsom’s Actions on Clean Energy Bills",
+    "title_zh": "SEIA关于纽瑟姆州长对清洁能源法案采取行动的声明",
+    "url": "https://cleantechnica.com/2026/10/02/seia-statement-on-governor-newsoms-actions-on-clean-energy-bills/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-03T00:08:09+00:00"
+  },
   "c00b60ca8b69": {
     "id": "c00b60ca8b69",
     "title_en": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
@@ -4453,50 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-09-28T01:08:29+00:00"
-  },
-  "3431e54486e3": {
-    "id": "3431e54486e3",
-    "title_en": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
-    "title_zh": "委内瑞拉的石油复苏可能花费超过1000亿美元",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-27T23:00:00+00:00"
-  },
-  "8a3e2718f772": {
-    "id": "8a3e2718f772",
-    "title_en": "Australia connects record 9.1GW of renewables and storage as NEM pipeline reaches 75.4GW",
-    "title_zh": "澳大利亚连接创纪录的9.1GW可再生能源和储能，NEM管道达到75.4GW",
-    "url": "https://www.pv-tech.org/australia-connects-record-9-1gw-of-renewables-and-storage-as-nem-pipeline-reaches-75-4gw/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-27T22:29:42+00:00"
-  },
-  "d8413fc076ee": {
-    "id": "d8413fc076ee",
-    "title_en": "Space Squeeze Forces Solar Developers To Get Creative",
-    "title_zh": "空间挤压迫使太阳能开发商发挥创造力",
-    "url": "https://cleantechnica.com/2026/09/27/community-solar-power-plants-tight-spaces-high-density/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-27T21:07:02+00:00"
-  },
-  "4586cb62e8cb": {
-    "id": "4586cb62e8cb",
-    "title_en": "Solar, Wind, Battery Storage, And Politics — It’s Complicated",
-    "title_zh": "太阳能、风能、电池储能和政治——这很复杂",
-    "url": "https://cleantechnica.com/2026/09/27/solar-wind-battery-storage-and-politics-its-complicated/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-27T20:43:24+00:00"
-  },
-  "2ecdffbf6e83": {
-    "id": "2ecdffbf6e83",
-    "title_en": "Survey Sunday: When self driving cars crash, who gets the blame?",
-    "title_zh": "周日调查：当自动驾驶汽车发生碰撞时，谁该受到指责？",
-    "url": "https://electrek.co/2026/09/27/survey-sunday-when-self-driving-cars-crash-who-gets-the-blame/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-09-27T19:24:30+00:00"
   }
 }
