@@ -1,4 +1,58 @@
 {
+  "b3eaeb161937": {
+    "id": "b3eaeb161937",
+    "title_en": "EV Sales Surged In The UK This September",
+    "title_zh": "今年9月英国电动汽车销量激增",
+    "url": "https://cleantechnica.com/2026/10/04/ev-sales-surged-in-the-uk-this-september/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-04T23:27:20+00:00"
+  },
+  "f8c8d5600b2c": {
+    "id": "f8c8d5600b2c",
+    "title_en": "Ireland’s Heat Study Adds More Evidence Against The Fabric First Trap",
+    "title_zh": "爱尔兰的热量研究为织物优先陷阱提供了更多证据",
+    "url": "https://cleantechnica.com/2026/10/04/seai-fabric-first-trap-heat-pumps/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-04T23:12:22+00:00"
+  },
+  "9298c7d4014f": {
+    "id": "9298c7d4014f",
+    "title_en": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+    "title_zh": "燃料价格冲击推动全球汽油车销量首次低于50%",
+    "url": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-04T23:00:00+00:00"
+  },
+  "45bf0386c5aa": {
+    "id": "45bf0386c5aa",
+    "title_en": "Open Letter to Elon Musk: You Have a Moral Imperative to Get All Your Tesla EV Customers Using Full Self Driving",
+    "title_zh": "致埃隆·马斯克的公开信：你有道德义务让所有特斯拉电动汽车客户使用全自动驾驶",
+    "url": "https://cleantechnica.com/2026/10/04/open-letter-to-elon-musk-you-have-a-moral-imperative-to-get-all-your-tesla-ev-customers-using-full-self-driving/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-04T22:41:42+00:00"
+  },
+  "93dea5091fb7": {
+    "id": "93dea5091fb7",
+    "title_en": "The Hybrid Isn’t Replacing the Bigger Engine, It’s Replacing the Upgrade Path",
+    "title_zh": "混合动力车不是在取代更大的发动机，而是在取代升级路径",
+    "url": "https://cleantechnica.com/2026/10/04/the-hybrid-isnt-replacing-the-bigger-engine-its-replacing-the-upgrade-path/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-04T21:15:03+00:00"
+  },
+  "92db2819068c": {
+    "id": "92db2819068c",
+    "title_en": "Europe’s Diesel Woes Just Got Even Worse",
+    "title_zh": "欧洲的柴油机问题变得更加严重",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-04T21:00:00+00:00"
+  },
   "f0832ee8e86b": {
     "id": "f0832ee8e86b",
     "title_en": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
@@ -4444,59 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-28T10:41:39+00:00"
-  },
-  "00432b5e8a52": {
-    "id": "00432b5e8a52",
-    "title_en": "Analysis: Lula presidency saved at least 20,000km2 of Brazilian Amazon since 2022",
-    "title_zh": "分析：自2022年以来，卢拉总统任期至少拯救了2万平方公里的巴西亚马逊",
-    "url": "https://www.carbonbrief.org/analysis-lula-presidency-saved-at-least-20000km2-of-brazilian-amazon-since-2022",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-09-28T10:35:12+00:00"
-  },
-  "507cf682e5f9": {
-    "id": "507cf682e5f9",
-    "title_en": "Low Carbon plans to build 500MW UK solar-plus-storage project",
-    "title_zh": "低碳计划在英国建设500MW太阳能+储能项目",
-    "url": "https://www.pv-tech.org/low-carbon-plans-500mw-uk-solar-plus-storage-project/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-28T10:34:13+00:00"
-  },
-  "087c272a2086": {
-    "id": "087c272a2086",
-    "title_en": "European residential heat pump sales up 11% in H1",
-    "title_zh": "欧洲住宅热泵销售额上半年增长11%",
-    "url": "https://www.pv-magazine.com/2026/09/28/european-residential-heat-pump-sales-up-11-in-h1/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-28T10:32:25+00:00"
-  },
-  "e92b399b381f": {
-    "id": "e92b399b381f",
-    "title_en": "TotalEnergies Targets 3% Annual Oil and Gas Growth Through 2030",
-    "title_zh": "TotalEnergy的目标是到2030年石油和天然气年增长率达到3%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Targets-3-Annual-Oil-and-Gas-Growth-Through-2030.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-28T10:30:00+00:00"
-  },
-  "e71874e48fd8": {
-    "id": "e71874e48fd8",
-    "title_en": "Key takeaways from Solar & Storage Live UK, Birmingham",
-    "title_zh": "英国伯明翰太阳能与储能现场直播的关键要点",
-    "url": "https://www.pv-magazine.com/2026/09/28/key-takeaways-from-solar-storage-live-uk-birmingham/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-28T10:20:07+00:00"
-  },
-  "85bbefebb5e3": {
-    "id": "85bbefebb5e3",
-    "title_en": "Barla launches wind market intelligence firm in Denmark",
-    "title_zh": "Barla在丹麦成立风能市场情报公司",
-    "url": "https://www.windpowermonthly.com/article/1971042/barla-launches-wind-market-intelligence-firm-denmark",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-28T10:05:40+00:00"
   }
 }
