@@ -1,4 +1,49 @@
 {
+  "00e9aa36374b": {
+    "id": "00e9aa36374b",
+    "title_en": "My Trip To Brazil To See The Rapid Rise Of Chinese Cars, Part 2: Dealer Visits",
+    "title_zh": "我去巴西看中国汽车的快速崛起，第二部分：经销商访问",
+    "url": "https://cleantechnica.com/2026/10/04/my-trip-to-brazil-to-see-the-rapid-rise-of-chinese-cars-part-2-dealer-visits/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-04T15:41:21+00:00"
+  },
+  "5079970f74f5": {
+    "id": "5079970f74f5",
+    "title_en": "Tough times for Audi, VW, and Porsche could make October a great time to buy",
+    "title_zh": "奥迪、大众和保时捷的艰难时期可能会使10月成为购买的好时机",
+    "url": "https://electrek.co/2026/10/04/tough-times-for-audi-vw-and-porsche-make-make-october-a-great-time-to-buy/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-04T15:15:00+00:00"
+  },
+  "0fdefb3cc5fd": {
+    "id": "0fdefb3cc5fd",
+    "title_en": "Private Equity Firms Double Down on Fossil Fuels",
+    "title_zh": "私募股权公司加倍投资化石燃料",
+    "url": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-04T15:00:00+00:00"
+  },
+  "dfd343a928a2": {
+    "id": "dfd343a928a2",
+    "title_en": "Top Selling Electric Vehicles in the World — 27% EV Share in August!",
+    "title_zh": "全球最畅销的电动汽车——8月份电动汽车市场份额为27%！",
+    "url": "https://cleantechnica.com/2026/10/04/top-selling-electric-vehicles-in-the-world-27-ev-share-in-august/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-04T14:17:54+00:00"
+  },
+  "f98759752bcb": {
+    "id": "f98759752bcb",
+    "title_en": "Autonomous Orange: YMX adds self-driving tech to its electric yard trucks",
+    "title_zh": "Autonomous Orange：YMX为其电动庭院卡车增加了自动驾驶技术",
+    "url": "https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-04T13:48:54+00:00"
+  },
   "35c6b4b59433": {
     "id": "35c6b4b59433",
     "title_en": "Rivian’s delayed ALSO e-bikes are finally arriving to first customers, with mixed early feedback",
@@ -4453,50 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-09-28T10:02:54+00:00"
-  },
-  "c5f95fec5029": {
-    "id": "c5f95fec5029",
-    "title_en": "EnerVenue opens factory, secures first multi-MWh order for 30,000-cycle nickel-hydrogen batteries at Chinese oilfield",
-    "title_zh": "EnerVenue在中国油田开设工厂，获得首个30000循环镍氢电池的多兆瓦时订单",
-    "url": "https://www.energy-storage.news/enervenue-opens-factory-secures-first-multi-mwh-order-for-30000-cycle-nickel-hydrogen-batteries-at-chinese-oilfield/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-28T09:21:05+00:00"
-  },
-  "e4a9a2261740": {
-    "id": "e4a9a2261740",
-    "title_en": "Urgent need for cybersecurity overhaul as BESS deployment accelerates, Energy Storage Europe says",
-    "title_zh": "欧洲储能公司表示，随着BESS部署的加速，迫切需要进行网络安全改革",
-    "url": "https://www.energy-storage.news/urgent-need-for-cybersecurity-overhaul-as-bess-deployment-accelerates-energy-storage-europe-says/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-28T09:03:00+00:00"
-  },
-  "36660e93ac0f": {
-    "id": "36660e93ac0f",
-    "title_en": "Global solar additions hit 690 GW in 2025",
-    "title_zh": "2025年全球太阳能新增容量达到690吉瓦",
-    "url": "https://www.pv-magazine.com/2026/09/28/global-solar-additions-hit-690-gw-in-2025/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-28T09:02:18+00:00"
-  },
-  "2354081b65f6": {
-    "id": "2354081b65f6",
-    "title_en": "From data centers to AI factories: What utilities need to know about the next wave of load growth",
-    "title_zh": "从数据中心到人工智能工厂：公用事业公司需要了解下一波负载增长",
-    "url": "https://www.utilitydive.com/spons/from-data-centers-to-ai-factories-what-utilities-need-to-know-about-the-ne/831041/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-28T09:00:00+00:00"
-  },
-  "df864574e6d5": {
-    "id": "df864574e6d5",
-    "title_en": "6 lessons for surfacing hidden capacity in commercial buildings",
-    "title_zh": "商业建筑中隐藏容量的6个教训",
-    "url": "https://www.utilitydive.com/spons/6-lessons-for-surfacing-hidden-capacity-in-commercial-buildings/831103/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-09-28T09:00:00+00:00"
   }
 }
