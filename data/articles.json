@@ -1,4 +1,22 @@
 {
+  "f7db4fc217cf": {
+    "id": "f7db4fc217cf",
+    "title_en": "Peugeot E-208 Rental Car Review",
+    "title_zh": "标致E-208租车评论",
+    "url": "https://cleantechnica.com/2026/10/05/peugeot-e-208-rental-car-review/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-05T04:06:26+00:00"
+  },
+  "d4f72aa8a6e1": {
+    "id": "d4f72aa8a6e1",
+    "title_en": "Socket to the sun",
+    "title_zh": "太阳插座",
+    "url": "https://www.pv-magazine.com/2026/10/05/socket-to-the-sun-2/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-05T04:00:00+00:00"
+  },
   "b3eaeb161937": {
     "id": "b3eaeb161937",
     "title_en": "EV Sales Surged In The UK This September",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-28T11:00:00+00:00"
-  },
-  "e12c4624f3c7": {
-    "id": "e12c4624f3c7",
-    "title_en": "Rising air injection rates boost compressed air energy storage efficiency",
-    "title_zh": "空气喷射率的提高提高了压缩空气的储能效率",
-    "url": "https://www.pv-magazine.com/2026/09/28/rising-air-injection-rates-boost-compressed-air-energy-storage-efficiency/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-28T10:56:06+00:00"
-  },
-  "ca4c28675ae6": {
-    "id": "ca4c28675ae6",
-    "title_en": "Italy raises Macse energy storage auction premium cap from €22,000 to €27,000/MWh",
-    "title_zh": "意大利将Macse储能拍卖溢价上限从22000欧元提高到27000欧元/MWh",
-    "url": "https://www.pv-magazine.com/2026/09/28/italy-raises-macse-energy-storage-auction-premium-cap-from-e22000-to-e27000-mwh/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-28T10:41:39+00:00"
   }
 }
