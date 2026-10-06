@@ -1,4 +1,103 @@
 {
+  "2a8d57bbbc94": {
+    "id": "2a8d57bbbc94",
+    "title_en": "Trump Defers Federal Fuel Tax on Dyed Diesel as Prices Hit $6.32",
+    "title_zh": "特朗普推迟对染色柴油征收联邦燃油税，因为价格达到6.32美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Defers-Federal-Fuel-Tax-on-Dyed-Diesel-as-Prices-Hit-632.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-06T05:15:08+00:00"
+  },
+  "272a7bc9f425": {
+    "id": "272a7bc9f425",
+    "title_en": "Australia’s utility PV curtailment drops to 22% in September as renewables output hits 5.44TWh",
+    "title_zh": "随着可再生能源产量达到5.44TWh，澳大利亚9月份的公用事业光伏弃电量降至22%",
+    "url": "https://www.pv-tech.org/australias-utility-pv-curtailment-drops-to-22-in-september-as-renewables-output-hits-5-44twh/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-10-06T04:38:45+00:00"
+  },
+  "67f736fcd2ed": {
+    "id": "67f736fcd2ed",
+    "title_en": "Australia’s NEM battery storage fleet earns AU$88.91 million in Q3, with five days delivering 15% of revenue",
+    "title_zh": "澳大利亚NEM电池储能车队第三季度收入8891万澳元，五天内收入占15%",
+    "url": "https://www.energy-storage.news/australias-nem-battery-storage-fleet-earns-au88-91-million-in-q3-with-five-days-delivering-15-of-revenue/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-06T04:28:41+00:00"
+  },
+  "e27280b6d3ea": {
+    "id": "e27280b6d3ea",
+    "title_en": "NEM Data Spotlight: Solar output hits 4,780GWh in September with rooftop generation up 31%",
+    "title_zh": "NEM数据聚焦：9月份太阳能发电量达到4780GWh，屋顶发电量增长31%",
+    "url": "https://www.pv-tech.org/nem-data-spotlight-solar-output-hits-4780gwh-in-september-with-rooftop-generation-up-31/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-10-06T04:27:57+00:00"
+  },
+  "4e474d9923f7": {
+    "id": "4e474d9923f7",
+    "title_en": "Australia’s Origin Energy targets building ‘Southern Hemisphere’s largest battery storage complex’",
+    "title_zh": "澳大利亚Origin Energy计划建造“南半球最大的电池储能综合体”",
+    "url": "https://www.energy-storage.news/australias-origin-energy-targets-building-southern-hemispheres-largest-battery-storage-complex/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-06T04:26:19+00:00"
+  },
+  "986eca9d41bb": {
+    "id": "986eca9d41bb",
+    "title_en": "Standard Chartered Says Hormuz Oil Flows Are Far From Normal",
+    "title_zh": "渣打银行表示霍尔木兹的石油流量远非正常",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Standard-Chartered-Says-Hormuz-Oil-Flows-Are-Far-From-Normal.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-06T00:00:00+00:00"
+  },
+  "564ed581c54b": {
+    "id": "564ed581c54b",
+    "title_en": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
+    "title_zh": "特斯拉Powerwall上没有出售？市面上有很多电池替代品[更新]",
+    "url": "https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-05T23:35:00+00:00"
+  },
+  "c4eac9abbe66": {
+    "id": "c4eac9abbe66",
+    "title_en": "Six Flags has installed one of the largest solar carports in the US",
+    "title_zh": "Six Flags安装了美国最大的太阳能车棚之一",
+    "url": "https://electrek.co/2026/10/05/six-flags-has-installed-one-of-the-largest-solar-carports-in-the-us/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-05T23:05:05+00:00"
+  },
+  "fe2660eb50f2": {
+    "id": "fe2660eb50f2",
+    "title_en": "Europe Weighs Methane Rule Delay as Energy Supply Risks Mount",
+    "title_zh": "随着能源供应风险的增加，欧洲考虑推迟甲烷规则",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Weighs-Methane-Rule-Delay-as-Energy-Supply-Risks-Mount.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-05T23:00:00+00:00"
+  },
+  "80dc663682ca": {
+    "id": "80dc663682ca",
+    "title_en": "Department of War drafts EV battery factory into military drone duty with $75M grant",
+    "title_zh": "战争部以7500万美元的拨款将电动汽车电池工厂纳入军用无人机任务",
+    "url": "https://electrek.co/2026/10/05/department-of-war-drafts-ev-battery-factory-into-military-drone-duty-with-75m-grant/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-05T22:30:46+00:00"
+  },
+  "d17bc15329b8": {
+    "id": "d17bc15329b8",
+    "title_en": "G7 Oil Stocks Release Is A Band-Aid Fix in Broken Fuel Market",
+    "title_zh": "G7石油股的释放是破碎燃料市场的权宜之计",
+    "url": "https://oilprice.com/Energy/Energy-General/G7-Oil-Stocks-Release-Is-A-Band-Aid-Fix-in-Broken-Fuel-Market.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-05T22:00:00+00:00"
+  },
   "b5293fde02a2": {
     "id": "b5293fde02a2",
     "title_en": "Singapore Eyes Nuclear Power as Iran War Exposes Its Import Problem",
@@ -4399,104 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-09-29T10:57:34+00:00"
-  },
-  "94b831dea3fa": {
-    "id": "94b831dea3fa",
-    "title_en": "Saudi Arabia Restarts Red Sea Crude Oil Loadings",
-    "title_zh": "沙特阿拉伯重启红海原油装载",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Restarts-Red-Sea-Crude-Oil-Loadings.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-29T10:30:00+00:00"
-  },
-  "0b19f6ac3620": {
-    "id": "0b19f6ac3620",
-    "title_en": "Dajin Heavy Industry Adds Third Large Deck Transport Vessel to Its Fleet",
-    "title_zh": "大金重工新增第三艘大型甲板运输船",
-    "url": "https://offshorewind.biz/2026/09/29/dajin-heavy-industry-adds-third-large-deck-transport-vessel-to-its-fleet",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-09-29T10:21:55+00:00"
-  },
-  "483b59f53f38": {
-    "id": "483b59f53f38",
-    "title_en": "PV-Storage giants debate how to break out of cutthroat competition: Technology breakthroughs, AI monetisation and compliant global expansion",
-    "title_zh": "光伏储能巨头争论如何摆脱残酷的竞争：技术突破、人工智能货币化和合规的全球扩张",
-    "url": "https://www.pv-tech.org/pv-storage-giants-debate-how-to-break-out-of-cutthroat-competition-technology-breakthroughs-ai-monetisation-and-compliant-global-expansion/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-09-29T10:10:31+00:00"
-  },
-  "3441a072d6c3": {
-    "id": "3441a072d6c3",
-    "title_en": "PJM capacity reforms require urgent state action to protect ratepayers, says NRDC",
-    "title_zh": "NRDC表示，PJM容量改革需要国家采取紧急行动来保护纳税人",
-    "url": "https://www.energy-storage.news/pjm-capacity-reforms-require-urgent-state-action-to-protect-ratepayers-says-nrdc/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-29T10:09:22+00:00"
-  },
-  "f698d7df5d39": {
-    "id": "f698d7df5d39",
-    "title_en": "Wind power patents: China Three Gorges | Dongfang | Nordex | Siemens Gamesa",
-    "title_zh": "风电专利：中国三峡|东方|北欧|西门子歌美飒",
-    "url": "https://www.windpowermonthly.com/article/1971160/wind-power-patents-china-three-gorges-dongfang-nordex-siemens-gamesa",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-09-29T09:38:27+00:00"
-  },
-  "a8c40361dca1": {
-    "id": "a8c40361dca1",
-    "title_en": "India Unlikely to Ditch Russian Oil Despite Trump's 100% Tariff Threat",
-    "title_zh": "尽管特朗普100%的关税威胁，印度不太可能放弃俄罗斯石油",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Unlikely-to-Ditch-Russian-Oil-Despite-Trumps-100-Tariff-Threat.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-09-29T09:30:00+00:00"
-  },
-  "363602f3a81b": {
-    "id": "363602f3a81b",
-    "title_en": "ABB returns to utility-scale market with Gamesa Electric integration",
-    "title_zh": "ABB通过Gamesa Electric的整合重返公用事业规模市场",
-    "url": "https://www.pv-magazine.com/2026/09/29/abb-returns-to-utility-scale-market-with-gamesa-electric-integration/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-29T09:28:57+00:00"
-  },
-  "c656d24b2641": {
-    "id": "c656d24b2641",
-    "title_en": "XGS Energy wins DoE funding for New Mexico geothermal well",
-    "title_zh": "XGS Energy赢得美国能源部对新墨西哥地热井的资助",
-    "url": "https://www.energymonitor.ai/news/xgs-energy-new-mexico-geothermal/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-09-29T09:21:13+00:00"
-  },
-  "1a34f6748703": {
-    "id": "1a34f6748703",
-    "title_en": "The case for vertical BIPV",
-    "title_zh": "垂直BIPV案例",
-    "url": "https://www.pv-magazine.com/2026/09/29/the-case-for-vertical-bipv/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-29T09:15:03+00:00"
-  },
-  "b819150654e4": {
-    "id": "b819150654e4",
-    "title_en": "Charity appeal sends solar equipment to flood-affected Nepal",
-    "title_zh": "慈善呼吁向受洪水影响的尼泊尔发送太阳能设备",
-    "url": "https://www.pv-magazine.com/2026/09/29/charity-appeal-sends-solar-equipment-to-flood-affected-nepal/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-29T08:55:06+00:00"
-  },
-  "24fdbdde594e": {
-    "id": "24fdbdde594e",
-    "title_en": "‘Huge pipeline of opportunities’ as Middle East energy storage financing seeks bankability, revenue certainty",
-    "title_zh": "中东储能融资寻求可融资性和收入确定性，“巨大的机会管道”",
-    "url": "https://www.energy-storage.news/huge-pipeline-of-opportunities-as-middle-east-energy-storage-financing-seeks-bankability-revenue-certainty/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-29T08:41:31+00:00"
   }
 }
