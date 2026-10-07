@@ -1,4 +1,103 @@
 {
+  "39783ce86a2f": {
+    "id": "39783ce86a2f",
+    "title_en": "Why $100 Oil Is Hard to Kill",
+    "title_zh": "为什么100美元的石油很难杀死",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-07T00:00:00+00:00"
+  },
+  "bc0a3146065a": {
+    "id": "bc0a3146065a",
+    "title_en": "Canadian Solar’s e-STORAGE to deliver 200MWh BESS for Australian solar-plus-storage site",
+    "title_zh": "加拿大太阳能公司的e-STORAGE将为澳大利亚太阳能+储能基地提供200MWh的BESS",
+    "url": "https://www.energy-storage.news/canadian-solars-e-storage-to-deliver-200mwh-bess-for-australian-solar-plus-storage-site/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-06T23:37:28+00:00"
+  },
+  "9f7d49058f12": {
+    "id": "9f7d49058f12",
+    "title_en": "Atmos Renewables closes financing on 1.6GWh Capacity Investment Scheme-backed battery storage system in Australia",
+    "title_zh": "Atmos Renewables完成了澳大利亚1.6GWh容量投资计划支持的电池储能系统的融资",
+    "url": "https://www.energy-storage.news/atmos-renewables-closes-financing-on-1-6gwh-capacity-investment-scheme-backed-battery-storage-system-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-06T23:34:31+00:00"
+  },
+  "cad16635b5b4": {
+    "id": "cad16635b5b4",
+    "title_en": "5 Natural Gas Stocks Profiting From the Strait of Hormuz Standoff",
+    "title_zh": "5只天然气股票从霍尔木兹海峡对峙中获利",
+    "url": "https://oilprice.com/Energy/Natural-Gas/5-Natural-Gas-Stocks-Profiting-From-the-Strait-of-Hormuz-Standoff.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-06T23:00:00+00:00"
+  },
+  "9bd95e97c91f": {
+    "id": "9bd95e97c91f",
+    "title_en": "G7’s 100 Million Barrel Release Is Mostly Already Priced In",
+    "title_zh": "七国集团1亿桶石油的释放大多已经定价",
+    "url": "https://oilprice.com/Energy/Crude-Oil/G7s-100-Million-Barrel-Release-Is-Mostly-Already-Priced-In.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-06T22:00:00+00:00"
+  },
+  "ceb9f8f58f67": {
+    "id": "ceb9f8f58f67",
+    "title_en": "US gas plant plans jump 44% in just 8 months – here’s why",
+    "title_zh": "美国天然气厂计划在短短8个月内增长44%——原因如下",
+    "url": "https://electrek.co/2026/10/06/us-gas-plant-plans-jump-44-in-just-8-months-heres-why/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-06T21:19:12+00:00"
+  },
+  "cea2bdf769d1": {
+    "id": "cea2bdf769d1",
+    "title_en": "US Crude Inventories Slide",
+    "title_zh": "美国原油库存下滑",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Slide.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-06T21:15:00+00:00"
+  },
+  "9a487a295198": {
+    "id": "9a487a295198",
+    "title_en": "This electric minivan is bringing an ’80s icon back to life",
+    "title_zh": "这辆电动小型货车让80年代的偶像复活了",
+    "url": "https://electrek.co/2026/10/06/electric-minivan-bringing-80s-icon-back-to-life/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-06T21:02:27+00:00"
+  },
+  "6f21287e81f1": {
+    "id": "6f21287e81f1",
+    "title_en": "Europe's Power Grid Is Digitalizing Faster Than Regulators Can Keep Up",
+    "title_zh": "欧洲电网数字化速度快于监管机构",
+    "url": "https://oilprice.com/Energy/Energy-General/Europes-Power-Grid-Is-Digitalizing-Faster-Than-Regulators-Can-Keep-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-06T21:00:00+00:00"
+  },
+  "bf85d699d1e4": {
+    "id": "bf85d699d1e4",
+    "title_en": "Tesla is now making more EVs that can double as a home battery",
+    "title_zh": "特斯拉现在正在生产更多可以兼作家用电池的电动汽车",
+    "url": "https://www.canarymedia.com/articles/electric-vehicles/tesla-evs-as-home-battery",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-06T21:00:00+00:00"
+  },
+  "c501289948f6": {
+    "id": "c501289948f6",
+    "title_en": "Missouri utility solar project will occupy former strip mine land",
+    "title_zh": "密苏里州公用事业太阳能项目将占用前露天矿用地",
+    "url": "https://www.solarpowerworldonline.com/2026/10/missouri-utility-solar-project-will-occupy-former-strip-mine-land/",
+    "source": "Solar Power World",
+    "category": "太阳能",
+    "pub_ts": "2026-10-06T20:08:43+00:00"
+  },
   "29f8ed23f09c": {
     "id": "29f8ed23f09c",
     "title_en": "Halliburton Shuns Falklands Oil Project",
@@ -4399,104 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-09-30T05:23:04+00:00"
-  },
-  "808c658f65b7": {
-    "id": "808c658f65b7",
-    "title_en": "U.S. homeowners are now slightly less mistrustful of solar companies",
-    "title_zh": "美国房主现在对太阳能公司的不信任程度有所降低",
-    "url": "https://www.pv-magazine.com/2026/09/30/homeowners-are-now-slightly-less-mistrustful-of-solar-companies-report-claims/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-30T05:21:58+00:00"
-  },
-  "3ebbf046ce35": {
-    "id": "3ebbf046ce35",
-    "title_en": "Kerala: Indian state proposes five-year electricity tariff framework with new provisions for BESS",
-    "title_zh": "喀拉拉邦：印度邦提出五年电价框架，并为BESS制定新规定",
-    "url": "https://www.energy-storage.news/kerala-indian-state-proposes-five-year-electricity-tariff-framework-with-new-provisions-for-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-30T04:56:27+00:00"
-  },
-  "01fa9461aa6f": {
-    "id": "01fa9461aa6f",
-    "title_en": "Spain is making batteries a licensing condition for data centres, and nobody noticed",
-    "title_zh": "西班牙正在将电池作为数据中心的许可条件，但没有人注意到",
-    "url": "https://www.energy-storage.news/spain-is-making-batteries-a-licensing-condition-for-data-centres-and-nobody-noticed/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-30T04:51:05+00:00"
-  },
-  "c863769790cf": {
-    "id": "c863769790cf",
-    "title_en": "Gotion to supply 6GWh of battery storage for Saudi Arabia’s first utility-scale BESS tender",
-    "title_zh": "沙特政府承诺为沙特首个公用事业规模的BESS招标提供6GWh的电池储能",
-    "url": "https://www.energy-storage.news/gotion-to-supply-6gwh-of-battery-storage-for-saudi-arabias-first-utility-scale-bess-tender/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-30T04:01:38+00:00"
-  },
-  "188a6367d7f5": {
-    "id": "188a6367d7f5",
-    "title_en": "Building the Connections Australia’s Energy Transition Needs",
-    "title_zh": "建立澳大利亚能源转型所需的联系",
-    "url": "https://www.powermag.com/building-the-connections-australias-energy-transition-needs/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-09-30T04:00:00+00:00"
-  },
-  "91c7848ae167": {
-    "id": "91c7848ae167",
-    "title_en": "Everything’s bigger in Texas",
-    "title_zh": "得克萨斯州的一切都更大",
-    "url": "https://www.pv-magazine.com/2026/09/30/everythings-bigger-in-texas/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-09-30T04:00:00+00:00"
-  },
-  "c30cf51e9616": {
-    "id": "c30cf51e9616",
-    "title_en": "GM Really Wasn’t Kidding About Those New LMR EV Batteries",
-    "title_zh": "通用汽车真的不是在开玩笑那些新的LMR电动汽车电池",
-    "url": "https://cleantechnica.com/2026/09/29/ev-batteries-gm-lmr-lithium-manganese-rich/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-30T03:39:44+00:00"
-  },
-  "ba847098435e": {
-    "id": "ba847098435e",
-    "title_en": "Australia: Energy Vault secures NSW approval for 1GWh BESS, TagEnergy submits 4GWh Victoria project",
-    "title_zh": "澳大利亚：Energy Vault确保新南威尔士州批准1GWh BESS，TagEnergy提交4GWh维多利亚项目",
-    "url": "https://www.energy-storage.news/australia-energy-vault-secures-nsw-approval-for-1gwh-bess-tagenergy-submits-4gwh-victoria-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-30T03:35:14+00:00"
-  },
-  "7380c7d39b0b": {
-    "id": "7380c7d39b0b",
-    "title_en": "FRV Australia completes first standalone BESS with 100MW/200MWh Terang project in Victoria",
-    "title_zh": "澳大利亚FRV在维多利亚州完成了第一个100MW/200MWh Terang项目的独立BESS",
-    "url": "https://www.energy-storage.news/frv-australia-completes-first-standalone-bess-with-100mw-200mwh-terang-project-in-victoria/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-09-30T03:30:58+00:00"
-  },
-  "e01a3936fbbb": {
-    "id": "e01a3936fbbb",
-    "title_en": "Water Award Finalist: Mega Reservoirs Project in Qatar",
-    "title_zh": "水奖入围者：卡塔尔大型水库项目",
-    "url": "https://www.powermag.com/water-award-finalist-mega-reservoirs-project-in-qatar/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-09-30T02:26:39+00:00"
-  },
-  "224b66d5bd3b": {
-    "id": "224b66d5bd3b",
-    "title_en": "Driving An EV Now Costs Half As Much As Diesel, New Analysis Shows",
-    "title_zh": "新的分析显示，驾驶电动汽车的成本现在是柴油车的一半",
-    "url": "https://cleantechnica.com/2026/09/29/driving-an-ev-now-costs-half-as-much-as-diesel-new-analysis-shows/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-09-30T01:03:37+00:00"
   }
 }
