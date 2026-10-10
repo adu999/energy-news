@@ -1,4 +1,31 @@
 {
+  "20bff784d620": {
+    "id": "20bff784d620",
+    "title_en": "The Iran War Is Fueling a Boom in Clean Energy",
+    "title_zh": "伊朗战争正在推动清洁能源的繁荣",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-10T15:00:00+00:00"
+  },
+  "68c45ab41283": {
+    "id": "68c45ab41283",
+    "title_en": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
+    "title_zh": "比亚迪制造了第15万辆商用新能源汽车——一辆800马力的Q3电动半卡车",
+    "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-10T12:53:18+00:00"
+  },
+  "94e796e99426": {
+    "id": "94e796e99426",
+    "title_en": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
+    "title_zh": "电池更换成功：Nio在一周内完成了120万次更换",
+    "url": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-10T11:44:31+00:00"
+  },
   "4ef6c88e143f": {
     "id": "4ef6c88e143f",
     "title_en": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
@@ -4471,32 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-02T15:00:00+00:00"
-  },
-  "dc2797505e63": {
-    "id": "dc2797505e63",
-    "title_en": "Tesla might charge you up $25,000 if you use its latest feature",
-    "title_zh": "如果你使用特斯拉的最新功能，它可能会向你收取25000美元的费用",
-    "url": "https://electrek.co/2026/10/02/tesla-emergency-drive-away-25000-supercharger-damage-who-pays/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T14:59:01+00:00"
-  },
-  "f3557959f6d5": {
-    "id": "f3557959f6d5",
-    "title_en": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
-    "title_zh": "随着海湾供应改善和中东风险回归，WTI鞭打",
-    "url": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-02T14:45:00+00:00"
-  },
-  "9f0d2ba248a9": {
-    "id": "9f0d2ba248a9",
-    "title_en": "U.S. Exit Leaves Iraq With a Militia Problem",
-    "title_zh": "美国的撤军使伊拉克面临民兵问题",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-02T14:45:00+00:00"
   }
 }
