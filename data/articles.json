@@ -1,4 +1,22 @@
 {
+  "fa754e0fb2a7": {
+    "id": "fa754e0fb2a7",
+    "title_en": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+    "title_zh": "Pemex需要近1100亿美元才能实现墨西哥的产出目标",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-10T21:00:00+00:00"
+  },
+  "0d506ec10f23": {
+    "id": "0d506ec10f23",
+    "title_en": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+    "title_zh": "东南亚需要更多电力，但其薄弱的电网可能是一个问题",
+    "url": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-10T19:00:00+00:00"
+  },
   "20bff784d620": {
     "id": "20bff784d620",
     "title_en": "The Iran War Is Fueling a Boom in Clean Energy",
@@ -4480,23 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-02T15:23:00+00:00"
-  },
-  "ff11c93ed418": {
-    "id": "ff11c93ed418",
-    "title_en": "Ford’s Fathom pickup couldn’t come soon enough as EV sales drop 80% in Q3",
-    "title_zh": "福特的Fathom皮卡来得不够快，因为第三季度电动汽车销量下降了80%",
-    "url": "https://electrek.co/2026/10/02/fords-fathom-pickup-couldnt-come-soon-after-ev-sales-drop-80/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T15:17:16+00:00"
-  },
-  "cb9479f0c04e": {
-    "id": "cb9479f0c04e",
-    "title_en": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
-    "title_zh": "霍尔木兹的液化天然气运输量达到伊朗战争开始以来的最高水平",
-    "url": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-02T15:00:00+00:00"
   }
 }
