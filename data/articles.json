@@ -1,4 +1,22 @@
 {
+  "9948b196ddce": {
+    "id": "9948b196ddce",
+    "title_en": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+    "title_zh": "随着石油危机演变为航运危机，油轮运价飙升至创纪录水平",
+    "url": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-10T23:00:00+00:00"
+  },
+  "48f071348cba": {
+    "id": "48f071348cba",
+    "title_en": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+    "title_zh": "紧急石油泄漏可能耗尽世界上最后的供应缓冲",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-10T23:00:00+00:00"
+  },
   "fa754e0fb2a7": {
     "id": "fa754e0fb2a7",
     "title_en": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
@@ -4480,23 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-02T16:42:43+00:00"
-  },
-  "a0f905b04ce5": {
-    "id": "a0f905b04ce5",
-    "title_en": "Best of the Week: US policy drives manufacturing, why PV DC connector failures are a challenge and Linton sues Jingsheng",
-    "title_zh": "本周最佳：美国政策推动制造业，为什么光伏直流连接器故障是一个挑战，林惇起诉景盛",
-    "url": "https://www.pv-tech.org/best-of-the-week-us-policy-drives-manufacturing-dc-connector-failures-linton-sues-jingsheng/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-02T16:07:57+00:00"
-  },
-  "233801ed2617": {
-    "id": "233801ed2617",
-    "title_en": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
-    "title_zh": "G7释放1亿桶柴油以应对柴油危机",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-02T15:23:00+00:00"
   }
 }
