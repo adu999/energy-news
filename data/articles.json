@@ -1,4 +1,49 @@
 {
+  "0fffa8f16130": {
+    "id": "0fffa8f16130",
+    "title_en": "3 Stocks To Play The Nuclear Energy Boom",
+    "title_zh": "3只股票参与核能热潮",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-11T23:00:00+00:00"
+  },
+  "93a107f3f6af": {
+    "id": "93a107f3f6af",
+    "title_en": "Trump Must Absolutely Love Solar Panels, Because They Help Farmers",
+    "title_zh": "特朗普一定非常喜欢太阳能电池板，因为它们能帮助农民",
+    "url": "https://cleantechnica.com/2026/10/11/mammoth-solar-panels-agrivoltaic-us-energy-policy-farmers-diesel/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-11T22:49:04+00:00"
+  },
+  "94c866e05a0c": {
+    "id": "94c866e05a0c",
+    "title_en": "Tesla Enables V2H Bidirectional Charging, Europe Completes EV4EU Trial",
+    "title_zh": "特斯拉实现V2H双向充电，欧洲完成EV4EU试验",
+    "url": "https://cleantechnica.com/2026/10/11/tesla-enables-v2h-bidirectional-charging-europe-completes-ev4eu-trial/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-11T22:37:45+00:00"
+  },
+  "55260575c58f": {
+    "id": "55260575c58f",
+    "title_en": "The legendary Citroen 2CV is back as a €15k electric concept for 2028",
+    "title_zh": "传奇的雪铁龙2CV作为价值1.5万欧元的电动概念车于2028年回归",
+    "url": "https://electrek.co/2026/10/11/the-legendary-citroen-2cv-is-back-as-a-e15k-electric-concept-for-2028/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-11T21:08:45+00:00"
+  },
+  "44fe482b36d0": {
+    "id": "44fe482b36d0",
+    "title_en": "Survey Sunday: Electrek readers find the silver lining in high fuel prices",
+    "title_zh": "周日调查：Electrek的读者在高油价中看到了一线希望",
+    "url": "https://electrek.co/2026/10/11/survey-sunday-electrek-readers-find-the-silver-lining-in-high-fuel-prices/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-11T19:38:37+00:00"
+  },
   "d115682891c1": {
     "id": "d115682891c1",
     "title_en": "How Low Can the Strategic Petroleum Reserve Actually Go?",
@@ -35,6 +80,24 @@
     "category": "油气",
     "pub_ts": "2026-10-11T15:00:00+00:00"
   },
+  "b71394288d69": {
+    "id": "b71394288d69",
+    "title_en": "Successful Market Launch of the Electric Urban Car Family: CUPRA Raval, Volkswagen ID. Polo, Škoda Epiq, and Volkswagen ID. Cross Together for the First Time at the Paris Motor Show",
+    "title_zh": "电动城市汽车系列成功上市：CUPRA Raval、大众ID Polo、斯柯达Epiq和大众ID首次在巴黎车展上亮相",
+    "url": "https://cleantechnica.com/2026/10/11/successful-market-launch-of-the-electric-urban-car-family-cupra-raval-volkswagen-id-polo-skoda-epiq-and-volkswagen-id-cross-together-for-the-first-time-at-the-paris-motor-show/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-11T14:09:33+00:00"
+  },
+  "eaa338dbfe5c": {
+    "id": "eaa338dbfe5c",
+    "title_en": "You Can Now Get The Kia EV3 At US Dealerships — Dream EV!",
+    "title_zh": "你现在可以在美国经销商处买到起亚EV3了——梦想电动汽车！",
+    "url": "https://cleantechnica.com/2026/10/11/you-can-now-get-the-kia-ev3-at-us-dealerships-dream-ev/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-11T13:58:51+00:00"
+  },
   "14cedf0cc42f": {
     "id": "14cedf0cc42f",
     "title_en": "As electric semi truck race heats up, SoCal is getting another charging hub",
@@ -52,6 +115,24 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-11T12:16:33+00:00"
+  },
+  "3c5195780759": {
+    "id": "3c5195780759",
+    "title_en": "Battery Swap Uses Fewer Batteries Than You Think",
+    "title_zh": "电池更换使用的电池比你想象的要少",
+    "url": "https://cleantechnica.com/2026/10/10/battery-swap-uses-fewer-batteries-than-you-think/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-11T01:41:38+00:00"
+  },
+  "c3cbc2010ebc": {
+    "id": "c3cbc2010ebc",
+    "title_en": "Trump’s Latest Diesel Fuel “Deal” Already Reeks Of Failure (And Corruption, Of Course)",
+    "title_zh": "特朗普最新的柴油“交易”已经陷入失败（当然还有腐败）",
+    "url": "https://cleantechnica.com/2026/10/10/trump-deal-russia-diesel-fuel-mid-term-elections/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-11T00:54:33+00:00"
   },
   "9948b196ddce": {
     "id": "9948b196ddce",
@@ -80,6 +161,15 @@
     "category": "油气",
     "pub_ts": "2026-10-10T21:00:00+00:00"
   },
+  "4b6b724e9bd4": {
+    "id": "4b6b724e9bd4",
+    "title_en": "EU Reaches Agreement With China To Reduce The Import Of Plug-In Hybrids By Half",
+    "title_zh": "欧盟与中国达成协议，将插电式混合动力车进口量减半",
+    "url": "https://cleantechnica.com/2026/10/10/eu-reaches-agreement-with-china-to-reduce-the-import-of-plug-in-hybrids-by-half/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-10T20:50:36+00:00"
+  },
   "0d506ec10f23": {
     "id": "0d506ec10f23",
     "title_en": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
@@ -89,6 +179,15 @@
     "category": "油气",
     "pub_ts": "2026-10-10T19:00:00+00:00"
   },
+  "3978773f7592": {
+    "id": "3978773f7592",
+    "title_en": "China & EU Make Deal to Cut Flood of Hybrids into EU",
+    "title_zh": "中国和欧盟达成协议，减少混合动力汽车涌入欧盟",
+    "url": "https://cleantechnica.com/2026/10/10/china-eu-make-deal-to-cut-flood-of-hybrids-into-eu/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-10T18:45:19+00:00"
+  },
   "20bff784d620": {
     "id": "20bff784d620",
     "title_en": "The Iran War Is Fueling a Boom in Clean Energy",
@@ -97,6 +196,24 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-10T15:00:00+00:00"
+  },
+  "aeae151405fa": {
+    "id": "aeae151405fa",
+    "title_en": "Fabric First Approaches Are Stuck Thinking About Winter",
+    "title_zh": "织物优先的方法让人对冬天感到困惑",
+    "url": "https://cleantechnica.com/2026/10/10/fabric-first-rebound-heat-pumps/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-10T14:57:59+00:00"
+  },
+  "bc0c2a90b5fd": {
+    "id": "bc0c2a90b5fd",
+    "title_en": "Pssst! Wanna See A Driverless Electric Truck?",
+    "title_zh": "嘘！想看看无人驾驶电动卡车吗？",
+    "url": "https://cleantechnica.com/2026/10/10/electric-trucks-autonomous-einride-ease-logistics-us-megacharger/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-10T14:07:25+00:00"
   },
   "68c45ab41283": {
     "id": "68c45ab41283",
@@ -4381,122 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-10-03T03:57:51+00:00"
-  },
-  "e864276b39b4": {
-    "id": "e864276b39b4",
-    "title_en": "Coalition Sues Trump Administration Over Rule Making Cars Less Fuel Efficient",
-    "title_zh": "联盟起诉特朗普政府关于降低汽车燃油效率的规定",
-    "url": "https://cleantechnica.com/2026/10/02/coalition-sues-trump-administration-over-rule-making-cars-less-fuel-efficient/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-03T00:34:33+00:00"
-  },
-  "3ef38667fe29": {
-    "id": "3ef38667fe29",
-    "title_en": "APS Wants to Resuscitate Four Corners Coal Plant Already Slated for Closure",
-    "title_zh": "APS希望重振已经计划关闭的四角煤电厂",
-    "url": "https://cleantechnica.com/2026/10/02/aps-wants-to-resuscitate-four-corners-coal-plant-already-slated-for-closure/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-03T00:24:25+00:00"
-  },
-  "28a46c84256a": {
-    "id": "28a46c84256a",
-    "title_en": "Sierra Club Statement on FERC Decision Rejecting Centralia Coal Plant Cost-Recovery Plan",
-    "title_zh": "塞拉俱乐部就联邦能源管理委员会拒绝Centralia燃煤电厂成本回收计划的决定发表声明",
-    "url": "https://cleantechnica.com/2026/10/02/sierra-club-statement-on-ferc-decision-rejecting-centralia-coal-plant-cost-recovery-plan/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-03T00:14:50+00:00"
-  },
-  "01b3250f595b": {
-    "id": "01b3250f595b",
-    "title_en": "SEIA Statement on Governor Newsom’s Actions on Clean Energy Bills",
-    "title_zh": "SEIA关于纽瑟姆州长对清洁能源法案采取行动的声明",
-    "url": "https://cleantechnica.com/2026/10/02/seia-statement-on-governor-newsoms-actions-on-clean-energy-bills/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-03T00:08:09+00:00"
-  },
-  "c00b60ca8b69": {
-    "id": "c00b60ca8b69",
-    "title_en": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-    "title_zh": "特朗普表示，韩国协议包括84亿美元的美国石油项目",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-02T21:30:00+00:00"
-  },
-  "9ad5f1cedfbd": {
-    "id": "9ad5f1cedfbd",
-    "title_en": "Kia sweetens EV deals with up to $10,000 off",
-    "title_zh": "起亚电动汽车交易优惠高达10000美元",
-    "url": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T21:06:34+00:00"
-  },
-  "5f87bf2da7fd": {
-    "id": "5f87bf2da7fd",
-    "title_en": "US Senate Proposes New Permitting Framework. Should It Become Law?",
-    "title_zh": "美国参议院提出新的许可框架。它应该成为法律吗？",
-    "url": "https://cleantechnica.com/2026/10/02/us-senate-proposes-new-permitting-framework-should-it-become-law/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-02T20:43:37+00:00"
-  },
-  "ceef6f04aa98": {
-    "id": "ceef6f04aa98",
-    "title_en": "Ford backs a big new solar farm for its Michigan factories",
-    "title_zh": "福特为其密歇根州的工厂支持一个新的大型太阳能发电厂",
-    "url": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T19:52:03+00:00"
-  },
-  "1f6f6b859ede": {
-    "id": "1f6f6b859ede",
-    "title_en": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
-    "title_zh": "吉普的越野电动SUV在真实的公路里程测试中仅行驶了160英里",
-    "url": "https://electrek.co/2026/10/02/jeeps-off-road-ev-drove-160-miles-real-world-highway-range-test/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T19:30:17+00:00"
-  },
-  "595f1526e5c1": {
-    "id": "595f1526e5c1",
-    "title_en": "Podcast: Tesla Roadster delay, EV deliveries, battery swap comes back, and more",
-    "title_zh": "播客：特斯拉跑车延期、电动汽车交付、电池更换等",
-    "url": "https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T19:20:55+00:00"
-  },
-  "4b45a29eb938": {
-    "id": "4b45a29eb938",
-    "title_en": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
-    "title_zh": "尽管面临美国制裁的风险，伊朗石油仍开始流入塔吉克斯坦",
-    "url": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-02T19:00:00+00:00"
-  },
-  "4251b8a8d448": {
-    "id": "4251b8a8d448",
-    "title_en": "The world’s tallest wind turbine just reached 1,197 feet",
-    "title_zh": "世界上最高的风力涡轮机刚刚达到1197英尺",
-    "url": "https://electrek.co/2026/10/02/the-worlds-tallest-wind-turbine-just-reached-1197-feet/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-02T18:21:02+00:00"
-  },
-  "85ac2beed75f": {
-    "id": "85ac2beed75f",
-    "title_en": "Six Flags brings new meaning to ‘solarcoaster’ with completed PV project",
-    "title_zh": "六旗光伏项目竣工为“太阳能热水器”赋予新的含义",
-    "url": "https://www.solarpowerworldonline.com/2026/10/six-flags-brings-new-meaning-to-solarcoaster-with-completed-pv-project/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-02T18:05:24+00:00"
   }
 }
