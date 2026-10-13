@@ -1,4 +1,67 @@
 {
+  "c0e64547647e": {
+    "id": "c0e64547647e",
+    "title_en": "40% of Volkswagen Group’s European Orders Were 100% Electrics Last Month",
+    "title_zh": "上个月，大众汽车集团40%的欧洲订单是100%的电动汽车",
+    "url": "https://cleantechnica.com/2026/10/12/40-of-volkswagen-groups-european-orders-were-100-electrics-last-month/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-13T01:55:58+00:00"
+  },
+  "1388bf28257d": {
+    "id": "1388bf28257d",
+    "title_en": "This Ultra-Rare Gas Could Become An Ace In Canada’s Hands",
+    "title_zh": "这种超稀有气体可能成为加拿大手中的王牌",
+    "url": "https://oilprice.com/Energy/Energy-General/This-Ultra-Rare-Gas-Could-Become-An-Ace-In-Canadas-Hands.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-13T00:00:00+00:00"
+  },
+  "6d5630d5f72d": {
+    "id": "6d5630d5f72d",
+    "title_en": "BYD Has Now Produced 150,000 Commercial Plugin Vehicles",
+    "title_zh": "比亚迪现已生产15万辆商用插电式汽车",
+    "url": "https://cleantechnica.com/2026/10/12/byd-has-now-produced-150000-commercial-plugin-vehicles/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-12T23:30:36+00:00"
+  },
+  "47ad13573e33": {
+    "id": "47ad13573e33",
+    "title_en": "Trump Curbs Farmers’ Access to Funding for Energy Projects",
+    "title_zh": "特朗普限制农民获得能源项目资金",
+    "url": "https://oilprice.com/Energy/Energy-General/Trump-Curbs-Farmers-Access-to-Funding-for-Energy-Projects.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-12T23:00:00+00:00"
+  },
+  "f3e3915aeb2f": {
+    "id": "f3e3915aeb2f",
+    "title_en": "Global Coal Demand Rises as LNG Shortage Deepens",
+    "title_zh": "随着液化天然气短缺加剧，全球煤炭需求上升",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Global-Coal-Demand-Rises-as-LNG-Shortage-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-12T22:00:00+00:00"
+  },
+  "3ca56ada7783": {
+    "id": "3ca56ada7783",
+    "title_en": "Rooftop solar installations in Australia hit strongest six-month total since 2021",
+    "title_zh": "澳大利亚屋顶太阳能装置达到2021年以来最强劲的六个月总量",
+    "url": "https://www.pv-tech.org/rooftop-solar-installations-in-australia-hit-strongest-six-month-total-since-2021/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-10-12T21:24:30+00:00"
+  },
+  "03198259d9a0": {
+    "id": "03198259d9a0",
+    "title_en": "Ford’s electric pickup is suddenly selling like hotcakes at 50% off used",
+    "title_zh": "福特的电动皮卡突然以50%的折扣热销",
+    "url": "https://electrek.co/2026/10/12/fords-electric-pickup-selling-like-hotcakes-50-off-used/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-12T21:22:58+00:00"
+  },
   "d9ce36a66e78": {
     "id": "d9ce36a66e78",
     "title_en": "Heat Pumps Are Coming for Coal’s Industrial Heat Market",
@@ -148,6 +211,15 @@
     "title_en": "This electric minivan wants to make the MPV cool again",
     "title_zh": "这辆电动小型货车想让MPV再次酷起来",
     "url": "https://electrek.co/2026/10/12/electric-minivan-make-mpv-cool-again/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-12T16:02:31+00:00"
+  },
+  "506f72473544": {
+    "id": "506f72473544",
+    "title_en": "This electric minivan wants to make you love MPVs again",
+    "title_zh": "这款电动小型货车想让你再次爱上MPV",
+    "url": "https://electrek.co/2026/10/12/electric-minivan-love-mpvs-again/",
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-12T16:02:31+00:00"
@@ -4426,77 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-05T13:54:52+00:00"
-  },
-  "050841de9ec8": {
-    "id": "050841de9ec8",
-    "title_en": "Enel finalises 270MW US solar PV portfolio acquisition",
-    "title_zh": "Enel完成对美国270MW太阳能光伏投资组合的收购",
-    "url": "https://www.pv-tech.org/enel-finalises-270mw-us-solar-pv-portfolio-acquisition/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-05T13:45:12+00:00"
-  },
-  "28bdc72d8441": {
-    "id": "28bdc72d8441",
-    "title_en": "Next2Sun files for insolvency for two subsidiaries",
-    "title_zh": "Next2Sun申请两家子公司破产",
-    "url": "https://www.pv-magazine.com/2026/10/05/next2sun-files-for-insolvency-for-two-subsidiaries/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-05T13:30:35+00:00"
-  },
-  "f9797e42b852": {
-    "id": "f9797e42b852",
-    "title_en": "Houthis Claim Strike on Aramco Facility in Riyadh as Yemen Fighting Escalates",
-    "title_zh": "也门战事升级，胡塞武装袭击沙特阿美利雅得工厂",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Strike-on-Aramco-Facility-in-Riyadh-as-Yemen-Fighting-Escalates.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-05T13:30:00+00:00"
-  },
-  "0db45e44bcd8": {
-    "id": "0db45e44bcd8",
-    "title_en": "Regulation remains Latin America’s main challenge for BESS’ growth",
-    "title_zh": "监管仍然是拉丁美洲对BESS增长的主要挑战",
-    "url": "https://www.energy-storage.news/regulation-remains-latin-americas-main-challenge-for-bess-growth/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-05T13:17:11+00:00"
-  },
-  "63715b6f816d": {
-    "id": "63715b6f816d",
-    "title_en": "China’s 700 MW Jintan salt-cavern CAES project completes full-system startup",
-    "title_zh": "中国700兆瓦金坛盐穴CAES项目完成全系统启动",
-    "url": "https://www.pv-magazine.com/2026/10/05/chinas-700-mw-jintan-salt-cavern-caes-project-completes-full-system-startup/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-05T12:39:09+00:00"
-  },
-  "380143732cec": {
-    "id": "380143732cec",
-    "title_en": "South Korea Plans to Triple Canadian Crude Imports as Saudi Share Slips",
-    "title_zh": "随着沙特股价下跌，韩国计划将加拿大原油进口量增加两倍",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Plans-to-Triple-Canadian-Crude-Imports-as-Saudi-Share-Slips.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-05T12:30:00+00:00"
-  },
-  "49452e363f3c": {
-    "id": "49452e363f3c",
-    "title_en": "Maryland conditionally approves 440MW of BESS for state ‘Capacity Credit’ awards",
-    "title_zh": "马里兰州有条件地批准440MW的BESS用于州“容量信用”奖励",
-    "url": "https://www.energy-storage.news/maryland-conditionally-approves-440mw-of-bess-for-state-capacity-credit-awards/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-05T12:15:59+00:00"
-  },
-  "2797f62e38fa": {
-    "id": "2797f62e38fa",
-    "title_en": "Perovskite may leak less lead than lead-solder silicon, say scientists",
-    "title_zh": "科学家表示，钙钛矿可能比铅焊料硅泄漏更少的铅",
-    "url": "https://www.pv-magazine.com/2026/10/05/perovskite-may-leak-less-lead-than-lead-solder-silicon-say-scientists/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-05T12:15:00+00:00"
   }
 }
