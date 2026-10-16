@@ -1,4 +1,31 @@
 {
+  "bac9d071a779": {
+    "id": "bac9d071a779",
+    "title_en": "DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails",
+    "title_zh": "DeLorean乘坐特斯拉的“飞行汽车”Coattails",
+    "url": "https://cleantechnica.com/2026/10/16/delorean-flying-car-tesla-roadster-evtol-evs-race/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-16T23:02:33+00:00"
+  },
+  "d3b9c8035919": {
+    "id": "d3b9c8035919",
+    "title_en": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
+    "title_zh": "Rystad表示，全球能源进口依赖将在2034年达到峰值",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T22:00:00+00:00"
+  },
+  "41103028b437": {
+    "id": "41103028b437",
+    "title_en": "This Montréal airport now has 120 EV chargers, with 48 more on the way",
+    "title_zh": "蒙特利尔机场现在有120个电动汽车充电器，还有48个正在路上",
+    "url": "https://electrek.co/2026/10/16/montreal-airport-120-ev-chargers-with-48-more-coming/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-16T20:42:51+00:00"
+  },
   "f35a2a1c68d4": {
     "id": "f35a2a1c68d4",
     "title_en": "Podcast: The Tesla Roadster episode",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-10T07:00:00+00:00"
-  },
-  "514445e7f7d8": {
-    "id": "514445e7f7d8",
-    "title_en": "Beyond gigawatts: Why India’s clean energy future depends on storage intelligence",
-    "title_zh": "超越千兆瓦：为什么印度的清洁能源未来取决于储能智能",
-    "url": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-indias-clean-energy-future-depends-on-storage-intelligence/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T06:30:00+00:00"
-  },
-  "503bb053496b": {
-    "id": "503bb053496b",
-    "title_en": "The shape of PPAs is changing – from volume to value",
-    "title_zh": "购电协议的形式正在发生变化——从数量到价值",
-    "url": "https://www.pv-magazine.com/2026/10/10/the-shape-of-ppas-is-changing-from-volume-to-value-are-you-positioned-to-capture-the-premium-in-emerging-nem-value-pools/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T06:00:00+00:00"
-  },
-  "a2d106687ad1": {
-    "id": "a2d106687ad1",
-    "title_en": "Australia backs goal of 150 million new rooftop solar systems globally by 2030",
-    "title_zh": "澳大利亚支持到2030年全球新建1.5亿个屋顶太阳能系统的目标",
-    "url": "https://www.pv-magazine.com/2026/10/10/australia-backs-goal-of-150-million-new-rooftop-solar-systems-globally-by-2030/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T05:00:00+00:00"
   }
 }
