@@ -1,4 +1,121 @@
 {
+  "f35a2a1c68d4": {
+    "id": "f35a2a1c68d4",
+    "title_en": "Podcast: The Tesla Roadster episode",
+    "title_zh": "播客：特斯拉跑车一集",
+    "url": "https://electrek.co/2026/10/16/podcast-the-tesla-roadster-episode/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-16T19:51:39+00:00"
+  },
+  "6e5f72de2968": {
+    "id": "6e5f72de2968",
+    "title_en": "Trouble: buyers would rather wait for Chinese EVs than buy Western ones",
+    "title_zh": "问题：买家宁愿等待中国电动汽车，也不愿购买西方电动汽车",
+    "url": "https://electrek.co/2026/10/16/trouble-buyers-would-rather-wait-for-chinese-evs-than-buy-western-ones/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-16T19:26:48+00:00"
+  },
+  "a8e2b75ff1f0": {
+    "id": "a8e2b75ff1f0",
+    "title_en": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
+    "title_zh": "挪威未开发的石油和天然气边界重新引起了人们的兴趣",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T19:00:00+00:00"
+  },
+  "d7d851256c8d": {
+    "id": "d7d851256c8d",
+    "title_en": "France And Germany Agree On New Exhaust Emissions Rules, Sort Of…..",
+    "title_zh": "法国和德国就新的废气排放规则达成一致，有点…。.",
+    "url": "https://cleantechnica.com/2026/10/16/france-and-germany-agree-on-new-exhaust-emissions-rules-sort-of/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-16T18:59:53+00:00"
+  },
+  "0bf66b4b8bc3": {
+    "id": "0bf66b4b8bc3",
+    "title_en": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
+    "title_zh": "随着燃料危机的加剧，美国又提供了1700万桶SPR",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T18:30:00+00:00"
+  },
+  "e994d86bf5ba": {
+    "id": "e994d86bf5ba",
+    "title_en": "Lectric treats riders with up to $762 e-bike savings in spooky sale, Worx snow blower, Jackery 1,024Wh V2 power station, more",
+    "title_zh": "Lectric为乘客提供高达762美元的电动自行车优惠，包括Worx吹雪机、Jackery 1024Wh V2发电站等",
+    "url": "https://electrek.co/2026/10/16/lectric-e-bike-spooky-sale-worx-snow-blower-jackery-1024wh-v2-power-station-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-16T18:00:00+00:00"
+  },
+  "fb8d2ceb061e": {
+    "id": "fb8d2ceb061e",
+    "title_en": "Wind Farm Approved in Victoria, Australia Would Be Largest in Southern Hemispher",
+    "title_zh": "澳大利亚维多利亚州批准的风电场将是南半球最大的风电场",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Wind-Farm-Approved-in-Victoria-Australia-Would-Be-Largest-in-Southern-Hemispher.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T18:00:00+00:00"
+  },
+  "f467db0abeda": {
+    "id": "f467db0abeda",
+    "title_en": "U.S. Oil Drillers Back Off Even As Prices Soar",
+    "title_zh": "尽管油价飙升，美国石油钻井商仍退缩",
+    "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Back-Off-Even-As-Prices-Soar.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T17:29:00+00:00"
+  },
+  "5b44141dfb5f": {
+    "id": "5b44141dfb5f",
+    "title_en": "Tesla driver says he was asleep on FSD when he hit CHP car, 2 officers hurt",
+    "title_zh": "特斯拉司机说，他撞上CHP车时正在FSD上睡觉，两名警察受伤",
+    "url": "https://electrek.co/2026/10/16/tesla-fsd-crash-chp-patrol-car-driver-asleep-fairfield/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-16T17:14:43+00:00"
+  },
+  "2990520b57ea": {
+    "id": "2990520b57ea",
+    "title_en": "Volkswagen is recalling ‘several thousand’ EVs, including the ID.4, and not just in the US",
+    "title_zh": "大众汽车正在召回“数千辆”电动汽车，包括ID.4，而不仅仅是在美国",
+    "url": "https://electrek.co/2026/10/16/volkswagen-is-recalling-thousands-of-evs-including-the-id-4/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-16T17:06:03+00:00"
+  },
+  "59453872e6c3": {
+    "id": "59453872e6c3",
+    "title_en": "Equatorial Guinea Rewrites Oil Law After Production Collapses 85%",
+    "title_zh": "赤道几内亚在产量暴跌85%后重新制定石油法",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equatorial-Guinea-Rewrites-Oil-Law-After-Production-Collapses-85.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T16:30:00+00:00"
+  },
+  "f029abbdc80e": {
+    "id": "f029abbdc80e",
+    "title_en": "Tesla Roadster Reveal — Madness From The Mind Of Musk",
+    "title_zh": "特斯拉跑车揭秘——马斯克心中的疯狂",
+    "url": "https://cleantechnica.com/2026/10/16/tesla-roadster-reveal-madness-from-the-mind-if-musk/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-16T16:23:24+00:00"
+  },
+  "78948f64f5f6": {
+    "id": "78948f64f5f6",
+    "title_en": "Oil Prices Are Stuck at $105 as Geopolitical Risks Mount",
+    "title_zh": "随着地缘政治风险的增加，油价停滞在105美元",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Are-Stuck-at-105-as-Geopolitical-Risks-Mount.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-16T16:13:00+00:00"
+  },
   "96bb40f0ae51": {
     "id": "96bb40f0ae51",
     "title_en": "IMF Sounds Alarm Over AI’s Threat to Government Tax Bases",
@@ -295,6 +412,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-16T10:30:00+00:00"
+  },
+  "28d82af51dbb": {
+    "id": "28d82af51dbb",
+    "title_en": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
+    "title_zh": "监管机构表示，NextEra的400万美元特朗普宴会厅捐款扰乱了Dominion的合并辩论",
+    "url": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-10-16T10:28:17+00:00"
   },
   "c0df58e346b8": {
     "id": "c0df58e346b8",
@@ -4372,131 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-10T05:00:00+00:00"
-  },
-  "d94be2daa059": {
-    "id": "d94be2daa059",
-    "title_en": "Can Beijing end the race to the bottom?",
-    "title_zh": "北京能结束这场比赛吗？",
-    "url": "https://www.pv-magazine.com/2026/10/10/can-beijing-end-the-race-to-the-bottom/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T04:00:00+00:00"
-  },
-  "f09c595ead07": {
-    "id": "f09c595ead07",
-    "title_en": "Tesla’s next big clean energy source is rising in the Arizona desert",
-    "title_zh": "特斯拉的下一个大型清洁能源正在亚利桑那州的沙漠中崛起",
-    "url": "https://electrek.co/2026/10/09/teslas-next-big-clean-energy-source-is-rising-in-the-arizona-desert/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-10T00:05:22+00:00"
-  },
-  "9677619dd4f3": {
-    "id": "9677619dd4f3",
-    "title_en": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
-    "title_zh": "为什么创纪录的原油产量无法解决美国的柴油危机",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-09T22:00:00+00:00"
-  },
-  "ddca9c6f6172": {
-    "id": "ddca9c6f6172",
-    "title_en": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-    "title_zh": "俄罗斯，德国增加柴油供应，因为燃料市场争夺桶",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-09T21:30:00+00:00"
-  },
-  "0e390e51c85b": {
-    "id": "0e390e51c85b",
-    "title_en": "Hyundai is offering a 10% discount on the IONIQ 5 and IONIQ 9 EVs",
-    "title_zh": "现代汽车为IONIQ 5和IONIQ 9电动汽车提供10%的折扣",
-    "url": "https://electrek.co/2026/10/09/hyundai-offers-10-discount-ioniq-5-ioniq-9-evs/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-09T21:06:14+00:00"
-  },
-  "db88e1d8de03": {
-    "id": "db88e1d8de03",
-    "title_en": "Americans want 300 miles of EV range – but most say 75 or less covers their day",
-    "title_zh": "美国人想要300英里的电动汽车续航里程，但大多数人说75英里或更少的续航里程可以满足他们的一天",
-    "url": "https://electrek.co/2026/10/09/americans-want-300-miles-of-ev-range-but-most-say-75-or-less-covers-their-day/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-09T20:30:00+00:00"
-  },
-  "853645a6083e": {
-    "id": "853645a6083e",
-    "title_en": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-    "title_zh": "飓风伊萨亚斯关闭了美国海湾71%的石油产量",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-09T20:30:00+00:00"
-  },
-  "ef68d0eba898": {
-    "id": "ef68d0eba898",
-    "title_en": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
-    "title_zh": "5只股票因100美元的油价推动司机转向电动汽车而套现",
-    "url": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-09T20:00:00+00:00"
-  },
-  "d0aa8f96cc02": {
-    "id": "d0aa8f96cc02",
-    "title_en": "Podcast: Tesla goes V2H, Kia EV3 first drive, Jaguar Type 01, and more",
-    "title_zh": "播客：特斯拉推出V2H、起亚EV3首驱、捷豹01型等",
-    "url": "https://electrek.co/2026/10/09/podcast-tesla-goes-v2h-kia-ev3-first-drive-jaguar-type-01-and-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-09T19:39:38+00:00"
-  },
-  "4108ab3e65df": {
-    "id": "4108ab3e65df",
-    "title_en": "BMW iX5 spotted ahead of US launch, sporting its new Double-X headlights",
-    "title_zh": "宝马iX5在美国上市前被发现，其新款Double-X大灯",
-    "url": "https://electrek.co/2026/10/09/bmw-ix5-spotted-ahead-of-us-launch-new-double-x-lights/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-09T19:12:42+00:00"
-  },
-  "e56101fa27f1": {
-    "id": "e56101fa27f1",
-    "title_en": "Bluetti Na(Sodium) 900Wh power station at exclusive $665 low in Encore Sale, Anker solar multi-cam kits $310 off, Navee EVs, more",
-    "title_zh": "Bluetti Na（钠）900Wh发电站在Encore销售中独家低价665美元，Anker太阳能多摄像头套件降价310美元，Navee电动汽车，更多",
-    "url": "https://electrek.co/2026/10/09/bluetti-nasodium-900wh-power-station-anker-solar-multi-cam-kits-navee-evs-more/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-09T18:00:00+00:00"
-  },
-  "40f9ca3d3ef8": {
-    "id": "40f9ca3d3ef8",
-    "title_en": "Clean-energy super PAC names its target list for general elections",
-    "title_zh": "清洁能源超级政治行动委员会公布大选目标名单",
-    "url": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-09T17:33:00+00:00"
-  },
-  "44158700de17": {
-    "id": "44158700de17",
-    "title_en": "U.S. Oil Drilling Continues to Inch Upward",
-    "title_zh": "美国石油钻探继续小幅上升",
-    "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-09T17:31:16+00:00"
-  },
-  "6f41121bcf23": {
-    "id": "6f41121bcf23",
-    "title_en": "Kia’s 7-seat electric people mover just got a bit cheaper in the UK",
-    "title_zh": "起亚的7座电动旅客捷运系统在英国刚刚便宜了一点",
-    "url": "https://electrek.co/2026/10/09/kias-7-seat-electric-people-mover-cheaper/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-09T17:07:52+00:00"
   }
 }
