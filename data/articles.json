@@ -1,4 +1,58 @@
 {
+  "6aa59f762222": {
+    "id": "6aa59f762222",
+    "title_en": "Hello Toronto! Waymo is En Route",
+    "title_zh": "你好，多伦多！Waymo正在路上",
+    "url": "https://cleantechnica.com/2026/10/16/hello-toronto-waymo-is-en-route/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-17T01:43:01+00:00"
+  },
+  "4260fcc3c257": {
+    "id": "4260fcc3c257",
+    "title_en": "U.S. Small-Scale Solar Generation Has Quadrupled in the Last Decade",
+    "title_zh": "美国小型太阳能发电量在过去十年中翻了两番",
+    "url": "https://cleantechnica.com/2026/10/16/u-s-small-scale-solar-generation-has-quadrupled-in-the-last-decade/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-17T01:32:58+00:00"
+  },
+  "07ef17aac98e": {
+    "id": "07ef17aac98e",
+    "title_en": "EU Long-Term Budget Crunch: What To Watch For At The EU Leaders’ Summit On 15-16 October",
+    "title_zh": "欧盟长期预算紧缩：10月15日至16日欧盟领导人峰会值得关注的问题",
+    "url": "https://cleantechnica.com/2026/10/16/eu-long-term-budget-crunch-what-to-watch-for-at-the-eu-leaders-summit-on-15-16-october/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-17T01:14:49+00:00"
+  },
+  "e7ec214b649a": {
+    "id": "e7ec214b649a",
+    "title_en": "Franco-German Car Deal A ‘Historic Mistake’ That Weakens Climate Ambition And Europe’s Car Industry",
+    "title_zh": "法德汽车协议是一个“历史性错误”，削弱了气候雄心和欧洲汽车工业",
+    "url": "https://cleantechnica.com/2026/10/16/franco-german-car-deal-a-historic-mistake-that-weakens-climate-ambition-and-europes-car-industry/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-17T00:06:06+00:00"
+  },
+  "c75039a09a9b": {
+    "id": "c75039a09a9b",
+    "title_en": "Delaying ETS2 Will Not Protect Households from the Next Energy Crisis",
+    "title_zh": "推迟ETS2不会保护家庭免受下一次能源危机的影响",
+    "url": "https://cleantechnica.com/2026/10/16/delaying-ets2-will-not-protect-households-from-the-next-energy-crisis/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-16T23:48:32+00:00"
+  },
+  "9b193e08ce94": {
+    "id": "9b193e08ce94",
+    "title_en": "Publishing Your Book Through CleanTechnica Press",
+    "title_zh": "通过CleanTechnica出版社出版您的书",
+    "url": "https://cleantechnica.com/2026/10/16/publishing-your-book-through-cleantechnica-press/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-16T23:39:54+00:00"
+  },
   "bac9d071a779": {
     "id": "bac9d071a779",
     "title_en": "DeLorean Takes A Ride On Tesla’s “Flying Car” Coattails",
@@ -4444,59 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-10T12:53:18+00:00"
-  },
-  "94e796e99426": {
-    "id": "94e796e99426",
-    "title_en": "Battery swap works: Nio completes 1.2 million swaps in a SINGLE WEEK",
-    "title_zh": "电池更换成功：Nio在一周内完成了120万次更换",
-    "url": "https://electrek.co/2026/10/10/battery-swap-works-nio-completes-1-2-million-swaps-in-a-single-week/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-10T11:44:31+00:00"
-  },
-  "4ef6c88e143f": {
-    "id": "4ef6c88e143f",
-    "title_en": "Brazil’s retail electricity market opening raises credit and liquidity concerns, study finds",
-    "title_zh": "研究发现，巴西零售电力市场的开放引发了信贷和流动性方面的担忧",
-    "url": "https://www.pv-magazine.com/2026/10/10/brazils-retail-electricity-market-opening-raises-credit-and-liquidity-concerns-study-finds/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T09:30:00+00:00"
-  },
-  "a107bef078e6": {
-    "id": "a107bef078e6",
-    "title_en": "Austria: 43,300 applications for solar subsidies submitted in just ten minutes",
-    "title_zh": "奥地利：在短短十分钟内提交了43300份太阳能补贴申请",
-    "url": "https://www.pv-magazine.com/2026/10/10/austria-43300-applications-for-solar-subsidies-submitted-in-just-ten-minutes/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T09:00:00+00:00"
-  },
-  "7ffe5bb41536": {
-    "id": "7ffe5bb41536",
-    "title_en": "Sunbooster secures European patent for bifacial photovoltaic fences",
-    "title_zh": "Sunbooster获得双面光伏围栏的欧洲专利",
-    "url": "https://www.pv-magazine.com/2026/10/10/sunbooster-secures-european-patent-for-bifacial-photovoltaic-fences/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T08:30:00+00:00"
-  },
-  "801004a8dfef": {
-    "id": "801004a8dfef",
-    "title_en": "Why leadership decides Italy’s energy security",
-    "title_zh": "为什么领导层决定意大利的能源安全",
-    "url": "https://www.pv-magazine.com/2026/10/10/beyond-gigawatts-why-leadership-decides-italys-energy-security/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T08:00:00+00:00"
-  },
-  "ad716fe2cf35": {
-    "id": "ad716fe2cf35",
-    "title_en": "More than 70% of announced U.S. solar manufacturing expansion plans yet to be financed",
-    "title_zh": "超过70%的美国太阳能制造业扩张计划尚未获得融资",
-    "url": "https://www.pv-magazine.com/2026/10/10/more-than-70-of-announced-u-s-solar-manufacturing-expansion-plans-yet-to-be-financed/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-10T07:00:00+00:00"
   }
 }
