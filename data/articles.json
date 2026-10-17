@@ -1,4 +1,76 @@
 {
+  "f1cd1fa58968": {
+    "id": "f1cd1fa58968",
+    "title_en": "Qcells to introduce U.S. domestic frames for residential solar panel lineup",
+    "title_zh": "Qcells将推出美国家用太阳能电池板框架",
+    "url": "https://www.pv-magazine.com/2026/10/17/qcells-to-introduce-u-s-domestic-frames-for-residential-solar-panel-lineup/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T09:50:00+00:00"
+  },
+  "e97a9f31a513": {
+    "id": "e97a9f31a513",
+    "title_en": "Brazil’s new curtailment rules unlikely to revive utility-scale solar investment",
+    "title_zh": "巴西新的限电规定不太可能恢复公用事业规模的太阳能投资",
+    "url": "https://www.pv-magazine.com/2026/10/17/brazils-new-curtailment-rules-unlikely-to-revive-utility-scale-solar-investment/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T09:30:00+00:00"
+  },
+  "50cbd48a30ad": {
+    "id": "50cbd48a30ad",
+    "title_en": "Beyond recruitment: What really keeps women in solar",
+    "title_zh": "除了招聘：是什么让女性留在太阳能行业",
+    "url": "https://www.pv-magazine.com/2026/10/17/beyond-recruitment-what-really-keeps-women-in-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T09:00:00+00:00"
+  },
+  "df117ef347e7": {
+    "id": "df117ef347e7",
+    "title_en": "France to ease grid connection rules for solar-plus-storage projects up to 25 MW",
+    "title_zh": "法国将放宽高达25兆瓦的太阳能+储能项目的并网规则",
+    "url": "https://www.pv-magazine.com/2026/10/17/france-to-ease-grid-connection-rules-for-solar-plus-storage-projects-up-to-25-mw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T08:30:00+00:00"
+  },
+  "2263d77a9dd3": {
+    "id": "2263d77a9dd3",
+    "title_en": "Six-year testing highlights impact of reduced maintenance on PV plant operation during COVID-19 pandemic",
+    "title_zh": "为期四年的测试强调了新冠肺炎大流行期间减少维护对光伏发电厂运营的影响",
+    "url": "https://www.pv-magazine.com/2026/10/17/six-year-testing-highlights-impact-of-reduced-maintenance-on-pv-plants-during-covid-19-pandemic/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T08:00:00+00:00"
+  },
+  "f5d031c50353": {
+    "id": "f5d031c50353",
+    "title_en": "Spanish researchers test low-height agrivoltaics in vineyards",
+    "title_zh": "西班牙研究人员在葡萄园测试低高度农业光伏",
+    "url": "https://www.pv-magazine.com/2026/10/17/spanish-researchers-test-low-height-agrivoltaics-in-vineyards/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T07:30:00+00:00"
+  },
+  "95e04c5ded2e": {
+    "id": "95e04c5ded2e",
+    "title_en": "Dutch regulator flags EU cyber gap for cloud-controlled home batteries",
+    "title_zh": "荷兰监管机构指出欧盟在云控制家用电池方面的网络差距",
+    "url": "https://www.pv-magazine.com/2026/10/17/dutch-regulator-flags-eu-cyber-gap-for-cloud-controlled-home-batteries/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T07:00:00+00:00"
+  },
+  "7de3d857fdc8": {
+    "id": "7de3d857fdc8",
+    "title_en": "Large-scale solar projects in Australia reach record 3.5 GW of annual investment decisions",
+    "title_zh": "澳大利亚大型太阳能项目年度投资决策达到创纪录的3.5吉瓦",
+    "url": "https://www.pv-magazine.com/2026/10/17/large-scale-solar-sets-annual-financial-investment-decision-record-at-3-5-gw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-17T06:00:00+00:00"
+  },
   "6aa59f762222": {
     "id": "6aa59f762222",
     "title_en": "Hello Toronto! Waymo is En Route",
@@ -4426,77 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-10T23:00:00+00:00"
-  },
-  "fa754e0fb2a7": {
-    "id": "fa754e0fb2a7",
-    "title_en": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
-    "title_zh": "Pemex需要近1100亿美元才能实现墨西哥的产出目标",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-10T21:00:00+00:00"
-  },
-  "4b6b724e9bd4": {
-    "id": "4b6b724e9bd4",
-    "title_en": "EU Reaches Agreement With China To Reduce The Import Of Plug-In Hybrids By Half",
-    "title_zh": "欧盟与中国达成协议，将插电式混合动力车进口量减半",
-    "url": "https://cleantechnica.com/2026/10/10/eu-reaches-agreement-with-china-to-reduce-the-import-of-plug-in-hybrids-by-half/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-10T20:50:36+00:00"
-  },
-  "0d506ec10f23": {
-    "id": "0d506ec10f23",
-    "title_en": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
-    "title_zh": "东南亚需要更多电力，但其薄弱的电网可能是一个问题",
-    "url": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-10T19:00:00+00:00"
-  },
-  "3978773f7592": {
-    "id": "3978773f7592",
-    "title_en": "China & EU Make Deal to Cut Flood of Hybrids into EU",
-    "title_zh": "中国和欧盟达成协议，减少混合动力汽车涌入欧盟",
-    "url": "https://cleantechnica.com/2026/10/10/china-eu-make-deal-to-cut-flood-of-hybrids-into-eu/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-10T18:45:19+00:00"
-  },
-  "20bff784d620": {
-    "id": "20bff784d620",
-    "title_en": "The Iran War Is Fueling a Boom in Clean Energy",
-    "title_zh": "伊朗战争正在推动清洁能源的繁荣",
-    "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-10T15:00:00+00:00"
-  },
-  "aeae151405fa": {
-    "id": "aeae151405fa",
-    "title_en": "Fabric First Approaches Are Stuck Thinking About Winter",
-    "title_zh": "织物优先的方法让人对冬天感到困惑",
-    "url": "https://cleantechnica.com/2026/10/10/fabric-first-rebound-heat-pumps/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-10T14:57:59+00:00"
-  },
-  "bc0c2a90b5fd": {
-    "id": "bc0c2a90b5fd",
-    "title_en": "Pssst! Wanna See A Driverless Electric Truck?",
-    "title_zh": "嘘！想看看无人驾驶电动卡车吗？",
-    "url": "https://cleantechnica.com/2026/10/10/electric-trucks-autonomous-einride-ease-logistics-us-megacharger/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-10T14:07:25+00:00"
-  },
-  "68c45ab41283": {
-    "id": "68c45ab41283",
-    "title_en": "BYD builds 150,000th commercial NEV – an 800 hp Q3 electric semi truck",
-    "title_zh": "比亚迪制造了第15万辆商用新能源汽车——一辆800马力的Q3电动半卡车",
-    "url": "https://electrek.co/2026/10/10/byd-builds-150000th-commercial-nev-an-800-hp-q3-electric-semi-truck/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-10T12:53:18+00:00"
   }
 }
