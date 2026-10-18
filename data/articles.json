@@ -1,4 +1,31 @@
 {
+  "d9b34ddf915a": {
+    "id": "d9b34ddf915a",
+    "title_en": "From excavators to hypercars, these LEGO kits were made for EV fans (2026)",
+    "title_zh": "从挖掘机到超级跑车，这些LEGO套件都是为电动汽车爱好者制作的（2026年）",
+    "url": "https://electrek.co/2026/10/18/from-excavators-to-hypercars-these-lego-kits-were-made-for-ev-fans-2026/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-18T22:03:36+00:00"
+  },
+  "71a52658cb07": {
+    "id": "71a52658cb07",
+    "title_en": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+    "title_zh": "霍尔木兹正在将航运的燃料账单变成供应危机",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-18T21:00:00+00:00"
+  },
+  "f426a6e4c92f": {
+    "id": "f426a6e4c92f",
+    "title_en": "Pivot Energy Closes $173-Million Loan for 135 MW of Solar Capacity",
+    "title_zh": "Pivot Energy完成1.73亿美元贷款，用于135兆瓦太阳能发电",
+    "url": "https://www.powermag.com/pivot-energy-closes-173-million-loan-for-135-mw-of-solar-capacity/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-10-18T20:28:24+00:00"
+  },
   "c8fdf0bbb2cb": {
     "id": "c8fdf0bbb2cb",
     "title_en": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-12T06:01:19+00:00"
-  },
-  "9e646e55b736": {
-    "id": "9e646e55b736",
-    "title_en": "Rooftop solar reaches new highs across Australia",
-    "title_zh": "澳大利亚屋顶太阳能达到新高",
-    "url": "https://www.pv-magazine.com/2026/10/12/rooftop-solar-reaches-new-highs-across-nem/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-12T05:58:24+00:00"
-  },
-  "0203745eb577": {
-    "id": "0203745eb577",
-    "title_en": "Bus Buyers Have Overwhelmingly Chosen Battery-Electric",
-    "title_zh": "公交车购买者绝大多数选择电池电动",
-    "url": "https://cleantechnica.com/2026/10/12/zero-emission-bus-procurement-battery-electric/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-12T05:35:47+00:00"
-  },
-  "541448a8920a": {
-    "id": "541448a8920a",
-    "title_en": "Two More Oil Tankers Attacked Near Strait of Hormuz",
-    "title_zh": "两艘油轮在霍尔木兹海峡附近遭到袭击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-12T05:30:00+00:00"
   }
 }
