@@ -1,4 +1,40 @@
 {
+  "c8fdf0bbb2cb": {
+    "id": "c8fdf0bbb2cb",
+    "title_en": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
+    "title_zh": "可能为美国电网增加千兆瓦的核电捷径",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-18T19:00:00+00:00"
+  },
+  "6012af805ece": {
+    "id": "6012af805ece",
+    "title_en": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+    "title_zh": "随着俾路支叛乱升级，伊朗面临来自内部的日益增长的威胁",
+    "url": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-18T17:00:00+00:00"
+  },
+  "bf7bb76ccee6": {
+    "id": "bf7bb76ccee6",
+    "title_en": "Paris Auto Show — European OEMs Strike Back",
+    "title_zh": "巴黎车展——欧洲原始设备制造商反击",
+    "url": "https://cleantechnica.com/2026/10/18/paris-auto-show-european-oems-strike-back/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-18T16:42:27+00:00"
+  },
+  "a913359211b8": {
+    "id": "a913359211b8",
+    "title_en": "Electrification Changes What Energy Security Means",
+    "title_zh": "电气化改变了能源安全的意义",
+    "url": "https://cleantechnica.com/2026/10/18/globalization-electrification-energy-security/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-18T15:59:39+00:00"
+  },
   "d67a2e0d2825": {
     "id": "d67a2e0d2825",
     "title_en": "PGE gets it: electric semi trucks provide HEAVY DUTY backup for the grid [video]",
@@ -4462,41 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-12T05:30:00+00:00"
-  },
-  "e6d73171b46c": {
-    "id": "e6d73171b46c",
-    "title_en": "Follow the money",
-    "title_zh": "跟着钱走",
-    "url": "https://www.pv-magazine.com/2026/10/12/follow-the-money/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-12T04:00:00+00:00"
-  },
-  "2d3d61f80efc": {
-    "id": "2d3d61f80efc",
-    "title_en": "ASEAN Centre for Energy, IEA say Southeast Asia’s battery storage adoption barriers are mostly regulatory, not technical",
-    "title_zh": "国际能源署东盟能源中心表示，东南亚的电池储能采用障碍主要是监管方面的，而不是技术方面的",
-    "url": "https://www.energy-storage.news/asean-centre-for-energy-iea-say-southeast-asias-battery-storage-adoption-barriers-are-mostly-regulatory-not-technical/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-12T02:33:28+00:00"
-  },
-  "28eea0678873": {
-    "id": "28eea0678873",
-    "title_en": "Australia’s Waratah Super Battery gets extended term and new revenue model as trading profits flow to consumers",
-    "title_zh": "随着交易利润流向消费者，澳大利亚的Waratah超级电池获得了延期和新的收入模式",
-    "url": "https://www.energy-storage.news/australias-waratah-super-battery-gets-extended-term-and-new-revenue-model-as-trading-profits-flow-to-consumers/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-12T02:22:56+00:00"
-  },
-  "b068a6e651eb": {
-    "id": "b068a6e651eb",
-    "title_en": "Australia home battery installations surge 52% to 276,011 in H1 2026, outpacing rooftop solar growth",
-    "title_zh": "2026年上半年，澳大利亚家庭电池安装量激增52%，达到276011个，超过了屋顶太阳能的增长",
-    "url": "https://www.energy-storage.news/australia-home-battery-installations-surge-52-to-276011-in-h1-2026-outpacing-rooftop-solar-growth/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-12T02:05:09+00:00"
   }
 }
