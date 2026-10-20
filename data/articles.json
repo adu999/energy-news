@@ -1,4 +1,103 @@
 {
+  "7416c78c4aa4": {
+    "id": "7416c78c4aa4",
+    "title_en": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
+    "title_zh": "飞行，翻转特斯拉跑车交付风格，这些电动汽车交付实质",
+    "url": "https://electrek.co/2026/10/19/flying-flipping-tesla-roadster-delivered-on-style-these-evs-deliver-on-substance/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-19T22:57:37+00:00"
+  },
+  "3a75eff2ad77": {
+    "id": "3a75eff2ad77",
+    "title_en": "Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration",
+    "title_zh": "混合动力汽车销量上升，而电池电动汽车销量在税收抵免到期后仍保持较低水平",
+    "url": "https://cleantechnica.com/2026/10/19/hybrid-sales-rise-while-battery-electric-sales-remain-lower-after-tax-credit-expiration-2/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-19T22:56:04+00:00"
+  },
+  "32150f309f35": {
+    "id": "32150f309f35",
+    "title_en": "Lessons In Chemistry — Microbes, Heavy Metals, And Water",
+    "title_zh": "化学课程——微生物、重金属和水",
+    "url": "https://cleantechnica.com/2026/10/19/lessons-in-chemistry-microbes-heavy-metals-and-water/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-19T22:52:01+00:00"
+  },
+  "2dcf9d964f1c": {
+    "id": "2dcf9d964f1c",
+    "title_en": "Ultium Cells to Bring LMR Prismatic Battery Cell Production to Tennessee for Future GM EVs",
+    "title_zh": "Ultium电池将LMR棱柱电池生产带到田纳西州，用于未来的通用汽车",
+    "url": "https://cleantechnica.com/2026/10/19/ultium-cells-to-bring-lmr-prismatic-battery-cell-production-to-tennessee-for-future-gm-evs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-19T22:38:19+00:00"
+  },
+  "59e6bcf2726a": {
+    "id": "59e6bcf2726a",
+    "title_en": "From Mine to Magnet to Motor: How GM Is Building Critical Supply Chains for the Long Term",
+    "title_zh": "从矿山到磁铁再到汽车：通用汽车如何建立长期关键供应链",
+    "url": "https://cleantechnica.com/2026/10/19/from-mine-to-magnet-to-motor-how-gm-is-building-critical-supply-chains-for-the-long-term/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-19T22:12:06+00:00"
+  },
+  "80a2848b3926": {
+    "id": "80a2848b3926",
+    "title_en": "Maintaining Uninterrupted Operations Amid Persistent Drastic Weather Conditions",
+    "title_zh": "在持续的恶劣天气条件下保持不间断运行",
+    "url": "https://www.powermag.com/maintaining-uninterrupted-operations-amid-persistent-drastic-weather-conditions/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-10-19T22:06:39+00:00"
+  },
+  "e3a3f35e7789": {
+    "id": "e3a3f35e7789",
+    "title_en": "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
+    "title_zh": "英国为平衡电网支付了创纪录的金额，因为输电落后",
+    "url": "https://oilprice.com/Energy/Energy-General/UK-Pays-Record-Sums-to-Balance-Grid-as-Transmission-Falls-Behind.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-19T22:00:00+00:00"
+  },
+  "d527eeaee72c": {
+    "id": "d527eeaee72c",
+    "title_en": "This new electric motorcycle with a giant hole in it wants to change how you ride",
+    "title_zh": "这辆新的电动摩托车上有一个巨大的洞，它想改变你的骑行方式",
+    "url": "https://electrek.co/2026/10/19/this-new-electric-motorcycle-with-a-giant-hole-in-it-wants-to-change-how-you-ride/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-19T21:00:00+00:00"
+  },
+  "53be8364d7cb": {
+    "id": "53be8364d7cb",
+    "title_en": "Why Invading Iran Could Become America's Biggest Military Mistake",
+    "title_zh": "为什么入侵伊朗可能成为美国最大的军事错误",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-19T21:00:00+00:00"
+  },
+  "073728866754": {
+    "id": "073728866754",
+    "title_en": "Volkswagen opens orders for the lower-priced ID. Cross, starting at about $31,000",
+    "title_zh": "大众汽车开始订购价格较低的ID Cross，起价约为31000美元",
+    "url": "https://electrek.co/2026/10/19/vw-opens-orders-lower-priced-id-cross-starting-31000/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-19T20:55:43+00:00"
+  },
+  "87e2e8836de0": {
+    "id": "87e2e8836de0",
+    "title_en": "India’s Largest Utility Signs PPA With Virginia-Based Solar Group, Will Use Advanced CSP Technology",
+    "title_zh": "印度最大的公用事业公司与总部位于弗吉尼亚州的太阳能集团签署PPA，将使用先进的CSP技术",
+    "url": "https://www.powermag.com/indias-largest-utility-signs-ppa-with-virginia-based-solar-group-will-use-advanced-csp-technology/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-10-19T20:41:41+00:00"
+  },
   "b4d046b5f149": {
     "id": "b4d046b5f149",
     "title_en": "Arizona’s first NEVI fast chargers are finally open – here’s where",
@@ -4399,104 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-10-13T09:00:00+00:00"
-  },
-  "dff2f4778329": {
-    "id": "dff2f4778329",
-    "title_en": "Wärtsilä energy storage JV Valo in US domestic content manufacturing discussions with ‘strong players’",
-    "title_zh": "瓦锡兰储能合资企业Valo与“实力雄厚的企业”在美国国内制造业进行讨论",
-    "url": "https://www.energy-storage.news/wartsila-energy-storage-jv-valo-us-domestic-content-manufacturing-discussions-strong-players/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-13T08:28:22+00:00"
-  },
-  "7ae16cce0032": {
-    "id": "7ae16cce0032",
-    "title_en": "Ørsted Orders Third Saab Seaeye Cougar ROV for Offshore Wind Operations",
-    "title_zh": "Ørsted订购第三辆萨博Seaeye美洲狮ROV用于海上风电运营",
-    "url": "https://offshorewind.biz/2026/10/13/orsted-orders-third-saab-seaeye-cougar-rov-for-offshore-wind-operations",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-13T08:24:09+00:00"
-  },
-  "db8fe029d5ec": {
-    "id": "db8fe029d5ec",
-    "title_en": "IMF Warns Middle East War Could Derail Global Economic Growth",
-    "title_zh": "国际货币基金组织警告称，中东战争可能会破坏全球经济增长",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/IMF-Warns-Middle-East-War-Could-Derail-Global-Economic-Growth.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-13T08:15:00+00:00"
-  },
-  "63f0bc1c366e": {
-    "id": "63f0bc1c366e",
-    "title_en": "UV down-shifting layers could boost TOPCon solar module energy yield by over 4%",
-    "title_zh": "UV下移层可以将TOPCon太阳能模块的能量产量提高4%以上",
-    "url": "https://www.pv-magazine.com/2026/10/13/uv-down-shifting-layers-could-boost-topcon-solar-module-energy-yield-by-over-4/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T07:43:52+00:00"
-  },
-  "b7425d2a217f": {
-    "id": "b7425d2a217f",
-    "title_en": "Hampidjan Advant to Equip Cadeler's Wind Ace for East Anglia Two Job",
-    "title_zh": "Hampidjan Advant将为东安格利亚的两项任务配备Cadeler的风向王牌",
-    "url": "https://offshorewind.biz/2026/10/13/hampidjan-advant-to-equip-cadelers-wind-ace-for-east-anglia-two-job",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-13T07:05:31+00:00"
-  },
-  "bb31328a2df5": {
-    "id": "bb31328a2df5",
-    "title_en": "Shell Slams Australia's Plan to Force LNG Producers to Supply Domestic Market",
-    "title_zh": "壳牌抨击澳大利亚强迫液化天然气生产商供应国内市场的计划",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Slams-Australias-Plan-to-Force-LNG-Producers-to-Supply-Domestic-Market.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-13T07:00:00+00:00"
-  },
-  "ccd9fd9dd217": {
-    "id": "ccd9fd9dd217",
-    "title_en": "Qcells aims to build a giant factory for next-gen tandem solar",
-    "title_zh": "Qcells旨在为下一代串联太阳能建造一座巨型工厂",
-    "url": "https://www.canarymedia.com/articles/solar/qcells-aims-to-build-worlds-first-big-factory-for-next-gen-tandem-solar",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-13T07:00:00+00:00"
-  },
-  "a60b6acb68ab": {
-    "id": "a60b6acb68ab",
-    "title_en": "Oil Prices Retreat as Saudi Arabia Pledges to Keep Exports Flowing",
-    "title_zh": "沙特阿拉伯承诺保持出口流动，油价回落",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Retreat-as-Saudi-Arabia-Pledges-to-Keep-Exports-Flowing.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-13T05:38:59+00:00"
-  },
-  "d20624c409a8": {
-    "id": "d20624c409a8",
-    "title_en": "Italy’s solar capacity could reach 137 GW by 2040, grid operators say",
-    "title_zh": "电网运营商表示，到2040年，意大利的太阳能容量可能达到137吉瓦",
-    "url": "https://www.pv-magazine.com/2026/10/13/italys-solar-capacity-could-reach-137-gw-by-2040-grid-operators-say/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T05:19:16+00:00"
-  },
-  "6941ba4959fd": {
-    "id": "6941ba4959fd",
-    "title_en": "Distributed solar expected to reach 92 GW by 2036",
-    "title_zh": "分布式太阳能预计到2036年将达到92吉瓦",
-    "url": "https://www.pv-magazine.com/2026/10/13/distributed-solar-expected-to-reach-92-gw-by-2036/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T05:11:39+00:00"
-  },
-  "feff8d84fb39": {
-    "id": "feff8d84fb39",
-    "title_en": "Australian-made PV installation and piling robots moving towards commercial-scale production",
-    "title_zh": "澳大利亚制造的光伏安装和打桩机器人走向商业规模生产",
-    "url": "https://www.pv-magazine.com/2026/10/13/arena-pumps-32-3-million-into-solar-robotics-manufacturing-projects/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T05:02:33+00:00"
   }
 }
