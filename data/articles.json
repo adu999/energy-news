@@ -1,4 +1,238 @@
 {
+  "0f4bb0e0bbb6": {
+    "id": "0f4bb0e0bbb6",
+    "title_en": "Dutch development bank finances 50 MW of solar in Ivory Coast",
+    "title_zh": "荷兰开发银行为科特迪瓦50兆瓦的太阳能项目提供资金",
+    "url": "https://www.pv-magazine.com/2026/10/20/dutch-bank-finances-50-mw-of-solar-in-ivory-coast/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T07:59:48+00:00"
+  },
+  "686fce70362c": {
+    "id": "686fce70362c",
+    "title_en": "Saft opens solid-state battery production line in France",
+    "title_zh": "Saft在法国开设固态电池生产线",
+    "url": "https://www.pv-magazine.com/2026/10/20/saft-opens-solid-state-battery-production-line-in-france/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T07:58:25+00:00"
+  },
+  "02c5a879a6cc": {
+    "id": "02c5a879a6cc",
+    "title_en": "Uruguay plans 99 MW solar tender with 20-year PPAs",
+    "title_zh": "乌拉圭计划进行99兆瓦的太阳能招标，并签订20年的购电协议",
+    "url": "https://www.pv-magazine.com/2026/10/20/uruguay-plans-99-mw-solar-tender-with-20-year-ppas/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T07:45:00+00:00"
+  },
+  "404ecf5289b4": {
+    "id": "404ecf5289b4",
+    "title_en": "Genesis opens 200MWh battery storage system at New Zealand’s largest power station",
+    "title_zh": "Genesis在新西兰最大的发电站启用200MWh电池储能系统",
+    "url": "https://www.energy-storage.news/genesis-opens-200mwh-battery-storage-system-at-new-zealands-largest-power-station/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-20T07:44:19+00:00"
+  },
+  "4aa5836fd0d4": {
+    "id": "4aa5836fd0d4",
+    "title_en": "SSE Taps Seaway7 for Berwick Bank B Foundations, Inter-Array Cables",
+    "title_zh": "SSE为Berwick Bank B基础和阵列间电缆铺设Seaway7",
+    "url": "https://offshorewind.biz/2026/10/20/sse-taps-seaway7-for-berwick-bank-b-foundations-inter-array-cables",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-10-20T07:40:09+00:00"
+  },
+  "024549235f3f": {
+    "id": "024549235f3f",
+    "title_en": "Will a second US city tax billion-dollar firms to fund clean energy?",
+    "title_zh": "第二个美国城市会向数十亿美元的公司征税以资助清洁能源吗？",
+    "url": "https://www.canarymedia.com/articles/clean-energy/eugene-ballot-measure-tax-companies-climate-fund",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-20T07:30:00+00:00"
+  },
+  "3296dcac5602": {
+    "id": "3296dcac5602",
+    "title_en": "Floating wind industry leans into global collaboration amid headwinds",
+    "title_zh": "浮式风电行业在逆风中倾向于全球合作",
+    "url": "https://www.canarymedia.com/articles/offshore-wind/floating-turbine-global-collaboration-research",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-20T07:30:00+00:00"
+  },
+  "7ae45e307907": {
+    "id": "7ae45e307907",
+    "title_en": "Solar module manufacturing in Europe: Ideal factory capacity ranges from 1 GW to 3 GW",
+    "title_zh": "欧洲太阳能组件制造：理想的工厂产能范围为1吉瓦至3吉瓦",
+    "url": "https://www.pv-magazine.com/2026/10/20/solar-module-manufacturing-in-europe-ideal-factory-capacity-ranges-from-1-gw-to-3-gw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T07:16:51+00:00"
+  },
+  "fbb6db59a13d": {
+    "id": "fbb6db59a13d",
+    "title_en": "Italy allocates €770 million for 505 MW of agricultural rooftop solar",
+    "title_zh": "意大利拨款7.7亿欧元用于505兆瓦的农业屋顶太阳能",
+    "url": "https://www.pv-magazine.com/2026/10/20/italy-allocates-e770-million-for-505-mw-of-agricultural-rooftop-solar/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T07:00:00+00:00"
+  },
+  "6c72382b95ff": {
+    "id": "6c72382b95ff",
+    "title_en": "Asian LNG Prices Surge Past $30 as Middle East Shipping Risks Escalate",
+    "title_zh": "随着中东航运风险升级，亚洲液化天然气价格飙升至30美元以上",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-LNG-Prices-Surge-Past-30-as-Middle-East-Shipping-Risks-Escalate.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-20T07:00:00+00:00"
+  },
+  "18edb9a9b16f": {
+    "id": "18edb9a9b16f",
+    "title_en": "Dominican Republic to introduce grid usage fee for distributed PV",
+    "title_zh": "多米尼加共和国将为分布式光伏引入电网使用费",
+    "url": "https://www.pv-magazine.com/2026/10/20/dominican-republic-to-introduce-grid-usage-fee-for-distributed-pv/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T06:36:42+00:00"
+  },
+  "e9fcf068b16e": {
+    "id": "e9fcf068b16e",
+    "title_en": "Non-destructive testing tracks polymer degradation in PV modules",
+    "title_zh": "无损检测追踪光伏组件中的聚合物降解",
+    "url": "https://www.pv-magazine.com/2026/10/20/non-destructive-testing-tracks-polymer-degradation-in-pv-modules/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T06:29:41+00:00"
+  },
+  "eabf10cb4139": {
+    "id": "eabf10cb4139",
+    "title_en": "JinkoSolar unveils 510 W rooftop solar module with 25.5% efficiency, 40-year warranty",
+    "title_zh": "晶科太阳能推出510 W屋顶太阳能模块，效率25.5%，40年保修",
+    "url": "https://www.pv-magazine.com/2026/10/20/jinkosolar-unveils-510-w-rooftop-solar-module-with-25-5-efficiency-40-year-warranty/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T06:21:38+00:00"
+  },
+  "75c3f4973586": {
+    "id": "75c3f4973586",
+    "title_en": "China proposes stricter efficiency standards for solar manufacturers",
+    "title_zh": "中国对太阳能制造商提出更严格的能效标准",
+    "url": "https://www.pv-magazine.com/2026/10/20/china-proposes-stricter-efficiency-standards-for-solar-manufacturers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T05:59:38+00:00"
+  },
+  "57b345c20aa8": {
+    "id": "57b345c20aa8",
+    "title_en": "Holosolis secures EU Innovation Fund support for 5 GW solar factory",
+    "title_zh": "Holosolis获得欧盟创新基金对5GW太阳能工厂的支持",
+    "url": "https://www.pv-magazine.com/2026/10/20/holosolis-secures-eu-innovation-fund-support-for-5-gw-solar-factory/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T05:45:32+00:00"
+  },
+  "0588f2512592": {
+    "id": "0588f2512592",
+    "title_en": "Brent Tops $110 as Tanker Attacks Threaten Persian Gulf Supply",
+    "title_zh": "布伦特原油价格突破110美元，油轮袭击威胁波斯湾供应",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Brent-Tops-110-as-Tanker-Attacks-Threaten-Persian-Gulf-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-20T04:56:06+00:00"
+  },
+  "350d1effd565": {
+    "id": "350d1effd565",
+    "title_en": "Top Investor Predicts SpaceX Will Buy Tesla At $420/Share In Coming Weeks",
+    "title_zh": "顶级投资者预测SpaceX将在未来几周以每股420美元的价格收购特斯拉",
+    "url": "https://cleantechnica.com/2026/10/19/top-investor-predicts-spacex-will-buy-tesla-at-420-share-in-coming-weeks/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-20T03:55:51+00:00"
+  },
+  "d8951fe70357": {
+    "id": "d8951fe70357",
+    "title_en": "Donald Trump, Aligning with Vladimir Putin Yet Again, Leaves Ukraine — and US Relations with Europe — Under Pressure",
+    "title_zh": "唐纳德·特朗普再次与弗拉基米尔·普京结盟，使乌克兰以及美国与欧洲的关系面临压力",
+    "url": "https://cleantechnica.com/2026/10/19/donald-trump-aligning-with-vladimir-putin-yet-again-leaves-ukraine-and-us-relations-with-europe-under-pressure/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-20T03:50:40+00:00"
+  },
+  "2cf1d921cfb4": {
+    "id": "2cf1d921cfb4",
+    "title_en": "India must move beyond VGF subsidy support to build commercially viable BESS market, says Oyster Renewables",
+    "title_zh": "Oyster Renewables表示，印度必须超越VGF补贴支持，建立商业上可行的BESS市场",
+    "url": "https://www.energy-storage.news/india-must-move-beyond-vgf-subsidy-support-to-build-commercially-viable-bess-market-says-oyster-renewables/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-20T03:47:47+00:00"
+  },
+  "ef1ffa60639a": {
+    "id": "ef1ffa60639a",
+    "title_en": "India must align battery storage and transmission to cut renewable curtailment",
+    "title_zh": "印度必须调整电池储能和输电，以减少可再生能源的削减",
+    "url": "https://www.energy-storage.news/india-must-align-battery-storage-and-transmission-to-cut-renewable-curtailment/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-20T03:13:31+00:00"
+  },
+  "1b0791153fc9": {
+    "id": "1b0791153fc9",
+    "title_en": "Donald Trump Approval At Record Low — Disastrous Economy & Inflation Might Play A Part",
+    "title_zh": "唐纳德·特朗普的支持率创历史新低——灾难性的经济和通货膨胀可能起到一定作用",
+    "url": "https://cleantechnica.com/2026/10/19/donald-trump-approval-at-record-low-disastrous-economy-inflation-might-play-a-part/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-20T02:07:27+00:00"
+  },
+  "2a82c76696a8": {
+    "id": "2a82c76696a8",
+    "title_en": "Hazelwood BESS expansion in Australia set to double storage capacity at former coal site",
+    "title_zh": "Hazelwood BESS在澳大利亚的扩建将使前煤场的存储容量翻一番",
+    "url": "https://www.energy-storage.news/hazelwood-bess-expansion-in-australia-set-to-double-storage-capacity-at-former-coal-site/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-20T02:03:00+00:00"
+  },
+  "dfa09cd96cba": {
+    "id": "dfa09cd96cba",
+    "title_en": "BloombergNEF’s Transition Metals Outlook 2026: Global Metal Supply Shortages Set to Ease, but Copper Faces a $332 Billion Investment Gap",
+    "title_zh": "BloombergNEF《2026年过渡金属展望》：全球金属供应短缺将缓解，但铜面临3320亿美元的投资缺口",
+    "url": "https://about.bnef.com/insights/commodities/bloombergnefs-transition-metals-outlook-2026-global-metal-supply-shortages-set-to-ease-but-copper-faces-a-332-billion-investment-gap/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-10-20T02:01:28+00:00"
+  },
+  "b507bbb82e26": {
+    "id": "b507bbb82e26",
+    "title_en": "South Australia advances almost 13GW of solar and wind in Whyalla West tender",
+    "title_zh": "南澳大利亚州在Whyalla West招标中推进了近13GW的太阳能和风能",
+    "url": "https://www.pv-tech.org/south-australia-advances-almost-13gw-of-solar-and-wind-in-whyalla-west-tender/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-10-20T01:59:15+00:00"
+  },
+  "985b4e071f39": {
+    "id": "985b4e071f39",
+    "title_en": "Akaysha Energy secures AU$1.75 billion portfolio financing for Australian BESS expansion",
+    "title_zh": "Akaysha Energy为澳大利亚BESS扩张获得17.5亿澳元的投资组合融资",
+    "url": "https://www.energy-storage.news/akaysha-energy-secures-au1-75-billion-portfolio-financing-for-australian-bess-expansion/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-20T01:57:53+00:00"
+  },
+  "d3a32387a504": {
+    "id": "d3a32387a504",
+    "title_en": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+    "title_zh": "机器人战争：中国如何掌控机器人产业",
+    "url": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-20T00:41:00+00:00"
+  },
   "7416c78c4aa4": {
     "id": "7416c78c4aa4",
     "title_en": "Flying, flipping Tesla Roadster delivered on style, THESE EVs deliver on substance",
@@ -322,6 +556,15 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-19T15:15:00+00:00"
+  },
+  "b9f1d283ca49": {
+    "id": "b9f1d283ca49",
+    "title_en": "Schneider Electric sees record-high Q3 revenue on global data center boom",
+    "title_zh": "施耐德电气第三季度收入创历史新高，得益于全球数据中心的蓬勃发展",
+    "url": "https://www.utilitydive.com/news/schneider-electric-data-center-earnings/833358/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-10-19T15:10:29+00:00"
   },
   "27664befca83": {
     "id": "27664befca83",
@@ -4255,248 +4498,5 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-10-13T13:00:34+00:00"
-  },
-  "84694c3a7f4f": {
-    "id": "84694c3a7f4f",
-    "title_en": "US power prices fall with utility-scale solar, rise with rooftop",
-    "title_zh": "美国电价因公用事业规模的太阳能而下跌，因屋顶太阳能而上涨",
-    "url": "https://www.pv-magazine.com/2026/10/13/us-power-prices-fall-with-utility-scale-solar-rise-with-rooftop/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T12:50:00+00:00"
-  },
-  "27c5096215c2": {
-    "id": "27c5096215c2",
-    "title_en": "Leapting launches autonomous forklift for solar module transport",
-    "title_zh": "Leapting推出用于太阳能组件运输的自动叉车",
-    "url": "https://www.pv-magazine.com/2026/10/13/leapting-launches-autonomous-forklift-for-solar-module-transport/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T12:35:27+00:00"
-  },
-  "05cde124a323": {
-    "id": "05cde124a323",
-    "title_en": "First cranberries harvested from bogs with solar panels overhead",
-    "title_zh": "第一批蔓越莓从沼泽地收割，头顶有太阳能电池板",
-    "url": "https://www.solarpowerworldonline.com/2026/10/first-cranberries-harvested-from-bogs-with-solar-panels-overhead/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T12:15:51+00:00"
-  },
-  "427b02a649cb": {
-    "id": "427b02a649cb",
-    "title_en": "Exide launches modular 125 kW/261 kWh battery for C&I applications",
-    "title_zh": "Exide推出用于C&I应用的模块化125 kW/261 kWh电池",
-    "url": "https://www.pv-magazine.com/2026/10/13/exide-launches-modular-125-kw-261-kwh-battery-for-ci-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T12:01:23+00:00"
-  },
-  "6c77a2e3c684": {
-    "id": "6c77a2e3c684",
-    "title_en": "Tesla still leads US fast-charger growth – but it’s raised its prices",
-    "title_zh": "特斯拉仍然引领着美国充电器的快速增长，但它提高了价格",
-    "url": "https://electrek.co/2026/10/13/tesla-still-leads-us-supercharger-growth-but-its-raised-prices/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-13T12:00:00+00:00"
-  },
-  "7b404fc53a43": {
-    "id": "7b404fc53a43",
-    "title_en": "Three-molecule blend boosts inverted perovskite solar cell efficiency to 27.5%",
-    "title_zh": "三分子混合物将倒置钙钛矿太阳能电池的效率提高到27.5%",
-    "url": "https://www.pv-magazine.com/2026/10/13/three-molecule-blend-boosts-inverted-perovskite-solar-cell-efficiency-to-27-5/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T11:52:54+00:00"
-  },
-  "c66454147031": {
-    "id": "c66454147031",
-    "title_en": "Stationary, moving, flexible: Batteries are the low-cost backbone of the future energy system",
-    "title_zh": "固定、移动、灵活：电池是未来能源系统的低成本支柱",
-    "url": "https://www.pv-magazine.com/2026/10/13/stationary-moving-flexible-batteries-are-the-low-cost-backbone-of-the-future-energy-system/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T11:05:45+00:00"
-  },
-  "34fed4584f5a": {
-    "id": "34fed4584f5a",
-    "title_en": "Lectric launches lighter, lower-cost version of its bestselling urban e-bike: Lectric XPress Lite",
-    "title_zh": "Lectric推出其最畅销的城市电动自行车的更轻、更低成本的版本：Lectric XPress Lite",
-    "url": "https://electrek.co/2026/10/13/lectric-launches-lighter-lower-cost-version-of-its-bestselling-urban-e-bike-lectric-xpress-lite/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-13T10:58:29+00:00"
-  },
-  "8cf6b285583c": {
-    "id": "8cf6b285583c",
-    "title_en": "‘You need to get comfortable with regulatory reform as a known risk’: Battery Asset Management Summit UK & Ireland kicks off",
-    "title_zh": "“你需要适应监管改革作为一种已知的风险”：英国和爱尔兰电池资产管理峰会开幕",
-    "url": "https://www.energy-storage.news/you-need-to-get-comfortable-with-regulatory-reform-as-a-known-risk-battery-asset-management-summit-uk-ireland-kicks-off/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-13T10:43:38+00:00"
-  },
-  "22dad5247078": {
-    "id": "22dad5247078",
-    "title_en": "European PPA prices rise 5% in September",
-    "title_zh": "9月份欧洲购电协议价格上涨5%",
-    "url": "https://www.pv-magazine.com/2026/10/13/european-ppa-prices-rise-5-in-september/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T10:42:55+00:00"
-  },
-  "b99f83d644e2": {
-    "id": "b99f83d644e2",
-    "title_en": "Exclusive: Vestas plans new gearbox for V182-7.2MW onshore wind turbine",
-    "title_zh": "独家：维斯塔斯计划为V182-7.2MW陆上风力涡轮机提供新的变速箱",
-    "url": "https://www.windpowermonthly.com/article/1972354/exclusive-vestas-plans-new-gearbox-v182-72mw-onshore-wind-turbine",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-13T10:39:18+00:00"
-  },
-  "a4eb15c0683d": {
-    "id": "a4eb15c0683d",
-    "title_en": "Enpal, Würth unveil safety platform for PV deployment on pitched roofs",
-    "title_zh": "Enpal，Würth推出用于斜屋顶光伏部署的安全平台",
-    "url": "https://www.pv-magazine.com/2026/10/13/enpal-wurth-unveil-safety-platform-for-pv-deployment-on-pitched-roofs/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T10:35:49+00:00"
-  },
-  "13e756bde3cd": {
-    "id": "13e756bde3cd",
-    "title_en": "Qatar’s renewable capacity share could more than double by 2035",
-    "title_zh": "到2035年，卡塔尔的可再生能源份额可能会翻一番以上",
-    "url": "https://www.pv-magazine.com/2026/10/13/qatars-renewable-capacity-share-to-more-than-double-by-2035/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T10:30:00+00:00"
-  },
-  "b1a6489ac07d": {
-    "id": "b1a6489ac07d",
-    "title_en": "Vayona targets Indian wind sector with 5MW turbine with 193m rotor",
-    "title_zh": "Vayona以193米转子的5MW涡轮机瞄准印度风能行业",
-    "url": "https://www.windpowermonthly.com/article/1972346/vayona-targets-indian-wind-sector-5mw-turbine-193m-rotor",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-13T10:19:48+00:00"
-  },
-  "db4bda1d65f2": {
-    "id": "db4bda1d65f2",
-    "title_en": "Foss & Company closes US$58 million tax equity deal for GridStor’s Texas BESS project",
-    "title_zh": "Foss&Company为GridStor的德克萨斯州BESS项目完成了5800万美元的税务股权交易",
-    "url": "https://www.energy-storage.news/foss-company-closes-us58-million-tax-equity-deal-for-gridstors-texas-bess-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-13T10:18:18+00:00"
-  },
-  "362e6f65ebd4": {
-    "id": "362e6f65ebd4",
-    "title_en": "Clearway Energy increases Utah ‘Energy Centre’ capacity to 2,120MWh",
-    "title_zh": "Clearway Energy将犹他州“能源中心”的容量增加到2120MWh",
-    "url": "https://www.energy-storage.news/clearway-energy-increases-utah-energy-centre-capacity-to-2120mwh/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-13T10:14:01+00:00"
-  },
-  "0ae29917acd2": {
-    "id": "0ae29917acd2",
-    "title_en": "Inter-Array Cable Installation About to Start at 2.9 GW UK Offshore Wind Farm",
-    "title_zh": "2.9吉瓦英国海上风电场即将开始阵列间电缆安装",
-    "url": "https://offshorewind.biz/2026/10/13/inter-array-cable-installation-about-to-start-at-29-gw-uk-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-13T10:11:58+00:00"
-  },
-  "24256bd1b9f6": {
-    "id": "24256bd1b9f6",
-    "title_en": "India Transition Factbook 2026",
-    "title_zh": "2026年印度转型概况",
-    "url": "https://about.bnef.com/insights/clean-energy/india-transition-factbook-2026/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-10-13T09:45:36+00:00"
-  },
-  "42d1d6fdd539": {
-    "id": "42d1d6fdd539",
-    "title_en": "Visionpark unveils new foundation-free solar carport for residential use",
-    "title_zh": "Visionpark推出新的无基础太阳能车棚供住宅使用",
-    "url": "https://www.pv-magazine.com/2026/10/13/visionpark-unveils-new-foundation-free-solar-carport-for-residential-use/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T09:38:05+00:00"
-  },
-  "7c75132e77ba": {
-    "id": "7c75132e77ba",
-    "title_en": "Tongwei negotiations ongoing for acquisition of Qinghai Lihao",
-    "title_zh": "通威正在进行收购青海利浩的谈判",
-    "url": "https://www.pv-tech.org/tongwei-negotiations-ongoing-acquisition-qinghai-lihao/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T09:30:17+00:00"
-  },
-  "a40d8793fc2a": {
-    "id": "a40d8793fc2a",
-    "title_en": "Neoen, BW ESS and MN8 back efforts to standardise BESS procurement through new Energy Storage Contract Alliance",
-    "title_zh": "Neoen、BW ESS和MN8支持通过新的储能合同联盟实现BESS采购标准化的努力",
-    "url": "https://www.energy-storage.news/neoen-bw-ess-and-mn8-back-efforts-to-standardise-bess-procurement-through-new-energy-storage-contract-alliance/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-13T09:29:47+00:00"
-  },
-  "9e162696df04": {
-    "id": "9e162696df04",
-    "title_en": "energyRe secures $815m for South Carolina solar projects",
-    "title_zh": "energyRe为南卡罗来纳州的太阳能项目获得8.15亿美元",
-    "url": "https://www.energymonitor.ai/news/energyre-815m-south-carolina-solar/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-13T09:25:40+00:00"
-  },
-  "5415c532a62f": {
-    "id": "5415c532a62f",
-    "title_en": "Inside BESS manufacturing: Maxxen’s utility-scale storage factory in Europe",
-    "title_zh": "BESS制造内部：Maxxen在欧洲的公用事业规模存储工厂",
-    "url": "https://www.pv-magazine.com/2026/10/13/inside-bess-manufacturing-maxxens-utility-scale-storage-factory-in-europe-2/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T09:23:46+00:00"
-  },
-  "25cd29f0b07b": {
-    "id": "25cd29f0b07b",
-    "title_en": "CATL, Intilion target up to 3 GWh of sodium-ion storage in Europe",
-    "title_zh": "CATL和Intilion计划在欧洲实现高达3GWh的钠离子储存",
-    "url": "https://www.pv-magazine.com/2026/10/13/catl-intilion-target-up-to-3-gwh-of-sodium-ion-storage-in-europe/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-13T09:21:26+00:00"
-  },
-  "0e2a6f6ce199": {
-    "id": "0e2a6f6ce199",
-    "title_en": "Saudi Arabia Plans Massive Expansion of Oil Pipeline to Bypass Hormuz",
-    "title_zh": "沙特阿拉伯计划大规模扩建石油管道以绕过霍尔木兹",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Plans-Massive-Expansion-of-Oil-Pipeline-to-Bypass-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-13T09:20:00+00:00"
-  },
-  "a1acee70aaf9": {
-    "id": "a1acee70aaf9",
-    "title_en": "Powergrid acquires two transmission SPVs in Gujarat and Maharashtra",
-    "title_zh": "电网在古吉拉特邦和马哈拉施特拉邦收购了两家输电SPV",
-    "url": "https://www.energymonitor.ai/news/powergrid-acquires-two-transmission-spvs/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-13T09:13:03+00:00"
-  },
-  "ddb0e88a1b6d": {
-    "id": "ddb0e88a1b6d",
-    "title_en": "Solar industry spends to flip control of Georgia utility commission",
-    "title_zh": "太阳能行业花费巨资推翻佐治亚州公用事业委员会的控制权",
-    "url": "https://www.canarymedia.com/articles/politics/solar-industry-spends-to-flip-control-of-georgia-utility-commission",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-13T09:00:00+00:00"
   }
 }
