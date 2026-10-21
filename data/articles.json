@@ -1,4 +1,67 @@
 {
+  "b06e327b139d": {
+    "id": "b06e327b139d",
+    "title_en": "Tesla and SpaceX take first step towards merger, would dilute all shareholders",
+    "title_zh": "特斯拉和SpaceX迈出合并的第一步，将稀释所有股东",
+    "url": "https://electrek.co/2026/10/20/tesla-and-spacex-take-first-step-towards-merger-would-dilute-all-shareholders/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-21T03:14:40+00:00"
+  },
+  "6b8bfb39d935": {
+    "id": "6b8bfb39d935",
+    "title_en": "Ingeteam supplies PCS for 130MWh of BESS and DC-coupled projects in Australia",
+    "title_zh": "Ingeteam为澳大利亚130MWh的BESS和DC耦合项目提供PCS",
+    "url": "https://www.energy-storage.news/ingeteam-supplies-pcs-for-130mwh-of-bess-and-dc-coupled-projects-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-21T02:06:03+00:00"
+  },
+  "91c0af6d39a8": {
+    "id": "91c0af6d39a8",
+    "title_en": "Rondo Energy and Rio Tinto begin design work on Australia’s largest thermal energy storage project",
+    "title_zh": "Rondo Energy和力拓开始设计澳大利亚最大的热能储存项目",
+    "url": "https://www.energy-storage.news/rondo-energy-and-rio-tinto-begin-design-work-on-australias-largest-thermal-energy-storage-project/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-21T01:55:23+00:00"
+  },
+  "9dfe8fb5f07d": {
+    "id": "9dfe8fb5f07d",
+    "title_en": "Rapid Transition to Electric Company Cars Could Generate 344,000 EU Jobs by 2030 — Study",
+    "title_zh": "到2030年，向电动汽车的快速过渡可能会在欧盟创造34.4万个工作岗位——研究",
+    "url": "https://cleantechnica.com/2026/10/20/rapid-transition-to-electric-company-cars-could-generate-344000-eu-jobs-by-2030-study/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-21T01:33:49+00:00"
+  },
+  "e13101b15bea": {
+    "id": "e13101b15bea",
+    "title_en": "Arctic Infrastructure Was Built on Frozen Ground That’s Starting to Thaw — Drones Can Help Spot the Permafrost Changes Coming",
+    "title_zh": "北极基础设施建在开始融化的冻土上——无人机可以帮助发现即将到来的永久冻土变化",
+    "url": "https://cleantechnica.com/2026/10/20/arctic-infrastructure-was-built-on-frozen-ground-thats-starting-to-thaw-drones-can-help-spot-the-permafrost-changes-coming/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-21T01:21:44+00:00"
+  },
+  "a30112bacdd7": {
+    "id": "a30112bacdd7",
+    "title_en": "How Recycled Minerals from GM EV Batteries Are Helping Power New Ones",
+    "title_zh": "通用汽车电动汽车电池中的回收矿物如何为新电池供电",
+    "url": "https://cleantechnica.com/2026/10/20/how-recycled-minerals-from-gm-ev-batteries-are-helping-power-new-ones/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-21T01:02:01+00:00"
+  },
+  "562721053a7d": {
+    "id": "562721053a7d",
+    "title_en": "How Bad Would It Get If China Blocks Rare Earths to America?",
+    "title_zh": "如果中国阻止稀土进入美国，情况会有多糟？",
+    "url": "https://oilprice.com/Energy/Energy-General/How-Bad-Would-It-Get-If-China-Blocks-Rare-Earths-to-America.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-21T00:00:00+00:00"
+  },
   "345ce69b03e1": {
     "id": "345ce69b03e1",
     "title_en": "Petrobras' Deepwater Push Sets Off a Race for Offshore Vessels",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-14T11:30:00+00:00"
-  },
-  "c1d553d176bf": {
-    "id": "c1d553d176bf",
-    "title_en": "LTSAs under scrutiny: what BESS owners really need from their contracts",
-    "title_zh": "LTSAs正在接受审查：BESS所有者真正需要从他们的合同中得到什么",
-    "url": "https://www.energy-storage.news/ltsas-under-scrutiny-what-bess-owners-really-need-from-their-contracts/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-14T11:27:37+00:00"
-  },
-  "2ea8e3c8f3d5": {
-    "id": "2ea8e3c8f3d5",
-    "title_en": "From higher efficiency to higher asset value: LONGi’s strategy to lead Europe’s clean energy transition",
-    "title_zh": "从更高的效率到更高的资产价值：隆基引领欧洲清洁能源转型的战略",
-    "url": "https://www.pv-tech.org/from-higher-efficiency-to-higher-asset-value-longis-strategy-to-lead-europes-clean-energy-transition/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-14T11:11:12+00:00"
-  },
-  "de9c01eb7c29": {
-    "id": "de9c01eb7c29",
-    "title_en": "Australia’s coal phase-out requires rapid dispatchable replacement, says GlobalData",
-    "title_zh": "GlobalData表示，澳大利亚的煤炭淘汰需要快速可调度的替代品",
-    "url": "https://www.energymonitor.ai/analysis/australias-coal-phase-out-requires-rapid-dispatchable-replacement-says-globaldata/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-14T11:03:07+00:00"
-  },
-  "20b0616e4c3d": {
-    "id": "20b0616e4c3d",
-    "title_en": "Beyond the oil change: Why condition monitoring is becoming essential for wind turbine reliability",
-    "title_zh": "除了换油：为什么状态监测对风力涡轮机的可靠性至关重要",
-    "url": "https://www.energymonitor.ai/sponsored/beyond-the-oil-change-why-condition-monitoring-is-becoming-essential-for-wind-turbine-reliability/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-14T10:55:15+00:00"
-  },
-  "6aec3c8bd52b": {
-    "id": "6aec3c8bd52b",
-    "title_en": "Ofgem to Launch Record Tender as UK Regulator Seeks Owner of Hornsea 3 Offshore Transmission Assets",
-    "title_zh": "Ofgem将启动创纪录的投标，因为英国监管机构正在寻找Hornsea 3海上输电资产的所有者",
-    "url": "https://offshorewind.biz/2026/10/14/ofgem-to-launch-record-tender-as-uk-regulator-seeks-owner-of-hornsea-3-offshore-transmission-assets",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-14T10:52:51+00:00"
-  },
-  "f204ffb3c411": {
-    "id": "f204ffb3c411",
-    "title_en": "Trump relaunches attack on Ørsted's Revolution Wind",
-    "title_zh": "特朗普重新发起对奥斯特革命之风的攻击",
-    "url": "https://www.windpowermonthly.com/article/1972470/trump-relaunches-attack-orsteds-revolution-wind",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-14T10:46:12+00:00"
-  },
-  "caed71bdb02b": {
-    "id": "caed71bdb02b",
-    "title_en": "Mercedes-Benz launches bidirectional charging in Germany",
-    "title_zh": "梅赛德斯-奔驰在德国推出双向充电",
-    "url": "https://www.pv-magazine.com/2026/10/14/mercedes-benz-launches-bidirectional-charging-in-germany/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-14T10:32:29+00:00"
   }
 }
