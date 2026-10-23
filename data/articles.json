@@ -1,4 +1,121 @@
 {
+  "874a4063380e": {
+    "id": "874a4063380e",
+    "title_en": "Alinta Energy abandons ‘critical’ pumped hydro energy storage project in Australia",
+    "title_zh": "Alinta Energy放弃澳大利亚“关键”抽水蓄能项目",
+    "url": "https://www.energy-storage.news/alinta-energy-abandons-critical-pumped-hydro-energy-storage-project-in-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-23T02:55:53+00:00"
+  },
+  "4cd777f74dbd": {
+    "id": "4cd777f74dbd",
+    "title_en": "Why Trump Can't Afford to Lose The Rare Earth Race",
+    "title_zh": "为什么特朗普不能输掉稀土竞赛",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Trump-Cant-Afford-to-Lose-The-Rare-Earth-Race.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-23T02:00:00+00:00"
+  },
+  "1789aabe4757": {
+    "id": "1789aabe4757",
+    "title_en": "ANALYSIS: Solar & Storage Growth Drives Down Summer Wholesale Electricity Prices by 42% in Texas & 51% in California",
+    "title_zh": "分析：太阳能和储能增长推动德克萨斯州夏季批发电价下降42%，加利福尼亚州下降51%",
+    "url": "https://cleantechnica.com/2026/10/22/analysis-solar-storage-growth-drives-down-summer-wholesale-electricity-prices-by-42-in-texas-51-in-california/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-23T01:00:34+00:00"
+  },
+  "34b410a107d8": {
+    "id": "34b410a107d8",
+    "title_en": "Sierra Club Applauds Approval for Ameren Missouri’s New Solar & Storage Projects",
+    "title_zh": "Sierra Club对Ameren Missouri的新太阳能和储能项目获得批准表示欢迎",
+    "url": "https://cleantechnica.com/2026/10/22/sierra-club-applauds-approval-for-ameren-missouris-new-solar-storage-projects/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-23T00:42:35+00:00"
+  },
+  "746c2c3dac92": {
+    "id": "746c2c3dac92",
+    "title_en": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
+    "title_zh": "特斯拉第四季度数据、更多产品延迟和一些真正的电动汽车充电创新",
+    "url": "https://electrek.co/2026/10/22/tesla-q4-numbers-more-product-delays-and-some-real-ev-charging-innovation/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-23T00:11:04+00:00"
+  },
+  "9b329b827347": {
+    "id": "9b329b827347",
+    "title_en": "Another megawatt-level charger enters China: 300 miles in 5 minutes",
+    "title_zh": "另一款兆瓦级充电器进入中国：5分钟内行驶300英里",
+    "url": "https://electrek.co/2026/10/22/another-megawatt-level-charger-enters-china-300-miles-in-5-minutes/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-23T00:06:23+00:00"
+  },
+  "8b53ef557e3b": {
+    "id": "8b53ef557e3b",
+    "title_en": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
+    "title_zh": "随着亚洲目光投向海湾以外，加拿大液化天然气产能翻番",
+    "url": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-23T00:00:00+00:00"
+  },
+  "33a94f9b365b": {
+    "id": "33a94f9b365b",
+    "title_en": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
+    "title_zh": "原油进口增加减少了中国从库存中提取石油的需求",
+    "url": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-22T23:00:00+00:00"
+  },
+  "9cc5d7923782": {
+    "id": "9cc5d7923782",
+    "title_en": "sonnen files for insolvency in Germany as US sales double",
+    "title_zh": "sonnen在德国申请破产，美国销售额翻了一番",
+    "url": "https://electrek.co/2026/10/22/sonnen-files-for-insolvency-in-germany-as-us-sales-double/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-22T22:07:26+00:00"
+  },
+  "f9420e329ddf": {
+    "id": "f9420e329ddf",
+    "title_en": "EU’s Arctic Strategy Excludes Oil and Gas",
+    "title_zh": "欧盟的北极战略不包括石油和天然气",
+    "url": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-22T22:00:00+00:00"
+  },
+  "3a63cd72e193": {
+    "id": "3a63cd72e193",
+    "title_en": "NRC Finalizes Rule Allowing Reactor Applicants to Use DOE, DOW Demonstration Data",
+    "title_zh": "NRC最终确定允许反应堆申请人使用DOE、DOW演示数据的规则",
+    "url": "https://www.powermag.com/nrc-finalizes-rule-allowing-reactor-applicants-to-use-doe-dow-demonstration-data/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-10-22T21:27:16+00:00"
+  },
+  "4d56bf78c5bb": {
+    "id": "4d56bf78c5bb",
+    "title_en": "Tesla skipped the most important shareholder question on its earnings call",
+    "title_zh": "特斯拉在电话财报会议上跳过了最重要的股东问题",
+    "url": "https://electrek.co/2026/10/22/tesla-skipped-hw3-shareholder-question-earnings-call/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-22T21:23:05+00:00"
+  },
+  "1a51bd40bab5": {
+    "id": "1a51bd40bab5",
+    "title_en": "BYD is about to launch this luxury electric SUV with 623 miles of range",
+    "title_zh": "比亚迪即将推出这款续航里程623英里的豪华电动SUV",
+    "url": "https://electrek.co/2026/10/22/byd-launch-luxury-ev-suv-623-miles-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-22T21:18:11+00:00"
+  },
   "ff917e42e12c": {
     "id": "ff917e42e12c",
     "title_en": "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
@@ -4381,122 +4498,5 @@
     "source": "Carbon Brief",
     "category": "政策",
     "pub_ts": "2026-10-16T11:54:59+00:00"
-  },
-  "197ee27fef23": {
-    "id": "197ee27fef23",
-    "title_en": "China’s Sufficient Gas Stocks Could Ease Winter Supply Concerns",
-    "title_zh": "中国充足的天然气库存可能缓解冬季供应担忧",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Sufficient-Gas-Stocks-Could-Ease-Winter-Supply-Concerns.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-16T11:30:00+00:00"
-  },
-  "9dde8af96e98": {
-    "id": "9dde8af96e98",
-    "title_en": "German industry groups oppose proposed solar prosumer grid surcharge",
-    "title_zh": "德国工业团体反对太阳能产消者电网附加费提案",
-    "url": "https://www.pv-tech.org/german-industry-groups-oppose-proposed-solar-prosumer-grid-surcharge/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-16T11:28:12+00:00"
-  },
-  "c89de6ebfefb": {
-    "id": "c89de6ebfefb",
-    "title_en": "Germany Roundup: Enertrag, Enlight, Vattenfall, Fluence, Giga Storage progress 4-hour batteries totalling 3.2GWh to construction",
-    "title_zh": "德国综述：Enertrag、Enlight、Vattenfall、Fluence、Giga Storage正在建设4小时电池，总计3.2GWh",
-    "url": "https://www.energy-storage.news/germany-roundup-enertrag-enlight-vattenfall-fluence-giga-storage-4-hour-batteries/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-16T11:26:19+00:00"
-  },
-  "ffe821a9f06a": {
-    "id": "ffe821a9f06a",
-    "title_en": "Thorizon, TNO launch MSR materials programme",
-    "title_zh": "Thorizon，TNO启动MSR材料计划",
-    "url": "https://www.world-nuclear-news.org/articles/thorizon-tno-launch-msr-materials-programme",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-10-16T11:14:32+00:00"
-  },
-  "c552ceeaed6d": {
-    "id": "c552ceeaed6d",
-    "title_en": "South Korea Turns Back to Coal as LNG Crisis Deepens",
-    "title_zh": "随着液化天然气危机的加剧，韩国重新转向煤炭",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Korea-Turns-Back-to-Coal-as-LNG-Crisis-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-16T10:30:00+00:00"
-  },
-  "28d82af51dbb": {
-    "id": "28d82af51dbb",
-    "title_en": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-    "title_zh": "监管机构表示，NextEra的400万美元特朗普宴会厅捐款扰乱了Dominion的合并辩论",
-    "url": "https://www.utilitydive.com/news/nexteras-4m-trump-ballroom-donation-muddies-debate-over-dominion-merger/833201/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-10-16T10:28:17+00:00"
-  },
-  "c0df58e346b8": {
-    "id": "c0df58e346b8",
-    "title_en": "Nexans Starts Manufacturing 525 kV Subsea Cables for LanWin2 Offshore Wind Grid Connection",
-    "title_zh": "耐克森开始为LanWin2海上风电并网生产525 kV海底电缆",
-    "url": "https://offshorewind.biz/2026/10/16/nexans-starts-manufacturing-525-kv-subsea-cables-for-lanwin2-offshore-wind-grid-connection",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-16T10:27:04+00:00"
-  },
-  "5dbb2a7da2cf": {
-    "id": "5dbb2a7da2cf",
-    "title_en": "Wind turbine maker Nordex boosts outlook after Q3 results 'exceed expectations'",
-    "title_zh": "风力发电机制造商Nordex在第三季度业绩“超出预期”后上调前景",
-    "url": "https://www.windpowermonthly.com/article/1972724/wind-turbine-maker-nordex-boosts-outlook-q3-results-exceed-expectations",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-16T10:18:55+00:00"
-  },
-  "a349f636f7db": {
-    "id": "a349f636f7db",
-    "title_en": "The Hydrogen Stream: P2X starts selling renewable methane to European markets",
-    "title_zh": "氢流：P2X开始向欧洲市场销售可再生甲烷",
-    "url": "https://www.pv-magazine.com/2026/10/16/the-hydrogen-stream-p2x-starts-selling-renewable-methane-to-european-markets/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-16T10:09:57+00:00"
-  },
-  "7b74c3436c6d": {
-    "id": "7b74c3436c6d",
-    "title_en": "New Zealand opens $153m Kōwhai Park solar farm in Christchurch",
-    "title_zh": "新西兰在克赖斯特彻奇开设1.53亿美元的Kwhai Park太阳能发电厂",
-    "url": "https://www.energymonitor.ai/news/new-zealand-opens-kowhai-park/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-16T09:45:36+00:00"
-  },
-  "5000585e649c": {
-    "id": "5000585e649c",
-    "title_en": "Scientists develop air-source heat pump system for broiler houses",
-    "title_zh": "科学家为肉鸡舍开发空气源热泵系统",
-    "url": "https://www.pv-magazine.com/2026/10/16/scientists-develop-air-source-heat-pump-system-for-broiler-houses/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-16T09:35:57+00:00"
-  },
-  "42ea7228acbb": {
-    "id": "42ea7228acbb",
-    "title_en": "GES secures US$252 million EPC contracts for four Spanish solar PV projects",
-    "title_zh": "GES为四个西班牙太阳能光伏项目获得2.52亿美元的EPC合同",
-    "url": "https://www.pv-tech.org/ges-secures-us252-million-epc-contracts-four-spanish-solar-pv-projects/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-16T09:31:23+00:00"
-  },
-  "22a0d9e9ef01": {
-    "id": "22a0d9e9ef01",
-    "title_en": "India Slashes Diesel Export Tax as Global Fuel Crunch Deepens",
-    "title_zh": "随着全球燃料危机加剧，印度大幅削减柴油出口税",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Slashes-Diesel-Export-Tax-as-Global-Fuel-Crunch-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-16T09:30:00+00:00"
   }
 }
