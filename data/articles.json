@@ -1,4 +1,85 @@
 {
+  "6b474b2135c7": {
+    "id": "6b474b2135c7",
+    "title_en": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
+    "title_zh": "Gritt Robotics引入人工智能辅助机器人技术，以支持不断萎缩的太阳能劳动力",
+    "url": "https://www.pv-magazine.com/2026/10/24/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T09:30:00+00:00"
+  },
+  "0755deb3ca33": {
+    "id": "0755deb3ca33",
+    "title_en": "Italy deploys 4.83 GW of PV in January-September",
+    "title_zh": "意大利在1月至9月部署了4.83吉瓦的光伏发电",
+    "url": "https://www.pv-magazine.com/2026/10/24/italy-deploys-4-83-gw-of-pv-in-january-september/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T09:00:00+00:00"
+  },
+  "e1c89ae4a6f9": {
+    "id": "e1c89ae4a6f9",
+    "title_en": "Mozambique entrusts small solar panel factory to UAE’s Jampur Group",
+    "title_zh": "莫桑比克将小型太阳能电池板工厂委托给阿联酋坎普尔集团",
+    "url": "https://www.pv-magazine.com/2026/10/24/mozambique-entrusts-solar-panel-factory-to-uaes-jampur-group/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T08:45:00+00:00"
+  },
+  "e1f6ef7efff7": {
+    "id": "e1f6ef7efff7",
+    "title_en": "‘When it is your turn, open the door for the woman coming next’",
+    "title_zh": "“轮到你的时候，为下一个来的女人开门。”",
+    "url": "https://www.pv-magazine.com/2026/10/24/when-it-is-your-turn-open-the-door-for-the-woman-coming-next/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T08:30:00+00:00"
+  },
+  "9351e2e56cab": {
+    "id": "9351e2e56cab",
+    "title_en": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats",
+    "title_zh": "用于车辆、隔音屏障和船只的无玻璃欧洲光伏组件",
+    "url": "https://www.pv-magazine.com/2026/10/24/glass-free-european-photovoltaic-modules-for-vehicles-noise-barriers-and-boats/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T08:00:00+00:00"
+  },
+  "90dc699d326a": {
+    "id": "90dc699d326a",
+    "title_en": "Vietnam orders provinces to introduce rooftop solar incentives by December 2026",
+    "title_zh": "越南要求各省在2026年12月前推出屋顶太阳能激励措施",
+    "url": "https://www.pv-magazine.com/2026/10/24/vietnam-orders-provinces-to-introduce-rooftop-solar-incentives-by-december-2026/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T07:30:00+00:00"
+  },
+  "53a830d5a6df": {
+    "id": "53a830d5a6df",
+    "title_en": "Couple travels through 10 African countries in solar-powered motorhome with battery storage",
+    "title_zh": "一对夫妇乘坐带电池储能的太阳能房车穿越10个非洲国家",
+    "url": "https://www.pv-magazine.com/2026/10/24/couple-travels-through-10-african-countries-in-solar-powered-motorhome-with-battery-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T07:00:00+00:00"
+  },
+  "d03b6ac36995": {
+    "id": "d03b6ac36995",
+    "title_en": "Australia’s 2.2 GW Snowy 2.0 pumped hydro cost estimate rises again",
+    "title_zh": "澳大利亚2.2吉瓦Snowy 2.0抽水蓄能电站成本再次上涨",
+    "url": "https://www.pv-magazine.com/2026/10/24/australias-2-2-gw-snowy-2-0-pumped-hydro-cost-estimate-rises-again/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T06:30:00+00:00"
+  },
+  "4b0ba0c70dbd": {
+    "id": "4b0ba0c70dbd",
+    "title_en": "U.S. residential solar prices rise 3.2% as third-party ownership gains ground",
+    "title_zh": "随着第三方所有权的增加，美国住宅太阳能价格上涨3.2%",
+    "url": "https://www.pv-magazine.com/2026/10/24/residential-solar-prices-rise-3-2-as-third-party-ownership-gains-ground/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T06:00:00+00:00"
+  },
   "e138519c2f71": {
     "id": "e138519c2f71",
     "title_en": "US Tech Leaders Are Urgently Calling for Rules on AI — China Already Has Them",
@@ -4417,86 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-19T05:24:21+00:00"
-  },
-  "bd43e440940c": {
-    "id": "bd43e440940c",
-    "title_en": "A Data Center Deal Lurks Behind Trump’s Russian Diesel Debacle",
-    "title_zh": "数据中心交易隐藏在特朗普的俄罗斯柴油机危机背后",
-    "url": "https://cleantechnica.com/2026/10/18/collaboration-russia-us-data-centers-elections-2026/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-19T03:42:48+00:00"
-  },
-  "5d367d546bb5": {
-    "id": "5d367d546bb5",
-    "title_en": "XPENG G9L Sets Useable Premium SUV Benchmark In Europe",
-    "title_zh": "XPENG G9L在欧洲树立了实用的高级SUV标杆",
-    "url": "https://cleantechnica.com/2026/10/18/xpeng-g9l-sets-useable-premium-suv-benchmark-in-europe/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-19T03:12:01+00:00"
-  },
-  "940fb6ca3afd": {
-    "id": "940fb6ca3afd",
-    "title_en": "XPENG G9L Sets Usable Premium SUV Benchmark In Europe",
-    "title_zh": "XPENG G9L在欧洲树立了可用的高级SUV标杆",
-    "url": "https://cleantechnica.com/2026/10/18/xpeng-g9l-sets-usable-premium-suv-benchmark-in-europe/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-19T03:12:01+00:00"
-  },
-  "4c6518efe008": {
-    "id": "4c6518efe008",
-    "title_en": "Australia bets on solar-powered green iron as China’s appetite for imports wanes",
-    "title_zh": "澳大利亚押注太阳能绿色铁，因为中国对进口的需求减弱",
-    "url": "https://www.pv-tech.org/australia-bets-on-solar-powered-green-iron-as-chinas-appetite-for-imports-wanes/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T03:00:45+00:00"
-  },
-  "5e756a1e7642": {
-    "id": "5e756a1e7642",
-    "title_en": "Atmos Renewables acquires 126MWp of operating Australian solar PV from BayWa r.e.",
-    "title_zh": "Atmos Renewables从BayWa r.e.收购了126MWp的澳大利亚太阳能光伏发电项目。",
-    "url": "https://www.pv-tech.org/atmos-renewables-acquires-126mwp-of-operating-australian-solar-pv-from-baywa-r-e/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T01:50:42+00:00"
-  },
-  "784c6ba05458": {
-    "id": "784c6ba05458",
-    "title_en": "ArcActive switches on lead-acid battery storage system pilot at Deakin University in Australia",
-    "title_zh": "澳大利亚迪肯大学铅酸蓄电池储能系统ArcActive开关试点",
-    "url": "https://www.energy-storage.news/arcactive-switches-on-lead-acid-battery-storage-system-pilot-at-deakin-university-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-19T01:11:24+00:00"
-  },
-  "3aef6d1ec6b7": {
-    "id": "3aef6d1ec6b7",
-    "title_en": "America Needs 48,000 Tons of Rare Earth Magnets. It Only Makes 300",
-    "title_zh": "美国需要4.8万吨稀土磁铁。它只做了300",
-    "url": "https://oilprice.com/Energy/Energy-General/America-Needs-48000-Tons-of-Rare-Earth-Magnets-It-Only-Makes-300.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-19T01:00:00+00:00"
-  },
-  "94496a816f64": {
-    "id": "94496a816f64",
-    "title_en": "Record Shipping Costs Force Oil Producers to Slash Prices",
-    "title_zh": "创纪录的运输成本迫使石油生产商大幅降价",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-18T23:00:00+00:00"
-  },
-  "d9b34ddf915a": {
-    "id": "d9b34ddf915a",
-    "title_en": "From excavators to hypercars, these LEGO kits were made for EV fans (2026)",
-    "title_zh": "从挖掘机到超级跑车，这些LEGO套件都是为电动汽车爱好者制作的（2026年）",
-    "url": "https://electrek.co/2026/10/18/from-excavators-to-hypercars-these-lego-kits-were-made-for-ev-fans-2026/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-18T22:03:36+00:00"
   }
 }
