@@ -1,4 +1,31 @@
 {
+  "fc50166d2cb5": {
+    "id": "fc50166d2cb5",
+    "title_en": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+    "title_zh": "大众汽车的新款电动捷达提供285英里的续航里程，价格低于12000美元",
+    "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-24T22:32:02+00:00"
+  },
+  "767d7e6f0598": {
+    "id": "767d7e6f0598",
+    "title_en": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
+    "title_zh": "加拿大和欧盟在汽车排放问题上渐行渐远",
+    "url": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-24T22:00:17+00:00"
+  },
+  "fe7c2d6be799": {
+    "id": "fe7c2d6be799",
+    "title_en": "Fuel Oil Becomes Asia’s Next Cost Shock",
+    "title_zh": "燃料油成为亚洲下一个成本冲击",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-24T21:00:00+00:00"
+  },
   "4a1e988b9867": {
     "id": "4a1e988b9867",
     "title_en": "If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast",
@@ -4468,33 +4495,6 @@
     "title_en": "Uncover the utility outcomes you can influence with your customer portal",
     "title_zh": "揭示您可以通过客户门户影响的效用结果",
     "url": "https://www.utilitydive.com/spons/uncover-the-utility-outcomes-you-can-influence-with-your-customer-portal/832823/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-10-19T09:00:00+00:00"
-  },
-  "bb2f3ddb71e5": {
-    "id": "bb2f3ddb71e5",
-    "title_en": "Grading the grid: How ISOs stack up against FERC’s large-load mandate",
-    "title_zh": "电网分级：ISO如何与联邦能源管理委员会的大负荷要求相抗衡",
-    "url": "https://www.utilitydive.com/spons/grading-the-grid-how-isos-stack-up-against-fercs-large-load-mandate/832934/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-10-19T09:00:00+00:00"
-  },
-  "2de29b1b83b6": {
-    "id": "2de29b1b83b6",
-    "title_en": "Underground utilities: A shifting grid and the materials built to match it",
-    "title_zh": "地下公用设施：移动网格和与其匹配的材料",
-    "url": "https://www.utilitydive.com/spons/underground-utilities-a-shifting-grid-and-the-materials-built-to-match-it/832817/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-10-19T09:00:00+00:00"
-  },
-  "44fa475578c6": {
-    "id": "44fa475578c6",
-    "title_en": "AI in nuclear operations: The shift from adoption to operating value",
-    "title_zh": "核运营中的人工智能：从采用到运营价值的转变",
-    "url": "https://www.utilitydive.com/spons/ai-in-nuclear-operations-the-shift-from-adoption-to-operating-value/832752/",
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-10-19T09:00:00+00:00"
