@@ -1,4 +1,58 @@
 {
+  "69c4fac1e3bd": {
+    "id": "69c4fac1e3bd",
+    "title_en": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
+    "title_zh": "特朗普计划投资62亿美元的海上风电项目即将完工",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-24T15:00:00+00:00"
+  },
+  "1fc76acc6c37": {
+    "id": "1fc76acc6c37",
+    "title_en": "Trump’s War on Iran Has Broken the Oil Market",
+    "title_zh": "特朗普对伊朗的战争破坏了石油市场",
+    "url": "https://cleantechnica.com/2026/10/24/trumps-war-on-iran-has-broken-the-oil-market/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-24T14:21:46+00:00"
+  },
+  "1c70e5f174bd": {
+    "id": "1c70e5f174bd",
+    "title_en": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
+    "title_zh": "中国电动汽车找到了进入西方汽车市场的后门——MSRP折扣40%",
+    "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-24T14:04:51+00:00"
+  },
+  "70bd25729bdb": {
+    "id": "70bd25729bdb",
+    "title_en": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
+    "title_zh": "国家公路交通安全管理局继梅赛德斯/中国之后，提议为自动驾驶出租车安装蓝灯",
+    "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-24T13:00:00+00:00"
+  },
+  "f73190f2f747": {
+    "id": "f73190f2f747",
+    "title_en": "Renewable Energy India Expo 2026: Three key takeaways",
+    "title_zh": "2026年印度可再生能源博览会：三个关键要点",
+    "url": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-24T12:43:58+00:00"
+  },
+  "3af669fd2b77": {
+    "id": "3af669fd2b77",
+    "title_en": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
+    "title_zh": "EGO Commercial用割草机、鼓风机和修剪机扩展ZTR系列",
+    "url": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-24T11:59:07+00:00"
+  },
   "6b474b2135c7": {
     "id": "6b474b2135c7",
     "title_en": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
@@ -79,6 +133,24 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-24T06:00:00+00:00"
+  },
+  "bb60a934d9c5": {
+    "id": "bb60a934d9c5",
+    "title_en": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
+    "title_zh": "罗技启动“连锁反应”，加速供应链脱碳，实现2030年气候目标",
+    "url": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-24T03:55:00+00:00"
+  },
+  "1667f27f3fec": {
+    "id": "1667f27f3fec",
+    "title_en": "Waymo — Now Arriving At Harry Reid International Airport",
+    "title_zh": "Waymo即将抵达哈里·里德国际机场",
+    "url": "https://cleantechnica.com/2026/10/23/waymo-now-arriving-at-harry-reid-international-airport/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-24T03:50:26+00:00"
   },
   "e138519c2f71": {
     "id": "e138519c2f71",
@@ -4426,77 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-19T07:44:03+00:00"
-  },
-  "a0cad408d6a0": {
-    "id": "a0cad408d6a0",
-    "title_en": "Vattenfall to Offer 200 MW of Balancing Power from German Offshore Wind Farm",
-    "title_zh": "Vattenfall将从德国海上风电场提供200兆瓦的平衡电力",
-    "url": "https://offshorewind.biz/2026/10/19/vattenfall-to-offer-200-mw-of-balancing-power-from-german-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-19T07:43:00+00:00"
-  },
-  "38c3ed4ed1b2": {
-    "id": "38c3ed4ed1b2",
-    "title_en": "A cleaner solution to America’s aluminum crunch is hiding in landfills",
-    "title_zh": "美国铝危机的更清洁解决方案隐藏在垃圾填埋场",
-    "url": "https://www.canarymedia.com/articles/clean-aluminum/how-to-recover-more-scrap-metal-us",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-19T07:30:00+00:00"
-  },
-  "3d0b61a2a7a5": {
-    "id": "3d0b61a2a7a5",
-    "title_en": "Illinois needs batteries. Will a new incentive program help?",
-    "title_zh": "伊利诺伊州需要电池。新的激励计划会有所帮助吗？",
-    "url": "https://www.canarymedia.com/articles/batteries/illinois-storage-procurement-incentives-results",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-19T07:30:00+00:00"
-  },
-  "98aeb5194b6d": {
-    "id": "98aeb5194b6d",
-    "title_en": "100% renewables is doable, even in oil countries",
-    "title_zh": "100%可再生能源是可行的，即使在石油国家也是如此",
-    "url": "https://www.pv-magazine.com/2026/10/19/100-renewables-is-doable-even-in-oil-countries/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T07:00:00+00:00"
-  },
-  "d5090ed90287": {
-    "id": "d5090ed90287",
-    "title_en": "Greenpeace Protest Forces Shutdown at Woodside’s $12.5 Billion Gas Project",
-    "title_zh": "绿色和平组织抗议迫使伍德赛德125亿美元天然气项目停工",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Greenpeace-Protest-Forces-Shutdown-at-Woodsides-125-Billion-Gas-Project.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-19T07:00:00+00:00"
-  },
-  "05933e72e129": {
-    "id": "05933e72e129",
-    "title_en": "Swift Current alleges widespread module defects in lawsuit against First Solar",
-    "title_zh": "Swift Current在针对First Solar的诉讼中声称存在广泛的模块缺陷",
-    "url": "https://www.pv-magazine.com/2026/10/19/swift-current-alleges-widespread-module-defects-in-lawsuit-against-first-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T05:26:26+00:00"
-  },
-  "8fd443093cce": {
-    "id": "8fd443093cce",
-    "title_en": "Oil Prices Slip as Trump-Putin Diesel Deal Raises Supply Hopes",
-    "title_zh": "油价下跌，特朗普-普京柴油协议提振供应希望",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slip-as-Trump-Putin-Diesel-Deal-Raises-Supply-Hopes.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-19T05:25:00+00:00"
-  },
-  "e81f841ea5ca": {
-    "id": "e81f841ea5ca",
-    "title_en": "Patent lawsuit points to 10 GW ingot and wafer equipment import for Tesla’s $10 billion Texas solar factory",
-    "title_zh": "专利诉讼指出，特斯拉价值100亿美元的德克萨斯州太阳能工厂进口了10吉瓦的铸锭和晶圆设备",
-    "url": "https://www.pv-magazine.com/2026/10/19/patent-lawsuit-points-to-10-gw-ingot-and-wafer-equipment-import-for-teslas-10-billion-texas-solar-factory/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T05:24:21+00:00"
   }
 }
