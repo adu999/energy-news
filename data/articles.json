@@ -1,4 +1,31 @@
 {
+  "913e4ca462bd": {
+    "id": "913e4ca462bd",
+    "title_en": "Asia Is Building the World’s Next $15 Trillion Energy Market",
+    "title_zh": "亚洲正在建设世界下一个价值15万亿美元的能源市场",
+    "url": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-25T23:00:00+00:00"
+  },
+  "a0fbdc4ec47e": {
+    "id": "a0fbdc4ec47e",
+    "title_en": "Oil Prices Rise Despite Middle East Export Recovery",
+    "title_zh": "尽管中东出口复苏，油价仍上涨",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-25T23:00:00+00:00"
+  },
+  "81c4b908e287": {
+    "id": "81c4b908e287",
+    "title_en": "Volkswagen Negotiations With IG Metall To Begin November 24, Audi Factory In US Rumored",
+    "title_zh": "大众汽车与IG Metall的谈判将于11月24日开始，奥迪美国工厂传言",
+    "url": "https://cleantechnica.com/2026/10/25/volkswagen-negotiations-with-ig-metall-to-begin-november-24-audi-factory-in-us-rumored/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-25T22:24:58+00:00"
+  },
   "1e1838134067": {
     "id": "1e1838134067",
     "title_en": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
@@ -4471,32 +4498,5 @@
     "source": "Solar Power World",
     "category": "太阳能",
     "pub_ts": "2026-10-19T12:12:54+00:00"
-  },
-  "c14a634b24a8": {
-    "id": "c14a634b24a8",
-    "title_en": "Year-end scramble exposes US BESS sector’s commissioning and policy strains",
-    "title_zh": "年终争夺战暴露了美国BESS行业的调试和政策压力",
-    "url": "https://www.energy-storage.news/year-end-scramble-exposes-us-bess-sectors-commissioning-and-policy-strains/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-19T11:50:16+00:00"
-  },
-  "40fa9b57c18e": {
-    "id": "40fa9b57c18e",
-    "title_en": "BESS beats gas peaker plants on LCOE globally, Wood Mackenzie finds",
-    "title_zh": "Wood Mackenzie发现，BESS在全球LCOE上击败了天然气峰值工厂",
-    "url": "https://www.energy-storage.news/bess-beats-gas-peaker-plants-on-lcoe-globally-wood-mackenzie-finds/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-19T11:49:17+00:00"
-  },
-  "db27629a079a": {
-    "id": "db27629a079a",
-    "title_en": "Woodside Resumes Work at Australian LNG Project after Greenpeace Stunt",
-    "title_zh": "绿色和平组织停摆后，伍德赛德恢复了澳大利亚液化天然气项目的工作",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Woodside-Resumes-Work-at-Australian-LNG-Project-after-Greenpeace-Stunt.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-19T11:30:00+00:00"
   }
 }
