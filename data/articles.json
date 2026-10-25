@@ -1,4 +1,67 @@
 {
+  "1e1838134067": {
+    "id": "1e1838134067",
+    "title_en": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
+    "title_zh": "英国可再生能源热潮遭遇电网瓶颈",
+    "url": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-25T19:00:00+00:00"
+  },
+  "1361262a8eff": {
+    "id": "1361262a8eff",
+    "title_en": "XCMG debuts new, fully autonomous electric terminal tractor [video]",
+    "title_zh": "徐工集团推出全新全自动电动终端拖拉机[视频]",
+    "url": "https://electrek.co/2026/10/25/xcmg-debuts-new-fully-autonomous-electric-terminal-tractor-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-25T18:34:53+00:00"
+  },
+  "020321ddfc52": {
+    "id": "020321ddfc52",
+    "title_en": "New Li Auto i6 Goes 811 km (504 Miles)",
+    "title_zh": "新款李汽车i6行驶811公里（504英里）",
+    "url": "https://cleantechnica.com/2026/10/25/new-li-auto-i6-goes-811-km-504-miles/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-25T17:57:54+00:00"
+  },
+  "0e2853b30328": {
+    "id": "0e2853b30328",
+    "title_en": "Battery electric, solar-powered reefer units reach their first customers",
+    "title_zh": "电池供电、太阳能驱动的冷藏机组首次接触客户",
+    "url": "https://electrek.co/2026/10/25/battery-electric-solar-powered-reefer-units-reach-their-first-customers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-25T17:28:39+00:00"
+  },
+  "46659f2b67dc": {
+    "id": "46659f2b67dc",
+    "title_en": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
+    "title_zh": "特朗普的能源部预算请求削减了疲软的赌注和有用的能源研究",
+    "url": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-25T17:17:07+00:00"
+  },
+  "eff0342d26cb": {
+    "id": "eff0342d26cb",
+    "title_en": "Who Killed The Elon Musk Movie? Nope, Not That Billionaire, Must Be Another One",
+    "title_zh": "谁杀了埃隆·马斯克电影？不，不是那个亿万富翁，一定是另一个",
+    "url": "https://cleantechnica.com/2026/10/25/elon-musk-the-movie-blackout-billionaires/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-25T17:07:52+00:00"
+  },
+  "c786cfe64030": {
+    "id": "c786cfe64030",
+    "title_en": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
+    "title_zh": "尽管清洁能源蓬勃发展，但世界仍将升温2.8度",
+    "url": "https://oilprice.com/Energy/Energy-General/World-Is-on-Track-for-Up-to-28-Degrees-of-Warming-Despite-Clean-Energy-Boom.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-25T17:00:00+00:00"
+  },
   "aa205aba3953": {
     "id": "aa205aba3953",
     "title_en": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
@@ -4435,68 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-19T11:30:00+00:00"
-  },
-  "8503f4270fd0": {
-    "id": "8503f4270fd0",
-    "title_en": "Taiwanese firm to make floating PV components in Philippines",
-    "title_zh": "台湾公司将在菲律宾生产浮动光伏组件",
-    "url": "https://www.pv-magazine.com/2026/10/19/taiwanese-firm-to-make-floating-pv-components-in-philippines/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T11:15:00+00:00"
-  },
-  "eab2d1dc99af": {
-    "id": "eab2d1dc99af",
-    "title_en": "Politicians propose plug-in solar, batteries in Norway",
-    "title_zh": "挪威政客提出插电式太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/10/19/politicians-propose-plug-in-solar-batteries-in-norway/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T11:15:00+00:00"
-  },
-  "9f0d6d0a90bb": {
-    "id": "9f0d6d0a90bb",
-    "title_en": "Acciona Energía begins operations at Croatian wind farms",
-    "title_zh": "Acciona Energía开始在克罗地亚风电场运营",
-    "url": "https://www.windpowermonthly.com/article/1972856/acciona-energia-begins-operations-croatian-wind-farms",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-19T10:58:45+00:00"
-  },
-  "677b62649908": {
-    "id": "677b62649908",
-    "title_en": "Wood Thilsted Secures New Contract on Outer Dowsing Offshore Wind Farm",
-    "title_zh": "Wood Thilsted获得外Dowsing海上风电场新合同",
-    "url": "https://offshorewind.biz/2026/10/19/wood-thilsted-secures-new-contract-on-outer-dowsing-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-19T10:47:08+00:00"
-  },
-  "d5c7b41136e8": {
-    "id": "d5c7b41136e8",
-    "title_en": "Japan’s Electricity Prices Surge 25% as LNG and Coal Costs Soar",
-    "title_zh": "随着液化天然气和煤炭成本飙升，日本电价飙升25%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Electricity-Prices-Surge-25-as-LNG-and-Coal-Costs-Soar.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-19T10:30:00+00:00"
-  },
-  "12127b56142f": {
-    "id": "12127b56142f",
-    "title_en": "Vattenfall markets balancing power to grid from offshore wind farm",
-    "title_zh": "Vattenfall市场平衡海上风电场向电网供电",
-    "url": "https://www.windpowermonthly.com/article/1972846/vattenfall-markets-balancing-power-grid-offshore-wind-farm",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-19T10:29:34+00:00"
-  },
-  "47afe17646ed": {
-    "id": "47afe17646ed",
-    "title_en": "Norfund, Impact Fund Denmark agree to invest in Ixus Bugallon project",
-    "title_zh": "Norfund、丹麦Impact Fund同意投资Ixus Bugallon项目",
-    "url": "https://www.energymonitor.ai/news/norfund-impact-fund-invest-ixus-bugallon/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-19T10:07:36+00:00"
   }
 }
