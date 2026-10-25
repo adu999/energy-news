@@ -1,4 +1,13 @@
 {
+  "aa205aba3953": {
+    "id": "aa205aba3953",
+    "title_en": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
+    "title_zh": "COP31东道主敦促北约国家在气候变化上的支出超过国防支出",
+    "url": "https://oilprice.com/Energy/Energy-General/COP31-Host-Urges-NATO-Nations-to-Spend-More-on-Climate-Than-Defense.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-25T15:00:00+00:00"
+  },
   "a1af51ec2984": {
     "id": "a1af51ec2984",
     "title_en": "Invest in solar and earn $3,000 a day?",
@@ -7,6 +16,15 @@
     "source": "CleanTechnica",
     "category": "综合",
     "pub_ts": "2026-10-25T08:20:44+00:00"
+  },
+  "fac0cdfb316f": {
+    "id": "fac0cdfb316f",
+    "title_en": "E-quipment highlight: the highest-rated mowers on Amazon are ELECTRIC (2026)",
+    "title_zh": "电子设备亮点：亚马逊评价最高的割草机是ELECTRIC（2026）",
+    "url": "https://electrek.co/2026/10/25/e-quipment-highlight-the-highest-rated-mowers-on-amazon-are-electric-2026/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-25T08:01:00+00:00"
   },
   "9317ad15055b": {
     "id": "9317ad15055b",
@@ -4480,23 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-10-19T10:07:36+00:00"
-  },
-  "14515d0ec46e": {
-    "id": "14515d0ec46e",
-    "title_en": "ACME Solar signs 300MW peak power PPA with India’s SECI",
-    "title_zh": "ACME Solar与印度SECI签署300MW峰值电力购电协议",
-    "url": "https://www.energymonitor.ai/news/acme-solar-300mw-ppa-seci/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-19T09:45:49+00:00"
-  },
-  "2fe173cf033f": {
-    "id": "2fe173cf033f",
-    "title_en": "Bangladesh plans 70 MW solar plant at coal power station",
-    "title_zh": "孟加拉国计划在燃煤发电站建设70兆瓦的太阳能发电厂",
-    "url": "https://www.pv-magazine.com/2026/10/19/bangladesh-plans-70-mw-solar-plant-at-coal-power-station/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T09:30:00+00:00"
   }
 }
