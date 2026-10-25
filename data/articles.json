@@ -1,4 +1,22 @@
 {
+  "a1af51ec2984": {
+    "id": "a1af51ec2984",
+    "title_en": "Invest in solar and earn $3,000 a day?",
+    "title_zh": "投资太阳能，每天赚3000美元？",
+    "url": "https://cleantechnica.com/2026/10/25/invest-in-solar-and-earn-3000-a-day/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-25T08:20:44+00:00"
+  },
+  "9317ad15055b": {
+    "id": "9317ad15055b",
+    "title_en": "Police pull over two men riding an electric couch down the street",
+    "title_zh": "警察在街上拦住了两名坐在电动沙发上的男子",
+    "url": "https://electrek.co/2026/10/24/police-pull-over-two-men-riding-an-electric-couch-down-the-street/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-25T05:47:56+00:00"
+  },
   "4a78f41e8cf8": {
     "id": "4a78f41e8cf8",
     "title_en": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
@@ -4480,23 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-19T09:30:00+00:00"
-  },
-  "8bc5b72c9ab5": {
-    "id": "8bc5b72c9ab5",
-    "title_en": "China's Coal Production Slumps 6.8% as Winter Supply Fears Grow",
-    "title_zh": "随着冬季供应担忧加剧，中国煤炭产量暴跌6.8%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Production-Slumps-68-as-Winter-Supply-Fears-Grow.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-19T09:30:00+00:00"
-  },
-  "af489c54c6e0": {
-    "id": "af489c54c6e0",
-    "title_en": "Indonesian president instructs transformation of power utility",
-    "title_zh": "印尼总统指示电力公司转型",
-    "url": "https://www.pv-magazine.com/2026/10/19/indonesian-president-instructs-transformation-of-power-utility/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-19T09:07:38+00:00"
   }
 }
