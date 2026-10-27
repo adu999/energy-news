@@ -1,4 +1,58 @@
 {
+  "79cee02b924b": {
+    "id": "79cee02b924b",
+    "title_en": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
+    "title_zh": "英国考虑废弃其最大的未开发油田，石油价格超过100美元",
+    "url": "https://oilprice.com/Energy/Crude-Oil/UK-Weighs-Scrapping-Its-Largest-Untapped-Oilfield-With-Oil-Over-100.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-27T00:00:00+00:00"
+  },
+  "fcef7afcb0dd": {
+    "id": "fcef7afcb0dd",
+    "title_en": "Beijing Pushes Domestic Oil Production as Iranian Supply Dries Up",
+    "title_zh": "随着伊朗供应减少，北京推动国内石油生产",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Beijing-Pushes-Domestic-Oil-Production-as-Iranian-Supply-Dries-Up.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-26T23:00:00+00:00"
+  },
+  "46877503acb9": {
+    "id": "46877503acb9",
+    "title_en": "Alleged Russian Funding Prompts Executive Exodus at U.S. LNG Firm",
+    "title_zh": "据称俄罗斯的资助促使美国液化天然气公司高管离职",
+    "url": "https://oilprice.com/Energy/Natural-Gas/Alleged-Russian-Funding-Prompts-Executive-Exodus-at-US-LNG-Firm.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-26T22:00:00+00:00"
+  },
+  "455001b03788": {
+    "id": "455001b03788",
+    "title_en": "BYD’s ultra-luxury EV could debut next week with solid-state batteries and much more",
+    "title_zh": "比亚迪的超豪华电动汽车可能会在下周首次亮相，配备固态电池等",
+    "url": "https://electrek.co/2026/10/26/byds-ultra-luxury-ev-may-debut-next-week-with-solid-state-batteries/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-26T21:22:26+00:00"
+  },
+  "c60aa1ee93f3": {
+    "id": "c60aa1ee93f3",
+    "title_en": "Tesla appears to be preparing to sell US-built Model 3s in Canada again",
+    "title_zh": "特斯拉似乎准备再次在加拿大销售美国制造的Model 3",
+    "url": "https://electrek.co/2026/10/26/tesla-us-built-model-3-canada-return-584-km/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-26T21:18:39+00:00"
+  },
+  "c9e319087868": {
+    "id": "c9e319087868",
+    "title_en": "Asia Needs $1 Trillion a Year to Avoid the Next Energy Shock",
+    "title_zh": "亚洲每年需要1万亿美元来避免下一次能源冲击",
+    "url": "https://oilprice.com/Energy/Energy-General/Asia-Needs-1-Trillion-a-Year-to-Avoid-the-Next-Energy-Shock.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-26T21:00:00+00:00"
+  },
   "f5cb8217de09": {
     "id": "f5cb8217de09",
     "title_en": "Maryland state renewables program hopes to fill gap left by OBBBA",
@@ -4444,59 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-10-20T09:43:13+00:00"
-  },
-  "7613884cfcbc": {
-    "id": "7613884cfcbc",
-    "title_en": "Transition Metals Outlook 2026",
-    "title_zh": "2026年过渡金属展望",
-    "url": "https://about.bnef.com/insights/commodities/transition-metal-outlook/",
-    "source": "Bloomberg NEF",
-    "category": "综合",
-    "pub_ts": "2026-10-20T09:38:00+00:00"
-  },
-  "8367441763a4": {
-    "id": "8367441763a4",
-    "title_en": "Oil-Rich Alberta Votes to Stay in Canada in Historic Referendum",
-    "title_zh": "石油资源丰富的阿尔伯塔省在历史性公投中投票决定留在加拿大",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rich-Alberta-Votes-to-Stay-in-Canada-in-Historic-Referendum.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-20T09:30:00+00:00"
-  },
-  "278c3b22e797": {
-    "id": "278c3b22e797",
-    "title_en": "Trump files request to reconsider Maryland offshore wind project permit",
-    "title_zh": "特朗普要求重新考虑马里兰州海上风电项目许可",
-    "url": "https://www.windpowermonthly.com/article/1972963/trump-files-request-reconsider-maryland-offshore-wind-project-permit",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-20T09:27:35+00:00"
-  },
-  "d3b867c9298c": {
-    "id": "d3b867c9298c",
-    "title_en": "New Zealand Opens First Offshore Wind Feasibility Permit Round",
-    "title_zh": "新西兰开启第一轮海上风电可行性许可",
-    "url": "https://offshorewind.biz/2026/10/20/new-zealand-opens-first-offshore-wind-feasibility-permit-round",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-20T08:26:37+00:00"
-  },
-  "bb392f1a8516": {
-    "id": "bb392f1a8516",
-    "title_en": "Trump Announces $8 Billion in Emergency Diesel Relief for U.S. Farmers",
-    "title_zh": "特朗普宣布为美国农民提供80亿美元的紧急柴油救济",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-8-Billion-in-Emergency-Diesel-Relief-for-US-Farmers.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-20T08:15:00+00:00"
-  },
-  "0f4bb0e0bbb6": {
-    "id": "0f4bb0e0bbb6",
-    "title_en": "Dutch development bank finances 50 MW of solar in Ivory Coast",
-    "title_zh": "荷兰开发银行为科特迪瓦50兆瓦的太阳能项目提供资金",
-    "url": "https://www.pv-magazine.com/2026/10/20/dutch-bank-finances-50-mw-of-solar-in-ivory-coast/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T07:59:48+00:00"
   }
 }
