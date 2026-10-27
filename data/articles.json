@@ -1,4 +1,184 @@
 {
+  "b5414d50c71e": {
+    "id": "b5414d50c71e",
+    "title_en": "Indonesian utility unit uses local Trina modules for Bali solar project",
+    "title_zh": "印尼公用事业单位在巴厘岛太阳能项目中使用当地天合光能组件",
+    "url": "https://www.pv-magazine.com/2026/10/27/indonesian-utility-unit-uses-local-trina-modules-for-bali-solar-project/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T08:30:00+00:00"
+  },
+  "ec76b3e461eb": {
+    "id": "ec76b3e461eb",
+    "title_en": "IEA Warns of Dangerous Concentration in Global Clean Energy Supply Chains",
+    "title_zh": "国际能源署警告全球清洁能源供应链中的危险集中",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-of-Dangerous-Concentration-in-Global-Clean-Energy-Supply-Chains.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-27T08:30:00+00:00"
+  },
+  "055fab7716f1": {
+    "id": "055fab7716f1",
+    "title_en": "Chinese scientists seek to reduce silver consumption in copper–silver metallization pastes",
+    "title_zh": "中国科学家寻求减少铜-银金属化浆料中的银消耗",
+    "url": "https://www.pv-magazine.com/2026/10/27/chinese-scientists-seek-to-reduce-silver-consumption-in-copper-silver-metallization-pastes/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T08:00:00+00:00"
+  },
+  "082b0e022c8d": {
+    "id": "082b0e022c8d",
+    "title_en": "Trinasolar targets rooftops with ‘Australian-exclusive’ full-black module",
+    "title_zh": "Trinasolar采用“澳大利亚独家”全黑模块瞄准屋顶",
+    "url": "https://www.pv-magazine.com/2026/10/27/trinasolar-targets-rooftops-with-australian-exclusive-full-black-module/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T07:49:13+00:00"
+  },
+  "451f0133e1e4": {
+    "id": "451f0133e1e4",
+    "title_en": "Vikram Solar advances 9 GW TOPCon cell plant in India",
+    "title_zh": "Vikram Solar在印度推进9吉瓦TOPCon电池厂",
+    "url": "https://www.pv-magazine.com/2026/10/27/vikram-solar-advances-9-gw-topcon-cell-plant-in-gangaikondan-first-cells-expected-in-december/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T07:42:41+00:00"
+  },
+  "6fd74032dac0": {
+    "id": "6fd74032dac0",
+    "title_en": "A brief history of US solar",
+    "title_zh": "美国太阳能简史",
+    "url": "https://www.pv-magazine.com/2026/10/27/a-brief-history-of-solar-in-the-u-s/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T07:30:00+00:00"
+  },
+  "07fecaaf5dad": {
+    "id": "07fecaaf5dad",
+    "title_en": "India’s Oil Buyers Squeezed by $123 Crude and Weak Rupee",
+    "title_zh": "印度石油买家受到123美元原油和弱势卢比的挤压",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Buyers-Squeezed-by-123-Crude-and-Weak-Rupee.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-27T07:30:00+00:00"
+  },
+  "061f856ec73e": {
+    "id": "061f856ec73e",
+    "title_en": "Price hikes aren’t all that’s at stake in FirstEnergy Ohio’s rate case",
+    "title_zh": "俄亥俄州FirstEnergy的利率案中，价格上涨并不是唯一的利害关系",
+    "url": "https://www.canarymedia.com/articles/energy-equity/price-hikesfirstenergy-ohio-rate-case",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-27T07:30:00+00:00"
+  },
+  "08bed48ae9ec": {
+    "id": "08bed48ae9ec",
+    "title_en": "Toshiba pairs 20-minute SCiB power-type battery with conventional 7.6-hour BESS for Mongolian grid",
+    "title_zh": "东芝将20分钟SCiB动力型电池与传统的7.6小时BESS配对，用于蒙古电网",
+    "url": "https://www.pv-magazine.com/2026/10/27/toshiba-pairs-20-minute-scib-power-type-battery-with-conventional-7-6-hour-bess-for-mongolian-grid/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T06:30:00+00:00"
+  },
+  "31cae586bbe1": {
+    "id": "31cae586bbe1",
+    "title_en": "Oil Prices Drop Despite Threat of New U.S. Strikes on Iran",
+    "title_zh": "尽管美国威胁要对伊朗发动新的打击，但油价仍下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Threat-of-New-US-Strikes-on-Iran.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-27T06:15:57+00:00"
+  },
+  "de45e49b3854": {
+    "id": "de45e49b3854",
+    "title_en": "Floating renewables to power data centers",
+    "title_zh": "浮动可再生能源为数据中心供电",
+    "url": "https://www.pv-magazine.com/2026/10/27/floating-renewables-to-power-data-centers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T05:00:00+00:00"
+  },
+  "534ca60d2aa7": {
+    "id": "534ca60d2aa7",
+    "title_en": "Wouldn’t It Be Funny If Audi Manufactures EVs In The US?",
+    "title_zh": "如果奥迪在美国生产电动汽车，那岂不是很有趣？",
+    "url": "https://cleantechnica.com/2026/10/26/audi-factory-us-plugin-hybrid-evs-trump-celebrates/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-27T03:48:44+00:00"
+  },
+  "fa664b924347": {
+    "id": "fa664b924347",
+    "title_en": "From Barrel to Battery: What Will Europe’s Clean Car Debate Decide",
+    "title_zh": "从桶到电池：欧洲的清洁汽车辩论将决定什么",
+    "url": "https://cleantechnica.com/2026/10/26/from-barrel-to-battery-what-will-europes-clean-car-debate-decide/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-27T03:15:26+00:00"
+  },
+  "14f7a16099c5": {
+    "id": "14f7a16099c5",
+    "title_en": "New Report Keeps Tabs on ACC’s Utility Bias that Ends up Hurting Wallets",
+    "title_zh": "新报告揭示了ACC的公用事业偏见，最终损害了钱包",
+    "url": "https://cleantechnica.com/2026/10/26/new-report-keeps-tabs-on-accs-utility-bias-that-ends-up-hurting-wallets/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-27T02:53:28+00:00"
+  },
+  "48e30c4ac9d7": {
+    "id": "48e30c4ac9d7",
+    "title_en": "The EU Is Showing How Regional Maritime Rules Can Support A Global Framework At The IMO",
+    "title_zh": "欧盟正在展示区域海事规则如何支持国际海事组织的全球框架",
+    "url": "https://cleantechnica.com/2026/10/26/the-eu-is-showing-how-regional-maritime-rules-can-support-a-global-framework-at-the-imo/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-27T02:45:49+00:00"
+  },
+  "b06cb07feb86": {
+    "id": "b06cb07feb86",
+    "title_en": "How the Swiss Want to Travel to the UK",
+    "title_zh": "瑞士人如何前往英国",
+    "url": "https://cleantechnica.com/2026/10/26/how-the-swiss-want-to-travel-to-the-uk/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-27T02:38:08+00:00"
+  },
+  "6dd0a65d7dc5": {
+    "id": "6dd0a65d7dc5",
+    "title_en": "New Whitepaper Shows How Grid Operators & Energy Regulators Can Use Solar & Storage to Secure the Grid, Boost Reliability & Reduce Energy Costs",
+    "title_zh": "新白皮书展示了电网运营商和能源监管机构如何利用太阳能和储能来保护电网，提高可靠性并降低能源成本",
+    "url": "https://cleantechnica.com/2026/10/26/new-whitepaper-shows-how-grid-operators-energy-regulators-can-use-solar-storage-to-secure-the-grid-boost-reliability-reduce-energy-costs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-27T02:26:46+00:00"
+  },
+  "cc063712be27": {
+    "id": "cc063712be27",
+    "title_en": "Data centres could add AU$40 billion to Australian power costs, warns Smart Energy Council",
+    "title_zh": "智能能源委员会警告称，数据中心可能会给澳大利亚的电力成本增加400亿澳元",
+    "url": "https://www.pv-tech.org/data-centres-could-add-au40-billion-to-australian-power-costs-warns-smart-energy-council/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-10-27T01:39:50+00:00"
+  },
+  "c36169052ee5": {
+    "id": "c36169052ee5",
+    "title_en": "Philippines BESS revenue streams will shift to arbitrage after initial reserve market reliance: Aurora Energy Research",
+    "title_zh": "菲律宾BESS的收入来源将在最初的储备市场依赖后转向套利：Aurora Energy Research",
+    "url": "https://www.energy-storage.news/philippines-bess-revenue-streams-will-shift-to-arbitrage-after-initial-reserve-market-reliance-aurora-energy-research/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-27T01:37:32+00:00"
+  },
+  "9b024e9cdf00": {
+    "id": "9b024e9cdf00",
+    "title_en": "The 2027 Kia EV6 is over $8,000 more than the new EV3",
+    "title_zh": "2027款起亚EV6比新款EV3多8000美元",
+    "url": "https://electrek.co/2026/10/26/2027-kia-ev6-over-8000-more-than-new-ev3/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-27T00:39:22+00:00"
+  },
   "79cee02b924b": {
     "id": "79cee02b924b",
     "title_en": "UK Weighs Scrapping Its Largest Untapped Oilfield With Oil Over $100",
@@ -4318,185 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-10-20T12:24:05+00:00"
-  },
-  "206e69f0a444": {
-    "id": "206e69f0a444",
-    "title_en": "Elevated agrivoltaics for olive cultivation",
-    "title_zh": "提高橄榄种植的农业光伏发电",
-    "url": "https://www.pv-magazine.com/2026/10/20/elevated-agrivoltaics-for-olive-cultivation/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T12:20:00+00:00"
-  },
-  "12765f4ed125": {
-    "id": "12765f4ed125",
-    "title_en": "126-MW community solar portfolio being developed in Illinois, Maryland",
-    "title_zh": "马里兰州伊利诺伊州正在开发126兆瓦的社区太阳能组合",
-    "url": "https://www.solarpowerworldonline.com/2026/10/126-mw-community-solar-portfolio-being-developed-in-illinois-maryland/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T12:19:08+00:00"
-  },
-  "5345459c6dde": {
-    "id": "5345459c6dde",
-    "title_en": "Poland eases connection rules for home batteries up to 2.2x PV power",
-    "title_zh": "波兰放宽了高达2.2倍光伏功率的家用电池连接规则",
-    "url": "https://www.pv-magazine.com/2026/10/20/poland-eases-connection-rules-for-home-batteries-up-to-2-2x-pv-power/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T12:10:00+00:00"
-  },
-  "b523c2d47dba": {
-    "id": "b523c2d47dba",
-    "title_en": "Italy awards over US$860 million to deploy 505MW of rooftop agriPV capacity",
-    "title_zh": "意大利斥资8.6亿美元部署505MW屋顶农业光伏容量",
-    "url": "https://www.pv-tech.org/italy-awards-over-us860-million-deploy-505mw-rooftop-agripv-capacity/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T12:04:26+00:00"
-  },
-  "b4cfedc76db3": {
-    "id": "b4cfedc76db3",
-    "title_en": "The Treason Party Soldiers On, But At Least The War On EVs Is Fizzling Out",
-    "title_zh": "叛国党仍在继续，但至少电动汽车战争正在结束",
-    "url": "https://cleantechnica.com/2026/10/20/ev-sales-us-trump-treason-russia-putin-puppet/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-20T11:55:55+00:00"
-  },
-  "b3a887f82c68": {
-    "id": "b3a887f82c68",
-    "title_en": "Copper Needs $332 Billion in New Mines to Avoid Deficit, BloombergNEF Says",
-    "title_zh": "BloombergNEF表示，铜需要3320亿美元的新矿山来避免赤字",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Copper-Needs-332-Billion-in-New-Mines-to-Avoid-Deficit-BloombergNEF-Says.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-20T11:30:00+00:00"
-  },
-  "6da6bdf7d219": {
-    "id": "6da6bdf7d219",
-    "title_en": "Nordex: We had been struggling, but we have turned the company around",
-    "title_zh": "Nordex：我们一直在苦苦挣扎，但我们已经扭转了公司的局面",
-    "url": "https://www.windpowermonthly.com/article/1972979/nordex-struggling-turned-company-around",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-20T11:16:57+00:00"
-  },
-  "e47a94ca789d": {
-    "id": "e47a94ca789d",
-    "title_en": "New framework prioritizes fire protection measures for BIPV façades",
-    "title_zh": "新框架优先考虑BIPV外墙的消防措施",
-    "url": "https://www.pv-magazine.com/2026/10/20/new-framework-prioritizes-fire-protection-measures-for-bipv-facades/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T11:15:18+00:00"
-  },
-  "91965f342a2a": {
-    "id": "91965f342a2a",
-    "title_en": "Terna Energy Plans 45 MW Floating Wind Pilot in Greece",
-    "title_zh": "Terna Energy计划在希腊进行45兆瓦的浮式风力试验",
-    "url": "https://offshorewind.biz/2026/10/20/terna-energy-plans-45-mw-floating-wind-pilot-in-greece",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-20T11:10:05+00:00"
-  },
-  "8893c2bc637f": {
-    "id": "8893c2bc637f",
-    "title_en": "Norwegian, Danish funds invest in 500 MW Philippine solar project",
-    "title_zh": "挪威、丹麦基金投资菲律宾500兆瓦太阳能项目",
-    "url": "https://www.pv-magazine.com/2026/10/20/norwegian-danish-funds-invest-in-500-mw-philippine-solar-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T10:59:14+00:00"
-  },
-  "801800445ddf": {
-    "id": "801800445ddf",
-    "title_en": "Eos releases preliminary Q3 results, reports record quarterly revenue as gross margin losses narrow",
-    "title_zh": "Eos公布第三季度初步业绩，报告季度收入创纪录，毛利率损失收窄",
-    "url": "https://www.energy-storage.news/eos-releases-preliminary-q3-results-reports-record-quarterly-revenue-as-gross-margin-losses-narrow/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-20T10:50:24+00:00"
-  },
-  "1ba77d7bde1e": {
-    "id": "1ba77d7bde1e",
-    "title_en": "Ørsted completes BESS project next to Hornsea Three",
-    "title_zh": "Ørsted完成Hornsea Three旁边的BESS项目",
-    "url": "https://www.windpowermonthly.com/article/1972977/orsted-completes-bess-project-next-hornsea-three",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-20T10:38:26+00:00"
-  },
-  "d364fe15ff21": {
-    "id": "d364fe15ff21",
-    "title_en": "Dominion Energy files IRP with plans to build 3.5GW of BESS in PJM over next 20 years",
-    "title_zh": "Dominion Energy向IRP提交了未来20年在PJM建造3.5GW BESS的计划",
-    "url": "https://www.energy-storage.news/dominion-energy-files-irp-with-plans-to-build-3-5gw-of-bess-in-pjm-over-next-20-years/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-20T10:30:29+00:00"
-  },
-  "1616341ed6d6": {
-    "id": "1616341ed6d6",
-    "title_en": "China Moves to Rein In Its Booming Hydrogen Industry",
-    "title_zh": "中国采取措施控制其蓬勃发展的氢能产业",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Moves-to-Rein-In-Its-Booming-Hydrogen-Industry.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-20T10:30:00+00:00"
-  },
-  "42f37bf365a4": {
-    "id": "42f37bf365a4",
-    "title_en": "Developer Ikigai partners with ‘high-density hydro’ LDES tech firm RheEnergise for Italy projects",
-    "title_zh": "开发商Ikigai与“高密度水电”LDES技术公司RheEnergyse合作，在意大利开展项目",
-    "url": "https://www.energy-storage.news/developer-ikigai-partners-with-high-density-hydro-ldes-tech-firm-rheenergise-for-italy-projects/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-20T10:26:35+00:00"
-  },
-  "6a90c37d29ad": {
-    "id": "6a90c37d29ad",
-    "title_en": "NYSERDA finalises allocations for US$200 million of distributed solar capacity in New York",
-    "title_zh": "NYSERDA最终确定纽约2亿美元分布式太阳能容量的分配",
-    "url": "https://www.pv-tech.org/nyserda-finalises-allocations-us200-million-distributed-solar-capacity-new-york/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T10:22:28+00:00"
-  },
-  "cb5e5f5c7076": {
-    "id": "cb5e5f5c7076",
-    "title_en": "Canada to invest $100 million into Nova Scotia offshore wind",
-    "title_zh": "加拿大将向新斯科舍省海上风电投资1亿美元",
-    "url": "https://www.windpowermonthly.com/article/1972966/canada-invest-100-million-nova-scotia-offshore-wind",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-20T10:04:30+00:00"
-  },
-  "9c06e12a858e": {
-    "id": "9c06e12a858e",
-    "title_en": "Brazil power reforms to accelerate shift to renewables, says GlobalData",
-    "title_zh": "GlobalData表示，巴西电力改革将加快向可再生能源的转变",
-    "url": "https://www.energymonitor.ai/analysis/brazil-power-reforms-to-accelerate-shift-to-renewables-says-globaldata/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-20T09:55:00+00:00"
-  },
-  "658c3924d67c": {
-    "id": "658c3924d67c",
-    "title_en": "German DSO cuts residential solar grid connection approval time to 5 minutes",
-    "title_zh": "德国配电系统运营商将住宅太阳能并网审批时间缩短至5分钟",
-    "url": "https://www.pv-magazine.com/2026/10/20/german-dso-cuts-residential-solar-grid-connection-approval-time-to-5-minutes/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-20T09:50:00+00:00"
-  },
-  "cbeb37b030e6": {
-    "id": "cbeb37b030e6",
-    "title_en": "Kumagai Gumi Joins DemoSATH as Floating Wind Test Project Extended Through 2027",
-    "title_zh": "Kumagai Gumi加入DemoSATH作为浮风测试项目延长至2027年",
-    "url": "https://offshorewind.biz/2026/10/20/kumagai-gumi-joins-demosath-as-floating-wind-test-project-extended-through-2027",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-20T09:43:13+00:00"
   }
 }
