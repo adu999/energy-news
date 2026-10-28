@@ -1,4 +1,94 @@
 {
+  "6149fdbc4974": {
+    "id": "6149fdbc4974",
+    "title_en": "CATL holds global launch for 9MWh TENER+ BESS at All-Energy Australia, signs PCS agreement with Hitachi Energy",
+    "title_zh": "CATL在澳大利亚All Energy举行9MWh TENER+BESS全球发布会，与日立能源签署PCS协议",
+    "url": "https://www.energy-storage.news/catl-holds-global-launch-for-9mwh-tener-bess-at-all-energy-australia-signs-pcs-agreement-with-hitachi-energy/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-28T04:20:00+00:00"
+  },
+  "c4941b2816c6": {
+    "id": "c4941b2816c6",
+    "title_en": "Oil Prices Climb as Houthi Attacks Reignite Saudi Supply Fears",
+    "title_zh": "胡塞袭击再次引发沙特供应担忧，油价攀升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Houthi-Attacks-Reignite-Saudi-Supply-Fears.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T03:53:00+00:00"
+  },
+  "2cad96237563": {
+    "id": "2cad96237563",
+    "title_en": "Waymo Growing Further",
+    "title_zh": "Waymo进一步发展",
+    "url": "https://cleantechnica.com/2026/10/27/waymo-growing-more-in-5-places/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-28T02:39:28+00:00"
+  },
+  "15e67b90ef9c": {
+    "id": "15e67b90ef9c",
+    "title_en": "Connecticut Advocates, Elected Officials, & Public Health Experts Speak Out Against High Asthma Rates",
+    "title_zh": "康涅狄格州的倡导者、民选官员和公共卫生专家公开反对高哮喘发病率",
+    "url": "https://cleantechnica.com/2026/10/27/connecticut-advocates-elected-officials-public-health-experts-speak-out-against-high-asthma-rates/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-28T02:06:12+00:00"
+  },
+  "d6170f9a73c4": {
+    "id": "d6170f9a73c4",
+    "title_en": "Central Heat Pump Water Heaters Are On The Up & Up",
+    "title_zh": "中央热泵热水器正在蓬勃发展",
+    "url": "https://cleantechnica.com/2026/10/27/central-heat-pump-water-heaters-are-on-the-up-up/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-28T01:16:20+00:00"
+  },
+  "bc5044996368": {
+    "id": "bc5044996368",
+    "title_en": "America Produces Less Than 1% of the Rare Earth Magnets It Needs",
+    "title_zh": "美国生产的稀土磁铁不到其所需的1%",
+    "url": "https://oilprice.com/Energy/Energy-General/America-Produces-Less-Than-1-of-the-Rare-Earth-Magnets-It-Needs.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T00:00:00+00:00"
+  },
+  "e97edd1946ba": {
+    "id": "e97edd1946ba",
+    "title_en": "DOE Offers Constellation Up to $5B Loan for 1.1 GW of Nuclear Uprates at Eight Plants",
+    "title_zh": "美国能源部向Constellation提供高达50亿美元的贷款，用于八座核电站1.1吉瓦的核电升级",
+    "url": "https://www.powermag.com/doe-offers-constellation-up-to-5b-loan-for-1-1-gw-of-nuclear-uprates-at-eight-plants/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-10-27T23:43:23+00:00"
+  },
+  "6c4cc9ce1490": {
+    "id": "6c4cc9ce1490",
+    "title_en": "Americans Hit Hardest by War-Driven Oil Price Surge",
+    "title_zh": "美国受战争驱动的油价飙升影响最严重",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Americans-Hit-Hardest-by-War-Driven-Oil-Price-Surge.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-27T23:00:00+00:00"
+  },
+  "107bb1d7fdbc": {
+    "id": "107bb1d7fdbc",
+    "title_en": "Renewables to reach 40% of total generating capacity, beat gas within a year – EIA",
+    "title_zh": "可再生能源将在一年内达到总发电量的40%，击败天然气——环境影响评估",
+    "url": "https://electrek.co/2026/10/27/renewables-to-reach-40-of-total-generating-capacity-beat-gas-within-a-year-eia/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-27T22:24:38+00:00"
+  },
+  "4fc2a7e5d99c": {
+    "id": "4fc2a7e5d99c",
+    "title_en": "Will Rubio’s Jamnagar Move Permanently Break The Russia-India Oil Axis?",
+    "title_zh": "卢比奥的贾姆讷格尔行动会永久打破俄印石油轴心吗？",
+    "url": "https://oilprice.com/Energy/Energy-General/Will-Rubios-Jamnagar-Move-Permanently-Break-The-Russia-India-Oil-Axis.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-27T22:00:00+00:00"
+  },
   "696fb7aa4494": {
     "id": "696fb7aa4494",
     "title_en": "BYD’s $10,000 EV blows a tire at nearly 90 mph — Watch what happens",
@@ -692,6 +782,15 @@
     "category": "风电",
     "pub_ts": "2026-10-27T10:13:26+00:00"
   },
+  "2f62526fde89": {
+    "id": "2f62526fde89",
+    "title_en": "Minesto, Morteza Capital sign MoU to develop tidal energy in Maldives",
+    "title_zh": "Minesto和Morteza Capital签署谅解备忘录，在马尔代夫开发潮汐能",
+    "url": "https://www.energymonitor.ai/news/minesto-morteza-capital-sign-mou/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-10-27T09:58:58+00:00"
+  },
   "cfceb9f78ee2": {
     "id": "cfceb9f78ee2",
     "title_en": "ENNA Solar to acquire Medgidia solar-plus-storage project in Romania",
@@ -826,6 +925,15 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-10-27T07:30:00+00:00"
+  },
+  "b6ee61645692": {
+    "id": "b6ee61645692",
+    "title_en": "Singapore grants conditional approval for VMS renewable electricity project",
+    "title_zh": "新加坡有条件批准VMS可再生电力项目",
+    "url": "https://www.energymonitor.ai/news/singapore-conditional-approval-vms/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-10-27T06:59:00+00:00"
   },
   "08bed48ae9ec": {
     "id": "08bed48ae9ec",
@@ -4390,113 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-10-21T10:08:36+00:00"
-  },
-  "cd5dfe59329d": {
-    "id": "cd5dfe59329d",
-    "title_en": "US Department of Energy allocates $967m to modernise power grid",
-    "title_zh": "美国能源部拨款9.67亿美元用于电网现代化",
-    "url": "https://www.energymonitor.ai/news/us-doe-allocates-967m-power-grid/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-21T10:03:00+00:00"
-  },
-  "8312ea5eaaa1": {
-    "id": "8312ea5eaaa1",
-    "title_en": "Türkiye allows higher-powered batteries behind existing grid connections",
-    "title_zh": "Türkiye允许在现有电网连接后使用更高功率的电池",
-    "url": "https://www.pv-magazine.com/2026/10/21/turkiye-allows-higher-powered-batteries-behind-existing-grid-connections/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T10:00:00+00:00"
-  },
-  "7614b6b19383": {
-    "id": "7614b6b19383",
-    "title_en": "EBRD arranges $265m loan for 1.2GW Nefer Minya project in Egypt",
-    "title_zh": "欧洲复兴开发银行为埃及1.2GW Nefer Minya项目安排2.65亿美元贷款",
-    "url": "https://www.energymonitor.ai/news/ebrd-265m-loan-nefer-minya/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-10-21T09:54:40+00:00"
-  },
-  "5c8b6f9f7ab1": {
-    "id": "5c8b6f9f7ab1",
-    "title_en": "Enertrag and Axpo reach FID, order equipment on French BESS projects totalling 239MWh",
-    "title_zh": "Enertrag和Axpo达成FID，订购法国BESS项目的设备，总计239MWh",
-    "url": "https://www.energy-storage.news/enertrag-and-axpo-reach-fid-order-equipment-on-french-bess-projects-totalling-239mwh/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-21T09:35:04+00:00"
-  },
-  "73b74c3a72d9": {
-    "id": "73b74c3a72d9",
-    "title_en": "Pilot timber-hybrid wind turbine tower installed in Austria",
-    "title_zh": "奥地利安装了试点木材混合风力涡轮机塔架",
-    "url": "https://www.windpowermonthly.com/article/1973062/pilot-timber-hybrid-wind-turbine-tower-installed-austria",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-21T09:30:02+00:00"
-  },
-  "4a77c41a1173": {
-    "id": "4a77c41a1173",
-    "title_en": "Zambia surpasses 1 GW solar milestone",
-    "title_zh": "赞比亚突破1GW太阳能里程碑",
-    "url": "https://www.pv-magazine.com/2026/10/21/zambia-surpasses-1-gw-solar-milestone/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T09:30:00+00:00"
-  },
-  "eb3799bb9a21": {
-    "id": "eb3799bb9a21",
-    "title_en": "Goldman Sachs Warns of New Oil Price Shock as Tanker Rates Soar",
-    "title_zh": "随着油轮价格飙升，高盛警告新的油价冲击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Warns-of-New-Oil-Price-Shock-as-Tanker-Rates-Soar.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T09:30:00+00:00"
-  },
-  "6e087787693b": {
-    "id": "6e087787693b",
-    "title_en": "Iberdrola’s profits boosted as Galán hails ‘huge’ growth in networks",
-    "title_zh": "Galán称赞网络“巨大”增长，Iberdrola的利润大幅增长",
-    "url": "https://www.windpowermonthly.com/article/1973063/iberdrolas-profits-boosted-galan-hails-huge-growth-networks",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-10-21T09:19:08+00:00"
-  },
-  "3573b4342d22": {
-    "id": "3573b4342d22",
-    "title_en": "Engineering discipline, bankability and operational performance become differentiators as India’s BESS market ‘faces biggest test’",
-    "title_zh": "随着印度BESS市场“面临最大考验”，工程纪律、银行可融资性和运营绩效成为差异化因素",
-    "url": "https://www.energy-storage.news/engineering-discipline-bankability-and-operational-performance-become-differentiators-as-indias-bess-market-faces-biggest-test/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-21T09:11:03+00:00"
-  },
-  "2ae9ea0fe399": {
-    "id": "2ae9ea0fe399",
-    "title_en": "Fraunhofer silicon-rich cells retain over 83% after 1,000 cycles",
-    "title_zh": "弗劳恩霍夫富硅电池在1000次循环后保持83%以上",
-    "url": "https://www.pv-magazine.com/2026/10/21/fraunhofer-silicon-rich-cells-retain-over-83-after-1000-cycles/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T09:00:00+00:00"
-  },
-  "6163d040988e": {
-    "id": "6163d040988e",
-    "title_en": "India’s Coal Crisis Deepens as Power Demand Surges",
-    "title_zh": "随着电力需求激增，印度煤炭危机加剧",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Coal-Crisis-Deepens-as-Power-Demand-Surges.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T08:30:00+00:00"
-  },
-  "e23c8373ebea": {
-    "id": "e23c8373ebea",
-    "title_en": "LiveWire set to show off several new electric motorcycles next month",
-    "title_zh": "LiveWire将于下个月展示几款新的电动摩托车",
-    "url": "https://electrek.co/2026/10/21/livewire-set-to-show-off-several-new-electric-motorcycles-next-month/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-21T08:29:23+00:00"
   }
 }
