@@ -1,4 +1,256 @@
 {
+  "75f985ae24f3": {
+    "id": "75f985ae24f3",
+    "title_en": "Acid-free molten salt method recovers 94% of silver from solar cells",
+    "title_zh": "无酸熔盐法从太阳能电池中回收94%的银",
+    "url": "https://www.pv-magazine.com/2026/10/28/acid-free-molten-salt-method-recovers-94-of-silver-from-solar-cells/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T12:00:00+00:00"
+  },
+  "4ca038d754c1": {
+    "id": "4ca038d754c1",
+    "title_en": "Data centres could drive sodium-ion, LDES adoption in Europe – analyst",
+    "title_zh": "数据中心可以推动欧洲钠离子、LDES的采用——分析师",
+    "url": "https://www.energy-storage.news/data-centres-could-drive-sodium-ion-ldes-adoption-in-europe-analyst/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-28T11:43:36+00:00"
+  },
+  "08b9a5ed3479": {
+    "id": "08b9a5ed3479",
+    "title_en": "‘Megawatts for Maryland’: US state launches US$200 million clean energy auction programme",
+    "title_zh": "“马里兰州的兆瓦”：美国州启动2亿美元的清洁能源拍卖计划",
+    "url": "https://www.pv-tech.org/megawatts-for-maryland-us-state-us200-million-clean-energy-auction-programme/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T11:39:19+00:00"
+  },
+  "776b4d8b2aa6": {
+    "id": "776b4d8b2aa6",
+    "title_en": "India's Gasoline Demand Could Peak by 2035 as EVs Gain Ground",
+    "title_zh": "随着电动汽车的普及，印度的汽油需求可能会在2035年达到峰值",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Gasoline-Demand-Could-Peak-by-2035-as-EVs-Gain-Ground.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T11:30:00+00:00"
+  },
+  "3d29ff27d127": {
+    "id": "3d29ff27d127",
+    "title_en": "GS Entec Completes Monopile Factory in Korea",
+    "title_zh": "GS Entec在韩国完成单桩工厂",
+    "url": "https://offshorewind.biz/2026/10/28/gs-entec-completes-monopile-factory-in-korea",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-10-28T11:08:53+00:00"
+  },
+  "562ad0a76f8b": {
+    "id": "562ad0a76f8b",
+    "title_en": "Togo opens consultation on large-scale solar tender",
+    "title_zh": "多哥就大规模太阳能招标展开磋商",
+    "url": "https://www.pv-magazine.com/2026/10/28/togo-opens-consultation-on-large-scale-solar-tender/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T11:00:00+00:00"
+  },
+  "0f670287cf16": {
+    "id": "0f670287cf16",
+    "title_en": "LG Energy Solution signs MOU with Energix for 4.5GWh of potential BESS deployments in US and Europe",
+    "title_zh": "LG能源解决方案与Energix签署谅解备忘录，在美国和欧洲部署4.5GWh的潜在BESS",
+    "url": "https://www.energy-storage.news/lg-energy-solution-signs-mou-with-energix-for-4-5gwh-of-potential-bess-deployments-in-us-and-europe/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-28T10:45:20+00:00"
+  },
+  "a3d4a4b7447a": {
+    "id": "a3d4a4b7447a",
+    "title_en": "New flywheel design could eliminate power converter for grid connection",
+    "title_zh": "新的飞轮设计可以消除电网连接的功率转换器",
+    "url": "https://www.pv-magazine.com/2026/10/28/new-flywheel-design-could-eliminate-power-converter-for-grid-connection/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T10:30:00+00:00"
+  },
+  "d8eeecfd0783": {
+    "id": "d8eeecfd0783",
+    "title_en": "China’s Wind and Solar Power Capacity Surpasses 2 Terawatts",
+    "title_zh": "中国风能和太阳能发电能力超过2太瓦",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Wind-and-Solar-Power-Capacity-Surpasses-2-Terawatts.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T10:20:00+00:00"
+  },
+  "43c98e19af89": {
+    "id": "43c98e19af89",
+    "title_en": "Kyon Energy puts 282MWh Alfeld battery storage project in Germany into operation",
+    "title_zh": "Kyon Energy在德国投入282MWh Alfeld电池储能项目",
+    "url": "https://www.energy-storage.news/kyon-energy-282mwh-alfeld-battery-storage-project-germany-operation/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-28T10:14:15+00:00"
+  },
+  "0ebd0e96cfbb": {
+    "id": "0ebd0e96cfbb",
+    "title_en": "Sunkean advances copper-to-aluminum jumpers for PV DC systems",
+    "title_zh": "Sunkean为光伏直流系统推出铜铝跳线",
+    "url": "https://www.pv-magazine.com/2026/10/28/sunkean-advances-copper-to-aluminum-jumpers-for-pv-dc-systems/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T10:00:00+00:00"
+  },
+  "975b3fbe96da": {
+    "id": "975b3fbe96da",
+    "title_en": "Elgin to invest $531m in five UK solar and storage projects",
+    "title_zh": "Elgin将投资5.31亿美元用于五个英国太阳能和储能项目",
+    "url": "https://www.energymonitor.ai/news/elgin-invest-five-uk-projects/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-10-28T09:41:50+00:00"
+  },
+  "b0fb747575b9": {
+    "id": "b0fb747575b9",
+    "title_en": "Qvantum launches 50 kW propane heat pump for residential, commercial applications",
+    "title_zh": "Qvantum为住宅和商业应用推出50千瓦丙烷热泵",
+    "url": "https://www.pv-magazine.com/2026/10/28/qvantum-launches-50-kw-propane-heat-pump-for-residential-commercial-applications/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T09:26:07+00:00"
+  },
+  "38e11835f9b8": {
+    "id": "38e11835f9b8",
+    "title_en": "Equinor Profits Triple as Oil and Gas Prices Surge",
+    "title_zh": "随着石油和天然气价格飙升，Equinor的利润增长了两倍",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profits-Triple-as-Oil-and-Gas-Prices-Surge.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T09:20:33+00:00"
+  },
+  "81662fbde589": {
+    "id": "81662fbde589",
+    "title_en": "India’s BESS pipeline needs bankable tenders and diversified revenue streams",
+    "title_zh": "印度的BESS管道需要可盈利的投标和多样化的收入来源",
+    "url": "https://www.energy-storage.news/indias-bess-pipeline-needs-bankable-tenders-diversified-revenue-streams/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-10-28T09:15:15+00:00"
+  },
+  "7868c21081c8": {
+    "id": "7868c21081c8",
+    "title_en": "New coating technology could reduce glass usage in photovoltaic modules by up to 40%",
+    "title_zh": "新的涂层技术可以将光伏模块中的玻璃使用量减少高达40%",
+    "url": "https://www.pv-magazine.com/2026/10/28/new-coating-technology-could-reduce-glass-usage-in-photovoltaic-modules-by-up-to-40/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T09:00:00+00:00"
+  },
+  "f3fdf565370e": {
+    "id": "f3fdf565370e",
+    "title_en": "How much are Trump’s pro-coal policies costing us?",
+    "title_zh": "特朗普的亲煤政策让我们付出了多少代价？",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/trump-pro-coal-policies-costing-us",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-28T09:00:00+00:00"
+  },
+  "81d54701f28c": {
+    "id": "81d54701f28c",
+    "title_en": "Ricoh announces GW-scale perovskite solar cell production in Japan",
+    "title_zh": "理光宣布在日本生产GW级钙钛矿太阳能电池",
+    "url": "https://www.pv-magazine.com/2026/10/28/ricoh-announces-gw-scale-perovskite-solar-cell-production-in-japan/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T08:55:29+00:00"
+  },
+  "05b660df57fc": {
+    "id": "05b660df57fc",
+    "title_en": "Itaipu studies up to 1 GW of solar to support Paraguay’s power grid",
+    "title_zh": "伊泰普研究高达1吉瓦的太阳能，以支持巴拉圭的电网",
+    "url": "https://www.pv-magazine.com/2026/10/28/itaipu-studies-up-to-1-gw-of-solar-to-support-paraguays-power-grid/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T08:45:00+00:00"
+  },
+  "32d1add32188": {
+    "id": "32d1add32188",
+    "title_en": "Portugal makes grid-forming mandatory for large battery storage plants",
+    "title_zh": "葡萄牙强制大型电池储能厂并网",
+    "url": "https://www.pv-magazine.com/2026/10/28/portugal-makes-grid-forming-mandatory-for-large-battery-storage-plants/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T08:34:03+00:00"
+  },
+  "a29be0d3ac20": {
+    "id": "a29be0d3ac20",
+    "title_en": "Climate change could boost Swedish PV generation by 5%",
+    "title_zh": "气候变化可能使瑞典光伏发电量增加5%",
+    "url": "https://www.pv-magazine.com/2026/10/28/climate-change-could-boost-swedish-pv-generation-by-5/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-10-28T08:30:00+00:00"
+  },
+  "89ae14073533": {
+    "id": "89ae14073533",
+    "title_en": "Oil Traders Brace for Iran Escalation After U.S. Elections",
+    "title_zh": "石油交易商为美国大选后伊朗局势升级做好准备",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Brace-for-Iran-Escalation-After-US-Elections.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T07:50:00+00:00"
+  },
+  "69af04c4434a": {
+    "id": "69af04c4434a",
+    "title_en": "Bosch’s popular e-bike motor just got upgraded with more power and less weight",
+    "title_zh": "博世广受欢迎的电动自行车电机刚刚升级，功率更大，重量更轻",
+    "url": "https://electrek.co/2026/10/28/boschs-popular-e-bike-motor-just-got-upgraded-with-more-power-and-less-weight/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-28T07:32:46+00:00"
+  },
+  "2ae07cb51e8a": {
+    "id": "2ae07cb51e8a",
+    "title_en": "More heat pumps would actually be good for the grid, researchers find",
+    "title_zh": "研究人员发现，更多的热泵实际上对电网有好处",
+    "url": "https://www.canarymedia.com/articles/heat-pumps/more-heat-pumps-good-for-grid",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-28T07:30:00+00:00"
+  },
+  "eb95104cc5c7": {
+    "id": "eb95104cc5c7",
+    "title_en": "US EPA proposes changes to oil and gas emissions regulations",
+    "title_zh": "美国环保署提议修改石油和天然气排放法规",
+    "url": "https://www.energymonitor.ai/news/epa-proposes-changes-oil-gas-regulations/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-10-28T07:27:32+00:00"
+  },
+  "2962d877fc4f": {
+    "id": "2962d877fc4f",
+    "title_en": "Revealed: UK relied on £2bn of ‘questionable accounting’ to hit its climate-aid goal",
+    "title_zh": "披露：英国依靠20亿英镑的“可疑会计”来实现其气候援助目标",
+    "url": "https://www.carbonbrief.org/revealed-uk-relied-on-2bn-of-questionable-accounting-to-hit-its-climate-aid-goal",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-10-28T07:00:00+00:00"
+  },
+  "4d40d5d809df": {
+    "id": "4d40d5d809df",
+    "title_en": "Analysis: How the UK spent more than £11.6bn on climate aid since 2021",
+    "title_zh": "分析：自2021年以来，英国如何在气候援助上花费超过116亿英镑",
+    "url": "https://www.carbonbrief.org/analysis-how-the-uk-spent-more-than-11-6bn-on-climate-aid-since-2021",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-10-28T07:00:00+00:00"
+  },
+  "f3914a88d141": {
+    "id": "f3914a88d141",
+    "title_en": "Sanctioned Oil Tankers Find a Lucrative New Trade in the Persian Gulf",
+    "title_zh": "受制裁的油轮在波斯湾找到了有利可图的新贸易",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Sanctioned-Oil-Tankers-Find-a-Lucrative-New-Trade-in-the-Persian-Gulf.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-28T06:45:00+00:00"
+  },
   "6149fdbc4974": {
     "id": "6149fdbc4974",
     "title_en": "CATL holds global launch for 9MWh TENER+ BESS at All-Energy Australia, signs PCS agreement with Hitachi Energy",
@@ -16,6 +268,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-28T03:53:00+00:00"
+  },
+  "8264e2b356f8": {
+    "id": "8264e2b356f8",
+    "title_en": "The Pedego Element 2 eBike — CleanTechnica Tested",
+    "title_zh": "Pedego Element 2电动自行车——CleanTechnica测试",
+    "url": "https://cleantechnica.com/2026/10/27/the-pedego-element-2-ebike-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-28T03:50:51+00:00"
   },
   "2cad96237563": {
     "id": "2cad96237563",
@@ -4237,266 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-10-21T15:17:31+00:00"
-  },
-  "2bb285ecc9a8": {
-    "id": "2bb285ecc9a8",
-    "title_en": "Resilient Power Report 2026 identifies hail, snow and storm risks for solar projects",
-    "title_zh": "《2026年弹性电力报告》确定了太阳能项目的冰雹、雪和风暴风险",
-    "url": "https://www.pv-tech.org/resilient-power-report-2026-hail-snow-storm-risk-solar-and-projects/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T15:02:05+00:00"
-  },
-  "2a6095d1ebef": {
-    "id": "2a6095d1ebef",
-    "title_en": "EIA Says US Crude Inventories Sink Further",
-    "title_zh": "EIA称美国原油库存进一步下降",
-    "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Says-US-Crude-Inventories-Sink-Further.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T14:39:00+00:00"
-  },
-  "5130d7a78245": {
-    "id": "5130d7a78245",
-    "title_en": "3.5-MW community solar project completed in Illinois Shines program",
-    "title_zh": "伊利诺伊州Shines项目完成3.5兆瓦社区太阳能项目",
-    "url": "https://www.solarpowerworldonline.com/2026/10/3-5-mw-community-solar-project-completed-in-illinois-shines-program/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T14:34:11+00:00"
-  },
-  "7616a39f42b0": {
-    "id": "7616a39f42b0",
-    "title_en": "Higher Oil Availability Pressures Middle East Crude Benchmarks",
-    "title_zh": "更高的石油可用性给中东原油基准带来压力",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Higher-Oil-Availability-Pressures-Middle-East-Crude-Benchmarks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T14:30:00+00:00"
-  },
-  "86defcaa32ab": {
-    "id": "86defcaa32ab",
-    "title_en": "The Nuclear Company Proposes 6.6-GW AP1000 Nuclear Campus in Kentucky",
-    "title_zh": "核电公司提议在肯塔基州建设6.6千瓦AP1000核电站",
-    "url": "https://www.powermag.com/the-nuclear-company-proposes-6-6-gw-ap1000-nuclear-campus-in-kentucky/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-10-21T14:28:06+00:00"
-  },
-  "57bbd491979a": {
-    "id": "57bbd491979a",
-    "title_en": "PV Hardware expands Houston factory for increased solar tracker production",
-    "title_zh": "PV Hardware扩建休斯顿工厂以增加太阳能跟踪器产量",
-    "url": "https://www.solarpowerworldonline.com/2026/10/pv-hardware-expands-houston-factory-for-increased-solar-tracker-production/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T14:21:37+00:00"
-  },
-  "7a5a02f69eb3": {
-    "id": "7a5a02f69eb3",
-    "title_en": "The capacity market crisis is a design problem, not a verdict on competition",
-    "title_zh": "产能市场危机是一个设计问题，而不是对竞争的判断",
-    "url": "https://www.utilitydive.com/news/capacity-market-crisis-design-problem-verdict-competition-pjm/833303/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-10-21T14:04:06+00:00"
-  },
-  "30e5b3d6a2ec": {
-    "id": "30e5b3d6a2ec",
-    "title_en": "EBRD provides US$265 million loan for 1.2GW solar-plus-storage project in Egypt",
-    "title_zh": "欧洲复兴开发银行为埃及1.2GW太阳能+储能项目提供2.65亿美元贷款",
-    "url": "https://www.pv-tech.org/ebrd-provides-us265-million-loan-1-2gw-solar-plus-storage-project-egypt/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T14:01:17+00:00"
-  },
-  "e24f17d59943": {
-    "id": "e24f17d59943",
-    "title_en": "Pivot Energy closes US$500 million credit facility for US solar PV and BESS deployments",
-    "title_zh": "Pivot Energy为美国太阳能光伏和BESS部署关闭了5亿美元的信贷额度",
-    "url": "https://www.pv-tech.org/pivot-energy-closts-us500-million-credit-facility-solar-pv-bess-deployments/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T13:59:00+00:00"
-  },
-  "d0e659ae0c43": {
-    "id": "d0e659ae0c43",
-    "title_en": "Volkswagen recalls nearly 73,000 EVs due to faulty batteries",
-    "title_zh": "大众汽车因电池故障召回近73000辆电动汽车",
-    "url": "https://electrek.co/2026/10/21/volkswagen-recalls-nearly-73000-evs-faulty-batteries/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-21T13:56:20+00:00"
-  },
-  "62026eeac30b": {
-    "id": "62026eeac30b",
-    "title_en": "Japan’s Trade Deficit Doubles as Hormuz Crisis Hikes Energy Import Costs",
-    "title_zh": "霍尔木兹危机导致能源进口成本上升，日本贸易逆差翻了一番",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Trade-Deficit-Doubles-as-Hormuz-Crisis-Hikes-Energy-Import-Costs.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T13:30:00+00:00"
-  },
-  "36bf25336ef5": {
-    "id": "36bf25336ef5",
-    "title_en": "25 years in solar: What we’ve learned and what comes next",
-    "title_zh": "太阳能25年：我们学到了什么，接下来会发生什么",
-    "url": "https://www.solarpowerworldonline.com/2026/10/25-years-in-solar-what-weve-learned-and-what-comes-next/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T13:28:23+00:00"
-  },
-  "b72d45f9c957": {
-    "id": "b72d45f9c957",
-    "title_en": "US Gov’t Seeks New Review of US Wind’s Maryland Project",
-    "title_zh": "美国政府寻求对美国风能马里兰州项目进行新的审查",
-    "url": "https://offshorewind.biz/2026/10/21/us-govt-seeks-new-review-of-us-winds-maryland-project",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-21T13:14:01+00:00"
-  },
-  "f98209cb670e": {
-    "id": "f98209cb670e",
-    "title_en": "EBRD-led lenders back 1.2 GW solar, 600 MWh storage plant in Egypt",
-    "title_zh": "欧洲复兴开发银行牵头的贷款机构支持埃及1.2吉瓦太阳能、600兆瓦时储能电站",
-    "url": "https://www.pv-magazine.com/2026/10/21/ebrd-led-lenders-back-1-2-gw-solar-600-mwh-storage-plant-in-egypt/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T13:00:00+00:00"
-  },
-  "5da62b894c8b": {
-    "id": "5da62b894c8b",
-    "title_en": "Ukraine Welcomes Restored U.S. Intelligence Amid Russian Attacks",
-    "title_zh": "乌克兰欢迎美国在俄罗斯袭击中恢复情报",
-    "url": "https://oilprice.com/Geopolitics/Europe/Ukraine-Welcomes-Restored-US-Intelligence-Amid-Russian-Attacks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T13:00:00+00:00"
-  },
-  "a37ddf34db2f": {
-    "id": "a37ddf34db2f",
-    "title_en": "Enhanced safety and performance, easier assembly: More BESS engineers would use PSA tape if they knew about it",
-    "title_zh": "增强的安全性和性能，更容易组装：如果知道PSA胶带，更多的BESS工程师会使用它",
-    "url": "https://www.energy-storage.news/enhanced-safety-and-performance-easier-assembly-more-bess-engineers-would-use-psa-tape-if-they-knew-about-it/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-21T12:58:05+00:00"
-  },
-  "ba7fadfc5089": {
-    "id": "ba7fadfc5089",
-    "title_en": "Exelon Executive Sees Potential Return to Regulated Generation to Meet Soaring Demand",
-    "title_zh": "Exelon高管认为有可能回归受监管发电，以满足飙升的需求",
-    "url": "https://www.powermag.com/exelon-executive-sees-potential-return-to-regulated-generation-to-meet-soaring-demand/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-10-21T12:44:03+00:00"
-  },
-  "56da1ba9f170": {
-    "id": "56da1ba9f170",
-    "title_en": "Russia to Send First Diesel Tanker to U.S. on Thursday",
-    "title_zh": "俄罗斯将于周四向美国派遣首艘柴油油轮",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-to-Send-First-Diesel-Tanker-to-US-on-Thursday.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T12:30:00+00:00"
-  },
-  "54736658290c": {
-    "id": "54736658290c",
-    "title_en": "Viridi deploys ‘Fail-Safe Anti-Propagation architecture’ indoor BESS at New York affordable housing development",
-    "title_zh": "Viridi在纽约经济适用房开发项目部署了“故障安全防传播架构”室内BESS",
-    "url": "https://www.energy-storage.news/viridi-deploys-fail-safe-anti-propagation-architecture-indoor-bess-at-new-york-affordable-housing-development/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-21T12:27:00+00:00"
-  },
-  "0e9ea0cbde83": {
-    "id": "0e9ea0cbde83",
-    "title_en": "Canada Stabs Trump In Back With New Offshore Wind Plan",
-    "title_zh": "加拿大通过新的海上风电计划回击特朗普",
-    "url": "https://cleantechnica.com/2026/10/21/off-shore-wind-turbines-canada-trump-nightmare-us-energy-policy/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-21T12:23:45+00:00"
-  },
-  "f723d579e6c9": {
-    "id": "f723d579e6c9",
-    "title_en": "Construction Carnaval: electric equipment comes to Brazil with SDLG",
-    "title_zh": "建设狂欢节：山东临工电气设备运抵巴西",
-    "url": "https://electrek.co/2026/10/21/construction-carnaval-electric-equipment-comes-to-brazil-with-sdlg/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-21T12:11:16+00:00"
-  },
-  "a5057c25a582": {
-    "id": "a5057c25a582",
-    "title_en": "New financing models needed for agrivoltaics",
-    "title_zh": "农业光伏需要新的融资模式",
-    "url": "https://www.pv-magazine.com/2026/10/21/new-financing-models-needed-for-agrivoltaics/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T12:00:00+00:00"
-  },
-  "02de3fc70e6a": {
-    "id": "02de3fc70e6a",
-    "title_en": "China proposes export controls on polysilicon, wafers and other PV technologies",
-    "title_zh": "中国提议对多晶硅、硅片和其他光伏技术实施出口管制",
-    "url": "https://www.pv-tech.org/china-proposes-export-controls-on-polysilicon-wafers-and-other-pv-technologies/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T11:51:33+00:00"
-  },
-  "378f9d76a771": {
-    "id": "378f9d76a771",
-    "title_en": "A Q&A with NeoVolta, the latest BESS manufacturer in the United States",
-    "title_zh": "与美国最新BESS制造商NeoVolta的问答",
-    "url": "https://www.solarpowerworldonline.com/2026/10/a-qa-with-neovolta-the-latest-bess-manufacturer-in-the-united-states/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T11:45:42+00:00"
-  },
-  "4eaaf1ffaba1": {
-    "id": "4eaaf1ffaba1",
-    "title_en": "Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills",
-    "title_zh": "上一篇：英国电费上涨“近90%”背后的昂贵天然气",
-    "url": "https://www.carbonbrief.org/revealed-expensive-gas-behind-nearly-90-of-rise-in-uk-electricity-bills",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-10-21T11:37:55+00:00"
-  },
-  "d3827b053082": {
-    "id": "d3827b053082",
-    "title_en": "Morgan Stanley: Global Fuel Market Will Stay Tight Through Mid-2027",
-    "title_zh": "摩根士丹利：全球燃料市场将在2027年中期保持紧张",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Global-Fuel-Market-Will-Stay-Tight-Through-Mid-2027.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T11:30:00+00:00"
-  },
-  "8c773017212f": {
-    "id": "8c773017212f",
-    "title_en": "Construction innovations could cut gigawatt-scale solar costs by 22%",
-    "title_zh": "建筑创新可以将千兆瓦级太阳能成本降低22%",
-    "url": "https://www.pv-magazine.com/2026/10/21/construction-innovations-could-cut-gigawatt-scale-solar-costs-by-22/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-21T11:00:00+00:00"
-  },
-  "8ceec9999c5b": {
-    "id": "8ceec9999c5b",
-    "title_en": "UK Approves Jackdaw Gas Field as Energy Crisis Deepens",
-    "title_zh": "能源危机加剧，英国批准寒鸦气田",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Approves-Jackdaw-Gas-Field-as-Energy-Crisis-Deepens.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-21T10:30:00+00:00"
-  },
-  "63d9cb9f4639": {
-    "id": "63d9cb9f4639",
-    "title_en": "Former RWE Offshore Wind CEO Joins Esvagt Board",
-    "title_zh": "前RWE海上风电首席执行官加入Esvagt董事会",
-    "url": "https://offshorewind.biz/2026/10/21/former-rwe-offshore-wind-ceo-joins-esvagt-board",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-10-21T10:08:36+00:00"
   }
 }
