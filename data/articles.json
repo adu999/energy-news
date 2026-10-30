@@ -1,4 +1,85 @@
 {
+  "4d20faed0a18": {
+    "id": "4d20faed0a18",
+    "title_en": "BYD reveals a flashy new feature on its upcoming luxury EV",
+    "title_zh": "比亚迪在其即将推出的豪华电动汽车上展示了一项华丽的新功能",
+    "url": "https://electrek.co/2026/10/30/byd-reveals-flashy-new-feature-upcoming-luxury-ev/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-30T20:19:39+00:00"
+  },
+  "f9d4305dabb1": {
+    "id": "f9d4305dabb1",
+    "title_en": "Meta strikes deal to help bring a low-carbon cement plant to Missouri",
+    "title_zh": "Meta达成协议，帮助将低碳水泥厂带到密苏里州",
+    "url": "https://www.canarymedia.com/articles/clean-industry/meta-fortera-deal-cement-plant-missouri",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-10-30T20:00:00+00:00"
+  },
+  "8cacda895b21": {
+    "id": "8cacda895b21",
+    "title_en": "Podcast: Rivian earnings, Waymo partners with Toyota, Ford bets on V2H for Fathom, and more",
+    "title_zh": "播客：Rivian收益、Waymo与丰田合作、福特为Fathom押注V2H等",
+    "url": "https://electrek.co/2026/10/30/podcast-rivian-earnings-waymo-partners-with-toyota-ford-bets-on-v2h-for-fathom-and-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-30T19:30:35+00:00"
+  },
+  "43554876dd57": {
+    "id": "43554876dd57",
+    "title_en": "Fuel From Bamboo Costs Just $2.75 Per Gallon",
+    "title_zh": "竹子燃料成本仅为每加仑2.75美元",
+    "url": "https://cleantechnica.com/2026/10/30/fuel-from-bamboo-costs-just-2-75-per-gallon/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-30T19:04:48+00:00"
+  },
+  "94f29f977429": {
+    "id": "94f29f977429",
+    "title_en": "Chevron Profits Nearly Triple to $9.9 Billion",
+    "title_zh": "雪佛龙利润增长近两倍，达到99亿美元",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Profits-Nearly-Triple-to-99-Billion.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-30T18:30:00+00:00"
+  },
+  "04189d12c505": {
+    "id": "04189d12c505",
+    "title_en": "Tesla drops car referral rewards, now pays owners in FSD for referrals",
+    "title_zh": "特斯拉取消汽车推荐奖励，现在向FSD的车主支付推荐费",
+    "url": "https://electrek.co/2026/10/30/tesla-referral-program-fsd-car-rewards-dropped/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-30T18:02:35+00:00"
+  },
+  "129273dea6c0": {
+    "id": "129273dea6c0",
+    "title_en": "Bluetti 288Wh Elite 30 Mini power station exclusive pre-order deals, Aventon Abound SR + LR cargo e-bikes first savings, more",
+    "title_zh": "Bluetti 288Wh Elite 30 Mini电站独家预购优惠，Aventon Abound SR+LR货运电动自行车首次节省，更多",
+    "url": "https://electrek.co/2026/10/30/bluetti-288wh-elite-30-mini-power-station-aventon-abound-sr-lr-cargo-e-bikes-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-30T18:00:00+00:00"
+  },
+  "f133a185b44f": {
+    "id": "f133a185b44f",
+    "title_en": "Water Tank Rupture Triggers Safety Concerns at Tajikistan’s Rogun Dam",
+    "title_zh": "塔吉克斯坦罗贡大坝水箱破裂引发安全担忧",
+    "url": "https://oilprice.com/Alternative-Energy/Hydroelectric/Water-Tank-Rupture-Triggers-Safety-Concerns-at-Tajikistans-Rogun-Dam.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-30T18:00:00+00:00"
+  },
+  "c3c52f8d1ac6": {
+    "id": "c3c52f8d1ac6",
+    "title_en": "Toyota reveals five new lifted Woodland concepts, including the bZ electric SUV",
+    "title_zh": "丰田发布了五款全新的Woodland概念车，其中包括bZ电动SUV",
+    "url": "https://electrek.co/2026/10/30/toyota-reveals-five-new-lifted-woodland-concepts-including-an-ev/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-10-30T17:49:36+00:00"
+  },
   "1b47340d87d6": {
     "id": "1b47340d87d6",
     "title_en": "ExxonMobil Profits Double to $15.4 Billion",
@@ -4417,86 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-10-24T15:00:00+00:00"
-  },
-  "1fc76acc6c37": {
-    "id": "1fc76acc6c37",
-    "title_en": "Trump’s War on Iran Has Broken the Oil Market",
-    "title_zh": "特朗普对伊朗的战争破坏了石油市场",
-    "url": "https://cleantechnica.com/2026/10/24/trumps-war-on-iran-has-broken-the-oil-market/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-24T14:21:46+00:00"
-  },
-  "1c70e5f174bd": {
-    "id": "1c70e5f174bd",
-    "title_en": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
-    "title_zh": "中国电动汽车找到了进入西方汽车市场的后门——MSRP折扣40%",
-    "url": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-24T14:04:51+00:00"
-  },
-  "70bd25729bdb": {
-    "id": "70bd25729bdb",
-    "title_en": "NHTSA proposes cyan lights for robotaxis, following Mercedes/China",
-    "title_zh": "国家公路交通安全管理局继梅赛德斯/中国之后，提议为自动驾驶出租车安装蓝灯",
-    "url": "https://electrek.co/2026/10/24/nhtsa-proposes-cyan-lights-for-robotaxis-following-mercedes-china/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-24T13:00:00+00:00"
-  },
-  "f73190f2f747": {
-    "id": "f73190f2f747",
-    "title_en": "Renewable Energy India Expo 2026: Three key takeaways",
-    "title_zh": "2026年印度可再生能源博览会：三个关键要点",
-    "url": "https://www.pv-magazine.com/2026/10/24/renewable-energy-india-expo-2026-three-key-takeaways/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-24T12:43:58+00:00"
-  },
-  "3af669fd2b77": {
-    "id": "3af669fd2b77",
-    "title_en": "EGO Commercial expands ZTR line with mowers, blowers, and trimmers",
-    "title_zh": "EGO Commercial用割草机、鼓风机和修剪机扩展ZTR系列",
-    "url": "https://electrek.co/2026/10/24/ego-commercial-expands-ztr-line-with-mowers-blowers-and-trimmers/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-24T11:59:07+00:00"
-  },
-  "6b474b2135c7": {
-    "id": "6b474b2135c7",
-    "title_en": "Gritt Robotics brings AI-assisted robotics to bolster shrinking solar workforce",
-    "title_zh": "Gritt Robotics引入人工智能辅助机器人技术，以支持不断萎缩的太阳能劳动力",
-    "url": "https://www.pv-magazine.com/2026/10/24/gritt-robotics-brings-ai-assisted-robotics-to-bolster-shrinking-solar-workforce/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-24T09:30:00+00:00"
-  },
-  "0755deb3ca33": {
-    "id": "0755deb3ca33",
-    "title_en": "Italy deploys 4.83 GW of PV in January-September",
-    "title_zh": "意大利在1月至9月部署了4.83吉瓦的光伏发电",
-    "url": "https://www.pv-magazine.com/2026/10/24/italy-deploys-4-83-gw-of-pv-in-january-september/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-24T09:00:00+00:00"
-  },
-  "e1c89ae4a6f9": {
-    "id": "e1c89ae4a6f9",
-    "title_en": "Mozambique entrusts small solar panel factory to UAE’s Jampur Group",
-    "title_zh": "莫桑比克将小型太阳能电池板工厂委托给阿联酋坎普尔集团",
-    "url": "https://www.pv-magazine.com/2026/10/24/mozambique-entrusts-solar-panel-factory-to-uaes-jampur-group/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-24T08:45:00+00:00"
-  },
-  "e1f6ef7efff7": {
-    "id": "e1f6ef7efff7",
-    "title_en": "‘When it is your turn, open the door for the woman coming next’",
-    "title_zh": "“轮到你的时候，为下一个来的女人开门。”",
-    "url": "https://www.pv-magazine.com/2026/10/24/when-it-is-your-turn-open-the-door-for-the-woman-coming-next/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-10-24T08:30:00+00:00"
   }
 }
