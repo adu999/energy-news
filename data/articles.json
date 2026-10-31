@@ -1,4 +1,31 @@
 {
+  "53313971f1d5": {
+    "id": "53313971f1d5",
+    "title_en": "Senegal’s Ambitious Plan to Slash Electricity Costs and Boost Energy Security",
+    "title_zh": "塞内加尔雄心勃勃的降低电力成本和提高能源安全的计划",
+    "url": "https://oilprice.com/Energy/Energy-General/Senegals-Ambitious-Plan-to-Slash-Electricity-Costs-and-Boost-Energy-Security.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-31T15:00:00+00:00"
+  },
+  "c2b3087fbf49": {
+    "id": "c2b3087fbf49",
+    "title_en": "COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+    "title_zh": "COP17：埃里温联合国生物多样性会议达成的主要成果",
+    "url": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-10-31T13:30:22+00:00"
+  },
+  "38074a19b1e4": {
+    "id": "38074a19b1e4",
+    "title_en": "Can Silicon Valley Build A Safe Class 8 Truck? Early EV Semi Fires Expose The Experience Gap",
+    "title_zh": "硅谷能制造出安全的8级卡车吗？早期电动汽车半火灾暴露了经验差距",
+    "url": "https://cleantechnica.com/2026/10/31/can-silicon-valley-build-a-safe-class-8-truck-early-ev-semi-fires-expose-the-experience-gap/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-10-31T12:55:58+00:00"
+  },
   "4df51a804228": {
     "id": "4df51a804228",
     "title_en": "Indian PV at a turning point",
@@ -4471,32 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-25T05:47:56+00:00"
-  },
-  "4a78f41e8cf8": {
-    "id": "4a78f41e8cf8",
-    "title_en": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
-    "title_zh": "创纪录的油轮运价阻碍了美国原油流向亚洲",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-24T23:00:00+00:00"
-  },
-  "fc50166d2cb5": {
-    "id": "fc50166d2cb5",
-    "title_en": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
-    "title_zh": "大众汽车的新款电动捷达提供285英里的续航里程，价格低于12000美元",
-    "url": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-10-24T22:32:02+00:00"
-  },
-  "767d7e6f0598": {
-    "id": "767d7e6f0598",
-    "title_en": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
-    "title_zh": "加拿大和欧盟在汽车排放问题上渐行渐远",
-    "url": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-24T22:00:17+00:00"
   }
 }
