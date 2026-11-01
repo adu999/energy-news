@@ -1,4 +1,13 @@
 {
+  "a04b57837c18": {
+    "id": "a04b57837c18",
+    "title_en": "Chevron Raises Exploration Spending By 50%",
+    "title_zh": "雪佛龙将勘探支出提高50%",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Chevron-Raises-Exploration-Spending-By-50.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-10-31T23:00:00+00:00"
+  },
   "2efef748924a": {
     "id": "2efef748924a",
     "title_en": "U.S. Intelligence: China Could Put Laser Weapons in Space by 2030",
@@ -4489,14 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-10-25T17:28:39+00:00"
-  },
-  "46659f2b67dc": {
-    "id": "46659f2b67dc",
-    "title_en": "Trump’s DOE Budget Request Cuts Weak Bets And Useful Energy Research Together",
-    "title_zh": "特朗普的能源部预算请求削减了疲软的赌注和有用的能源研究",
-    "url": "https://cleantechnica.com/2026/10/25/trump-doe-budget-cuts-energy-research/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-10-25T17:17:07+00:00"
   }
 }
