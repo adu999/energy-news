@@ -1,4 +1,40 @@
 {
+  "0d3945a02412": {
+    "id": "0d3945a02412",
+    "title_en": "Oil Prices No Longer Follow Headlines",
+    "title_zh": "油价不再追随头条新闻",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-02T00:00:00+00:00"
+  },
+  "ecf36a3793d4": {
+    "id": "ecf36a3793d4",
+    "title_en": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
+    "title_zh": "电池在两条模拟航线上击败了挪威的氢散货船",
+    "url": "https://cleantechnica.com/2026/11/01/norway-hydrogen-bulk-carriers-battery-cost-test/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-01T20:52:23+00:00"
+  },
+  "480aa98d8af1": {
+    "id": "480aa98d8af1",
+    "title_en": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
+    "title_zh": "尽管有清洁能源的承诺，但大规模人工智能数据中心引发了强烈反响",
+    "url": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-01T20:00:00+00:00"
+  },
+  "78baeb8fdf13": {
+    "id": "78baeb8fdf13",
+    "title_en": "Eli teases the launch of a much faster electric microcar",
+    "title_zh": "Eli调侃推出速度更快的电动微型车",
+    "url": "https://electrek.co/2026/11/01/eli-teases-the-launch-of-a-much-faster-electric-microcar/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-01T19:32:34+00:00"
+  },
   "8d9543cb0e9a": {
     "id": "8d9543cb0e9a",
     "title_en": "Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think",
@@ -4462,41 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-10-26T07:51:01+00:00"
-  },
-  "1aa16f3c3ce8": {
-    "id": "1aa16f3c3ce8",
-    "title_en": "This group-buy campaign makes it easier to switch to induction cooking",
-    "title_zh": "这种团购活动使人们更容易转向电磁烹饪",
-    "url": "https://www.canarymedia.com/articles/electrification/group-buy-induction-cooking",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-26T07:30:00+00:00"
-  },
-  "fd3d2fb45619": {
-    "id": "fd3d2fb45619",
-    "title_en": "Massachusetts sets big battery goals — and the policies to back them up",
-    "title_zh": "马萨诸塞州设定了巨大的电池目标，并制定了支持这些目标的政策",
-    "url": "https://www.canarymedia.com/articles/batteries/massachusetts-sets-big-battery-goals",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-10-26T07:30:00+00:00"
-  },
-  "6a61a5930474": {
-    "id": "6a61a5930474",
-    "title_en": "Saudi Arabia Turns to Singapore for Oil Storage",
-    "title_zh": "沙特阿拉伯向新加坡寻求石油储存",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Turns-to-Singapore-for-Oil-Storage.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-10-26T07:15:00+00:00"
-  },
-  "7b39a86330ee": {
-    "id": "7b39a86330ee",
-    "title_en": "Singapore targets 1GWh of energy storage in Energy Infrastructure Plan to meet rising demand for electricity",
-    "title_zh": "新加坡在能源基础设施计划中设定了1GWh的储能目标，以满足日益增长的电力需求",
-    "url": "https://www.energy-storage.news/singapore-targets-1gwh-of-energy-storage-in-energy-infrastructure-plan-to-meet-rising-demand-for-electricity/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-10-26T07:14:43+00:00"
   }
 }
