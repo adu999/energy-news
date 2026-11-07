@@ -1,4 +1,112 @@
 {
+  "e6f5647844a7": {
+    "id": "e6f5647844a7",
+    "title_en": "Ecuador’s largest PV plant goes online",
+    "title_zh": "厄瓜多尔最大的光伏电站上线",
+    "url": "https://www.pv-magazine.com/2026/11/07/ecuadors-largest-pv-plant-goes-online/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T09:30:00+00:00"
+  },
+  "e399a2bd4a39": {
+    "id": "e399a2bd4a39",
+    "title_en": "Maintaining trust in new tech",
+    "title_zh": "保持对新技术的信任",
+    "url": "https://www.pv-magazine.com/2026/11/07/maintaining-trust-in-new-tech/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T09:00:00+00:00"
+  },
+  "cfb2dd6bb9b8": {
+    "id": "cfb2dd6bb9b8",
+    "title_en": "Portable solar-powered system produces 1.64 liters of drinking water in 8 hours",
+    "title_zh": "便携式太阳能系统在8小时内生产1.64升饮用水",
+    "url": "https://www.pv-magazine.com/2026/11/07/portable-solar-powered-system-produces-1-64-liters-of-drinking-water-in-8-hours/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T08:30:00+00:00"
+  },
+  "252b92d198b2": {
+    "id": "252b92d198b2",
+    "title_en": "Researchers develop 10.56 kW solar-powered pleasure boat",
+    "title_zh": "研究人员开发了10.56千瓦的太阳能游船",
+    "url": "https://www.pv-magazine.com/2026/11/07/researchers-unveil-10-56-kw-solar-powered-pleasure-boat/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T08:00:00+00:00"
+  },
+  "63ada56eb863": {
+    "id": "63ada56eb863",
+    "title_en": "Study finds 0.5-meter spacing between solar module rows improves cooling in floating PV systems",
+    "title_zh": "研究发现，太阳能模块排之间0.5米的间距可以改善浮动光伏系统的冷却效果",
+    "url": "https://www.pv-magazine.com/2026/11/07/study-finds-0-5-meter-spacing-between-solar-module-rows-improves-cooling-in-floating-pv-systems/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T07:30:00+00:00"
+  },
+  "b5f8ff6001d0": {
+    "id": "b5f8ff6001d0",
+    "title_en": "India’s installed solar PV capacity to exceed 350 GW by 2030, says IEA",
+    "title_zh": "国际能源署表示，到2030年，印度的太阳能光伏装机容量将超过350吉瓦",
+    "url": "https://www.pv-magazine.com/2026/11/07/indias-installed-solar-pv-capacity-to-exceed-350-gw-by-2030-says-iea/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T07:00:00+00:00"
+  },
+  "2a22f8a0fc7b": {
+    "id": "2a22f8a0fc7b",
+    "title_en": "Beyond scale and hardware",
+    "title_zh": "超越规模和硬件",
+    "url": "https://www.pv-magazine.com/2026/11/07/beyond-scale-and-hardware/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T05:00:00+00:00"
+  },
+  "a096a98f9535": {
+    "id": "a096a98f9535",
+    "title_en": "Is Trump About To Reignite His Big EV Push?",
+    "title_zh": "特朗普是否即将重新启动他的电动汽车大推？",
+    "url": "https://cleantechnica.com/2026/11/06/is-trump-about-to-reignite-his-big-ev-push/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T04:57:20+00:00"
+  },
+  "8d4786f39c59": {
+    "id": "8d4786f39c59",
+    "title_en": "NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill",
+    "title_zh": "NRDC对BAAJA、2026年许可和输电法案的评估",
+    "url": "https://cleantechnica.com/2026/11/06/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T04:14:00+00:00"
+  },
+  "b07f8045992d": {
+    "id": "b07f8045992d",
+    "title_en": "Solar Industry Shows Hope After US Election, Focuses On Key Message",
+    "title_zh": "美国大选后太阳能产业展现希望聚焦关键信息",
+    "url": "https://cleantechnica.com/2026/11/06/solar-industry-shows-hope-after-us-election-focuses-on-key-message/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T02:43:10+00:00"
+  },
+  "feeb0cec84b6": {
+    "id": "feeb0cec84b6",
+    "title_en": "Amazon set to deploy more than 3,000 TATA electric delivery trucks",
+    "title_zh": "亚马逊计划部署3000多辆TATA电动送货卡车",
+    "url": "https://electrek.co/2026/11/06/amazon-set-to-deploy-more-than-3000-tata-electric-delivery-trucks/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-07T01:43:36+00:00"
+  },
+  "6cb7ca810380": {
+    "id": "6cb7ca810380",
+    "title_en": "Tampa Community Turns Out for Sierra Club’s ‘Power & Perspectives: The Energy Dialogue’",
+    "title_zh": "坦帕社区参加了塞拉俱乐部的“权力与前景：能源对话”",
+    "url": "https://cleantechnica.com/2026/11/06/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the-energy-dialogue/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T01:30:38+00:00"
+  },
   "9157a7ee6bae": {
     "id": "9157a7ee6bae",
     "title_en": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
@@ -4390,113 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-02T05:00:00+00:00"
-  },
-  "530094b08f8b": {
-    "id": "530094b08f8b",
-    "title_en": "AGL refers 2GWh BESS in Queensland to Australia’s EPBC Act as ACEnergy submits 250MW Victoria project",
-    "title_zh": "AGL将昆士兰州的2GWh BESS提交给澳大利亚的EPBC法案，因为ACEnergy提交了250MW的维多利亚项目",
-    "url": "https://www.energy-storage.news/agl-refers-2gwh-bess-in-queensland-to-australias-epbc-act-as-acenergy-submits-250mw-victoria-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-02T02:22:39+00:00"
-  },
-  "f0c99fb58362": {
-    "id": "f0c99fb58362",
-    "title_en": "‘Advancing grid-forming energy storage’: Sungrow wins Hazelwood BESS 2 PCS and BESS order in Australia",
-    "title_zh": "“推进并网储能”：阳光电源在澳大利亚赢得Hazelwood BESS 2 PCS和BESS订单",
-    "url": "https://www.energy-storage.news/advancing-grid-forming-energy-storage-sungrow-wins-hazelwood-bess-2-pcs-and-bess-order-in-australia/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-02T02:13:35+00:00"
-  },
-  "dd361bc7cd91": {
-    "id": "dd361bc7cd91",
-    "title_en": "Neoen secures AU$1.8 billion to finance 1.2GW Australian solar, wind and storage portfolio",
-    "title_zh": "Neoen获得18亿澳元融资1.2GW澳大利亚太阳能、风能和储能投资组合",
-    "url": "https://www.pv-tech.org/neoen-secures-au1-8-billion-to-finance-1-2gw-australian-solar-wind-and-storage-portfolio/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T02:05:44+00:00"
-  },
-  "c04e5d8fcfa6": {
-    "id": "c04e5d8fcfa6",
-    "title_en": "Five days deliver 38% of Australia’s NEM BESS fleet revenue for October",
-    "title_zh": "五天交付澳大利亚10月份NEM BESS机队收入的38%",
-    "url": "https://www.energy-storage.news/five-days-deliver-38-of-australias-nem-bess-fleet-revenue-for-october/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-02T01:59:49+00:00"
-  },
-  "c65e14972c82": {
-    "id": "c65e14972c82",
-    "title_en": "Why Is This Rare Earth Metal 346 Times More Expensive In America Than in China?",
-    "title_zh": "为什么这种稀土金属在美国的价格是中国的346倍？",
-    "url": "https://oilprice.com/Energy/Energy-General/Why-Is-This-Rare-Earth-Metal-346-Times-More-Expensive-In-America-Than-in-China.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-02T01:00:00+00:00"
-  },
-  "0d3945a02412": {
-    "id": "0d3945a02412",
-    "title_en": "Oil Prices No Longer Follow Headlines",
-    "title_zh": "油价不再追随头条新闻",
-    "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-No-Longer-Follow-Headlines.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-02T00:00:00+00:00"
-  },
-  "ecf36a3793d4": {
-    "id": "ecf36a3793d4",
-    "title_en": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
-    "title_zh": "电池在两条模拟航线上击败了挪威的氢散货船",
-    "url": "https://cleantechnica.com/2026/11/01/norway-hydrogen-bulk-carriers-battery-cost-test/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-01T20:52:23+00:00"
-  },
-  "480aa98d8af1": {
-    "id": "480aa98d8af1",
-    "title_en": "Massive AI Data Center Sparks Backlash Despite Clean Energy Promises",
-    "title_zh": "尽管有清洁能源的承诺，但大规模人工智能数据中心引发了强烈反响",
-    "url": "https://oilprice.com/Energy/Energy-General/Massive-AI-Data-Center-Sparks-Backlash-Despite-Clean-Energy-Promises.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-01T20:00:00+00:00"
-  },
-  "78baeb8fdf13": {
-    "id": "78baeb8fdf13",
-    "title_en": "Eli teases the launch of a much faster electric microcar",
-    "title_zh": "Eli调侃推出速度更快的电动微型车",
-    "url": "https://electrek.co/2026/11/01/eli-teases-the-launch-of-a-much-faster-electric-microcar/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-01T19:32:34+00:00"
-  },
-  "8d9543cb0e9a": {
-    "id": "8d9543cb0e9a",
-    "title_en": "Yes, electric motorcycles will replace gasoline motorcycles, but not the way you think",
-    "title_zh": "是的，电动摩托车将取代汽油摩托车，但不是你想象的那样",
-    "url": "https://electrek.co/2026/11/01/yes-electric-motorcycles-will-replace-gasoline-motorcycles-but-not-the-way-you-think/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-01T18:26:33+00:00"
-  },
-  "33e2cc043c18": {
-    "id": "33e2cc043c18",
-    "title_en": "U.S. Labs Look to New Materials to Close China's Nuclear Lead",
-    "title_zh": "美国实验室寻求新材料以关闭中国的核领先地位",
-    "url": "https://oilprice.com/Energy/Energy-General/US-Labs-Look-to-New-Materials-to-Close-Chinas-Nuclear-Lead.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-01T18:00:00+00:00"
-  },
-  "80a0b321a6e3": {
-    "id": "80a0b321a6e3",
-    "title_en": "Peterbilt makes it easier than ever for government fleets to go electric",
-    "title_zh": "Peterbilt使政府车队比以往任何时候都更容易实现电动化",
-    "url": "https://electrek.co/2026/11/01/peterbilt-makes-it-easier-than-ever-for-government-fleets-to-go-electric/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-01T17:48:41+00:00"
   }
 }
