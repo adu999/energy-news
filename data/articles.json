@@ -1,4 +1,40 @@
 {
+  "fe3c517a29ba": {
+    "id": "fe3c517a29ba",
+    "title_en": "REDD — Picking Up Our New Tesla Model Y",
+    "title_zh": "REDD——搭载我们的新款特斯拉Model Y",
+    "url": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T20:42:56+00:00"
+  },
+  "d16722ebc45a": {
+    "id": "d16722ebc45a",
+    "title_en": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
+    "title_zh": "埃及寻求数十亿美元的新投资以恢复石油和天然气生产",
+    "url": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-07T20:00:00+00:00"
+  },
+  "24df5fa91192": {
+    "id": "24df5fa91192",
+    "title_en": "The Velotric GoMad Electric Utility eBike — CleanTechnica Tested",
+    "title_zh": "Velotric GoMad电动电动自行车——CleanTechnica测试",
+    "url": "https://cleantechnica.com/2026/11/07/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T18:59:48+00:00"
+  },
+  "c6571f0ba86b": {
+    "id": "c6571f0ba86b",
+    "title_en": "Trump-Backed Trade Corridor Advances Despite Geopolitical Resistance",
+    "title_zh": "尽管面临地缘政治阻力，特朗普仍支持贸易走廊的进展",
+    "url": "https://oilprice.com/Geopolitics/Asia/Trump-Backed-Trade-Corridor-Advances-Despite-Geopolitical-Resistance.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-07T18:00:00+00:00"
+  },
   "be0a01bbb403": {
     "id": "be0a01bbb403",
     "title_en": "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark",
@@ -4462,41 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-02T09:22:53+00:00"
-  },
-  "70f12b42c86e": {
-    "id": "70f12b42c86e",
-    "title_en": "How Europe’s battery passport could have a big impact on US e-bikes",
-    "title_zh": "欧洲的电池护照如何对美国电动自行车产生重大影响",
-    "url": "https://electrek.co/2026/11/02/how-europes-battery-passport-could-have-a-big-impact-on-us-e-bikes/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-02T09:21:00+00:00"
-  },
-  "e80ceacb497d": {
-    "id": "e80ceacb497d",
-    "title_en": "Goldman Sachs Raises December Brent Oil Price Forecast to $105",
-    "title_zh": "高盛将12月布伦特原油价格预测上调至105美元",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Raises-Brent-Oil-Price-Forecast-to-105.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-02T09:00:00+00:00"
-  },
-  "dc76e35e8a29": {
-    "id": "dc76e35e8a29",
-    "title_en": "Tax insurance after OBBB: Policies cost more, but the market is turning back towards buyers",
-    "title_zh": "OBBB后的税收保险：政策成本更高，但市场正在转向买家",
-    "url": "https://www.pv-tech.org/tax-insurance-after-obbb-policies-cost-more-but-the-market-is-turning-back-towards-buyers/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T08:57:43+00:00"
-  },
-  "79c0309ca6bb": {
-    "id": "79c0309ca6bb",
-    "title_en": "Boise plans to tap its geothermal network to heat 300 affordable homes",
-    "title_zh": "博伊西计划利用其地热网络为300套经济适用房供暖",
-    "url": "https://www.canarymedia.com/articles/geothermal/boise-geothermal-network-affordable-homes",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-11-02T08:30:00+00:00"
   }
 }
