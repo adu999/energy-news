@@ -1,4 +1,94 @@
 {
+  "be0a01bbb403": {
+    "id": "be0a01bbb403",
+    "title_en": "Cold Seawater Is Supplying District Heat in Esbjerg, Denmark",
+    "title_zh": "冷海水为丹麦埃斯比约格地区供暖",
+    "url": "https://cleantechnica.com/2026/11/07/esbjerg-seawater-heat-pumps-cold-water-district-heating/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T17:21:36+00:00"
+  },
+  "738956fb030f": {
+    "id": "738956fb030f",
+    "title_en": "GM Steps On Tesla’s EV Toes With EV1 Celebration",
+    "title_zh": "通用汽车通过EV1庆祝活动踩下特斯拉的电动汽车脚趾",
+    "url": "https://cleantechnica.com/2026/11/07/cybertruck-tesla-gm-ev1-ev-sales-us-market-electric-pickups/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T16:52:11+00:00"
+  },
+  "3b4928a397ba": {
+    "id": "3b4928a397ba",
+    "title_en": "Tesla deemed liable for fraud after Solar Roof ‘experiment’ on a home",
+    "title_zh": "特斯拉被认定对太阳能屋顶在家中进行“实验”后的欺诈行为负责",
+    "url": "https://electrek.co/2026/11/07/tesla-solar-roof-fraud-liable-experiment-lawsuit/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-07T16:01:23+00:00"
+  },
+  "5803f11f00f5": {
+    "id": "5803f11f00f5",
+    "title_en": "America’s Hydrogen Revolution Stalls Amid Funding Cuts and Weak Demand",
+    "title_zh": "美国的氢革命在资金削减和需求疲软的情况下停滞不前",
+    "url": "https://oilprice.com/Energy/Energy-General/Americas-Hydrogen-Revolution-Stalls-Amid-Funding-Cuts-and-Weak-Demand.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-07T16:00:00+00:00"
+  },
+  "43ab25be19dd": {
+    "id": "43ab25be19dd",
+    "title_en": "Harbinger scores another $240M in latest investment round",
+    "title_zh": "Harbinger在最新一轮投资中又获得2.4亿美元",
+    "url": "https://electrek.co/2026/11/07/harbinger-scores-another-240m-in-latest-investment-round/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-07T12:53:45+00:00"
+  },
+  "3171f36a823f": {
+    "id": "3171f36a823f",
+    "title_en": "Yamaha’s new electric scooter takes aim at Europe’s 125cc commuters",
+    "title_zh": "雅马哈的新型电动滑板车瞄准了欧洲125cc的通勤者",
+    "url": "https://electrek.co/2026/11/07/yamahas-new-electric-scooter-takes-aim-at-europes-125cc-commuters/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-07T12:30:10+00:00"
+  },
+  "04840d69be54": {
+    "id": "04840d69be54",
+    "title_en": "5 American, 6 Canadian: Workhorse W56 arrives in the True North",
+    "title_zh": "5名美国人，6名加拿大人：战马W56抵达真北",
+    "url": "https://electrek.co/2026/11/07/5-american-6-canadian-workhorse-w56-arrives-in-the-true-north/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-07T12:00:00+00:00"
+  },
+  "63e4cd523cb0": {
+    "id": "63e4cd523cb0",
+    "title_en": "Honda just showed off its first high-end electric mountain bike",
+    "title_zh": "本田刚刚展示了其首款高端电动山地自行车",
+    "url": "https://electrek.co/2026/11/07/honda-just-showed-off-its-first-high-end-electric-mountain-bike/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-07T11:51:36+00:00"
+  },
+  "906675787f24": {
+    "id": "906675787f24",
+    "title_en": "U.S. solar developers navigate policy stack as Section 232 deadline nears",
+    "title_zh": "随着第232条最后期限的临近，美国太阳能开发商在政策堆栈中导航",
+    "url": "https://www.pv-magazine.com/2026/11/07/u-s-solar-developers-navigate-policy-stack-as-section-232-deadline-nears/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T10:50:00+00:00"
+  },
+  "8766babc2a8f": {
+    "id": "8766babc2a8f",
+    "title_en": "How the Solar+ industries can make better decisions for the energy transition",
+    "title_zh": "太阳能+行业如何为能源转型做出更好的决策",
+    "url": "https://www.pv-magazine.com/2026/11/07/how-the-solar-industries-can-make-better-decisions-for-the-energy-transition/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-07T10:30:00+00:00"
+  },
   "e6f5647844a7": {
     "id": "e6f5647844a7",
     "title_en": "Ecuador’s largest PV plant goes online",
@@ -4408,95 +4498,5 @@
     "source": "Canary Media",
     "category": "综合",
     "pub_ts": "2026-11-02T08:30:00+00:00"
-  },
-  "021492869cb0": {
-    "id": "021492869cb0",
-    "title_en": "Retractable photovoltaics for wastewater treatment",
-    "title_zh": "用于废水处理的可伸缩光伏",
-    "url": "https://www.pv-magazine.com/2026/11/02/retractable-photovoltaics-for-wastewater-treatment/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T08:28:40+00:00"
-  },
-  "cad098baea77": {
-    "id": "cad098baea77",
-    "title_en": "Longi unveils 690 W back-contact solar module with 25.54% efficiency",
-    "title_zh": "Longi推出690 W背接触太阳能模块，效率为25.54%",
-    "url": "https://www.pv-magazine.com/2026/11/02/longi-unveils-690-w-back-contact-solar-module-with-25-54-efficiency/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T08:19:20+00:00"
-  },
-  "32de90fa98f9": {
-    "id": "32de90fa98f9",
-    "title_en": "44 Turbines Up at Largest US Offshore Wind Farm",
-    "title_zh": "美国最大海上风电场安装44台涡轮机",
-    "url": "https://offshorewind.biz/2026/11/02/44-turbines-up-at-largest-us-offshore-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-02T08:19:03+00:00"
-  },
-  "6813ba10a32f": {
-    "id": "6813ba10a32f",
-    "title_en": "Mach launches Tier-1 autonomous solar mowing solution for utility-scale fleets",
-    "title_zh": "Mach为公用事业规模的车队推出Tier-1自主太阳能割草解决方案",
-    "url": "https://www.pv-magazine.com/2026/11/02/mach-launches-tier-1-autonomous-solar-mowing-solution-for-utility-scale-fleets/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T08:12:18+00:00"
-  },
-  "a7327aee75cd": {
-    "id": "a7327aee75cd",
-    "title_en": "Outer Space debuts solar pavilion with hidden battery storage decking",
-    "title_zh": "外太空首次亮相带有隐藏电池储能板的太阳能展馆",
-    "url": "https://www.pv-magazine.com/2026/11/02/outer-space-debuts-solar-pavilion-with-hidden-battery-storage-decking/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T08:08:55+00:00"
-  },
-  "0ba3319100cd": {
-    "id": "0ba3319100cd",
-    "title_en": "Analysis: How US midterms could shape the fightback against Trump’s war on wind",
-    "title_zh": "分析：美国中期选举如何影响对特朗普风战的反击",
-    "url": "https://www.windpowermonthly.com/article/1973878/analysis-us-midterms-shape-fightback-against-trumps-war-wind",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-02T08:00:00+00:00"
-  },
-  "c1049c9f7364": {
-    "id": "c1049c9f7364",
-    "title_en": "U.S. Pushes to Restore Russian Gas Flows to Europe",
-    "title_zh": "美国推动恢复俄罗斯对欧洲的天然气供应",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Pushes-to-Restore-Russian-Gas-Flows-to-Europe.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-02T07:50:00+00:00"
-  },
-  "d144c4bc7fb1": {
-    "id": "d144c4bc7fb1",
-    "title_en": "UK government grants consent for 2GW Sea Link subsea project",
-    "title_zh": "英国政府批准2GW Sea Link海底项目",
-    "url": "https://www.energymonitor.ai/news/uk-grants-consent-sea-link/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-02T07:43:00+00:00"
-  },
-  "17c95d77cc40": {
-    "id": "17c95d77cc40",
-    "title_en": "Oil Prices Slide 3% as Hopes for Iran Peace Deal Grow",
-    "title_zh": "随着对伊朗和平协议的希望增加，油价下跌3%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-3-as-Hopes-for-Iran-Peace-Deal-Grow.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-02T06:30:00+00:00"
-  },
-  "c30b594a2a1e": {
-    "id": "c30b594a2a1e",
-    "title_en": "End-of-life is just the beginning",
-    "title_zh": "生命的终结只是开始",
-    "url": "https://www.pv-magazine.com/2026/11/02/end-of-life-is-just-the-beginning/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T05:00:00+00:00"
   }
 }
