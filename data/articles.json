@@ -1,4 +1,22 @@
 {
+  "7e2fb9906601": {
+    "id": "7e2fb9906601",
+    "title_en": "Everyone wants an electric pickup truck. I want more electric 125cc motorcycles",
+    "title_zh": "每个人都想要一辆电动皮卡。我想要更多的125cc电动摩托车",
+    "url": "https://electrek.co/2026/11/08/everyone-wants-an-electric-pickup-truck-i-want-more-electric-125cc-motorcycles/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-08T09:37:36+00:00"
+  },
+  "54f6cf4df594": {
+    "id": "54f6cf4df594",
+    "title_en": "Tesla Hasn’t Had A Successful New Product Launch Since JB Straubel Stepped Down As CTO",
+    "title_zh": "自从JB Straubel卸任首席技术官以来，特斯拉还没有成功推出新产品",
+    "url": "https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-08T04:57:46+00:00"
+  },
   "34ed9ad4aabe": {
     "id": "34ed9ad4aabe",
     "title_en": "A New $1.5 Billion Wind Farm Will Play In Peoria",
@@ -4480,23 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-11-02T10:15:54+00:00"
-  },
-  "72adaaaf2100": {
-    "id": "72adaaaf2100",
-    "title_en": "Polenergia secures financing for 276MW wind portfolio in Poland",
-    "title_zh": "Polenergia为波兰276MW风电项目融资",
-    "url": "https://www.energymonitor.ai/news/polenergia-secures-financing-wind-portfolio/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-02T10:05:13+00:00"
-  },
-  "abb64ba46659": {
-    "id": "abb64ba46659",
-    "title_en": "Utilities need to become project developers. Are they ready?",
-    "title_zh": "公用事业公司需要成为项目开发商。他们准备好了吗？",
-    "url": "https://www.utilitydive.com/spons/utilities-need-to-become-project-developers-are-they-ready/831847/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-02T10:00:00+00:00"
   }
 }
