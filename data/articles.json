@@ -1,4 +1,40 @@
 {
+  "34ed9ad4aabe": {
+    "id": "34ed9ad4aabe",
+    "title_en": "A New $1.5 Billion Wind Farm Will Play In Peoria",
+    "title_zh": "一个耗资15亿美元的新风电场将在皮奥里亚投入使用",
+    "url": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-08T00:24:20+00:00"
+  },
+  "fb02543f7673": {
+    "id": "fb02543f7673",
+    "title_en": "Wars May Spur Faster Electrification",
+    "title_zh": "战争可能刺激更快的电气化",
+    "url": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-08T00:00:00+00:00"
+  },
+  "8e474b93687d": {
+    "id": "8e474b93687d",
+    "title_en": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
+    "title_zh": "美国有500亿美元用于核废料，却无处可藏",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-07T22:00:00+00:00"
+  },
+  "7204e1b5fbc9": {
+    "id": "7204e1b5fbc9",
+    "title_en": "BMW Pitches Free EV Charging And You Ain’t Seen Nothing Yet",
+    "title_zh": "宝马推出免费电动汽车充电，你还什么都没看到",
+    "url": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-07T21:56:33+00:00"
+  },
   "fe3c517a29ba": {
     "id": "fe3c517a29ba",
     "title_en": "REDD — Picking Up Our New Tesla Model Y",
@@ -4462,41 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-11-02T10:00:00+00:00"
-  },
-  "7e10009aff91": {
-    "id": "7e10009aff91",
-    "title_en": "Rethinking the outage map for a multi-hazard world",
-    "title_zh": "重新思考多灾害世界的停电地图",
-    "url": "https://www.utilitydive.com/spons/rethinking-the-outage-map-for-a-multi-hazard-world/872890/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-02T10:00:00+00:00"
-  },
-  "bd6a3c8ddba2": {
-    "id": "bd6a3c8ddba2",
-    "title_en": "Iraq's Oil Exports via Turkey Surge to 500,000 Bpd",
-    "title_zh": "伊拉克通过土耳其的石油出口激增至50万桶/日",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Exports-via-Turkey-Surge-to-500000-Bpd.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-02T10:00:00+00:00"
-  },
-  "808154633956": {
-    "id": "808154633956",
-    "title_en": "US state eyes offshore wind power import from Canada",
-    "title_zh": "美国政府关注从加拿大进口海上风电",
-    "url": "https://www.windpowermonthly.com/article/1974004/us-state-eyes-offshore-wind-power-import-canada",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-02T09:54:34+00:00"
-  },
-  "af828d98f709": {
-    "id": "af828d98f709",
-    "title_en": "Pakistan seeks consultant for distributed solar project",
-    "title_zh": "巴基斯坦寻求分布式太阳能项目顾问",
-    "url": "https://www.pv-magazine.com/2026/11/02/pakistan-seeks-consultant-for-distributed-solar-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-02T09:22:53+00:00"
   }
 }
