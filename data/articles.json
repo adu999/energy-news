@@ -1,4 +1,130 @@
 {
+  "97cb988e055c": {
+    "id": "97cb988e055c",
+    "title_en": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+    "title_zh": "油价暴跌至92美元以下，特朗普对伊朗发出克制信号",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-10T05:20:00+00:00"
+  },
+  "d27f42f8e905": {
+    "id": "d27f42f8e905",
+    "title_en": "Cold calculations",
+    "title_zh": "冷计算",
+    "url": "https://www.pv-magazine.com/2026/11/10/cold-calculations/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-10T05:00:00+00:00"
+  },
+  "763ea4db8d9b": {
+    "id": "763ea4db8d9b",
+    "title_en": "More than 300 Solar & Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
+    "title_zh": "300多家太阳能和储能公司敦促国会通过两党许可改革，以加快清洁能源部署，降低成本",
+    "url": "https://cleantechnica.com/2026/11/09/more-than-300-solar-storage-companies-urge-congress-to-pass-bipartisan-permitting-reform-to-accelerate-clean-energy-deployment-lower-costs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-10T04:53:37+00:00"
+  },
+  "071090c22021": {
+    "id": "071090c22021",
+    "title_en": "5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like",
+    "title_zh": "5年来，野马Mach-E电池数据显示了现实世界电动汽车的耐用性",
+    "url": "https://cleantechnica.com/2026/11/09/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-electric-vehicle-durability-looks-like/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-10T04:50:49+00:00"
+  },
+  "1c6a37af537b": {
+    "id": "1c6a37af537b",
+    "title_en": "The 75-Year Army Deal That Could Reshape America's Rare Earth Supply",
+    "title_zh": "75年的陆军协议可能重塑美国的稀土供应",
+    "url": "https://oilprice.com/Interviews/The-75-Year-Army-Deal-That-Could-Reshape-Americas-Rare-Earth-Supply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-10T04:00:00+00:00"
+  },
+  "d7629c847e7a": {
+    "id": "d7629c847e7a",
+    "title_en": "New BYD Seal 07 Illustrates Chinese EV Evolution",
+    "title_zh": "比亚迪新款海豹07展示了中国电动汽车的发展历程",
+    "url": "https://cleantechnica.com/2026/11/09/new-byd-seal-07-illustrates-chinese-ev-evolution/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-10T03:56:04+00:00"
+  },
+  "beaf2aae707c": {
+    "id": "beaf2aae707c",
+    "title_en": "Sierra Club Welcomes CalPERS’ $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion",
+    "title_zh": "塞拉俱乐部欢迎加州公务员退休基金710亿美元的气候解决方案投资里程碑，敦促该基金结束化石燃料扩张的融资",
+    "url": "https://cleantechnica.com/2026/11/09/sierra-club-welcomes-calpers-71-billion-climate-solutions-investment-milestone-urges-fund-to-end-financing-of-fossil-fuel-expansion/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-10T02:00:21+00:00"
+  },
+  "af475d4c8002": {
+    "id": "af475d4c8002",
+    "title_en": "‘Walk to Stop the SERPent Pipeline’: Connecticut Groups Protest Proposed Eversource Pipeline",
+    "title_zh": "“步行阻止SERPent管道”：康涅狄格州团体抗议拟议的Eversource管道",
+    "url": "https://cleantechnica.com/2026/11/09/walk-to-stop-the-serpent-pipeline-connecticut-groups-protest-proposed-eversource-pipeline/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-10T01:56:36+00:00"
+  },
+  "396530c64009": {
+    "id": "396530c64009",
+    "title_en": "Humble Hauler autonomous trailer takes the truck out of trucking [update]",
+    "title_zh": "Humble Hauler自动拖车将卡车从卡车运输中解放出来[更新]",
+    "url": "https://electrek.co/2026/11/09/humble-hauler-autonomous-trailer-takes-the-truck-out-of-trucking/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-10T01:05:00+00:00"
+  },
+  "ce5192133a0c": {
+    "id": "ce5192133a0c",
+    "title_en": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+    "title_zh": "分析：随着伊朗冲突影响石油使用，化石燃料二氧化碳排放量将在2026年下降",
+    "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+    "source": "Carbon Brief",
+    "category": "政策",
+    "pub_ts": "2026-11-10T01:01:00+00:00"
+  },
+  "abe2df51f0c4": {
+    "id": "abe2df51f0c4",
+    "title_en": "U.S. Traders Weigh the Cost of Taking Trump’s Russian Diesel",
+    "title_zh": "美国贸易商权衡特朗普俄罗斯柴油的成本",
+    "url": "https://oilprice.com/Energy/Crude-Oil/US-Traders-Weigh-the-Cost-of-Taking-Trumps-Russian-Diesel.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-10T01:00:00+00:00"
+  },
+  "fad9c0e513ed": {
+    "id": "fad9c0e513ed",
+    "title_en": "PlugShare finally adds dark mode, and there’s more for EV drivers",
+    "title_zh": "PlugShare终于增加了黑暗模式，电动汽车驾驶员还有更多选择",
+    "url": "https://electrek.co/2026/11/09/plugshare-finally-adds-dark-mode-and-theres-more-for-ev-drivers/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-10T00:37:02+00:00"
+  },
+  "d79fbfa95654": {
+    "id": "d79fbfa95654",
+    "title_en": "China to Spend $940B on Energy Transition in 2026",
+    "title_zh": "中国将在2026年投资9400亿美元用于能源转型",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/China-to-Spend-940B-on-Energy-Transition-in-2026.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-10T00:00:00+00:00"
+  },
+  "655e0ab284ce": {
+    "id": "655e0ab284ce",
+    "title_en": "Scientists Develop Cheap Filter That Could Slash Oil Refining Energy Use by 32%",
+    "title_zh": "科学家开发出廉价的过滤器，可以将炼油能耗减少32%",
+    "url": "https://oilprice.com/Energy/Energy-General/Scientists-Develop-Cheap-Filter-That-Could-Slash-Oil-Refining-Energy-Use-by-32.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-09T23:00:00+00:00"
+  },
   "1151f1da4ae8": {
     "id": "1151f1da4ae8",
     "title_en": "The Mercedes-Benz EQS drove 539 miles on a single charge. Still worried about range?",
@@ -233,6 +359,15 @@
     "category": "EV",
     "pub_ts": "2026-11-09T16:41:29+00:00"
   },
+  "212413162485": {
+    "id": "212413162485",
+    "title_en": "PPL increases capital plan to $25B with proposed Kentucky gas plant",
+    "title_zh": "PPL将肯塔基州拟建天然气厂的资本计划增加到250亿美元",
+    "url": "https://www.utilitydive.com/news/ppl-increases-capital-plan-to-25b-with-proposed-kentucky-gas-plant/874129/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-11-09T16:38:05+00:00"
+  },
   "38a9708b7c63": {
     "id": "38a9708b7c63",
     "title_en": "Europe’s Power Prices Jump to 2022 High as Wind and Solar Falter",
@@ -376,6 +511,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-09T13:35:00+00:00"
+  },
+  "2369a912e720": {
+    "id": "2369a912e720",
+    "title_en": "Inside the ‘pressure cooker’: Electric utility regulators gather in wake of electoral earthquake",
+    "title_zh": "“高压锅”内部：选举地震后，电力监管机构聚集在一起",
+    "url": "https://www.utilitydive.com/news/grid-investment-affordability-naruc-state-policy/874080/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-11-09T13:16:11+00:00"
   },
   "6d6f67f4d93d": {
     "id": "6d6f67f4d93d",
@@ -4354,149 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-11-03T12:01:52+00:00"
-  },
-  "b80d3bbdcc3c": {
-    "id": "b80d3bbdcc3c",
-    "title_en": "BESS for EV charging: why sites need it, how it works and when to install",
-    "title_zh": "电动汽车充电BESS：为什么网站需要它，它是如何工作的，何时安装",
-    "url": "https://www.energy-storage.news/bess-for-ev-charging-guide/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-03T11:58:58+00:00"
-  },
-  "6e46256703bf": {
-    "id": "6e46256703bf",
-    "title_en": "Germany awards 288 MW of solar in rooftop tender at average price of €0.0967/kWh",
-    "title_zh": "德国在屋顶招标中授予288兆瓦太阳能，平均价格为0.0967欧元/千瓦时",
-    "url": "https://www.pv-magazine.com/2026/11/03/germany-awards-288-mw-of-solar-in-rooftop-tender-at-average-price-of-e0-0967-kwh/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T11:57:14+00:00"
-  },
-  "d9a31f192957": {
-    "id": "d9a31f192957",
-    "title_en": "France backs 1GW onshore wind in latest auction",
-    "title_zh": "法国在最新拍卖中支持1GW陆上风电",
-    "url": "https://www.windpowermonthly.com/article/1974177/france-backs-1gw-onshore-wind-latest-auction",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-03T11:37:19+00:00"
-  },
-  "798ea81f5c33": {
-    "id": "798ea81f5c33",
-    "title_en": "RenewSys inks 1.2GW POE encapsulant and backsheet supply deal with Kosol Energie",
-    "title_zh": "RenewSys与Kosol Energie达成1.2GW POE封装材料和背板供应协议",
-    "url": "https://www.pv-tech.org/renewsys-inks-1-2gw-poe-encapsulant-and-backsheet-supply-deal-with-kosol-energie/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T11:35:43+00:00"
-  },
-  "f4c3edd7cf00": {
-    "id": "f4c3edd7cf00",
-    "title_en": "Yamaha unveils new NMAX E, bringing electric power to its popular motorbike lineup",
-    "title_zh": "雅马哈推出新款NMAX E，为其受欢迎的摩托车系列带来电力",
-    "url": "https://electrek.co/2026/11/03/yamaha-unveils-new-nmax-e-bringing-electric-power-to-its-popular-motorbike-lineup/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-03T11:28:30+00:00"
-  },
-  "60e1959ad807": {
-    "id": "60e1959ad807",
-    "title_en": "PNE sells 250MW solar PV plant in South Africa",
-    "title_zh": "PNE在南非出售250MW太阳能光伏电站",
-    "url": "https://www.pv-tech.org/pne-sells-250mw-solar-pv-plant-in-south-africa/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T11:19:44+00:00"
-  },
-  "76d9138ffe9a": {
-    "id": "76d9138ffe9a",
-    "title_en": "Major energy companies dominate in Germany’s first backup power plant auction",
-    "title_zh": "大型能源公司在德国首个备用发电厂拍卖中占据主导地位",
-    "url": "https://www.cleanenergywire.org/news/major-energy-companies-dominate-germanys-first-backup-power-plant-auction",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-11-03T11:17:19+00:00"
-  },
-  "449e6ce7112f": {
-    "id": "449e6ce7112f",
-    "title_en": "Key takeaways from All Energy Australia 2026",
-    "title_zh": "2026年澳大利亚全能源展的主要收获",
-    "url": "https://www.pv-magazine.com/2026/11/03/batteries-are-big-at-all-energy-australia-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T11:14:39+00:00"
-  },
-  "1220b7792daa": {
-    "id": "1220b7792daa",
-    "title_en": "Solar PV cuts Spain’s electricity costs by €17.02 billion over 18 months",
-    "title_zh": "太阳能光伏在18个月内将西班牙的电力成本降低了170.2亿欧元",
-    "url": "https://www.pv-magazine.com/2026/11/03/solar-pv-cuts-spains-electricity-costs-by-e17-02-billion-over-18-months/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T11:10:01+00:00"
-  },
-  "2216a214e1d0": {
-    "id": "2216a214e1d0",
-    "title_en": "Slovenia tenders solar-plus-storage project",
-    "title_zh": "斯洛文尼亚招标太阳能+储能项目",
-    "url": "https://www.pv-magazine.com/2026/11/03/slovenia-tenders-solar-plus-storage-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T11:09:19+00:00"
-  },
-  "01a29c9d16fc": {
-    "id": "01a29c9d16fc",
-    "title_en": "Coal’s Revival Part II: Turning Ash Chemistry into Measurable Boiler Performance",
-    "title_zh": "煤的再生第二部分：将灰分化学转化为可测量的锅炉性能",
-    "url": "https://www.powermag.com/coals-revival-part-ii-turning-ash-chemistry-into-measurable-boiler-performance/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-11-03T11:08:34+00:00"
-  },
-  "6567d2a64192": {
-    "id": "6567d2a64192",
-    "title_en": "Shell Sells North West Shelf LNG Stake to Abu Dhabi's XRG for $1.45 Billion",
-    "title_zh": "壳牌以14.5亿美元的价格将西北陆架液化天然气股份出售给阿布扎比XRG",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Sells-North-West-Shelf-LNG-Stake-to-Abu-Dhabis-XRG-for-145-Billion.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-03T11:00:00+00:00"
-  },
-  "15f11afb3fe2": {
-    "id": "15f11afb3fe2",
-    "title_en": "Shenzhen Nanshan Power seeks majority stake in Trina Solar’s tracker business",
-    "title_zh": "深圳南山电力寻求天合光能跟踪器业务的多数股权",
-    "url": "https://www.pv-magazine.com/2026/11/03/shenzhen-nanshan-power-seeks-majority-stake-in-trina-solars-tracker-business/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T10:58:33+00:00"
-  },
-  "72c503c7d536": {
-    "id": "72c503c7d536",
-    "title_en": "Chinese cell producer Solarspace seeks controlling share of Eging PV",
-    "title_zh": "中国电池生产商Solarspace寻求控制埃金光伏股份",
-    "url": "https://www.pv-tech.org/chinese-cell-producer-solarspace-seeks-controlling-share-eging-pv/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-03T10:42:31+00:00"
-  },
-  "591532e0d666": {
-    "id": "591532e0d666",
-    "title_en": "BW ESS puts Europe’s largest BESS into commercial operation in the UK",
-    "title_zh": "BW ESS将欧洲最大的BESS在英国投入商业运营",
-    "url": "https://www.energy-storage.news/bw-ess-puts-europes-largest-bess-commercial-operation-uk-gb/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-03T10:35:40+00:00"
-  },
-  "0a2090fbaa41": {
-    "id": "0a2090fbaa41",
-    "title_en": "Turkey awards power deals in 1.5GW onshore wind auction",
-    "title_zh": "土耳其在1.5GW陆上风电拍卖中授予电力交易",
-    "url": "https://www.windpowermonthly.com/article/1974151/turkey-awards-power-deals-15gw-onshore-wind-auction",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-03T10:20:21+00:00"
   }
 }
