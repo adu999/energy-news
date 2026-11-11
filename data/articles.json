@@ -1,4 +1,85 @@
 {
+  "094d35e3f84e": {
+    "id": "094d35e3f84e",
+    "title_en": "Outcome pending on polysilicon action",
+    "title_zh": "多晶硅行动结果待定",
+    "url": "https://www.pv-magazine.com/2026/11/11/outcome-pending-on-polysilicon-action/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-11T05:00:00+00:00"
+  },
+  "f624f46651ea": {
+    "id": "f624f46651ea",
+    "title_en": "Joint Letter on Low-Carbon Steel Credits in the Review of EU CO₂ Emission Standards for Cars",
+    "title_zh": "欧盟CO审查中关于低碳钢信用的联合函₂ 汽车排放标准",
+    "url": "https://cleantechnica.com/2026/11/10/joint-letter-on-low-carbon-steel-credits-in-the-review-of-eu-co%e2%82%82-emission-standards-for-cars/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-11T01:55:08+00:00"
+  },
+  "d1b8206f96c2": {
+    "id": "d1b8206f96c2",
+    "title_en": "Tesla tuner Unplugged offers to take over Cybertruck production",
+    "title_zh": "特斯拉调谐器Unplugged提出接管Cybertruck生产",
+    "url": "https://electrek.co/2026/11/10/unplugged-performance-offers-take-over-tesla-cybertruck-production/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-11T01:48:28+00:00"
+  },
+  "949d8a6bfd24": {
+    "id": "949d8a6bfd24",
+    "title_en": "Middle East Oil Flows Far from Normal Despite Signs of Oversupply",
+    "title_zh": "尽管有供应过剩的迹象，但中东石油流量远未正常",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Middle-East-Oil-Flows-Far-from-Normal-Despite-Signs-of-Oversupply.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-11T01:00:00+00:00"
+  },
+  "822ca4fe9f69": {
+    "id": "822ca4fe9f69",
+    "title_en": "Solar & Storage Industry Statement on Bipartisan Permitting Reform Bill Passing First Procedural Vote",
+    "title_zh": "太阳能和储能行业关于两党许可改革法案通过第一次程序性投票的声明",
+    "url": "https://cleantechnica.com/2026/11/10/solar-storage-industry-statement-on-bipartisan-permitting-reform-bill-passing-first-procedural-vote/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-11T00:54:35+00:00"
+  },
+  "fd2c6e84b8f1": {
+    "id": "fd2c6e84b8f1",
+    "title_en": "Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
+    "title_zh": "英国Waymo无障碍网络介绍：共同设计自动驾驶的未来",
+    "url": "https://cleantechnica.com/2026/11/10/introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autonomous-mobility/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-11T00:44:46+00:00"
+  },
+  "1433df6c1d11": {
+    "id": "1433df6c1d11",
+    "title_en": "South Sudan Courts Oil Investors as Sudan’s Warring Forces Take Their Share",
+    "title_zh": "南苏丹向石油投资者提起诉讼，苏丹交战部队夺走了他们的份额",
+    "url": "https://oilprice.com/Energy/Crude-Oil/South-Sudan-Courts-Oil-Investors-as-Sudans-Warring-Forces-Take-Their-Share.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-11T00:00:00+00:00"
+  },
+  "04eb77b42c51": {
+    "id": "04eb77b42c51",
+    "title_en": "Data Center Power Demand Is Set to Surge, Raising New Climate Challenges: BloombergNEF",
+    "title_zh": "数据中心电力需求将激增，带来新的气候挑战：BloombergNEF",
+    "url": "https://about.bnef.com/insights/data-centers/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-11-10T23:00:58+00:00"
+  },
+  "1e94c38bfcd2": {
+    "id": "1e94c38bfcd2",
+    "title_en": "Midterm Results Could Trip Trump’s Energy Independence Plans",
+    "title_zh": "中期结果可能会破坏特朗普的能源独立计划",
+    "url": "https://oilprice.com/Energy/Energy-General/Midterm-Results-Could-Trip-Trumps-Energy-Independence-Plans.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-10T23:00:00+00:00"
+  },
   "71b7d1dd3760": {
     "id": "71b7d1dd3760",
     "title_en": "Kia launches two new PV5 electric van variants in the UK",
@@ -242,6 +323,15 @@
     "category": "政策",
     "pub_ts": "2026-11-10T17:21:37+00:00"
   },
+  "fdff8d863e10": {
+    "id": "fdff8d863e10",
+    "title_en": "GE Vernova to spend $34.5M expanding Louisiana transformer manufacturing capacity",
+    "title_zh": "GE Vernova将斥资3450万美元扩大路易斯安那州变压器制造能力",
+    "url": "https://www.utilitydive.com/news/ge-vernova-to-spend-345m-expanding-transformer-manufacturing-capacity-in/874272/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-11-10T17:03:44+00:00"
+  },
   "389750308ecd": {
     "id": "389750308ecd",
     "title_en": "BYD offices raided as JLR legal battle heats up over alleged Defender lookalike",
@@ -350,6 +440,15 @@
     "category": "EV",
     "pub_ts": "2026-11-10T15:07:39+00:00"
   },
+  "9fa8bebbdbb6": {
+    "id": "9fa8bebbdbb6",
+    "title_en": "Permitting bill advances in Senate, but election results cast doubt on its future",
+    "title_zh": "允许法案在参议院取得进展，但选举结果对其未来表示怀疑",
+    "url": "https://www.utilitydive.com/news/permitting-bill-advances-in-senate-but-its-future-is-uncertain-after-democ/874250/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-11-10T15:02:14+00:00"
+  },
   "cebe1ab0a61b": {
     "id": "cebe1ab0a61b",
     "title_en": "The Midterm Elections Opened a Bipartisan Path on Nuclear Waste",
@@ -358,6 +457,15 @@
     "source": "Power Magazine",
     "category": "电力",
     "pub_ts": "2026-11-10T14:55:13+00:00"
+  },
+  "b98767fe4252": {
+    "id": "b98767fe4252",
+    "title_en": "Most generators prepared for extreme cold, but risks remain: NERC",
+    "title_zh": "大多数发电机都为极端寒冷做好了准备，但风险依然存在：NERC",
+    "url": "https://www.utilitydive.com/news/generators-prepared-extreme-cold-nerc/874248/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-11-10T14:30:50+00:00"
   },
   "79268f0028a5": {
     "id": "79268f0028a5",
@@ -4390,113 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-04T13:27:26+00:00"
-  },
-  "aea11073a24b": {
-    "id": "aea11073a24b",
-    "title_en": "Singapore Reveals Five-Year Energy Plan to Feed Data Center, Semicon Progress",
-    "title_zh": "新加坡公布了为数据中心供电的五年能源计划，Semicon取得进展",
-    "url": "https://cleantechnica.com/2026/11/04/singapore-reveals-five-year-energy-plan-to-feed-data-center-semicon-progress/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-04T12:38:12+00:00"
-  },
-  "fe4502a5011d": {
-    "id": "fe4502a5011d",
-    "title_en": "Danish TSO proposes limited grid access scheme",
-    "title_zh": "丹麦输电系统运营商提出有限电网接入方案",
-    "url": "https://www.pv-magazine.com/2026/11/04/danish-tso-proposes-limited-grid-access-scheme/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-04T12:34:26+00:00"
-  },
-  "80bd44887846": {
-    "id": "80bd44887846",
-    "title_en": "Could BESS move towards LMFP battery chemistry?",
-    "title_zh": "BESS能否转向LMFP电池化学？",
-    "url": "https://www.energy-storage.news/could-bess-move-towards-lmfp-battery-chemistry/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-04T11:45:04+00:00"
-  },
-  "be90b3e25dc6": {
-    "id": "be90b3e25dc6",
-    "title_en": "Saft Unveils EnerShift, an Integrated Solution Combining Battery Storage, Energy Trading, and Financing",
-    "title_zh": "Saft推出EnerShift，这是一个集电池存储、能源交易和融资于一体的集成解决方案",
-    "url": "https://www.powermag.com/saft-unveils-enershift-an-integrated-solution-combining-battery-storage-energy-trading-and-financing/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-11-04T11:39:21+00:00"
-  },
-  "cf72486405a6": {
-    "id": "cf72486405a6",
-    "title_en": "Wind stocks rise on Democrats' victory over anti-wind Trump",
-    "title_zh": "民主党战胜反风特朗普，风股上涨",
-    "url": "https://www.windpowermonthly.com/article/1974303/wind-stocks-rise-democrats-victory-anti-wind-trump",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-04T11:14:33+00:00"
-  },
-  "02beb3d5b1ab": {
-    "id": "02beb3d5b1ab",
-    "title_en": "Turkey awards 785MW solar PV in latest YEKA tender",
-    "title_zh": "土耳其在最新的YEKA招标中授予785MW太阳能光伏",
-    "url": "https://www.pv-tech.org/turkey-awards-785mw-solar-pv-in-latest-yeka-tender/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-04T11:13:13+00:00"
-  },
-  "51d33eddd2f1": {
-    "id": "51d33eddd2f1",
-    "title_en": "Malaysia’s data center industry gets 500 MW solar, 1 GWh battery storage boost",
-    "title_zh": "马来西亚数据中心行业获得500兆瓦太阳能，1吉瓦时电池储能提升",
-    "url": "https://www.pv-magazine.com/2026/11/04/malaysias-data-center-industry-gets-500-mw-solar-1-gwh-battery-storage-boost/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-04T11:01:20+00:00"
-  },
-  "dd998868a28b": {
-    "id": "dd998868a28b",
-    "title_en": "Return finances 220MWh in Spain, BW ESS buys 800MWh in France",
-    "title_zh": "返回西班牙220MWh融资，BW ESS在法国购买800MWh",
-    "url": "https://www.energy-storage.news/return-finances-220mwh-in-spain-bw-ess-buys-800mwh-in-france/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-04T11:00:40+00:00"
-  },
-  "1cbc3f8de73a": {
-    "id": "1cbc3f8de73a",
-    "title_en": "Shenzhen Nanshan Power seeks controlling stake in TrinaTracker",
-    "title_zh": "深圳南山电力寻求控股天合光能",
-    "url": "https://www.pv-tech.org/trina-solar-tracker-businesses-divest-shenzhen-nanshan-power/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-04T11:00:30+00:00"
-  },
-  "f7e8d1149691": {
-    "id": "f7e8d1149691",
-    "title_en": "Dutch grid operator reports ongoing connection bottlenecks",
-    "title_zh": "荷兰电网运营商报告持续的连接瓶颈",
-    "url": "https://www.pv-magazine.com/2026/11/04/dutch-grid-operator-reports-ongoing-connection-bottlenecks/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-04T10:55:10+00:00"
-  },
-  "e948767839d1": {
-    "id": "e948767839d1",
-    "title_en": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-    "title_zh": "CB Live：Carbon Brief团队在COP17上讨论自然会谈的主要成果",
-    "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-11-04T10:40:52+00:00"
-  },
-  "7d3265f73b33": {
-    "id": "7d3265f73b33",
-    "title_en": "Energix commissions 152MWdc Border Basin Solar project in Ohio",
-    "title_zh": "Energix委托俄亥俄州152MWdc边界盆地太阳能项目",
-    "url": "https://www.energymonitor.ai/news/energix-commissions-border-basin-solar/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-04T10:40:51+00:00"
   }
 }
