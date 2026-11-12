@@ -1,4 +1,85 @@
 {
+  "7f3a1cdf8426": {
+    "id": "7f3a1cdf8426",
+    "title_en": "Pacific prospects",
+    "title_zh": "太平洋前景",
+    "url": "https://www.pv-magazine.com/2026/11/12/pacific-prospects/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-12T05:00:00+00:00"
+  },
+  "f8b69f78139a": {
+    "id": "f8b69f78139a",
+    "title_en": "Protected: Clean Energy Supply Chain Chartpack: 30 charts to understand the global clean energy industry landscape",
+    "title_zh": "受保护：清洁能源供应链Chartpack：30张图表，了解全球清洁能源行业格局",
+    "url": "https://about.bnef.com/insights/finance/clean-energy-supply-chain-chartpack-30-charts-to-understand-the-global-clean-energy-industry-landscape/",
+    "source": "Bloomberg NEF",
+    "category": "综合",
+    "pub_ts": "2026-11-12T03:07:51+00:00"
+  },
+  "5002a9f2be1a": {
+    "id": "5002a9f2be1a",
+    "title_en": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
+    "title_zh": "如果加州继续关闭炼油厂，谁会购买Sable的石油？",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-12T01:00:00+00:00"
+  },
+  "8b69988414a0": {
+    "id": "8b69988414a0",
+    "title_en": "Europe’s electric car sales jump 49% as global EV sales grow",
+    "title_zh": "随着全球电动汽车销量的增长，欧洲电动汽车销量增长了49%",
+    "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-12T00:01:00+00:00"
+  },
+  "38e6ba330b3e": {
+    "id": "38e6ba330b3e",
+    "title_en": "Global Power Grid Expansion Surges 50% to Record High",
+    "title_zh": "全球电网扩张率飙升50%创历史新高",
+    "url": "https://oilprice.com/Energy/Energy-General/Global-Power-Grid-Expansion-Surges-50-to-Record-High.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-12T00:00:00+00:00"
+  },
+  "72b3d80adb9b": {
+    "id": "72b3d80adb9b",
+    "title_en": "Trystar Introduces Five New Series of 17.5mm Relays for Space-Efficient Control Panel Design",
+    "title_zh": "Trystar推出五个新系列的17.5mm继电器，用于空间高效的控制面板设计",
+    "url": "https://www.powermag.com/trystar-introduces-five-new-series-of-17-5mm-relays-for-space-efficient-control-panel-design/",
+    "source": "Power Magazine",
+    "category": "电力",
+    "pub_ts": "2026-11-11T23:22:41+00:00"
+  },
+  "a77e29e06a41": {
+    "id": "a77e29e06a41",
+    "title_en": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+    "title_zh": "聚变的下一场竞赛是在超导带上，而不是等离子体上",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Fusions-Next-Race-Is-Over-Superconducting-Tape-Not-Plasma.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-11T23:00:00+00:00"
+  },
+  "3ed644c6dd62": {
+    "id": "3ed644c6dd62",
+    "title_en": "BYD shows what its new ‘Cloud Carriage’ intelligent body control system can really do",
+    "title_zh": "比亚迪展示了其新的“云马车”智能车身控制系统的真正功能",
+    "url": "https://electrek.co/2026/11/11/byd-shows-new-cloud-carriage-body-control-system-video/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-11T22:13:48+00:00"
+  },
+  "737da9d3ec33": {
+    "id": "737da9d3ec33",
+    "title_en": "Quantum Computing Is Being Pitched as the Fix for AI's Runaway Power Appetite",
+    "title_zh": "量子计算被视为人工智能失控的动力需求的解决方案",
+    "url": "https://oilprice.com/Energy/Energy-General/Quantum-Computing-Is-Being-Pitched-as-the-Fix-for-AIs-Runaway-Power-Appetite.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-11T22:00:00+00:00"
+  },
   "9465f9a5e844": {
     "id": "9465f9a5e844",
     "title_en": "Was Corruption The Biggest Issue In The US Election?",
@@ -4417,86 +4498,5 @@
     "source": "Offshore Wind",
     "category": "风电",
     "pub_ts": "2026-11-05T13:51:52+00:00"
-  },
-  "37ddfb31de86": {
-    "id": "37ddfb31de86",
-    "title_en": "European Gas Prices Drop on Iran Deal Hopes after U.S. Midterms",
-    "title_zh": "美国中期选举后伊朗达成协议的希望导致欧洲天然气价格下跌",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Drop-on-Iran-Deal-Hopes-after-US-Midterms.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-05T13:30:00+00:00"
-  },
-  "dfbd1aa028d6": {
-    "id": "dfbd1aa028d6",
-    "title_en": "IB Solar signs MoU with German firms for 2GW TOPCon cell manufacturing line and R&D centre",
-    "title_zh": "IB Solar与德国公司就2GW TOPCon电池生产线和研发中心签署谅解备忘录",
-    "url": "https://www.pv-tech.org/ib-solar-signs-mou-with-german-firms-for-2gw-topcon-cell-manufacturing-line-and-rd-centre/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-05T13:27:56+00:00"
-  },
-  "57db3e719cfc": {
-    "id": "57db3e719cfc",
-    "title_en": "Essar signs PPA with NHPC for 300MW FDRE project in Andhra Pradesh",
-    "title_zh": "Essar与NHPC签署了安德拉邦300MW FDRE项目的购电协议",
-    "url": "https://www.pv-tech.org/essar-signs-ppa-with-nhpc-for-300mw-fdre-project-in-andhra-pradesh/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-05T13:17:36+00:00"
-  },
-  "52a58324086a": {
-    "id": "52a58324086a",
-    "title_en": "Energix begins commercial operations at 152MW solar PV plant in Ohio",
-    "title_zh": "Energix在俄亥俄州的152MW太阳能光伏电站开始商业运营",
-    "url": "https://www.pv-tech.org/energix-begins-commercial-operations-at-152mw-solar-pv-plant-in-ohio/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-05T13:10:28+00:00"
-  },
-  "9f794f2f4c8e": {
-    "id": "9f794f2f4c8e",
-    "title_en": "Hoymiles plans to establish inverter factory in Oman",
-    "title_zh": "Hoymiles计划在阿曼建立逆变器工厂",
-    "url": "https://www.pv-magazine.com/2026/11/05/hoymiles-plans-to-establish-inverter-factory-in-oman/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-05T13:00:47+00:00"
-  },
-  "ff3a09a7e412": {
-    "id": "ff3a09a7e412",
-    "title_en": "Vard Starts Construction of Second CSOV for UPO",
-    "title_zh": "Vard开始为UPO建造第二个CSOV",
-    "url": "https://www.offshorewind.biz/2026/11/05/vard-starts-construction-of-second-csov-for-upo",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-05T12:57:03+00:00"
-  },
-  "36c62f9d7e6b": {
-    "id": "36c62f9d7e6b",
-    "title_en": "A Syzygy in Nuclear Energy",
-    "title_zh": "核能系统",
-    "url": "https://www.powermag.com/a-syzygy-in-nuclear-energy/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-11-05T12:42:48+00:00"
-  },
-  "d3f24434f56c": {
-    "id": "d3f24434f56c",
-    "title_en": "EDPR breaks ground on 250MW Cypress Knee Solar in Arkansas",
-    "title_zh": "EDPR在阿肯色州的250兆瓦Cypress Knee太阳能项目上破土动工",
-    "url": "https://www.pv-tech.org/edpr-groundreaking-cypress-knee-250mw-meta-arkansas/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-05T12:41:51+00:00"
-  },
-  "d535c6506a2d": {
-    "id": "d535c6506a2d",
-    "title_en": "DeepWay electric semi arrives in New Zealand, and gets a new name",
-    "title_zh": "DeepWay电动半挂车抵达新西兰并获得新名称",
-    "url": "https://electrek.co/2026/11/05/deepway-electric-semi-arrives-in-new-zealand-and-gets-a-new-name/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-05T12:10:00+00:00"
   }
 }
