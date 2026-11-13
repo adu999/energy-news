@@ -1,4 +1,76 @@
 {
+  "25c229c749e8": {
+    "id": "25c229c749e8",
+    "title_en": "Why solar projects fail",
+    "title_zh": "太阳能项目为何失败",
+    "url": "https://www.pv-magazine.com/2026/11/13/why-solar-projects-fail/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-13T05:00:00+00:00"
+  },
+  "63009dab1edc": {
+    "id": "63009dab1edc",
+    "title_en": "Managing Offshore Wind in the Face of Uncertainty",
+    "title_zh": "面对不确定性管理海上风电",
+    "url": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-13T04:07:58+00:00"
+  },
+  "aff614ffbbe6": {
+    "id": "aff614ffbbe6",
+    "title_en": "Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
+    "title_zh": "参议院共和党人开始干扰BAAJA，而特朗普威胁要忽视它",
+    "url": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-13T03:30:22+00:00"
+  },
+  "b72ff69449c1": {
+    "id": "b72ff69449c1",
+    "title_en": "Hoosiers Call on EPA Not to Weaken Coal Ash Rules at Public Hearing",
+    "title_zh": "印第安纳州呼吁美国环保署在公开听证会上不要削弱煤灰规定",
+    "url": "https://cleantechnica.com/2026/11/12/hoosiers-call-on-epa-not-to-weaken-coal-ash-rules-at-public-hearing/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-13T03:20:50+00:00"
+  },
+  "82f4e054e6d7": {
+    "id": "82f4e054e6d7",
+    "title_en": "What Happens in Vegas Should Inform the Rest of the Country",
+    "title_zh": "拉斯维加斯发生的事情应该告诉全国其他地区",
+    "url": "https://cleantechnica.com/2026/11/12/what-happens-in-vegas-should-inform-the-rest-of-the-country/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-13T02:29:28+00:00"
+  },
+  "cf81d4d5c087": {
+    "id": "cf81d4d5c087",
+    "title_en": "Rare Earth Wars: U.S. General Sounds Alarm Over China's Military Leverage",
+    "title_zh": "稀土战争：美国将军对中国的军事影响力发出警告",
+    "url": "https://oilprice.com/Energy/Energy-General/Rare-Earth-Wars-US-General-Sounds-Alarm-Over-Chinas-Military-Leverage.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-13T01:00:00+00:00"
+  },
+  "9f25dba52296": {
+    "id": "9f25dba52296",
+    "title_en": "Oil Prices Squeezed Between Peace Hopes and Iran Escalation Risk",
+    "title_zh": "油价在和平希望和伊朗升级风险之间受到挤压",
+    "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Squeezed-Between-Peace-Hopes-and-Iran-Escalation-Risk.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-13T00:00:00+00:00"
+  },
+  "449c55a1066c": {
+    "id": "449c55a1066c",
+    "title_en": "sonnen’s new smart breakers help your home battery last longer",
+    "title_zh": "sonnen的新型智能断路器可帮助您延长家用电池的使用寿命",
+    "url": "https://electrek.co/2026/11/12/sonnens-new-smart-breakers-help-your-home-battery-last-longer/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-12T23:22:43+00:00"
+  },
   "7c10288385ae": {
     "id": "7c10288385ae",
     "title_en": "Venezuela Ends 19-Year Power Monopoly, With Oil Fields First in Line",
@@ -33,6 +105,15 @@
     "url": "https://oilprice.com/Energy/Crude-Oil/More-Drilling-Wont-Shield-US-Consumers-From-Oil-Price-Shocks.html",
     "source": "Oil Price",
     "category": "油气",
+    "pub_ts": "2026-11-12T22:00:00+00:00"
+  },
+  "76ca506c371e": {
+    "id": "76ca506c371e",
+    "title_en": "Ohio GOP circulates bill that would stymie coal plant closures",
+    "title_zh": "俄亥俄州共和党通过法案，阻止燃煤电厂关闭",
+    "url": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
+    "source": "Canary Media",
+    "category": "综合",
     "pub_ts": "2026-11-12T22:00:00+00:00"
   },
   "b6e7bc2b6499": {
@@ -4417,86 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-11-06T12:49:41+00:00"
-  },
-  "53d9e40d00e7": {
-    "id": "53d9e40d00e7",
-    "title_en": "Third Latvian solar PV plant from Ignitis Renewables enters operations",
-    "title_zh": "Ignitis Renewables的第三座拉脱维亚太阳能光伏电站投入运营",
-    "url": "https://www.pv-tech.org/third-latvian-solar-pv-plant-from-ignitis-renewables-enters-operations/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T12:48:01+00:00"
-  },
-  "d453d1bd5331": {
-    "id": "d453d1bd5331",
-    "title_en": "Sodium-ion batteries approach cost parity with LFP, with 70 GWh covered by supply agreements",
-    "title_zh": "钠离子电池的成本接近LFP，供应协议涵盖70 GWh",
-    "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T12:34:37+00:00"
-  },
-  "582f4b8a10db": {
-    "id": "582f4b8a10db",
-    "title_en": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War",
-    "title_zh": "美国大选动摇伊朗战争，油价暴跌",
-    "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-06T12:30:00+00:00"
-  },
-  "f02a707222c4": {
-    "id": "f02a707222c4",
-    "title_en": "The Hydrogen Stream: H2 turbines can push LCOHS to around $0.62/kg",
-    "title_zh": "氢流：H2涡轮机可以将LCOHS提高到0.62美元/公斤左右",
-    "url": "https://www.pv-magazine.com/2026/11/06/the-hydrogen-stream-h2-turbines-can-push-lcohs-to-around-0-62-kg/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T12:29:09+00:00"
-  },
-  "b0cb77fa63e3": {
-    "id": "b0cb77fa63e3",
-    "title_en": "Chinese PV Industry Brief: JA, Longi, Tongwei report widening losses",
-    "title_zh": "中国光伏产业简报：晶澳、隆基、通威报告亏损扩大",
-    "url": "https://www.pv-magazine.com/2026/11/06/chinese-pv-industry-brief-ja-longi-tongwei-report-widening-losses/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T12:16:25+00:00"
-  },
-  "5ac7c9346980": {
-    "id": "5ac7c9346980",
-    "title_en": "Soluxtec resumes TOPCon solar module production in Germany",
-    "title_zh": "Soluxtec在德国恢复TOPCon太阳能组件生产",
-    "url": "https://www.pv-magazine.com/2026/11/06/soluxtec-resumes-topcon-solar-module-production-in-germany/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T12:06:13+00:00"
-  },
-  "20a47c79c5c6": {
-    "id": "20a47c79c5c6",
-    "title_en": "The renewable energy industry weighs in on the midterms",
-    "title_zh": "可再生能源行业在中期选举中发挥作用",
-    "url": "https://www.solarpowerworldonline.com/2026/11/the-renewable-energy-industry-weighs-in-on-the-midterms/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T12:00:07+00:00"
-  },
-  "669796502c79": {
-    "id": "669796502c79",
-    "title_en": "Zoomlion says its new, 1,600 hp hybrid tractor is the world’s most powerful",
-    "title_zh": "中联重科表示，其1600马力的新型混合动力拖拉机是世界上最强大的拖拉机",
-    "url": "https://electrek.co/2026/11/06/zoomlion-says-its-new-1600-hp-hybrid-tractor-is-the-worlds-most-powerful/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-06T11:48:09+00:00"
-  },
-  "da35b968eb9b": {
-    "id": "da35b968eb9b",
-    "title_en": "FTC Solar reports revenue up 26% in Q3, secures new supply agreements",
-    "title_zh": "FTC Solar报告第三季度收入增长26%，获得新的供应协议",
-    "url": "https://www.pv-tech.org/ftc-solar-revenue-up-26-in-q3-secures-new-supply-agreements/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-06T11:44:45+00:00"
   }
 }
