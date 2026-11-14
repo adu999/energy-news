@@ -1,4 +1,85 @@
 {
+  "d502e3f3566b": {
+    "id": "d502e3f3566b",
+    "title_en": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
+    "title_zh": "我终于买了一辆USB-C充电电动自行车，它比Rivian的自行车便宜75%",
+    "url": "https://electrek.co/2026/11/14/i-finally-got-a-usb-c-charging-e-bike-and-it-costs-75-less-than-rivians-bike/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-14T13:02:00+00:00"
+  },
+  "5c6e8407f391": {
+    "id": "5c6e8407f391",
+    "title_en": "First attempt to address screen printing-induced degradation in copper-plated heterojunction solar cells",
+    "title_zh": "首次尝试解决镀铜异质结太阳能电池丝网印刷引起的退化问题",
+    "url": "https://www.pv-magazine.com/2026/11/14/first-attempt-to-address-screen-printing-induced-degradation-in-copper-plated-heterojunction-solar-cells/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T10:55:00+00:00"
+  },
+  "9c5eb4a7e47b": {
+    "id": "9c5eb4a7e47b",
+    "title_en": "Great Lakes irradiance surges as wet weather weighs on Southwest solar resource",
+    "title_zh": "潮湿天气对西南部太阳能资源造成压力，五大湖辐照度激增",
+    "url": "https://www.pv-magazine.com/2026/11/14/great-lakes-irradiance-surges-as-wet-weather-weighs-on-southwest-solar-resource/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T10:50:00+00:00"
+  },
+  "dbb172275435": {
+    "id": "dbb172275435",
+    "title_en": "UNSW develops three-minute lithium-ion battery health test",
+    "title_zh": "新南威尔士大学开发三分钟锂离子电池健康测试",
+    "url": "https://www.pv-magazine.com/2026/11/14/unsw-develops-three-minute-lithium-ion-battery-health-test/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T10:47:00+00:00"
+  },
+  "bbe8f9021ad3": {
+    "id": "bbe8f9021ad3",
+    "title_en": "‘The times I regret are the ones when I didn’t value myself enough to speak up’",
+    "title_zh": "“我后悔的时候是我没有足够重视自己，没有说出来的时候”",
+    "url": "https://www.pv-magazine.com/2026/11/14/the-times-i-regret-are-the-ones-when-i-didnt-value-myself-enough-to-speak-up/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T10:30:00+00:00"
+  },
+  "edb325d641f1": {
+    "id": "edb325d641f1",
+    "title_en": "Masdar completes $950 million solar and battery storage project in California",
+    "title_zh": "马斯达尔在加利福尼亚州完成了9.5亿美元的太阳能和电池储能项目",
+    "url": "https://www.pv-magazine.com/2026/11/14/masdar-completes-950-million-solar-and-battery-storage-project-in-california/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T09:30:00+00:00"
+  },
+  "939046000d36": {
+    "id": "939046000d36",
+    "title_en": "Clarifying the CATL Tener Sodium, with new specifications and availability",
+    "title_zh": "通过新的规格和可用性澄清CATL Tener Sodium",
+    "url": "https://www.pv-magazine.com/2026/11/14/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T08:30:00+00:00"
+  },
+  "3ee16b34d729": {
+    "id": "3ee16b34d729",
+    "title_en": "Transparent bamboo boosts energy performance of solar PV skylights",
+    "title_zh": "透明竹子提升太阳能光伏天窗的能源性能",
+    "url": "https://www.pv-magazine.com/2026/11/14/transparent-bamboo-boosts-energy-performance-of-solar-pv-skylights/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T08:00:00+00:00"
+  },
+  "43bbb8f910ea": {
+    "id": "43bbb8f910ea",
+    "title_en": "Yanhe Technology launches three perovskite solar module technologies into orbit",
+    "title_zh": "沿河科技将三种钙钛矿太阳能模块技术送入轨道",
+    "url": "https://www.pv-magazine.com/2026/11/14/yanhe-technology-launches-three-perovskite-solar-module-technologies-into-orbit/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-14T07:30:00+00:00"
+  },
   "bfa31ac46064": {
     "id": "bfa31ac46064",
     "title_en": "When trackers don’t talk",
@@ -7,6 +88,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-14T05:00:00+00:00"
+  },
+  "e92c36e0a798": {
+    "id": "e92c36e0a798",
+    "title_en": "Tesla Starts Selling Cybercab — $30,000*",
+    "title_zh": "特斯拉开始出售Cybercab——3万美元*",
+    "url": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T04:57:57+00:00"
   },
   "505629fb27e2": {
     "id": "505629fb27e2",
@@ -4408,95 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-11-09T08:00:00+00:00"
-  },
-  "5017a383c8fa": {
-    "id": "5017a383c8fa",
-    "title_en": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
-    "title_zh": "问：贝伦-安塔利亚的“公正过渡”机制是什么？",
-    "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
-    "source": "Carbon Brief",
-    "category": "政策",
-    "pub_ts": "2026-11-09T08:00:00+00:00"
-  },
-  "21e2fc1ae430": {
-    "id": "21e2fc1ae430",
-    "title_en": "Solar panel waste yields silica nanoparticles for battery anodes",
-    "title_zh": "太阳能电池板废料产生用于电池阳极的二氧化硅纳米粒子",
-    "url": "https://www.pv-magazine.com/2026/11/09/solar-panel-waste-yields-silica-nanoparticles-for-battery-anodes/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T07:00:36+00:00"
-  },
-  "0799bb57959a": {
-    "id": "0799bb57959a",
-    "title_en": "What solar installers should ask before handing back office to AI",
-    "title_zh": "太阳能安装人员在将办公室交还给人工智能之前应该问什么",
-    "url": "https://www.pv-magazine.com/2026/11/09/what-solar-installers-should-ask-before-handing-back-office-to-ai/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T06:48:05+00:00"
-  },
-  "aa190545e7de": {
-    "id": "aa190545e7de",
-    "title_en": "SolarEdge exits Australian market",
-    "title_zh": "SolarEdge退出澳大利亚市场",
-    "url": "https://www.pv-magazine.com/2026/11/09/solaredge-exits-australian-market/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T06:46:15+00:00"
-  },
-  "2b3c6d846756": {
-    "id": "2b3c6d846756",
-    "title_en": "Oil Prices Fall as Trump Signals No New Attacks on Iran",
-    "title_zh": "油价下跌，特朗普表示不会对伊朗发动新的袭击",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Trump-Signals-No-New-Attacks-on-Iran.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-09T05:45:00+00:00"
-  },
-  "3f74b988fe3f": {
-    "id": "3f74b988fe3f",
-    "title_en": "The changing landscape of US PV imports",
-    "title_zh": "美国光伏进口格局的变化",
-    "url": "https://www.pv-magazine.com/2026/11/09/the-changing-landscape-of-us-pv-imports/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T05:00:00+00:00"
-  },
-  "ab8fb9e4f27b": {
-    "id": "ab8fb9e4f27b",
-    "title_en": "Panamint Capital closes finance for 1.2GW solar PV plant near Twin Oaks power station",
-    "title_zh": "Panamint Capital完成了Twin Oaks发电站附近1.2GW太阳能光伏电站的融资",
-    "url": "https://www.pv-tech.org/panamint-capital-closes-finance-for-1-2gw-solar-pv-plant-near-twin-oaks-power-station/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T00:11:00+00:00"
-  },
-  "9f0a53922a9c": {
-    "id": "9f0a53922a9c",
-    "title_en": "Iraq’s 5 Million Bpd Oil Claim Complicates Its OPEC Quota Push",
-    "title_zh": "伊拉克500万桶/日的石油索赔使其欧佩克配额推动复杂化",
-    "url": "https://oilprice.com/Energy/Crude-Oil/Iraqs-5-Million-Bpd-Oil-Claim-Complicates-Its-OPEC-Quota-Push.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-09T00:00:00+00:00"
-  },
-  "9ac9d23399b2": {
-    "id": "9ac9d23399b2",
-    "title_en": "The Jackery HomePower 2000 Plus v2 Red Cross Edition — CleanTechnica Tested",
-    "title_zh": "Jackery HomePower 2000 Plus v2红十字版——CleanTechnica测试",
-    "url": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-08T22:37:06+00:00"
-  },
-  "f53fce5fe1fa": {
-    "id": "f53fce5fe1fa",
-    "title_en": "Democratic Win Set to Reshuffle U.S. Energy Policy",
-    "title_zh": "民主党获胜将重塑美国能源政策",
-    "url": "https://oilprice.com/Energy/Energy-General/Democratic-Win-Set-to-Reshuffle-US-Energy-Policy.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-08T22:00:00+00:00"
   }
 }
