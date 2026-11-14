@@ -1,4 +1,85 @@
 {
+  "8dcee596d871": {
+    "id": "8dcee596d871",
+    "title_en": "AI Businesses Still Bleeding Billions",
+    "title_zh": "人工智能企业仍在亏损数十亿美元",
+    "url": "https://cleantechnica.com/2026/11/14/ai-businesses-still-bleeding-billions/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T19:08:46+00:00"
+  },
+  "969da142fe76": {
+    "id": "969da142fe76",
+    "title_en": "Study Pinpoints States with Steepest Warming Trends Since 1980",
+    "title_zh": "研究确定了1980年以来变暖趋势最严重的州",
+    "url": "https://cleantechnica.com/2026/11/14/study-pinpoints-states-with-steepest-warming-trends-since-1980/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T18:19:27+00:00"
+  },
+  "2e9ed23eee47": {
+    "id": "2e9ed23eee47",
+    "title_en": "Singapore Makes a $65 Billion Bet on the Future of Gold",
+    "title_zh": "新加坡对黄金的未来下了650亿美元的赌注",
+    "url": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-14T18:00:00+00:00"
+  },
+  "321a65a1340a": {
+    "id": "321a65a1340a",
+    "title_en": "Zoox Launches Robotaxis in Atlanta",
+    "title_zh": "Zoox在亚特兰大推出机器人出租车",
+    "url": "https://cleantechnica.com/2026/11/14/zoox-launches-robotaxis-in-atlanta/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T17:44:08+00:00"
+  },
+  "da89989bafe7": {
+    "id": "da89989bafe7",
+    "title_en": "Check your ego at the door: Stellantis’ new electric dolly turns ANY car into a tow rig",
+    "title_zh": "在门口检查你的自尊心：Stellantis的新电动推车可以把任何汽车变成拖车",
+    "url": "https://electrek.co/2026/11/14/check-your-ego-at-the-door-stellantis-new-electric-dolly-turns-any-car-into-a-tow-rig/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-14T17:35:39+00:00"
+  },
+  "83a4e4887d17": {
+    "id": "83a4e4887d17",
+    "title_en": "Huawei set to challenge Tesla Powerwall with new, 20 kW home battery",
+    "title_zh": "华为将用新的20千瓦家用电池挑战特斯拉Powerwall",
+    "url": "https://electrek.co/2026/11/14/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-14T16:25:02+00:00"
+  },
+  "adb1e9dc3f6d": {
+    "id": "adb1e9dc3f6d",
+    "title_en": "The US Is Auctioning Seabed Near American Samoa. A $3 Million Bid Will Not Build a Mine.",
+    "title_zh": "美国正在拍卖美属萨摩亚附近的海底。300万美元的出价不会建造一座矿山。",
+    "url": "https://cleantechnica.com/2026/11/14/seabed-mining-lease-critical-minerals-business-case/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T16:13:50+00:00"
+  },
+  "5b1ce8ee8bbb": {
+    "id": "5b1ce8ee8bbb",
+    "title_en": "America’s Offshore Wind Industry Is Growing Despite Trump’s Crackdown",
+    "title_zh": "尽管特朗普采取了镇压措施，但美国海上风电行业仍在增长",
+    "url": "https://oilprice.com/Alternative-Energy/Wind-Power/Americas-Offshore-Wind-Industry-Is-Growing-Despite-Trumps-Crackdown.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-14T16:00:00+00:00"
+  },
+  "d856d78d8607": {
+    "id": "d856d78d8607",
+    "title_en": "Tesla Cybercab’s autonomy agreement is insane: $299/mo or it doesn’t move",
+    "title_zh": "特斯拉Cybercab的自动驾驶协议是疯狂的：299美元/月或它不会移动",
+    "url": "https://electrek.co/2026/11/14/tesla-cybercab-autonomy-subscription-agreement-terms/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-14T13:33:00+00:00"
+  },
   "d502e3f3566b": {
     "id": "d502e3f3566b",
     "title_en": "I finally got a USB-C charging e-bike, and it costs 75% less than Rivian’s bike",
@@ -88,6 +169,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-14T05:00:00+00:00"
+  },
+  "8b71f2965442": {
+    "id": "8b71f2965442",
+    "title_en": "Zoox Expands Robotaxi Service in Las Vegas",
+    "title_zh": "Zoox在拉斯维加斯扩展Robotaxi服务",
+    "url": "https://cleantechnica.com/2026/11/13/zoox-expands-robotaxi-service-in-las-vegas/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T04:58:11+00:00"
   },
   "e92c36e0a798": {
     "id": "e92c36e0a798",
@@ -4408,95 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-11-09T09:23:07+00:00"
-  },
-  "0f1f2cfddfe5": {
-    "id": "0f1f2cfddfe5",
-    "title_en": "Salt-based thermal storage supports renewable steam in Spain",
-    "title_zh": "西班牙的盐基储热技术支持可再生蒸汽",
-    "url": "https://www.pv-magazine.com/2026/11/09/salt-based-thermal-storage-supports-renewable-steam-in-spain/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T09:22:30+00:00"
-  },
-  "d1c8aca891fd": {
-    "id": "d1c8aca891fd",
-    "title_en": "Australia’s NEM BESS-stored energy hits record 20.17GWh, up 203% in a year",
-    "title_zh": "澳大利亚NEM BESS储能达到创纪录的20.17GWh，一年内增长203%",
-    "url": "https://www.energy-storage.news/australias-nem-bess-stored-energy-hits-record-20-17gwh-up-203-in-a-year/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-09T09:19:59+00:00"
-  },
-  "ab318b54ab8e": {
-    "id": "ab318b54ab8e",
-    "title_en": "Tongwei unveils 26.03%-efficient TOPCon solar cell with high sheet resistance",
-    "title_zh": "通威推出26.03%高效高薄层电阻TOPCon太阳能电池",
-    "url": "https://www.pv-magazine.com/2026/11/09/tongwei-unveils-26-0-3-efficient-topcon-solar-cell-with-high-sheet-resistance/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T09:17:18+00:00"
-  },
-  "9864aa1f5aff": {
-    "id": "9864aa1f5aff",
-    "title_en": "Iraq Strikes U.S. Deal to Boost Oil Exports Through Hormuz",
-    "title_zh": "伊拉克与美国达成协议，通过霍尔木兹增加石油出口",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Strikes-US-Deal-to-Boost-Oil-Exports-Through-Hormuz.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-09T09:10:00+00:00"
-  },
-  "91d374d0cb9e": {
-    "id": "91d374d0cb9e",
-    "title_en": "Latvia switches on 174 MW of solar",
-    "title_zh": "拉脱维亚启动174兆瓦太阳能发电",
-    "url": "https://www.pv-magazine.com/2026/11/09/latvia-switches-on-174-mw-of-solar/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T08:44:02+00:00"
-  },
-  "aff09813cf3c": {
-    "id": "aff09813cf3c",
-    "title_en": "Jakson targets 3 GW integrated manufacturing capacity by 2028, eyes potential 10 GW ingot-wafer expansion",
-    "title_zh": "Jakson计划到2028年实现3吉瓦的综合制造能力，并着眼于10吉瓦的铸锭晶圆扩张潜力",
-    "url": "https://www.pv-magazine.com/2026/11/09/jakson-targets-3-gw-integrated-manufacturing-capacity-by-2028-eyes-potential-10-gw-ingot-wafer-expansion/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T08:44:02+00:00"
-  },
-  "9a2a6c818db4": {
-    "id": "9a2a6c818db4",
-    "title_en": "Where’s the beef? Under the solar panels.",
-    "title_zh": "牛肉在哪里？在太阳能电池板下面。",
-    "url": "https://www.canarymedia.com/articles/food-and-farms/wheres-the-beef-solar-panels",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-11-09T08:30:00+00:00"
-  },
-  "819ffe5d6dac": {
-    "id": "819ffe5d6dac",
-    "title_en": "After a gas furnace leak, this retiree went all-electric — for free",
-    "title_zh": "煤气炉泄漏后，这位退休人员全用电了——免费",
-    "url": "https://www.canarymedia.com/articles/electrification/gas-furnace-leak-to-all-electric",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-11-09T08:30:00+00:00"
-  },
-  "708b4108d5a4": {
-    "id": "708b4108d5a4",
-    "title_en": "SSE Secures Grid Connection Consent for Third Phase of 4.1 GW Berwick Bank",
-    "title_zh": "苏格兰和南方能源公司获得4.1吉瓦贝里克银行第三期并网许可",
-    "url": "https://www.offshorewind.biz/2026/11/09/sse-secures-grid-connection-consent-for-third-phase-of-41-gw-berwick-bank",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-09T08:21:20+00:00"
-  },
-  "e1c44ea65988": {
-    "id": "e1c44ea65988",
-    "title_en": "China Cuts LNG Imports as Cheap Domestic Gas Undercuts Global Prices",
-    "title_zh": "中国削减液化天然气进口，因为廉价的国内天然气价格低于全球价格",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Cuts-LNG-Imports-as-Cheap-Domestic-Gas-Undercuts-Global-Prices.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-09T08:00:00+00:00"
   }
 }
