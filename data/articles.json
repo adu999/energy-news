@@ -1,4 +1,40 @@
 {
+  "1c839ae4ffb7": {
+    "id": "1c839ae4ffb7",
+    "title_en": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
+    "title_zh": "Sonnen、SOLRITE和ADAPT Energy整合VPP断路器，将家庭负荷转化为灵活的电网资产",
+    "url": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T04:39:35+00:00"
+  },
+  "4d91f288d6d0": {
+    "id": "4d91f288d6d0",
+    "title_en": "Rocket Fuel: The Last Frontier For Natural Gas",
+    "title_zh": "火箭燃料：天然气的最后边界",
+    "url": "https://cleantechnica.com/2026/11/14/natural-gas-methane-rocket-fuel-spacex-pipelines/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T03:40:32+00:00"
+  },
+  "374a77c1a9d0": {
+    "id": "374a77c1a9d0",
+    "title_en": "313 kW Rooftop Solar System at Virginia Elementary Will Save $581,000 in Energy Costs",
+    "title_zh": "弗吉尼亚小学313千瓦屋顶太阳能系统将节省581000美元的能源成本",
+    "url": "https://cleantechnica.com/2026/11/14/313-kw-solar-power-system-rooftop-system-at-virginia-elementary-will-save-581000-in-energy-costs/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T02:22:47+00:00"
+  },
+  "600a46338ee0": {
+    "id": "600a46338ee0",
+    "title_en": "What The US Midterm Elections Mean For Climate Progress",
+    "title_zh": "美国中期选举对气候进步意味着什么",
+    "url": "https://cleantechnica.com/2026/11/14/what-the-us-midterm-elections-mean-for-climate-progress/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T00:52:25+00:00"
+  },
   "f1f3638d6e2f": {
     "id": "f1f3638d6e2f",
     "title_en": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
@@ -4462,41 +4498,5 @@
     "source": "Energy Monitor",
     "category": "综合",
     "pub_ts": "2026-11-09T10:15:45+00:00"
-  },
-  "1f0eada15dd2": {
-    "id": "1f0eada15dd2",
-    "title_en": "European Energy and AirTrunk open 31MW Mulwala solar PV plant in New South Wales, Australia",
-    "title_zh": "欧洲能源和AirTrunk在澳大利亚新南威尔士州开设31MW Mulwala太阳能光伏电站",
-    "url": "https://www.pv-tech.org/european-energy-and-airtrunk-open-31mw-mulwala-solar-pv-plant-in-new-south-wales-australia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T10:14:35+00:00"
-  },
-  "b19d97454f4a": {
-    "id": "b19d97454f4a",
-    "title_en": "ABO Energy suspends interest payment amid restructuring",
-    "title_zh": "ABO Energy在重组期间暂停支付利息",
-    "url": "https://www.windpowermonthly.com/article/1974654/abo-energy-suspends-interest-payment-amid-restructuring",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-09T10:04:27+00:00"
-  },
-  "7a1af8c8f6d9": {
-    "id": "7a1af8c8f6d9",
-    "title_en": "Every virtual megawatt needs a meter",
-    "title_zh": "每个虚拟兆瓦都需要一个电表",
-    "url": "https://www.utilitydive.com/spons/every-virtual-megawatt-needs-a-meter/873408/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-09T10:00:00+00:00"
-  },
-  "ddeb432de93d": {
-    "id": "ddeb432de93d",
-    "title_en": "The next wave of energy storage capacity is already on the grid",
-    "title_zh": "下一波储能容量已经并网",
-    "url": "https://www.utilitydive.com/spons/the-next-wave-of-energy-storage-capacity-is-already-on-the-grid/873140/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-09T10:00:00+00:00"
   }
 }
