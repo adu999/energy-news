@@ -1,4 +1,76 @@
 {
+  "6c1eeab79dfb": {
+    "id": "6c1eeab79dfb",
+    "title_en": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
+    "title_zh": "特斯拉推出一辆不成熟的Cybercab只是为了剃掉MKBHD的头吗？",
+    "url": "https://electrek.co/2026/11/15/tesla-cybercab-mkbhd-bet-musk-chicken/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-15T16:31:24+00:00"
+  },
+  "f7aa33dba050": {
+    "id": "f7aa33dba050",
+    "title_en": "Mowing milestone: Greenzie surpasses 255,000 autonomous miles mowed",
+    "title_zh": "割草里程碑：Greenzie的自动割草里程超过25.5万英里",
+    "url": "https://electrek.co/2026/11/15/mowing-milestone-greenzie-surpasses-255000-autonomous-miles-mowed/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-15T16:07:39+00:00"
+  },
+  "957f874deaf5": {
+    "id": "957f874deaf5",
+    "title_en": "Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line",
+    "title_zh": "Scout迈向大规模生产，线上预订量超过200000",
+    "url": "https://cleantechnica.com/2026/11/15/scout-steps-toward-mass-production-with-200000-reservations-on-the-line/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T16:01:50+00:00"
+  },
+  "5dbee60ea987": {
+    "id": "5dbee60ea987",
+    "title_en": "How Brazil Plans to Accelerate the Global Shift Away From Fossil Fuels",
+    "title_zh": "巴西计划如何加速全球摆脱化石燃料",
+    "url": "https://oilprice.com/Energy/Energy-General/How-Brazil-Plans-to-Accelerate-the-Global-Shift-Away-From-Fossil-Fuels.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-15T16:00:00+00:00"
+  },
+  "a4c3a31d454e": {
+    "id": "a4c3a31d454e",
+    "title_en": "Darlington’s First SMR Is Late and Over Budget. Ontario Needs to Rethink the Next Three.",
+    "title_zh": "达林顿的第一个SMR迟到了，超出了预算。安大略省需要重新思考未来三年。",
+    "url": "https://cleantechnica.com/2026/11/15/darlington-smr-cost-overrun-four-reactor-risk/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T15:56:31+00:00"
+  },
+  "06cc93590209": {
+    "id": "06cc93590209",
+    "title_en": "High altitude, bitter cold, zero drivers: autonomous trucks take on Tibetan mine",
+    "title_zh": "高海拔、严寒、零司机：自动驾驶卡车载Tibetan矿山",
+    "url": "https://electrek.co/2026/11/15/high-altitude-bitter-cold-zero-drivers-autonomous-trucks-take-on-tibetan-mine/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-15T15:02:35+00:00"
+  },
+  "ab755ad025d6": {
+    "id": "ab755ad025d6",
+    "title_en": "China’s electric airliner era starts with a 19-seat plane and 400 km of range",
+    "title_zh": "中国的电动客机时代始于19座飞机和400公里的航程",
+    "url": "https://electrek.co/2026/11/15/china-comac-ce-25a-electric-plane-crewed-flight/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-15T14:43:57+00:00"
+  },
+  "e762efbd83a1": {
+    "id": "e762efbd83a1",
+    "title_en": "Accelerating Electrification Can Unlock the Full Benefits of Spain’s Renewables Leadership",
+    "title_zh": "加速电气化可以释放西班牙可再生能源领导地位的全部优势",
+    "url": "https://cleantechnica.com/2026/11/15/accelerating-electrification-can-unlock-the-full-benefits-of-spains-renewables-leadership/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T14:17:31+00:00"
+  },
   "1c839ae4ffb7": {
     "id": "1c839ae4ffb7",
     "title_en": "Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
@@ -4426,77 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-09T11:49:08+00:00"
-  },
-  "abfcec631d36": {
-    "id": "abfcec631d36",
-    "title_en": "Panasonic releases new residential air-to-air heat pumps",
-    "title_zh": "松下发布新型家用空气对空气热泵",
-    "url": "https://www.pv-magazine.com/2026/11/09/panasonic-presents-new-residential-air-to-air-heat-pumps/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T11:46:01+00:00"
-  },
-  "3dabe88d4060": {
-    "id": "3dabe88d4060",
-    "title_en": "Heerema Renews Fugro Deal for Offshore Survey and Positioning Services",
-    "title_zh": "Heerema续签Fugro海上勘测和定位服务协议",
-    "url": "https://www.offshorewind.biz/2026/11/09/heerema-renews-fugro-deal-for-offshore-survey-and-positioning-services",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-09T11:22:46+00:00"
-  },
-  "317db7c3b741": {
-    "id": "317db7c3b741",
-    "title_en": "BloombergNEF: US midterm results likely a ‘net positive’ for BESS despite data centre headwinds",
-    "title_zh": "BloombergNEF：尽管数据中心面临不利因素，但美国中期业绩可能对BESS“净利好”",
-    "url": "https://www.energy-storage.news/bloombergnef-us-midterm-results-likely-a-net-positive-for-bess-despite-data-centre-headwinds/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-09T11:01:17+00:00"
-  },
-  "702598890315": {
-    "id": "702598890315",
-    "title_en": "Rezolv Energy secures VPPA for 1.3GW Dama solar PV project in Romania",
-    "title_zh": "Rezolv Energy为罗马尼亚1.3GW Dama太阳能光伏项目获得VPPA",
-    "url": "https://www.pv-tech.org/rezolv-energy-secures-vppa-dama-solar-pv-project-romania/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T10:58:27+00:00"
-  },
-  "3f58ef34fc9b": {
-    "id": "3f58ef34fc9b",
-    "title_en": "Pentagon advances some wind permitting to aid reform push",
-    "title_zh": "五角大楼推进了一些风能许可，以帮助推进改革",
-    "url": "https://www.windpowermonthly.com/article/1974665/pentagon-advances-wind-permitting-aid-reform-push",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-09T10:56:53+00:00"
-  },
-  "6c1870ea2391": {
-    "id": "6c1870ea2391",
-    "title_en": "Vard Starts Building Third SOV for Dong Fang Offshore",
-    "title_zh": "Vard开始为东方海上建造第三艘SOV",
-    "url": "https://www.offshorewind.biz/2026/11/09/vard-starts-building-third-sov-for-dong-fang-offshore",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-09T10:22:50+00:00"
-  },
-  "95ab4b98c1db": {
-    "id": "95ab4b98c1db",
-    "title_en": "Nordic Power Prices Could Soar This Winter as Hydropower Reserves Plunge",
-    "title_zh": "随着水电储量暴跌，北欧电价今年冬天可能会飙升",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Nordic-Power-Prices-Could-Soar-This-Winter-as-Hydropower-Reserves-Plunge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-09T10:20:00+00:00"
-  },
-  "0d6bb18aa678": {
-    "id": "0d6bb18aa678",
-    "title_en": "SSEN Transmission breaks ground on Lewis Hub electricity project",
-    "title_zh": "SSEN Transmission在Lewis Hub电力项目上破土动工",
-    "url": "https://www.energymonitor.ai/news/ssen-breaks-ground-lewis-hub/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-09T10:15:45+00:00"
   }
 }
