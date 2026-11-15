@@ -1,4 +1,58 @@
 {
+  "f1f3638d6e2f": {
+    "id": "f1f3638d6e2f",
+    "title_en": "$3.4 Billion — Anthropic Order for Gas Power Plants!",
+    "title_zh": "34亿美元——天然气发电厂的人为订单！",
+    "url": "https://cleantechnica.com/2026/11/14/3-4-billion-anthropic-order-for-gas-power-plants/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T00:33:38+00:00"
+  },
+  "f957d6cfa027": {
+    "id": "f957d6cfa027",
+    "title_en": "Electrifying Ambitions Meet Tough Reality in Europe",
+    "title_zh": "电气化的野心在欧洲遇到了严峻的现实",
+    "url": "https://oilprice.com/Energy/Energy-General/Electrifying-Ambitions-Meet-Tough-Reality-in-Europe.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-15T00:00:00+00:00"
+  },
+  "67b04f8ef992": {
+    "id": "67b04f8ef992",
+    "title_en": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+    "title_zh": "Nvidia没有黄：暂停人工智能交易对金属意味着什么",
+    "url": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-14T22:00:00+00:00"
+  },
+  "bfc0e9e2164c": {
+    "id": "bfc0e9e2164c",
+    "title_en": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+    "title_zh": "日产NX7 PHEV售价2万美元，续航里程近200英里",
+    "url": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-14T21:26:03+00:00"
+  },
+  "d1ba8ac45d19": {
+    "id": "d1ba8ac45d19",
+    "title_en": "Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach",
+    "title_zh": "织物模具可以让节省材料的混凝土梁触手可及",
+    "url": "https://cleantechnica.com/2026/11/14/fabric-molds-could-bring-material-saving-concrete-beams-within-reach/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-14T21:06:51+00:00"
+  },
+  "c55a81c29786": {
+    "id": "c55a81c29786",
+    "title_en": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
+    "title_zh": "伊朗战争加速东南亚可再生能源发展",
+    "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-14T20:00:00+00:00"
+  },
   "8dcee596d871": {
     "id": "8dcee596d871",
     "title_en": "AI Businesses Still Bleeding Billions",
@@ -4444,59 +4498,5 @@
     "source": "Utility Dive",
     "category": "电网",
     "pub_ts": "2026-11-09T10:00:00+00:00"
-  },
-  "ed66259a3722": {
-    "id": "ed66259a3722",
-    "title_en": "Beyond megawatts: Nuclear’s other capacity expansion challenge",
-    "title_zh": "超越兆瓦：核能的其他产能扩张挑战",
-    "url": "https://www.utilitydive.com/spons/beyond-megawatts-nuclears-other-capacity-expansion-challenge/873634/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-09T10:00:00+00:00"
-  },
-  "bdf70e2129f9": {
-    "id": "bdf70e2129f9",
-    "title_en": "Behind-the-meter power: An effective tool for bringing large utility customers online faster",
-    "title_zh": "电表功率背后：让大型公用事业客户更快上网的有效工具",
-    "url": "https://www.utilitydive.com/spons/behind-the-meter-power-an-effective-tool-for-bringing-large-utility-custom/833709/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-09T10:00:00+00:00"
-  },
-  "ff3072af7b45": {
-    "id": "ff3072af7b45",
-    "title_en": "RWE and KHI begin trial of 34MW hydrogen gas turbine in Germany",
-    "title_zh": "RWE和KHI开始在德国进行34MW氢气涡轮机的试验",
-    "url": "https://www.energymonitor.ai/news/rwe-khi-trial-hydrogen-gas-turbine/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-09T09:59:14+00:00"
-  },
-  "d48d85670610": {
-    "id": "d48d85670610",
-    "title_en": "Solarwatt launches bifacial TOPCon solar module for BIPV applications",
-    "title_zh": "Solarwatt推出用于BIPV应用的双面TOPCon太阳能模块",
-    "url": "https://www.pv-magazine.com/2026/11/09/solarwatt-launches-bifacial-topcon-solar-modules-for-bipv-applications/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T09:45:22+00:00"
-  },
-  "fe80b927647e": {
-    "id": "fe80b927647e",
-    "title_en": "Sungrow signs 1.5GW solar PV and 4GWh battery storage distribution deals in Australia",
-    "title_zh": "阳光电源在澳大利亚签署1.5GW太阳能光伏和4GWh电池储能配电协议",
-    "url": "https://www.pv-tech.org/sungrow-signs-1-5gw-solar-pv-and-4gwh-battery-storage-distribution-deals-in-australia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T09:26:07+00:00"
-  },
-  "e871429446eb": {
-    "id": "e871429446eb",
-    "title_en": "Pacific Blue refers 855MWh battery storage system in Victoria to Australia’s EPBC Act",
-    "title_zh": "Pacific Blue将维多利亚州的855MWh电池储能系统纳入澳大利亚的EPBC法案",
-    "url": "https://www.energy-storage.news/pacific-blue-refers-855mwh-battery-storage-system-in-victoria-to-australias-epbc-act/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-09T09:23:07+00:00"
   }
 }
