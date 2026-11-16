@@ -1,4 +1,31 @@
 {
+  "d1d318f8594e": {
+    "id": "d1d318f8594e",
+    "title_en": "A Radically Different Approach to AI",
+    "title_zh": "一种截然不同的人工智能方法",
+    "url": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-15T22:05:07+00:00"
+  },
+  "3971ba890075": {
+    "id": "3971ba890075",
+    "title_en": "Asia Is Building 73% of the World's New Nuclear Capacity",
+    "title_zh": "亚洲正在建设世界73%的新核能力",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Asia-Is-Building-73-of-the-Worlds-New-Nuclear-Capacity.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-15T22:00:00+00:00"
+  },
+  "5cbe4da904d5": {
+    "id": "5cbe4da904d5",
+    "title_en": "The $130 Billion Oil Boom Fueled by the Iran War",
+    "title_zh": "伊朗战争推动了1300亿美元的石油繁荣",
+    "url": "https://oilprice.com/Energy/Crude-Oil/The-130-Billion-Oil-Boom-Fueled-by-the-Iran-War.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-15T20:00:00+00:00"
+  },
   "6c1eeab79dfb": {
     "id": "6c1eeab79dfb",
     "title_en": "Is Tesla rushing out a half-baked Cybercab just to shave MKBHD’s head?",
@@ -4471,32 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-09T12:29:30+00:00"
-  },
-  "aac85293d0f8": {
-    "id": "aac85293d0f8",
-    "title_en": "Solar Power World reveals winners of 2026 Top Products contest",
-    "title_zh": "太阳能世界揭晓2026年最佳产品大赛获奖者",
-    "url": "https://www.solarpowerworldonline.com/2026/11/spw-winners-of-2026-top-products-contest/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T12:00:28+00:00"
-  },
-  "59924f3bc225": {
-    "id": "59924f3bc225",
-    "title_en": "Türkiye sets 77% renewables goal for 2040",
-    "title_zh": "土耳其为2040年设定了77%的可再生能源目标",
-    "url": "https://www.pv-tech.org/turkiye-sets-77-percent-renewables-goal-for-2040/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T11:59:53+00:00"
-  },
-  "f5c4f65ab9cb": {
-    "id": "f5c4f65ab9cb",
-    "title_en": "Ecoprogetti presents automated line for recycling end-of-life PV modules",
-    "title_zh": "Ecoprogetti推出用于回收报废光伏组件的自动化生产线",
-    "url": "https://www.pv-magazine.com/2026/11/09/ecoprogetti-presents-automated-line-for-recycling-end-of-life-pv-modules/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-09T11:49:08+00:00"
   }
 }
