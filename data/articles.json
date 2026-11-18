@@ -1,4 +1,229 @@
 {
+  "347ca6416e3f": {
+    "id": "347ca6416e3f",
+    "title_en": "Sungrow aims to replicate utility-scale success in residential and C&I segments",
+    "title_zh": "阳光电源旨在在住宅和C&I领域复制公用事业规模的成功",
+    "url": "https://www.energy-storage.news/sungrow-utility-scale-success-residential-ci-segments/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-18T11:08:17+00:00"
+  },
+  "036b361278d4": {
+    "id": "036b361278d4",
+    "title_en": "Solar Materials doubles PV recycling capacity with second Germany line",
+    "title_zh": "太阳能材料公司通过第二条德国生产线将光伏回收能力翻了一番",
+    "url": "https://www.pv-tech.org/solar-materials-doubles-pv-recycling-capacity-germany/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T11:04:52+00:00"
+  },
+  "bcdbe4034ca4": {
+    "id": "bcdbe4034ca4",
+    "title_en": "Australia and South Korea sign COP31 MoU to link renewable energy supply with Korean industry",
+    "title_zh": "澳大利亚和韩国签署COP31谅解备忘录，将可再生能源供应与韩国工业联系起来",
+    "url": "https://www.pv-tech.org/australia-south-korea-cop31-mou-renewable-energy-korean-industry/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T10:55:27+00:00"
+  },
+  "63c5ec0677de": {
+    "id": "63c5ec0677de",
+    "title_en": "Amazon plans US$7 billion investment in Indian solar, wind projects by 2030",
+    "title_zh": "亚马逊计划到2030年向印度太阳能、风能项目投资70亿美元",
+    "url": "https://www.pv-tech.org/amazon-us7-billion-investment-solar-wind-india-2030/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T10:37:02+00:00"
+  },
+  "d3d4f6cfdce0": {
+    "id": "d3d4f6cfdce0",
+    "title_en": "Why AI data centers need storage beyond conventional backup power",
+    "title_zh": "为什么人工智能数据中心需要传统备用电源之外的存储",
+    "url": "https://www.pv-magazine.com/2026/11/18/why-ai-data-centers-need-storage-beyond-conventional-backup-power/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T10:30:00+00:00"
+  },
+  "b56dc1f94baa": {
+    "id": "b56dc1f94baa",
+    "title_en": "Slipform Engineering Proposes Major Concrete Floating Foundation Manufacturing Facility in Scottish Highlands",
+    "title_zh": "Slipform Engineering提议在苏格兰高地建设大型混凝土浮式基础制造设施",
+    "url": "https://www.offshorewind.biz/2026/11/18/slipform-engineering-proposes-major-concrete-floating-foundation-manufacturing-facility-in-scottish-highlands",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-18T10:03:42+00:00"
+  },
+  "4b5eed28447b": {
+    "id": "4b5eed28447b",
+    "title_en": "Taiwan introduces bidding framework for storage deployment at existing PV plants",
+    "title_zh": "台湾引入现有光伏电站储能部署招标框架",
+    "url": "https://www.pv-magazine.com/2026/11/18/taiwan-introduces-bidding-framework-for-storage-deployment-at-existing-pv-plants/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T10:00:36+00:00"
+  },
+  "d870d3f9bc0b": {
+    "id": "d870d3f9bc0b",
+    "title_en": "ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise",
+    "title_zh": "ADNOC船只在霍尔木兹遭遇袭击，海上安全风险上升",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Ship-Attacked-in-Hormuz-as-Maritime-Security-Risks-Rise.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-18T10:00:00+00:00"
+  },
+  "968d350428d0": {
+    "id": "968d350428d0",
+    "title_en": "Netherlands to Launch 2 GW Offshore Wind Tender in November, EU Commission Approves EUR 9.45 Billion Support Scheme",
+    "title_zh": "荷兰将于11月启动2吉瓦海上风电招标，欧盟委员会批准94.5亿欧元的支持计划",
+    "url": "https://www.offshorewind.biz/2026/11/18/netherlands-to-launch-2-gw-offshore-wind-tender-in-november-eu-commission-approves-eur-945-billion-temporary-support-scheme",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-18T09:09:55+00:00"
+  },
+  "acc3763d5a6c": {
+    "id": "acc3763d5a6c",
+    "title_en": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+    "title_zh": "AGL的500MWh Aberman电池储能系统根据澳大利亚的EPBC法案获得批准",
+    "url": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-18T08:59:58+00:00"
+  },
+  "98b6140a4ce9": {
+    "id": "98b6140a4ce9",
+    "title_en": "ADB supports 1 GW solar, storage pipeline in Bangladesh",
+    "title_zh": "亚行支持孟加拉国1吉瓦太阳能储能管道",
+    "url": "https://www.pv-magazine.com/2026/11/18/adb-supports-1-gw-solar-storage-pipeline-in-bangladesh/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T08:56:51+00:00"
+  },
+  "d4c3e6191b8c": {
+    "id": "d4c3e6191b8c",
+    "title_en": "EU reaches provisional deal to accelerate renewable energy permitting",
+    "title_zh": "欧盟达成临时协议，加快可再生能源许可",
+    "url": "https://www.pv-magazine.com/2026/11/18/eu-reaches-provisional-deal-to-accelerate-renewable-energy-permitting/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T08:54:04+00:00"
+  },
+  "7ff620ee936f": {
+    "id": "7ff620ee936f",
+    "title_en": "EU Moves to Fast-Track Renewables as Oil Import Costs Soar",
+    "title_zh": "随着石油进口成本飙升，欧盟转向快速发展可再生能源",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Moves-to-Fast-Track-Renewables-as-Oil-Import-Costs-Soar.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-18T08:45:00+00:00"
+  },
+  "04e152e86847": {
+    "id": "04e152e86847",
+    "title_en": "New net-zero community will become Michigan’s first virtual power plant",
+    "title_zh": "新的净零排放社区将成为密歇根州的第一个虚拟发电厂",
+    "url": "https://www.canarymedia.com/articles/virtual-power-plants/new-net-zero-community-michigan-vpp",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-11-18T08:30:00+00:00"
+  },
+  "e523543684ec": {
+    "id": "e523543684ec",
+    "title_en": "France unveils bidding terms for 500 MW technology-neutral renewables tender",
+    "title_zh": "法国公布500兆瓦技术中立可再生能源招标条款",
+    "url": "https://www.pv-magazine.com/2026/11/18/france-unveils-bidding-terms-for-500-mw-technology-neutral-renewables-tender/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T08:29:00+00:00"
+  },
+  "77b125a30ae7": {
+    "id": "77b125a30ae7",
+    "title_en": "Hybrid monofacial-bifacial PV arrays boost power output under shading",
+    "title_zh": "混合单面双面光伏阵列在阴影下提高功率输出",
+    "url": "https://www.pv-magazine.com/2026/11/18/hybrid-monofacial-bifacial-pv-arrays-boost-power-output-under-shading/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T08:20:41+00:00"
+  },
+  "0164de4bb5ab": {
+    "id": "0164de4bb5ab",
+    "title_en": "Austrian company develops 1.2 kW Stirling-based heat and power system to complement solar PV in winter",
+    "title_zh": "奥地利公司开发了1.2千瓦的斯特林热电系统，以补充冬季的太阳能光伏",
+    "url": "https://www.pv-magazine.com/2026/11/18/austrian-company-develops-1-2-kw-stirling-based-heat-and-power-system-to-complement-solar-pv-in-winter/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T07:55:46+00:00"
+  },
+  "1d1527828847": {
+    "id": "1d1527828847",
+    "title_en": "US DOE grants $2.8bn conditional loan for Wyoming grid project",
+    "title_zh": "美国能源部为怀俄明州电网项目提供28亿美元有条件贷款",
+    "url": "https://www.energymonitor.ai/news/us-grants-conditional-loan-wyoming-intertie/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-11-18T07:54:34+00:00"
+  },
+  "36b67f759e53": {
+    "id": "36b67f759e53",
+    "title_en": "Counting Down to OEEC 2026: Amsterdam Gets Ready to Welcome the Offshore Energy Community",
+    "title_zh": "倒数至OEEC 2026：阿姆斯特丹准备迎接海上能源社区",
+    "url": "https://www.offshorewind.biz/2026/11/18/counting-down-to-oeec-2026-amsterdam-gets-ready-to-welcome-the-offshore-energy-community",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-18T07:51:26+00:00"
+  },
+  "ac727e133843": {
+    "id": "ac727e133843",
+    "title_en": "Financing secured for 100 MW of solar in Ghana",
+    "title_zh": "为加纳100兆瓦太阳能项目融资",
+    "url": "https://www.pv-magazine.com/2026/11/18/financing-secured-for-100-mw-of-solar-in-ghana/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T07:47:41+00:00"
+  },
+  "354372090dfb": {
+    "id": "354372090dfb",
+    "title_en": "Pipelife unveils 3.2 kW indoor propane heat pump",
+    "title_zh": "Pipelife推出3.2千瓦室内丙烷热泵",
+    "url": "https://www.pv-magazine.com/2026/11/18/pipelife-unveils-3-2-kw-indoor-propane-heat-pump/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T07:37:43+00:00"
+  },
+  "cd7aec1a6cde": {
+    "id": "cd7aec1a6cde",
+    "title_en": "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
+    "title_zh": "西澳大利亚州赢得联邦天然气储备计划之战",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Western-Australia-Wins-Battle-Over-Federal-Gas-Reservation-Scheme.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-18T07:30:00+00:00"
+  },
+  "22663b321749": {
+    "id": "22663b321749",
+    "title_en": "Poland pushes for cybersecurity requirements for renewables grid connections",
+    "title_zh": "波兰推动可再生能源电网连接的网络安全要求",
+    "url": "https://www.pv-magazine.com/2026/11/18/poland-pushes-for-cybersecurity-requirements-for-renewables-grid-connections/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-18T07:18:38+00:00"
+  },
+  "45006aee649c": {
+    "id": "45006aee649c",
+    "title_en": "Elderly Florida man leads police on wild 16 mph e-bike chase. Thank goodness they caught him",
+    "title_zh": "佛罗里达州一名老年男子带领警方疯狂追逐时速16英里的电动自行车。谢天谢地，他们抓住了他",
+    "url": "https://electrek.co/2026/11/17/elderly-florida-man-leads-police-on-wild-16-mph-e-bike-chase-thank-goodness-they-caught-him/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-18T06:51:50+00:00"
+  },
+  "ae84b7f4913c": {
+    "id": "ae84b7f4913c",
+    "title_en": "Oil Prices Drop Despite Escalating U.S.-Iran Conflict",
+    "title_zh": "尽管美伊冲突升级，油价仍下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Drop-Despite-Escalating-US-Iran-Conflict.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-18T05:55:00+00:00"
+  },
   "7aa259c215cd": {
     "id": "7aa259c215cd",
     "title_en": "Third Pillar Constructing Largest Floating Solar Complex in New York",
@@ -4273,230 +4498,5 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-11T14:57:42+00:00"
-  },
-  "4985836cde44": {
-    "id": "4985836cde44",
-    "title_en": "UK and Japan Sign Offshore Wind Industrial Compact to Deepen Cooperation",
-    "title_zh": "英国和日本签署海上风电产业契约深化合作",
-    "url": "https://www.offshorewind.biz/2026/11/11/uk-and-japan-sign-offshore-wind-industrial-compact-to-deepen-cooperation",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-11T14:40:22+00:00"
-  },
-  "06b785f5cfc7": {
-    "id": "06b785f5cfc7",
-    "title_en": "Advansor installs 1.2 MW of CO₂ heat pumps at Swedish retailer",
-    "title_zh": "Advansor安装了1.2兆瓦的CO₂ 瑞典零售商的热泵",
-    "url": "https://www.pv-magazine.com/2026/11/11/advansor-installs-1-2-mw-of-co%e2%82%82-heat-pumps-at-swedish-retailer/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T14:36:57+00:00"
-  },
-  "64306b4ad1c7": {
-    "id": "64306b4ad1c7",
-    "title_en": "Porsche CEO takes a shot at Tesla’s ‘flying’ Roadster stunt show",
-    "title_zh": "保时捷首席执行官参加特斯拉的“飞行”跑车特技表演",
-    "url": "https://electrek.co/2026/11/11/porsche-ceo-tesla-flying-roadster-stunt/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-11T14:34:00+00:00"
-  },
-  "874a301a6c13": {
-    "id": "874a301a6c13",
-    "title_en": "‘One of the most valuable markets’: LONGi brings BC solar modules and LONGi ONE strategy to Australia",
-    "title_zh": "“最有价值的市场之一”：隆基将BC太阳能组件和隆基One战略带到澳大利亚",
-    "url": "https://www.pv-tech.org/one-of-the-most-valuable-markets-longi-brings-bc-solar-modules-and-longi-one-strategy-to-australia/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T14:31:22+00:00"
-  },
-  "909fa8c13bde": {
-    "id": "909fa8c13bde",
-    "title_en": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
-    "title_zh": "Lydian的600MWh犹他州BESS投入商业运营，支持Meta数据中心",
-    "url": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-11T14:25:09+00:00"
-  },
-  "918f8329ac15": {
-    "id": "918f8329ac15",
-    "title_en": "Genesis reveals GV90 prices start at $100K+ in Korea, but it will cost more for coach doors",
-    "title_zh": "Genesis透露，GV90在韩国的起价为10万美元以上，但长途汽车车门的价格会更高",
-    "url": "https://electrek.co/2026/11/11/genesis-reveals-gv90-prices-start-at-100k-korea-cost-more-for-coach-doors/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-11T14:22:54+00:00"
-  },
-  "903e6ee506a5": {
-    "id": "903e6ee506a5",
-    "title_en": "Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
-    "title_zh": "Calibrant Energy为包括PJM超大规模项目在内的美国电力市场的太阳能和BESS获得1.45亿美元",
-    "url": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-11T14:21:46+00:00"
-  },
-  "cb8dfb7941fb": {
-    "id": "cb8dfb7941fb",
-    "title_en": "Swelect places order for Indian-made ingot equipment for 1GW wafer line",
-    "title_zh": "Swelect为1GW晶圆生产线订购印度制造的铸锭设备",
-    "url": "https://www.pv-tech.org/swelect-preorder-czochralski-ingot-growing-equipment-raana-semiconductor/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T14:13:21+00:00"
-  },
-  "43904c2d9a0e": {
-    "id": "43904c2d9a0e",
-    "title_en": "QuantumScape unveils Osprey all-solid-state cell: 1,000 cycles at 1 atm",
-    "title_zh": "QuantumScape推出Osprey全固态电池：在1atm下进行1000次循环",
-    "url": "https://electrek.co/2026/11/11/quantumscape-osprey-all-solid-state-sulfide-battery/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-11T14:00:00+00:00"
-  },
-  "55701368b832": {
-    "id": "55701368b832",
-    "title_en": "TenneT's Onshore Link for Three New Dutch Offshore Wind Areas Nearing Completion",
-    "title_zh": "TenneT即将完工的荷兰三个新海上风电场的陆上连接",
-    "url": "https://www.offshorewind.biz/2026/11/11/tennets-onshore-link-for-three-new-dutch-offshore-wind-areas-nearing-completion",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-11T13:55:45+00:00"
-  },
-  "4a1997fd15d9": {
-    "id": "4a1997fd15d9",
-    "title_en": "Ukrainian Drone Attack Sparks Fire at Russia’s Key Baltic Oil Export Hub",
-    "title_zh": "乌克兰无人机袭击俄罗斯波罗的海主要石油出口中心引发火灾",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Attack-Sparks-Fire-at-Russias-Key-Baltic-Oil-Export-Hub.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-11T13:30:00+00:00"
-  },
-  "2d2cb9a3d7bd": {
-    "id": "2d2cb9a3d7bd",
-    "title_en": "CASC completes maiden flight of solar-powered UAV in China",
-    "title_zh": "中国航天科工完成太阳能无人机中国首飞",
-    "url": "https://www.pv-magazine.com/2026/11/11/casc-completes-maiden-flight-of-solar-powered-uav-in-china/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T13:29:41+00:00"
-  },
-  "b714f2e3252a": {
-    "id": "b714f2e3252a",
-    "title_en": "Science For The People, Right On!",
-    "title_zh": "科学为人民服务，加油！",
-    "url": "https://cleantechnica.com/2026/11/11/science-for-the-people-right-on/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-11T13:21:40+00:00"
-  },
-  "2d52926e18c9": {
-    "id": "2d52926e18c9",
-    "title_en": "The PPA market has a flexibility problem, hybrid PPAs are part of the answer",
-    "title_zh": "PPA市场存在灵活性问题，混合PPA是解决方案的一部分",
-    "url": "https://www.pv-magazine.com/2026/11/11/the-ppa-market-has-a-flexibility-problem-hybrid-ppas-are-part-of-the-answer/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T13:19:18+00:00"
-  },
-  "a96ae56bcd2c": {
-    "id": "a96ae56bcd2c",
-    "title_en": "Russia proposes carbon credits framework for SMRs",
-    "title_zh": "俄罗斯提出SMR碳信用框架",
-    "url": "https://www.world-nuclear-news.org/articles/russia-proposes-carbon-credits-framework-for-smrs",
-    "source": "World Nuclear News",
-    "category": "核能",
-    "pub_ts": "2026-11-11T12:54:41+00:00"
-  },
-  "3fda0fcc9685": {
-    "id": "3fda0fcc9685",
-    "title_en": "California orders utilities to develop joint DER orchestration framework",
-    "title_zh": "加州要求公用事业公司开发联合DER编排框架",
-    "url": "https://www.utilitydive.com/news/california-orders-utilities-to-develop-joint-der-orchestration-framework/874355/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-11T12:47:25+00:00"
-  },
-  "988b658fda96": {
-    "id": "988b658fda96",
-    "title_en": "India Eyes 50% Wind Power Capacity Boost Without Acquiring More Land",
-    "title_zh": "印度计划在不增加土地的情况下将风力发电容量提高50%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Eyes-50-Wind-Power-Capacity-Boost-Without-Acquiring-More-Land.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-11T12:30:00+00:00"
-  },
-  "234799b282d2": {
-    "id": "234799b282d2",
-    "title_en": "Semi-solid state batteries for BESS: potential and challenges",
-    "title_zh": "BESS用半固态电池：潜力和挑战",
-    "url": "https://www.energy-storage.news/semi-solid-state-batteries-for-bess-potential-and-challenges/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-11T12:22:59+00:00"
-  },
-  "db530560e246": {
-    "id": "db530560e246",
-    "title_en": "Agrivoltaics can increase profitability of indoor farming agrotunnels",
-    "title_zh": "农业光伏可以提高室内农业隧道的盈利能力",
-    "url": "https://www.pv-magazine.com/2026/11/11/agrivoltaics-can-increase-profitability-of-indoor-farming-agrotunnels/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T12:06:19+00:00"
-  },
-  "dbf5fdd11ebb": {
-    "id": "dbf5fdd11ebb",
-    "title_en": "Paris leads EU capitals for rooftop solar generation potential",
-    "title_zh": "巴黎在屋顶太阳能发电潜力方面领先欧盟各国首都",
-    "url": "https://www.pv-magazine.com/2026/11/11/paris-leads-eu-capitals-for-rooftop-solar-generation-potential/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T12:04:08+00:00"
-  },
-  "2041095a1a88": {
-    "id": "2041095a1a88",
-    "title_en": "Closing the gap: Turning mine site data into faster, better decisions",
-    "title_zh": "缩小差距：将矿场数据转化为更快、更好的决策",
-    "url": "https://www.energymonitor.ai/partner-content/closing-the-gap-turning-mine-site-data-into-faster-better-decisions/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-11T12:02:15+00:00"
-  },
-  "1c94eb5e9802": {
-    "id": "1c94eb5e9802",
-    "title_en": "Closing the gap: Turning mine site data into faster, better decisions",
-    "title_zh": "缩小差距：将矿场数据转化为更快、更好的决策",
-    "url": "https://www.energymonitor.ai/partner-content/closing-the-gap-turning-mine-site-data-into-faster-better-decisions-2/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-11T12:02:15+00:00"
-  },
-  "edf4ce1e2bdb": {
-    "id": "edf4ce1e2bdb",
-    "title_en": "SpaceX orders HJT solar cell manufacturing equipment from Singulus Technologies",
-    "title_zh": "SpaceX向Singulus Technologies订购HJT太阳能电池制造设备",
-    "url": "https://www.pv-tech.org/spacex-orders-hjt-solar-cell-manufacturing-equipment-from-singulus-technologies/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T11:54:24+00:00"
-  },
-  "bef16f4eff7a": {
-    "id": "bef16f4eff7a",
-    "title_en": "From megawatts to gigawatts: how space is pulling silicon PV off the ground",
-    "title_zh": "从兆瓦到千兆瓦：太空如何将硅光伏从地面上拉下来",
-    "url": "https://www.pv-tech.org/from-megawatts-to-gigawatts-how-space-is-pulling-silicon-pv-off-the-ground/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-11T11:45:32+00:00"
-  },
-  "d25e5ba9c006": {
-    "id": "d25e5ba9c006",
-    "title_en": "It’s that time again – Honda needs to roll out an electric Super Cub",
-    "title_zh": "又到了那个时候——本田需要推出电动超级小熊",
-    "url": "https://electrek.co/2026/11/11/its-that-time-again-honda-needs-to-roll-out-an-electric-super-cub/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-11T11:40:00+00:00"
   }
 }
