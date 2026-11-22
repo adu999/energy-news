@@ -1,4 +1,31 @@
 {
+  "b316f7324afb": {
+    "id": "b316f7324afb",
+    "title_en": "Ford Begins Producing Its Own LFP Batteries",
+    "title_zh": "福特开始生产自己的LFP电池",
+    "url": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-22T04:49:26+00:00"
+  },
+  "c740ace5ddcd": {
+    "id": "c740ace5ddcd",
+    "title_en": "Rumor: Hyundai is getting ready to roll out an all-new, all-electric work truck",
+    "title_zh": "传言：现代汽车正准备推出一款全新的全电动工作卡车",
+    "url": "https://electrek.co/2026/11/21/rumor-hyundai-is-getting-ready-to-roll-out-an-all-new-all-electric-work-truck/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-22T02:13:24+00:00"
+  },
+  "87234dfd702e": {
+    "id": "87234dfd702e",
+    "title_en": "Xiaomi’s 1,548 hp electric supercar is going global, starting in the UAE",
+    "title_zh": "小米的1548马力电动超级跑车将从阿联酋开始走向全球",
+    "url": "https://electrek.co/2026/11/21/red-wave-xiaomi-goes-global-with-first-overseas-ev-sales/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-22T01:02:38+00:00"
+  },
   "948199797f97": {
     "id": "948199797f97",
     "title_en": "AI Boom Forces Massive Investment in Power Grids Worldwide",
@@ -4471,32 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-11-16T10:36:04+00:00"
-  },
-  "4cda3adbd5d9": {
-    "id": "4cda3adbd5d9",
-    "title_en": "Wind power patents: PowerChina | Vestas | Windey | Nordex",
-    "title_zh": "风电专利：中国电建|维斯塔斯| Windey | Nordex",
-    "url": "https://www.windpowermonthly.com/article/1975278/wind-power-patents-powerchina-vestas-windey-nordex",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-16T10:32:54+00:00"
-  },
-  "0b8fde5055e1": {
-    "id": "0b8fde5055e1",
-    "title_en": "Coal plant failure, not solar PV, triggered Sri Lanka’s latest blackout",
-    "title_zh": "燃煤电厂故障，而不是太阳能光伏，引发了斯里兰卡最近的停电",
-    "url": "https://www.pv-magazine.com/2026/11/16/coal-plant-failure-not-solar-pv-triggered-sri-lankas-latest-blackout/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T10:04:22+00:00"
-  },
-  "263def871684": {
-    "id": "263def871684",
-    "title_en": "South Korea opens storage subsidy call for community solar villages",
-    "title_zh": "韩国启动社区太阳能村储能补贴呼吁",
-    "url": "https://www.pv-magazine.com/2026/11/16/south-korea-opens-storage-subsidy-call-for-community-solar-villages/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T10:01:00+00:00"
   }
 }
