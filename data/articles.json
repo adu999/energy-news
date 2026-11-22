@@ -1,4 +1,67 @@
 {
+  "6c4bcc4dee02": {
+    "id": "6c4bcc4dee02",
+    "title_en": "Google Backs Superhot Geothermal in 50 MW Oregon Power Deal",
+    "title_zh": "谷歌在俄勒冈州50兆瓦电力交易中支持超高温地热",
+    "url": "https://oilprice.com/Energy/Energy-General/Google-Backs-Superhot-Geothermal-in-50-MW-Oregon-Power-Deal.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-22T18:00:00+00:00"
+  },
+  "b6603ff923cd": {
+    "id": "b6603ff923cd",
+    "title_en": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions",
+    "title_zh": "保险可负担性危机：风险、弹性和解决方案",
+    "url": "https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-22T17:03:31+00:00"
+  },
+  "415ded55323e": {
+    "id": "415ded55323e",
+    "title_en": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
+    "title_zh": "澳大利亚水电革命面临的250亿美元问题",
+    "url": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-22T16:00:00+00:00"
+  },
+  "1e3d2610f01a": {
+    "id": "1e3d2610f01a",
+    "title_en": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
+    "title_zh": "马斯克备忘录：否认只是漫长复苏之路的第一步",
+    "url": "https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-22T15:20:11+00:00"
+  },
+  "b6415e4652ed": {
+    "id": "b6415e4652ed",
+    "title_en": "Briggs & Stratton keeps the lights on longer with bigger 16 kWh LFP battery",
+    "title_zh": "Briggs&Stratton使用更大的16千瓦时LFP电池使灯保持更长时间",
+    "url": "https://electrek.co/2026/11/22/briggs-stratton-keeps-the-lights-on-longer-with-bigger-16-kwh-lfp-battery/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-22T14:22:49+00:00"
+  },
+  "c5bb66d8214c": {
+    "id": "c5bb66d8214c",
+    "title_en": "From equipment to ferries to locomotives, Illinois ports are getting a ZEV makeover",
+    "title_zh": "从设备到渡轮再到机车，伊利诺伊州的港口正在进行ZEV改造",
+    "url": "https://electrek.co/2026/11/22/from-equipment-to-ferries-to-locomotives-illinois-ports-are-getting-a-zev-makeover/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-22T13:01:35+00:00"
+  },
+  "d0f747d57b2c": {
+    "id": "d0f747d57b2c",
+    "title_en": "E-quipment highlight: Tadano rolls out 35-ton V320RC electric crane",
+    "title_zh": "电子设备亮点：Tadano推出35吨V320RC电动起重机",
+    "url": "https://electrek.co/2026/11/22/e-quipment-highlight-tadano-rolls-out-35-ton-v320rc-electric-crane/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-22T12:20:00+00:00"
+  },
   "b316f7324afb": {
     "id": "b316f7324afb",
     "title_en": "Ford Begins Producing Its Own LFP Batteries",
@@ -4435,68 +4498,5 @@
     "source": "PV-Tech",
     "category": "太阳能",
     "pub_ts": "2026-11-16T12:31:21+00:00"
-  },
-  "473e99db6424": {
-    "id": "473e99db6424",
-    "title_en": "Solar, wind and batteries can deliver firm power at $0.086/kWh, says Ember",
-    "title_zh": "Ember说，太阳能、风能和电池可以以0.086美元/千瓦时的价格提供稳定的电力",
-    "url": "https://www.pv-magazine.com/2026/11/16/solar-wind-and-batteries-can-deliver-firm-power-at-e78-mwh-says-ember/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T12:05:47+00:00"
-  },
-  "142f00d634a7": {
-    "id": "142f00d634a7",
-    "title_en": "Solar lease holdouts still see value in privately-owned residential projects",
-    "title_zh": "坚持太阳能租赁的人仍然认为私人住宅项目具有价值",
-    "url": "https://www.solarpowerworldonline.com/2026/11/solar-lease-holdouts-still-see-value-in-privately-owned-residential-projects/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T12:00:57+00:00"
-  },
-  "c950c05d380a": {
-    "id": "c950c05d380a",
-    "title_en": "Vestas to cut around 180 jobs at Danish offices",
-    "title_zh": "维斯塔斯将在丹麦办事处裁员约180人",
-    "url": "https://www.windpowermonthly.com/article/1975301/vestas-cut-around-180-jobs-danish-offices",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-16T11:49:03+00:00"
-  },
-  "58c0096efd71": {
-    "id": "58c0096efd71",
-    "title_en": "Port of Blyth Sets Out GBP 200 Million Offshore Wind Upgrade Plan",
-    "title_zh": "布莱思港推出2亿英镑海上风电升级计划",
-    "url": "https://www.offshorewind.biz/2026/11/16/port-of-blyth-sets-out-gbp-200-million-offshore-wind-upgrade-plan",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-16T11:48:37+00:00"
-  },
-  "e1319c58a0cd": {
-    "id": "e1319c58a0cd",
-    "title_en": "Solar Panel Recycling to open fifth PV recycling facility in California",
-    "title_zh": "太阳能电池板回收公司将在加利福尼亚州开设第五家光伏回收设施",
-    "url": "https://www.pv-tech.org/solar-panel-recycling-fifth-pv-facility-california/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T11:46:17+00:00"
-  },
-  "849bcde1a0ba": {
-    "id": "849bcde1a0ba",
-    "title_en": "China’s Offshore Wind Capacity Nears 50 GW as Country Targets 100+ GW by 2030",
-    "title_zh": "中国海上风电装机容量接近50吉瓦，国家目标是到2030年达到100吉瓦以上",
-    "url": "https://www.offshorewind.biz/2026/11/16/chinas-offshore-wind-capacity-nears-50-gw-as-country-targets-100-gw-by-2030",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-16T10:40:39+00:00"
-  },
-  "e6a8414b913a": {
-    "id": "e6a8414b913a",
-    "title_en": "Edify Energy refers 800MW Glenarbon solar PV plant in Queensland to Australia’s EPBC Act",
-    "title_zh": "Edify Energy将昆士兰州的800MW Glencarbon太阳能光伏电站纳入澳大利亚的EPBC法案",
-    "url": "https://www.pv-tech.org/edify-energy-glenarbon-800mw-solar-pv-queensland-epbc-act-referral/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T10:36:04+00:00"
   }
 }
