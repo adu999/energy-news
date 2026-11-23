@@ -1,4 +1,256 @@
 {
+  "11a0cc0292fe": {
+    "id": "11a0cc0292fe",
+    "title_en": "BESS overbuild or augmentation: which strategy wins?",
+    "title_zh": "BESS过度建设或扩张：哪种策略获胜？",
+    "url": "https://www.energy-storage.news/bess-overbuild-or-augmentation-which-strategy-wins/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-23T11:39:45+00:00"
+  },
+  "8b13dff3fbf7": {
+    "id": "8b13dff3fbf7",
+    "title_en": "Hanbit Offshore Wind Project Secures 20-Year REC Agreements for Full 340 MW Capacity",
+    "title_zh": "Hanbit海上风电项目获得20年REC协议，总容量为340兆瓦",
+    "url": "https://www.offshorewind.biz/2026/11/23/hanbit-offshore-wind-project-secures-20-year-rec-agreements-for-full-340-mw-capacity",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-23T11:27:32+00:00"
+  },
+  "4c45cc55b45a": {
+    "id": "4c45cc55b45a",
+    "title_en": "ConocoPhillips to Exit Norway in $4.4 Billion Deal With Vår Energi",
+    "title_zh": "康菲石油公司将以44亿美元的价格与Vår Energi达成协议，退出挪威",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/ConocoPhillips-to-Exit-Norway-in-44-Billion-Deal-With-Vr-Energi.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-23T11:00:00+00:00"
+  },
+  "d86c88da7bdd": {
+    "id": "d86c88da7bdd",
+    "title_en": "Greater domestic capital needed to plug India’s US$7.33 billion clean energy investment gap – IEEFA",
+    "title_zh": "需要更多的国内资本来填补印度73.3亿美元的清洁能源投资缺口——IEEFA",
+    "url": "https://www.pv-tech.org/india-clean-energy-investment-gap-ieefa-greater-domestic-capital/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T10:47:20+00:00"
+  },
+  "a2297fff9c0e": {
+    "id": "a2297fff9c0e",
+    "title_en": "Europe turns negative electricity prices into a flexibility signal",
+    "title_zh": "欧洲将负电价转化为灵活性信号",
+    "url": "https://www.pv-magazine.com/2026/11/23/europe-turns-negative-electricity-prices-into-a-flexibility-signal/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T10:45:00+00:00"
+  },
+  "284294a3db15": {
+    "id": "284294a3db15",
+    "title_en": "JK Cement to acquire 27.03% stake in Hero Future Energies-backed solar SPV developing 126MW hybrid project",
+    "title_zh": "JK水泥收购Hero Future Energies支持的太阳能SPV 27.03%的股份，开发126MW的混合动力项目",
+    "url": "https://www.pv-tech.org/jk-cement-acquires-27-03-stake-hero-future-energies-solar-spv/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T10:41:50+00:00"
+  },
+  "0a1124c7a5c6": {
+    "id": "0a1124c7a5c6",
+    "title_en": "LS Marine Solution Selects NjordGuard CPS for Shinan-Ui Cables",
+    "title_zh": "LS Marine Solution为Shinan Ui电缆选择NjordGuard CPS",
+    "url": "https://www.offshorewind.biz/2026/11/23/ls-marine-solution-selects-njordguard-cps-for-shinan-ui-cables",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-23T10:38:18+00:00"
+  },
+  "5dd6ea1d667c": {
+    "id": "5dd6ea1d667c",
+    "title_en": "Jordan plans 200 MW solar, 100 MW/400 MWh storage projects",
+    "title_zh": "约旦计划200兆瓦太阳能、100兆瓦/400兆瓦时储能项目",
+    "url": "https://www.pv-magazine.com/2026/11/23/jordan-plans-200-mw-solar-100-mw-400-mwh-storage-projects/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T10:36:16+00:00"
+  },
+  "fbed36cc2292": {
+    "id": "fbed36cc2292",
+    "title_en": "The grid’s hidden bottleneck: engineering capacity",
+    "title_zh": "电网的潜在瓶颈：工程能力",
+    "url": "https://www.utilitydive.com/spons/the-grids-hidden-bottleneck-engineering-capacity/874856/",
+    "source": "Utility Dive",
+    "category": "电网",
+    "pub_ts": "2026-11-23T10:00:00+00:00"
+  },
+  "356d9b32cb21": {
+    "id": "356d9b32cb21",
+    "title_en": "50Hertz gets approval for Mühlenbeck substation and converter project",
+    "title_zh": "50Hz获得Mühlenbeck变电站和变流器项目的批准",
+    "url": "https://www.energymonitor.ai/news/50hertz-approval-muhlenbeck-substation-converter/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-11-23T09:54:33+00:00"
+  },
+  "3d290a840b9e": {
+    "id": "3d290a840b9e",
+    "title_en": "DNV Certifies Formosa 4 Offshore Wind Turbine Foundation Design",
+    "title_zh": "DNV认证Formosa 4海上风力发电机基础设计",
+    "url": "https://www.offshorewind.biz/2026/11/23/dnv-certifies-formosa-4-offshore-wind-turbine-foundation-design",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-23T09:52:37+00:00"
+  },
+  "b6bd1d580b5d": {
+    "id": "b6bd1d580b5d",
+    "title_en": "Libya’s Oil Output Plunges as Armed Groups Shut Key Pipelines",
+    "title_zh": "利比亚石油产量暴跌，武装团体关闭关键管道",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Oil-Output-Plunges-as-Armed-Groups-Shut-Key-Pipelines.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-23T09:45:00+00:00"
+  },
+  "fb04c96f1a05": {
+    "id": "fb04c96f1a05",
+    "title_en": "New York Funding Offshore Wind Port Upgrades",
+    "title_zh": "纽约资助海上风港升级",
+    "url": "https://www.offshorewind.biz/2026/11/23/new-york-funding-offshore-wind-port-upgrades",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-23T09:27:46+00:00"
+  },
+  "417d17b9c445": {
+    "id": "417d17b9c445",
+    "title_en": "Hydrogen shifts summer solar to winter in Japanese apartment building",
+    "title_zh": "氢气将日本公寓楼的夏季太阳能转换为冬季",
+    "url": "https://www.pv-magazine.com/2026/11/23/hydrogen-shifts-summer-solar-to-winter-in-japanese-apartment-building/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T09:15:00+00:00"
+  },
+  "657ff9dfa19e": {
+    "id": "657ff9dfa19e",
+    "title_en": "Saudi Arabia expands self-consumption rules to 50 MW",
+    "title_zh": "沙特阿拉伯将自用电规则扩大到50兆瓦",
+    "url": "https://www.pv-magazine.com/2026/11/23/saudi-arabia-expands-self-consumption-rules-to-50-mw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T09:14:42+00:00"
+  },
+  "99479ec934a0": {
+    "id": "99479ec934a0",
+    "title_en": "‘Greater operational flexibility’: Australia’s AEMO leans on 5.3GW of new battery storage for summer",
+    "title_zh": "“更大的运营灵活性”：澳大利亚AEMO在夏季依靠5.3GW的新电池储能",
+    "url": "https://www.energy-storage.news/greater-operational-flexibility-australias-aemo-leans-on-5-3gw-of-new-battery-storage-for-summer/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-23T09:07:38+00:00"
+  },
+  "242f8beea421": {
+    "id": "242f8beea421",
+    "title_en": "European Natural Gas Prices Surge 8.6% as Cold Snap Looms",
+    "title_zh": "随着寒流逼近，欧洲天然气价格飙升8.6%",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Surge-86-as-Cold-Snap-Looms.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-23T08:30:00+00:00"
+  },
+  "c94e9d55f8ad": {
+    "id": "c94e9d55f8ad",
+    "title_en": "Want 24/7 clean power for data centers? Try giant heat batteries.",
+    "title_zh": "想要为数据中心提供全天候清洁电力？试试巨型热电池。",
+    "url": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
+    "source": "Canary Media",
+    "category": "综合",
+    "pub_ts": "2026-11-23T08:30:00+00:00"
+  },
+  "1b1ac0f46279": {
+    "id": "1b1ac0f46279",
+    "title_en": "US Senate passes permitting bill letting solar developers sue agencies",
+    "title_zh": "美国参议院通过允许太阳能开发商起诉机构的法案",
+    "url": "https://www.pv-magazine.com/2026/11/23/us-senate-passes-permitting-bill-letting-solar-developers-sue-agencies/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T08:15:00+00:00"
+  },
+  "ba1c5c126311": {
+    "id": "ba1c5c126311",
+    "title_en": "South Korea’s Largest Offshore Wind Farm at Full Throttle",
+    "title_zh": "韩国最大的海上风电场全速运转",
+    "url": "https://www.offshorewind.biz/2026/11/23/south-koreas-largest-offshore-wind-farm-at-full-throttle",
+    "source": "Offshore Wind",
+    "category": "风电",
+    "pub_ts": "2026-11-23T08:07:09+00:00"
+  },
+  "4f2747307295": {
+    "id": "4f2747307295",
+    "title_en": "EU Green Energy Giants Slam €40 Billion Budget Cut",
+    "title_zh": "欧盟绿色能源巨头削减400亿欧元预算",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Green-Energy-Giants-Slam-40-Billion-Budget-Cut.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-23T07:30:00+00:00"
+  },
+  "70f85d14995f": {
+    "id": "70f85d14995f",
+    "title_en": "Daikin launches R32 retrofit solution for existing residential heat pump series",
+    "title_zh": "大金为现有住宅热泵系列推出R32改造解决方案",
+    "url": "https://www.pv-magazine.com/2026/11/23/daikin-launches-r32-retrofit-solution-for-existing-residential-heat-pump-series/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T06:09:09+00:00"
+  },
+  "ce0d2a4eb66f": {
+    "id": "ce0d2a4eb66f",
+    "title_en": "Oil Prices Slide as AI Bubble Fears Rattle Global Markets",
+    "title_zh": "人工智能泡沫担忧扰乱全球市场，油价下跌",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Slide-as-AI-Bubble-Fears-Rattle-Global-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-23T05:50:00+00:00"
+  },
+  "10e7a0dc1ae9": {
+    "id": "10e7a0dc1ae9",
+    "title_en": "Ten innovative renewable energy startups give their pitch at RE+",
+    "title_zh": "十家创新的可再生能源初创公司在可再生能源大会上发表演讲+",
+    "url": "https://www.pv-magazine.com/2026/11/23/ten-innovative-renewable-energy-startups-give-their-pitch-at-re/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T05:40:55+00:00"
+  },
+  "98190d8cfddd": {
+    "id": "98190d8cfddd",
+    "title_en": "Briggs & Stratton launches 16 kWh battery scalable to 512 kWh",
+    "title_zh": "百力通推出可扩展至512千瓦时的16千瓦时电池",
+    "url": "https://www.pv-magazine.com/2026/11/23/briggs-stratton-launches-16-kwh-battery-scalable-to-512-kwh/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T05:40:33+00:00"
+  },
+  "70610db919b3": {
+    "id": "70610db919b3",
+    "title_en": "Burden of proof",
+    "title_zh": "举证责任",
+    "url": "https://www.pv-magazine.com/2026/11/23/burden-of-proof/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-23T05:00:00+00:00"
+  },
+  "6fdf9e3e9b01": {
+    "id": "6fdf9e3e9b01",
+    "title_en": "LDV eDeliver 5 — A Chinese Bargain?",
+    "title_zh": "LDV eDeliver 5——中国讨价还价？",
+    "url": "https://cleantechnica.com/2026/11/22/ldv-edeliver-5-a-chinese-bargain/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-23T04:20:14+00:00"
+  },
+  "2525bb74da2f": {
+    "id": "2525bb74da2f",
+    "title_en": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
+    "title_zh": "Stellantis首席执行官比Stellantis的前任首席执行官更看好电动汽车，但唱的是同样无聊的歌",
+    "url": "https://cleantechnica.com/2026/11/22/stellantis-ceo-more-bullish-on-evs-than-stellantis-ceos-of-old-but-sings-same-boring-song/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-23T01:28:49+00:00"
+  },
   "5fdfd6a27f86": {
     "id": "5fdfd6a27f86",
     "title_en": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
@@ -763,6 +1015,15 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-11-20T15:00:00+00:00"
+  },
+  "59068791feab": {
+    "id": "59068791feab",
+    "title_en": "Siemens Gamesa blade breaks during Hornsea 3 construction",
+    "title_zh": "西门子Gamesa叶片在Hornsea 3施工期间断裂",
+    "url": "https://www.windpowermonthly.com/article/1975794/siemens-gamesa-blade-breaks-during-hornsea-3-construction",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-11-20T14:48:07+00:00"
   },
   "72c5097e3a67": {
     "id": "72c5097e3a67",
@@ -4237,266 +4498,5 @@
     "source": "Electrek",
     "category": "EV",
     "pub_ts": "2026-11-16T17:22:25+00:00"
-  },
-  "fa7d77df4e55": {
-    "id": "fa7d77df4e55",
-    "title_en": "SolarEdge Debuts Duo Power Optimizer for C&I Projects",
-    "title_zh": "SolarEdge推出用于C&I项目的Duo Power优化器",
-    "url": "https://www.powermag.com/solaredge-debuts-duo-power-optimizer-for-ci-projects/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-11-16T17:02:29+00:00"
-  },
-  "362256fa7019": {
-    "id": "362256fa7019",
-    "title_en": "Solar recycling 2.0",
-    "title_zh": "太阳能回收2.0",
-    "url": "https://www.pv-magazine.com/2026/11/16/solar-recycling-2-0/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T17:00:00+00:00"
-  },
-  "4446e1d3189b": {
-    "id": "4446e1d3189b",
-    "title_en": "Venezuela’s Oil Comeback Faces a New Threat From Washington",
-    "title_zh": "委内瑞拉的石油复苏面临来自华盛顿的新威胁",
-    "url": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Comeback-Faces-a-New-Threat-From-Washington.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-16T17:00:00+00:00"
-  },
-  "b627961f5a18": {
-    "id": "b627961f5a18",
-    "title_en": "Spain’s grid constraints have cost renewables €140m since 2025 blackout",
-    "title_zh": "自2025年停电以来，西班牙的电网限制使可再生能源损失了1.4亿欧元",
-    "url": "https://www.pv-tech.org/wood-mackenzie-spain-renewables-140-million-grid-constraints-2025-blackout/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T16:58:13+00:00"
-  },
-  "a72907514637": {
-    "id": "a72907514637",
-    "title_en": "Trump again orders broken coal plant to stay open, even after court said it’s illegal",
-    "title_zh": "特朗普再次命令破碎的燃煤电厂保持开放，即使在法院表示这是非法的之后",
-    "url": "https://electrek.co/2026/11/16/trump-again-orders-broken-coal-plant-to-stay-open-even-after-court-said-its-illegal/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-16T16:48:21+00:00"
-  },
-  "b61c2b83d7a4": {
-    "id": "b61c2b83d7a4",
-    "title_en": "Japanese Utility Takes Stake in Virginia BESS Project Serving PJM",
-    "title_zh": "日本公用事业公司入股为PJM服务的弗吉尼亚州BESS项目",
-    "url": "https://www.powermag.com/japanese-utility-takes-stake-in-virginia-bess-project-serving-pjm/",
-    "source": "Power Magazine",
-    "category": "电力",
-    "pub_ts": "2026-11-16T16:46:15+00:00"
-  },
-  "9356df9bd745": {
-    "id": "9356df9bd745",
-    "title_en": "Europe Has Already Drained 10% of Its Summer Gas Injections",
-    "title_zh": "欧洲已经耗尽了其夏季天然气注入量的10%",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Has-Already-Drained-10-of-Its-Summer-Gas-Injections.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-16T16:30:00+00:00"
-  },
-  "268cfa559353": {
-    "id": "268cfa559353",
-    "title_en": "Hyundai IONIQ 5 caught with a new high-tech interior and big display screen",
-    "title_zh": "现代IONIQ 5采用了新的高科技内饰和大显示屏",
-    "url": "https://electrek.co/2026/11/16/hyundai-ioniq-5-caught-new-high-tech-interior-big-display/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-16T16:27:16+00:00"
-  },
-  "c119484157d8": {
-    "id": "c119484157d8",
-    "title_en": "NRG to sell 4.9 GW of gas plants to LS Power for $4B",
-    "title_zh": "NRG将以40亿美元的价格向LS Power出售4.9吉瓦的天然气厂",
-    "url": "https://www.utilitydive.com/news/nrg-energy-gas-plants-ls-power-4b/874761/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-16T16:21:32+00:00"
-  },
-  "2aa30956baf6": {
-    "id": "2aa30956baf6",
-    "title_en": "Canada-EU alliance an opportunity to renew global climate leadership – think tank",
-    "title_zh": "加拿大-欧盟联盟为更新全球气候领导力提供了机会-智囊团",
-    "url": "https://www.cleanenergywire.org/news/canada-eu-alliance-opportunity-renew-global-climate-leadership-think-tank",
-    "source": "Clean Energy Wire",
-    "category": "政策",
-    "pub_ts": "2026-11-16T16:12:35+00:00"
-  },
-  "617ab2e9927d": {
-    "id": "617ab2e9927d",
-    "title_en": "Global solar installations face first annual decline in eight years",
-    "title_zh": "全球太阳能装置面临八年来首次年度下降",
-    "url": "https://www.pv-magazine.com/2026/11/16/global-solar-additions-set-to-fall-for-first-time-since-2018/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T16:05:00+00:00"
-  },
-  "e9fc13cec1d1": {
-    "id": "e9fc13cec1d1",
-    "title_en": "SEC investigates T1 Energy over 45X tax credit disclosures",
-    "title_zh": "美国证券交易委员会调查T1 Energy超过45倍的税收抵免披露",
-    "url": "https://www.pv-tech.org/sec-investigates-t1-energy-45x-tax-credit-eligibility/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T16:00:15+00:00"
-  },
-  "7b9edebf99ba": {
-    "id": "7b9edebf99ba",
-    "title_en": "Houthi Advance Puts Saudi Crude Exports at Risk",
-    "title_zh": "胡塞推进使沙特原油出口面临风险",
-    "url": "https://oilprice.com/Energy/Energy-General/Houthi-Advance-Puts-Saudi-Crude-Exports-at-Risk.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-16T16:00:00+00:00"
-  },
-  "ffc5d6d10ea2": {
-    "id": "ffc5d6d10ea2",
-    "title_en": "HoloSolis raises €15 million, welcomes four new shareholders",
-    "title_zh": "HoloSolis融资1500万欧元，欢迎四位新股东",
-    "url": "https://www.pv-magazine.com/2026/11/16/holosolis-raises-e15-million-welcomes-four-new-shareholders/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T15:53:10+00:00"
-  },
-  "70dd11eeb29e": {
-    "id": "70dd11eeb29e",
-    "title_en": "Three Routes to VPP Revenue for Installers, EPCs, and Developers Utility programs, wholesale markets, and bilateral contracts each come with different eligibility rules, payment structures, and commercial responsibilities.",
-    "title_zh": "安装商、EPC和开发商的VPP收入的三种途径——公用事业计划、批发市场和双边合同——每种都有不同的资格规则、支付结构和商业责任。",
-    "url": "https://www.solarpowerworldonline.com/2026/11/three-routes-to-vpp-revenue-for-installers-epcs-and-developers/",
-    "source": "Solar Power World",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T15:38:57+00:00"
-  },
-  "d3672d60b1d7": {
-    "id": "d3672d60b1d7",
-    "title_en": "China’s Coal Power Generation Slumps as Wind and Solar Surge",
-    "title_zh": "风能和太阳能激增导致中国煤炭发电量暴跌",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Power-Generation-Slumps-as-Wind-and-Solar-Surge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-16T15:30:00+00:00"
-  },
-  "60134244ac21": {
-    "id": "60134244ac21",
-    "title_en": "Vikram Solar sees Q2 revenue and profit slump, adds 1.7GW of new orders",
-    "title_zh": "Vikram Solar第二季度收入和利润下滑，新增订单1.7GW",
-    "url": "https://www.pv-tech.org/vikram-solar-secures-1-7gw-orders-quarterly-profit-declines-70/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T15:02:54+00:00"
-  },
-  "3f8646d1a1cb": {
-    "id": "3f8646d1a1cb",
-    "title_en": "FERC’s See on large loads, Western markets and affordability",
-    "title_zh": "联邦能源管理委员会关于大负荷、西方市场和可负担性的意见",
-    "url": "https://www.utilitydive.com/news/ferc-lindsay-see-large-loads-western-markets-affordability/874736/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-16T15:00:32+00:00"
-  },
-  "fd551807c6da": {
-    "id": "fd551807c6da",
-    "title_en": "AI model detects small fires, smoke in PV plants",
-    "title_zh": "AI模型检测光伏电站中的小火灾和烟雾",
-    "url": "https://www.pv-magazine.com/2026/11/16/ai-model-detects-small-fires-smoke-in-pv-plants/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T14:59:44+00:00"
-  },
-  "49a9bde1ac65": {
-    "id": "49a9bde1ac65",
-    "title_en": "PVcase launches early-stage feasibility and design software",
-    "title_zh": "PVcase推出早期可行性和设计软件",
-    "url": "https://www.pv-magazine.com/2026/11/16/pvcase-launches-early-stage-feasibility-and-design-software-at-re-2026/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T14:54:31+00:00"
-  },
-  "f422ed24da70": {
-    "id": "f422ed24da70",
-    "title_en": "Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
-    "title_zh": "Flatiron Energy在1.2GWh马萨诸塞州BESS项目上破土动工",
-    "url": "https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-16T14:50:50+00:00"
-  },
-  "1d48164610a3": {
-    "id": "1d48164610a3",
-    "title_en": "NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows",
-    "title_zh": "随着季度亏损收窄，NeoVolta以1.16亿美元的BESS协议锚定了美国制造业的增长",
-    "url": "https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-16T14:46:53+00:00"
-  },
-  "f2829b67e6b5": {
-    "id": "f2829b67e6b5",
-    "title_en": "Mobile Energy Hubs: How Chery Auto’s Smart Energy Ecosystem Supports the Development of Smart Cities Worldwide",
-    "title_zh": "移动能源中心：奇瑞汽车的智能能源生态系统如何支持全球智慧城市的发展",
-    "url": "https://cleantechnica.com/2026/11/16/mobile-energy-hubs-how-chery-autos-smart-energy-ecosystem-supports-the-development-of-smart-cities-worldwide/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-16T14:45:29+00:00"
-  },
-  "30ffa0324953": {
-    "id": "30ffa0324953",
-    "title_en": "New York launches second annual 1GW ‘bulk’ energy storage solicitation",
-    "title_zh": "纽约启动第二次年度1GW“批量”储能招标",
-    "url": "https://www.energy-storage.news/new-york-launches-second-annual-1gw-bulk-energy-storage-solicitation/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-16T14:40:53+00:00"
-  },
-  "63d781a71e62": {
-    "id": "63d781a71e62",
-    "title_en": "IX Renewables, TWD Strengthen Offshore Wind Partnership in Taiwan and APAC",
-    "title_zh": "IX可再生能源、TWD加强台湾和亚太地区的海上风电合作伙伴关系",
-    "url": "https://www.offshorewind.biz/2026/11/16/ix-renewables-twd-strengthen-offshore-wind-partnership-in-taiwan-and-apac",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-16T14:38:23+00:00"
-  },
-  "4e7054baf8f8": {
-    "id": "4e7054baf8f8",
-    "title_en": "Semco Maritime and PTSC M&C Net Offshore Substation Contract for CIP’s Second Fengmiao Project",
-    "title_zh": "CIP第二丰庙项目Semco Maritime和PTSC M&C Net海上变电站合同",
-    "url": "https://www.offshorewind.biz/2026/11/16/semco-maritime-and-ptsc-mandc-net-offshore-substation-contract-for-cips-second-fengmiao-project",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-16T14:17:31+00:00"
-  },
-  "82ea95dabb97": {
-    "id": "82ea95dabb97",
-    "title_en": "PVcase launches solar site feasibility assessment platform Concept at RE+",
-    "title_zh": "PVcase在RE推出太阳能场地可行性评估平台Concept+",
-    "url": "https://www.pv-tech.org/pvcase-launches-solar-site-feasibility-assessment-platform-concept-re-plus/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T14:13:22+00:00"
-  },
-  "59c7b4943c7b": {
-    "id": "59c7b4943c7b",
-    "title_en": "Octopus Energy launches plug-in solar kit for small businesses",
-    "title_zh": "Octopus Energy为小型企业推出插入式太阳能套件",
-    "url": "https://www.pv-magazine.com/2026/11/16/octopus-energy-launches-plug-in-solar-kit-for-small-businesses/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T14:12:59+00:00"
-  },
-  "3cf726211577": {
-    "id": "3cf726211577",
-    "title_en": "How PVcase’s latest platform aims to cut solar project attrition",
-    "title_zh": "PVcase的最新平台旨在减少太阳能项目的损耗",
-    "url": "https://www.pv-tech.org/minimising-solar-project-attrition-pvcase-concept-site-feasibility-platform/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-16T14:09:32+00:00"
   }
 }
