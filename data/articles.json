@@ -1,4 +1,310 @@
 {
+  "cec56c33c96d": {
+    "id": "cec56c33c96d",
+    "title_en": "Why Making Electricity From Seawater Has Failed",
+    "title_zh": "为什么海水发电失败了",
+    "url": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Why-Making-Electricity-From-Seawater-Has-Failed.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T21:00:00+00:00"
+  },
+  "c2a292986c65": {
+    "id": "c2a292986c65",
+    "title_en": "Norway Pauses Data Center Grid Reservations as Requests Top Peak Demand",
+    "title_zh": "挪威根据最高峰值需求暂停数据中心电网预订",
+    "url": "https://oilprice.com/Energy/Energy-General/Norway-Pauses-Data-Center-Grid-Reservations-as-Requests-Top-Peak-Demand.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T20:00:00+00:00"
+  },
+  "3ef70e1d7167": {
+    "id": "3ef70e1d7167",
+    "title_en": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
+    "title_zh": "来自广州的感恩节快乐，参观XPENG",
+    "url": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-26T19:42:22+00:00"
+  },
+  "8b654653a16e": {
+    "id": "8b654653a16e",
+    "title_en": "Roborock RockMow robot mowers up to $2,249 off at best prices, Yozma IN 10 Pro e-dirt bike exclusive new $1,519 low, more",
+    "title_zh": "Roborock RockMow机器人割草机以最优惠的价格高达2249美元，Yozma IN 10 Pro电动越野自行车独家新款低至1519美元，更多",
+    "url": "https://electrek.co/2026/11/26/roborock-rockmow-robot-mowers-yozma-in-10-pro-electric-dirt-bike-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-26T19:00:00+00:00"
+  },
+  "77f83ef8f31e": {
+    "id": "77f83ef8f31e",
+    "title_en": "When the Grid Fails, Solar Does Not Wait for the State",
+    "title_zh": "当电网故障时，太阳能不会等待国家",
+    "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/When-the-Grid-Fails-Solar-Does-Not-Wait-for-the-State.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T18:00:00+00:00"
+  },
+  "4a9826ac88a9": {
+    "id": "4a9826ac88a9",
+    "title_en": "Tesla deploys 29 mobile Supercharger stalls for Thanksgiving travel rush",
+    "title_zh": "特斯拉为感恩节旅行高峰部署了29个移动超级充电站",
+    "url": "https://electrek.co/2026/11/26/tesla-deploys-mobile-superchargers-thanksgiving-travel/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-26T17:33:21+00:00"
+  },
+  "1523cf2623fa": {
+    "id": "1523cf2623fa",
+    "title_en": "Solar under scrutiny in latest US trade tariff salvo",
+    "title_zh": "太阳能在最新的美国贸易关税中受到审查",
+    "url": "https://www.pv-tech.org/solar-under-scrutiny-latest-us-trade-tariff-salvo/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T17:09:24+00:00"
+  },
+  "305993b41df2": {
+    "id": "305993b41df2",
+    "title_en": "Why Gasoline Prices Are Falling While Diesel Remains Expensive",
+    "title_zh": "为什么汽油价格下跌，而柴油价格仍然昂贵",
+    "url": "https://oilprice.com/Energy/Energy-General/Why-Gasoline-Prices-Are-Falling-While-Diesel-Remains-Expensive.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T17:00:00+00:00"
+  },
+  "ee25be781120": {
+    "id": "ee25be781120",
+    "title_en": "Seabed Mining Has a Refinery Problem Worth Billions",
+    "title_zh": "海底采矿存在价值数十亿美元的炼油厂问题",
+    "url": "https://cleantechnica.com/2026/11/26/seabed-mining-refinery-problem-billions/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-26T16:55:51+00:00"
+  },
+  "789666eb4da2": {
+    "id": "789666eb4da2",
+    "title_en": "Tanker Traffic at Hormuz Ticks Up Despite Intensified Attacks",
+    "title_zh": "尽管袭击加剧，霍尔木兹的油轮交通仍在增加",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-at-Hormuz-Ticks-Up-Despite-Intensified-Attacks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T16:30:00+00:00"
+  },
+  "f485a4d1b6b4": {
+    "id": "f485a4d1b6b4",
+    "title_en": "France triples planned renewable energy auction volume to 1.5 GW",
+    "title_zh": "法国计划将可再生能源拍卖量增加两倍至1.5吉瓦",
+    "url": "https://www.pv-magazine.com/2026/11/26/france-triples-planned-renewable-energy-auction-volume-to-1-5-gw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T16:23:59+00:00"
+  },
+  "11ce1445d374": {
+    "id": "11ce1445d374",
+    "title_en": "PROJECT ROUNDUP: Scatec withdraws 288MW solar project from REIPPPP, construction operations in US, Italy",
+    "title_zh": "项目综述：Scatec从REIPPP撤回288MW太阳能项目，在美国、意大利进行建设运营",
+    "url": "https://www.pv-tech.org/project-roundup-scatec-withdraws-288mw-solar-project-from-reipppp-construction-operations-in-us-italy/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T16:09:53+00:00"
+  },
+  "f4ea8f73fbcf": {
+    "id": "f4ea8f73fbcf",
+    "title_en": "Why Copper's Thanksgiving Bounce May Not Be the Start of Anything",
+    "title_zh": "为什么铜的感恩节反弹可能不是任何事情的开始",
+    "url": "https://oilprice.com/Metals/Commodities/Why-Coppers-Thanksgiving-Bounce-May-Not-Be-the-Start-of-Anything.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T16:00:00+00:00"
+  },
+  "44daa865039b": {
+    "id": "44daa865039b",
+    "title_en": "Cold Snap Squeezes UK Spare Power Capacity",
+    "title_zh": "寒流挤压英国备用电力容量",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Cold-Snap-Squeezes-UK-Spare-Power-Capacity.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T15:30:00+00:00"
+  },
+  "081120fd7a6b": {
+    "id": "081120fd7a6b",
+    "title_en": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
+    "title_zh": "Zelestra和Statkraft同意意大利BESS收费8年，因为“双边市场与MACSE并行发展”",
+    "url": "https://www.energy-storage.news/zelestra-statkraft-8-year-italy-bess-toll-bilateral-market-develops-parallel-macse/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-26T15:03:14+00:00"
+  },
+  "c45ceb43743e": {
+    "id": "c45ceb43743e",
+    "title_en": "Iranian Hardliners Call for Tanker Convoy to Defy U.S. Blockade",
+    "title_zh": "伊朗强硬派呼吁油轮车队无视美国封锁",
+    "url": "https://oilprice.com/Energy/Energy-General/Iranian-Hardliners-Call-for-Tanker-Convoy-to-Defy-US-Blockade.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T15:00:00+00:00"
+  },
+  "19b908e1cbf3": {
+    "id": "19b908e1cbf3",
+    "title_en": "Beyond climate forecasting: AI’s growing role in distributed energy flexibility",
+    "title_zh": "超越气候预测：人工智能在分布式能源灵活性中的作用日益增强",
+    "url": "https://www.pv-tech.org/tuya-smart-conow-ai-energy-renewables-respond-extreme-weather/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T14:50:39+00:00"
+  },
+  "9d678c2c0be6": {
+    "id": "9d678c2c0be6",
+    "title_en": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say",
+    "title_zh": "插电式太阳能UL认证符合美国安全法规——UL 3700做什么和不说什么",
+    "url": "https://cleantechnica.com/2026/11/26/plug-in-solar-ul-certification-for-us-safety-regs-what-ul-3700-does-doesnt-say/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-26T14:49:46+00:00"
+  },
+  "b5d00c1ca70d": {
+    "id": "b5d00c1ca70d",
+    "title_en": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+    "title_zh": "丹佛男子用松果诱捕Waymo自动驾驶出租车，给它们下蛋至少30次",
+    "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-26T14:36:17+00:00"
+  },
+  "46376505c95a": {
+    "id": "46376505c95a",
+    "title_en": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
+    "title_zh": "一名船员在伊维萨岛附近的柴油油轮沉没时死亡",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T14:30:00+00:00"
+  },
+  "b89aa7f83395": {
+    "id": "b89aa7f83395",
+    "title_en": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+    "title_zh": "2026年储能奖：Fluence、Quinbrook和NHOA再次获奖，CMBlu和ContourGlobal首次获奖",
+    "url": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-26T14:20:22+00:00"
+  },
+  "ae24d4d359d1": {
+    "id": "ae24d4d359d1",
+    "title_en": "Gambia signs four solar PPAs totalling 232 MW",
+    "title_zh": "冈比亚签署了四项太阳能购电协议，总容量达232兆瓦",
+    "url": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T14:15:00+00:00"
+  },
+  "760b6595566f": {
+    "id": "760b6595566f",
+    "title_en": "Thanksgiving 2026 Green Deals Hub: EVs, e-bikes, power stations, tools, appliances, more",
+    "title_zh": "2026年感恩节绿色交易中心：电动汽车、电动自行车、发电站、工具、电器等",
+    "url": "https://electrek.co/2026/11/26/thanksgiving-2026-green-deals-hub-evs-e-bikes-power-stations-tools-appliances-more/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-26T13:57:45+00:00"
+  },
+  "499d0698fe4c": {
+    "id": "499d0698fe4c",
+    "title_en": "Norwegian IPP shifts South African solar project to corporate buyers",
+    "title_zh": "挪威IPP将南非太阳能项目转移给企业买家",
+    "url": "https://www.pv-magazine.com/2026/11/26/norwegian-ipp-shifts-south-african-solar-project-to-corporate-buyers/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T13:45:00+00:00"
+  },
+  "33662e314959": {
+    "id": "33662e314959",
+    "title_en": "These are the e-bike sales you should really care about this Black Friday",
+    "title_zh": "这些是你应该在这个黑色星期五真正关心的电动自行车销售",
+    "url": "https://electrek.co/2026/11/26/these-are-the-e-bike-sales-you-should-really-care-about-this-black-friday/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-26T13:31:29+00:00"
+  },
+  "be8ec861e278": {
+    "id": "be8ec861e278",
+    "title_en": "Dutch Gas Network Operator Proposes Creation of Strategic Reserve",
+    "title_zh": "荷兰天然气网络运营商提议建立战略储备",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Dutch-Gas-Network-Operator-Proposes-Creation-of-Strategic-Reserve.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T13:30:00+00:00"
+  },
+  "a01d80523aa7": {
+    "id": "a01d80523aa7",
+    "title_en": "Rare periods of low PV generation can be managed with storage",
+    "title_zh": "罕见的低光伏发电期可以通过储能来管理",
+    "url": "https://www.pv-magazine.com/2026/11/26/rare-periods-of-low-pv-generation-can-be-managed-with-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T13:15:00+00:00"
+  },
+  "a0b26dd18385": {
+    "id": "a0b26dd18385",
+    "title_en": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+    "title_zh": "Energy Vault积压达23亿美元，因为它完成了150MW德克萨斯州BESS的融资",
+    "url": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-26T13:03:53+00:00"
+  },
+  "ea5c31fe43de": {
+    "id": "ea5c31fe43de",
+    "title_en": "Spain could reach 10 GW of batteries by 2030, but bankability remains the major challenge",
+    "title_zh": "到2030年，西班牙的电池容量可能达到10吉瓦，但可融资性仍然是主要挑战",
+    "url": "https://www.pv-magazine.com/2026/11/26/spain-could-reach-10-gw-of-batteries-by-2030-but-bankability-remains-the-major-challenge/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T13:00:59+00:00"
+  },
+  "833db460a703": {
+    "id": "833db460a703",
+    "title_en": "EU Chinese inverter ban could cut Eastern European PV deployments by 6%, says Woodmac",
+    "title_zh": "Woodmac表示，欧盟-中国逆变器禁令可能会使东欧光伏部署减少6%",
+    "url": "https://www.pv-tech.org/eu-chinese-inverter-ban-could-cut-eastern-european-pv-deployments-by-6-says-woodmac/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T12:55:15+00:00"
+  },
+  "54eda938237f": {
+    "id": "54eda938237f",
+    "title_en": "‘Made in Europe’ rules are make-or-break, but China’s tech is essential to get started, says HoloSolis CEO",
+    "title_zh": "HoloSolis首席执行官表示，“欧洲制造”的规则成败攸关，但中国的技术对于起步至关重要",
+    "url": "https://www.pv-tech.org/made-in-europe-rules-are-make-or-break-but-chinas-tech-is-essential-to-get-started-says-holosolis-ceo/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T12:54:08+00:00"
+  },
+  "35bdf59a8607": {
+    "id": "35bdf59a8607",
+    "title_en": "India adds 11.2 GW of rooftop PV capacity in first nine months of 2026",
+    "title_zh": "印度在2026年前九个月增加了11.2吉瓦的屋顶光伏容量",
+    "url": "https://www.pv-magazine.com/2026/11/26/india-adds-11-2-gw-of-rooftop-solar-capacity-in-first-nine-months-of-2026/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T12:49:04+00:00"
+  },
+  "4bebd6b06b57": {
+    "id": "4bebd6b06b57",
+    "title_en": "Estonian solar park energized with 55 MW/250 MWh battery",
+    "title_zh": "爱沙尼亚太阳能公园用55 MW/250 MWh电池供电",
+    "url": "https://www.pv-magazine.com/2026/11/26/estonian-hybrid-park-energized-with-55-mw-250-mwh-battery/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T12:30:00+00:00"
+  },
+  "e330f63147ee": {
+    "id": "e330f63147ee",
+    "title_en": "Brazilian utility halts new wind farm investment amid curtailment surge",
+    "title_zh": "巴西公用事业公司因弃风激增而停止新的风电场投资",
+    "url": "https://www.windpowermonthly.com/article/1976235/brazilian-utility-halts-new-wind-farm-investment-amid-curtailment-surge",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-11-26T12:15:08+00:00"
+  },
   "ac2ca5124e42": {
     "id": "ac2ca5124e42",
     "title_en": "Huawei launches Luterra S2 in Europe",
@@ -7,6 +313,15 @@
     "source": "PV Magazine",
     "category": "太阳能",
     "pub_ts": "2026-11-26T11:45:00+00:00"
+  },
+  "e9733cee3ced": {
+    "id": "e9733cee3ced",
+    "title_en": "Netherlands launches 2GW offshore wind tender",
+    "title_zh": "荷兰启动2GW海上风电招标",
+    "url": "https://www.windpowermonthly.com/article/1976225/netherlands-launches-2gw-offshore-wind-tender",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-11-26T11:43:19+00:00"
   },
   "4264f5ba37a8": {
     "id": "4264f5ba37a8",
@@ -88,6 +403,15 @@
     "source": "Wind Power Monthly",
     "category": "风电",
     "pub_ts": "2026-11-26T09:51:48+00:00"
+  },
+  "799fb54e47c2": {
+    "id": "799fb54e47c2",
+    "title_en": "BarMar consortium selects Wood for hydrogen pipeline",
+    "title_zh": "BarMar财团选择Wood作为氢气管道",
+    "url": "https://www.energymonitor.ai/news/barmar-wood-hydrogen-pipeline/",
+    "source": "Energy Monitor",
+    "category": "综合",
+    "pub_ts": "2026-11-26T09:48:57+00:00"
   },
   "d4e47fdfef3c": {
     "id": "d4e47fdfef3c",
@@ -4174,329 +4498,5 @@
     "source": "Oil Price",
     "category": "油气",
     "pub_ts": "2026-11-19T14:30:00+00:00"
-  },
-  "cb7a41daabf2": {
-    "id": "cb7a41daabf2",
-    "title_en": "Australia Explores Gas Phase-Out Deal in Talks on Reservation Scheme",
-    "title_zh": "澳大利亚在预订计划谈判中探讨天然气逐步淘汰协议",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Explores-Gas-Phase-Out-Deal-in-Talks-on-Reservation-Scheme.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T14:30:00+00:00"
-  },
-  "04c771c54fd9": {
-    "id": "04c771c54fd9",
-    "title_en": "PJM urged to delay base capacity auction until data centers cut from forecast",
-    "title_zh": "PJM敦促推迟基础容量拍卖，直到数据中心从预测中削减",
-    "url": "https://www.utilitydive.com/news/ratepayer-advocates-pjm-market-monitor-capacity-auction/875165/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-19T14:29:26+00:00"
-  },
-  "d6041ac828aa": {
-    "id": "d6041ac828aa",
-    "title_en": "Scotland Greenlights 1 GW Floating Wind Farm",
-    "title_zh": "苏格兰Greenlights 1 GW浮式风电场",
-    "url": "https://www.offshorewind.biz/2026/11/19/scotland-greenlights-1-gw-floating-wind-farm",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T14:23:23+00:00"
-  },
-  "84ff0d8328b3": {
-    "id": "84ff0d8328b3",
-    "title_en": "Aptera (SEV) completes its first customer solar EV — for its top crowdfunder",
-    "title_zh": "Aptera（SEV）为其最大的众包商完成了第一个客户太阳能电动汽车",
-    "url": "https://electrek.co/2026/11/19/aptera-sev-first-solar-ev-customer-delivery-investor/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T14:13:20+00:00"
-  },
-  "19806210670b": {
-    "id": "19806210670b",
-    "title_en": "Elon Musk announces another Tesla vehicle no one asked for",
-    "title_zh": "埃隆·马斯克宣布推出另一款无人要求的特斯拉汽车",
-    "url": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T13:59:10+00:00"
-  },
-  "76060ac2c35d": {
-    "id": "76060ac2c35d",
-    "title_en": "MicroQuanta, Zhejiang University achieve world-record efficiency of 23.9% for 19.48 cm² perovskite solar module",
-    "title_zh": "浙江大学MicroQuanta公司19.48cm²钙钛矿太阳能模块实现23.9%的世界纪录效率",
-    "url": "https://www.pv-magazine.com/2026/11/19/microquanta-achieves-world-record-efficiency-of-23-9-for-19-48-cm%c2%b2-perovskite-solar-module/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T13:31:19+00:00"
-  },
-  "35fd253d03ed": {
-    "id": "35fd253d03ed",
-    "title_en": "NKT’s Karlskrona Offshore Cable Factory Expansion Set to Start Operations in Q2 2027",
-    "title_zh": "NKT卡尔斯克鲁纳海上电缆厂扩建工程将于2027年第二季度开始运营",
-    "url": "https://www.offshorewind.biz/2026/11/19/nkts-karlskrona-offshore-cable-factory-expansion-set-to-start-operations-in-q2-2027",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T13:19:17+00:00"
-  },
-  "c77ec8f8eef4": {
-    "id": "c77ec8f8eef4",
-    "title_en": "Solar PV to lead global electricity generation ‘across all scenarios’ by mid-2030s, says IEA",
-    "title_zh": "国际能源署表示，到21世纪30年代中期，太阳能光伏将在“所有情景”中引领全球发电",
-    "url": "https://www.pv-tech.org/solar-pv-lead-global-electricity-generation-across-all-scenarios-mid-2030s-iea/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T13:10:34+00:00"
-  },
-  "2527aa2d2bb6": {
-    "id": "2527aa2d2bb6",
-    "title_en": "Solyco unveils 485 W full-black residential solar module with stainless steel protection",
-    "title_zh": "Solyco推出带不锈钢保护的485 W全黑住宅太阳能模块",
-    "url": "https://www.pv-magazine.com/2026/11/19/solyco-unveils-485-w-full-black-residential-solar-module-with-stainless-steel-protection/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T12:39:08+00:00"
-  },
-  "29e5fc975586": {
-    "id": "29e5fc975586",
-    "title_en": "Bustling control rooms and calm seas: A visit to Rampion offshore wind farm",
-    "title_zh": "喧闹的控制室和平静的大海：参观Rampion海上风电场",
-    "url": "https://www.windpowermonthly.com/article/1975662/bustling-control-rooms-calm-seas-visit-rampion-offshore-wind-farm",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-19T12:21:13+00:00"
-  },
-  "3618a74b80ba": {
-    "id": "3618a74b80ba",
-    "title_en": "Data centre power buildouts are déjà vu for US storage integrators with off-grid roots",
-    "title_zh": "对于具有离网基础的美国存储集成商来说，数据中心电力建设已经司空见惯",
-    "url": "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T12:04:30+00:00"
-  },
-  "3d76f629b95e": {
-    "id": "3d76f629b95e",
-    "title_en": "‘Good well past 30 years of operation’: Avery Dennison and Argent on PSA tape ageing tests for battery storage",
-    "title_zh": "“过去30年运营良好”：Avery Dennison和Argent关于电池储能PSA胶带老化测试",
-    "url": "https://www.energy-storage.news/avery-dennison-argent-psa-tape-dielectric-performance-bess-30-year-lifetimes/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T11:53:02+00:00"
-  },
-  "627a7fbadef1": {
-    "id": "627a7fbadef1",
-    "title_en": "Seaway7 Reveals Vessel Trio for Berwick Bank B Work",
-    "title_zh": "Seaway7透露Berwick Bank B工作的三艘船",
-    "url": "https://www.offshorewind.biz/2026/11/19/seaway7-reveals-vessel-trio-for-berwick-bank-b-work",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T11:52:10+00:00"
-  },
-  "a98437b7367b": {
-    "id": "a98437b7367b",
-    "title_en": "Fuel constraints could challenge grid this winter, despite resource improvements: NERC",
-    "title_zh": "尽管资源有所改善，但燃料限制可能会在今年冬天挑战电网：NERC",
-    "url": "https://www.utilitydive.com/news/el-nino-challenge-grid-operators-winter-nerc/875156/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-19T11:38:50+00:00"
-  },
-  "4176727aa643": {
-    "id": "4176727aa643",
-    "title_en": "What US BESS industry experts are saying about BAAJA at RE+ 2026",
-    "title_zh": "美国BESS行业专家在RE+2026上对BAAJA的看法",
-    "url": "https://www.energy-storage.news/what-us-bess-industry-experts-are-saying-about-baaja-at-re-2026/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T11:37:48+00:00"
-  },
-  "8c17950d3494": {
-    "id": "8c17950d3494",
-    "title_en": "Porsche’s newest electric car is a tiny 50 mph replica of a legendary racer",
-    "title_zh": "保时捷最新的电动汽车是一辆时速50英里的传奇赛车的微型复制品",
-    "url": "https://electrek.co/2026/11/19/porsches-newest-electric-car-is-a-tiny-50-mph-replica-of-a-legendary-racer/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T11:36:34+00:00"
-  },
-  "dc31e673251c": {
-    "id": "dc31e673251c",
-    "title_en": "Purus Takes Delivery of First Damen CSOV",
-    "title_zh": "Purus接收首架Damen CSOV",
-    "url": "https://www.offshorewind.biz/2026/11/19/purus-takes-delivery-of-first-damen-csov",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T11:23:14+00:00"
-  },
-  "d71acde3e952": {
-    "id": "d71acde3e952",
-    "title_en": "Jackery and Every Electric launch 4 MWh plug-in battery VPP for New York renters",
-    "title_zh": "Jackery和Every Electric为纽约租户推出4 MWh插电式电池VPP",
-    "url": "https://www.pv-magazine.com/2026/11/19/jackery-and-every-electric-launch-4-mwh-plug-in-battery-vpp-for-new-york-renters/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T11:12:45+00:00"
-  },
-  "a4c559f2e002": {
-    "id": "a4c559f2e002",
-    "title_en": "Italy: MACSE 2.0 to see higher clearing prices, lower capex impact, but Enel ‘will still bid hard again’, developer says",
-    "title_zh": "意大利：开发商表示，MACSE 2.0将看到更高的清算价格，更低的资本支出影响，但Enel“仍将再次出价”",
-    "url": "https://www.energy-storage.news/italy-macse-2-0-to-see-higher-clearing-prices-lower-capex-impact-but-enel-will-still-bid-hard-again-developer-says/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T10:59:48+00:00"
-  },
-  "98581a661ea8": {
-    "id": "98581a661ea8",
-    "title_en": "New York state is short electric resources beginning 2033: ISO",
-    "title_zh": "从2033年开始，纽约州电力资源短缺：ISO",
-    "url": "https://www.utilitydive.com/news/new-york-is-short-electric-resources-beginning-2033-iso/875155/",
-    "source": "Utility Dive",
-    "category": "电网",
-    "pub_ts": "2026-11-19T10:55:14+00:00"
-  },
-  "17af1643424e": {
-    "id": "17af1643424e",
-    "title_en": "RWE Americas chief to step down by end of year",
-    "title_zh": "RWE美洲区负责人将于年底卸任",
-    "url": "https://www.windpowermonthly.com/article/1975653/rwe-americas-chief-step-down-end-year",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-19T10:50:44+00:00"
-  },
-  "083de57cc082": {
-    "id": "083de57cc082",
-    "title_en": "Tesla seeks Texas tax break for $3.1 billion polysilicon plant",
-    "title_zh": "特斯拉寻求德克萨斯州31亿美元多晶硅厂的税收减免",
-    "url": "https://www.pv-magazine.com/2026/11/19/tesla-seeks-texas-tax-break-for-3-1-billion-polysilicon-plant/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T10:50:25+00:00"
-  },
-  "dacac5403a4f": {
-    "id": "dacac5403a4f",
-    "title_en": "Most of BESS supply industry is not ready for EU’s 2027 Battery Regulations, report says",
-    "title_zh": "报告称，大多数BESS供应行业尚未为欧盟2027年电池法规做好准备",
-    "url": "https://www.energy-storage.news/most-bess-supply-industry-not-ready-for-eu-2027-battery-regulations-report/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T10:45:43+00:00"
-  },
-  "a06194f19744": {
-    "id": "a06194f19744",
-    "title_en": "At COP31, Longi details its pathways to advance global green development",
-    "title_zh": "在COP31上，隆吉详细介绍了其推进全球绿色发展的途径",
-    "url": "https://www.pv-magazine.com/2026/11/19/at-cop31-longi-details-its-pathways-to-advance-global-green-development/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T10:30:00+00:00"
-  },
-  "07d1aa94f5dc": {
-    "id": "07d1aa94f5dc",
-    "title_en": "India’s Oil Imports Hit Record High as Saudi Shipments Surge",
-    "title_zh": "随着沙特石油出货量激增，印度石油进口创历史新高",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Oil-Imports-Hit-Record-High-as-Saudi-Shipments-Surge.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T10:30:00+00:00"
-  },
-  "20645e7808ad": {
-    "id": "20645e7808ad",
-    "title_en": "NKT Upgrading Barge Bought from Boskalis for Nearshore Cable-Laying Ops",
-    "title_zh": "从Boskalis购买的NKT升级驳船用于近岸电缆铺设作业",
-    "url": "https://www.offshorewind.biz/2026/11/19/nkt-upgrading-barge-bought-from-boskalis-for-nearshore-cable-laying-ops",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T10:23:38+00:00"
-  },
-  "7f9223691d38": {
-    "id": "7f9223691d38",
-    "title_en": "Heron Power inks 1.5GW power electronics deal with Google-owned Intersect",
-    "title_zh": "Heron Power与谷歌旗下的Intersect签署1.5GW电力电子协议",
-    "url": "https://www.pv-tech.org/heron-power-1-5gw-power-electronics-deal-google-owned-intersect/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T10:23:24+00:00"
-  },
-  "4cd335b763c2": {
-    "id": "4cd335b763c2",
-    "title_en": "US offshore wind farm faces new federal review",
-    "title_zh": "美国海上风电场面临新的联邦审查",
-    "url": "https://www.windpowermonthly.com/article/1975640/us-offshore-wind-farm-faces-new-federal-review",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-19T10:08:06+00:00"
-  },
-  "bc335ffe47f2": {
-    "id": "bc335ffe47f2",
-    "title_en": "Bolivia launches EPC tender for 40 MWac solar project",
-    "title_zh": "玻利维亚启动40MWac太阳能项目EPC招标",
-    "url": "https://www.pv-magazine.com/2026/11/19/bolivia-launches-epc-tender-for-40-mwac-solar-project/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T10:08:02+00:00"
-  },
-  "616dde464d1f": {
-    "id": "616dde464d1f",
-    "title_en": "WindEurope, EU Ports Call for Predictable Offshore Wind Pipeline",
-    "title_zh": "WindEurope和欧盟港口呼吁建设可预测的海上风电管道",
-    "url": "https://www.offshorewind.biz/2026/11/19/windeurope-eu-ports-call-for-predictable-offshore-wind-pipeline",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T09:58:48+00:00"
-  },
-  "293f6532db5a": {
-    "id": "293f6532db5a",
-    "title_en": "BW ESS and Wattmen to develop 500MW of battery energy storage in France",
-    "title_zh": "BW ESS和Wattmen将在法国开发500MW电池储能",
-    "url": "https://www.energy-storage.news/bw-ess-wattmen-500mw-battery-storage-france/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T09:50:44+00:00"
-  },
-  "73134620ecdd": {
-    "id": "73134620ecdd",
-    "title_en": "Peñoles and Atlas sign 20-year solar and storage deal in Mexico",
-    "title_zh": "Peñoles和Atlas在墨西哥签署了为期20年的太阳能和储能协议",
-    "url": "https://www.energymonitor.ai/news/penoles-atlas-sign-20-year-deal/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-19T09:49:26+00:00"
-  },
-  "fd7524b3d39e": {
-    "id": "fd7524b3d39e",
-    "title_en": "Statkraft pairs PPA with part-tolled, part-merchant BESS contract at Dutch solar site",
-    "title_zh": "Statkraft在荷兰太阳能工厂将PPA与部分收费、部分商户BESS合同配对",
-    "url": "https://www.energy-storage.news/statkraft-ppa-tolled-merchant-bess-dutch-solar-site/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T09:34:01+00:00"
-  },
-  "58fa02b97113": {
-    "id": "58fa02b97113",
-    "title_en": "France’s first canal-top PV project goes online",
-    "title_zh": "法国首个运河顶部光伏项目上线",
-    "url": "https://www.pv-magazine.com/2026/11/19/frances-first-canal-top-pv-project-goes-online/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T09:33:01+00:00"
-  },
-  "1faaf99bcef7": {
-    "id": "1faaf99bcef7",
-    "title_en": "‘Technical and non-controversial’: New Zealand regulator corrects battery storage price band rule date",
-    "title_zh": "“技术性且无争议”：新西兰监管机构修正电池储能价格区间规则日期",
-    "url": "https://www.energy-storage.news/nz-regulator-corrects-bess-price-band-rule-date/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T09:21:02+00:00"
-  },
-  "3db0526e4a68": {
-    "id": "3db0526e4a68",
-    "title_en": "AGL installs first 100 units at 2,000MWh Tomago BESS in New South Wales, Australia",
-    "title_zh": "AGL在澳大利亚新南威尔士州安装了首批100台2000MWh的Tomago BESS机组",
-    "url": "https://www.energy-storage.news/agl-tomago-bess-first-100-units-installed-nsw/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T09:13:31+00:00"
   }
 }
