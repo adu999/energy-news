@@ -1,4 +1,184 @@
 {
+  "ac2ca5124e42": {
+    "id": "ac2ca5124e42",
+    "title_en": "Huawei launches Luterra S2 in Europe",
+    "title_zh": "华为在欧洲推出Luterra S2",
+    "url": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T11:45:00+00:00"
+  },
+  "4264f5ba37a8": {
+    "id": "4264f5ba37a8",
+    "title_en": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
+    "title_zh": "Actuate Energy向阳光电源订购1.5GWh BESS，用于西班牙2027/2028年的管道",
+    "url": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-26T11:42:32+00:00"
+  },
+  "c0aba6ec357e": {
+    "id": "c0aba6ec357e",
+    "title_en": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline",
+    "title_zh": "土库曼斯坦接近100亿美元TAPI天然气管道的重要里程碑",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkmenistan-Nears-Major-Milestone-in-10-Billion-TAPI-Gas-Pipeline.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T11:40:00+00:00"
+  },
+  "b835e78446c7": {
+    "id": "b835e78446c7",
+    "title_en": "HT-SAAE to fully divest from Turkish subsidiary as overseas losses mount",
+    "title_zh": "随着海外亏损的增加，HT-SAAE将完全剥离土耳其子公司",
+    "url": "https://www.pv-tech.org/ht-saae-divesting-turkish-pv-manufacturing-subsidiary-overseas-losses/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T11:28:44+00:00"
+  },
+  "0787be4a542f": {
+    "id": "0787be4a542f",
+    "title_en": "Switzerland raises incentives for solar below 100 kW",
+    "title_zh": "瑞士提高了对100千瓦以下太阳能的激励措施",
+    "url": "https://www.pv-magazine.com/2026/11/26/switzerland-raises-incentives-for-solar-below-100-kw/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T10:55:00+00:00"
+  },
+  "0eba22add2cf": {
+    "id": "0eba22add2cf",
+    "title_en": "Japan’s Nuclear Revival Hits a Snag as TEPCO Delays Reactor Restart",
+    "title_zh": "东京电力公司推迟反应堆重启，日本核复兴陷入困境",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Nuclear-Revival-Hits-a-Snag-as-TEPCO-Delays-Reactor-Restart.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T10:55:00+00:00"
+  },
+  "c1e5cbeffb1f": {
+    "id": "c1e5cbeffb1f",
+    "title_en": "If I could only use one bike lock, it’d be this: FoldyLock Elite 110 review",
+    "title_zh": "如果我只能用一个自行车锁，那就是：FoldyLock Elite 110评论",
+    "url": "https://electrek.co/2026/11/26/if-i-could-only-use-one-bike-lock-itd-be-this-foldylock-elite-110-review/",
+    "source": "Electrek",
+    "category": "EV",
+    "pub_ts": "2026-11-26T10:22:56+00:00"
+  },
+  "62908431fd7e": {
+    "id": "62908431fd7e",
+    "title_en": "Mexico conditionally approves 621 MW solar project in Veracruz",
+    "title_zh": "墨西哥有条件批准韦拉克鲁斯州621兆瓦太阳能项目",
+    "url": "https://www.pv-magazine.com/2026/11/26/mexico-conditionally-approves-621-mw-solar-project-in-veracruz/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T10:15:00+00:00"
+  },
+  "f8ed8e1b93e7": {
+    "id": "f8ed8e1b93e7",
+    "title_en": "Finnish partners target 461 MW of solar by 2029",
+    "title_zh": "芬兰合作伙伴计划到2029年实现461兆瓦的太阳能发电量",
+    "url": "https://www.pv-magazine.com/2026/11/26/finnish-partners-target-461-mw-of-solar-by-2029/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T10:00:00+00:00"
+  },
+  "0845ae015902": {
+    "id": "0845ae015902",
+    "title_en": "Ireland awards just 188MW to wind power in latest auction",
+    "title_zh": "爱尔兰在最新拍卖中仅授予188兆瓦的风电",
+    "url": "https://www.windpowermonthly.com/article/1976144/ireland-awards-just-188mw-wind-power-latest-auction",
+    "source": "Wind Power Monthly",
+    "category": "风电",
+    "pub_ts": "2026-11-26T09:51:48+00:00"
+  },
+  "d4e47fdfef3c": {
+    "id": "d4e47fdfef3c",
+    "title_en": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
+    "title_zh": "“圣诞礼物”：欧洲能源公司在澳大利亚交付88MWh电池储能装置",
+    "url": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+    "source": "Energy Storage News",
+    "category": "储能",
+    "pub_ts": "2026-11-26T09:30:59+00:00"
+  },
+  "ff0aef039fa5": {
+    "id": "ff0aef039fa5",
+    "title_en": "Chinese solar module maker Sunport files for bankruptcy restructuring",
+    "title_zh": "中国太阳能组件制造商Sunport申请破产重组",
+    "url": "https://www.pv-magazine.com/2026/11/26/chinese-solar-module-maker-sunport-files-for-bankruptcy-restructuring/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T09:16:44+00:00"
+  },
+  "c335ac1b86dd": {
+    "id": "c335ac1b86dd",
+    "title_en": "Researchers find solar-powered hydrogen rail system could achieve LCOH of $10.47/kg",
+    "title_zh": "研究人员发现，太阳能氢轨系统可以实现10.47美元/公斤的LCOH",
+    "url": "https://www.pv-magazine.com/2026/11/26/researchers-find-solar-powered-hydrogen-rail-system-could-achieve-lcoh-of-10-47-kg/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T09:00:00+00:00"
+  },
+  "edc3572d4f65": {
+    "id": "edc3572d4f65",
+    "title_en": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
+    "title_zh": "尽管安全风险日益增加，利比亚仍计划进行新一轮石油招标",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T08:30:00+00:00"
+  },
+  "d76aabfe6df3": {
+    "id": "d76aabfe6df3",
+    "title_en": "Spanish researchers build photovoltaic-thermal prototype with graphite-paraffin heat storage",
+    "title_zh": "西班牙研究人员利用石墨-石蜡储热技术构建光伏热原型",
+    "url": "https://www.pv-magazine.com/2026/11/26/spanish-researchers-build-photovoltaic-thermal-prototype-with-graphite-paraffin-heat-storage/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T08:00:00+00:00"
+  },
+  "6d2710690e15": {
+    "id": "6d2710690e15",
+    "title_en": "Unite secures €20 million for 22 MW of solar aviaries in France",
+    "title_zh": "Unite为法国22兆瓦的太阳能发电厂获得2000万欧元",
+    "url": "https://www.pv-magazine.com/2026/11/26/unite-secures-e20-million-for-22-mw-of-solar-aviaries-in-france/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T07:38:10+00:00"
+  },
+  "83b9a34e697e": {
+    "id": "83b9a34e697e",
+    "title_en": "Microchannel heat pipe cuts solar panel temperature by 15.5 C",
+    "title_zh": "微通道热管将太阳能电池板温度降低15.5摄氏度",
+    "url": "https://www.pv-magazine.com/2026/11/26/microchannel-heat-pipe-cuts-solar-panel-temperature-by-15-5-c/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T07:21:02+00:00"
+  },
+  "be4e9bdec7ce": {
+    "id": "be4e9bdec7ce",
+    "title_en": "More than 4.1 GW of large-scale solar projects advance across Mexico since September",
+    "title_zh": "自9月以来，墨西哥各地推进了超过4.1吉瓦的大型太阳能项目",
+    "url": "https://www.pv-magazine.com/2026/11/26/more-than-4-1-gw-of-large-scale-solar-projects-advance-across-mexico-since-september/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T07:12:56+00:00"
+  },
+  "46c96f5c7215": {
+    "id": "46c96f5c7215",
+    "title_en": "Enbridge Eyes $1 Billion Pipeline Deal With Indigenous Communities",
+    "title_zh": "Enbridge与土著社区达成10亿美元的管道交易",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Enbridge-Eyes-1-Billion-Pipeline-Deal-With-Indigenous-Communities.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T06:45:00+00:00"
+  },
+  "1035858997d1": {
+    "id": "1035858997d1",
+    "title_en": "Oil Rallies as Hormuz Mine Strikes Rattle Global Markets",
+    "title_zh": "霍尔木兹矿袭击全球市场，油价上涨",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Rallies-as-Hormuz-Mine-Strikes-Rattle-Global-Markets.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T05:18:59+00:00"
+  },
   "6ece588a0cc4": {
     "id": "6ece588a0cc4",
     "title_en": "Labor Shortages Could Derail Canada’s Oil and Gas Growth Momentum",
@@ -4318,185 +4498,5 @@
     "source": "Energy Storage News",
     "category": "储能",
     "pub_ts": "2026-11-19T09:13:31+00:00"
-  },
-  "b60dc163e6a0": {
-    "id": "b60dc163e6a0",
-    "title_en": "EU sets three-month deadline for solar approvals, lowers benefit-sharing threshold to 7MW",
-    "title_zh": "欧盟为太阳能审批设定了三个月的最后期限，将利益分享门槛降至7MW",
-    "url": "https://www.pv-tech.org/eu-three-month-deadline-solar-approvals-permitting-reforms/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T09:10:27+00:00"
-  },
-  "a66ba790b739": {
-    "id": "a66ba790b739",
-    "title_en": "EU to launch €36 million funding call for advanced solar cell manufacturing",
-    "title_zh": "欧盟将启动3600万欧元的资金呼吁，用于先进的太阳能电池制造",
-    "url": "https://www.pv-magazine.com/2026/11/19/eu-to-launch-e36-million-funding-call-for-advanced-solar-cell-manufacturing/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T09:04:30+00:00"
-  },
-  "dea25ac6af1f": {
-    "id": "dea25ac6af1f",
-    "title_en": "The Middle East War Has Wiped 2.8 Billion Barrels Off Global Oil Supply",
-    "title_zh": "中东战争使全球石油供应减少了28亿桶",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Middle-East-War-Has-Wiped-28-Billion-Barrels-Off-Global-Oil-Supply.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T09:00:00+00:00"
-  },
-  "9336cc384168": {
-    "id": "9336cc384168",
-    "title_en": "Hexicon’s liquidation risk is ‘reality check’ for floating wind",
-    "title_zh": "Hexicon的清算风险是对浮动风的“现实检验”",
-    "url": "https://www.windpowermonthly.com/article/1975493/hexicons-liquidation-risk-reality-check-floating-wind",
-    "source": "Wind Power Monthly",
-    "category": "风电",
-    "pub_ts": "2026-11-19T09:00:00+00:00"
-  },
-  "0b5b8a50179f": {
-    "id": "0b5b8a50179f",
-    "title_en": "Indonesia could reach 96.7 GW of solar by 2029 with policy reforms",
-    "title_zh": "通过政策改革，印尼到2029年太阳能发电量可能达到96.7吉瓦",
-    "url": "https://www.pv-magazine.com/2026/11/19/indonesia-could-reach-96-7-gw-of-solar-by-2029-with-policy-reforms/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T08:49:07+00:00"
-  },
-  "6099b9de3130": {
-    "id": "6099b9de3130",
-    "title_en": "Efficient heating is not enough: Why the timing of electricity use matters for heat pumps",
-    "title_zh": "高效供暖还不够：为什么用电时间对热泵很重要",
-    "url": "https://www.pv-magazine.com/2026/11/19/efficient-heating-is-not-enough-why-the-timing-of-electricity-use-matters-for-heat-pumps/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T08:43:00+00:00"
-  },
-  "1f68dfa4aaa1": {
-    "id": "1f68dfa4aaa1",
-    "title_en": "Windar Inks Turbine Tower Supply Deal for BC-Wind as Project’s First Monopiles Arrive at Świnoujście Port",
-    "title_zh": "Windar为不列颠哥伦比亚省风能公司签订涡轮机塔架供应协议，因为该项目的第一个单桩抵达希温努希切港",
-    "url": "https://www.offshorewind.biz/2026/11/19/windar-inks-turbine-tower-supply-deal-for-bc-wind-as-projects-first-monopiles-arrive-at-swinoujscie-port",
-    "source": "Offshore Wind",
-    "category": "风电",
-    "pub_ts": "2026-11-19T08:36:36+00:00"
-  },
-  "c97d6c75ae92": {
-    "id": "c97d6c75ae92",
-    "title_en": "Wisconsin’s new Dem trifecta could be a boon for clean energy",
-    "title_zh": "威斯康星州的新民主党三巨头可能对清洁能源有利",
-    "url": "https://www.canarymedia.com/articles/politics/wisconsin-dem-trifecta-clean-energy",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-11-19T08:30:00+00:00"
-  },
-  "6277c1d6c0ce": {
-    "id": "6277c1d6c0ce",
-    "title_en": "Massachusetts pilot program offers free batteries and extra cash",
-    "title_zh": "马萨诸塞州的试点项目提供免费电池和额外现金",
-    "url": "https://www.canarymedia.com/articles/batteries/massachusetts-pilot-program-free-batteries",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-11-19T08:30:00+00:00"
-  },
-  "da382a29b55a": {
-    "id": "da382a29b55a",
-    "title_en": "How solar and storage are powering a new era of American manufacturing",
-    "title_zh": "太阳能和储能如何为美国制造业的新时代提供动力",
-    "url": "https://www.canarymedia.com/articles/sponsored/how-solar-and-storage-are-powering-a-new-era-of-american-manufacturing",
-    "source": "Canary Media",
-    "category": "综合",
-    "pub_ts": "2026-11-19T08:30:00+00:00"
-  },
-  "d448941f9c8e": {
-    "id": "d448941f9c8e",
-    "title_en": "Remote control and cybersecurity: Protecting renewable energy plants’ digital infrastructure",
-    "title_zh": "远程控制和网络安全：保护可再生能源工厂的数字基础设施",
-    "url": "https://www.pv-magazine.com/2026/11/19/remote-control-and-cybersecurity-protecting-renewable-energy-plants-digital-infrastructure/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T08:24:11+00:00"
-  },
-  "415e0a25eaff": {
-    "id": "415e0a25eaff",
-    "title_en": "Brazil, Colombia and Chile lead Latin America’s agrivoltaics market with 60 projects across the region",
-    "title_zh": "巴西、哥伦比亚和智利在拉丁美洲的农业光伏市场处于领先地位，在该地区拥有60个项目",
-    "url": "https://www.pv-magazine.com/2026/11/19/brazil-colombia-and-chile-lead-latin-americas-agrivoltaics-market-with-60-projects-across-the-region/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T08:07:36+00:00"
-  },
-  "c2cc8db281d8": {
-    "id": "c2cc8db281d8",
-    "title_en": "Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more",
-    "title_zh": "2026年亚马逊黑色星期五正式促销现已上线！数百万笔交易：苹果、谷歌、电视、家居等",
-    "url": "https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T08:01:37+00:00"
-  },
-  "5d117e538a33": {
-    "id": "5d117e538a33",
-    "title_en": "Searenergy Poland to support Bałtyk 2 and 3 offshore wind farm projects",
-    "title_zh": "Searnenergy Poland将支持Bałtyk 2和3海上风电场项目",
-    "url": "https://www.energymonitor.ai/news/searenergy-poland-support-baltyk-2-and-3/",
-    "source": "Energy Monitor",
-    "category": "综合",
-    "pub_ts": "2026-11-19T08:01:32+00:00"
-  },
-  "bec4fda8d87f": {
-    "id": "bec4fda8d87f",
-    "title_en": "EU Delays Methane Rules by Two Years Amid Energy Supply Fears",
-    "title_zh": "欧盟因能源供应担忧将甲烷法规推迟两年",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Delays-Methane-Rules-by-Two-Years-Amid-Energy-Supply-Fears.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T07:30:00+00:00"
-  },
-  "91138a901048": {
-    "id": "91138a901048",
-    "title_en": "Oil Prices Steady as Hormuz Tanker Threats Offset Supply Glut Fears",
-    "title_zh": "霍尔木兹油轮威胁抵消供应过剩担忧，油价保持稳定",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Steady-as-Hormuz-Tanker-Threats-Offset-Supply-Glut-Fears.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T06:00:00+00:00"
-  },
-  "b15422f9cada": {
-    "id": "b15422f9cada",
-    "title_en": "The world’s biggest oil shock could give EVs and solar a boost",
-    "title_zh": "全球最大的石油危机可能会推动电动汽车和太阳能的发展",
-    "url": "https://electrek.co/2026/11/18/the-worlds-biggest-oil-shock-could-give-evs-and-solar-a-boost/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T05:00:00+00:00"
-  },
-  "aed1385b28d0": {
-    "id": "aed1385b28d0",
-    "title_en": "Almost 90% of Europe’s Battery Production at Risk from Franco-German Car Deal",
-    "title_zh": "欧洲近90%的电池生产面临法德汽车交易的风险",
-    "url": "https://cleantechnica.com/2026/11/18/almost-90-of-europes-battery-production-at-risk-from-franco-german-car-deal/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-19T04:58:55+00:00"
-  },
-  "2ff4ed6021cf": {
-    "id": "2ff4ed6021cf",
-    "title_en": "Musk Not MAGA! Claims To Be Moderate!",
-    "title_zh": "马斯克不是MAGA！自称温和！",
-    "url": "https://cleantechnica.com/2026/11/18/musk-not-maga-claims-to-be-moderate/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-19T04:57:27+00:00"
-  },
-  "85e60c469ab1": {
-    "id": "85e60c469ab1",
-    "title_en": "Biofuels in the EU Post-2030 Renewable Energy Framework",
-    "title_zh": "欧盟2030年后可再生能源框架中的生物燃料",
-    "url": "https://cleantechnica.com/2026/11/18/biofuels-in-the-eu-post-2030-renewable-energy-framework/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-19T04:55:37+00:00"
   }
 }
