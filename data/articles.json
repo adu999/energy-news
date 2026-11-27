@@ -1,4 +1,103 @@
 {
+  "001e5cef0076": {
+    "id": "001e5cef0076",
+    "title_en": "Australia’s rooftop solar installs record 890MW in Q3 2026, says CER",
+    "title_zh": "CER表示，澳大利亚2026年第三季度屋顶太阳能安装量创下890MW的纪录",
+    "url": "https://www.pv-tech.org/australias-rooftop-solar-installs-record-890mw-q3-2026-cer/",
+    "source": "PV-Tech",
+    "category": "太阳能",
+    "pub_ts": "2026-11-27T06:04:04+00:00"
+  },
+  "82cb574d1100": {
+    "id": "82cb574d1100",
+    "title_en": "Oil Prices Climb as Middle East Supply Risks Overshadow Glut Fears",
+    "title_zh": "油价攀升，中东供应风险掩盖了对麸质的担忧",
+    "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Climb-as-Middle-East-Supply-Risks-Overshadow-Glut-Fears.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-27T05:18:44+00:00"
+  },
+  "05d853e2bed8": {
+    "id": "05d853e2bed8",
+    "title_en": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+    "title_zh": "欧洲议会使欧盟更接近健全的投资政策",
+    "url": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-27T04:57:21+00:00"
+  },
+  "9ef714496fdf": {
+    "id": "9ef714496fdf",
+    "title_en": "High-Flying Influencers",
+    "title_zh": "高飞影响者",
+    "url": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-27T04:53:00+00:00"
+  },
+  "d05d257dc536": {
+    "id": "d05d257dc536",
+    "title_en": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
+    "title_zh": "每年乘坐飞机超过7万公里：旅行影响者正在消耗他们的碳预算，并鼓励欧洲人也这样做",
+    "url": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-27T04:50:29+00:00"
+  },
+  "afd2e5497181": {
+    "id": "afd2e5497181",
+    "title_en": "Standard Chartered: Oil Needs a New Shock to Fall Further",
+    "title_zh": "渣打银行：油价需要新的冲击才能进一步下跌",
+    "url": "https://oilprice.com/Energy/Oil-Prices/Standard-Chartered-Oil-Needs-a-New-Shock-to-Fall-Further.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-27T01:00:00+00:00"
+  },
+  "4d17f3f96be5": {
+    "id": "4d17f3f96be5",
+    "title_en": "Celebrating Cultures And Equity On Thanksgiving Day",
+    "title_zh": "感恩节庆祝文化和公平",
+    "url": "https://cleantechnica.com/2026/11/26/celebrating-cultures-and-equity-on-thanksgiving-day/",
+    "source": "CleanTechnica",
+    "category": "综合",
+    "pub_ts": "2026-11-27T00:26:38+00:00"
+  },
+  "70e5dbbda42b": {
+    "id": "70e5dbbda42b",
+    "title_en": "Ukraine's Strike in Benghazi Threatens the Deal That Keeps Libya at Peace",
+    "title_zh": "乌克兰在班加西的罢工威胁到维持利比亚和平的协议",
+    "url": "https://oilprice.com/Geopolitics/Africa/Ukraines-Strike-in-Benghazi-Threatens-the-Deal-That-Keeps-Libya-at-Peace.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-27T00:00:00+00:00"
+  },
+  "14d4e3d74823": {
+    "id": "14d4e3d74823",
+    "title_en": "NASA Wanted a 100-Kilowatt Reactor on the Moon but Is Settling for 20",
+    "title_zh": "美国国家航空航天局希望在月球上建造一个100千瓦的反应堆，但目前正在为20千瓦的反应堆做准备",
+    "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/NASA-Wanted-a-100-Kilowatt-Reactor-on-the-Moon-but-Is-Settling-for-20.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-27T00:00:00+00:00"
+  },
+  "7c63b322cca1": {
+    "id": "7c63b322cca1",
+    "title_en": "The Next Big Clean Energy Bet Borrows Its Drilling Tech From Big Oil",
+    "title_zh": "下一个大型清洁能源赌注借鉴了大型石油公司的钻井技术",
+    "url": "https://oilprice.com/Energy/Energy-General/The-Next-Big-Clean-Energy-Bet-Borrows-Its-Drilling-Tech-From-Big-Oil.html",
+    "source": "Oil Price",
+    "category": "油气",
+    "pub_ts": "2026-11-26T22:00:00+00:00"
+  },
+  "606dba92d17e": {
+    "id": "606dba92d17e",
+    "title_en": "Ireland could allow plug-in solar by mid-2027",
+    "title_zh": "爱尔兰可能在2022年中期允许插电式太阳能",
+    "url": "https://www.pv-magazine.com/2026/11/26/ireland-could-allow-plug-in-solar-by-mid-2027/",
+    "source": "PV Magazine",
+    "category": "太阳能",
+    "pub_ts": "2026-11-26T21:30:00+00:00"
+  },
   "cec56c33c96d": {
     "id": "cec56c33c96d",
     "title_en": "Why Making Electricity From Seawater Has Failed",
@@ -4399,104 +4498,5 @@
     "source": "World Nuclear News",
     "category": "核能",
     "pub_ts": "2026-11-19T16:39:51+00:00"
-  },
-  "97b0e200cf04": {
-    "id": "97b0e200cf04",
-    "title_en": "Korean and French firms to pursue solar tech for space-based AI data centres",
-    "title_zh": "韩国和法国公司将为天基人工智能数据中心寻求太阳能技术",
-    "url": "https://www.pv-tech.org/flexell-alatyr-solar-tech-space-based-ai-data-centres/",
-    "source": "PV-Tech",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T16:38:11+00:00"
-  },
-  "f2897d93eabc": {
-    "id": "f2897d93eabc",
-    "title_en": "Carlyle and Orlen Team Up to Hunt for Energy Deals Across Europe",
-    "title_zh": "凯雷和Orlen联手在欧洲各地寻找能源交易",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Carlyle-and-Orlen-Team-Up-to-Hunt-for-Energy-Deals-Across-Europe.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T16:30:00+00:00"
-  },
-  "f040e1d034b8": {
-    "id": "f040e1d034b8",
-    "title_en": "BYD’s folding steering wheel isn’t a concept — it’s in a $49K SUV now",
-    "title_zh": "比亚迪的折叠方向盘不是一个概念——它现在在一辆价值4.9万美元的SUV中",
-    "url": "https://electrek.co/2026/11/19/byd-folding-steering-wheel-tai-9-production/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T16:24:52+00:00"
-  },
-  "a4e90f828b6d": {
-    "id": "a4e90f828b6d",
-    "title_en": "‘The biggest change is scale’: Giga Storage on evolution of BESS asset management in Europe",
-    "title_zh": "“最大的变化是规模”：Giga Storage谈欧洲BESS资产管理的演变",
-    "url": "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/",
-    "source": "Energy Storage News",
-    "category": "储能",
-    "pub_ts": "2026-11-19T16:14:12+00:00"
-  },
-  "985af015006b": {
-    "id": "985af015006b",
-    "title_en": "AI Jitters Haven't Slowed the Bet on U.S. Power Demand",
-    "title_zh": "人工智能抖动并没有减缓对美国电力需求的押注",
-    "url": "https://oilprice.com/Energy/Energy-General/AI-Jitters-Havent-Slowed-the-Bet-on-US-Power-Demand.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T16:00:00+00:00"
-  },
-  "4288dd2d1334": {
-    "id": "4288dd2d1334",
-    "title_en": "The Volkswagen ID. Buzz Beach is an electric van built for camping, but it’s not cheap",
-    "title_zh": "大众ID Buzz Beach是一款专为露营而打造的电动面包车，但并不便宜",
-    "url": "https://electrek.co/2026/11/19/vw-reveals-id-buzz-beach-ev-camper-van-not-cheap/",
-    "source": "Electrek",
-    "category": "EV",
-    "pub_ts": "2026-11-19T15:51:28+00:00"
-  },
-  "d317337cb261": {
-    "id": "d317337cb261",
-    "title_en": "Venezuela Turns to AI to Cut Methane Leaks",
-    "title_zh": "委内瑞拉转向人工智能以减少甲烷泄漏",
-    "url": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Turns-to-AI-to-Cut-Methane-Leaks.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T15:30:00+00:00"
-  },
-  "786172572395": {
-    "id": "786172572395",
-    "title_en": "SolarEdge debuts dual-module power optimizer",
-    "title_zh": "SolarEdge推出双模块功率优化器",
-    "url": "https://www.pv-magazine.com/2026/11/19/solaredge-debuts-duo-power-optimizer-at-re/",
-    "source": "PV Magazine",
-    "category": "太阳能",
-    "pub_ts": "2026-11-19T15:00:00+00:00"
-  },
-  "c6d0a9cb131c": {
-    "id": "c6d0a9cb131c",
-    "title_en": "Last Chance to Get It Right: The Industrial Accelerator Act Will Make or Break Europe’s Battery Industry",
-    "title_zh": "最后一次机会：工业加速器法案将决定欧洲电池行业的成败",
-    "url": "https://cleantechnica.com/2026/11/19/last-chance-to-get-it-right-the-industrial-accelerator-act-will-make-or-break-europes-battery-industry/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-19T14:53:38+00:00"
-  },
-  "2ef14b606543": {
-    "id": "2ef14b606543",
-    "title_en": "The Return Of Project Hail Mary … And Next Steps For Artemis, Too",
-    "title_zh": "Hail Mary项目的回归……以及阿尔忒弥斯的下一步行动",
-    "url": "https://cleantechnica.com/2026/11/19/the-return-of-project-hail-mary-and-next-steps-for-artemis-too/",
-    "source": "CleanTechnica",
-    "category": "综合",
-    "pub_ts": "2026-11-19T14:34:06+00:00"
-  },
-  "5d55da73c2bc": {
-    "id": "5d55da73c2bc",
-    "title_en": "Russia Faces a Logistics Nightmare After Crimea Bridge Collapse",
-    "title_zh": "克里米亚大桥倒塌后，俄罗斯面临物流噩梦",
-    "url": "https://oilprice.com/Geopolitics/Europe/Russia-Faces-a-Logistics-Nightmare-After-Crimea-Bridge-Collapse.html",
-    "source": "Oil Price",
-    "category": "油气",
-    "pub_ts": "2026-11-19T14:30:00+00:00"
   }
 }
